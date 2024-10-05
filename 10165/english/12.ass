@@ -1,0 +1,355 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top Italic,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.04,0:00:09.42,Default,,0000,0000,0000,,{\an8}"Scorching" {\an}
+Dialogue: 0,0:00:10.67,0:00:11.55,Default,,0000,0000,0000,,{\an8}"Sold Out" {\an}
+Dialogue: 0,0:00:19.43,0:00:21.56,Default,,0000,0000,0000,,Man, it's so hot.
+Dialogue: 0,0:00:21.56,0:00:23.18,Default,,0000,0000,0000,,Too hot!
+Dialogue: 0,0:00:24.19,0:00:28.65,Default,,0000,0000,0000,,Tanaka, all you've been saying\Nis "It's hot" for a while now.
+Dialogue: 0,0:00:28.65,0:00:32.94,Default,,0000,0000,0000,,It's hot enough already, so if you\Nsay it's hot, it feels even hotter.
+Dialogue: 0,0:00:32.94,0:00:35.11,Default,,0000,0000,0000,,So no more saying it's hot.
+Dialogue: 0,0:00:35.11,0:00:36.82,Default,,0000,0000,0000,,Okay, okay.
+Dialogue: 0,0:00:37.74,0:00:40.83,Default,,0000,0000,0000,,Man, it's scorching.
+Dialogue: 0,0:00:40.83,0:00:43.25,Default,,0000,0000,0000,,This summer sure is scorching.
+Dialogue: 0,0:00:43.25,0:00:44.66,Default,,0000,0000,0000,,You know?
+Dialogue: 0,0:00:44.66,0:00:46.67,Default,,0000,0000,0000,,Man, it's so scorching.
+Dialogue: 0,0:00:46.67,0:00:48.84,Default,,0000,0000,0000,,Why's it so scorching?! Scorching!
+Dialogue: 0,0:00:48.84,0:00:50.50,Default,,0000,0000,0000,,It's so scorching!
+Dialogue: 0,0:00:50.50,0:00:52.88,Default,,0000,0000,0000,,I may just have to punch him...
+Dialogue: 0,0:00:52.88,0:00:55.68,Default,,0000,0000,0000,,It's scorching! So scorching!
+Dialogue: 0,0:00:55.68,0:00:57.97,Default,,0000,0000,0000,,It really is scorching!
+Dialogue: 0,0:01:10.11,0:01:12.82,Default,,0000,0000,0000,,{\i1}I realized just this very moment{\i0}
+Dialogue: 0,0:01:12.82,0:01:15.49,Default,,0000,0000,0000,,{\i1}I think I might have fallen in love{\i0}
+Dialogue: 0,0:01:15.49,0:01:17.95,Default,,0000,0000,0000,,{\i1}24 hours a day of you you you{\i0}
+Dialogue: 0,0:01:17.95,0:01:19.95,Default,,0000,0000,0000,,{\i1}I can't get you out of my head!{\i0}
+Dialogue: 0,0:01:19.95,0:01:22.58,Default,,0000,0000,0000,,{\i1}Something (something) feels different now{\i0}
+Dialogue: 0,0:01:22.58,0:01:25.21,Default,,0000,0000,0000,,{\i1}With you (together) it's awkward conversation{\i0}
+Dialogue: 0,0:01:25.21,0:01:27.96,Default,,0000,0000,0000,,{\i1}Is it (mutual love) no it's one-sided love{\i0}
+Dialogue: 0,0:01:27.96,0:01:30.25,Default,,0000,0000,0000,,{\i1}Uh-oh I think our eyes just met!{\i0}
+Dialogue: 0,0:01:31.46,0:01:34.38,Default,,0000,0000,0000,,{\i1}What is this anxious nervous feeling?{\i0}
+Dialogue: 0,0:01:36.68,0:01:39.97,Default,,0000,0000,0000,,{\i1}My train of thought is tangled with confusion...{\i0}
+Dialogue: 0,0:01:41.39,0:01:47.10,Default,,0000,0000,0000,,{\i1}This kind of thing is a first for me{\i0}
+Dialogue: 0,0:01:47.10,0:01:50.48,Default,,0000,0000,0000,,{\i1}Could it be a fever and I'm sick?{\i0}
+Dialogue: 0,0:01:51.77,0:01:54.57,Default,,0000,0000,0000,,{\i1}With a sudden twist it's awakened love{\i0}
+Dialogue: 0,0:01:54.57,0:01:57.28,Default,,0000,0000,0000,,{\i1}There's a fire in my cheeks and my face is all red{\i0}
+Dialogue: 0,0:01:57.28,0:01:59.95,Default,,0000,0000,0000,,{\i1}Th-Th-This can't be real, my hands are trembling{\i0}
+Dialogue: 0,0:01:59.95,0:02:02.62,Default,,0000,0000,0000,,{\i1}Is this what people mean when they talk about "love"?{\i0}
+Dialogue: 0,0:02:02.62,0:02:05.25,Default,,0000,0000,0000,,{\i1}I-I-I'm stuttering non-stop talking to you{\i0}
+Dialogue: 0,0:02:05.25,0:02:07.96,Default,,0000,0000,0000,,{\i1}Awkward silence and then mumble-mumble-mo{\i0}
+Dialogue: 0,0:02:07.96,0:02:10.63,Default,,0000,0000,0000,,{\i1}I wanna (I wanna) know how you feel about me{\i0}
+Dialogue: 0,0:02:10.63,0:02:13.42,Default,,0000,0000,0000,,{\i1}O-O-O-One one-sided love{\i0}
+Dialogue: 0,0:02:13.42,0:02:16.30,Default,,0000,0000,0000,,{\i1}First love! Every day on the path to school{\i0}
+Dialogue: 0,0:02:16.30,0:02:19.76,Default,,0000,0000,0000,,{\i1}Sparkle-sparkle dazzling I DO fall in love!{\i0}
+Dialogue: 0,0:02:19.76,0:02:22.43,Default,,0000,0000,0000,,{\i1}It's like I'm flying through the sky{\i0}
+Dialogue: 0,0:02:22.43,0:02:25.60,Default,,0000,0000,0000,,{\i1}O-O-O-One one-sided love{\i0}
+Dialogue: 0,0:02:30.23,0:02:31.94,Default,,0000,0000,0000,,Shiny!
+Dialogue: 0,0:02:31.94,0:02:35.36,Default,,0000,0000,0000,,Today, anything and everything is sparkling!
+Dialogue: 0,0:02:36.90,0:02:39.90,Default,,0000,0000,0000,,The air, the people, and...
+Dialogue: 0,0:02:39.90,0:02:42.45,Default,,0000,0000,0000,,...even the classroom!
+Dialogue: 0,0:02:42.45,0:02:44.41,Default,,0000,0000,0000,,That's because...
+Dialogue: 0,0:02:44.41,0:02:48.25,Default,,0000,0000,0000,,Today, I actually completed my homework!
+Dialogue: 0,0:02:49.96,0:02:52.50,Default,,0000,0000,0000,,I've gotta show this off to Mio.
+Dialogue: 0,0:02:57.92,0:03:01.18,Default,,0000,0000,0000,,What? Whaaat...?
+Dialogue: 0,0:03:01.18,0:03:01.72,Default,,0000,0000,0000,,Wh-Wh-What?
+Dialogue: 0,0:03:01.72,0:03:02.89,Default,,0000,0000,0000,,"My Ordinary Life 48"\NWh-Wh-What?
+Dialogue: 0,0:03:02.89,0:03:05.18,Default,,0000,0000,0000,,"My Ordinary Life 48"\NWh-Wh-What?!
+Dialogue: 0,0:03:10.35,0:03:12.48,Default,,0000,0000,0000,,No, no, no! It can't be!
+Dialogue: 0,0:03:12.48,0:03:15.15,Default,,0000,0000,0000,,The one time I actually did my homework?!
+Dialogue: 0,0:03:15.15,0:03:16.90,Default,,0000,0000,0000,,Why? Why, why?!
+Dialogue: 0,0:03:16.90,0:03:18.90,Default,,0000,0000,0000,,Why isn't it here?!
+Dialogue: 0,0:03:19.86,0:03:22.20,Default,,0000,0000,0000,,Well, I guess it's fine if I copy it.
+Dialogue: 0,0:03:22.20,0:03:23.95,Default,,0000,0000,0000,,Hey, Mio!
+Dialogue: 0,0:03:25.45,0:03:27.04,Default,,0000,0000,0000,,Wait...
+Dialogue: 0,0:03:27.04,0:03:29.58,Default,,0000,0000,0000,,Wait a sec... Wait!
+Dialogue: 0,0:03:29.58,0:03:33.12,Default,,0000,0000,0000,,Our homework... was a printout!
+Dialogue: 0,0:03:38.84,0:03:41.80,Default,,0000,0000,0000,,What's wrong, Yuuko?\NYou're noisy this morning.
+Dialogue: 0,0:03:41.80,0:03:43.22,Default,,0000,0000,0000,,The homework...
+Dialogue: 0,0:03:43.22,0:03:44.64,Default,,0000,0000,0000,,I forgot it...
+Dialogue: 0,0:03:44.64,0:03:48.56,Default,,0000,0000,0000,,Can the aliens please come invade now?
+Dialogue: 0,0:03:48.56,0:03:50.52,Default,,0000,0000,0000,,You forgot your homework again?
+Dialogue: 0,0:03:50.52,0:03:53.52,Default,,0000,0000,0000,,Don't make fun of me! I did it, but I forgot it!
+Dialogue: 0,0:03:53.52,0:03:55.81,Default,,0000,0000,0000,,I'm not making fun of you.
+Dialogue: 0,0:03:55.81,0:03:58.07,Default,,0000,0000,0000,,It's the language printout, right?
+Dialogue: 0,0:03:58.07,0:04:00.69,Default,,0000,0000,0000,,Maybe you jammed it\Ninside a book or something.
+Dialogue: 0,0:04:00.69,0:04:02.49,Default,,0000,0000,0000,,Did you look for it?
+Dialogue: 0,0:04:02.49,0:04:05.49,Default,,0000,0000,0000,,I just searched for it a minute ago.
+Dialogue: 0,0:04:05.49,0:04:06.95,Default,,0000,0000,0000,,It's definitely not--
+Dialogue: 0,0:04:09.62,0:04:11.79,Default,,0000,0000,0000,,{\an8}"Geography" {\an}
+Dialogue: 0,0:04:12.83,0:04:13.87,Default,,0000,0000,0000,,{\an8}"Neighborhood Association"\N"Daifuku Fair"{\an}
+Dialogue: 0,0:04:13.96,0:04:16.04,Default,,0000,0000,0000,,My God!
+Dialogue: 0,0:04:16.04,0:04:19.42,Default,,0000,0000,0000,,What the hell is a Daifuku Fair?!
+Dialogue: 0,0:04:19.42,0:04:21.38,Default,,0000,0000,0000,,What's that... stupid fair...
+Dialogue: 0,0:04:21.38,0:04:23.22,Default,,0000,0000,0000,,W-Well...
+Dialogue: 0,0:04:23.22,0:04:27.39,Default,,0000,0000,0000,,Maybe they left a printout\Nyou can use in the front desk.
+Dialogue: 0,0:04:29.93,0:04:31.64,Default,,0000,0000,0000,,You're kidding! You really found one?!
+Dialogue: 0,0:04:31.64,0:04:34.14,Default,,0000,0000,0000,,{\an8}"Daifuku Fair" {\an}
+Dialogue: 0,0:04:34.23,0:04:36.81,Default,,0000,0000,0000,,Dammit!
+Dialogue: 0,0:04:36.81,0:04:40.86,Default,,0000,0000,0000,,Dammit, dammit! Son of a dammit!
+Dialogue: 0,0:04:40.86,0:04:43.24,Default,,0000,0000,0000,,You're going to get it?\NYou won't make it in time!
+Dialogue: 0,0:04:47.87,0:04:50.74,Default,,0000,0000,0000,,Even so, I must go!
+Dialogue: 0,0:04:58.25,0:04:59.96,Default,,0000,0000,0000,,Hey, class is about to start.
+Dialogue: 0,0:04:59.96,0:05:00.96,Default,,0000,0000,0000,,Get to your seats.
+Dialogue: 0,0:05:05.43,0:05:08.43,Default,,0000,0000,0000,,{\an8}"Idiom" {\an}
+Dialogue: 0,0:05:45.05,0:05:48.18,Default,,0000,0000,0000,,Roll, roll, roll, roll, roll...
+Dialogue: 0,0:05:48.18,0:05:50.39,Default,,0000,0000,0000,,Spin, spin, spin, spin, spin...
+Dialogue: 0,0:05:50.39,0:05:52.93,Default,,0000,0000,0000,,Rush and you'll spin your wheels.
+Dialogue: 0,0:05:53.47,0:05:55.89,Default,,0000,0000,0000,,{\an8}"My Ordinary Life 49" {\an}
+Dialogue: 0,0:05:55.89,0:05:58.31,Default,,0000,0000,0000,,"Go+Soccer Club"\NHe made me stand outside again...
+Dialogue: 0,0:05:58.31,0:06:02.61,Default,,0000,0000,0000,,Why is it that every time\NI forget my homework?
+Dialogue: 0,0:06:02.61,0:06:05.69,Default,,0000,0000,0000,,I even did it today, but then I forgot it...
+Dialogue: 0,0:06:05.69,0:06:07.95,Default,,0000,0000,0000,,God, you cruel fool!
+Dialogue: 0,0:06:30.09,0:06:30.59,Default,,0000,0000,0000,,"Shinonome Lab"
+Dialogue: 0,0:06:30.59,0:06:33.30,Default,,0000,0000,0000,,"Business Card" "Shinonome Lab"
+Dialogue: 0,0:06:33.30,0:06:35.10,Default,,0000,0000,0000,,"Business Card" Sakamoto.
+Dialogue: 0,0:06:36.68,0:06:38.60,Default,,0000,0000,0000,,Here's my business card.
+Dialogue: 0,0:06:39.35,0:06:40.77,Default,,0000,0000,0000,,"Hakase"
+Dialogue: 0,0:06:40.77,0:06:43.52,Default,,0000,0000,0000,,"Hakase"\NWhat's this about? What do I say?
+Dialogue: 0,0:06:46.90,0:06:47.99,Default,,0000,0000,0000,,What's this about?
+Dialogue: 0,0:06:49.11,0:06:49.99,Default,,0000,0000,0000,,{\an8}"Hakase" {\an}
+Dialogue: 0,0:06:50.16,0:06:51.82,Default,,0000,0000,0000,,What do I say?!
+Dialogue: 0,0:06:53.78,0:06:57.75,Default,,0000,0000,0000,,{\an8}"Vending Machine" {\an}
+Dialogue: 0,0:07:02.42,0:07:04.17,Default,,0000,0000,0000,,{\an8}"Sports Cider" "H Cider" "Apple" "Black"{\an}
+Dialogue: 0,0:07:07.96,0:07:08.97,Default,,0000,0000,0000,,Sorry!
+Dialogue: 0,0:07:10.63,0:07:12.97,Default,,0000,0000,0000,,What's the matter, Misato Tachibana?
+Dialogue: 0,0:07:14.26,0:07:15.93,Default,,0000,0000,0000,,Wh-What?
+Dialogue: 0,0:07:15.93,0:07:20.27,Default,,0000,0000,0000,,New drinks came out, so I was\Njust pondering which one to get.
+Dialogue: 0,0:07:21.56,0:07:22.94,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:07:22.94,0:07:23.81,Default,,0000,0000,0000,,Then, this...
+Dialogue: 0,0:07:23.81,0:07:26.32,Default,,0000,0000,0000,,I'm not going along with what you say.
+Dialogue: 0,0:07:26.32,0:07:28.40,Default,,0000,0000,0000,,...one is rather awful.
+Dialogue: 0,0:07:28.40,0:07:30.78,Default,,0000,0000,0000,,So I recommend the one next to it.
+Dialogue: 0,0:07:33.87,0:07:35.20,Default,,0000,0000,0000,,Sorry to bother you.
+Dialogue: 0,0:07:43.38,0:07:46.63,Default,,0000,0000,0000,,I-It's not like I bought it\Nbecause you suggested it!
+Dialogue: 0,0:08:02.52,0:08:03.06,Default,,0000,0000,0000,,When I heard there were stalls in
+Dialogue: 0,0:08:03.06,0:08:04.65,Default,,0000,0000,0000,,"My Ordinary Life 50"\NWhen I heard there were stalls in
+Dialogue: 0,0:08:04.65,0:08:07.19,Default,,0000,0000,0000,,"My Ordinary Life 50"\Nthe neighborhood, I went to check it out.
+Dialogue: 0,0:08:07.19,0:08:09.94,Default,,0000,0000,0000,,But what I really came for\Nwas the shooting game.
+Dialogue: 0,0:08:09.94,0:08:14.24,Default,,0000,0000,0000,,I've only ever seen it on TV,\Nso I'm really excited to play.
+Dialogue: 0,0:08:14.24,0:08:17.24,Default,,0000,0000,0000,,But all I brought is 500 yen...
+Dialogue: 0,0:08:17.24,0:08:18.66,Default,,0000,0000,0000,,Will it be enough?
+Dialogue: 0,0:08:18.66,0:08:20.70,Default,,0000,0000,0000,,Hello. One go is 500 yen.
+Dialogue: 0,0:08:20.70,0:08:23.12,Default,,0000,0000,0000,,Lucky! I have exactly enough!
+Dialogue: 0,0:08:23.12,0:08:27.59,Default,,0000,0000,0000,,I wish I had enough for yakisoba, too,\Nbut this is what I came for.
+Dialogue: 0,0:08:33.63,0:08:35.76,Default,,0000,0000,0000,,It's all just eggplant and caramel...
+Dialogue: 0,0:08:37.14,0:08:38.89,Default,,0000,0000,0000,,Um...
+Dialogue: 0,0:08:38.89,0:08:40.64,Default,,0000,0000,0000,,Don't you have anything else?
+Dialogue: 0,0:08:40.64,0:08:42.64,Default,,0000,0000,0000,,Anything else? What's that?
+Dialogue: 0,0:08:42.64,0:08:45.65,Default,,0000,0000,0000,,It's all brand name goods here.
+Dialogue: 0,0:08:47.56,0:08:50.36,Default,,0000,0000,0000,,Well, I did already pay.
+Dialogue: 0,0:08:50.36,0:08:52.28,Default,,0000,0000,0000,,I can't leave without something.
+Dialogue: 0,0:09:02.83,0:09:06.54,Default,,0000,0000,0000,,Missy, you shouldn't aim for\Nthe big prize right away.
+Dialogue: 0,0:09:06.54,0:09:08.88,Default,,0000,0000,0000,,It's not that easy to knock over.
+Dialogue: 0,0:09:08.88,0:09:10.59,Default,,0000,0000,0000,,Big prize?
+Dialogue: 0,0:09:10.59,0:09:13.72,Default,,0000,0000,0000,,Why not aim for something easier to get?
+Dialogue: 0,0:09:14.72,0:09:16.09,Default,,0000,0000,0000,,Easier to get?
+Dialogue: 0,0:09:16.09,0:09:19.18,Default,,0000,0000,0000,,The only other choice is caramel though.
+Dialogue: 0,0:09:20.14,0:09:22.85,Default,,0000,0000,0000,,{\an8}"Daiku Caramel" {\an}
+Dialogue: 0,0:09:31.07,0:09:32.03,Default,,0000,0000,0000,,So close!
+Dialogue: 0,0:09:32.03,0:09:35.07,Default,,0000,0000,0000,,That caramel is totally stuck in place!
+Dialogue: 0,0:09:35.07,0:09:37.99,Default,,0000,0000,0000,,A little bit more and you had it!
+Dialogue: 0,0:09:37.99,0:09:40.49,Default,,0000,0000,0000,,You're pretty good at this, Missy.
+Dialogue: 0,0:09:40.49,0:09:43.58,Default,,0000,0000,0000,,Don't tell me you're a trained gunman?
+Dialogue: 0,0:09:43.58,0:09:44.87,Default,,0000,0000,0000,,Just kidding!
+Dialogue: 0,0:09:51.17,0:09:53.71,Default,,0000,0000,0000,,This eggplant isn't budging an inch!
+Dialogue: 0,0:09:53.71,0:09:56.55,Default,,0000,0000,0000,,What's the matter? Making such a pitiful face.
+Dialogue: 0,0:09:56.55,0:09:59.43,Default,,0000,0000,0000,,You're thinking I might be cheating you?
+Dialogue: 0,0:09:59.43,0:10:02.14,Default,,0000,0000,0000,,My stall is too cheap for such tricks.
+Dialogue: 0,0:10:02.14,0:10:05.39,Default,,0000,0000,0000,,But my spirit and honesty are authentic!
+Dialogue: 0,0:10:07.06,0:10:10.15,Default,,0000,0000,0000,,No way... There's totally\Nsomething going on here.
+Dialogue: 0,0:10:11.36,0:10:14.11,Default,,0000,0000,0000,,{\an8}"Knock Over and Win" "500 yen"{\an}
+Dialogue: 0,0:10:28.67,0:10:29.87,Default,,0000,0000,0000,,What's that?!
+Dialogue: 0,0:10:31.58,0:10:33.46,Default,,0000,0000,0000,,What?! Look! Look, what is that?!
+Dialogue: 0,0:10:33.46,0:10:36.92,Default,,0000,0000,0000,,A nail! I see a nail! A nail!
+Dialogue: 0,0:10:36.92,0:10:39.30,Default,,0000,0000,0000,,This is totally a fraud!
+Dialogue: 0,0:10:41.59,0:10:44.26,Default,,0000,0000,0000,,Hey! Why aren't you saying anything?!
+Dialogue: 0,0:10:44.26,0:10:47.73,Default,,0000,0000,0000,,You're not allowed to do stuff like that!
+Dialogue: 0,0:10:47.73,0:10:50.10,Default,,0000,0000,0000,,You were talking so much just a minute ago!
+Dialogue: 0,0:10:50.10,0:10:53.44,Default,,0000,0000,0000,,At this rate, I bet even\Nthe caramel is rigged, too!
+Dialogue: 0,0:10:55.11,0:10:56.82,Default,,0000,0000,0000,,You're just pretending to sleep!
+Dialogue: 0,0:10:56.82,0:11:00.45,Default,,0000,0000,0000,,I've still got a bullet left,\Nbut what's the point of shooting?!
+Dialogue: 0,0:11:11.62,0:11:15.63,Default,,0000,0000,0000,,{\an8}"Shooting Game" {\an}
+Dialogue: 0,0:11:29.48,0:11:30.89,Default,,0000,0000,0000,,Don't come back.
+Dialogue: 0,0:11:30.89,0:11:32.06,Default,,0000,0000,0000,,What the heck...?
+Dialogue: 0,0:11:38.69,0:11:40.86,Default,,0000,0000,0000,,Things that are cool!
+Dialogue: 0,0:11:46.95,0:11:48.24,Default,,0000,0000,0000,,{\an8}"Aioi" {\an}
+Dialogue: 0,0:11:48.75,0:11:50.75,Default,,0000,0000,0000,,Mio!
+Dialogue: 0,0:11:50.75,0:11:52.25,Default,,0000,0000,0000,,Here it comes!
+Dialogue: 0,0:11:55.59,0:11:57.34,Default,,0000,0000,0000,,{\an8}"Aioi" {\an}
+Dialogue: 0,0:12:02.72,0:12:04.93,Default,,0000,0000,0000,,Nice catch!
+Dialogue: 0,0:12:04.93,0:12:07.01,Default,,0000,0000,0000,,Oh! Super Ball!
+Dialogue: 0,0:12:17.07,0:12:19.15,Default,,0000,0000,0000,,Things that are cool!
+Dialogue: 0,0:12:28.16,0:12:30.62,Default,,0000,0000,0000,,Damn! So close!
+Dialogue: 0,0:12:56.77,0:12:58.11,Default,,0000,0000,0000,,Wow!
+Dialogue: 0,0:12:59.61,0:13:01.69,Default,,0000,0000,0000,,Oh! Slip stream!
+Dialogue: 0,0:13:09.20,0:13:10.41,Default,,0000,0000,0000,,Thanks!
+Dialogue: 0,0:13:14.29,0:13:16.92,Default,,0000,0000,0000,,I haven't been to\Nan amusement park in forever!
+Dialogue: 0,0:13:16.92,0:13:18.71,Default,,0000,0000,0000,,Isn't it great to come?
+Dialogue: 0,0:13:18.71,0:13:21.09,Default,,0000,0000,0000,,I want a drink so lend me my wallet.
+Dialogue: 0,0:13:21.09,0:13:22.55,Default,,0000,0000,0000,,Oh, that's right.
+Dialogue: 0,0:13:22.55,0:13:24.42,Default,,0000,0000,0000,,I forgot you had me hold onto it.
+Dialogue: 0,0:13:24.42,0:13:25.93,Default,,0000,0000,0000,,Sorry about that.
+Dialogue: 0,0:13:25.93,0:13:29.26,Default,,0000,0000,0000,,If I keep it, I'll probably lose it.
+Dialogue: 0,0:13:29.26,0:13:30.56,Default,,0000,0000,0000,,That's true.
+Dialogue: 0,0:13:32.97,0:13:34.06,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:13:34.06,0:13:35.31,Default,,0000,0000,0000,,Wh-What?
+Dialogue: 0,0:13:35.31,0:13:36.44,Default,,0000,0000,0000,,Wh-Wh-What?
+Dialogue: 0,0:13:36.44,0:13:38.19,Default,,0000,0000,0000,,What? Wh-Wh-What?
+Dialogue: 0,0:13:38.19,0:13:39.65,Default,,0000,0000,0000,,Wh-What?!
+Dialogue: 0,0:13:39.65,0:13:42.78,Default,,0000,0000,0000,,I-It should be right here...
+Dialogue: 0,0:13:48.62,0:13:51.03,Default,,0000,0000,0000,,I think I dropped your wallet.
+Dialogue: 0,0:13:51.58,0:13:55.37,Default,,0000,0000,0000,,{\an8}"My Ordinary Life 51" {\an}
+Dialogue: 0,0:13:59.21,0:14:00.34,Default,,0000,0000,0000,,H-Hey!
+Dialogue: 0,0:14:00.34,0:14:03.30,Default,,0000,0000,0000,,If we go to the Lost and Found,\Nit might be there!
+Dialogue: 0,0:14:05.97,0:14:07.59,Default,,0000,0000,0000,,How much was in it?
+Dialogue: 0,0:14:07.59,0:14:09.01,Default,,0000,0000,0000,,Four thousand, sixteen yen.
+Dialogue: 0,0:14:09.01,0:14:10.43,Default,,0000,0000,0000,,That's so precise...
+Dialogue: 0,0:14:10.43,0:14:12.64,Default,,0000,0000,0000,,"Lost And Found"\NUm, we're looking for a brown\Nwallet with snakeskin inside.
+Dialogue: 0,0:14:12.64,0:14:15.85,Default,,0000,0000,0000,,Um, we're looking for a brown\Nwallet with snakeskin inside.
+Dialogue: 0,0:14:15.85,0:14:17.48,Default,,0000,0000,0000,,There's one just like it.
+Dialogue: 0,0:14:19.81,0:14:22.44,Default,,0000,0000,0000,,Whew! Aren't you glad we found it?
+Dialogue: 0,0:14:23.36,0:14:26.78,Default,,0000,0000,0000,,I know! I thought it was gone for good!
+Dialogue: 0,0:14:28.03,0:14:31.66,Default,,0000,0000,0000,,This is an announcement\Nregarding a lost child.
+Dialogue: 0,0:14:31.66,0:14:36.08,Default,,0000,0000,0000,,A girl with denim shorts,\Na tucked denim shirt...
+Dialogue: 0,0:14:36.08,0:14:42.29,Default,,0000,0000,0000,,...and wearing a denim hat,\Nhas been found looking for her mother.
+Dialogue: 0,0:14:42.29,0:14:47.01,Default,,0000,0000,0000,,If you know this child, please come\Nto the lost child station immediately.
+Dialogue: 0,0:15:13.03,0:15:16.37,Default,,0000,0000,0000,,I'm so terrified of haunted houses!
+Dialogue: 0,0:15:18.46,0:15:19.71,Default,,0000,0000,0000,,It's coming!
+Dialogue: 0,0:15:26.88,0:15:28.42,Default,,0000,0000,0000,,I'm taking it!
+Dialogue: 0,0:15:30.93,0:15:32.43,Default,,0000,0000,0000,,{\an8}"Phantom Left Hook" {\an}
+Dialogue: 0,0:15:33.30,0:15:35.56,Default,,0000,0000,0000,,{\an8}"Phantom Left Hook" {\an}
+Dialogue: 0,0:15:57.08,0:16:00.08,Default,,0000,0000,0000,,{\an8}"Coffee Shop" "Daiku Cafe"{\an}
+Dialogue: 0,0:16:00.33,0:16:03.46,Default,,0000,0000,0000,,Three lattes. Will this be for carryout?
+Dialogue: 0,0:16:03.46,0:16:04.67,Default,,0000,0000,0000,,Uh...
+Dialogue: 0,0:16:04.67,0:16:05.96,Default,,0000,0000,0000,,Um!
+Dialogue: 0,0:16:05.96,0:16:07.00,Default,,0000,0000,0000,,I'd like this, this, and this, too, please.
+Dialogue: 0,0:16:07.00,0:16:10.38,Default,,0000,0000,0000,,"Izumi"\NI'd like this, this, and this, too, please.
+Dialogue: 0,0:16:10.38,0:16:14.76,Default,,0000,0000,0000,,Um, sorry. Could you please tell me the name?
+Dialogue: 0,0:16:15.85,0:16:17.01,Default,,0000,0000,0000,,It's Sakurai.
+Dialogue: 0,0:16:17.01,0:16:19.35,Default,,0000,0000,0000,,Um, that's not what I meant.
+Dialogue: 0,0:16:19.35,0:16:21.60,Default,,0000,0000,0000,,Oh, I'm so sorry.
+Dialogue: 0,0:16:21.60,0:16:24.31,Default,,0000,0000,0000,,It's Izumi. Izumi Sakurai.
+Dialogue: 0,0:16:24.31,0:16:27.94,Default,,0000,0000,0000,,No, I mean, I wasn't asking\Nthe name of yourself personally.
+Dialogue: 0,0:16:27.94,0:16:32.03,Default,,0000,0000,0000,,You know, people often say\NI have two last names.
+Dialogue: 0,0:16:32.03,0:16:37.12,Default,,0000,0000,0000,,Um... By name, I meant the name of the item.
+Dialogue: 0,0:16:37.12,0:16:40.16,Default,,0000,0000,0000,,The name of the item?
+Dialogue: 0,0:16:40.16,0:16:43.67,Default,,0000,0000,0000,,Sorry, but I don't really know it...
+Dialogue: 0,0:16:43.67,0:16:46.88,Default,,0000,0000,0000,,No, um... I'm very sorry.
+Dialogue: 0,0:16:50.26,0:16:53.26,Default,,0000,0000,0000,,{\an8}"Restaurant House"\N"Japanese Food Fair"{\an}
+Dialogue: 0,0:16:53.68,0:16:54.30,Default,,0000,0000,0000,,Whew. That was delicious.
+Dialogue: 0,0:16:54.30,0:16:55.72,Default,,0000,0000,0000,,"Chopstick Holder"\NWhew. That was delicious.
+Dialogue: 0,0:16:55.72,0:16:57.30,Default,,0000,0000,0000,,"Chopstick Holder" Yum, yum!
+Dialogue: 0,0:16:57.30,0:17:00.06,Default,,0000,0000,0000,,Now all that's left is for\Nour dessert to be served!
+Dialogue: 0,0:17:00.06,0:17:01.47,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:17:09.27,0:17:10.98,Default,,0000,0000,0000,,I'm doing one, too.
+Dialogue: 0,0:17:22.95,0:17:24.29,Default,,0000,0000,0000,,I'm done!
+Dialogue: 0,0:17:27.75,0:17:29.21,Default,,0000,0000,0000,,Me, too.
+Dialogue: 0,0:17:33.80,0:17:35.26,Default,,0000,0000,0000,,Wow! Cool!
+Dialogue: 0,0:17:35.26,0:17:37.05,Default,,0000,0000,0000,,Good one, Mai!
+Dialogue: 0,0:17:37.05,0:17:38.97,Default,,0000,0000,0000,,How's yours, Yuuko? Done?
+Dialogue: 0,0:17:47.44,0:17:48.69,Default,,0000,0000,0000,,Crane?
+Dialogue: 0,0:17:49.11,0:17:50.61,Default,,0000,0000,0000,,{\an8}“Shinonome Lab”{\an}
+Dialogue: 0,0:17:51.52,0:17:53.40,Default,,0000,0000,0000,,Nano! Look, look!
+Dialogue: 0,0:17:53.40,0:17:55.86,Default,,0000,0000,0000,,"My Ordinary Life 52" Ta-dah!
+Dialogue: 0,0:17:55.86,0:17:58.37,Default,,0000,0000,0000,,"My Ordinary Life 52"\NI put one on me, too!
+Dialogue: 0,0:17:58.37,0:18:00.91,Default,,0000,0000,0000,,Now that we match, we're like a pair!
+Dialogue: 0,0:18:00.91,0:18:02.33,Default,,0000,0000,0000,,I guess we are.
+Dialogue: 0,0:18:02.33,0:18:07.00,Default,,0000,0000,0000,,I'm going to be Nano all day,\Nso don't call me Hakase, okay?
+Dialogue: 0,0:18:07.00,0:18:08.96,Default,,0000,0000,0000,,All right, Nano.
+Dialogue: 0,0:18:12.09,0:18:13.63,Default,,0000,0000,0000,,That was fast!
+Dialogue: 0,0:18:13.63,0:18:15.51,Default,,0000,0000,0000,,Hakase, did you quit already?
+Dialogue: 0,0:18:15.51,0:18:19.18,Default,,0000,0000,0000,,Nano! You just called me Hakase!
+Dialogue: 0,0:18:19.18,0:18:22.93,Default,,0000,0000,0000,,Um, well that's because you took off the key...
+Dialogue: 0,0:18:22.93,0:18:25.77,Default,,0000,0000,0000,,I'm just taking a break right now!
+Dialogue: 0,0:18:27.73,0:18:30.31,Default,,0000,0000,0000,,I'm still being Nano all day!
+Dialogue: 0,0:18:30.31,0:18:31.69,Default,,0000,0000,0000,,All right.
+Dialogue: 0,0:18:41.37,0:18:43.41,Default,,0000,0000,0000,,Hakase, I mean...
+Dialogue: 0,0:18:43.41,0:18:45.95,Default,,0000,0000,0000,,Nano, do you want to play a game?
+Dialogue: 0,0:18:45.95,0:18:47.79,Default,,0000,0000,0000,,Sure! What kind?
+Dialogue: 0,0:18:47.79,0:18:50.13,Default,,0000,0000,0000,,You can be me and I can be you.
+Dialogue: 0,0:18:50.13,0:18:51.50,Default,,0000,0000,0000,,We'll switch roles!
+Dialogue: 0,0:18:51.50,0:18:52.84,Default,,0000,0000,0000,,For sure!
+Dialogue: 0,0:18:52.84,0:18:54.59,Default,,0000,0000,0000,,Okay, Hakase. I mean...
+Dialogue: 0,0:18:54.59,0:18:56.59,Default,,0000,0000,0000,,Nano has to wear the key, then.
+Dialogue: 0,0:18:56.59,0:18:57.80,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:18:58.80,0:19:02.72,Default,,0000,0000,0000,,And since I'm being Hakase,\Nlet's take the key off my back.
+Dialogue: 0,0:19:02.72,0:19:04.31,Default,,0000,0000,0000,,Not a chance.
+Dialogue: 0,0:19:04.31,0:19:07.73,Default,,0000,0000,0000,,Hey, hey! What game should we play?\NCards or something?
+Dialogue: 0,0:19:09.23,0:19:09.85,Default,,0000,0000,0000,,{\an8}"Yummy Snack" "SnaQ"{\an}
+Dialogue: 0,0:19:13.69,0:19:15.40,Default,,0000,0000,0000,,Ah, these snacks are tasty.
+Dialogue: 0,0:19:16.40,0:19:19.07,Default,,0000,0000,0000,,I was saving those snacks for later!
+Dialogue: 0,0:19:19.07,0:19:20.36,Default,,0000,0000,0000,,But now...
+Dialogue: 0,0:19:20.36,0:19:22.28,Default,,0000,0000,0000,,...I am...
+Dialogue: 0,0:19:22.28,0:19:23.74,Default,,0000,0000,0000,,...Hakase, so...
+Dialogue: 0,0:19:27.08,0:19:29.37,Default,,0000,0000,0000,,That doesn't make any sense!
+Dialogue: 0,0:19:29.37,0:19:34.71,Default,,0000,0000,0000,,I can be Nano, but if Nano is me and\Neats my snacks, Nano should just stay Nano!
+Dialogue: 0,0:19:39.38,0:19:42.26,Default,,0000,0000,0000,,Then since I'll be remaining as Nano...
+Dialogue: 0,0:19:42.26,0:19:46.10,Default,,0000,0000,0000,,...I'll be leaving to buy the meal for tonight.
+Dialogue: 0,0:19:46.10,0:19:47.97,Default,,0000,0000,0000,,“Shinonome Lab” I'm coming, too!
+Dialogue: 0,0:19:47.97,0:19:49.52,Default,,0000,0000,0000,,“Shinonome Lab”\NWe're not buying any snacks.
+Dialogue: 0,0:19:49.52,0:19:51.81,Default,,0000,0000,0000,,“Shinonome Lab”\NI want to buy shark chocolate and apple juice!
+Dialogue: 0,0:19:51.81,0:19:52.56,Default,,0000,0000,0000,,“Shinonome Lab” No way.
+Dialogue: 0,0:19:52.56,0:19:53.48,Default,,0000,0000,0000,,“Shinonome Lab” Let's buy some!
+Dialogue: 0,0:19:53.48,0:19:54.06,Default,,0000,0000,0000,,“Shinonome Lab” No.
+Dialogue: 0,0:19:54.06,0:19:56.40,Default,,0000,0000,0000,,--Hey. Don't forget my food again.\N--Shark chocolate and apple juice!
+Dialogue: 0,0:19:56.40,0:20:00.82,Default,,0000,0000,0000,,It's another peaceful day at\Nthe Shinonome household.
+Dialogue: 0,0:20:03.82,0:20:04.16,Default,,0000,0000,0000,,{\an8}"A Daiku Burger in every city!" "Delicious!"{\an}
+Dialogue: 0,0:20:04.16,0:20:07.33,Default,,0000,0000,0000,,{\an8}"Lunch Game"\N"A Daiku Burger in every city!" "Delicious!"{\an}
+Dialogue: 0,0:20:10.83,0:20:14.08,Default,,0000,0000,0000,,The first one to use an English word loses.
+Dialogue: 0,0:20:14.08,0:20:16.09,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:20:16.09,0:20:19.30,Default,,0000,0000,0000,,You just used English.
+Dialogue: 0,0:20:19.30,0:20:22.51,Default,,0000,0000,0000,,I'm safe because you didn't say start.
+Dialogue: 0,0:20:22.51,0:20:26.81,Default,,0000,0000,0000,,Should I speak a bunch of\NEnglish before we start?
+Dialogue: 0,0:20:27.81,0:20:30.10,Default,,0000,0000,0000,,You know a bunch of English?
+Dialogue: 0,0:20:41.53,0:20:42.57,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:20:46.12,0:20:48.20,Default,,0000,0000,0000,,{\an8}"Word-Time" {\an}
+Dialogue: 0,0:21:15.65,0:21:20.07,Default,,0000,0000,0000,,Carbonation makes drinks fizzy\Nwhich really seems to wake you up.
+Dialogue: 0,0:21:27.82,0:21:31.79,Default,,0000,0000,0000,,{\an8}"Unintended" {\an}
+Dialogue: 0,0:21:35.29,0:21:36.79,Default,,0000,0000,0000,,I fell asleep.
+Dialogue: 0,0:21:36.79,0:21:38.42,Default,,0000,0000,0000,,Oh?
+Dialogue: 0,0:21:38.42,0:21:40.88,Default,,0000,0000,0000,,The sleeping beauty wakes without a kiss.
+Dialogue: 0,0:21:44.26,0:21:45.26,Default,,0000,0000,0000,,Why?
+Dialogue: 0,0:21:50.60,0:21:52.56,Default,,0000,0000,0000,,Wh-Why what?
+Dialogue: 0,0:22:08.70,0:22:11.79,Default,,0000,0000,0000,,{\i1}Wake in the morning, teeth get a brushing{\i0}
+Dialogue: 0,0:22:11.79,0:22:14.87,Default,,0000,0000,0000,,{\i1}Before you know it, it's ten at night{\i0}
+Dialogue: 0,0:22:14.87,0:22:17.96,Default,,0000,0000,0000,,{\i1}Another day was full of laughter{\i0}
+Dialogue: 0,0:22:17.96,0:22:21.17,Default,,0000,0000,0000,,{\i1}Another day filled with joy{\i0}
+Dialogue: 0,0:22:21.17,0:22:24.21,Default,,0000,0000,0000,,{\i1}Goofing with friends and acting so silly{\i0}
+Dialogue: 0,0:22:24.21,0:22:27.34,Default,,0000,0000,0000,,{\i1}Making a ruckus and then I see{\i0}
+Dialogue: 0,0:22:27.34,0:22:30.43,Default,,0000,0000,0000,,{\i1}A glimpse from you and then our eyes meet{\i0}
+Dialogue: 0,0:22:30.43,0:22:33.14,Default,,0000,0000,0000,,{\i1}Coincidence, or not?{\i0}
+Dialogue: 0,0:22:33.14,0:22:36.69,Default,,0000,0000,0000,,{\i1}I won't ever admit it's first love{\i0}
+Dialogue: 0,0:22:36.69,0:22:39.73,Default,,0000,0000,0000,,{\i1}That's not something I would say{\i0}
+Dialogue: 0,0:22:39.73,0:22:45.90,Default,,0000,0000,0000,,{\i1}Hey, I'll see you again tomorrow too.{\i0}
+Dialogue: 0,0:22:45.90,0:22:48.99,Default,,0000,0000,0000,,{\i1}When I close my eyes I see{\i0}
+Dialogue: 0,0:22:48.99,0:22:52.12,Default,,0000,0000,0000,,{\i1}My vision sparkling, filled with you{\i0}
+Dialogue: 0,0:22:52.12,0:22:55.45,Default,,0000,0000,0000,,{\i1}Wasn't it so much fun today?{\i0}
+Dialogue: 0,0:22:55.45,0:23:00.08,Default,,0000,0000,0000,,{\i1}Ah, I think I'm in love{\i0}
+Dialogue: 0,0:23:04.75,0:23:07.88,Default,,0000,0000,0000,,{\i1}I'm so happy I'm so happy{\i0}
+Dialogue: 0,0:23:07.88,0:23:10.97,Default,,0000,0000,0000,,{\i1}Nice to meet you, awakening love{\i0}
+Dialogue: 0,0:23:10.97,0:23:14.10,Default,,0000,0000,0000,,{\i1}I'll see you again tomorrow too{\i0}
+Dialogue: 0,0:23:14.10,0:23:17.23,Default,,0000,0000,0000,,{\i1}Good night{\i0}
+Dialogue: 0,0:23:17.23,0:23:21.90,Default,,0000,0000,0000,,{\i1}I'll see you again soon in my dreams{\i0}
+Dialogue: 0,0:23:21.90,0:23:24.82,Default,,0000,0000,0000,,{\i1}Good night{\i0}
+Dialogue: 0,0:23:29.95,0:23:32.20,Default,,0000,0000,0000,,Welcome home, Master!
+Dialogue: 0,0:23:32.20,0:23:33.74,Default,,0000,0000,0000,,It's Cider-meow!
+Dialogue: 0,0:23:33.74,0:23:39.41,Default,,0000,0000,0000,,There's a magic spell sealed in\Nmy bubbles to make me tasty-meow!
+Dialogue: 0,0:23:39.41,0:23:41.92,Default,,0000,0000,0000,,{\an8}"Narration: Satomi Koorogi"\NThe next {\i1}My Ordinary Life {\i0}is Episode 13.{\an}
+Dialogue: 0,0:23:41.92,0:23:43.00,Default,,0000,0000,0000,,{\an8}"Narration: Satomi Koorogi"\NLook forward to it!{\an}

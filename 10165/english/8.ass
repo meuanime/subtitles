@@ -1,0 +1,337 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top Italic,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:09.75,0:00:12.47,Default,,0000,0000,0000,,{\an8}"Shinonome Lab" {\an}
+Dialogue: 0,0:01:00.89,0:01:03.02,Default,,0000,0000,0000,,What a beautiful day!
+Dialogue: 0,0:01:08.27,0:01:10.57,Default,,0000,0000,0000,,It's about time I wake Hakase up.
+Dialogue: 0,0:01:19.66,0:01:23.58,Default,,0000,0000,0000,,Maybe I'll go for a stroll\Nsomewhere after breakfast?
+Dialogue: 0,0:01:25.91,0:01:27.67,Default,,0000,0000,0000,,Huh? Hey!
+Dialogue: 0,0:01:45.77,0:01:48.48,Default,,0000,0000,0000,,{\i1}I realized just this very moment{\i0}
+Dialogue: 0,0:01:48.48,0:01:51.15,Default,,0000,0000,0000,,{\i1}I think I might have fallen in love{\i0}
+Dialogue: 0,0:01:51.15,0:01:53.61,Default,,0000,0000,0000,,{\i1}24 hours a day of you you you{\i0}
+Dialogue: 0,0:01:53.61,0:01:55.61,Default,,0000,0000,0000,,{\i1}I can't get you out of my head!{\i0}
+Dialogue: 0,0:01:55.61,0:01:58.24,Default,,0000,0000,0000,,{\i1}Something (something) feels different now{\i0}
+Dialogue: 0,0:01:58.24,0:02:00.87,Default,,0000,0000,0000,,{\i1}With you (together) it's awkward conversation{\i0}
+Dialogue: 0,0:02:00.87,0:02:03.62,Default,,0000,0000,0000,,{\i1}Is it (mutual love) no it's one-sided love{\i0}
+Dialogue: 0,0:02:03.62,0:02:05.91,Default,,0000,0000,0000,,{\i1}Uh-oh I think our eyes just met!{\i0}
+Dialogue: 0,0:02:07.12,0:02:10.04,Default,,0000,0000,0000,,{\i1}What is this anxious nervous feeling?{\i0}
+Dialogue: 0,0:02:12.34,0:02:15.63,Default,,0000,0000,0000,,{\i1}My train of thought is tangled with confusion...{\i0}
+Dialogue: 0,0:02:17.05,0:02:22.76,Default,,0000,0000,0000,,{\i1}This kind of thing is a first for me{\i0}
+Dialogue: 0,0:02:22.76,0:02:26.14,Default,,0000,0000,0000,,{\i1}Could it be a fever and I'm sick?{\i0}
+Dialogue: 0,0:02:27.43,0:02:30.23,Default,,0000,0000,0000,,{\i1}With a sudden twist it's awakened love{\i0}
+Dialogue: 0,0:02:30.23,0:02:32.94,Default,,0000,0000,0000,,{\i1}There's a fire in my cheeks and my face is all red{\i0}
+Dialogue: 0,0:02:32.94,0:02:35.61,Default,,0000,0000,0000,,{\i1}Th-Th-This can't be real, my hands are trembling{\i0}
+Dialogue: 0,0:02:35.61,0:02:38.28,Default,,0000,0000,0000,,{\i1}Is this what people mean when they talk about "love"?{\i0}
+Dialogue: 0,0:02:38.28,0:02:40.91,Default,,0000,0000,0000,,{\i1}I-I-I'm stuttering non-stop talking to you{\i0}
+Dialogue: 0,0:02:40.91,0:02:43.62,Default,,0000,0000,0000,,{\i1}Awkward silence and then mumble-mumble-mo{\i0}
+Dialogue: 0,0:02:43.62,0:02:46.29,Default,,0000,0000,0000,,{\i1}I wanna (I wanna) know how you feel about me{\i0}
+Dialogue: 0,0:02:46.29,0:02:49.08,Default,,0000,0000,0000,,{\i1}O-O-O-One one-sided love{\i0}
+Dialogue: 0,0:02:49.08,0:02:51.96,Default,,0000,0000,0000,,{\i1}First love! Every day on the path to school{\i0}
+Dialogue: 0,0:02:51.96,0:02:55.42,Default,,0000,0000,0000,,{\i1}Sparkle-sparkle dazzling I DO fall in love!{\i0}
+Dialogue: 0,0:02:55.42,0:02:58.09,Default,,0000,0000,0000,,{\i1}It's like I'm flying through the sky{\i0}
+Dialogue: 0,0:02:58.09,0:03:01.26,Default,,0000,0000,0000,,{\i1}O-O-O-One one-sided love{\i0}
+Dialogue: 0,0:03:04.80,0:03:07.77,Default,,0000,0000,0000,,"My Ordinary Life 31"
+Dialogue: 0,0:03:10.44,0:03:12.77,Default,,0000,0000,0000,,Mio, Mai! {\i1}Selamat pagi{\i0}!
+Dialogue: 0,0:03:12.77,0:03:14.61,Default,,0000,0000,0000,,Oh, Yuuko. Good morning.
+Dialogue: 0,0:03:14.61,0:03:15.82,Default,,0000,0000,0000,,Good morning.
+Dialogue: 0,0:03:15.82,0:03:17.32,Default,,0000,0000,0000,,It's so sunny today.
+Dialogue: 0,0:03:17.32,0:03:19.94,Default,,0000,0000,0000,,Even though yesterday they said it would rain.
+Dialogue: 0,0:03:19.94,0:03:25.66,Default,,0000,0000,0000,,This type of weather is perfect\Nfor buying a keyboard.
+Dialogue: 0,0:03:25.66,0:03:27.04,Default,,0000,0000,0000,,Get it?
+Dialogue: 0,0:03:28.91,0:03:32.37,Default,,0000,0000,0000,,Wh-Wh-What? No reaction?
+Dialogue: 0,0:03:32.37,0:03:37.17,Default,,0000,0000,0000,,Th-These guys... They're so calm it's scary!
+Dialogue: 0,0:03:37.17,0:03:43.72,Default,,0000,0000,0000,,But maybe... Could they think\NI really want to go buy a keyboard?
+Dialogue: 0,0:03:43.72,0:03:46.64,Default,,0000,0000,0000,,Oh well. What a shame.
+Dialogue: 0,0:03:46.64,0:03:49.02,Default,,0000,0000,0000,,Maybe that joke was too hard for them.
+Dialogue: 0,0:03:49.02,0:03:51.69,Default,,0000,0000,0000,,I'll just have to make my jokes\Neasier to understand.
+Dialogue: 0,0:03:51.69,0:03:53.06,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:03:53.06,0:03:56.36,Default,,0000,0000,0000,,Gosh, it's so hot out!
+Dialogue: 0,0:03:56.36,0:03:58.23,Default,,0000,0000,0000,,But the weather's been so spotty...
+Dialogue: 0,0:03:58.23,0:04:00.69,Default,,0000,0000,0000,,...it'll give you patchy hair loss!
+Dialogue: 0,0:04:00.69,0:04:01.70,Default,,0000,0000,0000,,Get it?
+Dialogue: 0,0:04:02.40,0:04:05.03,Default,,0000,0000,0000,,Gah!
+Dialogue: 0,0:04:05.03,0:04:07.49,Default,,0000,0000,0000,,Scary! So scary!
+Dialogue: 0,0:04:07.49,0:04:10.08,Default,,0000,0000,0000,,The virtual world is scary!
+Dialogue: 0,0:04:10.08,0:04:11.91,Default,,0000,0000,0000,,But, yeah...
+Dialogue: 0,0:04:11.91,0:04:14.83,Default,,0000,0000,0000,,It wouldn't be very funny if\Nsomeone you know is going bald.
+Dialogue: 0,0:04:14.83,0:04:15.54,Default,,0000,0000,0000,,Come back!
+Dialogue: 0,0:04:15.54,0:04:17.92,Default,,0000,0000,0000,,No more jokes like that.
+Dialogue: 0,0:04:17.92,0:04:19.30,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:04:19.30,0:04:22.01,Default,,0000,0000,0000,,Is it time I unsheathed it?
+Dialogue: 0,0:04:22.01,0:04:24.55,Default,,0000,0000,0000,,My secret weapon?!
+Dialogue: 0,0:04:24.55,0:04:26.30,Default,,0000,0000,0000,,Hey, hey!
+Dialogue: 0,0:04:26.30,0:04:29.85,Default,,0000,0000,0000,,What's a thousand-leg insect\Nthat always asks for help?
+Dialogue: 0,0:04:31.35,0:04:32.98,Default,,0000,0000,0000,,That would be...
+Dialogue: 0,0:04:32.98,0:04:34.56,Default,,0000,0000,0000,,A centiplead!
+Dialogue: 0,0:04:34.56,0:04:36.06,Default,,0000,0000,0000,,Get it?
+Dialogue: 0,0:04:36.06,0:04:37.90,Default,,0000,0000,0000,,I'm shocked!
+Dialogue: 0,0:04:37.90,0:04:40.23,Default,,0000,0000,0000,,I'm so shocked...
+Dialogue: 0,0:04:40.23,0:04:44.49,Default,,0000,0000,0000,,What's with these two?\NHow can they keep such poker faces?
+Dialogue: 0,0:04:44.49,0:04:45.57,Default,,0000,0000,0000,,No, wait!
+Dialogue: 0,0:04:45.57,0:04:49.37,Default,,0000,0000,0000,,What if... they just didn't hear me?
+Dialogue: 0,0:04:49.37,0:04:53.12,Default,,0000,0000,0000,,Shucks! I guess it's nobody's fault, then.
+Dialogue: 0,0:04:53.12,0:04:53.83,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:04:53.83,0:04:55.37,Default,,0000,0000,0000,,Hey, hey, hey!
+Dialogue: 0,0:04:56.46,0:04:59.29,Default,,0000,0000,0000,,What's a thousand-leg insect\Nthat always asks for help?
+Dialogue: 0,0:04:59.29,0:05:01.55,Default,,0000,0000,0000,,They call it... a centiplead!
+Dialogue: 0,0:05:01.55,0:05:03.13,Default,,0000,0000,0000,,Get it?!
+Dialogue: 0,0:05:05.09,0:05:08.76,Default,,0000,0000,0000,,I-I didn't think they'd be such tough guys...
+Dialogue: 0,0:05:08.76,0:05:12.93,Default,,0000,0000,0000,,No... At this point they're more like monsters!
+Dialogue: 0,0:05:12.93,0:05:14.35,Default,,0000,0000,0000,,Maybe...
+Dialogue: 0,0:05:16.56,0:05:18.06,Default,,0000,0000,0000,,Maybe...
+Dialogue: 0,0:05:18.06,0:05:21.40,Default,,0000,0000,0000,,This is their way of saying\Nthis isn't good enough?
+Dialogue: 0,0:05:21.40,0:05:26.32,Default,,0000,0000,0000,,That I can... That I caaaan...
+Dialogue: 0,0:05:27.66,0:05:28.66,Default,,0000,0000,0000,,...do better?!
+Dialogue: 0,0:05:30.12,0:05:33.12,Default,,0000,0000,0000,,If I give up now...
+Dialogue: 0,0:05:33.12,0:05:36.41,Default,,0000,0000,0000,,If I admit defeat here...
+Dialogue: 0,0:05:36.41,0:05:39.50,Default,,0000,0000,0000,,I'll betray their expectations!
+Dialogue: 0,0:05:42.92,0:05:44.09,Default,,0000,0000,0000,,So...
+Dialogue: 0,0:05:45.76,0:05:46.93,Default,,0000,0000,0000,,I won't give up!
+Dialogue: 0,0:05:46.93,0:05:49.84,Default,,0000,0000,0000,,I'll never back down!
+Dialogue: 0,0:05:49.84,0:05:54.18,Default,,0000,0000,0000,,A tree fell in the forest, but don't worry!
+Dialogue: 0,0:05:55.73,0:05:57.69,Default,,0000,0000,0000,,It's oakey-dokey!
+Dialogue: 0,0:06:20.04,0:06:22.17,Default,,0000,0000,0000,,My bomb shelter is a blast!
+Dialogue: 0,0:06:22.63,0:06:24.67,Default,,0000,0000,0000,,Mimes use "V" as a conversation peace!
+Dialogue: 0,0:06:26.92,0:06:32.35,Default,,0000,0000,0000,,I'm sorry, mascara!
+Dialogue: 0,0:06:32.35,0:06:37.06,Default,,0000,0000,0000,,Let's make up!
+Dialogue: 0,0:06:46.32,0:06:48.07,Default,,0000,0000,0000,,So basically...
+Dialogue: 0,0:06:48.07,0:06:53.45,Default,,0000,0000,0000,,You can just substitute the X in the equation\Nthen plug and chug the answer.
+Dialogue: 0,0:06:53.45,0:06:55.16,Default,,0000,0000,0000,,Then this Y over here...
+Dialogue: 0,0:07:12.05,0:07:12.68,Default,,0000,0000,0000,,"Attack the stones. Protect your balls."
+Dialogue: 0,0:07:12.68,0:07:13.80,Default,,0000,0000,0000,,"Attack the stones. Protect your balls."
+Dialogue: 0,0:07:13.80,0:07:15.06,Default,,0000,0000,0000,,"Go+Soccer Club 5" President.
+Dialogue: 0,0:07:15.06,0:07:18.68,Default,,0000,0000,0000,,Ogi! It's been so long since\Nyou've shown your face!
+Dialogue: 0,0:07:18.68,0:07:20.98,Default,,0000,0000,0000,,You've been like a ghost\Nthese past three months.
+Dialogue: 0,0:07:20.98,0:07:22.60,Default,,0000,0000,0000,,How are you? Good?
+Dialogue: 0,0:07:22.60,0:07:23.40,Default,,0000,0000,0000,,Yeah...
+Dialogue: 0,0:07:23.40,0:07:26.94,Default,,0000,0000,0000,,You came at the perfect time!\NWe're totally bored here!
+Dialogue: 0,0:07:26.94,0:07:31.11,Default,,0000,0000,0000,,Want to play a game?\NHow about it? Some Ready-Set-Go?
+Dialogue: 0,0:07:31.11,0:07:32.70,Default,,0000,0000,0000,,I came to leave the club.
+Dialogue: 0,0:07:41.16,0:07:45.09,Default,,0000,0000,0000,,{\an8}"Popcorn" {\an}
+Dialogue: 0,0:07:55.30,0:07:56.76,Default,,0000,0000,0000,,{\an8}"Word-Time" {\an}
+Dialogue: 0,0:07:57.81,0:08:01.69,Default,,0000,0000,0000,,Why is it that right before a movie starts,
+Dialogue: 0,0:08:01.69,0:08:04.35,Default,,0000,0000,0000,,you get the sudden urge\Nto clear your throat?
+Dialogue: 0,0:08:12.86,0:08:14.41,Default,,0000,0000,0000,,But then, they just--
+Dialogue: 0,0:08:14.41,0:08:16.57,Default,,0000,0000,0000,,Weboshii! Fe!
+Dialogue: 0,0:08:16.57,0:08:17.74,Default,,0000,0000,0000,,Have you seen Sasahara?
+Dialogue: 0,0:08:17.74,0:08:18.83,Default,,0000,0000,0000,,Sasahara?
+Dialogue: 0,0:08:18.83,0:08:22.50,Default,,0000,0000,0000,,Yeah, I saw him going up the stairs to the roof.
+Dialogue: 0,0:08:22.50,0:08:23.96,Default,,0000,0000,0000,,Thanks!
+Dialogue: 0,0:08:23.96,0:08:26.38,Default,,0000,0000,0000,,Misato's so busy this morning.
+Dialogue: 0,0:08:26.38,0:08:28.21,Default,,0000,0000,0000,,That's youth for you.
+Dialogue: 0,0:08:28.21,0:08:30.46,Default,,0000,0000,0000,,Should we go and spy on her?
+Dialogue: 0,0:08:30.46,0:08:30.96,Default,,0000,0000,0000,,We might get to see something really juicy!
+Dialogue: 0,0:08:30.96,0:08:33.68,Default,,0000,0000,0000,,"My Ordinary Life 32"\NWe might get to see something really juicy!
+Dialogue: 0,0:08:42.81,0:08:46.73,Default,,0000,0000,0000,,In the deep blue sky, clouds drift\Nand linger above. It was a right hand.
+Dialogue: 0,0:08:46.73,0:08:47.94,Default,,0000,0000,0000,,Sasahara.
+Dialogue: 0,0:08:47.94,0:08:49.23,Default,,0000,0000,0000,,What a masterpiece!
+Dialogue: 0,0:08:51.36,0:08:54.78,Default,,0000,0000,0000,,Hey, Sasahara! Do you even\Nknow what you've done?
+Dialogue: 0,0:08:56.53,0:09:00.87,Default,,0000,0000,0000,,The weather was nice so I wrote\Na poem up here on the roof.
+Dialogue: 0,0:09:00.87,0:09:03.66,Default,,0000,0000,0000,,That's not what I mean. It's this. Look.
+Dialogue: 0,0:09:03.66,0:09:06.12,Default,,0000,0000,0000,,Don't you even recognize it?
+Dialogue: 0,0:09:06.12,0:09:08.13,Default,,0000,0000,0000,,Is that not one of mine?
+Dialogue: 0,0:09:08.13,0:09:10.21,Default,,0000,0000,0000,,Why do you have it, Misato Tachibana?
+Dialogue: 0,0:09:11.21,0:09:13.01,Default,,0000,0000,0000,,Don't misunderstand!
+Dialogue: 0,0:09:13.01,0:09:16.01,Default,,0000,0000,0000,,You tossed it like trash so I picked it up.
+Dialogue: 0,0:09:16.01,0:09:17.84,Default,,0000,0000,0000,,No, no. I never tossed it.
+Dialogue: 0,0:09:17.84,0:09:19.89,Default,,0000,0000,0000,,I dropped it by accident.
+Dialogue: 0,0:09:19.89,0:09:21.56,Default,,0000,0000,0000,,And this is not trash.
+Dialogue: 0,0:09:21.56,0:09:22.56,Default,,0000,0000,0000,,It's a handker--
+Dialogue: 0,0:09:23.73,0:09:26.77,Default,,0000,0000,0000,,Shut up! Everything of yours is trash!
+Dialogue: 0,0:09:26.77,0:09:29.56,Default,,0000,0000,0000,,How did you know it was me who dropped it?
+Dialogue: 0,0:09:29.56,0:09:32.07,Default,,0000,0000,0000,,Your house is in the opposite direction.
+Dialogue: 0,0:09:34.69,0:09:37.32,Default,,0000,0000,0000,,And you even ironed it.
+Dialogue: 0,0:09:45.00,0:09:48.50,Default,,0000,0000,0000,,D-Don't be stupid. You've got it all wrong.
+Dialogue: 0,0:09:48.50,0:09:51.00,Default,,0000,0000,0000,,I was wandering around\Nthinking about the world.
+Dialogue: 0,0:09:51.00,0:09:53.92,Default,,0000,0000,0000,,I just ended up near your street, that's all!
+Dialogue: 0,0:10:00.89,0:10:03.60,Default,,0000,0000,0000,,Thank you for this, Misato Tachibana.
+Dialogue: 0,0:10:13.61,0:10:17.61,Default,,0000,0000,0000,,You sure drop a lot of things in the morning.
+Dialogue: 0,0:10:17.61,0:10:21.03,Default,,0000,0000,0000,,I must not realize it myself, I suppose.
+Dialogue: 0,0:10:21.03,0:10:24.24,Default,,0000,0000,0000,,It'll be a problem if you keep\Nlittering around the city!
+Dialogue: 0,0:10:28.46,0:10:34.63,Default,,0000,0000,0000,,B-But I guess I could just pick up after you...
+Dialogue: 0,0:10:36.30,0:10:38.17,Default,,0000,0000,0000,,Don't get the wrong idea!
+Dialogue: 0,0:10:41.34,0:10:44.18,Default,,0000,0000,0000,,I'm only doing it to keep our streets clean!
+Dialogue: 0,0:10:56.48,0:11:00.03,Default,,0000,0000,0000,,Geez... Misato is the same as ever.
+Dialogue: 0,0:11:00.03,0:11:01.41,Default,,0000,0000,0000,,Weboshii...
+Dialogue: 0,0:11:01.41,0:11:03.45,Default,,0000,0000,0000,,What should I do with this?
+Dialogue: 0,0:11:03.45,0:11:05.45,Default,,0000,0000,0000,,Wh-Why did you pick that up?!
+Dialogue: 0,0:11:05.45,0:11:06.75,Default,,0000,0000,0000,,What should I do?
+Dialogue: 0,0:11:06.75,0:11:08.00,Default,,0000,0000,0000,,Just leave it somewhere!
+Dialogue: 0,0:11:08.00,0:11:09.66,Default,,0000,0000,0000,,But what should I do?
+Dialogue: 0,0:11:09.66,0:11:11.17,Default,,0000,0000,0000,,I said just leave it somewhere!
+Dialogue: 0,0:11:11.17,0:11:13.04,Default,,0000,0000,0000,,But what should I do?
+Dialogue: 0,0:11:16.71,0:11:18.84,Default,,0000,0000,0000,,Things that are cool!
+Dialogue: 0,0:11:25.81,0:11:27.72,Default,,0000,0000,0000,,Super-car bicycle!
+Dialogue: 0,0:11:43.78,0:11:45.12,Default,,0000,0000,0000,,{\an8}"Warning" {\an}
+Dialogue: 0,0:11:45.12,0:11:46.79,Default,,0000,0000,0000,,I give up...
+Dialogue: 0,0:11:46.79,0:11:47.24,Default,,0000,0000,0000,,"Daiku Security" I give up...
+Dialogue: 0,0:11:47.24,0:11:48.50,Default,,0000,0000,0000,,"Daiku Security" It's over...
+Dialogue: 0,0:11:48.50,0:11:49.79,Default,,0000,0000,0000,,"Daiku Security"
+Dialogue: 0,0:11:50.25,0:11:52.25,Default,,0000,0000,0000,,Help isn't coming.
+Dialogue: 0,0:11:53.71,0:11:58.76,Default,,0000,0000,0000,,{\an8}"My Ordinary Life 33" {\an}
+Dialogue: 0,0:12:12.31,0:12:13.31,Default,,0000,0000,0000,,{\an8}"Emergency" {\an}
+Dialogue: 0,0:12:13.77,0:12:16.06,Default,,0000,0000,0000,,There's no God...
+Dialogue: 0,0:12:16.06,0:12:17.98,Default,,0000,0000,0000,,No Buddha...
+Dialogue: 0,0:12:32.21,0:12:33.42,Default,,0000,0000,0000,,Yesterday...
+Dialogue: 0,0:12:36.58,0:12:37.79,Default,,0000,0000,0000,,"Ady-Ade-Adios"\N...was pork cutlets?
+Dialogue: 0,0:12:37.79,0:12:46.80,Default,,0000,0000,0000,,"Ady-Ade-Adios"
+Dialogue: 0,0:12:46.80,0:12:49.47,Default,,0000,0000,0000,,Well... Whatever.
+Dialogue: 0,0:13:01.19,0:13:02.32,Default,,0000,0000,0000,,{\an8}"Open" "Close"{\an}
+Dialogue: 0,0:13:12.12,0:13:13.33,Default,,0000,0000,0000,,Huh...?
+Dialogue: 0,0:13:19.17,0:13:22.30,Default,,0000,0000,0000,,How long has it been...?
+Dialogue: 0,0:13:34.10,0:13:37.48,Default,,0000,0000,0000,,I think I...
+Dialogue: 0,0:13:37.48,0:13:39.15,Default,,0000,0000,0000,,I fell asleep.
+Dialogue: 0,0:13:47.03,0:13:49.32,Default,,0000,0000,0000,,Well... Whatever.
+Dialogue: 0,0:14:00.79,0:14:04.05,Default,,0000,0000,0000,,Should we play {\i1}shiritori{\i0}?
+Dialogue: 0,0:14:09.34,0:14:10.35,Default,,0000,0000,0000,,Mandarin.
+Dialogue: 0,0:14:21.19,0:14:23.69,Default,,0000,0000,0000,,Oh... Sorry.
+Dialogue: 0,0:14:23.69,0:14:25.40,Default,,0000,0000,0000,,Say that again?
+Dialogue: 0,0:14:31.99,0:14:33.95,Default,,0000,0000,0000,,That's okay...
+Dialogue: 0,0:14:35.83,0:14:40.33,Default,,0000,0000,0000,,K... K... K...
+Dialogue: 0,0:14:53.30,0:14:55.52,Default,,0000,0000,0000,,Can I say something random?
+Dialogue: 0,0:14:58.60,0:14:59.64,Default,,0000,0000,0000,,Eggplant.
+Dialogue: 0,0:15:42.31,0:15:43.36,Default,,0000,0000,0000,,Eggplant!
+Dialogue: 0,0:15:44.94,0:15:45.94,Default,,0000,0000,0000,,She's dead!
+Dialogue: 0,0:15:49.78,0:15:50.99,Default,,0000,0000,0000,,Help isn't coming!
+Dialogue: 0,0:15:55.58,0:15:57.29,Default,,0000,0000,0000,,Help isn't coming!
+Dialogue: 0,0:15:58.37,0:16:00.75,Default,,0000,0000,0000,,Sleep paralysis...
+Dialogue: 0,0:16:08.13,0:16:10.80,Default,,0000,0000,0000,,{\an8}"Go+Soccer Club 6" {\an}
+Dialogue: 0,0:16:10.80,0:16:14.68,Default,,0000,0000,0000,,Now it's just you and me, Sekiguchi.
+Dialogue: 0,0:16:14.68,0:16:19.47,Default,,0000,0000,0000,,If we don't get a third member,\Nour club will get disbanded.
+Dialogue: 0,0:16:19.47,0:16:23.77,Default,,0000,0000,0000,,If only we could think of a way\Nto recruit some more members.
+Dialogue: 0,0:16:23.77,0:16:25.15,Default,,0000,0000,0000,,President?
+Dialogue: 0,0:16:25.15,0:16:27.40,Default,,0000,0000,0000,,What does our club even do?
+Dialogue: 0,0:16:27.40,0:16:32.15,Default,,0000,0000,0000,,Oh, man! I thought you had\Na good idea or something!
+Dialogue: 0,0:16:33.86,0:16:35.82,Default,,0000,0000,0000,,We don't do anything really.
+Dialogue: 0,0:16:38.03,0:16:38.95,Default,,0000,0000,0000,,{\an8}"Start" {\an}
+Dialogue: 0,0:16:38.95,0:16:40.41,Default,,0000,0000,0000,,"Start" On your mark.
+Dialogue: 0,0:16:41.50,0:16:43.37,Default,,0000,0000,0000,,Get set!
+Dialogue: 0,0:16:43.37,0:16:44.37,Default,,0000,0000,0000,,Bang!
+Dialogue: 0,0:16:48.59,0:16:51.67,Default,,0000,0000,0000,,Helvetica Standard.
+Dialogue: 0,0:16:52.13,0:16:53.80,Default,,0000,0000,0000,,Hey! Quit it!
+Dialogue: 0,0:16:53.80,0:16:55.80,Default,,0000,0000,0000,,Stop pulling my uniform!
+Dialogue: 0,0:16:55.80,0:16:58.39,Default,,0000,0000,0000,,Come on already, Seki!
+Dialogue: 0,0:16:58.39,0:17:00.27,Default,,0000,0000,0000,,Give me your uniform!
+Dialogue: 0,0:17:00.27,0:17:04.35,Default,,0000,0000,0000,,B-But I didn't even score one point today!
+Dialogue: 0,0:17:04.35,0:17:08.48,Default,,0000,0000,0000,,It's fine! This is the last uniform\Nyou'll wear before you retire!
+Dialogue: 0,0:17:08.48,0:17:13.53,Default,,0000,0000,0000,,But my uniform is worthless\Nsince I can't even score a point!
+Dialogue: 0,0:17:13.53,0:17:15.28,Default,,0000,0000,0000,,That's not true!
+Dialogue: 0,0:17:15.28,0:17:18.03,Default,,0000,0000,0000,,You're the one that inspired me\Nto get into soccer!
+Dialogue: 0,0:17:18.03,0:17:20.49,Default,,0000,0000,0000,,Wait! Fine, fine already!
+Dialogue: 0,0:17:20.49,0:17:23.54,Default,,0000,0000,0000,,Just let me take it off on my own time!
+Dialogue: 0,0:17:23.54,0:17:25.67,Default,,0000,0000,0000,,Let go of me first!
+Dialogue: 0,0:17:28.63,0:17:30.50,Default,,0000,0000,0000,,All right...
+Dialogue: 0,0:17:31.55,0:17:32.42,Default,,0000,0000,0000,,Got you!
+Dialogue: 0,0:17:32.42,0:17:33.84,Default,,0000,0000,0000,,{\an8}"This is my way of living!!" {\an}
+Dialogue: 0,0:17:37.89,0:17:39.64,Default,,0000,0000,0000,,I'm sorry...
+Dialogue: 0,0:17:48.94,0:17:51.02,Default,,0000,0000,0000,,{\an8}"Tail" {\an}
+Dialogue: 0,0:17:51.02,0:17:55.40,Default,,0000,0000,0000,,Got it? You need to start\Nrespecting your elders.
+Dialogue: 0,0:17:55.40,0:17:56.82,Default,,0000,0000,0000,,Okay...
+Dialogue: 0,0:18:00.03,0:18:03.91,Default,,0000,0000,0000,,Sheesh. What a difficult child.
+Dialogue: 0,0:18:26.39,0:18:28.94,Default,,0000,0000,0000,,Shoot! This is so much fun!
+Dialogue: 0,0:18:28.94,0:18:30.40,Default,,0000,0000,0000,,I got it! I got it!
+Dialogue: 0,0:18:31.27,0:18:34.23,Default,,0000,0000,0000,,{\an8}"Go+Soccer Club 7" {\an}
+Dialogue: 0,0:18:38.95,0:18:44.08,Default,,0000,0000,0000,,At first I wanted to make a brand new sport\Ncombining Go and Soccer.
+Dialogue: 0,0:18:44.08,0:18:46.20,Default,,0000,0000,0000,,That's why I formed this club.
+Dialogue: 0,0:18:48.96,0:18:50.38,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:18:51.50,0:18:52.92,Default,,0000,0000,0000,,That's as far as I took it.
+Dialogue: 0,0:18:56.55,0:18:57.55,Default,,0000,0000,0000,,{\an8}"My Ordinary Life 34" {\an}
+Dialogue: 0,0:18:57.55,0:19:00.14,Default,,0000,0000,0000,,"My Ordinary Life 34"\NDraw a boomerang...
+Dialogue: 0,0:19:00.14,0:19:02.14,Default,,0000,0000,0000,,Draw a triangle... Draw a rectangle.
+Dialogue: 0,0:19:02.14,0:19:04.39,Default,,0000,0000,0000,,Hakase! It's time for bed!
+Dialogue: 0,0:19:04.39,0:19:05.68,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:19:08.44,0:19:10.52,Default,,0000,0000,0000,,Hakase, were you eating snacks?
+Dialogue: 0,0:19:10.52,0:19:12.23,Default,,0000,0000,0000,,I didn't eat anything.
+Dialogue: 0,0:19:12.23,0:19:14.07,Default,,0000,0000,0000,,Why are you looking away from me?
+Dialogue: 0,0:19:14.07,0:19:16.40,Default,,0000,0000,0000,,I think because it's away from you.
+Dialogue: 0,0:19:16.40,0:19:17.49,Default,,0000,0000,0000,,You're not making any sense.
+Dialogue: 0,0:19:17.49,0:19:18.82,Default,,0000,0000,0000,,"Yummy Snack"\N"SnaQ"\NSee, look! Why are you\Neating snacks before bed?
+Dialogue: 0,0:19:18.82,0:19:21.95,Default,,0000,0000,0000,,See, look! Why are you\Neating snacks before bed?
+Dialogue: 0,0:19:21.95,0:19:25.20,Default,,0000,0000,0000,,That... wasn't even me.
+Dialogue: 0,0:19:25.20,0:19:28.25,Default,,0000,0000,0000,,Who's the one with crumbs all over her face?
+Dialogue: 0,0:19:33.50,0:19:35.34,Default,,0000,0000,0000,,I think I caught a cold.
+Dialogue: 0,0:19:35.34,0:19:40.63,Default,,0000,0000,0000,,What's that? How many times have\NI told you no snacks before bed?
+Dialogue: 0,0:19:40.63,0:19:44.26,Default,,0000,0000,0000,,It's not my fault!\NSakamoto forced me to eat them!
+Dialogue: 0,0:19:46.68,0:19:48.98,Default,,0000,0000,0000,,Look at his snot bubble. Funny.
+Dialogue: 0,0:19:48.98,0:19:50.81,Default,,0000,0000,0000,,Don't try to change the subject!
+Dialogue: 0,0:20:02.86,0:20:04.20,Default,,0000,0000,0000,,Geez...
+Dialogue: 0,0:20:04.20,0:20:07.04,Default,,0000,0000,0000,,You need to brush your teeth before you sleep.
+Dialogue: 0,0:20:07.04,0:20:09.45,Default,,0000,0000,0000,,I brushed my teeth already!
+Dialogue: 0,0:20:09.45,0:20:12.29,Default,,0000,0000,0000,,That was before you ate all those snacks.
+Dialogue: 0,0:20:13.50,0:20:15.84,Default,,0000,0000,0000,,Yes, but I did brush my teeth.
+Dialogue: 0,0:20:15.84,0:20:17.38,Default,,0000,0000,0000,,What are you embarrassed about?
+Dialogue: 0,0:20:17.38,0:20:20.26,Default,,0000,0000,0000,,Brushing once is good enough, isn't it?
+Dialogue: 0,0:20:20.26,0:20:23.13,Default,,0000,0000,0000,,No, it's not. You ate snacks afterwards.
+Dialogue: 0,0:20:23.13,0:20:25.35,Default,,0000,0000,0000,,Did you even brush your teeth?
+Dialogue: 0,0:20:25.35,0:20:27.51,Default,,0000,0000,0000,,I brushed them properly.
+Dialogue: 0,0:20:29.10,0:20:30.52,Default,,0000,0000,0000,,But... But...
+Dialogue: 0,0:20:30.52,0:20:32.89,Default,,0000,0000,0000,,I'm all ready and set for bed.
+Dialogue: 0,0:20:32.89,0:20:35.06,Default,,0000,0000,0000,,You're the only one here who isn't.
+Dialogue: 0,0:20:36.36,0:20:39.23,Default,,0000,0000,0000,,But you're a robot and\Nwon't even get cavities!
+Dialogue: 0,0:20:44.86,0:20:47.95,Default,,0000,0000,0000,,Nano! Um, um...
+Dialogue: 0,0:20:47.95,0:20:50.62,Default,,0000,0000,0000,,Maybe you'll get a small cavity...
+Dialogue: 0,0:20:51.79,0:20:53.12,Default,,0000,0000,0000,,Is that true?
+Dialogue: 0,0:20:53.12,0:20:54.96,Default,,0000,0000,0000,,It's true.
+Dialogue: 0,0:20:54.96,0:20:56.38,Default,,0000,0000,0000,,It's a lie...
+Dialogue: 0,0:20:56.38,0:20:59.46,Default,,0000,0000,0000,,Oh! But you might rust or something!
+Dialogue: 0,0:20:59.46,0:21:00.96,Default,,0000,0000,0000,,Rust...
+Dialogue: 0,0:21:00.96,0:21:04.97,Default,,0000,0000,0000,,Um, I'll add a feature to let you get cavities!
+Dialogue: 0,0:21:07.72,0:21:10.89,Default,,0000,0000,0000,,Don't worry! I'll really add it!
+Dialogue: 0,0:21:11.93,0:21:13.52,Default,,0000,0000,0000,,Is that a promise?
+Dialogue: 0,0:21:14.81,0:21:16.90,Default,,0000,0000,0000,,For real this time!
+Dialogue: 0,0:21:22.32,0:21:25.32,Default,,0000,0000,0000,,Come on, Nano! Let's go brush our teeth!
+Dialogue: 0,0:21:25.32,0:21:27.16,Default,,0000,0000,0000,,Okay. But that's twice now for me.
+Dialogue: 0,0:21:27.16,0:21:28.66,Default,,0000,0000,0000,,It's already ten o'clock!
+Dialogue: 0,0:21:28.66,0:21:29.70,Default,,0000,0000,0000,,It sure is.
+Dialogue: 0,0:21:29.70,0:21:30.54,Default,,0000,0000,0000,,--Today was so much fun!
+Dialogue: 0,0:21:30.54,0:21:32.20,Default,,0000,0000,0000,,--Yeah, yeah...\N--Today was so much fun!
+Dialogue: 0,0:21:32.20,0:21:34.50,Default,,0000,0000,0000,,So happy!
+Dialogue: 0,0:21:45.51,0:21:48.60,Default,,0000,0000,0000,,{\i1}Wake in the morning, teeth get a brushing{\i0}
+Dialogue: 0,0:21:48.60,0:21:51.68,Default,,0000,0000,0000,,{\i1}Before you know it, it's ten at night{\i0}
+Dialogue: 0,0:21:51.68,0:21:54.77,Default,,0000,0000,0000,,{\i1}Another day was full of laughter{\i0}
+Dialogue: 0,0:21:54.77,0:21:57.94,Default,,0000,0000,0000,,{\i1}Another day filled with joy{\i0}
+Dialogue: 0,0:21:57.94,0:22:01.02,Default,,0000,0000,0000,,{\i1}Goofing with friends and acting so silly{\i0}
+Dialogue: 0,0:22:01.02,0:22:04.15,Default,,0000,0000,0000,,{\i1}Making a ruckus and then I see{\i0}
+Dialogue: 0,0:22:04.15,0:22:07.24,Default,,0000,0000,0000,,{\i1}A glimpse from you and then our eyes meet{\i0}
+Dialogue: 0,0:22:07.24,0:22:09.95,Default,,0000,0000,0000,,{\i1}Coincidence, or not?{\i0}
+Dialogue: 0,0:22:09.95,0:22:13.50,Default,,0000,0000,0000,,{\i1}I won't ever admit it's first love{\i0}
+Dialogue: 0,0:22:13.50,0:22:16.58,Default,,0000,0000,0000,,{\i1}That's not something I would say{\i0}
+Dialogue: 0,0:22:16.58,0:22:22.71,Default,,0000,0000,0000,,{\i1}Hey, I'll see you again tomorrow too.{\i0}
+Dialogue: 0,0:22:22.71,0:22:25.80,Default,,0000,0000,0000,,{\i1}When I close my eyes I see{\i0}
+Dialogue: 0,0:22:25.80,0:22:28.93,Default,,0000,0000,0000,,{\i1}My vision sparkling, filled with you{\i0}
+Dialogue: 0,0:22:28.93,0:22:32.26,Default,,0000,0000,0000,,{\i1}Wasn't it so much fun today?{\i0}
+Dialogue: 0,0:22:32.26,0:22:37.19,Default,,0000,0000,0000,,{\i1}Ah, I think I'm in love{\i0}
+Dialogue: 0,0:22:41.56,0:22:44.69,Default,,0000,0000,0000,,{\i1}I'm so happy I'm so happy{\i0}
+Dialogue: 0,0:22:44.69,0:22:47.78,Default,,0000,0000,0000,,{\i1}Nice to meet you, awakening love{\i0}
+Dialogue: 0,0:22:47.78,0:22:50.91,Default,,0000,0000,0000,,{\i1}I'll see you again tomorrow too{\i0}
+Dialogue: 0,0:22:50.91,0:22:54.04,Default,,0000,0000,0000,,{\i1}Good night{\i0}
+Dialogue: 0,0:22:54.04,0:22:58.75,Default,,0000,0000,0000,,{\i1}I'll see you again soon in my dreams{\i0}
+Dialogue: 0,0:22:58.75,0:23:02.42,Default,,0000,0000,0000,,{\i1}Good night{\i0}
+Dialogue: 0,0:23:06.76,0:23:11.47,Default,,0000,0000,0000,,{\an8}"A Trivial Miracle" {\an}
+Dialogue: 0,0:23:13.10,0:23:14.64,Default,,0000,0000,0000,,Sheesh...
+Dialogue: 0,0:23:14.64,0:23:17.89,Default,,0000,0000,0000,,I wish Sasahara would take\Nthings seriously for once...
+Dialogue: 0,0:23:29.57,0:23:32.07,Default,,0000,0000,0000,,We're identical twins, dude!
+Dialogue: 0,0:23:32.07,0:23:32.99,Default,,0000,0000,0000,,Dude!
+Dialogue: 0,0:23:32.99,0:23:34.99,Default,,0000,0000,0000,,H-Hot, hot, hot!
+Dialogue: 0,0:23:34.99,0:23:36.70,Default,,0000,0000,0000,,Hot, hot!
+Dialogue: 0,0:23:36.70,0:23:39.25,Default,,0000,0000,0000,,{\an8}Th-The next {\i1}My Ordinary Life {\i0}is Episode 9!{\an}
+Dialogue: 0,0:23:39.25,0:23:40.25,Default,,0000,0000,0000,,{\an8}"Narration: Tomokazu Seki"\NTh-The next {\i1}My Ordinary Life {\i0}is Episode 9!{\an}
+Dialogue: 0,0:23:40.25,0:23:43.04,Default,,0000,0000,0000,,{\an8}"Narration: Tomokazu Seki"\NL-Look forward to-- Hot, hot!{\an}

@@ -1,0 +1,376 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top Italic,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:34.65,0:00:36.74,Default,,0000,0000,0000,,I've brought him.
+Dialogue: 0,0:00:36.74,0:00:37.95,Default,,0000,0000,0000,,Come in.
+Dialogue: 0,0:00:44.21,0:00:46.79,Default,,0000,0000,0000,,Well, well. If it isn't King Albert.
+Dialogue: 0,0:00:52.51,0:00:53.76,Default,,0000,0000,0000,,Dolph!
+Dialogue: 0,0:00:54.80,0:00:57.22,Default,,0000,0000,0000,,What's the meaning of this?!
+Dialogue: 0,0:01:00.81,0:01:04.68,Default,,0000,0000,0000,,I hoped to enjoy a meal together with you.
+Dialogue: 0,0:01:07.15,0:01:08.86,Default,,0000,0000,0000,,Ah...
+Dialogue: 0,0:01:08.86,0:01:13.28,Default,,0000,0000,0000,,Unfortunately, it seems\Nthere won't be any for you.
+Dialogue: 0,0:01:19.49,0:01:20.70,Default,,0000,0000,0000,,Restrain him.
+Dialogue: 0,0:01:20.70,0:01:21.70,Default,,0000,0000,0000,,Yes sir.
+Dialogue: 0,0:01:30.21,0:01:32.30,Default,,0000,0000,0000,,So that's what you're after?!
+Dialogue: 0,0:01:35.47,0:01:39.01,Default,,0000,0000,0000,,Now, what do you say we end\Nthis game of hide-and-seek
+Dialogue: 0,0:01:39.01,0:01:43.39,Default,,0000,0000,0000,,with your cute princess, King Albert?
+Dialogue: 0,0:01:43.39,0:01:45.85,Default,,0000,0000,0000,,No... Albert.
+Dialogue: 0,0:01:57.07,0:01:58.20,Default,,0000,0000,0000,,Did you spot her?
+Dialogue: 0,0:01:58.20,0:01:59.53,Default,,0000,0000,0000,,No, not yet.
+Dialogue: 0,0:01:59.53,0:02:00.91,Default,,0000,0000,0000,,I'll look over here.
+Dialogue: 0,0:02:00.91,0:02:03.83,Default,,0000,0000,0000,,Listen up, men. We're after the wood cube.
+Dialogue: 0,0:02:03.83,0:02:05.62,Default,,0000,0000,0000,,Try to not kill the princess.
+Dialogue: 0,0:02:07.58,0:02:12.09,Default,,0000,0000,0000,,You think you can get away with this, Dolph?!
+Dialogue: 0,0:02:13.50,0:02:15.09,Default,,0000,0000,0000,,Get away?
+Dialogue: 0,0:02:15.09,0:02:18.30,Default,,0000,0000,0000,,Just who will there be to punish me?
+Dialogue: 0,0:02:18.30,0:02:23.14,Default,,0000,0000,0000,,I'm afraid you have no allies anymore, Albert.
+Dialogue: 0,0:02:25.81,0:02:29.64,Default,,0000,0000,0000,,This little trip around the world of yours...
+Dialogue: 0,0:02:29.64,0:02:33.69,Default,,0000,0000,0000,,To me, it was the perfect opportunity.
+Dialogue: 0,0:02:33.69,0:02:37.44,Default,,0000,0000,0000,,Everyone here besides you and\Nthe Princess are my underlings.
+Dialogue: 0,0:02:37.44,0:02:40.36,Default,,0000,0000,0000,,But why?! Why betray me, Dolph?!
+Dialogue: 0,0:02:43.49,0:02:46.45,Default,,0000,0000,0000,,That's not very kind of you, Albert.
+Dialogue: 0,0:02:46.45,0:02:49.16,Default,,0000,0000,0000,,I'm very thankful for all you've done for me.
+Dialogue: 0,0:02:49.16,0:02:51.96,Default,,0000,0000,0000,,You took me in and raised me from an orphan...
+Dialogue: 0,0:02:51.96,0:02:55.80,Default,,0000,0000,0000,,...and even appointed me as\Nthe commander of your kingdom.
+Dialogue: 0,0:02:55.80,0:02:57.42,Default,,0000,0000,0000,,Then why?!
+Dialogue: 0,0:03:01.38,0:03:05.47,Default,,0000,0000,0000,,Did you think, all this time I supported you,\Nthat I had no ambitions of my own?
+Dialogue: 0,0:03:10.27,0:03:14.86,Default,,0000,0000,0000,,This is God's just retribution, Albert.
+Dialogue: 0,0:03:14.86,0:03:16.65,Default,,0000,0000,0000,,Lord Dolph!
+Dialogue: 0,0:03:16.65,0:03:18.15,Default,,0000,0000,0000,,We've found the Princess!
+Dialogue: 0,0:03:18.15,0:03:20.07,Default,,0000,0000,0000,,Okay! On my way!
+Dialogue: 0,0:03:20.07,0:03:26.33,Default,,0000,0000,0000,,In that case, you best be quick to think\Nof your dying wish, King Albert.
+Dialogue: 0,0:03:26.33,0:03:29.16,Default,,0000,0000,0000,,You traitorous scum!
+Dialogue: 0,0:03:29.16,0:03:31.41,Default,,0000,0000,0000,,What are you doing, you fools?!
+Dialogue: 0,0:03:31.41,0:03:33.25,Default,,0000,0000,0000,,Have you forgotten your place?!
+Dialogue: 0,0:03:33.25,0:03:35.84,Default,,0000,0000,0000,,Well, well. If it isn't Princess Starla.
+Dialogue: 0,0:03:35.84,0:03:37.96,Default,,0000,0000,0000,,It's such a pleasure to see you.
+Dialogue: 0,0:03:37.96,0:03:40.01,Default,,0000,0000,0000,,Dolph, you bastard!
+Dialogue: 0,0:03:40.01,0:03:43.18,Default,,0000,0000,0000,,Do you have any damn clue what you've done?!
+Dialogue: 0,0:03:44.97,0:03:48.35,Default,,0000,0000,0000,,As usual, such a vulgar mouth despite that face.
+Dialogue: 0,0:03:48.35,0:03:53.23,Default,,0000,0000,0000,,Of course I know what I've done.\NI've taken King Albert's wood cube.
+Dialogue: 0,0:03:53.23,0:03:59.07,Default,,0000,0000,0000,,Once I have yours as well,\NI'll be able to revive the ancient weapon.
+Dialogue: 0,0:03:59.07,0:04:03.82,Default,,0000,0000,0000,,That is, all so I can become\Nthe next king of Fey Kingdom!
+Dialogue: 0,0:04:04.86,0:04:07.33,Default,,0000,0000,0000,,You'll find no allies anywhere here.
+Dialogue: 0,0:04:07.33,0:04:12.58,Default,,0000,0000,0000,,You have no escape.\NNow, hand it over without a fight!
+Dialogue: 0,0:04:38.94,0:04:41.19,Default,,0000,0000,0000,,H-He's dead!
+Dialogue: 0,0:04:57.88,0:05:02.46,Default,,0000,0000,0000,,Princess! Hurrah! Princess! Hurrah!
+Dialogue: 0,0:05:02.46,0:05:06.55,Default,,0000,0000,0000,,Princess! Hurrah!
+Dialogue: 0,0:05:06.55,0:05:13.98,Default,,0000,0000,0000,,Princess! Hurrah! Princess! Hurrah!\NPrincess! Hurrah! Princess! Hurrah!
+Dialogue: 0,0:05:20.73,0:05:22.57,Default,,0000,0000,0000,,You bastards!
+Dialogue: 0,0:05:22.57,0:05:24.36,Default,,0000,0000,0000,,You'll owe me for life!
+Dialogue: 0,0:05:27.24,0:05:30.08,Default,,0000,0000,0000,,All right! Take me to my father!
+Dialogue: 0,0:05:38.42,0:05:40.13,Default,,0000,0000,0000,,Wood cube?
+Dialogue: 0,0:05:40.13,0:05:43.05,Default,,0000,0000,0000,,Wasn't the Princess protecting this?
+Dialogue: 0,0:05:45.63,0:05:48.13,Default,,0000,0000,0000,,No... Could this really be?
+Dialogue: 0,0:05:53.06,0:05:54.06,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:05:54.06,0:05:58.52,Default,,0000,0000,0000,,Wh-What?!
+Dialogue: 0,0:05:58.52,0:06:02.94,Default,,0000,0000,0000,,Th-This could make me the king!
+Dialogue: 0,0:06:02.94,0:06:07.65,Default,,0000,0000,0000,,N-No... Hold on. Calm down. I need a smoke...
+Dialogue: 0,0:06:11.57,0:06:14.74,Default,,0000,0000,0000,,I've served as a solder for 12 long years.
+Dialogue: 0,0:06:14.74,0:06:20.13,Default,,0000,0000,0000,,I thought... this would be the rest of my life.
+Dialogue: 0,0:06:20.13,0:06:23.00,Default,,0000,0000,0000,,But now, my chance has come...
+Dialogue: 0,0:06:42.48,0:06:44.02,Default,,0000,0000,0000,,Forget it.
+Dialogue: 0,0:06:45.65,0:06:50.70,Default,,0000,0000,0000,,Even if I become the king,\Nit's not like I have any plans.
+Dialogue: 0,0:06:50.70,0:06:55.70,Default,,0000,0000,0000,,And even having both of the cubes,\NI wouldn't know how to call the ancient weapon.
+Dialogue: 0,0:06:57.29,0:06:58.29,Default,,0000,0000,0000,,Ah-choo!
+Dialogue: 0,0:07:00.96,0:07:09.97,Default,,0000,0000,0000,,Nooo!!!
+Dialogue: 0,0:07:16.85,0:07:18.98,Default,,0000,0000,0000,,{\an8}"My Ordinary Life 27" {\an}
+Dialogue: 0,0:07:21.27,0:07:23.23,Default,,0000,0000,0000,,Good morning...
+Dialogue: 0,0:07:27.32,0:07:31.15,Default,,0000,0000,0000,,"Lottery"\NYes! Yes! Yes! Yes! Yes!
+Dialogue: 0,0:07:31.15,0:07:34.24,Default,,0000,0000,0000,,Mio! I win third prize\Nin the lottery! 100,000 yen!
+Dialogue: 0,0:07:34.24,0:07:35.99,Default,,0000,0000,0000,,Seriously?!
+Dialogue: 0,0:07:35.99,0:07:37.54,Default,,0000,0000,0000,,Are you gonna treat me?
+Dialogue: 0,0:07:37.54,0:07:40.12,Default,,0000,0000,0000,,What should I do? What to buy?
+Dialogue: 0,0:07:40.12,0:07:42.54,Default,,0000,0000,0000,,A house or something? Yeah, right.
+Dialogue: 0,0:07:42.54,0:07:43.50,Default,,0000,0000,0000,,Yuuko...
+Dialogue: 0,0:07:43.50,0:07:44.50,Default,,0000,0000,0000,,Hmm?
+Dialogue: 0,0:07:44.50,0:07:46.96,Default,,0000,0000,0000,,This... is from last year.
+Dialogue: 0,0:07:52.76,0:07:55.39,Default,,0000,0000,0000,,{\an8}"Toki" "Haya"{\an}
+Dialogue: 0,0:07:59.14,0:08:00.23,Default,,0000,0000,0000,,Don't sweat it.
+Dialogue: 0,0:08:00.23,0:08:00.52,Default,,0000,0000,0000,,Lotteries are, like, impossible to win.
+Dialogue: 0,0:08:00.52,0:08:03.14,Default,,0000,0000,0000,,"Present"\NLotteries are, like, impossible to win.
+Dialogue: 0,0:08:03.14,0:08:05.61,Default,,0000,0000,0000,,"Present"\NIt's fine... You don't have to console me...
+Dialogue: 0,0:08:05.61,0:08:08.94,Default,,0000,0000,0000,,Besides, it's your birthday today, isn't it?
+Dialogue: 0,0:08:08.94,0:08:09.44,Default,,0000,0000,0000,,Here.
+Dialogue: 0,0:08:09.44,0:08:12.15,Default,,0000,0000,0000,,Huh? Really? A present?
+Dialogue: 0,0:08:12.15,0:08:13.66,Default,,0000,0000,0000,,Thank you!
+Dialogue: 0,0:08:16.03,0:08:17.20,Default,,0000,0000,0000,,Can I open it?
+Dialogue: 0,0:08:17.20,0:08:19.70,Default,,0000,0000,0000,,Yeah, but it's nothing much.
+Dialogue: 0,0:08:19.70,0:08:21.54,Default,,0000,0000,0000,,Just something we had around the house.
+Dialogue: 0,0:08:21.54,0:08:25.17,Default,,0000,0000,0000,,That's fine! It's the feeling that counts!
+Dialogue: 0,0:08:25.50,0:08:27.29,Default,,0000,0000,0000,,{\an8}"Octopus & Wasabi Flavor"\N"Octopus Wasabi"{\an}
+Dialogue: 0,0:08:31.97,0:08:32.97,Default,,0000,0000,0000,,"Faculty Room"
+Dialogue: 0,0:08:32.97,0:08:34.26,Default,,0000,0000,0000,,"Faculty Room" Miss Sakurai?
+Dialogue: 0,0:08:35.84,0:08:39.68,Default,,0000,0000,0000,,Ah, Mr. Takasaki. Good morning.
+Dialogue: 0,0:08:39.68,0:08:40.93,Default,,0000,0000,0000,,Good morning.
+Dialogue: 0,0:08:40.93,0:08:42.10,Default,,0000,0000,0000,,Miss Sakurai... Can you do anything\Nabout that Aioi character?
+Dialogue: 0,0:08:42.10,0:08:44.39,Default,,0000,0000,0000,,"That Aioi character"\NMiss Sakurai... Can you do anything\Nabout that Aioi character?
+Dialogue: 0,0:08:44.39,0:08:46.69,Default,,0000,0000,0000,,"That Aioi character"\NShe doesn't even try\Nto do her homework.
+Dialogue: 0,0:08:46.69,0:08:49.52,Default,,0000,0000,0000,,Uh, I-I'm sorry!
+Dialogue: 0,0:08:49.52,0:08:54.11,Default,,0000,0000,0000,,I think a stern talking from her\Nhomeroom teacher might help.
+Dialogue: 0,0:08:54.11,0:08:58.70,Default,,0000,0000,0000,,Uh, sorry... I'll see if\NI can say something to her.
+Dialogue: 0,0:08:58.70,0:09:02.33,Default,,0000,0000,0000,,W-Well, I need to get going\Nto my first period class.
+Dialogue: 0,0:09:02.33,0:09:03.71,Default,,0000,0000,0000,,I'm counting on you.
+Dialogue: 0,0:09:03.71,0:09:05.54,Default,,0000,0000,0000,,Excuse me.
+Dialogue: 0,0:09:07.04,0:09:08.96,Default,,0000,0000,0000,,I'm so sorry!
+Dialogue: 0,0:09:08.96,0:09:12.76,Default,,0000,0000,0000,,Are you all right? Did any spill on you?
+Dialogue: 0,0:09:12.76,0:09:14.55,Default,,0000,0000,0000,,No, I'm perfectly fine.
+Dialogue: 0,0:09:14.55,0:09:17.59,Default,,0000,0000,0000,,"My Ordinary Life 28"\NI so just want to protect her!
+Dialogue: 0,0:09:17.59,0:09:18.09,Default,,0000,0000,0000,,--I'm really so sorry!
+Dialogue: 0,0:09:18.09,0:09:19.97,Default,,0000,0000,0000,,--It's been 26 years of my life\N--I'm really so sorry!
+Dialogue: 0,0:09:19.97,0:09:20.39,Default,,0000,0000,0000,,--It's been 26 years of my life\N--No, no. It's nothing at all.
+Dialogue: 0,0:09:20.39,0:09:23.48,Default,,0000,0000,0000,,--lacking with any presence of a woman.\N--No, no. It's nothing at all.
+Dialogue: 0,0:09:23.48,0:09:27.52,Default,,0000,0000,0000,,To me, Miss Sakurai is like a bamboo shoot\Nsuddenly sprouting in the garden.
+Dialogue: 0,0:09:29.19,0:09:33.99,Default,,0000,0000,0000,,No, no. It's not right for a teacher like me\Nto bring love into the workplace.
+Dialogue: 0,0:09:33.99,0:09:36.45,Default,,0000,0000,0000,,Keep it together, Manabu Takasaki!
+Dialogue: 0,0:09:39.12,0:09:40.37,Default,,0000,0000,0000,,Did she forget this?
+Dialogue: 0,0:09:46.75,0:09:48.17,Default,,0000,0000,0000,,Miss Sakurai!
+Dialogue: 0,0:09:49.71,0:09:51.71,Default,,0000,0000,0000,,You forgot your black folder.
+Dialogue: 0,0:09:51.71,0:09:54.80,Default,,0000,0000,0000,,Oh, thank you, Mr. Takasaki...
+Dialogue: 0,0:09:54.80,0:09:57.38,Default,,0000,0000,0000,,But I have my folder right here...
+Dialogue: 0,0:09:57.38,0:09:58.05,Default,,0000,0000,0000,,Eh?
+Dialogue: 0,0:09:58.05,0:10:01.64,Default,,0000,0000,0000,,Mr. Takasaki! Where are you taking my folder?
+Dialogue: 0,0:10:01.64,0:10:04.85,Default,,0000,0000,0000,,Ah! I-I'm sorry.
+Dialogue: 0,0:10:04.85,0:10:07.39,Default,,0000,0000,0000,,Well then, excuse me.
+Dialogue: 0,0:10:12.36,0:10:13.44,Default,,0000,0000,0000,,My black folder...
+Dialogue: 0,0:10:13.44,0:10:16.32,Default,,0000,0000,0000,,I wish I could invite her to pick mushrooms.
+Dialogue: 0,0:10:17.40,0:10:21.07,Default,,0000,0000,0000,,I wonder if Miss Sakurai even has a boyfriend?
+Dialogue: 0,0:10:21.07,0:10:25.41,Default,,0000,0000,0000,,Judging by no ring on her finger,\NI can't imagine she's married.
+Dialogue: 0,0:10:26.41,0:10:29.42,Default,,0000,0000,0000,,Does that mean I still have a chance?
+Dialogue: 0,0:10:29.42,0:10:31.58,Default,,0000,0000,0000,,What's her favorite music?\NHer favorite animal?
+Dialogue: 0,0:10:31.58,0:10:33.71,Default,,0000,0000,0000,,Her favorite sport? Her favorite vegetable?
+Dialogue: 0,0:10:33.71,0:10:36.76,Default,,0000,0000,0000,,Ah! What am I thinking?!
+Dialogue: 0,0:10:36.76,0:10:39.59,Default,,0000,0000,0000,,I'm impure! That's impure, Manabu Takasaki!
+Dialogue: 0,0:10:39.59,0:10:43.30,Default,,0000,0000,0000,,How can I be a role-model\Nto the students like this?!
+Dialogue: 0,0:10:45.77,0:10:50.10,Default,,0000,0000,0000,,Mr. Takasaki? Are you troubled by\Nsome situation with the students?
+Dialogue: 0,0:10:51.23,0:10:55.23,Default,,0000,0000,0000,,But, it should be fine if\NI just ask her favorite food.
+Dialogue: 0,0:10:55.23,0:10:57.74,Default,,0000,0000,0000,,"What's your favorite thing\Nto eat, Miss Sakurai?"
+Dialogue: 0,0:10:57.74,0:11:00.86,Default,,0000,0000,0000,,"Um, I like almost everything."
+Dialogue: 0,0:11:00.86,0:11:03.66,Default,,0000,0000,0000,,"Oh, really? How about shiitake mushrooms?"
+Dialogue: 0,0:11:03.66,0:11:05.49,Default,,0000,0000,0000,,"They're good grilled or boiled."
+Dialogue: 0,0:11:05.49,0:11:08.46,Default,,0000,0000,0000,,"That's true... What about fried?"
+Dialogue: 0,0:11:08.46,0:11:10.58,Default,,0000,0000,0000,,"Of course! Fried is okay, too!"
+Dialogue: 0,0:11:10.58,0:11:13.46,Default,,0000,0000,0000,,"I bet they taste good fried."
+Dialogue: 0,0:11:13.46,0:11:15.59,Default,,0000,0000,0000,,I can do this!
+Dialogue: 0,0:11:15.59,0:11:18.72,Default,,0000,0000,0000,,Act natural. Just act natural, Manabu Takasaki.
+Dialogue: 0,0:11:18.72,0:11:22.34,Default,,0000,0000,0000,,Nice and calm, just like\NI'm talking to my eggplants.
+Dialogue: 0,0:11:22.34,0:11:23.68,Default,,0000,0000,0000,,Miss Sakurai?
+Dialogue: 0,0:11:25.18,0:11:26.97,Default,,0000,0000,0000,,Yes? What can I do for you?
+Dialogue: 0,0:11:26.97,0:11:29.68,Default,,0000,0000,0000,,Sorry for stopping you over and over again.
+Dialogue: 0,0:11:31.23,0:11:33.81,Default,,0000,0000,0000,,I don't suppose you have a boyfriend?
+Dialogue: 0,0:11:35.15,0:11:37.53,Default,,0000,0000,0000,,What the hell am I saying?!
+Dialogue: 0,0:11:37.53,0:11:40.40,Default,,0000,0000,0000,,I'm a moron! A huge moron! I'm an idiot!
+Dialogue: 0,0:11:40.40,0:11:44.03,Default,,0000,0000,0000,,I don't have one.
+Dialogue: 0,0:11:44.03,0:11:49.83,Default,,0000,0000,0000,,I don't have one... I don't have one...\NI don't have one...
+Dialogue: 0,0:11:49.83,0:11:49.87,Default,,0000,0000,0000,,Sp-- Sp-- Sp--
+Dialogue: 0,0:11:49.87,0:11:52.62,Default,,0000,0000,0000,,"Takasaki" Sp-- Sp-- Sp--
+Dialogue: 0,0:11:52.62,0:11:56.17,Default,,0000,0000,0000,,Sprouting!
+Dialogue: 0,0:11:56.17,0:11:58.96,Default,,0000,0000,0000,,U-Um, Mr. Takasaki?
+Dialogue: 0,0:12:00.72,0:12:02.80,Default,,0000,0000,0000,,Sorry for asking a silly question.
+Dialogue: 0,0:12:02.80,0:12:04.51,Default,,0000,0000,0000,,It's all right in the end!
+Dialogue: 0,0:12:04.51,0:12:08.01,Default,,0000,0000,0000,,Miss Sakurai. Best of luck with\Nyour first period class.
+Dialogue: 0,0:12:08.01,0:12:11.85,Default,,0000,0000,0000,,Thanks. I hope yours goes well, too.
+Dialogue: 0,0:12:11.85,0:12:13.19,Default,,0000,0000,0000,,Thanks.
+Dialogue: 0,0:12:13.19,0:12:16.36,Default,,0000,0000,0000,,Well, excuse me.
+Dialogue: 0,0:12:17.36,0:12:25.41,Default,,0000,0000,0000,,I hope yours goes well, too...\NI hope yours goes well, too...
+Dialogue: 0,0:12:28.62,0:12:30.50,Default,,0000,0000,0000,,You're very spirited today.
+Dialogue: 0,0:12:30.95,0:12:34.62,Default,,0000,0000,0000,,Helvetica Standard.
+Dialogue: 0,0:12:34.62,0:12:36.13,Default,,0000,0000,0000,,Wait! Please!
+Dialogue: 0,0:12:36.13,0:12:39.21,Default,,0000,0000,0000,,G-Give me back my scythe!
+Dialogue: 0,0:12:39.21,0:12:42.92,Default,,0000,0000,0000,,If I don't pawn off this scythe\Nfor food, I'll starve and die!
+Dialogue: 0,0:12:43.93,0:12:45.55,Default,,0000,0000,0000,,Oh no, a river!
+Dialogue: 0,0:12:49.68,0:12:50.97,Default,,0000,0000,0000,,I did it!
+Dialogue: 0,0:12:52.48,0:12:54.19,Default,,0000,0000,0000,,Please give it back to me!
+Dialogue: 0,0:12:54.19,0:12:55.52,Default,,0000,0000,0000,,Oh, crap!
+Dialogue: 0,0:12:59.02,0:13:02.49,Default,,0000,0000,0000,,First comes rock, then your hand delivers...
+Dialogue: 0,0:13:02.49,0:13:05.95,Default,,0000,0000,0000,,What's it gonna be, no cheats!\NRock-paper-scissors!
+Dialogue: 0,0:13:05.95,0:13:07.82,Default,,0000,0000,0000,,Yay! I won!
+Dialogue: 0,0:13:14.29,0:13:16.12,Default,,0000,0000,0000,,Thanks!
+Dialogue: 0,0:13:16.12,0:13:17.33,Default,,0000,0000,0000,,...and that's not all!
+Dialogue: 0,0:13:17.33,0:13:18.42,Default,,0000,0000,0000,,...add coconut milk...
+Dialogue: 0,0:13:18.42,0:13:19.67,Default,,0000,0000,0000,,...for tomorrow's weather...
+Dialogue: 0,0:13:19.67,0:13:21.34,Default,,0000,0000,0000,,Miracle's in a pinch!
+Dialogue: 0,0:13:21.34,0:13:23.72,Default,,0000,0000,0000,,But I've got more where that came from!
+Dialogue: 0,0:13:49.82,0:13:51.08,Default,,0000,0000,0000,,{\an8}"Imagination" "Octopus Wasabi"{\an}
+Dialogue: 0,0:13:51.08,0:13:52.66,Default,,0000,0000,0000,,"Imagination"\NYou know what I bet you've\Nnever ever thought about?
+Dialogue: 0,0:13:52.66,0:13:56.37,Default,,0000,0000,0000,,You know what I bet you've\Nnever ever thought about?
+Dialogue: 0,0:13:56.37,0:13:57.29,Default,,0000,0000,0000,,What? What?
+Dialogue: 0,0:13:57.29,0:13:59.88,Default,,0000,0000,0000,,Travel diaries of a quirky office lady.
+Dialogue: 0,0:14:02.13,0:14:03.13,Default,,0000,0000,0000,,Just a little.
+Dialogue: 0,0:14:05.76,0:14:07.63,Default,,0000,0000,0000,,"Rushing On a Train Is Dangerous"
+Dialogue: 0,0:14:07.63,0:14:09.76,Default,,0000,0000,0000,,"Rushing On a Train Is Dangerous"\NMio! Mai! The train is leaving! Hurry!
+Dialogue: 0,0:14:09.76,0:14:11.05,Default,,0000,0000,0000,,Mio! Mai! The train is leaving! Hurry!
+Dialogue: 0,0:14:11.05,0:14:12.43,Default,,0000,0000,0000,,W-Wait! No!
+Dialogue: 0,0:14:12.43,0:14:13.10,Default,,0000,0000,0000,,Sweet!
+Dialogue: 0,0:14:13.10,0:14:15.48,Default,,0000,0000,0000,,We're somehow safe!
+Dialogue: 0,0:14:17.27,0:14:19.15,Default,,0000,0000,0000,,You're the only one that made it.
+Dialogue: 0,0:14:24.78,0:14:27.11,Default,,0000,0000,0000,,{\i1}Selamat Tinggal{\i0}...\N[Malay for "Goodbye."]
+Dialogue: 0,0:14:27.61,0:14:29.70,Default,,0000,0000,0000,,"What to Pick?"
+Dialogue: 0,0:14:29.70,0:14:32.03,Default,,0000,0000,0000,,"What to Pick?"\NKeep the orders coming.
+Dialogue: 0,0:14:32.03,0:14:33.08,Default,,0000,0000,0000,,One albacore.
+Dialogue: 0,0:14:33.08,0:14:33.49,Default,,0000,0000,0000,,--Yellowtail. A {\i1}hamachi{\i0}.
+Dialogue: 0,0:14:33.49,0:14:35.75,Default,,0000,0000,0000,,--Keep the orders coming.\N--Yellowtail. A {\i1}hamachi{\i0}.
+Dialogue: 0,0:14:35.75,0:14:37.96,Default,,0000,0000,0000,,Tuna and a fluke fin.
+Dialogue: 0,0:14:37.96,0:14:39.29,Default,,0000,0000,0000,,One eel for me.
+Dialogue: 0,0:14:39.29,0:14:41.88,Default,,0000,0000,0000,,So, one albacore and...
+Dialogue: 0,0:14:45.01,0:14:46.34,Default,,0000,0000,0000,,I forget.
+Dialogue: 0,0:14:46.34,0:14:49.80,Default,,0000,0000,0000,,He forgot...
+Dialogue: 0,0:14:55.56,0:14:58.89,Default,,0000,0000,0000,,{\an8}"My Ordinary Life 29" {\an}
+Dialogue: 0,0:15:16.79,0:15:18.83,Default,,0000,0000,0000,,Oh, hello!
+Dialogue: 0,0:15:18.83,0:15:22.13,Default,,0000,0000,0000,,H-Hello... Um, what do you want?
+Dialogue: 0,0:15:22.13,0:15:23.75,Default,,0000,0000,0000,,Well...
+Dialogue: 0,0:15:34.26,0:15:37.47,Default,,0000,0000,0000,,H-Hey! What do you think you're doing?!
+Dialogue: 0,0:15:37.47,0:15:40.14,Default,,0000,0000,0000,,Well, that's so weird and interesting!
+Dialogue: 0,0:15:40.14,0:15:43.56,Default,,0000,0000,0000,,I-It's not weird at all! It's totally normal!
+Dialogue: 0,0:15:43.56,0:15:45.73,Default,,0000,0000,0000,,Keys are the latest big accessory!
+Dialogue: 0,0:15:50.65,0:15:52.74,Default,,0000,0000,0000,,How'd you do that?
+Dialogue: 0,0:15:52.74,0:15:53.91,Default,,0000,0000,0000,,--Tell me, tell me!
+Dialogue: 0,0:15:53.91,0:15:54.99,Default,,0000,0000,0000,,--Give it back! Give it back to me!\N--Tell me, tell me!
+Dialogue: 0,0:15:54.99,0:15:57.49,Default,,0000,0000,0000,,--Give it back! Give it back to me!\N--Just let me see it!
+Dialogue: 0,0:15:57.49,0:16:00.04,Default,,0000,0000,0000,,Fine. I'll just do this.
+Dialogue: 0,0:16:02.00,0:16:02.71,Default,,0000,0000,0000,,Bye.
+Dialogue: 0,0:16:02.71,0:16:03.71,Default,,0000,0000,0000,,Why?!
+Dialogue: 0,0:16:10.26,0:16:12.59,Default,,0000,0000,0000,,Sorry, sorry! I'm just kidding.
+Dialogue: 0,0:16:12.59,0:16:16.14,Default,,0000,0000,0000,,It's not funny at all! Give it back to me!
+Dialogue: 0,0:16:17.47,0:16:18.31,Default,,0000,0000,0000,,Which is it?
+Dialogue: 0,0:16:18.31,0:16:19.64,Default,,0000,0000,0000,,In your bag!
+Dialogue: 0,0:16:19.64,0:16:20.89,Default,,0000,0000,0000,,Wow! You're right!
+Dialogue: 0,0:16:20.89,0:16:22.10,Default,,0000,0000,0000,,Now for question two!
+Dialogue: 0,0:16:22.10,0:16:23.65,Default,,0000,0000,0000,,Eh...?
+Dialogue: 0,0:16:23.65,0:16:26.94,Default,,0000,0000,0000,,Kenta's mom went out and bought ten apples.
+Dialogue: 0,0:16:26.94,0:16:29.73,Default,,0000,0000,0000,,Out of those, she later ate three.
+Dialogue: 0,0:16:29.73,0:16:32.95,Default,,0000,0000,0000,,She then gave four of the rest\Nto their neighbor Yumiko.
+Dialogue: 0,0:16:32.95,0:16:34.86,Default,,0000,0000,0000,,So where is your arm?
+Dialogue: 0,0:16:34.86,0:16:35.66,Default,,0000,0000,0000,,In your bag!
+Dialogue: 0,0:16:35.66,0:16:38.24,Default,,0000,0000,0000,,Wow! Another perfect answer!
+Dialogue: 0,0:16:38.24,0:16:40.58,Default,,0000,0000,0000,,Please, give it back to me.
+Dialogue: 0,0:16:40.58,0:16:43.16,Default,,0000,0000,0000,,And now, for the final question.
+Dialogue: 0,0:16:43.16,0:16:45.88,Default,,0000,0000,0000,,If you get it right, you can win an arm.
+Dialogue: 0,0:16:45.88,0:16:48.67,Default,,0000,0000,0000,,Eh?! It was mine to begin with!
+Dialogue: 0,0:16:48.67,0:16:50.42,Default,,0000,0000,0000,,Don't you want an arm?
+Dialogue: 0,0:16:50.42,0:16:52.67,Default,,0000,0000,0000,,I do...
+Dialogue: 0,0:16:52.67,0:16:56.76,Default,,0000,0000,0000,,All right. Start by saying "Bag" ten times.
+Dialogue: 0,0:16:59.81,0:17:04.73,Default,,0000,0000,0000,,Bag, bag, bag, bag, bag,\Nbag, bag, bag, bag, bag!
+Dialogue: 0,0:17:04.73,0:17:06.69,Default,,0000,0000,0000,,What sits behind the picture when you draw?
+Dialogue: 0,0:17:06.69,0:17:09.27,Default,,0000,0000,0000,,A ba-- I mean, a board!
+Dialogue: 0,0:17:09.27,0:17:10.19,Default,,0000,0000,0000,,Bzzt!
+Dialogue: 0,0:17:10.19,0:17:11.44,Default,,0000,0000,0000,,Eh?!
+Dialogue: 0,0:17:11.44,0:17:13.03,Default,,0000,0000,0000,,The answer is "paper."
+Dialogue: 0,0:17:13.03,0:17:15.91,Default,,0000,0000,0000,,N-No! That's not fair!
+Dialogue: 0,0:17:16.99,0:17:19.62,Default,,0000,0000,0000,,Just kidding! Just kidding...
+Dialogue: 0,0:17:19.62,0:17:22.58,Default,,0000,0000,0000,,Would you please stop following me around?
+Dialogue: 0,0:17:22.58,0:17:25.00,Default,,0000,0000,0000,,All right, all right. Sorry.
+Dialogue: 0,0:17:31.76,0:17:33.92,Default,,0000,0000,0000,,Oops. It came off.
+Dialogue: 0,0:17:48.56,0:17:56.20,Default,,0000,0000,0000,,It came off!
+Dialogue: 0,0:18:12.05,0:18:13.17,Default,,0000,0000,0000,,Mio!
+Dialogue: 0,0:18:14.17,0:18:15.30,Default,,0000,0000,0000,,Walk home together?
+Dialogue: 0,0:18:15.30,0:18:17.84,Default,,0000,0000,0000,,Hmm? Coming back from college, Sis?
+Dialogue: 0,0:18:17.84,0:18:21.22,Default,,0000,0000,0000,,Wow... You won't believe the weird girl I met.
+Dialogue: 0,0:18:21.22,0:18:22.68,Default,,0000,0000,0000,,What was she like?
+Dialogue: 0,0:18:22.68,0:18:24.14,Default,,0000,0000,0000,,Her arm came off.
+Dialogue: 0,0:18:24.14,0:18:24.81,Default,,0000,0000,0000,,Eh?
+Dialogue: 0,0:18:24.81,0:18:26.18,Default,,0000,0000,0000,,There was a key on her back.
+Dialogue: 0,0:18:26.18,0:18:27.77,Default,,0000,0000,0000,,What's that mean?
+Dialogue: 0,0:18:27.77,0:18:29.81,Default,,0000,0000,0000,,I'm not joking either.
+Dialogue: 0,0:18:29.81,0:18:31.90,Default,,0000,0000,0000,,Eh? That's weird.
+Dialogue: 0,0:18:38.74,0:18:41.53,Default,,0000,0000,0000,,{\an8}"Word-Time" {\an}
+Dialogue: 0,0:18:42.74,0:18:47.62,Default,,0000,0000,0000,,I want people to see me and think\N"Oh? He looks pretty cool."
+Dialogue: 0,0:18:51.13,0:18:53.21,Default,,0000,0000,0000,,"My Ordinary Life 30"\NNano! Here it comes!
+Dialogue: 0,0:18:53.21,0:18:54.75,Default,,0000,0000,0000,,"My Ordinary Life 30" Okay!
+Dialogue: 0,0:18:54.75,0:18:55.96,Default,,0000,0000,0000,,Magic ball!
+Dialogue: 0,0:18:58.97,0:19:03.05,Default,,0000,0000,0000,,Well, she's just a kid. What'd you expect?
+Dialogue: 0,0:19:03.05,0:19:04.18,Default,,0000,0000,0000,,I win!
+Dialogue: 0,0:19:04.18,0:19:05.81,Default,,0000,0000,0000,,I lost!
+Dialogue: 0,0:19:05.81,0:19:09.35,Default,,0000,0000,0000,,What's with these guys?\NThis is totally not how to play.
+Dialogue: 0,0:19:09.35,0:19:12.02,Default,,0000,0000,0000,,Sakamoto! How many points do I get?
+Dialogue: 0,0:19:12.02,0:19:13.06,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:19:13.06,0:19:15.40,Default,,0000,0000,0000,,I'm throwing it, Hakase!
+Dialogue: 0,0:19:15.40,0:19:16.86,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:19:17.82,0:19:19.15,Default,,0000,0000,0000,,She hasn't even thrown yet!
+Dialogue: 0,0:19:24.08,0:19:27.37,Default,,0000,0000,0000,,I-Is she trying to kill someone?!
+Dialogue: 0,0:19:27.37,0:19:30.83,Default,,0000,0000,0000,,Sakamoto! How many points was that?
+Dialogue: 0,0:19:30.83,0:19:32.71,Default,,0000,0000,0000,,You, too?!
+Dialogue: 0,0:19:32.71,0:19:34.09,Default,,0000,0000,0000,,She swung again!
+Dialogue: 0,0:19:34.09,0:19:35.63,Default,,0000,0000,0000,,You're up next, Sakamoto.
+Dialogue: 0,0:19:35.63,0:19:36.96,Default,,0000,0000,0000,,Why do I have to?!
+Dialogue: 0,0:19:36.96,0:19:39.63,Default,,0000,0000,0000,,I can't even hold a bat with these hands!
+Dialogue: 0,0:19:39.63,0:19:41.22,Default,,0000,0000,0000,,Aww...
+Dialogue: 0,0:19:41.22,0:19:45.51,Default,,0000,0000,0000,,What did you think I had for hands?
+Dialogue: 0,0:19:45.51,0:19:48.06,Default,,0000,0000,0000,,Can't you see how soft and\Nsquishy my paws are?
+Dialogue: 0,0:19:48.06,0:19:50.44,Default,,0000,0000,0000,,Kids like you are so...
+Dialogue: 0,0:20:08.79,0:20:10.29,Default,,0000,0000,0000,,Well, you know...
+Dialogue: 0,0:20:10.29,0:20:13.50,Default,,0000,0000,0000,,Playing with you two is dangerous,\Nso I'll just watch.
+Dialogue: 0,0:20:13.50,0:20:15.84,Default,,0000,0000,0000,,Don't count on me to play.
+Dialogue: 0,0:20:15.84,0:20:18.13,Default,,0000,0000,0000,,Why don't you just play catch?
+Dialogue: 0,0:20:18.13,0:20:18.67,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:20:18.67,0:20:19.67,Default,,0000,0000,0000,,Got it, Coach!
+Dialogue: 0,0:20:19.67,0:20:20.63,Default,,0000,0000,0000,,"Coach"?
+Dialogue: 0,0:20:20.63,0:20:23.26,Default,,0000,0000,0000,,Coach! We only have one glove!
+Dialogue: 0,0:20:23.26,0:20:24.97,Default,,0000,0000,0000,,You don't need one, do you?
+Dialogue: 0,0:20:24.97,0:20:27.68,Default,,0000,0000,0000,,Coach! My hand won't fit in the glove!
+Dialogue: 0,0:20:27.68,0:20:29.56,Default,,0000,0000,0000,,It goes on the other hand!
+Dialogue: 0,0:20:29.56,0:20:30.68,Default,,0000,0000,0000,,Coach!
+Dialogue: 0,0:20:30.68,0:20:32.06,Default,,0000,0000,0000,,Coach!
+Dialogue: 0,0:20:33.48,0:20:35.77,Default,,0000,0000,0000,,You guys are hopeless without me.
+Dialogue: 0,0:20:35.77,0:20:38.57,Default,,0000,0000,0000,,Hakase! Here it comes!
+Dialogue: 0,0:20:38.57,0:20:39.94,Default,,0000,0000,0000,,Bring it on!
+Dialogue: 0,0:20:48.91,0:20:52.00,Default,,0000,0000,0000,,Aw, geez. Where in the world did it go?
+Dialogue: 0,0:20:52.00,0:20:54.50,Default,,0000,0000,0000,,And then the teacher got mad at me.
+Dialogue: 0,0:20:55.58,0:20:57.63,Default,,0000,0000,0000,,Well, you can't really blame them.
+Dialogue: 0,0:20:57.63,0:20:58.92,Default,,0000,0000,0000,,Agreed.
+Dialogue: 0,0:20:58.92,0:21:01.09,Default,,0000,0000,0000,,Mai, you think so, too?
+Dialogue: 0,0:21:01.09,0:21:03.55,Default,,0000,0000,0000,,They didn't need to take it that far.
+Dialogue: 0,0:21:03.55,0:21:06.97,Default,,0000,0000,0000,,Maybe not, but you need to be careful now.
+Dialogue: 0,0:21:06.97,0:21:10.35,Default,,0000,0000,0000,,Yeah, who knows what will happen next.
+Dialogue: 0,0:21:15.10,0:21:16.94,Default,,0000,0000,0000,,Oh, thank you.
+Dialogue: 0,0:21:20.82,0:21:22.82,Default,,0000,0000,0000,,Oh! Gentleman!
+Dialogue: 0,0:21:22.82,0:21:26.53,Default,,0000,0000,0000,,So do you mind letting me borrow it, Mai?
+Dialogue: 0,0:21:26.53,0:21:27.24,Default,,0000,0000,0000,,Sure.
+Dialogue: 0,0:21:27.24,0:21:29.08,Default,,0000,0000,0000,,--Oh! That's perfect!\N--I wonder if that's the girl my sister met?
+Dialogue: 0,0:21:29.08,0:21:32.00,Default,,0000,0000,0000,,--I'm so glad that we're friends!\N--I wonder if that's the girl my sister met?
+Dialogue: 0,0:21:36.42,0:21:39.75,Default,,0000,0000,0000,,{\an8}"Birthday Present" {\an}
+Dialogue: 0,0:21:48.64,0:21:50.39,Default,,0000,0000,0000,,{\an8}"Octopus Wasabi" {\an}
+Dialogue: 0,0:22:08.87,0:22:11.95,Default,,0000,0000,0000,,{\i1}Wake in the morning, teeth get a brushing{\i0}
+Dialogue: 0,0:22:11.95,0:22:15.04,Default,,0000,0000,0000,,{\i1}Before you know it, it's ten at night{\i0}
+Dialogue: 0,0:22:15.04,0:22:18.12,Default,,0000,0000,0000,,{\i1}Another day was full of laughter{\i0}
+Dialogue: 0,0:22:18.12,0:22:21.34,Default,,0000,0000,0000,,{\i1}Another day filled with joy{\i0}
+Dialogue: 0,0:22:21.34,0:22:24.38,Default,,0000,0000,0000,,{\i1}Goofing with friends and acting so silly{\i0}
+Dialogue: 0,0:22:24.38,0:22:27.51,Default,,0000,0000,0000,,{\i1}Making a ruckus and then I see{\i0}
+Dialogue: 0,0:22:27.51,0:22:30.60,Default,,0000,0000,0000,,{\i1}A glimpse from you and then our eyes meet{\i0}
+Dialogue: 0,0:22:30.60,0:22:33.31,Default,,0000,0000,0000,,{\i1}Coincidence, or not?{\i0}
+Dialogue: 0,0:22:33.31,0:22:36.85,Default,,0000,0000,0000,,{\i1}I won't ever admit it's first love{\i0}
+Dialogue: 0,0:22:36.85,0:22:39.90,Default,,0000,0000,0000,,{\i1}That's not something I would say{\i0}
+Dialogue: 0,0:22:39.90,0:22:46.07,Default,,0000,0000,0000,,{\i1}Hey, I'll see you again tomorrow too.{\i0}
+Dialogue: 0,0:22:46.07,0:22:49.16,Default,,0000,0000,0000,,{\i1}When I close my eyes I see{\i0}
+Dialogue: 0,0:22:49.16,0:22:52.28,Default,,0000,0000,0000,,{\i1}My vision sparkling, filled with you{\i0}
+Dialogue: 0,0:22:52.28,0:22:55.62,Default,,0000,0000,0000,,{\i1}Wasn't it so much fun today?{\i0}
+Dialogue: 0,0:22:55.62,0:23:00.50,Default,,0000,0000,0000,,{\i1}Ah, I think I'm in love{\i0}
+Dialogue: 0,0:23:04.92,0:23:08.05,Default,,0000,0000,0000,,{\i1}I'm so happy I'm so happy{\i0}
+Dialogue: 0,0:23:08.05,0:23:11.14,Default,,0000,0000,0000,,{\i1}Nice to meet you, awakening love{\i0}
+Dialogue: 0,0:23:11.14,0:23:14.26,Default,,0000,0000,0000,,{\i1}I'll see you again tomorrow too{\i0}
+Dialogue: 0,0:23:14.26,0:23:17.39,Default,,0000,0000,0000,,{\i1}Good night{\i0}
+Dialogue: 0,0:23:17.39,0:23:22.11,Default,,0000,0000,0000,,{\i1}I'll see you again soon in my dreams{\i0}
+Dialogue: 0,0:23:22.11,0:23:25.78,Default,,0000,0000,0000,,{\i1}Good night{\i0}
+Dialogue: 0,0:23:30.32,0:23:32.87,Default,,0000,0000,0000,,I'm Wood Cube.
+Dialogue: 0,0:23:32.87,0:23:38.20,Default,,0000,0000,0000,,Only my master is able\Nto obtain the ancient weapon.
+Dialogue: 0,0:23:38.20,0:23:39.58,Default,,0000,0000,0000,,{\an8}The next {\i1}My Ordinary Life {\i0}is Episode 8.{\an}
+Dialogue: 0,0:23:39.58,0:23:40.75,Default,,0000,0000,0000,,{\an8}"Narration: Norio Wakamoto"\NThe next {\i1}My Ordinary Life {\i0}is Episode 8.{\an}
+Dialogue: 0,0:23:40.75,0:23:42.25,Default,,0000,0000,0000,,{\an8}"Narration: Norio Wakamoto"\NLook forward to it!{\an}
