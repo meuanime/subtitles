@@ -1,0 +1,367 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: On Top Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:06.75,0:00:08.29,Default,,0000,0000,0000,,Hello!
+Dialogue: 0,0:00:11.97,0:00:14.01,Default,,0000,0000,0000,,I am Celes the hunter!
+Dialogue: 0,0:00:14.01,0:00:18.81,Default,,0000,0000,0000,,I'm here in search of a man named Genzo!
+Dialogue: 0,0:00:18.81,0:00:20.85,Default,,0000,0000,0000,,You're Genzo!
+Dialogue: 0,0:00:20.85,0:00:22.56,Default,,0000,0000,0000,,The demon beast killer!
+Dialogue: 0,0:00:22.56,0:00:25.77,Default,,0000,0000,0000,,Chop to the head!
+Dialogue: 0,0:00:28.94,0:00:30.61,Default,,0000,0000,0000,,My head!
+Dialogue: 0,0:00:30.61,0:00:33.19,Default,,0000,0000,0000,,Hey...
+Dialogue: 0,0:00:33.19,0:00:34.61,Default,,0000,0000,0000,,Oww! Oww!
+Dialogue: 0,0:00:34.61,0:00:37.41,Default,,0000,0000,0000,,I'm sorry! Stop it!
+Dialogue: 0,0:02:13.00,0:02:17.01,Default,,0000,0000,0000,,{\an8}"First Student x Pain in the Butt" {\an}
+Dialogue: 0,0:02:17.76,0:02:19.76,Default,,0000,0000,0000,,The fight lasted five seconds.
+Dialogue: 0,0:02:19.76,0:02:23.64,Default,,0000,0000,0000,,The deciding move was\Nthe figure-four leg lock.
+Dialogue: 0,0:02:25.72,0:02:27.73,Default,,0000,0000,0000,,You okay?
+Dialogue: 0,0:02:27.73,0:02:30.94,Default,,0000,0000,0000,,Those weird techniques Genzo uses hurt.
+Dialogue: 0,0:02:30.94,0:02:34.82,Default,,0000,0000,0000,,The more you struggle the worse it gets.
+Dialogue: 0,0:02:37.03,0:02:39.99,Default,,0000,0000,0000,,Thank... you...
+Dialogue: 0,0:02:43.20,0:02:46.08,Default,,0000,0000,0000,,So, why are you here?
+Dialogue: 0,0:02:46.08,0:02:48.33,Default,,0000,0000,0000,,If you want to do an interview\Ntalk to the maid first.
+Dialogue: 0,0:02:48.33,0:02:50.25,Default,,0000,0000,0000,,Who are you calling a maid?
+Dialogue: 0,0:02:50.25,0:02:54.54,Default,,0000,0000,0000,,I'm not your servant, you pervert human.
+Dialogue: 0,0:02:54.54,0:02:55.88,Default,,0000,0000,0000,,Get 'em! Go! Go!
+Dialogue: 0,0:02:55.88,0:02:58.97,Default,,0000,0000,0000,,Um, so did you need something?
+Dialogue: 0,0:02:58.97,0:03:01.76,Default,,0000,0000,0000,,I'll start over. My name is Celes.
+Dialogue: 0,0:03:01.76,0:03:04.93,Default,,0000,0000,0000,,A hunter who's just come here\Nto the town of Cluster.
+Dialogue: 0,0:03:04.93,0:03:06.14,Default,,0000,0000,0000,,The guild master said that
+Dialogue: 0,0:03:06.14,0:03:10.39,Default,,0000,0000,0000,,Genzo is an incredibly powerful hunter\Nnicknamed the demon beast killer!
+Dialogue: 0,0:03:10.39,0:03:13.15,Default,,0000,0000,0000,,So it's time for round two?
+Dialogue: 0,0:03:13.15,0:03:14.06,Default,,0000,0000,0000,,Sorry!
+Dialogue: 0,0:03:14.06,0:03:16.15,Default,,0000,0000,0000,,I don't know what I said\Nthat pissed you off but I'm sorry!
+Dialogue: 0,0:03:16.15,0:03:18.28,Default,,0000,0000,0000,,That old bearded bastard.
+Dialogue: 0,0:03:18.28,0:03:21.86,Default,,0000,0000,0000,,Next time I meet him, I think it's time\Nfor a figure-four beard lock!
+Dialogue: 0,0:03:21.86,0:03:26.70,Default,,0000,0000,0000,,So basically, you planned to challenge\NGenzo because he's famous
+Dialogue: 0,0:03:26.70,0:03:29.79,Default,,0000,0000,0000,,and raise your own profile?
+Dialogue: 0,0:03:29.79,0:03:31.29,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:03:31.29,0:03:37.96,Default,,0000,0000,0000,,Genzo, please... Please\Nmake me your student.
+Dialogue: 0,0:03:37.96,0:03:39.55,Default,,0000,0000,0000,,Student?
+Dialogue: 0,0:03:39.55,0:03:43.68,Default,,0000,0000,0000,,I have a reason I have to become strong.
+Dialogue: 0,0:03:43.68,0:03:45.97,Default,,0000,0000,0000,,Please... please!
+Dialogue: 0,0:03:45.97,0:03:47.14,Default,,0000,0000,0000,,I refuse.
+Dialogue: 0,0:03:48.47,0:03:50.52,Default,,0000,0000,0000,,I'm busy!
+Dialogue: 0,0:03:50.52,0:03:56.44,Default,,0000,0000,0000,,I'm off to go lie down in front of stray\Ncatsso they'll step on me with their paws!
+Dialogue: 0,0:03:56.44,0:04:00.19,Default,,0000,0000,0000,,Genzo, the neighbors are complaining.
+Dialogue: 0,0:04:00.19,0:04:02.99,Default,,0000,0000,0000,,They're telling you not to lay down\Nin the middle of the road.
+Dialogue: 0,0:04:02.99,0:04:05.03,Default,,0000,0000,0000,,Please!
+Dialogue: 0,0:04:05.03,0:04:08.87,Default,,0000,0000,0000,,I can't do much, but I will repay you!
+Dialogue: 0,0:04:08.87,0:04:15.33,Default,,0000,0000,0000,,If you want, I can even pay with my body...
+Dialogue: 0,0:04:17.09,0:04:18.55,Default,,0000,0000,0000,,I refuse.
+Dialogue: 0,0:04:18.55,0:04:23.76,Default,,0000,0000,0000,,Come back when you're\Nas attractive as a kobold.
+Dialogue: 0,0:04:23.76,0:04:26.43,Default,,0000,0000,0000,,I'm less attractive than a kobold?
+Dialogue: 0,0:04:26.43,0:04:29.18,Default,,0000,0000,0000,,Please! Please!
+Dialogue: 0,0:04:29.18,0:04:30.72,Default,,0000,0000,0000,,You're in the way!
+Dialogue: 0,0:04:30.72,0:04:34.23,Default,,0000,0000,0000,,If you don't leave me alone\NI'll give you a cobra twist...
+Dialogue: 0,0:04:35.15,0:04:36.69,Default,,0000,0000,0000,,You're...
+Dialogue: 0,0:04:36.69,0:04:38.48,Default,,0000,0000,0000,,Sorry to both you.
+Dialogue: 0,0:04:38.48,0:04:41.78,Default,,0000,0000,0000,,Never mind what I said\Nabout being your student.
+Dialogue: 0,0:04:41.78,0:04:42.78,Default,,0000,0000,0000,,Wait.
+Dialogue: 0,0:04:42.78,0:04:44.95,Default,,0000,0000,0000,,Wh-What are you doing?
+Dialogue: 0,0:04:51.33,0:04:55.25,Default,,0000,0000,0000,,So you're a lizardman, huh?
+Dialogue: 0,0:04:57.71,0:04:59.42,Default,,0000,0000,0000,,That's right.
+Dialogue: 0,0:04:59.42,0:05:03.21,Default,,0000,0000,0000,,No... my ancestors were lizardmen.
+Dialogue: 0,0:05:03.21,0:05:09.55,Default,,0000,0000,0000,,We look like demon beasts,\Nso people are afraid of us.
+Dialogue: 0,0:05:09.55,0:05:12.72,Default,,0000,0000,0000,,In my case, my genes showed up here,
+Dialogue: 0,0:05:12.72,0:05:16.06,Default,,0000,0000,0000,,and I have a scaly stomach and back...
+Dialogue: 0,0:05:16.06,0:05:19.81,Default,,0000,0000,0000,,Celes, a lady mustn't show\Nany more of her stomach!
+Dialogue: 0,0:05:19.81,0:05:22.23,Default,,0000,0000,0000,,You're in the presence of a man! Behave!
+Dialogue: 0,0:05:22.23,0:05:26.61,Default,,0000,0000,0000,,Genzo will go after anyone, and his eyes\Nare already getting dangerous...
+Dialogue: 0,0:05:26.61,0:05:28.37,Default,,0000,0000,0000,,Hang on, guys.
+Dialogue: 0,0:05:28.37,0:05:30.45,Default,,0000,0000,0000,,I'm not like that.
+Dialogue: 0,0:05:30.45,0:05:31.66,Default,,0000,0000,0000,,All right then, Genzo.
+Dialogue: 0,0:05:31.66,0:05:33.37,Default,,0000,0000,0000,,Will you make her your student?
+Dialogue: 0,0:05:33.37,0:05:35.25,Default,,0000,0000,0000,,Of course I will.
+Dialogue: 0,0:05:35.25,0:05:37.71,Default,,0000,0000,0000,,Are you stupid?
+Dialogue: 0,0:05:37.71,0:05:40.09,Default,,0000,0000,0000,,Really?
+Dialogue: 0,0:05:40.09,0:05:42.96,Default,,0000,0000,0000,,You should rethink this, Celes.
+Dialogue: 0,0:05:42.96,0:05:47.26,Default,,0000,0000,0000,,If you want, I'll teach you\Nmy special move, "Death Roll"...
+Dialogue: 0,0:05:47.26,0:05:52.18,Default,,0000,0000,0000,,No, he accepted me\Neven though I'm a lizardman.
+Dialogue: 0,0:05:52.18,0:05:54.85,Default,,0000,0000,0000,,I want Genzo to teach me!
+Dialogue: 0,0:05:54.85,0:05:56.64,Default,,0000,0000,0000,,Somebody worry about me.
+Dialogue: 0,0:05:56.64,0:06:00.52,Default,,0000,0000,0000,,Okay! We're off to\Nthe mountains to train, then!
+Dialogue: 0,0:06:00.52,0:06:02.57,Default,,0000,0000,0000,,Oh, fine.
+Dialogue: 0,0:06:02.57,0:06:04.48,Default,,0000,0000,0000,,We'll help...
+Dialogue: 0,0:06:04.48,0:06:06.32,Default,,0000,0000,0000,,as much as we can!
+Dialogue: 0,0:06:08.15,0:06:10.62,Default,,0000,0000,0000,,Strength starts with the posterior chain!
+Dialogue: 0,0:06:10.62,0:06:13.41,Default,,0000,0000,0000,,Hands above your head and squat!
+Dialogue: 0,0:06:13.41,0:06:15.37,Default,,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:06:15.37,0:06:18.42,Default,,0000,0000,0000,,One...
+Dialogue: 0,0:06:18.42,0:06:20.75,Default,,0000,0000,0000,,Two...
+Dialogue: 0,0:06:20.75,0:06:22.42,Default,,0000,0000,0000,,Three...
+Dialogue: 0,0:06:25.34,0:06:26.30,Default,,0000,0000,0000,,Four...
+Dialogue: 0,0:06:26.30,0:06:27.88,Default,,0000,0000,0000,,Tell me, my student.
+Dialogue: 0,0:06:27.88,0:06:31.47,Default,,0000,0000,0000,,Do your lizardman genes only show\Non your stomach and back?
+Dialogue: 0,0:06:31.47,0:06:34.81,Default,,0000,0000,0000,,Do your thighs and biceps\Never get covered in scales?
+Dialogue: 0,0:06:34.81,0:06:38.98,Default,,0000,0000,0000,,Only my back and stomach, yes.
+Dialogue: 0,0:06:38.98,0:06:40.15,Default,,0000,0000,0000,,Oh, I see.
+Dialogue: 0,0:06:40.15,0:06:42.69,Default,,0000,0000,0000,,Forget the squats, then.
+Dialogue: 0,0:06:44.27,0:06:47.03,Default,,0000,0000,0000,,We're moving on to core and back work!
+Dialogue: 0,0:06:47.03,0:06:48.32,Default,,0000,0000,0000,,Get to work!
+Dialogue: 0,0:06:48.32,0:06:51.99,Default,,0000,0000,0000,,Um, I've only done four squats.
+Dialogue: 0,0:06:51.99,0:06:53.53,Default,,0000,0000,0000,,Genzo...
+Dialogue: 0,0:06:53.53,0:06:57.04,Default,,0000,0000,0000,,It's obvious what you're thinking.
+Dialogue: 0,0:06:59.66,0:07:04.92,Default,,0000,0000,0000,,If you want to train your legs and core,\NI can teach you better than him.
+Dialogue: 0,0:07:04.92,0:07:07.01,Default,,0000,0000,0000,,Follow me!
+Dialogue: 0,0:07:07.01,0:07:09.05,Default,,0000,0000,0000,,Okay, Shigure!
+Dialogue: 0,0:07:09.05,0:07:10.51,Default,,0000,0000,0000,,Thanks...
+Dialogue: 0,0:07:14.93,0:07:16.60,Default,,0000,0000,0000,,She's fast.
+Dialogue: 0,0:07:17.27,0:07:20.02,Default,,0000,0000,0000,,To get big, you need to eat big!
+Dialogue: 0,0:07:20.02,0:07:22.19,Default,,0000,0000,0000,,Don't be a picky eater!
+Dialogue: 0,0:07:22.19,0:07:26.78,Default,,0000,0000,0000,,Hanako! Lizardmen... aren't like lizards!
+Dialogue: 0,0:07:26.78,0:07:28.90,Default,,0000,0000,0000,,We don't eat bugs!
+Dialogue: 0,0:07:28.90,0:07:31.91,Default,,0000,0000,0000,,But I went through all\Nthe trouble of catching it.
+Dialogue: 0,0:07:31.91,0:07:33.91,Default,,0000,0000,0000,,I'll eat it then.
+Dialogue: 0,0:07:37.99,0:07:40.37,Default,,0000,0000,0000,,You don't have to copy that.
+Dialogue: 0,0:07:40.37,0:07:42.33,Default,,0000,0000,0000,,A strong woman is beautiful!
+Dialogue: 0,0:07:42.33,0:07:46.25,Default,,0000,0000,0000,,Copy my sexy pose!
+Dialogue: 0,0:07:46.96,0:07:51.01,Default,,0000,0000,0000,,Sexy pose...
+Dialogue: 0,0:07:51.01,0:07:52.55,Default,,0000,0000,0000,,Not at all alike.
+Dialogue: 0,0:08:26.08,0:08:28.55,Default,,0000,0000,0000,,There's nothing else I can teach you.
+Dialogue: 0,0:08:28.55,0:08:30.92,Default,,0000,0000,0000,,Well done.
+Dialogue: 0,0:08:32.84,0:08:37.10,Default,,0000,0000,0000,,Thank you for everything, sir!
+Dialogue: 0,0:08:37.10,0:08:40.43,Default,,0000,0000,0000,,No female wrestler is a match for you now!
+Dialogue: 0,0:08:40.43,0:08:42.81,Default,,0000,0000,0000,,Wear this name with pride!
+Dialogue: 0,0:08:42.81,0:08:44.14,Default,,0000,0000,0000,,Your ring name is...
+Dialogue: 0,0:08:44.14,0:08:45.77,Default,,0000,0000,0000,,Celes XXL!
+Dialogue: 0,0:08:45.77,0:08:49.23,Default,,0000,0000,0000,,Yes! My name is Celes XXL!
+Dialogue: 0,0:08:49.23,0:08:52.36,Default,,0000,0000,0000,,Your first student...
+Dialogue: 0,0:08:52.36,0:08:54.49,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:08:54.49,0:08:55.70,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:08:55.70,0:08:57.95,Default,,0000,0000,0000,,You don't like the name Celes XXL?
+Dialogue: 0,0:08:57.95,0:09:00.04,Default,,0000,0000,0000,,Hey, Carmilla, what do you think?
+Dialogue: 0,0:09:00.04,0:09:03.16,Default,,0000,0000,0000,,I think it accurately describes\Nher physical attributes.
+Dialogue: 0,0:09:03.16,0:09:06.37,Default,,0000,0000,0000,,Maybe XXL is too small?
+Dialogue: 0,0:09:06.37,0:09:09.13,Default,,0000,0000,0000,,It's not the name!
+Dialogue: 0,0:09:09.13,0:09:12.05,Default,,0000,0000,0000,,This isn't what I want to be!
+Dialogue: 0,0:09:12.05,0:09:16.51,Default,,0000,0000,0000,,You're saying you prefer\Nto fight without a mask?
+Dialogue: 0,0:09:16.51,0:09:17.64,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:09:17.64,0:09:21.56,Default,,0000,0000,0000,,I'm not trying to become one\Nof those weird "wrestler" things!
+Dialogue: 0,0:09:21.56,0:09:22.93,Default,,0000,0000,0000,,Um...
+Dialogue: 0,0:09:22.93,0:09:26.06,Default,,0000,0000,0000,,I should've started by asking this,
+Dialogue: 0,0:09:26.06,0:09:29.69,Default,,0000,0000,0000,,but why did you want to learn from Genzo?
+Dialogue: 0,0:09:30.98,0:09:33.32,Default,,0000,0000,0000,,It is really late to ask that question.
+Dialogue: 0,0:09:33.32,0:09:37.03,Default,,0000,0000,0000,,It's a really boring story.
+Dialogue: 0,0:09:37.03,0:09:40.03,Default,,0000,0000,0000,,I'm sure it's more fun than\Nlistening to Carmilla brag.
+Dialogue: 0,0:09:40.03,0:09:43.37,Default,,0000,0000,0000,,Genzo, let me hit you later.
+Dialogue: 0,0:09:43.37,0:09:45.58,Default,,0000,0000,0000,,Actually...
+Dialogue: 0,0:09:46.96,0:09:51.54,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:09:55.01,0:09:57.97,Default,,0000,0000,0000,,I will bathe in your blood!
+Dialogue: 0,0:10:14.86,0:10:16.44,Default,,0000,0000,0000,,Old Man!
+Dialogue: 0,0:10:16.44,0:10:18.32,Default,,0000,0000,0000,,Hey, Guild Master!
+Dialogue: 0,0:10:18.32,0:10:20.49,Default,,0000,0000,0000,,Get your ass out here!
+Dialogue: 0,0:10:20.49,0:10:25.83,Default,,0000,0000,0000,,Or I'll start executing every\Nhunter here, one by one!
+Dialogue: 0,0:10:26.58,0:10:28.04,Default,,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:10:28.04,0:10:30.33,Default,,0000,0000,0000,,Execution!
+Dialogue: 0,0:10:34.17,0:10:36.09,Default,,0000,0000,0000,,Sir, wait!
+Dialogue: 0,0:10:36.09,0:10:38.26,Default,,0000,0000,0000,,Calm down!
+Dialogue: 0,0:10:38.26,0:10:39.59,Default,,0000,0000,0000,,Let me go!
+Dialogue: 0,0:10:39.59,0:10:42.43,Default,,0000,0000,0000,,Hey, is that the halfbreed?
+Dialogue: 0,0:10:42.43,0:10:47.52,Default,,0000,0000,0000,,You're right! The halfbreed animalis\Nstill hanging around, huh?
+Dialogue: 0,0:10:47.52,0:10:49.94,Default,,0000,0000,0000,,Want me to hunt her?
+Dialogue: 0,0:10:51.31,0:10:53.27,Default,,0000,0000,0000,,Execution!
+Dialogue: 0,0:10:54.86,0:10:56.99,Default,,0000,0000,0000,,Hey, grab him!
+Dialogue: 0,0:10:56.99,0:10:59.03,Default,,0000,0000,0000,,He'll destroy the guild!
+Dialogue: 0,0:11:01.53,0:11:03.37,Default,,0000,0000,0000,,Sir...
+Dialogue: 0,0:11:05.08,0:11:07.50,Default,,0000,0000,0000,,Execution! Execution!
+Dialogue: 0,0:11:07.50,0:11:09.71,Default,,0000,0000,0000,,Stop it!
+Dialogue: 0,0:11:09.71,0:11:11.92,Default,,0000,0000,0000,,Execution!
+Dialogue: 0,0:11:11.92,0:11:16.34,Default,,0000,0000,0000,,Get 'em, Genzo!
+Dialogue: 0,0:11:16.34,0:11:17.71,Default,,0000,0000,0000,,You're being too loud!
+Dialogue: 0,0:11:17.71,0:11:20.09,Default,,0000,0000,0000,,What's going on?
+Dialogue: 0,0:11:20.09,0:11:21.63,Default,,0000,0000,0000,,Hi.
+Dialogue: 0,0:11:26.64,0:11:30.31,Default,,0000,0000,0000,,Really, what's going on here?
+Dialogue: 0,0:11:31.31,0:11:35.98,Default,,0000,0000,0000,,Let's hear your explanation,\Ndemon beast killer!
+Dialogue: 0,0:11:35.98,0:11:42.24,Default,,0000,0000,0000,,Call me that one more time\Nand I rip your beard off.
+Dialogue: 0,0:11:44.82,0:11:49.66,Default,,0000,0000,0000,,Now, now, Genzo. Calm down.
+Dialogue: 0,0:11:49.66,0:11:53.63,Default,,0000,0000,0000,,Really, what's wrong with you?
+Dialogue: 0,0:11:53.63,0:11:55.67,Default,,0000,0000,0000,,What's wrong with me?
+Dialogue: 0,0:11:55.67,0:11:57.63,Default,,0000,0000,0000,,Oww! Oww!
+Dialogue: 0,0:11:57.63,0:11:59.13,Default,,0000,0000,0000,,Listen up, geezer!
+Dialogue: 0,0:11:59.13,0:12:01.38,Default,,0000,0000,0000,,You know that I'm a kind man whose heart
+Dialogue: 0,0:12:01.38,0:12:05.10,Default,,0000,0000,0000,,is filled with love for\Nall creatures, right?
+Dialogue: 0,0:12:05.10,0:12:07.14,Default,,0000,0000,0000,,Yes, I know.
+Dialogue: 0,0:12:07.14,0:12:10.10,Default,,0000,0000,0000,,I didn't understand a word you said,
+Dialogue: 0,0:12:10.10,0:12:12.19,Default,,0000,0000,0000,,but I got the fact that you're a weirdo!
+Dialogue: 0,0:12:12.19,0:12:15.11,Default,,0000,0000,0000,,Your piece-of-shit hunters\Nare bullying a lizardman\Nbut I got the fact that you're a weirdo!
+Dialogue: 0,0:12:15.11,0:12:19.36,Default,,0000,0000,0000,,And doing all kinds of\Nnaughty things to them!
+Dialogue: 0,0:12:19.36,0:12:22.20,Default,,0000,0000,0000,,Sir, calm down!
+Dialogue: 0,0:12:22.20,0:12:24.45,Default,,0000,0000,0000,,They haven't been doing\Nanything naughty to me.
+Dialogue: 0,0:12:24.45,0:12:28.49,Default,,0000,0000,0000,,Just teasing me...\Nand kind of messing with me...
+Dialogue: 0,0:12:28.49,0:12:35.29,Default,,0000,0000,0000,,Messing with you? Messing with you?
+Dialogue: 0,0:12:35.29,0:12:36.46,Default,,0000,0000,0000,,Was it your stomach?
+Dialogue: 0,0:12:36.46,0:12:40.30,Default,,0000,0000,0000,,Did they mess with your shiny stomach?
+Dialogue: 0,0:12:40.30,0:12:43.01,Default,,0000,0000,0000,,No, I mean...
+Dialogue: 0,0:12:43.01,0:12:44.93,Default,,0000,0000,0000,,They didn't?
+Dialogue: 0,0:12:44.93,0:12:48.85,Default,,0000,0000,0000,,So you're saying that my guild's hunters
+Dialogue: 0,0:12:48.85,0:12:54.81,Default,,0000,0000,0000,,have been harassing and\Nupsetting Celes the lizardman?
+Dialogue: 0,0:12:54.81,0:12:58.57,Default,,0000,0000,0000,,And so Celes came to you to train, and...
+Dialogue: 0,0:12:58.57,0:13:02.82,Default,,0000,0000,0000,,I wanted to teach the\Nother hunters a lesson.
+Dialogue: 0,0:13:02.82,0:13:09.28,Default,,0000,0000,0000,,But I realized that I was upset over\Nsomething that didn't matter at all.
+Dialogue: 0,0:13:09.28,0:13:12.04,Default,,0000,0000,0000,,Now that my teachers have\Ntold me I've mastered the art,
+Dialogue: 0,0:13:12.04,0:13:14.71,Default,,0000,0000,0000,,and I've attained real strength,
+Dialogue: 0,0:13:14.71,0:13:18.21,Default,,0000,0000,0000,,I don't care about it anymore.
+Dialogue: 0,0:13:18.21,0:13:20.71,Default,,0000,0000,0000,,So it's okay.
+Dialogue: 0,0:13:20.71,0:13:25.84,Default,,0000,0000,0000,,Now I want to focus on being\Na wonderful person like my teacher!
+Dialogue: 0,0:13:25.84,0:13:27.39,Default,,0000,0000,0000,,Celes!
+Dialogue: 0,0:13:29.01,0:13:30.97,Default,,0000,0000,0000,,We're sorry!
+Dialogue: 0,0:13:31.68,0:13:35.60,Default,,0000,0000,0000,,I'm sorry, for calling you a halfbreed...
+Dialogue: 0,0:13:35.60,0:13:40.98,Default,,0000,0000,0000,,Our hunts haven't been going\Nwell lately, and we've been upset.
+Dialogue: 0,0:13:40.98,0:13:44.99,Default,,0000,0000,0000,,And since you're a demihuman and\Nthe new girl, we took it out on you.
+Dialogue: 0,0:13:44.99,0:13:46.61,Default,,0000,0000,0000,,Sorry.
+Dialogue: 0,0:13:50.62,0:13:52.54,Default,,0000,0000,0000,,I'm not having it.
+Dialogue: 0,0:14:02.75,0:14:04.42,Default,,0000,0000,0000,,Listen, Celes.
+Dialogue: 0,0:14:04.42,0:14:07.55,Default,,0000,0000,0000,,Life is a battle. Survival of the fittest.
+Dialogue: 0,0:14:07.55,0:14:09.89,Default,,0000,0000,0000,,No human can let anyone underestimate them.
+Dialogue: 0,0:14:09.89,0:14:12.68,Default,,0000,0000,0000,,Sir, I'm a lizardman.
+Dialogue: 0,0:14:15.39,0:14:17.77,Default,,0000,0000,0000,,You're my student. And a wrestler.
+Dialogue: 0,0:14:17.77,0:14:20.86,Default,,0000,0000,0000,,A wrestler must accept any challenge!
+Dialogue: 0,0:14:20.86,0:14:23.82,Default,,0000,0000,0000,,Sir, I'm a hunter.
+Dialogue: 0,0:14:26.40,0:14:28.20,Default,,0000,0000,0000,,Listen up, Celes!
+Dialogue: 0,0:14:28.20,0:14:30.16,Default,,0000,0000,0000,,Don't spoil them just because they showed
+Dialogue: 0,0:14:30.16,0:14:31.95,Default,,0000,0000,0000,,the slightest sign of apologizing to you.
+Dialogue: 0,0:14:31.95,0:14:34.54,Default,,0000,0000,0000,,A lizardman was being abused!
+Dialogue: 0,0:14:34.54,0:14:38.83,Default,,0000,0000,0000,,I'm not letting it all end on a happy note!
+Dialogue: 0,0:14:38.83,0:14:41.50,Default,,0000,0000,0000,,As your teacher, I order you to fight them!
+Dialogue: 0,0:14:41.50,0:14:44.92,Default,,0000,0000,0000,,Beat them flat until they\Nunderstand how strong you are!
+Dialogue: 0,0:14:44.92,0:14:48.47,Default,,0000,0000,0000,,What a pain...
+Dialogue: 0,0:14:48.47,0:14:52.39,Default,,0000,0000,0000,,Sir, I appreciate it, but...
+Dialogue: 0,0:14:52.39,0:14:54.01,Default,,0000,0000,0000,,I'm really fine...
+Dialogue: 0,0:14:54.01,0:14:59.06,Default,,0000,0000,0000,,If you won't do it, then\NI'll execute them all.
+Dialogue: 0,0:14:59.06,0:15:03.73,Default,,0000,0000,0000,,Genzo... cares about me that much?
+Dialogue: 0,0:15:03.73,0:15:06.07,Default,,0000,0000,0000,,That's probably wrong.
+Dialogue: 0,0:15:06.07,0:15:08.11,Default,,0000,0000,0000,,You should apologize!
+Dialogue: 0,0:15:08.11,0:15:10.20,Default,,0000,0000,0000,,He's serious.
+Dialogue: 0,0:15:10.20,0:15:11.53,Default,,0000,0000,0000,,Say sorry.
+Dialogue: 0,0:15:11.53,0:15:16.58,Default,,0000,0000,0000,,Bow to the both of them\Nand say you're sorry again.
+Dialogue: 0,0:15:16.58,0:15:18.96,Default,,0000,0000,0000,,All right, sir.
+Dialogue: 0,0:15:18.96,0:15:23.63,Default,,0000,0000,0000,,If it's a battle until one side gives up,\Ninstead of a duel to the death...
+Dialogue: 0,0:15:23.63,0:15:30.93,Default,,0000,0000,0000,,I'm a little curious to see how strong\NI've gotten after your training.
+Dialogue: 0,0:15:30.93,0:15:32.43,Default,,0000,0000,0000,,Sounds fun...
+Dialogue: 0,0:15:32.43,0:15:35.10,Default,,0000,0000,0000,,If you insist, I'll fight you.
+Dialogue: 0,0:15:35.10,0:15:38.81,Default,,0000,0000,0000,,But I won't hold back\Njust because you're new!
+Dialogue: 0,0:15:48.86,0:15:50.82,Default,,0000,0000,0000,,Celes, your legs!
+Dialogue: 0,0:15:50.82,0:15:52.86,Default,,0000,0000,0000,,Use your legs more!
+Dialogue: 0,0:15:54.82,0:15:56.03,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:16:00.25,0:16:01.79,Default,,0000,0000,0000,,Damn it!
+Dialogue: 0,0:16:03.08,0:16:05.67,Default,,0000,0000,0000,,Celes! Bite 'em!
+Dialogue: 0,0:16:05.67,0:16:11.84,Default,,0000,0000,0000,,Bite his soft, delicious side,\Nand eat his intestines!
+Dialogue: 0,0:16:13.51,0:16:15.55,Default,,0000,0000,0000,,I won't let you!
+Dialogue: 0,0:16:19.10,0:16:21.89,Default,,0000,0000,0000,,Hey, if you're going to fight, don't lose!
+Dialogue: 0,0:16:21.89,0:16:24.06,Default,,0000,0000,0000,,Show her who's boss!
+Dialogue: 0,0:16:24.06,0:16:27.94,Default,,0000,0000,0000,,Don't let your guard down! She's good!
+Dialogue: 0,0:16:27.94,0:16:29.98,Default,,0000,0000,0000,,Turn it around! Get her!
+Dialogue: 0,0:16:33.49,0:16:36.53,Default,,0000,0000,0000,,Celes, you can do it!
+Dialogue: 0,0:16:36.53,0:16:40.66,Default,,0000,0000,0000,,The thigh! Aim for the chewy thigh first!
+Dialogue: 0,0:16:40.66,0:16:43.42,Default,,0000,0000,0000,,If you lose, no dinner for you tonight!
+Dialogue: 0,0:16:50.46,0:16:53.26,Default,,0000,0000,0000,,It's rather lively today.
+Dialogue: 0,0:16:53.26,0:16:56.09,Default,,0000,0000,0000,,Oh, Clause.
+Dialogue: 0,0:16:56.09,0:16:58.22,Default,,0000,0000,0000,,What is this?
+Dialogue: 0,0:16:58.22,0:16:59.97,Default,,0000,0000,0000,,A mock battle.
+Dialogue: 0,0:16:59.97,0:17:02.48,Default,,0000,0000,0000,,It's a long story.
+Dialogue: 0,0:17:11.94,0:17:14.86,Default,,0000,0000,0000,,Okay, now finish him!
+Dialogue: 0,0:17:14.86,0:17:18.12,Default,,0000,0000,0000,,Sexy pose!
+Dialogue: 0,0:17:24.54,0:17:25.92,Default,,0000,0000,0000,,Owww!
+Dialogue: 0,0:17:25.92,0:17:30.13,Default,,0000,0000,0000,,What the hell were you thinking?\NGenzo, harder! Harder!
+Dialogue: 0,0:17:30.13,0:17:34.84,Default,,0000,0000,0000,,Hey, forget Carmilla\Nand focus on the fight!
+Dialogue: 0,0:17:34.84,0:17:38.05,Default,,0000,0000,0000,,Celes is in trouble!
+Dialogue: 0,0:17:38.05,0:17:40.51,Default,,0000,0000,0000,,What was that?
+Dialogue: 0,0:17:40.51,0:17:43.93,Default,,0000,0000,0000,,Were you training to\Nlearn something so dumb?
+Dialogue: 0,0:17:43.93,0:17:47.56,Default,,0000,0000,0000,,I was about to change my opinion on\Nlizardmen and now I just feel stupid!
+Dialogue: 0,0:17:47.56,0:17:49.19,Default,,0000,0000,0000,,No...
+Dialogue: 0,0:17:51.40,0:17:53.57,Default,,0000,0000,0000,,It's over!
+Dialogue: 0,0:17:53.57,0:17:56.70,Default,,0000,0000,0000,,Celes! His arms went up!
+Dialogue: 0,0:18:02.91,0:18:05.16,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:18:10.59,0:18:12.21,Default,,0000,0000,0000,,Hooray!
+Dialogue: 0,0:18:12.21,0:18:13.76,Default,,0000,0000,0000,,You did it!
+Dialogue: 0,0:18:13.76,0:18:15.84,Default,,0000,0000,0000,,His weapon's mine now!
+Dialogue: 0,0:18:15.84,0:18:17.76,Default,,0000,0000,0000,,That was amazing!
+Dialogue: 0,0:18:17.76,0:18:19.80,Default,,0000,0000,0000,,What was that?
+Dialogue: 0,0:18:21.76,0:18:24.14,Default,,0000,0000,0000,,I admit defeat.
+Dialogue: 0,0:18:24.14,0:18:25.68,Default,,0000,0000,0000,,You're really amazing.
+Dialogue: 0,0:18:25.68,0:18:27.94,Default,,0000,0000,0000,,I underestimated lizardmen.
+Dialogue: 0,0:18:27.94,0:18:31.82,Default,,0000,0000,0000,,No, it was a wonderful match.
+Dialogue: 0,0:18:31.82,0:18:35.07,Default,,0000,0000,0000,,And that wasn't a perfect victory.
+Dialogue: 0,0:18:35.07,0:18:38.70,Default,,0000,0000,0000,,I lost both of my weapons.
+Dialogue: 0,0:18:38.70,0:18:41.95,Default,,0000,0000,0000,,So it's a tie, then?
+Dialogue: 0,0:18:41.95,0:18:44.83,Default,,0000,0000,0000,,Yes. Let's try it again sometime.
+Dialogue: 0,0:18:44.83,0:18:47.25,Default,,0000,0000,0000,,Next time, I won't lose.
+Dialogue: 0,0:18:50.67,0:18:52.54,Default,,0000,0000,0000,,Not having it!
+Dialogue: 0,0:18:53.75,0:18:57.63,Default,,0000,0000,0000,,Genzo, what's gotten into you today?
+Dialogue: 0,0:18:57.63,0:19:00.18,Default,,0000,0000,0000,,Why are you being such a pain?
+Dialogue: 0,0:19:00.18,0:19:03.85,Default,,0000,0000,0000,,Everybody had their happy ending,\Nso let's go home.
+Dialogue: 0,0:19:03.85,0:19:06.85,Default,,0000,0000,0000,,I refuse to accept that someone can abuse
+Dialogue: 0,0:19:06.85,0:19:10.23,Default,,0000,0000,0000,,a demihuman and then\Nget off with just an apology!
+Dialogue: 0,0:19:10.23,0:19:13.65,Default,,0000,0000,0000,,Genzo, you're really being a pain!
+Dialogue: 0,0:19:13.65,0:19:15.07,Default,,0000,0000,0000,,Let me go, Shigure!
+Dialogue: 0,0:19:15.07,0:19:19.90,Default,,0000,0000,0000,,I need to make an example out of them\Nto prevent there from being a next victim!
+Dialogue: 0,0:19:19.90,0:19:24.66,Default,,0000,0000,0000,,When we get back you can rub my ears.
+Dialogue: 0,0:19:25.66,0:19:28.12,Default,,0000,0000,0000,,Um, Genzo.
+Dialogue: 0,0:19:28.12,0:19:29.75,Default,,0000,0000,0000,,Calm down.
+Dialogue: 0,0:19:29.75,0:19:34.09,Default,,0000,0000,0000,,They've been having trouble\Nwith their hunts lately.
+Dialogue: 0,0:19:34.09,0:19:35.46,Default,,0000,0000,0000,,I don't give a damn...
+Dialogue: 0,0:19:35.46,0:19:37.92,Default,,0000,0000,0000,,They did say that...
+Dialogue: 0,0:19:37.92,0:19:41.59,Default,,0000,0000,0000,,Lately, a beastman with\Na bare chest like a barbarian
+Dialogue: 0,0:19:41.59,0:19:43.55,Default,,0000,0000,0000,,has been appearing out of nowhere...
+Dialogue: 0,0:19:43.55,0:19:45.14,Default,,0000,0000,0000,,What? A beastman?
+Dialogue: 0,0:19:45.14,0:19:48.18,Default,,0000,0000,0000,,Yes, I think it's a weretiger or something.
+Dialogue: 0,0:19:48.18,0:19:50.02,Default,,0000,0000,0000,,Whenever we catch a demon beast,
+Dialogue: 0,0:19:50.02,0:19:53.36,Default,,0000,0000,0000,,it appears out of nowhere\Nand runs off with our prey.
+Dialogue: 0,0:19:53.36,0:19:56.78,Default,,0000,0000,0000,,I think it had some kind of weird cape.
+Dialogue: 0,0:19:56.78,0:20:00.95,Default,,0000,0000,0000,,It appears out of nowhere and\Nattacks us with strange techniques...
+Dialogue: 0,0:20:00.95,0:20:04.37,Default,,0000,0000,0000,,Even if we catch our prey, they still...
+Dialogue: 0,0:20:06.49,0:20:09.41,Default,,0000,0000,0000,,I know it's not your fault. We're sorry.
+Dialogue: 0,0:20:09.41,0:20:11.54,Default,,0000,0000,0000,,I guess that's an okay explanation.
+Dialogue: 0,0:20:11.54,0:20:13.88,Default,,0000,0000,0000,,Celes, forgive them.
+Dialogue: 0,0:20:13.88,0:20:17.00,Default,,0000,0000,0000,,Okay, I'm fine with that...
+Dialogue: 0,0:20:17.00,0:20:20.76,Default,,0000,0000,0000,,We're really sorry!
+Dialogue: 0,0:20:24.68,0:20:27.68,Default,,0000,0000,0000,,Genzo, may I have a word?
+Dialogue: 0,0:20:27.68,0:20:28.60,Default,,0000,0000,0000,,No.
+Dialogue: 0,0:20:28.60,0:20:31.52,Default,,0000,0000,0000,,Was the person they were talking about...
+Dialogue: 0,0:20:31.52,0:20:35.02,Default,,0000,0000,0000,,Shigure, it's a waste of time to even ask.
+Dialogue: 0,0:20:35.02,0:20:36.69,Default,,0000,0000,0000,,No idea.
+Dialogue: 0,0:20:36.69,0:20:41.70,Default,,0000,0000,0000,,I wondered where all those new\Ndemon beasts were coming from!
+Dialogue: 0,0:20:45.57,0:20:47.83,Default,,0000,0000,0000,,May I have a word?
+Dialogue: 0,0:20:49.33,0:20:51.58,Default,,0000,0000,0000,,A public tournament?
+Dialogue: 0,0:20:51.58,0:20:55.54,Default,,0000,0000,0000,,Yes. I was very impressed\Nby that mock battle.
+Dialogue: 0,0:20:55.54,0:21:00.63,Default,,0000,0000,0000,,I think people would get very excited\Nto see combat as a form of entertainment.
+Dialogue: 0,0:21:00.63,0:21:02.84,Default,,0000,0000,0000,,In addition to selling tickets\Nto the event itself,
+Dialogue: 0,0:21:02.84,0:21:05.59,Default,,0000,0000,0000,,we could sell merchandise and food.
+Dialogue: 0,0:21:05.59,0:21:08.47,Default,,0000,0000,0000,,It should turn a considerable profit.
+Dialogue: 0,0:21:08.47,0:21:10.10,Default,,0000,0000,0000,,Sounds great!
+Dialogue: 0,0:21:10.10,0:21:12.68,Default,,0000,0000,0000,,I'll do anything to help fix our budget!
+Dialogue: 0,0:21:12.68,0:21:16.81,Default,,0000,0000,0000,,If you're selling merchandise, you\Nshould sell some stuff for the Mistress.
+Dialogue: 0,0:21:16.81,0:21:18.57,Default,,0000,0000,0000,,It'll sell out in an instant!
+Dialogue: 0,0:21:18.57,0:21:21.11,Default,,0000,0000,0000,,There'll be food, right?
+Dialogue: 0,0:21:21.11,0:21:23.11,Default,,0000,0000,0000,,I think it's a great idea.
+Dialogue: 0,0:21:23.11,0:21:25.20,Default,,0000,0000,0000,,But I want to run a pet shop...
+Dialogue: 0,0:21:25.20,0:21:31.16,Default,,0000,0000,0000,,If you appear in the fights, we'll pay you.
+Dialogue: 0,0:21:31.16,0:21:34.04,Default,,0000,0000,0000,,Won't it help you get the money\Nyou need to open your business?
+Dialogue: 0,0:21:34.04,0:21:38.04,Default,,0000,0000,0000,,Fight money, huh?
+Dialogue: 0,0:21:38.04,0:21:41.84,Default,,0000,0000,0000,,What is this feeling of excitement?
+Dialogue: 0,0:21:41.84,0:21:45.05,Default,,0000,0000,0000,,My muscles are screaming at me to fight!
+Dialogue: 0,0:21:46.51,0:21:52.52,Default,,0000,0000,0000,,If the training my body has endured\Ncan now help the animals...
+Dialogue: 0,0:21:52.52,0:21:54.52,Default,,0000,0000,0000,,Very well!
+Dialogue: 0,0:21:54.52,0:21:57.52,Default,,0000,0000,0000,,A wrestler accepts any challenge!
+Dialogue: 0,0:22:04.19,0:22:07.70,Default,,0000,0000,0000,,So I'm a pro wrestler\Nin this world now, too?
+Dialogue: 0,0:23:40.21,0:23:43.71,Default,,0000,0000,0000,,Next time: "Animal x Event."

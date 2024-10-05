@@ -1,0 +1,357 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: On Top Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.83,0:00:09.00,Default,,0000,0000,0000,,Here you go! Here you go!
+Dialogue: 0,0:00:09.00,0:00:12.55,Default,,0000,0000,0000,,Eat up!
+Dialogue: 0,0:00:12.55,0:00:15.18,Default,,0000,0000,0000,,Is it yummy, Akemi?
+Dialogue: 0,0:00:15.18,0:00:15.97,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:00:15.97,0:00:16.68,Default,,0000,0000,0000,,You're so cute...
+Dialogue: 0,0:00:16.68,0:00:18.18,Default,,0000,0000,0000,,Hey, Genzo!\NYou're so cute...
+Dialogue: 0,0:00:18.18,0:00:19.47,Default,,0000,0000,0000,,When are you going to teach me\NYou're so cute...
+Dialogue: 0,0:00:19.47,0:00:22.02,Default,,0000,0000,0000,,how to be a pro wrestler?\NYou're so cute...
+Dialogue: 0,0:00:23.69,0:00:26.81,Default,,0000,0000,0000,,You're gonna ask me that, are you?
+Dialogue: 0,0:00:28.19,0:00:32.28,Default,,0000,0000,0000,,I told you yesterday\Nthat we'd start training at dawn!
+Dialogue: 0,0:00:35.86,0:00:40.20,Default,,0000,0000,0000,,Hey! Wake up! It's time to start training!
+Dialogue: 0,0:00:49.17,0:00:51.84,Default,,0000,0000,0000,,Are you serious about this?
+Dialogue: 0,0:00:51.84,0:00:55.05,Default,,0000,0000,0000,,Yes! Yes! Yes, I am!
+Dialogue: 0,0:00:55.05,0:00:57.39,Default,,0000,0000,0000,,So let me go!
+Dialogue: 0,0:00:57.39,0:01:01.01,Default,,0000,0000,0000,,Then let's see how serious you are!
+Dialogue: 0,0:02:32.06,0:02:36.03,Default,,0000,0000,0000,,{\an8}"Pride x Loyalty" {\an}
+Dialogue: 0,0:02:40.36,0:02:44.03,Default,,0000,0000,0000,,This is the design for the arena.
+Dialogue: 0,0:02:44.03,0:02:45.04,Default,,0000,0000,0000,,The pain!
+Dialogue: 0,0:02:45.04,0:02:46.20,Default,,0000,0000,0000,,We can hold
+Dialogue: 0,0:02:46.20,0:02:48.71,Default,,0000,0000,0000,,far more people than last time.
+Dialogue: 0,0:02:48.71,0:02:49.54,Default,,0000,0000,0000,,My bones are breaking!
+Dialogue: 0,0:02:49.54,0:02:51.33,Default,,0000,0000,0000,,They were flowing out into\Nthe streets last time, after all.
+Dialogue: 0,0:02:51.33,0:02:53.54,Default,,0000,0000,0000,,Please stop the pain!\NThey were flowing out into\Nthe streets last time, after all.
+Dialogue: 0,0:02:53.54,0:02:56.50,Default,,0000,0000,0000,,Please stop the pain!\NI've placed VIP seats here.
+Dialogue: 0,0:02:56.50,0:03:01.18,Default,,0000,0000,0000,,They cost ten times as much\Nas the normal seats.
+Dialogue: 0,0:03:01.18,0:03:02.30,Default,,0000,0000,0000,,I see!
+Dialogue: 0,0:03:02.30,0:03:03.64,Default,,0000,0000,0000,,Genzo, please...
+Dialogue: 0,0:03:03.64,0:03:06.26,Default,,0000,0000,0000,,Ten times!
+Dialogue: 0,0:03:06.26,0:03:07.68,Default,,0000,0000,0000,,Where are the food stands?
+Dialogue: 0,0:03:07.68,0:03:08.93,Default,,0000,0000,0000,,Why are we doing this? Why?\NWhere are the food stands?
+Dialogue: 0,0:03:08.93,0:03:12.06,Default,,0000,0000,0000,,Why are we doing this? Why?\NOh, they're around here.
+Dialogue: 0,0:03:12.06,0:03:14.36,Default,,0000,0000,0000,,Where around here, specifically?
+Dialogue: 0,0:03:14.36,0:03:16.15,Default,,0000,0000,0000,,This whole area.
+Dialogue: 0,0:03:18.82,0:03:24.32,Default,,0000,0000,0000,,We have two, no, almost three times\Nas many stands as last time.
+Dialogue: 0,0:03:24.32,0:03:25.41,Default,,0000,0000,0000,,Wonderful!
+Dialogue: 0,0:03:25.41,0:03:26.49,Default,,0000,0000,0000,,No more!
+Dialogue: 0,0:03:26.49,0:03:27.91,Default,,0000,0000,0000,,Food stalls!\NNo more!
+Dialogue: 0,0:03:27.91,0:03:28.45,Default,,0000,0000,0000,,Food stalls!\NI think it's broken!
+Dialogue: 0,0:03:28.45,0:03:31.75,Default,,0000,0000,0000,,And we have so many people\Nwanting to sponsor.\NI think it's broken!
+Dialogue: 0,0:03:31.75,0:03:33.46,Default,,0000,0000,0000,,I'm screaming with joy.
+Dialogue: 0,0:03:33.46,0:03:34.96,Default,,0000,0000,0000,,Really?
+Dialogue: 0,0:03:34.96,0:03:35.38,Default,,0000,0000,0000,,I can't do it! I don't think I can do it!
+Dialogue: 0,0:03:35.38,0:03:37.38,Default,,0000,0000,0000,,Now we just need to have\NI can't do it! I don't think I can do it!
+Dialogue: 0,0:03:37.38,0:03:39.63,Default,,0000,0000,0000,,Genzo decide who'll be in the fights.\NThe body can't bend that way!
+Dialogue: 0,0:03:39.63,0:03:41.34,Default,,0000,0000,0000,,I'll tell him!\NThe body can't bend that way!
+Dialogue: 0,0:03:41.34,0:03:43.51,Default,,0000,0000,0000,,I'll be going, then.
+Dialogue: 0,0:03:45.80,0:03:48.52,Default,,0000,0000,0000,,What's wrong? Out of the fight already?
+Dialogue: 0,0:03:48.52,0:03:50.73,Default,,0000,0000,0000,,The sunlight...
+Dialogue: 0,0:03:50.73,0:03:53.77,Default,,0000,0000,0000,,I don't see any sunlight.
+Dialogue: 0,0:03:53.77,0:03:57.19,Default,,0000,0000,0000,,I'm sick of this "weight lifting"\Ntraining anyway.
+Dialogue: 0,0:03:57.19,0:03:59.23,Default,,0000,0000,0000,,Teach me some moves!
+Dialogue: 0,0:03:59.23,0:04:00.69,Default,,0000,0000,0000,,Not a chance in hell!
+Dialogue: 0,0:04:00.69,0:04:04.36,Default,,0000,0000,0000,,You can't learn moves\Nwithout doing the lifting!
+Dialogue: 0,0:04:04.36,0:04:06.24,Default,,0000,0000,0000,,But there's no time...
+Dialogue: 0,0:04:06.24,0:04:07.70,Default,,0000,0000,0000,,Quit your whining!
+Dialogue: 0,0:04:07.70,0:04:10.91,Default,,0000,0000,0000,,You need to train your basic endurance\Nbefore you get in the ring!
+Dialogue: 0,0:04:10.91,0:04:13.58,Default,,0000,0000,0000,,Genzo, you...
+Dialogue: 0,0:04:13.58,0:04:16.25,Default,,0000,0000,0000,,Don't you want to win?
+Dialogue: 0,0:04:21.92,0:04:23.13,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:04:23.13,0:04:25.34,Default,,0000,0000,0000,,This time, I want to win.
+Dialogue: 0,0:04:25.34,0:04:27.72,Default,,0000,0000,0000,,No, I have to win.
+Dialogue: 0,0:04:27.72,0:04:29.68,Default,,0000,0000,0000,,For my mistress's sake!
+Dialogue: 0,0:04:29.68,0:04:32.68,Default,,0000,0000,0000,,Excellent. So, Carmilla...
+Dialogue: 0,0:04:32.68,0:04:33.73,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:04:33.73,0:04:36.65,Default,,0000,0000,0000,,About this person you want to defeat...
+Dialogue: 0,0:04:36.65,0:04:40.53,Default,,0000,0000,0000,,Just like my mistress, she's...
+Dialogue: 0,0:04:40.53,0:04:41.65,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:04:41.65,0:04:45.53,Default,,0000,0000,0000,,I have a childhood friend named Joanna.
+Dialogue: 0,0:04:45.53,0:04:49.37,Default,,0000,0000,0000,,She has a servant named Rose\Nwho Carmilla once fought,
+Dialogue: 0,0:04:49.37,0:04:51.41,Default,,0000,0000,0000,,and Carmilla got her ass kicked.
+Dialogue: 0,0:04:51.41,0:04:52.87,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:04:52.87,0:04:57.21,Default,,0000,0000,0000,,Hanako, I thought it might be\Nfaster if you fought...
+Dialogue: 0,0:04:57.21,0:05:01.05,Default,,0000,0000,0000,,No, that won't do! As a vamp...
+Dialogue: 0,0:05:01.05,0:05:03.47,Default,,0000,0000,0000,,I can't get involved.
+Dialogue: 0,0:05:03.47,0:05:09.35,Default,,0000,0000,0000,,And I'll be busy checking out\Nall the new food stands!
+Dialogue: 0,0:05:09.35,0:05:11.01,Default,,0000,0000,0000,,Well, anyway.
+Dialogue: 0,0:05:11.01,0:05:17.06,Default,,0000,0000,0000,,It'll be hard to train her if I don't know\Nhow strong her opponent is.
+Dialogue: 0,0:05:30.37,0:05:31.74,Default,,0000,0000,0000,,The time has come.
+Dialogue: 0,0:05:31.74,0:05:33.16,Default,,0000,0000,0000,,That's all there is to it.
+Dialogue: 0,0:05:33.16,0:05:37.62,Default,,0000,0000,0000,,It's time to show him what\Na real wrestler looks like!
+Dialogue: 0,0:05:45.13,0:05:47.88,Default,,0000,0000,0000,,What is that?
+Dialogue: 0,0:05:47.88,0:05:50.18,Default,,0000,0000,0000,,You don't know, Rose?
+Dialogue: 0,0:05:50.18,0:05:51.22,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:05:51.22,0:05:54.52,Default,,0000,0000,0000,,That's the victory dance from his world.
+Dialogue: 0,0:06:14.24,0:06:16.54,Default,,0000,0000,0000,,Is that what that is?
+Dialogue: 0,0:06:16.54,0:06:23.00,Default,,0000,0000,0000,,If he's dancing like that before the\Nbattle's even begun, he's sure to win!
+Dialogue: 0,0:06:23.00,0:06:24.88,Default,,0000,0000,0000,,Joanna!
+Dialogue: 0,0:06:24.88,0:06:30.43,Default,,0000,0000,0000,,I must defeat the hero,\Nand pay back Lindabulea, too.
+Dialogue: 0,0:06:30.43,0:06:32.10,Default,,0000,0000,0000,,Of course!
+Dialogue: 0,0:06:37.73,0:06:40.52,Default,,0000,0000,0000,,You lost once already?
+Dialogue: 0,0:06:40.52,0:06:45.44,Default,,0000,0000,0000,,Yes. And when I did,\NI caused problems for my mistress.
+Dialogue: 0,0:06:47.57,0:06:49.53,Default,,0000,0000,0000,,It's my fault...
+Dialogue: 0,0:06:51.20,0:06:54.24,Default,,0000,0000,0000,,I need vengeance.
+Dialogue: 0,0:06:55.16,0:06:57.29,Default,,0000,0000,0000,,Wait, Genzo...
+Dialogue: 0,0:06:57.29,0:07:01.17,Default,,0000,0000,0000,,You know that Demon King\Nfrom another world, right?
+Dialogue: 0,0:07:01.17,0:07:06.17,Default,,0000,0000,0000,,Yes. He was supposed to be\Nmy last opponent in my old world.
+Dialogue: 0,0:07:06.17,0:07:07.67,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:07:12.68,0:07:15.31,Default,,0000,0000,0000,,Genzo!
+Dialogue: 0,0:07:15.31,0:07:18.27,Default,,0000,0000,0000,,Demon King!
+Dialogue: 0,0:07:23.19,0:07:24.27,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:07:24.27,0:07:27.40,Default,,0000,0000,0000,,So this fight means a lot to you, too.
+Dialogue: 0,0:07:27.40,0:07:30.20,Default,,0000,0000,0000,,I suppose so, yeah.
+Dialogue: 0,0:07:30.20,0:07:32.16,Default,,0000,0000,0000,,Genzo!
+Dialogue: 0,0:07:32.16,0:07:34.45,Default,,0000,0000,0000,,Coming!
+Dialogue: 0,0:07:34.45,0:07:36.37,Default,,0000,0000,0000,,Okay, train on your own for a while.
+Dialogue: 0,0:07:36.37,0:07:37.66,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:07:37.66,0:07:40.79,Default,,0000,0000,0000,,You haven't taught me anything yet!
+Dialogue: 0,0:07:40.79,0:07:43.12,Default,,0000,0000,0000,,Do this.
+Dialogue: 0,0:07:45.25,0:07:47.80,Default,,0000,0000,0000,,Okay, but first I need a little break.
+Dialogue: 0,0:07:47.80,0:07:51.09,Default,,0000,0000,0000,,I've worked hard, I deserve this!
+Dialogue: 0,0:07:51.09,0:07:54.93,Default,,0000,0000,0000,,You don't get any more\Nuntil the match is over.
+Dialogue: 0,0:07:54.93,0:07:56.47,Default,,0000,0000,0000,,Give it back!
+Dialogue: 0,0:07:56.47,0:07:58.89,Default,,0000,0000,0000,,Alcohol inhibits muscle metabolism!
+Dialogue: 0,0:07:58.89,0:08:00.35,Default,,0000,0000,0000,,I don't care!
+Dialogue: 0,0:08:00.35,0:08:03.14,Default,,0000,0000,0000,,Give it back, you pervert human!
+Dialogue: 0,0:08:03.14,0:08:05.77,Default,,0000,0000,0000,,You want to win, right?
+Dialogue: 0,0:08:15.95,0:08:18.66,Default,,0000,0000,0000,,So what will you do?
+Dialogue: 0,0:08:18.66,0:08:21.00,Default,,0000,0000,0000,,The line-up?
+Dialogue: 0,0:08:21.00,0:08:22.71,Default,,0000,0000,0000,,"1 Heat Haze, Celes"\N"2 Orc King, Kobold"\NI did come up with something...
+Dialogue: 0,0:08:22.71,0:08:24.75,Default,,0000,0000,0000,,"3 Carmilla vs Rose"\N"4 Genzo vs MAO"\NI did come up with something...
+Dialogue: 0,0:08:24.75,0:08:30.17,Default,,0000,0000,0000,,There were supposed\Nto be five fights, right?
+Dialogue: 0,0:08:30.17,0:08:34.80,Default,,0000,0000,0000,,My demon beast army versus\Nyour group! Five rounds!
+Dialogue: 0,0:08:34.80,0:08:37.93,Default,,0000,0000,0000,,And the last round is\Na one-on-one between you and me!
+Dialogue: 0,0:08:37.93,0:08:38.76,Default,,0000,0000,0000,,Well?
+Dialogue: 0,0:08:38.76,0:08:41.10,Default,,0000,0000,0000,,Sounds great!
+Dialogue: 0,0:08:42.31,0:08:44.39,Default,,0000,0000,0000,,Yeah, that's the thing...
+Dialogue: 0,0:08:44.39,0:08:48.36,Default,,0000,0000,0000,,We need another match, don't we?
+Dialogue: 0,0:08:57.03,0:08:59.41,Default,,0000,0000,0000,,Calm down, fluffballs!
+Dialogue: 0,0:08:59.41,0:09:02.91,Default,,0000,0000,0000,,What do you want? Just leave us alone!
+Dialogue: 0,0:09:02.91,0:09:05.58,Default,,0000,0000,0000,,I can't do that, fluffy cat girl!
+Dialogue: 0,0:09:05.58,0:09:08.42,Default,,0000,0000,0000,,Why?
+Dialogue: 0,0:09:08.42,0:09:10.59,Default,,0000,0000,0000,,I need you.
+Dialogue: 0,0:09:12.96,0:09:16.09,Default,,0000,0000,0000,,I know you can do this.
+Dialogue: 0,0:09:16.09,0:09:17.64,Default,,0000,0000,0000,,You know we can do...
+Dialogue: 0,0:09:17.64,0:09:20.18,Default,,0000,0000,0000,,what?
+Dialogue: 0,0:09:20.18,0:09:22.60,Default,,0000,0000,0000,,You want to be in a pro wrestling match?
+Dialogue: 0,0:09:24.93,0:09:27.02,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:09:27.02,0:09:28.94,Default,,0000,0000,0000,,Quit your whining and come!
+Dialogue: 0,0:09:28.94,0:09:32.40,Default,,0000,0000,0000,,I'm scared! I'm scared! I'm scared!
+Dialogue: 0,0:09:32.40,0:09:35.03,Default,,0000,0000,0000,,If you won't, I know\Nwhat's in store for you!
+Dialogue: 0,0:09:35.03,0:09:36.24,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:09:36.24,0:09:40.16,Default,,0000,0000,0000,,Who's a good boy? You are!
+Dialogue: 0,0:09:40.16,0:09:44.33,Default,,0000,0000,0000,,We'd get paid about this much, say?
+Dialogue: 0,0:09:44.33,0:09:45.46,Default,,0000,0000,0000,,No..
+Dialogue: 0,0:09:45.46,0:09:47.25,Default,,0000,0000,0000,,This much.
+Dialogue: 0,0:09:47.25,0:09:49.63,Default,,0000,0000,0000,,We're in!
+Dialogue: 0,0:09:50.21,0:09:50.79,Default,,0000,0000,0000,,"1 Heat Haze Celes"\N"2 Orc King, Kobold"\N"3 Wolfgang, Misha"
+Dialogue: 0,0:09:50.79,0:09:53.67,Default,,0000,0000,0000,,"4 Carmilla vs Rose"\N"5 Genzo vs MAO"\NAnd that does it.
+Dialogue: 0,0:09:54.88,0:09:58.13,Default,,0000,0000,0000,,I think the first match is a little dull.
+Dialogue: 0,0:09:58.13,0:10:01.55,Default,,0000,0000,0000,,You're always so harsh.
+Dialogue: 0,0:10:01.55,0:10:05.98,Default,,0000,0000,0000,,The Hunter Guild gladly\Naccepted my offer, but...
+Dialogue: 0,0:10:05.98,0:10:09.19,Default,,0000,0000,0000,,What? Pro wrestling?
+Dialogue: 0,0:10:09.19,0:10:13.19,Default,,0000,0000,0000,,Of course you'd want the help of the\Nstrongest hunter in the guild, demon beast...
+Dialogue: 0,0:10:14.86,0:10:18.78,Default,,0000,0000,0000,,Teacher, let me do it too!
+Dialogue: 0,0:10:18.78,0:10:23.41,Default,,0000,0000,0000,,It's the first match, so I'd like\Nto really get the crowd riled up.
+Dialogue: 0,0:10:23.41,0:10:25.12,Default,,0000,0000,0000,,Good point.
+Dialogue: 0,0:10:25.12,0:10:28.96,Default,,0000,0000,0000,,Can we throw in somebody else\Nto make it a group match?
+Dialogue: 0,0:10:30.04,0:10:32.84,Default,,0000,0000,0000,,I heard the news, Genzo!
+Dialogue: 0,0:10:32.84,0:10:35.76,Default,,0000,0000,0000,,The Demon King came here personally!
+Dialogue: 0,0:10:35.76,0:10:39.59,Default,,0000,0000,0000,,Just like a moth-wyvern to a dragon-flame!
+Dialogue: 0,0:10:39.59,0:10:42.01,Default,,0000,0000,0000,,Crush him, please!
+Dialogue: 0,0:10:42.01,0:10:45.64,Default,,0000,0000,0000,,So, is there something I can do?
+Dialogue: 0,0:10:45.64,0:10:48.35,Default,,0000,0000,0000,,Just say the word!
+Dialogue: 0,0:10:48.35,0:10:49.85,Default,,0000,0000,0000,,That's it.
+Dialogue: 0,0:10:57.86,0:11:00.95,Default,,0000,0000,0000,,Come to our wrestling tournament!
+Dialogue: 0,0:11:00.95,0:11:04.03,Default,,0000,0000,0000,,Exciting battles await!
+Dialogue: 0,0:11:04.03,0:11:07.45,Default,,0000,0000,0000,,Lots of yummy food!
+Dialogue: 0,0:11:07.45,0:11:12.46,Default,,0000,0000,0000,,The fights will be even\Nbetter than last time!
+Dialogue: 0,0:11:18.21,0:11:20.76,Default,,0000,0000,0000,,There's more money to be made!
+Dialogue: 0,0:11:26.43,0:11:28.93,Default,,0000,0000,0000,,Right this way!
+Dialogue: 0,0:11:28.93,0:11:31.77,Default,,0000,0000,0000,,Here you go!\NYes! I got a good seat!
+Dialogue: 0,0:11:31.77,0:11:33.56,Default,,0000,0000,0000,,{\i1}Takoyaki{\i0}!
+Dialogue: 0,0:11:39.65,0:11:42.03,Default,,0000,0000,0000,,No! No!
+Dialogue: 0,0:11:52.96,0:11:55.34,Default,,0000,0000,0000,,Tickets on sale over here!
+Dialogue: 0,0:11:55.34,0:11:57.80,Default,,0000,0000,0000,,Please form two lines!
+Dialogue: 0,0:11:57.80,0:12:00.01,Default,,0000,0000,0000,,Monsters, come this way!
+Dialogue: 0,0:12:00.01,0:12:02.76,Default,,0000,0000,0000,,Please allow us to check\Nyour personal belongings!
+Dialogue: 0,0:12:02.76,0:12:05.76,Default,,0000,0000,0000,,No weapons or magic items!
+Dialogue: 0,0:12:05.76,0:12:08.77,Default,,0000,0000,0000,,Today your fate will be decided!
+Dialogue: 0,0:12:08.77,0:12:11.10,Default,,0000,0000,0000,,That's my line, damn it!
+Dialogue: 0,0:12:11.10,0:12:13.77,Default,,0000,0000,0000,,Oh, you're here as well?
+Dialogue: 0,0:12:13.77,0:12:16.52,Default,,0000,0000,0000,,Good evening.
+Dialogue: 0,0:12:17.40,0:12:19.44,Default,,0000,0000,0000,,Can you see, Maria?
+Dialogue: 0,0:12:19.44,0:12:20.86,Default,,0000,0000,0000,,I sure can!
+Dialogue: 0,0:12:20.86,0:12:24.03,Default,,0000,0000,0000,,But what is pro wrestling, exactly?
+Dialogue: 0,0:12:24.03,0:12:25.78,Default,,0000,0000,0000,,That's a good question.
+Dialogue: 0,0:12:25.78,0:12:28.66,Default,,0000,0000,0000,,Ikarumie Alimaran!
+Dialogue: 0,0:12:34.75,0:12:37.21,Default,,0000,0000,0000,,It's finally time!
+Dialogue: 0,0:12:37.21,0:12:40.30,Default,,0000,0000,0000,,Time to head backstage!
+Dialogue: 0,0:12:40.30,0:12:43.26,Default,,0000,0000,0000,,I'm sure everyone is all excited...
+Dialogue: 0,0:12:43.26,0:12:45.51,Default,,0000,0000,0000,,Huh? Hanako-{\i1}san{\i0}!
+Dialogue: 0,0:12:45.51,0:12:47.80,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:12:47.80,0:12:50.97,Default,,0000,0000,0000,,Where's the gift shop?
+Dialogue: 0,0:12:50.97,0:12:53.14,Default,,0000,0000,0000,,Oh, sorry.
+Dialogue: 0,0:12:53.14,0:12:56.44,Default,,0000,0000,0000,,I'm too busy to do it this time.
+Dialogue: 0,0:12:59.32,0:13:01.65,Default,,0000,0000,0000,,Sorry!
+Dialogue: 0,0:13:02.82,0:13:05.24,Default,,0000,0000,0000,,I'm all fired up!
+Dialogue: 0,0:13:06.16,0:13:07.70,Default,,0000,0000,0000,,Listen up, everyone.
+Dialogue: 0,0:13:07.70,0:13:09.33,Default,,0000,0000,0000,,It matters who wins and who loses.
+Dialogue: 0,0:13:09.33,0:13:13.96,Default,,0000,0000,0000,,But what matters more is to fight\Nin a way you won't regret!
+Dialogue: 0,0:13:15.08,0:13:18.34,Default,,0000,0000,0000,,Genzo's philosophy is wonderful.
+Dialogue: 0,0:13:18.34,0:13:20.38,Default,,0000,0000,0000,,Every word he says echoes in my heart.
+Dialogue: 0,0:13:20.38,0:13:24.84,Default,,0000,0000,0000,,Yeah! I won't forget his words!
+Dialogue: 0,0:13:24.84,0:13:27.93,Default,,0000,0000,0000,,If you win, you'll be getting\Na good amount of prize money.
+Dialogue: 0,0:13:27.93,0:13:29.93,Default,,0000,0000,0000,,So do your best.
+Dialogue: 0,0:13:29.93,0:13:32.47,Default,,0000,0000,0000,,Hey, were you listening?
+Dialogue: 0,0:13:32.47,0:13:35.56,Default,,0000,0000,0000,,It's not about winning, or money.
+Dialogue: 0,0:13:35.56,0:13:41.52,Default,,0000,0000,0000,,Yes. A true man does not concern\Nhimself with such things.
+Dialogue: 0,0:13:41.52,0:13:44.07,Default,,0000,0000,0000,,Right, Genzo?
+Dialogue: 0,0:13:44.07,0:13:45.61,Default,,0000,0000,0000,,Correct.
+Dialogue: 0,0:13:45.61,0:13:49.87,Default,,0000,0000,0000,,With that prize money I can open\Nthe pet shop of my dreams!
+Dialogue: 0,0:13:49.87,0:13:53.87,Default,,0000,0000,0000,,So I'm winning and getting\Nthat cash no matter what!
+Dialogue: 0,0:13:53.87,0:13:56.08,Default,,0000,0000,0000,,That's not what you said...
+Dialogue: 0,0:13:56.08,0:13:58.42,Default,,0000,0000,0000,,It's time!
+Dialogue: 0,0:13:58.42,0:14:01.63,Default,,0000,0000,0000,,It's a full house, guys!
+Dialogue: 0,0:14:02.46,0:14:04.59,Default,,0000,0000,0000,,Why do you look so upset?
+Dialogue: 0,0:14:04.59,0:14:06.68,Default,,0000,0000,0000,,That's a good thing.
+Dialogue: 0,0:14:06.68,0:14:11.10,Default,,0000,0000,0000,,But I don't want them\Nseeing me in this outfit...
+Dialogue: 0,0:14:11.10,0:14:13.06,Default,,0000,0000,0000,,Don't worry.
+Dialogue: 0,0:14:13.06,0:14:14.56,Default,,0000,0000,0000,,You've got this.
+Dialogue: 0,0:14:14.56,0:14:17.44,Default,,0000,0000,0000,,I don't want to wear that either!
+Dialogue: 0,0:14:17.44,0:14:20.15,Default,,0000,0000,0000,,What is it, even?
+Dialogue: 0,0:14:23.40,0:14:25.53,Default,,0000,0000,0000,,I need to win for my mistress's sake.
+Dialogue: 0,0:14:25.53,0:14:27.57,Default,,0000,0000,0000,,No matter what.
+Dialogue: 0,0:14:27.57,0:14:29.45,Default,,0000,0000,0000,,No.
+Dialogue: 0,0:14:29.45,0:14:31.16,Default,,0000,0000,0000,,Mistress?
+Dialogue: 0,0:14:31.16,0:14:34.66,Default,,0000,0000,0000,,You don't need to fight for my sake.
+Dialogue: 0,0:14:37.75,0:14:40.88,Default,,0000,0000,0000,,Human t-shirts! Demon t-shirts!
+Dialogue: 0,0:14:40.88,0:14:43.63,Default,,0000,0000,0000,,Which will you pick?
+Dialogue: 0,0:14:49.55,0:14:51.39,Default,,0000,0000,0000,,It's time, everyone!
+Dialogue: 0,0:14:51.39,0:14:54.01,Default,,0000,0000,0000,,It's time for "Cluster Bank presents:
+Dialogue: 0,0:14:54.01,0:15:00.77,Default,,0000,0000,0000,,Team Hero Genzo versus\Nthe Demon King's Army!"
+Dialogue: 0,0:15:02.19,0:15:06.74,Default,,0000,0000,0000,,For our first match,\Ncoming from Team Hero Genzo...
+Dialogue: 0,0:15:06.74,0:15:12.20,Default,,0000,0000,0000,,Heat Haze, the fake hero from the\NHunter Guild, and once again, Celes XXL!
+Dialogue: 0,0:15:12.20,0:15:17.66,Default,,0000,0000,0000,,And the mysterious masked warrior,\NGod Save the Queen At-lena!
+Dialogue: 0,0:15:19.54,0:15:24.29,Default,,0000,0000,0000,,I'm the princess!\NWhy do I have to dress like this?
+Dialogue: 0,0:15:29.80,0:15:34.01,Default,,0000,0000,0000,,Everyone's staring at me!\NTheir gazes pain me, but...
+Dialogue: 0,0:15:34.01,0:15:42.01,Default,,0000,0000,0000,,It's like a massage...\NIt hurts, but it feels good!
+Dialogue: 0,0:15:42.15,0:15:45.19,Default,,0000,0000,0000,,But... It's wonderful!
+Dialogue: 0,0:15:45.19,0:15:50.28,Default,,0000,0000,0000,,Facing them is the demon beast army!
+Dialogue: 0,0:15:50.28,0:15:54.74,Default,,0000,0000,0000,,Will they show us the power\Nof the demon beasts?
+Dialogue: 0,0:15:54.74,0:15:58.62,Default,,0000,0000,0000,,We've got a great match for you tonight!
+Dialogue: 0,0:16:03.75,0:16:06.13,Default,,0000,0000,0000,,Come! I'll be your opponent!
+Dialogue: 0,0:16:06.13,0:16:08.88,Default,,0000,0000,0000,,Hit me with your hard body!
+Dialogue: 0,0:16:08.88,0:16:11.01,Default,,0000,0000,0000,,What did you say, bouncy girl?
+Dialogue: 0,0:16:11.01,0:16:13.18,Default,,0000,0000,0000,,Hey, don't taunt him like that!
+Dialogue: 0,0:16:13.18,0:16:14.22,Default,,0000,0000,0000,,Calm down.
+Dialogue: 0,0:16:14.22,0:16:15.51,Default,,0000,0000,0000,,Calm down, please.
+Dialogue: 0,0:16:15.51,0:16:16.76,Default,,0000,0000,0000,,We need to come up with a strategy...
+Dialogue: 0,0:16:16.76,0:16:19.27,Default,,0000,0000,0000,,If you won't go to me, I'll go to you!
+Dialogue: 0,0:16:25.52,0:16:28.61,Default,,0000,0000,0000,,I've seen those buttocks before...
+Dialogue: 0,0:16:28.61,0:16:30.36,Default,,0000,0000,0000,,Sure it's not Princess Buttocks?
+Dialogue: 0,0:16:30.36,0:16:32.78,Default,,0000,0000,0000,,That's right! It's Princess Buttocks!
+Dialogue: 0,0:16:33.57,0:16:35.28,Default,,0000,0000,0000,,What humiliation!
+Dialogue: 0,0:16:35.28,0:16:40.00,Default,,0000,0000,0000,,I can hear the crowd's disgust with me...
+Dialogue: 0,0:16:51.51,0:16:54.72,Default,,0000,0000,0000,,One, two, three!
+Dialogue: 0,0:16:54.72,0:16:56.93,Default,,0000,0000,0000,,The winner is Team Genzo!
+Dialogue: 0,0:16:56.93,0:16:58.97,Default,,0000,0000,0000,,We did it, Teacher!
+Dialogue: 0,0:16:58.97,0:17:02.64,Default,,0000,0000,0000,,It's finally time for me to get\Nthe credit I deserve as the chosen hero!
+Dialogue: 0,0:17:02.64,0:17:06.31,Default,,0000,0000,0000,,Don't look at me like that, everyone!
+Dialogue: 0,0:17:06.31,0:17:08.86,Default,,0000,0000,0000,,The second match is beginning!
+Dialogue: 0,0:17:12.53,0:17:15.07,Default,,0000,0000,0000,,One, two, three!
+Dialogue: 0,0:17:15.07,0:17:17.78,Default,,0000,0000,0000,,Winners, Team Genzo!
+Dialogue: 0,0:17:17.78,0:17:19.41,Default,,0000,0000,0000,,We did it!
+Dialogue: 0,0:17:19.41,0:17:20.99,Default,,0000,0000,0000,,Hell yeah!
+Dialogue: 0,0:17:20.99,0:17:25.75,Default,,0000,0000,0000,,A brainless brawl between\Ntwo groups of muscle-heads!
+Dialogue: 0,0:17:25.75,0:17:27.88,Default,,0000,0000,0000,,It's so intense!
+Dialogue: 0,0:17:27.88,0:17:29.71,Default,,0000,0000,0000,,Honey...
+Dialogue: 0,0:17:32.30,0:17:34.38,Default,,0000,0000,0000,,Bro...
+Dialogue: 0,0:17:34.38,0:17:36.26,Default,,0000,0000,0000,,Round three!
+Dialogue: 0,0:17:36.26,0:17:39.39,Default,,0000,0000,0000,,The winners are the Demon King's army!
+Dialogue: 0,0:17:39.39,0:17:43.35,Default,,0000,0000,0000,,Hey, entertain us!
+Dialogue: 0,0:17:44.85,0:17:46.98,Default,,0000,0000,0000,,This is why I didn't want to do this...
+Dialogue: 0,0:17:54.03,0:17:57.32,Default,,0000,0000,0000,,Now, our next match features\Nthe drunk loser girl
+Dialogue: 0,0:17:57.32,0:18:01.87,Default,,0000,0000,0000,,who goes to sleep holding\Nother women's clothes: Carmilla!
+Dialogue: 0,0:18:01.87,0:18:04.29,Default,,0000,0000,0000,,And her opponent, the black knight
+Dialogue: 0,0:18:04.29,0:18:10.63,Default,,0000,0000,0000,,who'll do anything and take\Nany risk for her lady, Rose!
+Dialogue: 0,0:18:10.63,0:18:13.05,Default,,0000,0000,0000,,Let the battle begin!
+Dialogue: 0,0:18:14.42,0:18:18.13,Default,,0000,0000,0000,,I've already proved that a lesser vampire\Ncan't beat an elder vampire!
+Dialogue: 0,0:18:18.13,0:18:20.10,Default,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:18:23.89,0:18:25.43,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:18:27.19,0:18:28.65,Default,,0000,0000,0000,,What's going on?
+Dialogue: 0,0:18:31.56,0:18:33.78,Default,,0000,0000,0000,,Damn you, lesser!
+Dialogue: 0,0:18:36.78,0:18:39.61,Default,,0000,0000,0000,,This is an amazing fight!
+Dialogue: 0,0:18:39.61,0:18:41.12,Default,,0000,0000,0000,,Get her!
+Dialogue: 0,0:18:41.12,0:18:43.20,Default,,0000,0000,0000,,Don't lose!
+Dialogue: 0,0:18:47.79,0:18:49.17,Default,,0000,0000,0000,,She's weaker than you!
+Dialogue: 0,0:18:49.17,0:18:50.54,Default,,0000,0000,0000,,Beat her quick!
+Dialogue: 0,0:18:50.54,0:18:54.09,Default,,0000,0000,0000,,Listen, focus on your opponent!
+Dialogue: 0,0:18:54.09,0:18:58.51,Default,,0000,0000,0000,,No matter how strong they are,\Nthey'll let their guard down!
+Dialogue: 0,0:18:58.51,0:19:00.22,Default,,0000,0000,0000,,Watch for your moment!
+Dialogue: 0,0:19:01.68,0:19:05.77,Default,,0000,0000,0000,,I can't lose! I can't!
+Dialogue: 0,0:19:05.77,0:19:07.85,Default,,0000,0000,0000,,She's a coward who does nothing but run!
+Dialogue: 0,0:19:07.85,0:19:10.35,Default,,0000,0000,0000,,Show her how to fight!
+Dialogue: 0,0:19:19.70,0:19:21.45,Default,,0000,0000,0000,,Go!
+Dialogue: 0,0:19:23.20,0:19:24.41,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:19:33.29,0:19:35.34,Default,,0000,0000,0000,,Did I win?
+Dialogue: 0,0:19:35.34,0:19:36.71,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:19:43.76,0:19:47.14,Default,,0000,0000,0000,,I defeated an elder vampire?
+Dialogue: 0,0:19:49.77,0:19:51.52,Default,,0000,0000,0000,,I did it!
+Dialogue: 0,0:19:51.52,0:19:53.31,Default,,0000,0000,0000,,I won!
+Dialogue: 0,0:19:53.31,0:19:54.15,Default,,0000,0000,0000,,What are you doing?
+Dialogue: 0,0:19:54.15,0:19:55.77,Default,,0000,0000,0000,,Pin her!
+Dialogue: 0,0:19:55.77,0:19:59.78,Default,,0000,0000,0000,,Mistress, I did it!
+Dialogue: 0,0:19:59.78,0:20:01.20,Default,,0000,0000,0000,,Carmilla!
+Dialogue: 0,0:20:07.66,0:20:10.12,Default,,0000,0000,0000,,One...
+Dialogue: 0,0:20:10.12,0:20:13.17,Default,,0000,0000,0000,,two...
+Dialogue: 0,0:20:13.17,0:20:14.75,Default,,0000,0000,0000,,three!
+Dialogue: 0,0:20:16.09,0:20:18.84,Default,,0000,0000,0000,,The winner is Rose!
+Dialogue: 0,0:20:22.72,0:20:24.64,Default,,0000,0000,0000,,Well done!
+Dialogue: 0,0:20:24.64,0:20:27.76,Default,,0000,0000,0000,,Of course...
+Dialogue: 0,0:20:27.76,0:20:29.39,Default,,0000,0000,0000,,I lost.
+Dialogue: 0,0:20:30.48,0:20:34.19,Default,,0000,0000,0000,,You'll never beat me.
+Dialogue: 0,0:20:36.77,0:20:38.36,Default,,0000,0000,0000,,You let your guard down.
+Dialogue: 0,0:20:38.36,0:20:41.19,Default,,0000,0000,0000,,Why did you give her an opening?
+Dialogue: 0,0:20:42.65,0:20:45.82,Default,,0000,0000,0000,,But it was a good fight.
+Dialogue: 0,0:20:59.13,0:21:01.01,Default,,0000,0000,0000,,Mistress?
+Dialogue: 0,0:21:02.17,0:21:05.84,Default,,0000,0000,0000,,Carmilla, you fought for your own sake,
+Dialogue: 0,0:21:05.84,0:21:09.64,Default,,0000,0000,0000,,with your pride on the line, and you won.
+Dialogue: 0,0:21:09.64,0:21:13.60,Default,,0000,0000,0000,,No, Mistress... I...
+Dialogue: 0,0:21:13.60,0:21:16.56,Default,,0000,0000,0000,,I lost!
+Dialogue: 0,0:21:16.56,0:21:18.06,Default,,0000,0000,0000,,No.
+Dialogue: 0,0:21:20.32,0:21:23.78,Default,,0000,0000,0000,,To me, it was a victory.
+Dialogue: 0,0:21:23.78,0:21:28.16,Default,,0000,0000,0000,,And I'm proud of you.
+Dialogue: 0,0:21:28.16,0:21:30.66,Default,,0000,0000,0000,,Here's your reward.
+Dialogue: 0,0:21:31.87,0:21:35.75,Default,,0000,0000,0000,,Mistress!
+Dialogue: 0,0:21:35.75,0:21:38.08,Default,,0000,0000,0000,,You're such a crybaby.
+Dialogue: 0,0:21:40.30,0:21:45.01,Default,,0000,0000,0000,,Mistress gave me food for the first time!
+Dialogue: 0,0:21:45.01,0:21:47.22,Default,,0000,0000,0000,,Is that what it was?
+Dialogue: 0,0:21:48.89,0:21:53.52,Default,,0000,0000,0000,,Genzo Shibata, no, Animal Mask!
+Dialogue: 0,0:21:55.35,0:21:59.86,Default,,0000,0000,0000,,It's been a long time\Nsince anybody's called me that.
+Dialogue: 0,0:21:59.86,0:22:03.07,Default,,0000,0000,0000,,It's time to fight!
+Dialogue: 0,0:22:03.07,0:22:06.57,Default,,0000,0000,0000,,I'm getting excited!
+Dialogue: 0,0:23:39.83,0:23:42.29,Default,,0000,0000,0000,,Next Time: "Hero x Demon King."
+Dialogue: 0,0:23:42.29,0:23:43.92,Default,,0000,0000,0000,,Make sure you watch it, okay?
