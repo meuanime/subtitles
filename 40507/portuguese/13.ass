@@ -1,0 +1,332 @@
+﻿[Script Info]
+Title: [Erai-raws] Português (Brasil)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Arifureta-Main,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: Arifureta-Main-Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,0
+Style: Arifureta-Italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: Arifureta-Italics-Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,0
+Style: Arifureta-Flashback,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: Arifureta-Flashback-Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,0,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,1
+Style: Arifureta-Flashback-Italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,-1,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: Arifureta-Flashback-Italics-Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,-1,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,1
+Style: Arifureta-Flashback-Inside,Trebuchet MS,22,&H00CCCCCC,&H000000FF,&H00400000,&H00400000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: Arifureta-Flashback-Inside-Italics,Trebuchet MS,22,&H00CCCCCC,&H000000FF,&H00400000,&H00400000,-1,-1,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: Arifureta-OP,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1,1,2,0040,0040,0015,0
+Style: Arifureta-Frase,Times New Roman,12,&H00000000,&H000000FF,&H00F2F2F2,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,0005,0005,0015,0
+Style: Arifureta-EpNumber,Times New Roman,22,&H003000A9,&H000000FF,&H00F2F2F2,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0005,0005,0015,0
+Style: Arifureta-EpTitle,Times New Roman,22,&H00000000,&H000000FF,&H00F2F2F2,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0005,0005,0015,0
+Style: Arifureta-ED,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1,1,2,0040,0040,0015,0
+Style: Arifureta-NextEpNumber,Times New Roman,22,&H002F00A9,&H000000FF,&H00F2F2F2,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0005,0005,0015,0
+Style: Arifureta-NextEpTitle,Times New Roman,22,&H00000000,&H000000FF,&H00F2F2F2,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0005,0005,0015,0
+Style: Default,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: DefaultSD,Verdana,32,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,0020,0020,0020,0
+Style: Signs,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0020,0020,0015,0
+Style: Fundo do Abismo,Times New Roman,18,&H00424843,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0005,0005,0015,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:31.00,0:01:35.99,Arifureta-EpTitle,,0000,0000,0000,,{\pos(115,12)}ARIFURETA:\NDe um Desvio ao\NMais Forte do Mundo
+Dialogue: 0,0:01:31.00,0:01:35.99,Arifureta-EpNumber,,0000,0000,0000,,{\pos(300,226)}Episódio 13
+Dialogue: 0,0:01:31.00,0:01:35.99,Arifureta-Frase,,0000,0000,0000,,{\pos(431,179)}ARIFURETA:\NDo comum ao mais forte do mundo
+Dialogue: 0,0:01:49.02,0:01:50.02,Arifureta-Main,,0000,0000,0000,,Hajime!
+Dialogue: 0,0:01:57.78,0:01:59.78,Arifureta-Main,,0000,0000,0000,,A Kaori é muito caridosa.
+Dialogue: 0,0:02:00.24,0:02:04.24,Arifureta-Main,,0000,0000,0000,,Ela simplesmente não consegue ignorar\Nalguém doente ou machucado.
+Dialogue: 0,0:02:04.33,0:02:06.50,Arifureta-Main,,0000,0000,0000,,A Kaori é impressionante!
+Dialogue: 0,0:02:06.58,0:02:08.54,Arifureta-Main,,0000,0000,0000,,A irmãzona Kaori é tão legal!
+Dialogue: 0,0:02:12.42,0:02:14.09,Arifureta-Main,,0000,0000,0000,,As curandeiras são assim.
+Dialogue: 0,0:02:14.55,0:02:20.01,Arifureta-Main,,0000,0000,0000,,Puxa, como eu queria\Npoder usar magia como a Kaori!
+Dialogue: 0,0:02:22.85,0:02:23.93,Arifureta-Main,,0000,0000,0000,,O que foi?
+Dialogue: 0,0:02:29.31,0:02:30.94,Arifureta-Main,,0000,0000,0000,,Quer aprender a usar magia?
+Dialogue: 0,0:02:31.02,0:02:35.03,Arifureta-Main,,0000,0000,0000,,Quero, sim. Com um gênio\Ncomo você me ensinando,
+Dialogue: 0,0:02:35.40,0:02:39.65,Arifureta-Main,,0000,0000,0000,,até mesmo uma pessoa\Nsem nenhuma aptidão mágica, como eu,
+Dialogue: 0,0:02:39.74,0:02:42.16,Arifureta-Main,,0000,0000,0000,,pode aprender uma ou duas magias.
+Dialogue: 0,0:02:43.45,0:02:48.25,Arifureta-Main,,0000,0000,0000,,Certo. Está bem. Eu te ensino.\NQuanto mais opções tivermos, melhor.
+Dialogue: 0,0:02:48.62,0:02:54.34,Arifureta-Main,,0000,0000,0000,,Sério mesmo? Que maravilha!\NMuito obrigada, Yue!
+Dialogue: 0,0:02:54.79,0:02:57.80,Arifureta-Main,,0000,0000,0000,,Finalmente farei minha estreia na magia!
+Dialogue: 0,0:02:58.13,0:03:02.34,Arifureta-Main,,0000,0000,0000,,A Yue vai ensinar magia?\NIsso parece interessante.
+Dialogue: 0,0:03:02.89,0:03:04.97,Arifureta-Main,,0000,0000,0000,,Yue, posso aprender também?
+Dialogue: 0,0:03:05.31,0:03:06.31,Arifureta-Main,,0000,0000,0000,,Também quero!
+Dialogue: 0,0:03:06.77,0:03:08.14,Arifureta-Main,,0000,0000,0000,,Por mim, tudo bem.
+Dialogue: 0,0:03:09.02,0:03:13.44,Arifureta-Main,,0000,0000,0000,,Ensinar magia a um dragão\Npode ser bem emocionante.
+Dialogue: 0,0:03:14.02,0:03:16.07,Arifureta-Main,,0000,0000,0000,,Não quer aprender também, mestre?
+Dialogue: 0,0:03:16.57,0:03:17.73,Arifureta-Main,,0000,0000,0000,,Eu passo.
+Dialogue: 0,0:03:18.07,0:03:19.28,Arifureta-Main,,0000,0000,0000,,Qual é o problema?
+Dialogue: 0,0:03:19.61,0:03:22.49,Arifureta-Main,,0000,0000,0000,,Hajime, não me diga que está com medo.
+Dialogue: 0,0:03:22.57,0:03:27.33,Arifureta-Main,,0000,0000,0000,,Por acaso, acha que não será capaz\Nde aprender as magias direito?
+Dialogue: 0,0:03:27.58,0:03:29.75,Arifureta-Main,,0000,0000,0000,,Não, não é nada disso.
+Dialogue: 0,0:03:29.91,0:03:33.42,Arifureta-Main,,0000,0000,0000,,Então vamos assistir à aula juntos!
+Dialogue: 0,0:03:33.50,0:03:34.67,Arifureta-Main,,0000,0000,0000,,O papai também!
+Dialogue: 0,0:03:34.96,0:03:39.59,Arifureta-Main,,0000,0000,0000,,Eu passo. E, sinceramente,\Nrecomendo que vocês façam o mesmo.
+Dialogue: 0,0:03:41.05,0:03:42.84,Arifureta-Main,,0000,0000,0000,,Desistam pelo bem de vocês.
+Dialogue: 0,0:03:43.55,0:03:47.22,Arifureta-Main,,0000,0000,0000,,Que maldade, Hajime.\NAcha que sou uma inútil?
+Dialogue: 0,0:03:47.68,0:03:50.35,Arifureta-Main,,0000,0000,0000,,Nem todo mundo pode ser bom em tudo.
+Dialogue: 0,0:03:50.48,0:03:56.61,Arifureta-Main,,0000,0000,0000,,O quê? Ninguém é mais capaz do que a Yue\Npara ensinar magia.
+Dialogue: 0,0:03:57.57,0:04:03.07,Arifureta-Main,,0000,0000,0000,,Em minha longa vida,\Nnunca conheci ninguém tão habilidosa.
+Dialogue: 0,0:04:03.86,0:04:06.32,Arifureta-Main,,0000,0000,0000,,A Yue é a melhor professora que existe.
+Dialogue: 0,0:04:07.70,0:04:08.70,Arifureta-Main,,0000,0000,0000,,Papai!
+Dialogue: 0,0:04:08.79,0:04:10.08,Arifureta-Main,,0000,0000,0000,,Hajime!
+Dialogue: 0,0:04:13.46,0:04:15.08,Arifureta-Main,,0000,0000,0000,,Não digam que não avisei.
+Dialogue: 0,0:04:22.05,0:04:26.05,Arifureta-Main,,0000,0000,0000,,Agora vocês fazem "gyum" com a magia,
+Dialogue: 0,0:04:27.30,0:04:29.64,Arifureta-Main,,0000,0000,0000,,e ela fará "rum rum".
+Dialogue: 0,0:04:30.14,0:04:32.52,Arifureta-Main,,0000,0000,0000,,Depois só precisam fazer "grr" e "soy"!
+Dialogue: 0,0:04:33.35,0:04:34.48,Arifureta-Main,,0000,0000,0000,,E é só isso.
+Dialogue: 0,0:04:38.06,0:04:39.61,Arifureta-Main,,0000,0000,0000,,Viram? É bem simples.
+Dialogue: 0,0:04:40.03,0:04:41.94,Arifureta-Main,,0000,0000,0000,,Entendi. Só que não.
+Dialogue: 0,0:04:42.82,0:04:44.28,Arifureta-Main,,0000,0000,0000,,O que é "gyum"?
+Dialogue: 0,0:04:44.57,0:04:46.28,Arifureta-Main,,0000,0000,0000,,O que significa "rum rum"?
+Dialogue: 0,0:04:46.70,0:04:50.95,Arifureta-Main,,0000,0000,0000,,É quando o poder mágico\Nvai de um estado de compressão
+Dialogue: 0,0:04:51.83,0:04:55.04,Arifureta-Main,,0000,0000,0000,,para um estado de "shoop".
+Dialogue: 0,0:04:55.17,0:05:00.00,Arifureta-Main,,0000,0000,0000,,O que significa\Nque o "kwah" virá em seguida.
+Dialogue: 0,0:05:00.59,0:05:05.93,Arifureta-Main,,0000,0000,0000,,Isso não faz sentido!\NO que "gyum" significa exatamente?
+Dialogue: 0,0:05:07.93,0:05:11.89,Arifureta-Main,,0000,0000,0000,,Explique na nossa língua, por favor!
+Dialogue: 0,0:05:11.97,0:05:13.02,Arifureta-Main,,0000,0000,0000,,Myu!
+Dialogue: 0,0:05:15.02,0:05:20.11,Arifureta-Main,,0000,0000,0000,,Yue, queremos uma explicação mais teórica.
+Dialogue: 0,0:05:22.23,0:05:28.28,Arifureta-Main,,0000,0000,0000,,"Gyum" é o estado\Nem que a taxa da aceleração mágica
+Dialogue: 0,0:05:28.74,0:05:32.70,Arifureta-Main,,0000,0000,0000,,é de 2,25 vezes o estado plano.\NEssa taxa flutua entre 2,25 e 2,277,
+Dialogue: 0,0:05:32.79,0:05:35.29,Arifureta-Main,,0000,0000,0000,,dependendo do atributo\Ne elemento da magia.
+Dialogue: 0,0:05:35.71,0:05:39.33,Arifureta-Main,,0000,0000,0000,,Ao aplicar a isso\Numa resistência no fator de 3,95,
+Dialogue: 0,0:05:39.96,0:05:43.96,Arifureta-Main,,0000,0000,0000,,tem-se os valores finais da taxa de foco\Ne flutuação pós-liberação...
+Dialogue: 0,0:05:44.05,0:05:46.55,Arifureta-Main,,0000,0000,0000,,Em língua de gente, por favor!
+Dialogue: 0,0:05:48.34,0:05:52.22,Arifureta-Main,,0000,0000,0000,,Dei uma explicação simples para que\Nentendessem por conta própria.
+Dialogue: 0,0:05:53.56,0:05:55.18,Arifureta-Main,,0000,0000,0000,,Por que não entenderam?
+Dialogue: 0,0:05:55.64,0:05:56.64,Arifureta-Main,,0000,0000,0000,,Myu...
+Dialogue: 0,0:06:01.77,0:06:04.15,Arifureta-Main,,0000,0000,0000,,Será que sou burra?
+Dialogue: 0,0:06:04.61,0:06:09.11,Arifureta-Main,,0000,0000,0000,,Uma pobre idiota que acha\Nque é boa em magia,
+Dialogue: 0,0:06:09.20,0:06:11.07,Arifureta-Main,,0000,0000,0000,,mas nem mesmo entende o básico?
+Dialogue: 0,0:06:11.83,0:06:14.04,Arifureta-Main,,0000,0000,0000,,Irmãzona Tio, você está bem?
+Dialogue: 0,0:06:15.75,0:06:19.12,Arifureta-Main,,0000,0000,0000,,Você está destruindo o orgulho da Tio!
+Dialogue: 0,0:06:19.50,0:06:23.96,Arifureta-Main,,0000,0000,0000,,Só a prática leva à perfeição.\NFaçam o que eu digo e tudo dará certo.
+Dialogue: 0,0:06:24.59,0:06:27.13,Arifureta-Main,,0000,0000,0000,,Agora, levantem-se. Rápido!
+Dialogue: 0,0:06:28.38,0:06:30.64,Arifureta-Main,,0000,0000,0000,,Repitam depois de mim:
+Dialogue: 0,0:06:31.34,0:06:34.47,Arifureta-Main,,0000,0000,0000,,"Gyum"! "Bar bar bar"! "Soy"!
+Dialogue: 0,0:06:34.89,0:06:37.68,Arifureta-Italics,,0000,0000,0000,,Isso é diferente do que você disse antes!
+Dialogue: 0,0:06:38.35,0:06:42.19,Arifureta-Main,,0000,0000,0000,,Vamos, me mostrem o "gyum" de vocês!\NRápido! Vamos logo!
+Dialogue: 0,0:06:42.86,0:06:43.86,Arifureta-Main,,0000,0000,0000,,Agora!
+Dialogue: 0,0:06:44.48,0:06:45.48,Arifureta-Main,,0000,0000,0000,,"Gyum"!
+Dialogue: 0,0:06:45.61,0:06:46.61,Arifureta-Main,,0000,0000,0000,,"Gyum"?
+Dialogue: 0,0:06:49.03,0:06:50.95,Arifureta-Main,,0000,0000,0000,,"Gyum"...
+Dialogue: 0,0:06:51.66,0:06:53.24,Arifureta-Main,,0000,0000,0000,,"Gyum"...
+Dialogue: 0,0:06:54.58,0:06:56.45,Arifureta-Main,,0000,0000,0000,,— "Gyum"!\N— Agora "rum rum".
+Dialogue: 0,0:06:57.16,0:07:00.00,Arifureta-Main,,0000,0000,0000,,— "Rum rum"...\N— Rum rum"...
+Dialogue: 0,0:07:00.54,0:07:02.75,Arifureta-Main,,0000,0000,0000,,E agora com emoção: "soy"!
+Dialogue: 0,0:07:03.21,0:07:05.84,Arifureta-Main,,0000,0000,0000,,— "Soy"!\N— "Soy"!
+Dialogue: 0,0:07:06.42,0:07:08.67,Arifureta-Main,,0000,0000,0000,,Por isso me recusei a participar.
+Dialogue: 0,0:07:09.30,0:07:12.18,Arifureta-Main,,0000,0000,0000,,Eu sei das coisas.\NJá passei por isso antes.
+Dialogue: 0,0:07:15.01,0:07:17.52,Arifureta-Main,,0000,0000,0000,,Shea, Tio, levantem-se! Em pé!
+Dialogue: 0,0:07:18.14,0:07:21.73,Arifureta-Main,,0000,0000,0000,,Já curei todo mundo.\NO que está acontecendo aqui?
+Dialogue: 0,0:07:22.23,0:07:23.52,Arifureta-Main,,0000,0000,0000,,Não é da sua conta.
+Dialogue: 0,0:07:24.65,0:07:28.78,Arifureta-Main,,0000,0000,0000,,A Yue estava nos ensinando a usar magia.
+Dialogue: 0,0:07:28.86,0:07:31.86,Arifureta-Main,,0000,0000,0000,,O quê?\NQuero aprender também!
+Dialogue: 0,0:07:32.45,0:07:36.53,Arifureta-Main,,0000,0000,0000,,Kaori, estou avisando:\Nnão faça isso, por favor.
+Dialogue: 0,0:07:36.95,0:07:38.16,Arifureta-Main,,0000,0000,0000,,Por que não?
+Dialogue: 0,0:07:38.62,0:07:40.04,Arifureta-Main,,0000,0000,0000,,Por que...
+Dialogue: 0,0:07:40.91,0:07:44.67,Arifureta-Main,,0000,0000,0000,,a Yue não tem talento\Nnenhum para ensinar!
+Dialogue: 0,0:07:45.84,0:07:48.80,Arifureta-Main,,0000,0000,0000,,E é perita em destruir\No ânimo das pessoas.
+Dialogue: 0,0:07:52.55,0:07:55.14,Arifureta-Main,,0000,0000,0000,,Kaori, se quer aprender, fale com a Tio.
+Dialogue: 0,0:07:55.68,0:07:57.81,Arifureta-Main,,0000,0000,0000,,Ela é uma boa professora.
+Dialogue: 0,0:08:00.60,0:08:01.56,Arifureta-Main,,0000,0000,0000,,Idiota.
+Dialogue: 0,0:08:04.10,0:08:05.61,Arifureta-Main,,0000,0000,0000,,Professora Yue!
+Dialogue: 0,0:08:06.06,0:08:07.07,Arifureta-Main,,0000,0000,0000,,Morra, Kaori.
+Dialogue: 0,0:08:07.15,0:08:12.49,Arifureta-Main,,0000,0000,0000,,Não seja tão má. É por isso que dizem\Nque você não sabe ensinar
+Dialogue: 0,0:08:12.57,0:08:15.70,Arifureta-Main,,0000,0000,0000,,e é perita em destruir\No ânimo das pessoas.
+Dialogue: 0,0:08:16.70,0:08:18.70,Arifureta-Main,,0000,0000,0000,,Tente me ensinar.
+Dialogue: 0,0:08:19.16,0:08:22.50,Arifureta-Main,,0000,0000,0000,,Já sei! Me ensine a magia\Ndefensiva "Destruição".
+Dialogue: 0,0:08:23.00,0:08:24.00,Arifureta-Main,,0000,0000,0000,,Por favor!
+Dialogue: 0,0:08:25.67,0:08:27.54,Arifureta-Main,,0000,0000,0000,,Você só vai rir de mim.
+Dialogue: 0,0:08:30.26,0:08:31.80,Arifureta-Main,,0000,0000,0000,,Primeiro, você segura.
+Dialogue: 0,0:08:32.38,0:08:36.18,Arifureta-Main,,0000,0000,0000,,Depois mexe.\NEntão a magia fará "shoop".
+Dialogue: 0,0:08:36.68,0:08:38.22,Arifureta-Main,,0000,0000,0000,,E, por fim, "soy".
+Dialogue: 0,0:08:40.14,0:08:41.60,Arifureta-Main,,0000,0000,0000,,Vejamos...
+Dialogue: 0,0:08:42.23,0:08:43.23,Arifureta-Main,,0000,0000,0000,,Segurar...
+Dialogue: 0,0:08:43.94,0:08:45.19,Arifureta-Main,,0000,0000,0000,,Mexer...
+Dialogue: 0,0:08:46.90,0:08:50.23,Arifureta-Main,,0000,0000,0000,,Ela fez "shoop"! E depois, "soy"!
+Dialogue: 0,0:08:54.24,0:08:55.53,Arifureta-Main,,0000,0000,0000,,Como assim?
+Dialogue: 0,0:08:58.16,0:09:00.29,Arifureta-Main,,0000,0000,0000,,Irmãzona Kaori, você é incrível!
+Dialogue: 0,0:09:00.79,0:09:03.75,Arifureta-Main,,0000,0000,0000,,A Yue é uma boa professora.
+Dialogue: 0,0:09:04.12,0:09:05.92,Arifureta-Main,,0000,0000,0000,,Entendi tudo rapidinho.
+Dialogue: 0,0:09:06.33,0:09:09.09,Arifureta-Main,,0000,0000,0000,,Sério? Entendeu mesmo?
+Dialogue: 0,0:09:09.25,0:09:10.25,Arifureta-Main,,0000,0000,0000,,É claro!
+Dialogue: 0,0:09:10.67,0:09:15.51,Arifureta-Main,,0000,0000,0000,,Segurar... mexer... "shoop"... e "soy"!
+Dialogue: 0,0:09:17.55,0:09:19.80,Arifureta-Main,,0000,0000,0000,,— É isso!\N— É isso mesmo!
+Dialogue: 0,0:09:20.43,0:09:23.27,Arifureta-Main,,0000,0000,0000,,Vamos, Shea e Tio! Levantem-se!
+Dialogue: 0,0:09:23.68,0:09:24.73,Arifureta-Main,,0000,0000,0000,,Levantem-se!
+Dialogue: 0,0:09:27.48,0:09:28.98,Arifureta-Main,,0000,0000,0000,,Repitam comigo:
+Dialogue: 0,0:09:29.56,0:09:32.61,Arifureta-Main,,0000,0000,0000,,segurar, mexer, "shoop" e "soy"!
+Dialogue: 0,0:09:33.03,0:09:36.53,Arifureta-Main,,0000,0000,0000,,Repitam! Segurar! Segurar! Rápido!
+Dialogue: 0,0:09:36.95,0:09:37.95,Arifureta-Main,,0000,0000,0000,,Segurar!
+Dialogue: 0,0:09:38.45,0:09:41.16,Arifureta-Main,,0000,0000,0000,,— Segurar...\N— Segurar!
+Dialogue: 0,0:09:45.21,0:09:49.75,Arifureta-Main,,0000,0000,0000,,Segurar! Mexer! "Shoop" e "soy"!
+Dialogue: 0,0:09:50.21,0:09:53.55,Arifureta-Main,,0000,0000,0000,,"Soy"... "Soy"... "Soy"!
+Dialogue: 0,0:09:54.46,0:09:58.72,Arifureta-Main,,0000,0000,0000,,Myu, vamos parar um pouco com isso?
+Dialogue: 0,0:10:02.26,0:10:06.10,Arifureta-Main,,0000,0000,0000,,Nossa, como esta cidade é movimentada!
+Dialogue: 0,0:10:06.56,0:10:10.40,Arifureta-Main,,0000,0000,0000,,Quantas roupas!\NNunca vi nada igual!
+Dialogue: 0,0:10:10.77,0:10:15.94,Arifureta-Main,,0000,0000,0000,,Os moradores são especialistas\Nem tingir tecidos e usam roupas coloridas.
+Dialogue: 0,0:10:16.32,0:10:18.82,Arifureta-Main,,0000,0000,0000,,Os tecelões parecem muito habilidosos.
+Dialogue: 0,0:10:18.91,0:10:22.83,Arifureta-Main,,0000,0000,0000,,— Parecem mesmo. É impressionante.\N— Que bom que fizemos este desvio.
+Dialogue: 0,0:10:23.66,0:10:25.16,Arifureta-Main,,0000,0000,0000,,— Myu.\N— Myu?
+Dialogue: 0,0:10:25.79,0:10:30.38,Arifureta-Main,,0000,0000,0000,,Que roupas os merfolks gostam de usar?
+Dialogue: 0,0:10:30.79,0:10:32.13,Arifureta-Main,,0000,0000,0000,,Geralmente, nenhuma.
+Dialogue: 0,0:10:32.46,0:10:34.67,Arifureta-Main,,0000,0000,0000,,O quê? São nudistas?
+Dialogue: 0,0:10:35.38,0:10:36.42,Arifureta-Main,,0000,0000,0000,,Nossa!
+Dialogue: 0,0:10:37.26,0:10:39.43,Arifureta-Main,,0000,0000,0000,,— Que ousados.\N— Nudistas, é?
+Dialogue: 0,0:10:39.51,0:10:42.47,Arifureta-Main,,0000,0000,0000,,Acho que eu não conseguiria\Nviver em Erisen.
+Dialogue: 0,0:10:43.01,0:10:45.81,Arifureta-Main,,0000,0000,0000,,Hajime, vamos morar em Erisen com a Myu?
+Dialogue: 0,0:10:46.35,0:10:47.35,Arifureta-Main,,0000,0000,0000,,Só nós três.
+Dialogue: 0,0:10:47.93,0:10:51.35,Arifureta-Main,,0000,0000,0000,,Como é? Vou morar com vocês!
+Dialogue: 0,0:10:51.81,0:10:52.86,Arifureta-Main,,0000,0000,0000,,Eu também!
+Dialogue: 0,0:10:53.11,0:10:54.11,Arifureta-Main,,0000,0000,0000,,Também vou!
+Dialogue: 0,0:10:54.48,0:10:55.90,Arifureta-Main,,0000,0000,0000,,Ora, vocês...
+Dialogue: 0,0:10:57.11,0:10:58.11,Arifureta-Main,,0000,0000,0000,,Nossa!
+Dialogue: 0,0:11:02.24,0:11:06.04,Arifureta-Main,,0000,0000,0000,,— Myu, você quer alguma coisa daqui?\N— Papai?
+Dialogue: 0,0:11:06.37,0:11:09.96,Arifureta-Main,,0000,0000,0000,,Já que estamos aqui,\Nvou comprar a roupa que você quiser.
+Dialogue: 0,0:11:10.37,0:11:11.37,Arifureta-Main,,0000,0000,0000,,É sério?
+Dialogue: 0,0:11:13.34,0:11:14.42,Arifureta-Main,,0000,0000,0000,,Nossa!
+Dialogue: 0,0:11:14.50,0:11:16.38,Arifureta-Main,,0000,0000,0000,,Escolha o que quiser.
+Dialogue: 0,0:11:16.88,0:11:19.51,Arifureta-Main,,0000,0000,0000,,Qual escolho?
+Dialogue: 0,0:11:20.93,0:11:23.51,Arifureta-Main,,0000,0000,0000,,Vocês podem comprar suas próprias roupas!
+Dialogue: 0,0:11:23.60,0:11:26.14,Arifureta-Main,,0000,0000,0000,,Hajime, não é isso.
+Dialogue: 0,0:11:27.89,0:11:29.06,Arifureta-Main,,0000,0000,0000,,O que foi, Myu?
+Dialogue: 0,0:11:29.93,0:11:33.48,Arifureta-Main,,0000,0000,0000,,Quero as roupas da irmãzona Yue.\NQuero prová-las!
+Dialogue: 0,0:11:34.40,0:11:35.40,Arifureta-Main,,0000,0000,0000,,As minhas?
+Dialogue: 0,0:11:35.65,0:11:36.69,Arifureta-Main,,0000,0000,0000,,Isso!
+Dialogue: 0,0:11:37.15,0:11:40.74,Arifureta-Main,,0000,0000,0000,,Mas há tantas outras\Nmais bonitas aqui, Myu.
+Dialogue: 0,0:11:41.15,0:11:45.16,Arifureta-Main,,0000,0000,0000,,Sabia que a irmãzona Yue\Né a mais legal de todas?
+Dialogue: 0,0:11:45.62,0:11:46.74,Arifureta-Main,,0000,0000,0000,,Como é?
+Dialogue: 0,0:11:47.20,0:11:53.04,Arifureta-Main,,0000,0000,0000,,Quando usa magia e luta ao lado\Ndo papai, você é muito legal!
+Dialogue: 0,0:11:53.50,0:11:54.54,Arifureta-Main,,0000,0000,0000,,Não!
+Dialogue: 0,0:11:55.84,0:11:59.21,Arifureta-Main,,0000,0000,0000,,Sou filha do papai, mas sou fraca.
+Dialogue: 0,0:12:00.05,0:12:05.64,Arifureta-Main,,0000,0000,0000,,Então quero ser como a irmãzona Yue,\Npara poder ser mais forte.
+Dialogue: 0,0:12:06.68,0:12:07.89,Arifureta-Main,,0000,0000,0000,,Myu...
+Dialogue: 0,0:12:09.22,0:12:11.81,Arifureta-Main,,0000,0000,0000,,A Myu é um anjo!\NNão consigo me segurar!
+Dialogue: 0,0:12:14.02,0:12:19.61,Arifureta-Main,,0000,0000,0000,,E eu? Não sou legal, Myu?\NPulverizo um inimigo num golpe só!
+Dialogue: 0,0:12:20.03,0:12:22.40,Arifureta-Main,,0000,0000,0000,,Produzo carne moída em massa!
+Dialogue: 0,0:12:23.32,0:12:27.37,Arifureta-Main,,0000,0000,0000,,Myu, a irmãzona Kaori também é muito boa\Nem imobilizar inimigos.
+Dialogue: 0,0:12:27.78,0:12:30.58,Arifureta-Main,,0000,0000,0000,,Quer ver minhas\NLâminas de Luz Constritoras?
+Dialogue: 0,0:12:31.54,0:12:38.04,Arifureta-Main,,0000,0000,0000,,Vou te mostrar meu ataque de sopro!\NSeus olhos vão até ficar brilhando!
+Dialogue: 0,0:12:43.38,0:12:44.55,Arifureta-Main,,0000,0000,0000,,Irmãzonas...
+Dialogue: 0,0:12:45.89,0:12:51.47,Arifureta-Main,,0000,0000,0000,,Irmãzona Shea, você não é legal.\NEstá mais para... desleixada.
+Dialogue: 0,0:12:53.14,0:12:57.40,Arifureta-Main,,0000,0000,0000,,A irmãzona Kaori é... bem, meio fracote.
+Dialogue: 0,0:12:57.94,0:12:58.94,Arifureta-Main,,0000,0000,0000,,Não!
+Dialogue: 0,0:12:59.36,0:13:02.69,Arifureta-Main,,0000,0000,0000,,Irmãzona Tio, você dá para o gasto.
+Dialogue: 0,0:13:03.19,0:13:05.28,Arifureta-Main,,0000,0000,0000,,O que isso significa?
+Dialogue: 0,0:13:08.24,0:13:11.87,Arifureta-Main,,0000,0000,0000,,Agora a coisa passou dos limites!
+Dialogue: 0,0:13:11.95,0:13:15.79,Arifureta-Main,,0000,0000,0000,,Yue, que cara é essa? Diga!
+Dialogue: 0,0:13:17.67,0:13:22.46,Arifureta-Main,,0000,0000,0000,,Alguém precisa aprender\Na não mexer com um dragão.
+Dialogue: 0,0:13:27.97,0:13:33.60,Arifureta-Main,,0000,0000,0000,,Irmãzonas Shea, Tio e Kaori,
+Dialogue: 0,0:13:33.68,0:13:36.06,Arifureta-Main,,0000,0000,0000,,acho que todas as suas roupas são ótimas!
+Dialogue: 0,0:13:37.23,0:13:38.86,Arifureta-Main,,0000,0000,0000,,Então...
+Dialogue: 0,0:13:39.90,0:13:43.57,Arifureta-Main,,0000,0000,0000,,Já sei!\NVamos trocar nossas roupas?
+Dialogue: 0,0:13:43.90,0:13:45.07,Arifureta-Main,,0000,0000,0000,,Trocar as roupas?
+Dialogue: 0,0:13:45.53,0:13:49.66,Arifureta-Main,,0000,0000,0000,,Isso! Assim poderemos usar\Nas roupas umas das outras.
+Dialogue: 0,0:13:50.24,0:13:51.53,Arifureta-Main,,0000,0000,0000,,Vai ser legal!
+Dialogue: 0,0:13:53.95,0:13:57.29,Arifureta-Main,,0000,0000,0000,,Por que não aceitam a ideia da Myu?
+Dialogue: 0,0:13:58.17,0:14:00.88,Arifureta-Main,,0000,0000,0000,,Tirem no palitinho,\Nou façam algum sorteio.
+Dialogue: 0,0:14:01.42,0:14:02.46,Arifureta-Main,,0000,0000,0000,,— Hajime!\N— Mestre!
+Dialogue: 0,0:14:02.88,0:14:08.47,Arifureta-Main,,0000,0000,0000,,Aposto que conseguem achar alguém\Npara ajustar as roupas nesta cidade.
+Dialogue: 0,0:14:10.30,0:14:12.18,Arifureta-Main,,0000,0000,0000,,Está decidido!
+Dialogue: 0,0:14:17.56,0:14:19.23,Arifureta-Main,,0000,0000,0000,,Papai, veja!
+Dialogue: 0,0:14:27.03,0:14:30.91,Arifureta-Main,,0000,0000,0000,,Que linda, Myu.\NVocê parece um pouco mais adulta.
+Dialogue: 0,0:14:32.62,0:14:35.08,Arifureta-Main,,0000,0000,0000,,Myu, não abra assim tão depressa.
+Dialogue: 0,0:14:49.13,0:14:51.18,Arifureta-Main,,0000,0000,0000,,Você está linda, irmãzona Yue!
+Dialogue: 0,0:14:51.26,0:14:52.26,Arifureta-Main,,0000,0000,0000,,Obrigada.
+Dialogue: 0,0:14:56.14,0:14:58.73,Arifureta-Main,,0000,0000,0000,,Nunca vesti nada assim antes.
+Dialogue: 0,0:14:59.60,0:15:01.60,Arifureta-Main,,0000,0000,0000,,É uma sensação nova.
+Dialogue: 0,0:15:05.11,0:15:10.66,Arifureta-Main,,0000,0000,0000,,As roupas da Kaori têm tantas camadas\Nque não dá nem para se mexer.
+Dialogue: 0,0:15:11.20,0:15:13.16,Arifureta-Main,,0000,0000,0000,,Você está ótima, Tio.
+Dialogue: 0,0:15:16.20,0:15:18.00,Arifureta-Main,,0000,0000,0000,,Você também, Shea.
+Dialogue: 0,0:15:18.46,0:15:20.04,Arifureta-Main,,0000,0000,0000,,Muito obrigada!
+Dialogue: 0,0:15:20.62,0:15:23.75,Arifureta-Main,,0000,0000,0000,,As irmãzonas Tio e Shea estão tão lindas!
+Dialogue: 0,0:15:26.96,0:15:28.84,Arifureta-Main,,0000,0000,0000,,E a Kaori? Onde ela está?
+Dialogue: 0,0:15:29.72,0:15:31.22,Arifureta-Main,,0000,0000,0000,,Vou arrastá-la para fora.
+Dialogue: 0,0:15:32.34,0:15:33.35,Arifureta-Main,,0000,0000,0000,,Yue?
+Dialogue: 0,0:15:34.68,0:15:39.23,Arifureta-Main,,0000,0000,0000,,Não! É impossível usar as roupas da Shea!\NNão tapam nada!
+Dialogue: 0,0:15:39.48,0:15:41.77,Arifureta-Main,,0000,0000,0000,,Não seja assim!
+Dialogue: 0,0:15:41.85,0:15:44.48,Arifureta-Main,,0000,0000,0000,,Não consigo!
+Dialogue: 0,0:15:44.56,0:15:46.02,Arifureta-Main,,0000,0000,0000,,Não seja assim!
+Dialogue: 0,0:15:58.66,0:16:03.58,Arifureta-Main,,0000,0000,0000,,Esta roupa mostra coisa demais.\NNão fique me olhando, Hajime.
+Dialogue: 0,0:16:28.40,0:16:31.78,Arifureta-Italics,,0000,0000,0000,,Ela deitou no meu colo\Nfeito um gatinho. Que fofura.
+Dialogue: 0,0:16:32.15,0:16:33.99,Arifureta-Italics,,0000,0000,0000,,Vou fazer um cafuné.
+Dialogue: 0,0:16:36.95,0:16:40.62,Arifureta-Italics,,0000,0000,0000,,Um cafuné com minha habilidade\Nde carinho suprema,
+Dialogue: 0,0:16:40.70,0:16:43.42,Arifureta-Italics,,0000,0000,0000,,cuidando para não acordá-la.
+Dialogue: 0,0:16:47.54,0:16:50.55,Arifureta-Italics,,0000,0000,0000,,Não, não consegui me conter.
+Dialogue: 0,0:16:52.13,0:16:56.14,Arifureta-Italics,,0000,0000,0000,,Que habilidade assustadora,\Nmas muito boa.
+Dialogue: 0,0:16:59.43,0:17:02.64,Arifureta-Main,,0000,0000,0000,,Yue, você precisa ver a sua cara.
+Dialogue: 0,0:17:03.10,0:17:04.98,Arifureta-Main,,0000,0000,0000,,Que coração mole.
+Dialogue: 0,0:17:05.06,0:17:07.02,Arifureta-Main,,0000,0000,0000,,Parece uma tarada perigosa.
+Dialogue: 0,0:17:07.77,0:17:11.69,Arifureta-Italics,,0000,0000,0000,,Fui chamada de tarada por uma\Ntarada de verdade. Que vergonha.
+Dialogue: 0,0:17:14.32,0:17:18.16,Arifureta-Main,,0000,0000,0000,,Isso é precioso.\NPrecioso pra caramba.
+Dialogue: 0,0:17:18.99,0:17:21.41,Arifureta-Italics,,0000,0000,0000,,Ás vezes, o Hajime diz coisas estranhas.
+Dialogue: 0,0:17:21.66,0:17:24.62,Arifureta-Italics,,0000,0000,0000,,"Pra caramba"? O que é isso?
+Dialogue: 0,0:17:26.37,0:17:28.34,Arifureta-Italics,,0000,0000,0000,,Bem, deixa pra lá.
+Dialogue: 0,0:17:29.38,0:17:32.59,Arifureta-Italics,,0000,0000,0000,,Ontem, ela disse que eu era\Na irmãzona mais legal.
+Dialogue: 0,0:17:33.47,0:17:38.43,Arifureta-Italics,,0000,0000,0000,,Mas tem um problema.\NEla não me chama de "mamãe".
+Dialogue: 0,0:17:39.39,0:17:42.31,Arifureta-Italics,,0000,0000,0000,,Por quê? Por que não, Myu?
+Dialogue: 0,0:17:43.31,0:17:47.98,Arifureta-Italics,,0000,0000,0000,,Acho que a mãe verdadeira da Myu\Né a "mamãe" dela...
+Dialogue: 0,0:17:49.23,0:17:54.11,Arifureta-Main,,0000,0000,0000,,Mas a Yue acha que você pode ter\Nmais de uma mamãe!
+Dialogue: 0,0:17:55.45,0:17:59.24,Arifureta-Italics,,0000,0000,0000,,— Ter duas mamães é ótimo!\N— A mamãe e a mamãe!
+Dialogue: 0,0:17:59.78,0:18:04.08,Arifureta-Main,,0000,0000,0000,,Yue, isso não é uma promoção\Nde "pague uma e leve duas".
+Dialogue: 0,0:18:04.37,0:18:07.29,Arifureta-Main,,0000,0000,0000,,Você está pensando alto demais.
+Dialogue: 0,0:18:07.67,0:18:09.38,Arifureta-Main,,0000,0000,0000,,E acordou a Myu.
+Dialogue: 0,0:18:10.84,0:18:12.25,Arifureta-Main,,0000,0000,0000,,O quê?
+Dialogue: 0,0:18:15.34,0:18:16.34,Arifureta-Main,,0000,0000,0000,,Myu.
+Dialogue: 0,0:18:16.88,0:18:18.51,Arifureta-Main,,0000,0000,0000,,Sim.
+Dialogue: 0,0:18:18.89,0:18:24.47,Arifureta-Main,,0000,0000,0000,,Não se preocupe. Estou bem feliz\Ncom "irmãzona Yue". De verdade.
+Dialogue: 0,0:18:27.35,0:18:32.36,Arifureta-Italics,,0000,0000,0000,,Isso é insuportável. Um dos três piores\Nmomentos da minha vida.
+Dialogue: 0,0:18:32.90,0:18:34.53,Arifureta-Italics,,0000,0000,0000,,Quero me enfiar num buraco.
+Dialogue: 0,0:18:35.82,0:18:41.28,Arifureta-Main,,0000,0000,0000,,Acho que é isso mesmo que a mamãe faria.
+Dialogue: 0,0:18:41.87,0:18:42.87,Arifureta-Main,,0000,0000,0000,,Como?
+Dialogue: 0,0:18:42.95,0:18:44.79,Arifureta-Main,,0000,0000,0000,,Amo você, irmãzona Yue.
+Dialogue: 0,0:18:47.00,0:18:51.58,Arifureta-Main,,0000,0000,0000,,Você é tão forte, linda e legal.
+Dialogue: 0,0:18:52.29,0:18:54.00,Arifureta-Main,,0000,0000,0000,,Myu...
+Dialogue: 0,0:18:54.55,0:18:57.67,Arifureta-Italics,,0000,0000,0000,,O que é isso?
+Dialogue: 0,0:18:57.97,0:19:01.43,Arifureta-Italics,,0000,0000,0000,,Este conforto é como um abraço de mãe!
+Dialogue: 0,0:19:03.43,0:19:05.14,Arifureta-Italics,,0000,0000,0000,,Está drenando minhas forças.
+Dialogue: 0,0:19:06.52,0:19:10.48,Arifureta-Main,,0000,0000,0000,,Seria incrível ter uma mamãe\Ncomo a irmãzona Yue.
+Dialogue: 0,0:19:11.73,0:19:16.32,Arifureta-Main,,0000,0000,0000,,Mas eu já tenho uma mamãe,\Ne ela é minha única mamãe.
+Dialogue: 0,0:19:18.74,0:19:21.45,Arifureta-Main,,0000,0000,0000,,Mas não tenho uma\Nirmã mais velha, então...
+Dialogue: 0,0:19:26.62,0:19:29.62,Arifureta-Main,,0000,0000,0000,,Sim, serei sua irmã mais velha, Myu.
+Dialogue: 0,0:19:33.17,0:19:34.84,Arifureta-Main,,0000,0000,0000,,A sua irmãzona.
+Dialogue: 0,0:19:35.55,0:19:38.30,Arifureta-Main,,0000,0000,0000,,Obrigada, irmãzona Yue.
+Dialogue: 0,0:19:41.30,0:19:44.80,Arifureta-Italics,,0000,0000,0000,,A Myu está me fazendo carinho.\NQue revigorante!
+Dialogue: 0,0:19:45.22,0:19:46.72,Arifureta-Italics,,0000,0000,0000,,Glória à irmã mais velha!
+Dialogue: 0,0:19:47.60,0:19:49.73,Arifureta-Main,,0000,0000,0000,,Ela amoleceu a Yue!
+Dialogue: 0,0:19:49.81,0:19:52.10,Arifureta-Main,,0000,0000,0000,,O talento da Myu é assustador.
+Dialogue: 0,0:19:52.56,0:19:57.98,Arifureta-Main,,0000,0000,0000,,Sinto uma presença materna vindo da Myu!\NE a Yue reverteu a um estado infantil!
+Dialogue: 0,0:19:59.03,0:20:04.37,Arifureta-Main,,0000,0000,0000,,Não pode ser! O fenômeno aconteceu\Ncom a Myu e a Yue.
+Dialogue: 0,0:20:04.82,0:20:07.04,Arifureta-Main,,0000,0000,0000,,Sabe algo sobre isso, mestre?
+Dialogue: 0,0:20:08.54,0:20:11.29,Arifureta-Main,,0000,0000,0000,,Vou explicar.\NNo meu mundo, isso é chamado
+Dialogue: 0,0:20:11.67,0:20:13.83,Arifureta-Main,,0000,0000,0000,,de "ver a mamãe e cair no choro".
+Dialogue: 0,0:20:14.25,0:20:15.63,Arifureta-Main,,0000,0000,0000,,O que isso significa?
+Dialogue: 0,0:20:15.71,0:20:19.42,Arifureta-Main,,0000,0000,0000,,O que aconteceu com a Yue e a Myu?
+Dialogue: 0,0:20:19.92,0:20:25.55,Arifureta-Main,,0000,0000,0000,,Para resumir, a natureza\Ne o carinho maternais da Myu
+Dialogue: 0,0:20:25.93,0:20:28.77,Arifureta-Main,,0000,0000,0000,,fizeram a Yue querer\Nse aninhar feito um bebê!
+Dialogue: 0,0:20:31.60,0:20:34.73,Arifureta-Main,,0000,0000,0000,,E isso é precioso.\NInfinitamente precioso.
+Dialogue: 0,0:20:35.19,0:20:37.65,Arifureta-Main,,0000,0000,0000,,Essa reversão de papéis não tem preço!
+Dialogue: 0,0:20:38.07,0:20:42.49,Arifureta-Main,,0000,0000,0000,,— O mestre está enlouquecendo.\N— Precioso... Tão precioso!
+Dialogue: 0,0:20:42.86,0:20:49.08,Arifureta-Main,,0000,0000,0000,,— É, ele perde o controle perto da Yue.\N— Precioso demais!
+Dialogue: 0,0:20:49.41,0:20:53.37,Arifureta-Main,,0000,0000,0000,,A Yue foi de uma presença maternal\Npara um estado infantil.
+Dialogue: 0,0:20:53.79,0:20:58.96,Arifureta-Main,,0000,0000,0000,,E agora foi a Myu quem assumiu\Numa presença maternal.
+Dialogue: 0,0:21:00.01,0:21:04.59,Arifureta-Main,,0000,0000,0000,,Entendi. Nem o mestre aguentou\Nessa força tão avassaladora.
+Dialogue: 0,0:21:06.85,0:21:11.39,Arifureta-Italics,,0000,0000,0000,,Aceito ser uma irmã mais velha,\Nmas a maternidade ainda me atrai.
+Dialogue: 0,0:21:12.39,0:21:14.39,Arifureta-Italics,,0000,0000,0000,,Se não posso ser a mãe da Myu...
+Dialogue: 0,0:21:17.81,0:21:21.78,Arifureta-Italics,,0000,0000,0000,,então voltarei a considerar a ideia\Nde ter meu próprio bebê.
+Dialogue: 0,0:21:22.61,0:21:24.03,Arifureta-Italics,,0000,0000,0000,,A jornada não terminou.
+Dialogue: 0,0:21:24.49,0:21:25.91,Arifureta-Italics,,0000,0000,0000,,Não posso pular no...
+Dialogue: 0,0:21:25.99,0:21:30.16,Arifureta-Italics,,0000,0000,0000,,Digo, começar uma família feliz\Ncom o Hajime agora.
+Dialogue: 0,0:21:31.41,0:21:33.66,Arifureta-Italics,,0000,0000,0000,,Tenho autocontrole suficiente.
+Dialogue: 0,0:21:34.29,0:21:38.42,Arifureta-Italics,,0000,0000,0000,,Mas também não posso\Nficar perturbando a Myu assim.
+Dialogue: 0,0:21:39.38,0:21:40.38,Arifureta-Italics,,0000,0000,0000,,Já sei.
+Dialogue: 0,0:21:41.00,0:21:42.01,Arifureta-Main,,0000,0000,0000,,Hajime.
+Dialogue: 0,0:21:44.63,0:21:45.68,Arifureta-Main,,0000,0000,0000,,Cai no choro?
+Dialogue: 0,0:21:50.14,0:21:53.60,Arifureta-Main,,0000,0000,0000,,Como assim?\NQuer que eu aja como um bebê?
+Dialogue: 0,0:21:53.93,0:21:55.56,Arifureta-Main,,0000,0000,0000,,Estou fora! Não faço isso!

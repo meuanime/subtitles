@@ -1,0 +1,231 @@
+﻿[Script Info]
+Title: [Erai-raws] Português (Brasil)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Arifureta-Main,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: Arifureta-Main-Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,0
+Style: Arifureta-Italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: Arifureta-Italics-Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,0
+Style: Arifureta-Flashback,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: Arifureta-Flashback-Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,0,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,1
+Style: Arifureta-Flashback-Italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,-1,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: Arifureta-Flashback-Italics-Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,-1,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,1
+Style: Arifureta-Flashback-Inside,Trebuchet MS,22,&H00CCCCCC,&H000000FF,&H00400000,&H00400000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: Arifureta-Flashback-Inside-Italics,Trebuchet MS,22,&H00CCCCCC,&H000000FF,&H00400000,&H00400000,-1,-1,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: Arifureta-OP,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1,1,2,0040,0040,0015,0
+Style: Arifureta-Frase,Times New Roman,12,&H00000000,&H000000FF,&H00F2F2F2,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,0005,0005,0015,0
+Style: Arifureta-EpNumber,Times New Roman,22,&H003000A9,&H000000FF,&H00F2F2F2,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0005,0005,0015,0
+Style: Arifureta-EpTitle,Times New Roman,22,&H00000000,&H000000FF,&H00F2F2F2,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0005,0005,0015,0
+Style: Arifureta-ED,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1,1,2,0040,0040,0015,0
+Style: Arifureta-NextEpNumber,Times New Roman,22,&H002F00A9,&H000000FF,&H00F2F2F2,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0005,0005,0015,0
+Style: Arifureta-NextEpTitle,Times New Roman,22,&H00000000,&H000000FF,&H00F2F2F2,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0005,0005,0015,0
+Style: Default,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: DefaultSD,Verdana,32,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,0020,0020,0020,0
+Style: Signs,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0020,0020,0015,0
+Style: Fundo do Abismo,Times New Roman,18,&H00424843,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0005,0005,0015,0
+Style: Algumas horas,Times New Roman,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,0040,0040,0015,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:31.00,0:01:35.99,Arifureta-EpNumber,,0000,0000,0000,,{\3c&H1B191E&\pos(271,289)}Episódio 10
+Dialogue: 0,0:01:31.00,0:01:35.99,Arifureta-EpTitle,,0000,0000,0000,,{\c&HFFFFFF&\3c&H181818&\pos(250,45)}Apóstola de Deus
+Dialogue: 0,0:01:31.00,0:01:35.99,Arifureta-Frase,,0000,0000,0000,,{\an2\c&HFFFFFF&\3c&H181818&\pos(320,258)}ARIFURETA:\NDo comum ao mais forte do mundo
+Dialogue: 0,0:01:41.35,0:01:46.94,Arifureta-Italics,,0000,0000,0000,,Sei que está preocupada com o mestre,\Nmas temos que nos apressar.
+Dialogue: 0,0:01:47.77,0:01:52.40,Arifureta-Italics,,0000,0000,0000,,Preciso deixá-la em segurança\Ne ir matar aqueles velhotes.
+Dialogue: 0,0:01:53.53,0:01:56.24,Arifureta-Italics,,0000,0000,0000,,Não deixarei que atrapalhem o mestre.
+Dialogue: 0,0:01:56.32,0:01:58.20,Arifureta-Main,,0000,0000,0000,,Por favor, deixe-me ajudar!
+Dialogue: 0,0:01:59.66,0:02:01.20,Arifureta-Main,,0000,0000,0000,,Pode não parecer,
+Dialogue: 0,0:02:01.28,0:02:04.54,Arifureta-Main,,0000,0000,0000,,mas meu poder mágico equivale\Nao do Amanogawa, o herói.
+Dialogue: 0,0:02:04.83,0:02:07.00,Arifureta-Main,,0000,0000,0000,,Não tenho experiência de combate,
+Dialogue: 0,0:02:07.41,0:02:09.83,Arifureta-Main,,0000,0000,0000,,mas posso, pelo menos, oferecer suporte!
+Dialogue: 0,0:02:16.05,0:02:18.59,Arifureta-Main,,0000,0000,0000,,Admito que tenho medo\Nde enfrentar pessoas.
+Dialogue: 0,0:02:18.93,0:02:20.26,Arifureta-Main,,0000,0000,0000,,Mas não tenho escolha!
+Dialogue: 0,0:02:20.39,0:02:22.05,Arifureta-Main,,0000,0000,0000,,Apenas ter ideais não basta!
+Dialogue: 0,0:02:24.14,0:02:27.64,Arifureta-Main,,0000,0000,0000,,Para que todos possam\Nsobreviver e voltar ao Japão,
+Dialogue: 0,0:02:28.10,0:02:30.73,Arifureta-Main,,0000,0000,0000,,sou a única que não pode fugir!
+Dialogue: 0,0:02:31.90,0:02:32.90,Arifureta-Main,,0000,0000,0000,,Tio!
+Dialogue: 0,0:02:36.23,0:02:39.03,Arifureta-Italics,,0000,0000,0000,,Se já está decidida,\Nentão não posso fazer nada.
+Dialogue: 0,0:02:39.11,0:02:43.58,Arifureta-Main,,0000,0000,0000,,Se é isso que você quer,\No mestre não poderá impedi-la.
+Dialogue: 0,0:02:45.62,0:02:48.83,Arifureta-Main,,0000,0000,0000,,Muito bem, vamos acabar\Ncom aqueles idiotas juntas.
+Dialogue: 0,0:02:49.21,0:02:50.21,Arifureta-Main,,0000,0000,0000,,Vamos!
+Dialogue: 0,0:02:59.63,0:03:03.89,Arifureta-Italics,,0000,0000,0000,,Que poder mágico é esse?\NEla está usando Quebra de Limite?
+Dialogue: 0,0:04:35.90,0:04:37.19,Arifureta-Italics,,0000,0000,0000,,O que está havendo?
+Dialogue: 0,0:04:38.44,0:04:40.61,Arifureta-Italics,,0000,0000,0000,,O poder mágico dela não diminui.
+Dialogue: 0,0:04:56.88,0:05:00.34,Arifureta-Italics,,0000,0000,0000,,Minha Quebra de Limite\Ntem limite de tempo.
+Dialogue: 0,0:05:01.09,0:05:02.01,Arifureta-Italics,,0000,0000,0000,,O que vou fazer?
+Dialogue: 0,0:05:22.44,0:05:23.94,Arifureta-Italics,,0000,0000,0000,,Preciso ganhar distância.
+Dialogue: 0,0:05:37.67,0:05:38.67,Arifureta-Main,,0000,0000,0000,,Fogo!
+Dialogue: 0,0:06:02.90,0:06:05.28,Arifureta-Main,,0000,0000,0000,,Esperava que fôssemos juntos ao Paraíso?
+Dialogue: 0,0:06:08.57,0:06:10.07,Arifureta-Main,,0000,0000,0000,,Até parece!
+Dialogue: 0,0:06:10.95,0:06:12.49,Arifureta-Main,,0000,0000,0000,,Foi uma péssima piada.
+Dialogue: 0,0:06:12.87,0:06:17.29,Arifureta-Main,,0000,0000,0000,,Você precisa ser, ao menos, tão bela\Nquanto minha namorada para dizer isso.
+Dialogue: 0,0:06:27.55,0:06:31.18,Arifureta-Main,,0000,0000,0000,,Que ataque fraco foi esse?\NFicou sem opções?
+Dialogue: 0,0:06:46.78,0:06:48.61,Arifureta-Italics,,0000,0000,0000,,Com um ataque tão fraco assim?
+Dialogue: 0,0:06:51.74,0:06:52.74,Arifureta-Main,,0000,0000,0000,,O quê?
+Dialogue: 0,0:07:26.48,0:07:28.99,Arifureta-Main,,0000,0000,0000,,Quero ver você sobreviver a isto!
+Dialogue: 0,0:07:59.47,0:08:02.23,Arifureta-Main,,0000,0000,0000,,Irregular...
+Dialogue: 0,0:08:18.62,0:08:22.33,Arifureta-Main,,0000,0000,0000,,Essa é a Presa do Irregular.\NNada mal, não é?
+Dialogue: 0,0:08:29.63,0:08:30.63,Arifureta-Main,,0000,0000,0000,,Lá vamos nós.
+Dialogue: 0,0:08:45.19,0:08:46.94,Arifureta-Main,,0000,0000,0000,,O que aconteceu aqui?
+Dialogue: 0,0:08:48.48,0:08:50.90,Arifureta-Main,,0000,0000,0000,,Professora, você não fugiu?
+Dialogue: 0,0:08:51.65,0:08:54.90,Arifureta-Main,,0000,0000,0000,,Ela insistiu em ajudar.
+Dialogue: 0,0:08:55.74,0:08:59.99,Arifureta-Main,,0000,0000,0000,,Eu só queria ajudar a Tio.
+Dialogue: 0,0:09:00.66,0:09:03.58,Arifureta-Main,,0000,0000,0000,,De qualquer forma,\Né bom ver vocês duas bem.
+Dialogue: 0,0:09:04.08,0:09:08.63,Arifureta-Main,,0000,0000,0000,,É, sim! Que bom que\Nvocê também está bem!
+Dialogue: 0,0:09:09.13,0:09:10.59,Arifureta-Main,,0000,0000,0000,,Fico muito feliz.
+Dialogue: 0,0:09:11.00,0:09:14.55,Arifureta-Main,,0000,0000,0000,,Por um momento, achei que eu\Nfosse morrer, mas estou viva.
+Dialogue: 0,0:09:15.30,0:09:19.22,Arifureta-Main,,0000,0000,0000,,A professora do mestre\Nrealmente me impressionou.
+Dialogue: 0,0:09:20.89,0:09:21.89,Arifureta-Main,,0000,0000,0000,,É?
+Dialogue: 0,0:09:21.97,0:09:28.15,Arifureta-Main,,0000,0000,0000,,Você fortaleceu tanto o meu sopro\Nque ele botou a igreja inteira abaixo.
+Dialogue: 0,0:09:28.77,0:09:30.32,Arifureta-Main,,0000,0000,0000,,Realmente impressionante.
+Dialogue: 0,0:09:31.44,0:09:33.90,Arifureta-Main,,0000,0000,0000,,Professora, o que você fez?
+Dialogue: 0,0:09:34.36,0:09:38.87,Arifureta-Main,,0000,0000,0000,,Não é o que está pensando!\NNão era isso que eu queria fazer!
+Dialogue: 0,0:09:39.24,0:09:41.87,Arifureta-Main,,0000,0000,0000,,A barreira da igreja\Nera resistente, então...
+Dialogue: 0,0:09:41.95,0:09:43.16,Arifureta-Main,,0000,0000,0000,,Então?
+Dialogue: 0,0:09:43.58,0:09:49.42,Arifureta-Main,,0000,0000,0000,,Eu queria melhorar o sopro da Tio\Nsó para quebrar a barreira, mas...
+Dialogue: 0,0:09:49.83,0:09:50.84,Arifureta-Main,,0000,0000,0000,,Mas?
+Dialogue: 0,0:09:54.21,0:09:55.55,Arifureta-Main,,0000,0000,0000,,Entendi.
+Dialogue: 0,0:09:56.26,0:10:00.18,Arifureta-Main,,0000,0000,0000,,Você usou a habilidade\NAceleração de Fermentação
+Dialogue: 0,0:10:00.60,0:10:03.81,Arifureta-Main,,0000,0000,0000,,para criar metano,\Nque é altamente inflamável.
+Dialogue: 0,0:10:04.27,0:10:08.77,Arifureta-Main,,0000,0000,0000,,Então usou as asas da Tio para\Nconcentrar o gás e explodiu tudo?
+Dialogue: 0,0:10:09.56,0:10:15.19,Arifureta-Main,,0000,0000,0000,,Também fomos pegas na explosão.\NFaz tempo que não fico tão perto da morte.
+Dialogue: 0,0:10:15.65,0:10:20.20,Arifureta-Main,,0000,0000,0000,,Você não só destruiu a barreira,\Ncomo também explodiu a igreja toda?
+Dialogue: 0,0:10:20.62,0:10:26.41,Arifureta-Main,,0000,0000,0000,,Mesmo em toda a minha longa vida,\Neu nunca teria pensado nessa solução.
+Dialogue: 0,0:10:26.87,0:10:28.83,Arifureta-Main,,0000,0000,0000,,Não! Não é o que estão pensando!
+Dialogue: 0,0:10:29.29,0:10:31.58,Arifureta-Main,,0000,0000,0000,,Eu não sabia que ia explodir assim...
+Dialogue: 0,0:10:32.29,0:10:34.63,Arifureta-Main,,0000,0000,0000,,Eu só não queria hesitar.
+Dialogue: 0,0:10:35.38,0:10:39.51,Arifureta-Main,,0000,0000,0000,,Espera, e as pessoas na igreja?\NO que aconteceu com elas?
+Dialogue: 0,0:10:40.30,0:10:42.97,Arifureta-Main,,0000,0000,0000,,Provavelmente morreram na explosão.
+Dialogue: 0,0:10:43.93,0:10:48.94,Arifureta-Main,,0000,0000,0000,,Elas estavam bem confiantes,\Ne foi um ataque surpresa.
+Dialogue: 0,0:10:50.15,0:10:53.48,Arifureta-Main,,0000,0000,0000,,Não devem ter sobrevivido\Na uma explosão tão grande.
+Dialogue: 0,0:10:56.07,0:10:57.07,Arifureta-Main,,0000,0000,0000,,Mas...
+Dialogue: 0,0:10:58.49,0:11:02.91,Arifureta-Main,,0000,0000,0000,,Mas... Não... Eu não queria...\NAchei que estivesse pronta, mas...
+Dialogue: 0,0:11:24.26,0:11:25.93,Arifureta-Main,,0000,0000,0000,,Está mais calma, professora?
+Dialogue: 0,0:11:34.27,0:11:35.27,Arifureta-Main,,0000,0000,0000,,Mestre.
+Dialogue: 0,0:11:36.07,0:11:37.07,Arifureta-Main,,0000,0000,0000,,O que foi?
+Dialogue: 0,0:11:37.15,0:11:40.57,Arifureta-Main,,0000,0000,0000,,Tem alguém ali,\Nque claramente não é normal.
+Dialogue: 0,0:11:40.99,0:11:42.24,Arifureta-Main,,0000,0000,0000,,O que disse?
+Dialogue: 0,0:11:52.96,0:11:54.58,Arifureta-Main,,0000,0000,0000,,Ele quer que o sigamos?
+Dialogue: 0,0:11:55.25,0:11:58.76,Arifureta-Main,,0000,0000,0000,,Provavelmente.\NO que faremos, mestre?
+Dialogue: 0,0:11:59.55,0:12:00.55,Arifureta-Main,,0000,0000,0000,,Vejamos...
+Dialogue: 0,0:12:01.42,0:12:04.26,Arifureta-Main,,0000,0000,0000,,Eu adoraria encontrar\Na Yue o quanto antes,
+Dialogue: 0,0:12:05.10,0:12:09.77,Arifureta-Main,,0000,0000,0000,,mas já que viemos até aqui pela\Nmagia da Era dos Deuses, talvez...
+Dialogue: 0,0:12:11.48,0:12:13.10,Arifureta-Main,,0000,0000,0000,,— Professora.\N— Sim?
+Dialogue: 0,0:12:13.69,0:12:17.65,Arifureta-Main,,0000,0000,0000,,Lamento, mas preciso que venha conosco.\NNão sei o que vai acontecer,
+Dialogue: 0,0:12:18.02,0:12:21.74,Arifureta-Main,,0000,0000,0000,,mas tenho que descobrir\Nquem é aquele cara.
+Dialogue: 0,0:12:49.10,0:12:52.68,Arifureta-Main,,0000,0000,0000,,Quem é você?\NO que quer de nós?
+Dialogue: 0,0:13:17.67,0:13:19.54,Arifureta-Main,,0000,0000,0000,,Você é um Libertador?
+Dialogue: 0,0:13:36.77,0:13:38.65,Arifureta-Main,,0000,0000,0000,,Mas que lugar é este?
+Dialogue: 0,0:13:51.24,0:13:53.41,Arifureta-Main,,0000,0000,0000,,Magia Espiritual?
+Dialogue: 0,0:13:53.95,0:13:58.08,Arifureta-Main,,0000,0000,0000,,Parece um tipo de magia que pode\Nmanipular a alma de uma pessoa.
+Dialogue: 0,0:13:59.04,0:14:05.09,Arifureta-Main,,0000,0000,0000,,Deve ter sido assim que Miledi colocou a\Nalma dela em um golem para sobreviver.
+Dialogue: 0,0:14:11.85,0:14:16.18,Arifureta-Main,,0000,0000,0000,,Laus Barn, criador do\NGrande Labirinto da Montanha Divina.
+Dialogue: 0,0:14:16.85,0:14:19.90,Arifureta-Main,,0000,0000,0000,,Aqui diz: "Para vencer esta masmorra,
+Dialogue: 0,0:14:19.98,0:14:23.57,Arifureta-Main,,0000,0000,0000,,você deve, primeiro, vencer\Noutros dois labirintos,
+Dialogue: 0,0:14:24.28,0:14:27.45,Arifureta-Main,,0000,0000,0000,,não ter fé em Deus
+Dialogue: 0,0:14:28.28,0:14:32.37,Arifureta-Main,,0000,0000,0000,,e derrotar algum efeito\Nalimentado pela força Dele.
+Dialogue: 0,0:14:33.41,0:14:37.87,Arifureta-Main,,0000,0000,0000,,Quando estas condições forem cumpridas,\Num guia para este local aparecerá."
+Dialogue: 0,0:14:37.96,0:14:41.79,Arifureta-Main,,0000,0000,0000,,Entendi. Então já tínhamos\Nvencido este labirinto
+Dialogue: 0,0:14:42.25,0:14:45.21,Arifureta-Main,,0000,0000,0000,,quando aquele homem apareceu.
+Dialogue: 0,0:14:46.46,0:14:48.09,Arifureta-Main,,0000,0000,0000,,Este labirinto quer provar
+Dialogue: 0,0:14:48.63,0:14:52.68,Arifureta-Main,,0000,0000,0000,,que uma pessoa pode ter vontade\Nforte e não ser corrompida por Deus.
+Dialogue: 0,0:14:55.10,0:14:56.68,Arifureta-Main,,0000,0000,0000,,Professora, você está bem?
+Dialogue: 0,0:14:56.89,0:14:58.56,Arifureta-Main,,0000,0000,0000,,Sim, estou aguentando firme.
+Dialogue: 0,0:14:59.39,0:15:01.69,Arifureta-Main,,0000,0000,0000,,Esta magia é impressionante.
+Dialogue: 0,0:15:02.48,0:15:04.02,Arifureta-Main,,0000,0000,0000,,Se algo assim existe,
+Dialogue: 0,0:15:04.44,0:15:08.24,Arifureta-Main,,0000,0000,0000,,também pode haver uma magia\Nque nos leve de volta ao Japão.
+Dialogue: 0,0:15:08.32,0:15:09.32,Arifureta-Main,,0000,0000,0000,,É mesmo.
+Dialogue: 0,0:15:09.57,0:15:13.37,Arifureta-Main,,0000,0000,0000,,Mestre, não é melhor nos apressarmos?
+Dialogue: 0,0:15:13.74,0:15:16.91,Arifureta-Main,,0000,0000,0000,,É mesmo!\NA capital está sob ataque!
+Dialogue: 0,0:15:18.79,0:15:20.96,Arifureta-Main,,0000,0000,0000,,Espero que todos estejam bem.
+Dialogue: 0,0:15:21.75,0:15:23.42,Arifureta-Main,,0000,0000,0000,,Vamos até a Yue e os outros.
+Dialogue: 0,0:15:24.67,0:15:27.36,Algumas horas,,0000,0000,0000,,{\blur2\bord0.7\fad(337,1)\pos(322,155)}Algumas horas antes
+Dialogue: 0,0:15:39.43,0:15:40.44,Arifureta-Main,,0000,0000,0000,,O que foi isso?
+Dialogue: 0,0:15:54.99,0:15:56.41,Arifureta-Main,,0000,0000,0000,,Oi, Shizuku!
+Dialogue: 0,0:15:56.49,0:15:57.99,Arifureta-Main,,0000,0000,0000,,— Idiota!\N— Inconsequente!
+Dialogue: 0,0:15:58.54,0:15:59.62,Arifureta-Main,,0000,0000,0000,,Desculpa.
+Dialogue: 0,0:16:06.88,0:16:07.88,Arifureta-Main,,0000,0000,0000,,Shizuku?
+Dialogue: 0,0:16:07.96,0:16:11.26,Arifureta-Main,,0000,0000,0000,,Kouki, não pode ser um\Npouco mais cuidadoso?
+Dialogue: 0,0:16:11.80,0:16:15.85,Arifureta-Main,,0000,0000,0000,,Seria muito difícil, ao menos,\Nperguntar quem está batendo?
+Dialogue: 0,0:16:16.68,0:16:18.31,Arifureta-Main,,0000,0000,0000,,E se fosse alguém suspeito?
+Dialogue: 0,0:16:18.72,0:16:22.27,Arifureta-Main,,0000,0000,0000,,Estamos no Palácio Real.\NComo poderia haver alguém suspeito?
+Dialogue: 0,0:16:23.02,0:16:26.65,Arifureta-Main,,0000,0000,0000,,Concordo com o Kouki.\NNão está exagerando um pouco, Shizuku?
+Dialogue: 0,0:16:28.65,0:16:33.15,Arifureta-Main,,0000,0000,0000,,De qualquer forma, que barulho foi aquele?\NParecia algo quebrando.
+Dialogue: 0,0:16:33.70,0:16:34.70,Arifureta-Main,,0000,0000,0000,,Não sei.
+Dialogue: 0,0:16:35.20,0:16:38.37,Arifureta-Main,,0000,0000,0000,,Vamos acordar todo mundo e descobrir.
+Dialogue: 0,0:16:39.70,0:16:41.41,Arifureta-Main,,0000,0000,0000,,Tenho um mau pressentimento.
+Dialogue: 0,0:16:43.83,0:16:45.21,Arifureta-Main,,0000,0000,0000,,Perdão por acordá-los.
+Dialogue: 0,0:16:45.88,0:16:50.84,Arifureta-Main,,0000,0000,0000,,Tenho certeza que todos ouviram\Naquele barulho alto de algo quebrando.
+Dialogue: 0,0:16:51.97,0:16:57.26,Arifureta-Main,,0000,0000,0000,,Estamos seguros aqui, mas precisamos\Ndescobrir o que está havendo.
+Dialogue: 0,0:16:58.18,0:17:00.60,Arifureta-Main,,0000,0000,0000,,Por precaução, vamos ficar todos juntos.
+Dialogue: 0,0:17:08.44,0:17:09.44,Arifureta-Main,,0000,0000,0000,,Nia.
+Dialogue: 0,0:17:10.78,0:17:11.78,Arifureta-Main,,0000,0000,0000,,Sra. Shizuku.
+Dialogue: 0,0:17:16.70,0:17:17.70,Arifureta-Main,,0000,0000,0000,,Nia?
+Dialogue: 0,0:17:18.28,0:17:20.29,Arifureta-Main,,0000,0000,0000,,A Grande Barreira foi quebrada.
+Dialogue: 0,0:17:20.83,0:17:22.20,Arifureta-Main,,0000,0000,0000,,O que disse?
+Dialogue: 0,0:17:23.00,0:17:24.62,Arifureta-Main,,0000,0000,0000,,É uma invasão dos demônios.
+Dialogue: 0,0:17:24.96,0:17:27.04,Arifureta-Main,,0000,0000,0000,,Mas como...
+Dialogue: 0,0:17:28.79,0:17:31.80,Arifureta-Main,,0000,0000,0000,,Como chegaram até aqui sem ser vistos?
+Dialogue: 0,0:17:32.59,0:17:34.55,Arifureta-Main,,0000,0000,0000,,Precisamos ganhar tempo.
+Dialogue: 0,0:17:35.38,0:17:41.10,Arifureta-Main,,0000,0000,0000,,Para podermos evacuar as pessoas e\Nmobilizar os soldados e cavaleiros.
+Dialogue: 0,0:17:41.22,0:17:42.31,Arifureta-Main,,0000,0000,0000,,Espere, Kouki.
+Dialogue: 0,0:17:43.81,0:17:47.81,Arifureta-Main,,0000,0000,0000,,Precisamos nos juntar ao Meld e\Nseus cavaleiros, não lutar sozinhos.
+Dialogue: 0,0:17:48.27,0:17:49.31,Arifureta-Main,,0000,0000,0000,,Mas...
+Dialogue: 0,0:17:49.81,0:17:52.86,Arifureta-Main,,0000,0000,0000,,Nia, quantos demônios são?
+Dialogue: 0,0:17:53.53,0:17:55.90,Arifureta-Main,,0000,0000,0000,,Cerca de cem mil.
+Dialogue: 0,0:17:56.65,0:17:59.91,Arifureta-Main,,0000,0000,0000,,Kouki, não podemos\Nenfrentar tantos assim.
+Dialogue: 0,0:18:00.45,0:18:02.20,Arifureta-Main,,0000,0000,0000,,Precisamos de mais gente.
+Dialogue: 0,0:18:04.33,0:18:08.38,Arifureta-Main,,0000,0000,0000,,Para enfrentá-los, temos que\Ntrabalhar com o Meld, não acha?
+Dialogue: 0,0:18:11.67,0:18:14.17,Arifureta-Main,,0000,0000,0000,,É mesmo, concordo com a Eririn.
+Dialogue: 0,0:18:15.22,0:18:19.05,Arifureta-Main,,0000,0000,0000,,Ela é incrível!\NNão usa óculos à toa!
+Dialogue: 0,0:18:19.64,0:18:22.51,Arifureta-Main,,0000,0000,0000,,Os óculos não têm nada\Na ver com isso, Suzu.
+Dialogue: 0,0:18:24.02,0:18:28.31,Arifureta-Main,,0000,0000,0000,,Também concordo com a Eri.\NEstávamos perdendo o controle.
+Dialogue: 0,0:18:28.94,0:18:29.94,Arifureta-Main,,0000,0000,0000,,Não acha, Kouki?
+Dialogue: 0,0:18:30.02,0:18:34.65,Arifureta-Main,,0000,0000,0000,,Acho, sim. Nestas horas, não podemos nos precipitar.\NTemos que agir com calma.
+Dialogue: 0,0:18:36.03,0:18:37.61,Arifureta-Main,,0000,0000,0000,,Vamos ao encontro do Meld.
+Dialogue: 0,0:18:42.58,0:18:45.66,Arifureta-Main,,0000,0000,0000,,Obrigado por virem.\NEstão a par da situação?
+Dialogue: 0,0:18:46.37,0:18:48.33,Arifureta-Main,,0000,0000,0000,,Estamos.\NA Nia nos informou tudo.
+Dialogue: 0,0:18:49.37,0:18:51.58,Arifureta-Main,,0000,0000,0000,,Mas onde está o Meld?
+Dialogue: 0,0:18:52.54,0:18:54.55,Arifureta-Main,,0000,0000,0000,,Está cuidando de algo importante.
+Dialogue: 0,0:18:55.05,0:18:58.30,Arifureta-Main,,0000,0000,0000,,Agora, por favor, venham até o centro.
+Dialogue: 0,0:18:59.26,0:19:01.39,Arifureta-Main,,0000,0000,0000,,Você, o herói, é nosso líder.
+Dialogue: 0,0:19:18.28,0:19:20.20,Arifureta-Main,,0000,0000,0000,,Shizuku, algo está...
+Dialogue: 0,0:19:20.28,0:19:22.74,Arifureta-Main,,0000,0000,0000,,Eu sei. Fique atenta.
+Dialogue: 0,0:19:23.87,0:19:24.95,Arifureta-Main,,0000,0000,0000,,Algo está errado.
+Dialogue: 0,0:19:27.75,0:19:30.00,Arifureta-Main,,0000,0000,0000,,Pessoal, esta é uma situação difícil.
+Dialogue: 0,0:19:31.08,0:19:33.08,Arifureta-Main,,0000,0000,0000,,Mas não tenham medo.
+Dialogue: 0,0:19:33.96,0:19:36.76,Arifureta-Main,,0000,0000,0000,,Recebam o nosso herói.
+Dialogue: 0,0:19:37.67,0:19:41.05,Arifureta-Main,,0000,0000,0000,,Nós vivemos para este dia.
+Dialogue: 0,0:19:42.51,0:19:44.05,Arifureta-Main,,0000,0000,0000,,Levantem suas espadas.
+Dialogue: 0,0:19:50.23,0:19:51.77,Arifureta-Main,,0000,0000,0000,,Isto vai marcar o começo!
+Dialogue: 0,0:19:52.77,0:19:53.77,Arifureta-Main,,0000,0000,0000,,Contemplem!
+Dialogue: 0,0:20:01.07,0:20:02.07,Arifureta-Main,,0000,0000,0000,,Pessoal...
+Dialogue: 0,0:20:42.61,0:20:43.66,Arifureta-Main,,0000,0000,0000,,Endou!
+Dialogue: 0,0:20:44.57,0:20:46.66,Arifureta-Main,,0000,0000,0000,,O que está acontecendo aqui?
+Dialogue: 0,0:20:47.78,0:20:52.66,Arifureta-Main,,0000,0000,0000,,Ora, acho que devo dizer que\Nestou impressionada, Shizuku.
+Dialogue: 0,0:20:56.88,0:20:57.88,Arifureta-Main,,0000,0000,0000,,O quê?
+Dialogue: 0,0:20:58.04,0:20:59.05,Arifureta-Main,,0000,0000,0000,,Sra. Shizuku!
+Dialogue: 0,0:20:59.84,0:21:01.51,Arifureta-Main,,0000,0000,0000,,Sra. Shizuku, me ajude!
+Dialogue: 0,0:21:02.26,0:21:04.68,Arifureta-Main,,0000,0000,0000,,Nia, você está bem?
+Dialogue: 0,0:21:06.89,0:21:07.89,Arifureta-Main,,0000,0000,0000,,Sra. Shizuku...
+Dialogue: 0,0:21:14.94,0:21:16.35,Arifureta-Main,,0000,0000,0000,,Nia...
+Dialogue: 0,0:21:17.69,0:21:19.36,Arifureta-Main,,0000,0000,0000,,Por quê?
+Dialogue: 0,0:21:21.94,0:21:22.94,Arifureta-Main,,0000,0000,0000,,Você está...
+Dialogue: 0,0:21:29.08,0:21:33.37,Arifureta-Main,,0000,0000,0000,,Nem mesmo a grande Shizuku\Nconseguiu prever isso?
+Dialogue: 0,0:21:34.83,0:21:36.75,Arifureta-Main,,0000,0000,0000,,Não conseguiu, não é?
+Dialogue: 0,0:21:37.46,0:21:41.46,Arifureta-Main,,0000,0000,0000,,Por isso esperei até o último segundo\Npara "preparar" a Nia, afinal.
+Dialogue: 0,0:21:43.42,0:21:45.18,Arifureta-Main,,0000,0000,0000,,O que está acontecendo?
+Dialogue: 0,0:21:53.93,0:21:54.89,Arifureta-Main,,0000,0000,0000,,Eri?
+Dialogue: 0,0:23:33.99,0:23:40.98,Arifureta-NextEpNumber,,0000,0000,0000,,{\3c&H181B14&\pos(237,95)}Episódio 11
+Dialogue: 0,0:23:33.99,0:23:40.98,Arifureta-NextEpTitle,,0000,0000,0000,,{\pos(444,134)\c&HFFFFFF&\3c&H181818&}Traição
+Dialogue: 0,0:23:33.99,0:23:40.98,Arifureta-Frase,,0000,0000,0000,,{\c&HFFFFFF&\3c&H1C142C&\pos(94,177)}ARIFURETA:\NDo comum ao mais forte do mundo
+Dialogue: 0,0:23:36.04,0:23:38.04,Arifureta-Italics,,0000,0000,0000,,A seguir: "Traição".

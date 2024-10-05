@@ -1,0 +1,337 @@
+﻿[Script Info]
+Title: [Erai-raws] Português (Brasil)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Arifureta-Main,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: Arifureta-Main-Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,0
+Style: Arifureta-Italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: Arifureta-Italics-Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,0
+Style: Arifureta-Flashback,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: Arifureta-Flashback-Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,0,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,1
+Style: Arifureta-Flashback-Italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,-1,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: Arifureta-Flashback-Italics-Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,-1,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,1
+Style: Arifureta-Flashback-Inside,Trebuchet MS,22,&H00CCCCCC,&H000000FF,&H00400000,&H00400000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: Arifureta-Flashback-Inside-Italics,Trebuchet MS,22,&H00CCCCCC,&H000000FF,&H00400000,&H00400000,-1,-1,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: Arifureta-OP,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1,1,2,0040,0040,0015,0
+Style: Arifureta-Frase,Times New Roman,12,&H00000000,&H000000FF,&H00F2F2F2,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,0005,0005,0015,0
+Style: Arifureta-EpNumber,Times New Roman,22,&H003000A9,&H000000FF,&H00F2F2F2,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0005,0005,0015,0
+Style: Arifureta-EpTitle,Times New Roman,22,&H00000000,&H000000FF,&H00F2F2F2,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0005,0005,0015,0
+Style: Arifureta-ED,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1,1,2,0040,0040,0015,0
+Style: Arifureta-NextEpNumber,Times New Roman,22,&H002F00A9,&H000000FF,&H00F2F2F2,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0005,0005,0015,0
+Style: Arifureta-NextEpTitle,Times New Roman,22,&H00000000,&H000000FF,&H00F2F2F2,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0005,0005,0015,0
+Style: Default,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: DefaultSD,Verdana,32,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,0020,0020,0020,0
+Style: Signs,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0020,0020,0015,0
+Style: Fundo do Abismo,Times New Roman,18,&H00424843,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0005,0005,0015,0
+Style: Status,Times New Roman,17,&H00FCFFF5,&H000000FF,&H009ECA5D,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0005,0005,0015,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:37.53,0:00:39.45,Arifureta-Italics,,0000,0000,0000,,Matarei todos os meus inimigos.
+Dialogue: 0,0:00:49.46,0:00:50.63,Arifureta-Italics,,0000,0000,0000,,Mesmo que sejam...
+Dialogue: 0,0:00:52.38,0:00:53.76,Arifureta-Italics,,0000,0000,0000,,deuses.
+Dialogue: 0,0:02:28.00,0:02:33.00,Arifureta-EpNumber,,0000,0000,0000,,{\pos(456,276)}Episódio 01
+Dialogue: 0,0:02:28.00,0:02:33.00,Arifureta-Frase,,0000,0000,0000,,{\pos(318,353)}ARIFURETA:\NDo comum ao mais forte do mundo
+Dialogue: 0,0:02:28.00,0:02:33.00,Arifureta-EpTitle,,0000,0000,0000,,{\pos(103,127)}Irregular
+Dialogue: 0,0:02:33.02,0:02:35.92,Fundo do Abismo,,0000,0000,0000,,{\fad(1,765)\fs15\pos(181,347)\c&H5FC199&}Reino Heiligh
+Dialogue: 0,0:02:36.74,0:02:40.11,Arifureta-Main,,0000,0000,0000,,Sua Majestade,\Nembora os atrasos sejam lamentáveis,
+Dialogue: 0,0:02:40.57,0:02:44.28,Arifureta-Main,,0000,0000,0000,,ficamos aliviados em saber\Nque o herói está retornando.
+Dialogue: 0,0:02:44.78,0:02:48.75,Arifureta-Main,,0000,0000,0000,,Sim. Eu também soube\Nque os demônios estão mais ativos.
+Dialogue: 0,0:02:49.33,0:02:52.46,Arifureta-Main,,0000,0000,0000,,Em breve, precisaremos\Ndos poderes do herói.
+Dialogue: 0,0:02:53.71,0:02:55.96,Arifureta-Main,,0000,0000,0000,,Há algo errado, Princesa Liliana?
+Dialogue: 0,0:02:56.71,0:02:59.13,Arifureta-Main,,0000,0000,0000,,Parece preocupada.
+Dialogue: 0,0:02:59.72,0:03:03.30,Arifureta-Main,,0000,0000,0000,,Não, Papa Ishtar, estou bem.
+Dialogue: 0,0:03:05.18,0:03:10.19,Arifureta-Italics,,0000,0000,0000,,O Kouki e os outros foram trazidos\Nao nosso mundo por um ato de Deus.
+Dialogue: 0,0:03:16.07,0:03:17.61,Arifureta-Main,,0000,0000,0000,,O herói retornou.
+Dialogue: 0,0:03:22.28,0:03:26.83,Arifureta-Italics,,0000,0000,0000,,Foram convocados para proteger\Nos humanos dos demônios.
+Dialogue: 0,0:03:27.91,0:03:30.83,Arifureta-Italics,,0000,0000,0000,,Sem terem como voltar ao seu mundo,
+Dialogue: 0,0:03:31.37,0:03:33.71,Arifureta-Italics,,0000,0000,0000,,tiveram que obedecer à vontade de Deus.
+Dialogue: 0,0:03:34.50,0:03:37.67,Arifureta-Italics,,0000,0000,0000,,Um terrível acidente aconteceu\Ndurante o treinamento.
+Dialogue: 0,0:03:38.42,0:03:39.63,Arifureta-Italics,,0000,0000,0000,,Não mais...
+Dialogue: 0,0:03:47.51,0:03:48.52,Arifureta-Main,,0000,0000,0000,,Lily!
+Dialogue: 0,0:03:52.73,0:03:53.73,Arifureta-Main,,0000,0000,0000,,Shizuku!
+Dialogue: 0,0:04:07.12,0:04:10.91,Arifureta-Main,,0000,0000,0000,,Fiquei preocupada.\NVocês demoraram para voltar do labirinto.
+Dialogue: 0,0:04:11.54,0:04:14.46,Arifureta-Main,,0000,0000,0000,,Estamos bem. E os outros?
+Dialogue: 0,0:04:15.00,0:04:20.46,Arifureta-Main,,0000,0000,0000,,Também. Os membros do Segundo Escalão\Ntêm treinando bastante.
+Dialogue: 0,0:04:21.21,0:04:25.55,Arifureta-Main,,0000,0000,0000,,"Não podemos ficar parados e deixar tudo\Nnas mãos do Kouki e dos outros."
+Dialogue: 0,0:04:25.80,0:04:28.01,Arifureta-Main,,0000,0000,0000,,Eles querem ficar fortes também.
+Dialogue: 0,0:04:34.56,0:04:36.77,Arifureta-Main,,0000,0000,0000,,Eri, quer beber alguma coisa?
+Dialogue: 0,0:04:38.19,0:04:39.19,Arifureta-Main,,0000,0000,0000,,Eri?
+Dialogue: 0,0:04:40.48,0:04:42.40,Arifureta-Main,,0000,0000,0000,,Claro, vamos pegar uma bebida.
+Dialogue: 0,0:04:43.45,0:04:48.28,Arifureta-Main,,0000,0000,0000,,Eles disseram que iriam procurá-los\Nse vocês não voltassem, Shizuku.
+Dialogue: 0,0:04:48.87,0:04:51.41,Arifureta-Main,,0000,0000,0000,,Realmente se importam com os amigos.
+Dialogue: 0,0:04:53.58,0:04:54.96,Arifureta-Main,,0000,0000,0000,,O que há com você?
+Dialogue: 0,0:04:55.25,0:04:56.83,Arifureta-Main,,0000,0000,0000,,Por que está de mau humor?
+Dialogue: 0,0:04:57.04,0:04:59.25,Arifureta-Main,,0000,0000,0000,,Os monstros eram tão terríveis assim?
+Dialogue: 0,0:04:59.67,0:05:03.13,Arifureta-Main,,0000,0000,0000,,Os monstros, não. Ele, sim.\NÉ pior do que os monstros.
+Dialogue: 0,0:05:03.67,0:05:07.80,Arifureta-Main,,0000,0000,0000,,Kousuke, cadê você? Kousuke!
+Dialogue: 0,0:05:08.76,0:05:11.26,Arifureta-Main,,0000,0000,0000,,É mesmo, o Kousuke sumiu.
+Dialogue: 0,0:05:11.85,0:05:13.68,Arifureta-Main,,0000,0000,0000,,Kousuke, onde está você?
+Dialogue: 0,0:05:13.93,0:05:15.39,Arifureta-Main,,0000,0000,0000,,— Kousuke!\N— Kousuke!
+Dialogue: 0,0:05:15.60,0:05:17.15,Arifureta-Main,,0000,0000,0000,,Estou bem aqui.
+Dialogue: 0,0:05:19.36,0:05:21.36,Arifureta-Main,,0000,0000,0000,,Você se mescla mesmo ao ambiente.
+Dialogue: 0,0:05:21.82,0:05:22.98,Arifureta-Main,,0000,0000,0000,,Posso chorar agora?
+Dialogue: 0,0:05:24.40,0:05:28.62,Arifureta-Main,,0000,0000,0000,,Sinto muito por ter preocupado você.\NQue bom que todos estão bem.
+Dialogue: 0,0:05:28.70,0:05:29.70,Arifureta-Main,,0000,0000,0000,,Estamos.
+Dialogue: 0,0:05:30.37,0:05:31.49,Arifureta-Main,,0000,0000,0000,,E a Kaori?
+Dialogue: 0,0:05:33.45,0:05:35.50,Arifureta-Main,,0000,0000,0000,,Lily, sobre isso...
+Dialogue: 0,0:05:41.04,0:05:42.05,Arifureta-Main,,0000,0000,0000,,Entendi.
+Dialogue: 0,0:05:42.50,0:05:44.96,Arifureta-Main,,0000,0000,0000,,Então a Kaori está com o Nagumo.
+Dialogue: 0,0:05:45.26,0:05:46.26,Arifureta-Main,,0000,0000,0000,,Está.
+Dialogue: 0,0:05:46.55,0:05:49.14,Arifureta-Main,,0000,0000,0000,,É por isso que o Kouki\Nestá tão desanimado?
+Dialogue: 0,0:05:51.10,0:05:53.68,Arifureta-Main,,0000,0000,0000,,Bem, esse é um dos motivos.
+Dialogue: 0,0:05:53.85,0:05:56.64,Arifureta-Main,,0000,0000,0000,,Mas o Nagumo salvou o Kouki\Noutra vez, então...
+Dialogue: 0,0:05:56.98,0:05:58.19,Arifureta-Main,,0000,0000,0000,,Entendi.
+Dialogue: 0,0:05:58.27,0:06:00.65,Arifureta-Main,,0000,0000,0000,,Dito isso, ele é "O Herói".
+Dialogue: 0,0:06:01.31,0:06:03.57,Arifureta-Main,,0000,0000,0000,,Não pode ficar triste por muito tempo.
+Dialogue: 0,0:06:03.86,0:06:04.86,Arifureta-Main,,0000,0000,0000,,É verdade.
+Dialogue: 0,0:06:05.24,0:06:07.74,Arifureta-Main,,0000,0000,0000,,Se for preciso, cuidarei dele.
+Dialogue: 0,0:06:08.57,0:06:13.08,Arifureta-Main,,0000,0000,0000,,Fico muito feliz em saber\Nque o Nagumo está bem.
+Dialogue: 0,0:06:13.49,0:06:16.04,Arifureta-Main,,0000,0000,0000,,Eu preferia que ele tivesse\Nvoltado conosco.
+Dialogue: 0,0:06:16.33,0:06:20.13,Arifureta-Main,,0000,0000,0000,,Mas está buscando outra forma\Nde voltarmos ao nosso mundo.
+Dialogue: 0,0:06:20.54,0:06:23.09,Arifureta-Main,,0000,0000,0000,,Fiquei um pouco triste\Npor não poder vê-lo.
+Dialogue: 0,0:06:23.46,0:06:27.38,Arifureta-Main,,0000,0000,0000,,Ficaria surpresa se o visse.\NEle está completamente diferente.
+Dialogue: 0,0:06:30.76,0:06:32.35,Arifureta-Main,,0000,0000,0000,,No momento, deve estar...
+Dialogue: 0,0:06:36.79,0:06:41.21,Fundo do Abismo,,0000,0000,0000,,{\fs15\fad(857,1)\c&H6F81BF&\pos(168,342)}Deserto de Gruen
+Dialogue: 0,0:06:43.73,0:06:45.90,Arifureta-Main,,0000,0000,0000,,Está horrível ali fora, Tio.
+Dialogue: 0,0:06:46.48,0:06:49.53,Arifureta-Main,,0000,0000,0000,,Se não fosse pelo Brisa,\Nteríamos sérios problemas.
+Dialogue: 0,0:06:49.95,0:06:54.99,Arifureta-Main,,0000,0000,0000,,É verdade, Shea. Eu jamais viria aqui\Nse tivesse outra escolha.
+Dialogue: 0,0:06:55.41,0:06:57.66,Arifureta-Main,,0000,0000,0000,,Não é como a última vez que vim aqui.
+Dialogue: 0,0:06:58.16,0:07:00.54,Arifureta-Main,,0000,0000,0000,,Está gostoso, e meus olhos não doem!
+Dialogue: 0,0:07:00.92,0:07:02.04,Arifureta-Main,,0000,0000,0000,,O papai é demais!
+Dialogue: 0,0:07:02.38,0:07:05.42,Arifureta-Main,,0000,0000,0000,,É isso aí!\NO papai Hajime é incrível.
+Dialogue: 0,0:07:06.13,0:07:08.13,Arifureta-Main,,0000,0000,0000,,Quer um pouco de água gelada, Myu?
+Dialogue: 0,0:07:08.21,0:07:11.80,Arifureta-Main,,0000,0000,0000,,Quero!\NObrigada, irmãzona Kaori!
+Dialogue: 0,0:07:11.89,0:07:13.14,Arifureta-Main,,0000,0000,0000,,Ei, Shirasaki...
+Dialogue: 0,0:07:15.35,0:07:21.27,Arifureta-Main,,0000,0000,0000,,Kaori, pare de me chamar de\N"papai Hajime" por favor. É esquisito.
+Dialogue: 0,0:07:21.48,0:07:24.65,Arifureta-Main,,0000,0000,0000,,Mas a Myu chama você assim,\Ne você não se importa.
+Dialogue: 0,0:07:25.07,0:07:27.11,Arifureta-Main,,0000,0000,0000,,Não tem problema quando ela chama.
+Dialogue: 0,0:07:27.19,0:07:30.45,Arifureta-Main,,0000,0000,0000,,Mas uma colega fazendo isso\Né desconfortável.
+Dialogue: 0,0:07:30.74,0:07:33.28,Arifureta-Main,,0000,0000,0000,,Sério?\NNão vou mais te chamar assim então.
+Dialogue: 0,0:07:33.45,0:07:36.87,Arifureta-Main,,0000,0000,0000,,Mas um dia, quando tivermos um bebê...
+Dialogue: 0,0:07:36.95,0:07:37.95,Arifureta-Main,,0000,0000,0000,,Sinto muito.
+Dialogue: 0,0:07:38.24,0:07:40.71,Arifureta-Main,,0000,0000,0000,,Ele já me prometeu um noivado.
+Dialogue: 0,0:07:43.12,0:07:45.63,Arifureta-Main,,0000,0000,0000,,Já prometeu me apresentar aos pais dele.
+Dialogue: 0,0:07:46.92,0:07:49.05,Arifureta-Main,,0000,0000,0000,,Temos planos de ter filhos.
+Dialogue: 0,0:07:51.26,0:07:53.72,Arifureta-Main,,0000,0000,0000,,E de ir a um encontro na cidade dele.
+Dialogue: 0,0:07:57.10,0:08:00.52,Arifureta-Main,,0000,0000,0000,,Mas eu sei muitas coisas sobre ele\Nque você não sabe, Yue!
+Dialogue: 0,0:08:00.64,0:08:02.85,Arifureta-Main,,0000,0000,0000,,Como os passatempos favoritos dele...
+Dialogue: 0,0:08:03.69,0:08:07.19,Arifureta-Main,,0000,0000,0000,,Yue, você sabe qual é o mangá\Ne o anime favorito dele?
+Dialogue: 0,0:08:07.86,0:08:12.70,Arifureta-Main,,0000,0000,0000,,Bem... Isso não importa.\NEssas coisas não existem aqui.
+Dialogue: 0,0:08:12.99,0:08:16.99,Arifureta-Main,,0000,0000,0000,,É? Não vê que o Hajime se parece\Ncom um personagem de anime agora?
+Dialogue: 0,0:08:17.62,0:08:22.66,Arifureta-Main,,0000,0000,0000,,As armas dele também. Essa nova\Nque ele está fazendo... Cross Bit, certo?
+Dialogue: 0,0:08:22.96,0:08:25.54,Arifureta-Main,,0000,0000,0000,,Foi baseada na Funnel, não foi?
+Dialogue: 0,0:08:26.54,0:08:27.79,Arifureta-Main,,0000,0000,0000,,Kaori...
+Dialogue: 0,0:08:30.67,0:08:33.76,Arifureta-Main,,0000,0000,0000,,Como pensa que ganhou\Nse nem sabe do que ele gosta?
+Dialogue: 0,0:08:34.09,0:08:35.51,Arifureta-Main,,0000,0000,0000,,Você é corajosa, Kaori.
+Dialogue: 0,0:08:36.72,0:08:40.56,Arifureta-Main,,0000,0000,0000,,Então vou te contar o que\No Hajime gosta...
+Dialogue: 0,0:08:41.68,0:08:42.81,Arifureta-Main,,0000,0000,0000,,de fazer na cama.
+Dialogue: 0,0:08:44.56,0:08:49.02,Arifureta-Main,,0000,0000,0000,,Na cama? Então vocês já...
+Dialogue: 0,0:08:50.19,0:08:52.57,Arifureta-Main,,0000,0000,0000,,Já. Agora sabe que estou bem na frente.
+Dialogue: 0,0:08:54.49,0:08:57.62,Arifureta-Main,,0000,0000,0000,,A irmãzona Yue e a irmãzona Kaori\Nbrigam o tempo todo!
+Dialogue: 0,0:08:58.03,0:09:00.87,Arifureta-Main,,0000,0000,0000,,Não gosto quando não são legais\Numa com a outra!
+Dialogue: 0,0:09:01.41,0:09:04.87,Arifureta-Main,,0000,0000,0000,,Vocês não têm vergonha\Nde agir assim na frente da Myu?
+Dialogue: 0,0:09:05.12,0:09:06.92,Arifureta-Main,,0000,0000,0000,,É um mau exemplo para ela.
+Dialogue: 0,0:09:07.29,0:09:09.09,Arifureta-Main,,0000,0000,0000,,Controlem-se, por favor.
+Dialogue: 0,0:09:09.79,0:09:12.67,Arifureta-Main,,0000,0000,0000,,Odeio levar um sermão da Shea,\Nmas ela tem razão.
+Dialogue: 0,0:09:12.76,0:09:15.18,Arifureta-Main,,0000,0000,0000,,Me desculpem, Myu e Shea...
+Dialogue: 0,0:09:18.97,0:09:22.02,Arifureta-Main,,0000,0000,0000,,Mestre, parece que há\Num problema à frente.
+Dialogue: 0,0:09:24.68,0:09:26.14,Arifureta-Main,,0000,0000,0000,,São vermes da areia.
+Dialogue: 0,0:09:27.19,0:09:32.65,Arifureta-Main,,0000,0000,0000,,São muito comuns\Nno Deserto de Gruen, mas...
+Dialogue: 0,0:09:34.11,0:09:35.45,Arifureta-Main,,0000,0000,0000,,O que estão fazendo?
+Dialogue: 0,0:09:36.70,0:09:41.53,Arifureta-Main,,0000,0000,0000,,É quase como se não pudessem decidir\Nentre comer a presa ou não.
+Dialogue: 0,0:09:41.62,0:09:43.29,Arifureta-Main,,0000,0000,0000,,É o que está parecendo.
+Dialogue: 0,0:09:43.79,0:09:45.29,Arifureta-Main,,0000,0000,0000,,Isso acontece?
+Dialogue: 0,0:09:45.37,0:09:50.46,Arifureta-Main,,0000,0000,0000,,Eles comem qualquer coisa.\NNão hesitariam diante de uma refeição.
+Dialogue: 0,0:09:59.18,0:10:00.22,Arifureta-Main,,0000,0000,0000,,Segurem-se!
+Dialogue: 0,0:10:12.98,0:10:16.53,Arifureta-Main,,0000,0000,0000,,Sua pervertida!\NTire os seios de cima de mim!
+Dialogue: 0,0:10:16.61,0:10:18.91,Arifureta-Main,,0000,0000,0000,,Não posso evitar!
+Dialogue: 0,0:10:29.83,0:10:30.83,Arifureta-Main,,0000,0000,0000,,Ei, Kaori!
+Dialogue: 0,0:10:31.17,0:10:35.26,Arifureta-Main,,0000,0000,0000,,— Logo você? O que está fazendo?\N— É uma situação de perigo!
+Dialogue: 0,0:10:35.34,0:10:36.97,Arifureta-Main,,0000,0000,0000,,Então vou me agarrar aqui!
+Dialogue: 0,0:10:37.13,0:10:42.01,Arifureta-Main,,0000,0000,0000,,Maldita Kaori. Um ataque surpresa\Npara competir comigo? Bela jogada.
+Dialogue: 0,0:10:42.80,0:10:46.73,Arifureta-Main,,0000,0000,0000,,Me desculpe!\NMinhas intenções eram as mais puras!
+Dialogue: 0,0:10:46.81,0:10:48.98,Arifureta-Main,,0000,0000,0000,,Só queria saber como era ser pegajosa!
+Dialogue: 0,0:10:49.06,0:10:52.02,Arifureta-Main,,0000,0000,0000,,E também tirar uma casquinha\Ndo Hajime, não é?
+Dialogue: 0,0:10:52.11,0:10:54.19,Arifureta-Main,,0000,0000,0000,,Isso mesmo... Espera, não!
+Dialogue: 0,0:10:54.27,0:10:57.24,Arifureta-Main,,0000,0000,0000,,Não fale assim!\NNão sou promíscua como você, Yue!
+Dialogue: 0,0:10:57.32,0:11:01.87,Arifureta-Main,,0000,0000,0000,,Eu? Promíscua? Sou mesmo, mas só quando\Nestou sozinha com o Hajime.
+Dialogue: 0,0:11:02.12,0:11:04.16,Arifureta-Main,,0000,0000,0000,,Será que vocês podem calar a boca?
+Dialogue: 0,0:11:04.24,0:11:07.04,Arifureta-Main,,0000,0000,0000,,E chega desse tipo de conversa, Yue.
+Dialogue: 0,0:11:10.62,0:11:12.21,Arifureta-Main,,0000,0000,0000,,Estamos indo ao contrário!
+Dialogue: 0,0:11:12.29,0:11:14.88,Arifureta-Main,,0000,0000,0000,,O papai Hajime é um ótimo motorista.
+Dialogue: 0,0:11:14.96,0:11:16.55,Arifureta-Main,,0000,0000,0000,,Pare de me chamar assim!
+Dialogue: 0,0:11:16.63,0:11:18.63,Arifureta-Main,,0000,0000,0000,,Hajime, eu quero filhos.
+Dialogue: 0,0:11:18.72,0:11:22.97,Arifureta-Main,,0000,0000,0000,,— Ei! Deixem a farra para a estalagem!\N— Também quero farra!
+Dialogue: 0,0:11:23.05,0:11:25.72,Arifureta-Main,,0000,0000,0000,,— Vou te jogar para fora!\N— É mau só comigo!
+Dialogue: 0,0:11:26.26,0:11:29.56,Arifureta-Main,,0000,0000,0000,,Falando em maldade,\Nusarei isto pela primeira vez.
+Dialogue: 0,0:11:34.65,0:11:37.65,Arifureta-Main,,0000,0000,0000,,Eu não sabia que o Brisa tinha algo assim.
+Dialogue: 0,0:11:37.73,0:11:38.90,Arifureta-Main,,0000,0000,0000,,Você é um gênio.
+Dialogue: 0,0:11:39.03,0:11:40.49,Arifureta-Main,,0000,0000,0000,,O Mestre é sensacional.
+Dialogue: 0,0:11:50.54,0:11:51.54,Arifureta-Main,,0000,0000,0000,,Droga!
+Dialogue: 0,0:11:51.71,0:11:53.58,Arifureta-Main,,0000,0000,0000,,Não deixem que a Myu veja isso.
+Dialogue: 0,0:11:56.42,0:11:58.84,Arifureta-Main,,0000,0000,0000,,Agora vamos descobrir o que está havendo.
+Dialogue: 0,0:12:02.84,0:12:06.47,Arifureta-Main,,0000,0000,0000,,Estão olhando para nós.\NIsso é ruim, Hajime?
+Dialogue: 0,0:12:06.85,0:12:09.27,Arifureta-Main,,0000,0000,0000,,Parece que há muito mais deles.
+Dialogue: 0,0:12:09.64,0:12:10.73,Arifureta-Main,,0000,0000,0000,,Fique olhando.
+Dialogue: 0,0:12:31.58,0:12:32.71,Arifureta-Main,,0000,0000,0000,,Hajime, veja!
+Dialogue: 0,0:12:36.88,0:12:37.88,Arifureta-Main,,0000,0000,0000,,Uma pessoa?
+Dialogue: 0,0:12:38.34,0:12:40.55,Arifureta-Main,,0000,0000,0000,,Era ele que os vermes queriam?
+Dialogue: 0,0:12:40.92,0:12:44.47,Arifureta-Main,,0000,0000,0000,,Hajime, podemos sair\Npara dar uma olhada nele?
+Dialogue: 0,0:12:44.93,0:12:46.51,Arifureta-Main,,0000,0000,0000,,A Myu está aqui conosco.
+Dialogue: 0,0:12:46.93,0:12:48.97,Arifureta-Main,,0000,0000,0000,,É mesmo. Seria muito arriscado.
+Dialogue: 0,0:12:49.31,0:12:50.68,Arifureta-Main,,0000,0000,0000,,A Myu está bem!
+Dialogue: 0,0:12:51.27,0:12:54.73,Arifureta-Main,,0000,0000,0000,,Kaori, como sacerdotisa,\Nvocê quer salvá-lo, não é?
+Dialogue: 0,0:12:55.77,0:12:56.77,Arifureta-Main,,0000,0000,0000,,Quero.
+Dialogue: 0,0:12:59.73,0:13:01.69,Arifureta-Main,,0000,0000,0000,,Myu, fique no Brisa com a Shea.
+Dialogue: 0,0:13:01.90,0:13:02.90,Arifureta-Main,,0000,0000,0000,,Hajime!
+Dialogue: 0,0:13:03.65,0:13:06.95,Arifureta-Main,,0000,0000,0000,,Estou curioso para saber\Npor que ele não foi devorado.
+Dialogue: 0,0:13:15.37,0:13:16.37,Arifureta-Main,,0000,0000,0000,,Isto é...
+Dialogue: 0,0:13:20.61,0:13:22.61,Status,,0000,0000,0000,,{\blur2\pos(322,92)}Status:\NSobrecarga de mana, impossibilidade de expelir do corpo\N\NSintoma\NFebre, mente confusa, dor no corpo inteiro
+Dialogue: 0,0:13:20.61,0:13:22.61,Status,,0000,0000,0000,,{\blur2\pos(318,300)}Causa \NAnormalidade de quantidade de água corporal
+Dialogue: 0,0:13:23.51,0:13:25.01,Arifureta-Main,,0000,0000,0000,,Uma sobrecarga de mana?
+Dialogue: 0,0:13:25.18,0:13:28.51,Arifureta-Main,,0000,0000,0000,,Ele ingeriu algum veneno\Nque fez o mana sair do controle?
+Dialogue: 0,0:13:29.01,0:13:30.68,Arifureta-Main,,0000,0000,0000,,Kaori, o que descobriu?
+Dialogue: 0,0:13:31.43,0:13:34.89,Arifureta-Main,,0000,0000,0000,,Não tenho certeza,\Nmas acho que ele ingeriu alguma coisa
+Dialogue: 0,0:13:35.19,0:13:38.31,Arifureta-Main,,0000,0000,0000,,que causou um estado\Nde "sobrecarga de mana".
+Dialogue: 0,0:13:38.73,0:13:40.36,Arifureta-Main,,0000,0000,0000,,Sobrecarga de mana?
+Dialogue: 0,0:13:41.73,0:13:46.20,Arifureta-Main,,0000,0000,0000,,Ele não consegue liberar o mana excedente.\NO corpo não está aguentando
+Dialogue: 0,0:13:46.40,0:13:49.37,Arifureta-Main,,0000,0000,0000,,a pressão interior\Nque o mana está causando.
+Dialogue: 0,0:13:49.91,0:13:53.04,Arifureta-Main,,0000,0000,0000,,Se não fizermos algo,\Nos órgãos e veias vão estourar.
+Dialogue: 0,0:13:54.50,0:13:57.25,Arifureta-Main,,0000,0000,0000,,Bênção do céu, revele seus segredos.
+Dialogue: 0,0:13:58.00,0:13:59.04,Arifureta-Main,,0000,0000,0000,,Consagração!
+Dialogue: 0,0:14:02.25,0:14:04.51,Arifureta-Main,,0000,0000,0000,,Por que não surtiu efeito?
+Dialogue: 0,0:14:05.09,0:14:08.47,Arifureta-Main,,0000,0000,0000,,Se o corpo não pode ser purificado,\No mana já se espalhou?
+Dialogue: 0,0:14:11.93,0:14:12.97,Arifureta-Main,,0000,0000,0000,,Kaori?
+Dialogue: 0,0:14:14.39,0:14:16.52,Arifureta-Main,,0000,0000,0000,,Que a graça da luz o abençoe
+Dialogue: 0,0:14:17.39,0:14:19.56,Arifureta-Main,,0000,0000,0000,,neste santuário sagrado.
+Dialogue: 0,0:14:20.11,0:14:22.73,Arifureta-Main,,0000,0000,0000,,Mal nenhum passará\Nenquanto eu for a guardiã.
+Dialogue: 0,0:14:22.90,0:14:23.94,Arifureta-Main,,0000,0000,0000,,Sanctorum!
+Dialogue: 0,0:14:26.15,0:14:28.49,Arifureta-Main,,0000,0000,0000,,Sanctorum, magia de luz de alto nível.
+Dialogue: 0,0:14:29.03,0:14:33.12,Arifureta-Main,,0000,0000,0000,,Permite que o conjurador transfira mana\Nde uma pessoa para outra,
+Dialogue: 0,0:14:33.20,0:14:35.04,Arifureta-Main,,0000,0000,0000,,evitando que ele se esgote.
+Dialogue: 0,0:14:35.50,0:14:39.12,Arifureta-Main,,0000,0000,0000,,Também pode ser usada para drenar\No mana de alguém à força.
+Dialogue: 0,0:14:39.54,0:14:44.50,Arifureta-Main,,0000,0000,0000,,Ela está usando a magia para drenar\No excesso de mana deste homem.
+Dialogue: 0,0:14:44.92,0:14:49.84,Arifureta-Main,,0000,0000,0000,,E o mana drenado vai para o anel\Nde Cristal Sagrado que dei a ela.
+Dialogue: 0,0:15:05.23,0:15:07.78,Arifureta-Main,,0000,0000,0000,,Ele não corre mais perigo imediato,
+Dialogue: 0,0:15:08.24,0:15:10.53,Arifureta-Main,,0000,0000,0000,,mas a causa do problema permanece.
+Dialogue: 0,0:15:11.36,0:15:15.33,Arifureta-Main,,0000,0000,0000,,Se eu drenar mana demais,\Nele poderá definhar e morrer.
+Dialogue: 0,0:15:15.87,0:15:18.41,Arifureta-Main,,0000,0000,0000,,Drenei o suficiente\Npara aliviar a pressão.
+Dialogue: 0,0:15:18.75,0:15:20.17,Arifureta-Main,,0000,0000,0000,,Então ele ainda está...
+Dialogue: 0,0:15:21.08,0:15:25.25,Arifureta-Main,,0000,0000,0000,,Se não fizermos nada,\Nele sofrerá outra sobrecarga de mana.
+Dialogue: 0,0:15:25.75,0:15:29.01,Arifureta-Main,,0000,0000,0000,,Ou ficará fraco e morrerá de fadiga.
+Dialogue: 0,0:15:29.88,0:15:33.05,Arifureta-Main,,0000,0000,0000,,Nunca vi sintomas assim\Nem nada que já estudei.
+Dialogue: 0,0:15:33.93,0:15:35.89,Arifureta-Main,,0000,0000,0000,,Yue, Tio, alguma ideia?
+Dialogue: 0,0:15:39.35,0:15:40.73,Arifureta-Main,,0000,0000,0000,,— Certo...\N— Kaori.
+Dialogue: 0,0:15:41.44,0:15:44.31,Arifureta-Main,,0000,0000,0000,,Por precaução,\Nfaça um diagnóstico em nós também.
+Dialogue: 0,0:15:44.65,0:15:48.57,Arifureta-Main,,0000,0000,0000,,Pode ser alguma doença desconhecida\Nque se espalha pelo ar.
+Dialogue: 0,0:16:00.91,0:16:02.42,Arifureta-Main,,0000,0000,0000,,Uma deusa?
+Dialogue: 0,0:16:03.21,0:16:08.25,Arifureta-Main,,0000,0000,0000,,É isso... Devo estar morto\Ne indo ao encontro de Deus...
+Dialogue: 0,0:16:08.92,0:16:10.67,Arifureta-Main,,0000,0000,0000,,Cara deusa...
+Dialogue: 0,0:16:12.43,0:16:13.43,Arifureta-Main,,0000,0000,0000,,Hajime?
+Dialogue: 0,0:16:13.51,0:16:16.97,Arifureta-Main,,0000,0000,0000,,Pare de falar asneiras\Ne levante-se de uma vez.
+Dialogue: 0,0:16:18.93,0:16:20.06,Arifureta-Main,,0000,0000,0000,,Estou vivo?
+Dialogue: 0,0:16:20.52,0:16:26.11,Arifureta-Main,,0000,0000,0000,,Achei que fosse o meu fim,\Nmas Deus ainda não me abandonou.
+Dialogue: 0,0:16:26.52,0:16:29.98,Arifureta-Main,,0000,0000,0000,,Hajime, vamos levá-lo para o carro?
+Dialogue: 0,0:16:30.36,0:16:32.65,Arifureta-Main,,0000,0000,0000,,Vamos.\NEstá quente demais aqui fora.
+Dialogue: 0,0:16:36.45,0:16:41.71,Arifureta-Main,,0000,0000,0000,,Não está quente aqui. Onde estou?\NNum santuário divino?
+Dialogue: 0,0:16:42.08,0:16:43.08,Arifureta-Main,,0000,0000,0000,,Beba.
+Dialogue: 0,0:16:44.12,0:16:45.13,Arifureta-Main,,0000,0000,0000,,É água.
+Dialogue: 0,0:16:48.13,0:16:49.42,Arifureta-Main,,0000,0000,0000,,Está gelada!
+Dialogue: 0,0:16:52.17,0:16:54.55,Arifureta-Main,,0000,0000,0000,,Muito obrigado por salvarem minha vida.
+Dialogue: 0,0:16:55.26,0:16:58.30,Arifureta-Main,,0000,0000,0000,,Se eu tivesse morrido lá,\Ntudo estaria perdido.
+Dialogue: 0,0:16:59.26,0:17:01.56,Arifureta-Main,,0000,0000,0000,,Meu nome é Bize Feuward Zengen.
+Dialogue: 0,0:17:02.14,0:17:05.77,Arifureta-Main,,0000,0000,0000,,Sou filho do Duque Lanzwi Feuward Zengen,\Ndo Ducado de Ankaji.
+Dialogue: 0,0:17:06.48,0:17:07.81,Arifureta-Main,,0000,0000,0000,,Ducado de Ankaji?
+Dialogue: 0,0:17:08.36,0:17:12.86,Arifureta-Main,,0000,0000,0000,,Os frutos do mar de Erisen,\Na cidade marinha, são vendidos lá.
+Dialogue: 0,0:17:13.24,0:17:16.11,Arifureta-Main,,0000,0000,0000,,Sim. Erisen foi onde\Na Myu nasceu e cresceu.
+Dialogue: 0,0:17:16.70,0:17:18.41,Arifureta-Main,,0000,0000,0000,,A mamãe está lá me esperando!
+Dialogue: 0,0:17:18.91,0:17:23.62,Arifureta-Main,,0000,0000,0000,,Mestre, Ankaji é a cidade\Npara onde estávamos indo.
+Dialogue: 0,0:17:24.08,0:17:25.08,Arifureta-Main,,0000,0000,0000,,É.
+Dialogue: 0,0:17:25.75,0:17:28.63,Arifureta-Main,,0000,0000,0000,,Parece que ela está com problemas.
+Dialogue: 0,0:17:29.34,0:17:31.09,Arifureta-Main,,0000,0000,0000,,Conte-nos o que está havendo.
+Dialogue: 0,0:17:32.26,0:17:36.84,Arifureta-Main,,0000,0000,0000,,Há alguns dias, a febre se abateu\Nsobre os habitantes de Ankaji.
+Dialogue: 0,0:17:37.76,0:17:41.56,Arifureta-Main,,0000,0000,0000,,Um veneno que causa sobrecarga de mana\Nfoi encontrado na água.
+Dialogue: 0,0:17:41.72,0:17:43.68,Arifureta-Main,,0000,0000,0000,,A substância poluiu nosso oásis.
+Dialogue: 0,0:17:44.27,0:17:47.44,Arifureta-Main,,0000,0000,0000,,O oásis que protegemos e cuidamos\Ncom o maior carinho.
+Dialogue: 0,0:17:47.98,0:17:51.11,Arifureta-Main,,0000,0000,0000,,Como o veneno chegou até lá?\NQuem foi o responsável?
+Dialogue: 0,0:17:51.94,0:17:54.90,Arifureta-Main,,0000,0000,0000,,Mas há uma cura.
+Dialogue: 0,0:17:55.53,0:17:58.57,Arifureta-Main,,0000,0000,0000,,Ela requer um mineral especial,\Na Pedra Serena.
+Dialogue: 0,0:17:59.53,0:18:02.95,Arifureta-Main,,0000,0000,0000,,Ela tem a capacidade de acalmar o mana\Nde quem a ingerir.
+Dialogue: 0,0:18:03.54,0:18:07.00,Arifureta-Main,,0000,0000,0000,,É um mineral raro e valioso,\Nencontrado no Vulcão de Gruen.
+Dialogue: 0,0:18:07.79,0:18:09.50,Arifureta-Main,,0000,0000,0000,,No Vulcão de Gruen? Esse é...
+Dialogue: 0,0:18:10.21,0:18:13.88,Arifureta-Main,,0000,0000,0000,,Mas todos os aventureiros\Nde Ankaji adoeceram.
+Dialogue: 0,0:18:14.67,0:18:19.39,Arifureta-Main,,0000,0000,0000,,Um aventureiro comum não poderia cruzar\Na tempestade de areia ao redor do vulcão.
+Dialogue: 0,0:18:19.89,0:18:21.85,Arifureta-Main,,0000,0000,0000,,E mesmo um aventureiro poderoso,
+Dialogue: 0,0:18:22.10,0:18:25.64,Arifureta-Main,,0000,0000,0000,,vendo que estamos quase\Nsem água limpa para beber...
+Dialogue: 0,0:18:26.06,0:18:30.31,Arifureta-Main,,0000,0000,0000,,Para resumir, você saiu em busca de ajuda,\Nmas também adoeceu,
+Dialogue: 0,0:18:30.40,0:18:32.23,Arifureta-Main,,0000,0000,0000,,e Ankaji está em sérios apuros.
+Dialogue: 0,0:18:33.23,0:18:35.15,Arifureta-Main,,0000,0000,0000,,Alguém precisa purificar o oásis
+Dialogue: 0,0:18:35.53,0:18:38.99,Arifureta-Main,,0000,0000,0000,,e buscar a Pedra Serena no vulcão, certo?
+Dialogue: 0,0:18:42.28,0:18:47.58,Arifureta-Main,,0000,0000,0000,,Isso! Vocês são aventureiros nível ouro,\Ne você é uma deusa.
+Dialogue: 0,0:18:47.96,0:18:50.04,Arifureta-Main,,0000,0000,0000,,Isso só pode ser a vontade de Deus!
+Dialogue: 0,0:18:50.67,0:18:53.17,Arifureta-Main,,0000,0000,0000,,Ele mandou estas deusas para nos salvar.
+Dialogue: 0,0:18:53.25,0:18:54.30,Arifureta-Main,,0000,0000,0000,,Deus, é?
+Dialogue: 0,0:18:55.05,0:18:57.84,Arifureta-Main,,0000,0000,0000,,Como representante do Duque de Ankaji,
+Dialogue: 0,0:18:58.26,0:19:01.59,Arifureta-Main,,0000,0000,0000,,gostaria de pedir oficialmente\Na ajuda de vocês.
+Dialogue: 0,0:19:03.18,0:19:05.43,Arifureta-Main,,0000,0000,0000,,Ajudem-nos, por favor!
+Dialogue: 0,0:19:13.40,0:19:14.40,Arifureta-Main,,0000,0000,0000,,Papai.
+Dialogue: 0,0:19:14.94,0:19:16.40,Arifureta-Main,,0000,0000,0000,,Você não vai salvá-los?
+Dialogue: 0,0:19:17.82,0:19:18.82,Arifureta-Main,,0000,0000,0000,,Myu.
+Dialogue: 0,0:19:21.82,0:19:25.45,Arifureta-Main,,0000,0000,0000,,Bem, já íamos passar por Ankaji\Nde qualquer forma.
+Dialogue: 0,0:19:27.20,0:19:28.20,Arifureta-Main,,0000,0000,0000,,Hajime!
+Dialogue: 0,0:19:28.83,0:19:30.87,Arifureta-Main,,0000,0000,0000,,Vamos ter trabalho outra vez.
+Dialogue: 0,0:19:31.37,0:19:32.96,Arifureta-Main,,0000,0000,0000,,Então vamos nos apressar!
+Dialogue: 0,0:19:33.29,0:19:34.29,Arifureta-Main,,0000,0000,0000,,Isso aí!
+Dialogue: 0,0:19:36.09,0:19:40.05,Arifureta-Main,,0000,0000,0000,,Adoraríamos que fossem direto ao vulcão\Npara minerar a Pedra Serena.
+Dialogue: 0,0:19:40.13,0:19:42.26,Arifureta-Main,,0000,0000,0000,,Mas antes peguem água na capital...
+Dialogue: 0,0:19:42.34,0:19:44.30,Arifureta-Main,,0000,0000,0000,,Não precisamos ir até a capital.
+Dialogue: 0,0:19:45.22,0:19:49.10,Arifureta-Main,,0000,0000,0000,,Conseguir água não será problema.\NVamos direto para Ankaji.
+Dialogue: 0,0:19:50.44,0:19:51.56,Arifureta-Main,,0000,0000,0000,,Não será problema?
+Dialogue: 0,0:19:51.94,0:19:53.10,Arifureta-Main,,0000,0000,0000,,Não é, Yue?
+Dialogue: 0,0:19:53.61,0:19:54.73,Arifureta-Main,,0000,0000,0000,,É, sim, Hajime.
+Dialogue: 0,0:19:55.86,0:19:59.36,Arifureta-Main,,0000,0000,0000,,Será que podem sair\Ndo mundinho só de vocês?
+Dialogue: 0,0:19:59.44,0:20:03.20,Arifureta-Main,,0000,0000,0000,,É mesmo! É sempre só os dois.\NNão é justo!
+Dialogue: 0,0:20:03.28,0:20:06.28,Arifureta-Main,,0000,0000,0000,,Não é mesmo!
+Dialogue: 0,0:20:11.48,0:20:15.69,Fundo do Abismo,,0000,0000,0000,,{\fs15\fad(689,1)\c&H29080B&\pos(450,343)}Reino Demoníaco de Garland
+Dialogue: 0,0:20:16.92,0:20:20.67,Arifureta-Main,,0000,0000,0000,,General Freid! É verdade\Nque a Cattleya foi derrotada?
+Dialogue: 0,0:20:22.22,0:20:23.34,Arifureta-Main,,0000,0000,0000,,Mikhail.
+Dialogue: 0,0:20:23.43,0:20:26.26,Arifureta-Main,,0000,0000,0000,,Não pode ser!\NA Cattleya não pode ter morrido!
+Dialogue: 0,0:20:27.10,0:20:30.06,Arifureta-Main,,0000,0000,0000,,Havia tantos monstros com ela, e...
+Dialogue: 0,0:20:30.52,0:20:32.94,Arifureta-Main,,0000,0000,0000,,A missão em Ur também foi um fracasso.
+Dialogue: 0,0:20:34.23,0:20:35.23,Arifureta-Main,,0000,0000,0000,,Em Ur também?
+Dialogue: 0,0:20:35.61,0:20:38.94,Arifureta-Main,,0000,0000,0000,,Quase tivemos sucesso.\NRecrutamos sessenta mil monstros,
+Dialogue: 0,0:20:39.03,0:20:42.20,Arifureta-Main,,0000,0000,0000,,para devastar a cidade\Ne matar a Deusa da Fertilidade.
+Dialogue: 0,0:20:42.45,0:20:45.07,Arifureta-Main,,0000,0000,0000,,Mas um "Irregular"\Nacabou com nossos planos.
+Dialogue: 0,0:20:45.41,0:20:46.41,Arifureta-Main,,0000,0000,0000,,Um "Irregular"?
+Dialogue: 0,0:20:47.08,0:20:50.45,Arifureta-Main,,0000,0000,0000,,Quatro indivíduos aniquilaram\Ntodo o exército de monstros.
+Dialogue: 0,0:20:50.70,0:20:53.37,Arifureta-Main,,0000,0000,0000,,Reiss, que estava na missão,\Nperdeu um braço.
+Dialogue: 0,0:20:54.33,0:20:56.13,Arifureta-Main,,0000,0000,0000,,Impossível. Reiss também...
+Dialogue: 0,0:20:56.88,0:20:58.96,Arifureta-Main,,0000,0000,0000,,Os quatro Irregulares deixaram Ur
+Dialogue: 0,0:20:59.67,0:21:04.84,Arifureta-Main,,0000,0000,0000,,e chegaram no Grande Labirinto de Orcus\Nquando a Cattleya ia ao encontro do herói.
+Dialogue: 0,0:21:05.51,0:21:07.64,Arifureta-Main,,0000,0000,0000,,Então esses Irregulares a mataram.
+Dialogue: 0,0:21:08.68,0:21:10.81,Arifureta-Main,,0000,0000,0000,,São mais fortes do que esperávamos.
+Dialogue: 0,0:21:11.10,0:21:12.93,Arifureta-Main,,0000,0000,0000,,Estou indo para o vulcão.
+Dialogue: 0,0:21:13.89,0:21:18.90,Arifureta-Main,,0000,0000,0000,,Acharei mais uma magia da Era dos Deuses\Ne ficarei mais forte a qualquer custo.
+Dialogue: 0,0:21:19.90,0:21:20.90,Arifureta-Main,,0000,0000,0000,,General Freid...
+Dialogue: 0,0:21:21.53,0:21:25.99,Arifureta-Main,,0000,0000,0000,,Tudo em nome do nosso rei\Ne do Deus que adoramos.
+Dialogue: 0,0:21:26.74,0:21:29.83,Arifureta-Main,,0000,0000,0000,,Defenda o reino enquanto isso.\NA guerra está próxima.
+Dialogue: 0,0:21:31.20,0:21:33.41,Arifureta-Main,,0000,0000,0000,,Vingarei a morte da Cattleya.
+Dialogue: 0,0:21:37.92,0:21:42.80,Arifureta-Italics,,0000,0000,0000,,Vocês acabaram com a missão sagrada\Nque recebi de meu Deus.
+Dialogue: 0,0:21:43.76,0:21:46.30,Arifureta-Italics,,0000,0000,0000,,Pagarão muito caro por isso.
+Dialogue: 0,0:21:47.18,0:21:50.56,Arifureta-Italics,,0000,0000,0000,,Quando me virem, será o último\Nmomento de suas vidas.
+Dialogue: 0,0:21:51.85,0:21:54.85,Arifureta-Italics,,0000,0000,0000,,Neste mundo, não há lugar para pagãos.
+Dialogue: 0,0:21:55.98,0:21:56.98,Arifureta-Italics,,0000,0000,0000,,Ou Irregulares.
+Dialogue: 0,0:23:34.01,0:23:41.02,Arifureta-Frase,,0000,0000,0000,,{\pos(141,150)}ARIFURETA:\NDo comum ao mais forte do mundo
+Dialogue: 0,0:23:34.01,0:23:41.02,Arifureta-NextEpNumber,,0000,0000,0000,,{\pos(143,228)}Episódio 02
+Dialogue: 0,0:23:34.01,0:23:41.02,Arifureta-NextEpTitle,,0000,0000,0000,,{\pos(341,127)}Luz Ardente
+Dialogue: 0,0:23:36.04,0:23:38.04,Arifureta-Italics,,0000,0000,0000,,A seguir: "Luz Ardente".
