@@ -1,0 +1,380 @@
+﻿[Script Info]
+Title: [Erai-raws] Português (Brasil)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0015,0
+Style: Signs,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0020,0020,0015,0
+Style: Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0015,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.00,0:00:09.71,Default,,0000,0000,0000,,Pronto! Fim da prova.
+Dialogue: 0,0:00:08.00,0:00:09.71,Signs,,0000,0000,0000,,LINGUAGENS
+Dialogue: 0,0:00:10.21,0:00:12.26,Default,,0000,0000,0000,,Isso!
+Dialogue: 0,0:00:12.76,0:00:15.26,Default,,0000,0000,0000,,Quanta alegria.
+Dialogue: 0,0:00:16.09,0:00:19.39,Default,,0000,0000,0000,,Deve ser porque estudaram\Nmuito para essa prova.
+Dialogue: 0,0:00:20.10,0:00:21.10,Default,,0000,0000,0000,,É tocante.
+Dialogue: 0,0:00:21.43,0:00:24.77,Default,,0000,0000,0000,,Esse teste foi tão\Ndifícil quanto joquempô!
+Dialogue: 0,0:00:24.85,0:00:26.27,Default,,0000,0000,0000,,Como assim joquempô?
+Dialogue: 0,0:00:26.35,0:00:28.86,Default,,0000,0000,0000,,É um sonho! Isso parece um sonho!
+Dialogue: 0,0:00:28.94,0:00:31.19,Default,,0000,0000,0000,,Acabou! Está tudo acabado agora!
+Dialogue: 0,0:00:31.57,0:00:34.82,Default,,0000,0000,0000,,Meus pais mandarão um saco\Nde arroz para cada um!
+Dialogue: 0,0:00:34.90,0:00:36.24,Default,,0000,0000,0000,,Viva o cara do arroz!
+Dialogue: 0,0:00:36.57,0:00:38.32,Default,,0000,0000,0000,,Vamos nos casar!
+Dialogue: 0,0:00:38.41,0:00:39.41,Default,,0000,0000,0000,,Nossa!
+Dialogue: 0,0:00:39.62,0:00:43.04,Default,,0000,0000,0000,,Vamos! Ajudem! Preparar, fogo!
+Dialogue: 0,0:00:44.00,0:00:48.34,Default,,0000,0000,0000,,O que estão fazendo?
+Dialogue: 0,0:01:01.18,0:01:03.73,Default,,0000,0000,0000,,Eu percebi neste exato momento
+Dialogue: 0,0:01:03.93,0:01:06.39,Default,,0000,0000,0000,,Que acho que posso ter me apaixonado
+Dialogue: 0,0:01:06.56,0:01:08.94,Default,,0000,0000,0000,,24 horas por dia de você
+Dialogue: 0,0:01:09.15,0:01:10.94,Default,,0000,0000,0000,,Eu não consigo tirar\Nvocê Da minha cabeça!
+Dialogue: 0,0:01:11.02,0:01:13.53,Default,,0000,0000,0000,,Algo (Algo) parece diferente agora
+Dialogue: 0,0:01:13.69,0:01:16.20,Default,,0000,0000,0000,,Com você (Juntos) é\Numa conversa estranha
+Dialogue: 0,0:01:16.36,0:01:18.87,Default,,0000,0000,0000,,É (Amor mútuo) Não,\Né amor unilateral
+Dialogue: 0,0:01:19.03,0:01:21.37,Default,,0000,0000,0000,,Acho que nossos olhos\NAcabaram de se encontrar!
+Dialogue: 0,0:01:22.49,0:01:25.29,Default,,0000,0000,0000,,O que é essa sensação De\Nansiedade e nervosismo?
+Dialogue: 0,0:01:27.92,0:01:30.84,Default,,0000,0000,0000,,Minha linha de pensamento\NEstá emaranhada e confusa
+Dialogue: 0,0:01:32.46,0:01:34.67,Default,,0000,0000,0000,,É uma primeira vez para mim
+Dialogue: 0,0:01:35.13,0:01:37.34,Default,,0000,0000,0000,,Com esse tipo de coisa
+Dialogue: 0,0:01:38.13,0:01:42.72,Default,,0000,0000,0000,,Talvez seja febre e estou doente
+Dialogue: 0,0:01:42.89,0:01:45.64,Default,,0000,0000,0000,,Com uma reviravolta\Nrepentina O amor é despertado
+Dialogue: 0,0:01:45.73,0:01:48.23,Default,,0000,0000,0000,,Minhas bochechas pegam fogo E\Nmeu rosto está todo vermelho
+Dialogue: 0,0:01:48.35,0:01:50.81,Default,,0000,0000,0000,,Isso não pode ser real\NMinhas mãos estão tremendo
+Dialogue: 0,0:01:51.02,0:01:53.36,Default,,0000,0000,0000,,É isso que as pessoas querem\Ndizer Quando falam sobre "amor"?
+Dialogue: 0,0:01:53.61,0:01:56.19,Default,,0000,0000,0000,,Estou gaguejando sem\Nparar Quando falo com você
+Dialogue: 0,0:01:56.36,0:01:58.78,Default,,0000,0000,0000,,Silêncio constrangedor\NE depois fico enrolado
+Dialogue: 0,0:01:58.95,0:02:01.37,Default,,0000,0000,0000,,Eu quero (Eu quero) Saber\No que você sente por mim
+Dialogue: 0,0:02:01.53,0:02:04.16,Default,,0000,0000,0000,,Amor unilateral
+Dialogue: 0,0:02:04.45,0:02:05.45,Default,,0000,0000,0000,,Primeiro amor!
+Dialogue: 0,0:02:05.54,0:02:07.33,Default,,0000,0000,0000,,Todos os dias no\Ncaminho para a escola
+Dialogue: 0,0:02:07.41,0:02:10.67,Default,,0000,0000,0000,,Cintilante, deslumbrante\NEu me apaixono
+Dialogue: 0,0:02:10.75,0:02:13.38,Default,,0000,0000,0000,,É como se eu estivesse\Nvoando pelo céu
+Dialogue: 0,0:02:13.46,0:02:16.17,Default,,0000,0000,0000,,Amor unilateral
+Dialogue: 0,0:02:34.27,0:02:35.28,Default,,0000,0000,0000,,Mio.
+Dialogue: 0,0:02:36.36,0:02:37.90,Default,,0000,0000,0000,,Bom dia.
+Dialogue: 0,0:02:37.94,0:02:41.36,Signs,,0000,0000,0000,,MINHA VIDA COTIDIANA 35
+Dialogue: 0,0:02:52.75,0:02:53.88,Default,,0000,0000,0000,,Não, não, não, não!
+Dialogue: 0,0:02:54.46,0:02:56.09,Default,,0000,0000,0000,,Mas, mas, mas!
+Dialogue: 0,0:02:56.42,0:02:59.51,Default,,0000,0000,0000,,Mas... Nem uma reação\Npor causa dessa roupa?
+Dialogue: 0,0:03:01.55,0:03:03.93,Default,,0000,0000,0000,,Nossa. Ainda está brava comigo?
+Dialogue: 0,0:03:04.80,0:03:08.60,Default,,0000,0000,0000,,Por colocar aquela peça de\Nxadrez no seu mont blanc...
+Dialogue: 0,0:03:04.80,0:03:08.60,Signs,,0000,0000,0000,,CAVALO
+Dialogue: 0,0:03:10.06,0:03:15.15,Default,,0000,0000,0000,,Não me impediu de comê-lo,\Nentão não foi tão ruim assim.
+Dialogue: 0,0:03:16.61,0:03:19.61,Default,,0000,0000,0000,,Até parece!
+Dialogue: 0,0:03:16.61,0:03:19.61,Signs,,0000,0000,0000,,PONTE TOKISADAME
+Dialogue: 0,0:03:20.74,0:03:24.12,Default,,0000,0000,0000,,Estava ansiosa por aquele mont blanc!\NPor que fez aquilo?
+Dialogue: 0,0:03:24.32,0:03:26.87,Default,,0000,0000,0000,,Não entendo! Enfiar\Num cavalo na comida?
+Dialogue: 0,0:03:27.83,0:03:30.21,Default,,0000,0000,0000,,Não sei. Pareceu uma ideia legal.
+Dialogue: 0,0:03:31.21,0:03:32.21,Default,,0000,0000,0000,,Na cabeça!
+Dialogue: 0,0:03:35.21,0:03:37.96,Default,,0000,0000,0000,,Como sempre, ela não\Naguenta brincadeiras.
+Dialogue: 0,0:03:50.10,0:03:52.52,Default,,0000,0000,0000,,Irmã estúpida.
+Dialogue: 0,0:03:50.10,0:03:52.52,Signs,,0000,0000,0000,,CARNE MISO - KIMUCHI RAMEN
+Dialogue: 0,0:03:52.94,0:03:55.61,Default,,0000,0000,0000,,Fazem apenas dez desses\Nmont blanc por dia.
+Dialogue: 0,0:03:58.36,0:04:01.57,Default,,0000,0000,0000,,Ela não percebe,\Nmas sempre prega peças assim.
+Dialogue: 0,0:04:02.78,0:04:04.82,Default,,0000,0000,0000,,E ela já está na faculdade.
+Dialogue: 0,0:04:05.03,0:04:07.41,Default,,0000,0000,0000,,Precisa entender\Nque existem limites.
+Dialogue: 0,0:04:08.08,0:04:09.83,Default,,0000,0000,0000,,Mas hoje
+Dialogue: 0,0:04:10.08,0:04:15.88,Default,,0000,0000,0000,,me sinto generosa o bastante,\Npara ignorar o crime da minha irmã,
+Dialogue: 0,0:04:16.46,0:04:18.92,Default,,0000,0000,0000,,pois escondi na geladeira
+Dialogue: 0,0:04:19.30,0:04:22.63,Default,,0000,0000,0000,,um dos cinco bolinhos\Nespeciais do dia, então...{\an}
+Dialogue: 0,0:04:19.30,0:04:22.63,Signs,,0000,0000,0000,,{\an8}KIMUCHI RAMEN
+Dialogue: 0,0:04:22.72,0:04:23.72,Default,,0000,0000,0000,,O quê?
+Dialogue: 0,0:04:23.93,0:04:25.76,Signs,,0000,0000,0000,,{\an8}REI{\an}
+Dialogue: 0,0:04:26.05,0:04:27.22,Default,,0000,0000,0000,,Xeque-mate!
+Dialogue: 0,0:04:27.97,0:04:30.89,Default,,0000,0000,0000,,Cobra! Cobra! Cobra!
+Dialogue: 0,0:04:32.48,0:04:33.48,Default,,0000,0000,0000,,Morango!
+Dialogue: 0,0:04:34.02,0:04:38.52,Default,,0000,0000,0000,,A única coisa que queria desde a\Nnoite passada! Meu um em cinco!
+Dialogue: 0,0:04:39.19,0:04:42.11,Default,,0000,0000,0000,,Meu... meu... morango!
+Dialogue: 0,0:04:39.19,0:04:42.11,Signs,,0000,0000,0000,,TOFU
+Dialogue: 0,0:04:44.78,0:04:45.78,Default,,0000,0000,0000,,Meu morango!
+Dialogue: 0,0:04:46.16,0:04:50.87,Default,,0000,0000,0000,,Cadê o morango que\Ndeveria estar bem aqui?
+Dialogue: 0,0:04:54.75,0:04:56.83,Default,,0000,0000,0000,,Minha Nossa...
+Dialogue: 0,0:04:57.54,0:04:58.79,Default,,0000,0000,0000,,No estômago!
+Dialogue: 0,0:05:02.21,0:05:04.34,Default,,0000,0000,0000,,Irmã estúpida!
+Dialogue: 0,0:05:04.51,0:05:08.72,Default,,0000,0000,0000,,Um bolo sem morangos é como um pão!
+Dialogue: 0,0:05:10.64,0:05:14.27,Default,,0000,0000,0000,,Agora é apenas um pão doce!
+Dialogue: 0,0:05:25.24,0:05:29.24,Default,,0000,0000,0000,,Feliz aniversário para mim
+Dialogue: 0,0:05:30.03,0:05:33.75,Default,,0000,0000,0000,,Feliz aniversário para mim
+Dialogue: 0,0:05:34.50,0:05:39.04,Default,,0000,0000,0000,,Feliz aniversário para Yoshino
+Dialogue: 0,0:05:39.21,0:05:44.67,Default,,0000,0000,0000,,Feliz aniversário para mim
+Dialogue: 0,0:05:39.21,0:05:44.67,Signs,,0000,0000,0000,,REI\NFELIZ ANIVERSÁRIO!
+Dialogue: 0,0:05:46.01,0:05:47.01,Default,,0000,0000,0000,,Mana...
+Dialogue: 0,0:05:50.10,0:05:51.10,Default,,0000,0000,0000,,Mio.
+Dialogue: 0,0:05:53.68,0:05:55.60,Default,,0000,0000,0000,,Hoje não é seu aniversário!
+Dialogue: 0,0:05:59.02,0:06:02.27,Signs,,0000,0000,0000,,SALA DE PROFESSORES\NQUESTIONÁRIO
+Dialogue: 0,0:06:19.12,0:06:20.71,Signs,,0000,0000,0000,,RESTAURANTE UDON E SOBA
+Dialogue: 0,0:06:20.79,0:06:22.38,Signs,,0000,0000,0000,,MINHA VIDA COTIDIANA 36
+Dialogue: 0,0:06:26.63,0:06:28.93,Default,,0000,0000,0000,,Sempre quis vir neste lugar.
+Dialogue: 0,0:06:29.68,0:06:31.14,Default,,0000,0000,0000,,Viu em uma revista?
+Dialogue: 0,0:06:31.39,0:06:34.22,Default,,0000,0000,0000,,Sim. Até ganhei um cupom daqui.
+Dialogue: 0,0:06:34.60,0:06:35.85,Default,,0000,0000,0000,,Não mostre agora.
+Dialogue: 0,0:06:35.93,0:06:37.31,Default,,0000,0000,0000,,Vou comer Herring Soba.
+Dialogue: 0,0:06:37.39,0:06:39.64,Default,,0000,0000,0000,,Mesmo nesse calor?\NVocê gosta mesmo...
+Dialogue: 0,0:06:39.73,0:06:40.85,Default,,0000,0000,0000,,Sem o arenque.
+Dialogue: 0,0:06:42.36,0:06:44.19,Default,,0000,0000,0000,,Isso é apenas soba comum!
+Dialogue: 0,0:06:47.94,0:06:49.57,Default,,0000,0000,0000,,E você, Mio?
+Dialogue: 0,0:06:49.70,0:06:51.41,Default,,0000,0000,0000,,Acho que comerei Zaru Soba.
+Dialogue: 0,0:06:51.78,0:06:55.20,Default,,0000,0000,0000,,Sem arriscar. Obviamente\Num prato para amadores.
+Dialogue: 0,0:06:55.58,0:06:57.58,Default,,0000,0000,0000,,Não me importo. E você?
+Dialogue: 0,0:06:57.75,0:07:00.83,Default,,0000,0000,0000,,Acho que o Tempura\NVegetariano Especial de Verão.
+Dialogue: 0,0:07:01.42,0:07:04.42,Default,,0000,0000,0000,,Uma escolha ousada de arroz\Nem restaurante de soba.
+Dialogue: 0,0:07:04.75,0:07:06.25,Default,,0000,0000,0000,,Isso parece legal.
+Dialogue: 0,0:07:06.34,0:07:07.55,Default,,0000,0000,0000,,Não é?
+Dialogue: 0,0:07:07.63,0:07:09.51,Default,,0000,0000,0000,,Também, é um prato sazonal.
+Dialogue: 0,0:07:10.18,0:07:13.18,Default,,0000,0000,0000,,Se não comer agora,\Nquem sabe quando voltará.
+Dialogue: 0,0:07:13.68,0:07:14.68,Default,,0000,0000,0000,,Uma vez por ano?
+Dialogue: 0,0:07:15.01,0:07:19.23,Default,,0000,0000,0000,,Não, não. Tem que\Nsonhar mais alto, Mio.
+Dialogue: 0,0:07:19.68,0:07:23.06,Default,,0000,0000,0000,,- O que importa é o agora!\N- É mesmo?
+Dialogue: 0,0:07:23.81,0:07:26.02,Default,,0000,0000,0000,,Bem, ainda é jovem para entender.
+Dialogue: 0,0:07:26.11,0:07:27.11,Default,,0000,0000,0000,,Sim, sim.
+Dialogue: 0,0:07:33.28,0:07:34.41,Default,,0000,0000,0000,,Com licença!
+Dialogue: 0,0:07:35.91,0:07:37.58,Default,,0000,0000,0000,,Posso anotar seu pedido?
+Dialogue: 0,0:07:38.33,0:07:41.37,Default,,0000,0000,0000,,Um Herring Soba, um Zaru Soba e...
+Dialogue: 0,0:07:41.87,0:07:44.92,Default,,0000,0000,0000,,Um Tempura Vegetariano\NEspecial de Verão...
+Dialogue: 0,0:07:45.71,0:07:46.71,Default,,0000,0000,0000,,Herring Soba,
+Dialogue: 0,0:07:46.92,0:07:49.17,Default,,0000,0000,0000,,Zaru Soba e Tempura de Verão, certo?
+Dialogue: 0,0:07:49.63,0:07:51.17,Default,,0000,0000,0000,,Por favor, aguardem.
+Dialogue: 0,0:07:56.22,0:07:59.85,Default,,0000,0000,0000,,Ouvi dizer que o macarrão\Nsoba daqui é caseiro.
+Dialogue: 0,0:08:00.02,0:08:01.85,Default,,0000,0000,0000,,Isso que chamo de autêntico!
+Dialogue: 0,0:08:02.77,0:08:05.06,Default,,0000,0000,0000,,Como é um bolinho\Nde trigo sarraceno?
+Dialogue: 0,0:08:05.27,0:08:08.19,Default,,0000,0000,0000,,Eles usam a farinha de\Nsoba e deixam tudo mole.
+Dialogue: 0,0:08:08.36,0:08:09.90,Default,,0000,0000,0000,,Sério?
+Dialogue: 0,0:08:10.24,0:08:11.74,Default,,0000,0000,0000,,Obrigada por aguardarem.
+Dialogue: 0,0:08:12.95,0:08:14.82,Default,,0000,0000,0000,,Este é o Herring Soba...
+Dialogue: 0,0:08:15.03,0:08:17.03,Default,,0000,0000,0000,,e esse o Zaru Soba.
+Dialogue: 0,0:08:20.79,0:08:22.83,Default,,0000,0000,0000,,Não me importo se comerem logo.
+Dialogue: 0,0:08:22.91,0:08:23.92,Default,,0000,0000,0000,,Desculpe.
+Dialogue: 0,0:08:24.00,0:08:25.13,Default,,0000,0000,0000,,Antes que esfrie.
+Dialogue: 0,0:08:25.21,0:08:26.75,Default,,0000,0000,0000,,Mas já está frio.
+Dialogue: 0,0:08:27.04,0:08:29.59,Default,,0000,0000,0000,,Deve ser porque o meu\Nestá no menu sazonal.
+Dialogue: 0,0:08:29.96,0:08:33.13,Default,,0000,0000,0000,,Estão se dedicando para\Ntorná-lo delicioso!
+Dialogue: 0,0:08:52.40,0:08:53.95,Default,,0000,0000,0000,,O seu está demorando.
+Dialogue: 0,0:08:54.57,0:08:57.24,Default,,0000,0000,0000,,Talvez seja por causa\Nda fritura do tempura.
+Dialogue: 0,0:08:57.53,0:09:01.45,Default,,0000,0000,0000,,Provavelmente estão escolhendo\Nvegetais frescos de verão!
+Dialogue: 0,0:09:01.79,0:09:04.79,Default,,0000,0000,0000,,Essa não! Por isso deve\Nestar demorando tanto.
+Dialogue: 0,0:09:18.47,0:09:21.18,Default,,0000,0000,0000,,Acho que pode até pedir\Noutros tipos de prato.
+Dialogue: 0,0:09:21.43,0:09:22.56,Default,,0000,0000,0000,,Sério?
+Dialogue: 0,0:09:28.61,0:09:29.61,Default,,0000,0000,0000,,Pra mim?
+Dialogue: 0,0:09:32.07,0:09:33.07,Default,,0000,0000,0000,,Acho que não.
+Dialogue: 0,0:09:33.19,0:09:34.19,Default,,0000,0000,0000,,Que droga.
+Dialogue: 0,0:09:39.32,0:09:40.33,Default,,0000,0000,0000,,Maldição!
+Dialogue: 0,0:09:40.66,0:09:42.04,Default,,0000,0000,0000,,Yuuko! Acalme-se!
+Dialogue: 0,0:09:42.16,0:09:44.04,Default,,0000,0000,0000,,Como? Está demorando muito!
+Dialogue: 0,0:09:44.12,0:09:45.29,Default,,0000,0000,0000,,E daí que é famoso?
+Dialogue: 0,0:09:45.37,0:09:47.67,Default,,0000,0000,0000,,Mesmo se for delicioso,\Nnão compensa!
+Dialogue: 0,0:09:47.75,0:09:50.42,Default,,0000,0000,0000,,- Você enlouqueceu!\N- Vou acabar com eles!
+Dialogue: 0,0:09:50.79,0:09:52.21,Default,,0000,0000,0000,,Obrigada por aguardar.
+Dialogue: 0,0:09:52.75,0:09:54.17,Default,,0000,0000,0000,,Sabe o quanto esperei...
+Dialogue: 0,0:09:59.64,0:10:00.64,Default,,0000,0000,0000,,Obrigada.
+Dialogue: 0,0:10:11.61,0:10:14.61,Default,,0000,0000,0000,,Leiam uma revista ou algo assim.\NTerminarei logo.
+Dialogue: 0,0:10:21.53,0:10:23.16,Default,,0000,0000,0000,,Coisas legais!
+Dialogue: 0,0:10:33.00,0:10:34.21,Default,,0000,0000,0000,,Crianças no xadrez!
+Dialogue: 0,0:10:34.96,0:10:38.38,Signs,,0000,0000,0000,,MINHA VIDA COTIDIANA 37
+Dialogue: 0,0:10:50.94,0:10:52.44,Default,,0000,0000,0000,,Com repelente e vapor,
+Dialogue: 0,0:10:52.90,0:10:55.28,Default,,0000,0000,0000,,pensei que já teriam ido embora.
+Dialogue: 0,0:10:56.40,0:10:59.20,Signs,,0000,0000,0000,,NÃO PARTIRÃO NO FINAL DA NOITE,\NRIO MOGAMI
+Dialogue: 0,0:10:56.40,0:10:59.20,Default,,0000,0000,0000,,Não partirão no final\Nda noite, Rio Mogami.
+Dialogue: 0,0:11:23.18,0:11:25.60,Default,,0000,0000,0000,,Até mesmo um inseto merece viver.
+Dialogue: 0,0:11:26.35,0:11:28.73,Default,,0000,0000,0000,,Voltarei ao meu sono tranquilo.
+Dialogue: 0,0:11:28.81,0:11:29.81,Default,,0000,0000,0000,,Peguei você!
+Dialogue: 0,0:11:39.03,0:11:40.03,Default,,0000,0000,0000,,Isso!
+Dialogue: 0,0:11:41.15,0:11:42.16,Default,,0000,0000,0000,,Peito!
+Dialogue: 0,0:11:52.17,0:11:54.08,Default,,0000,0000,0000,,Tirei uma vida preciosa.
+Dialogue: 0,0:12:04.34,0:12:05.76,Default,,0000,0000,0000,,Eu bati! E acertei!
+Dialogue: 0,0:12:06.18,0:12:08.22,Default,,0000,0000,0000,,Todo ano é assim!
+Dialogue: 0,0:12:08.31,0:12:12.64,Default,,0000,0000,0000,,Simplesmente não sei\Nmais o que fazer!
+Dialogue: 0,0:12:13.77,0:12:16.73,Default,,0000,0000,0000,,Mãe! Esta casa é horrível!
+Dialogue: 0,0:12:17.36,0:12:18.90,Default,,0000,0000,0000,,Teremos que nos mudar!
+Dialogue: 0,0:12:29.79,0:12:33.92,Default,,0000,0000,0000,,Idiota! Sabe que horas são?\NFique quieta e durma!
+Dialogue: 0,0:13:10.91,0:13:12.95,Default,,0000,0000,0000,,Sushi Chirashi. Tente.
+Dialogue: 0,0:13:13.33,0:13:15.17,Default,,0000,0000,0000,,Tsuchirashi.
+Dialogue: 0,0:13:15.50,0:13:16.50,Default,,0000,0000,0000,,Não!
+Dialogue: 0,0:13:16.79,0:13:19.50,Default,,0000,0000,0000,,Su-shi-Chi-ra-shi.
+Dialogue: 0,0:13:19.88,0:13:20.88,Default,,0000,0000,0000,,Tente!
+Dialogue: 0,0:13:21.30,0:13:24.34,Default,,0000,0000,0000,,Tsu-chi-ra-shi.
+Dialogue: 0,0:13:24.59,0:13:25.59,Default,,0000,0000,0000,,Não, não!
+Dialogue: 0,0:13:25.93,0:13:27.55,Default,,0000,0000,0000,,- Su.\N- Su.
+Dialogue: 0,0:13:27.89,0:13:29.72,Default,,0000,0000,0000,,- Shi.\N- Shi.
+Dialogue: 0,0:13:29.89,0:13:30.93,Default,,0000,0000,0000,,Chi.
+Dialogue: 0,0:13:31.10,0:13:32.10,Default,,0000,0000,0000,,Chi.
+Dialogue: 0,0:13:32.64,0:13:33.64,Default,,0000,0000,0000,,Ra.
+Dialogue: 0,0:13:33.73,0:13:34.73,Default,,0000,0000,0000,,Ra.
+Dialogue: 0,0:13:34.81,0:13:35.81,Default,,0000,0000,0000,,Shi.
+Dialogue: 0,0:13:35.89,0:13:36.90,Default,,0000,0000,0000,,Shi.
+Dialogue: 0,0:13:37.15,0:13:38.15,Default,,0000,0000,0000,,Isso!
+Dialogue: 0,0:13:39.02,0:13:40.94,Default,,0000,0000,0000,,Sushi Chirashi. Tente!
+Dialogue: 0,0:13:41.32,0:13:42.82,Default,,0000,0000,0000,,Tsuchirashi.
+Dialogue: 0,0:13:43.69,0:13:46.70,Signs,,0000,0000,0000,,REFRÃO
+Dialogue: 0,0:13:51.91,0:13:55.62,Signs,,0000,0000,0000,,{\an8}NÃO FAÇA VOZ DE ROBÔ{\an}
+Dialogue: 0,0:14:03.42,0:14:06.51,Default,,0000,0000,0000,,Sakamoto! Olhe só!
+Dialogue: 0,0:14:03.42,0:14:06.51,Signs,,0000,0000,0000,,LABORATÓRIO SHINONOME\NMINHA VIDA COTIDIANA 38
+Dialogue: 0,0:14:06.68,0:14:08.89,Default,,0000,0000,0000,,Aqui embaixo! Ganhei!
+Dialogue: 0,0:14:06.68,0:14:08.89,Signs,,0000,0000,0000,,VENCEDORA
+Dialogue: 0,0:14:10.43,0:14:11.64,Default,,0000,0000,0000,,O que quer dizer...
+Dialogue: 0,0:14:11.72,0:14:13.72,Default,,0000,0000,0000,,Não deveria comer besteira.
+Dialogue: 0,0:14:13.81,0:14:18.02,Default,,0000,0000,0000,,- Como assim besteira?\N- Assim não terá espaço para o jantar.
+Dialogue: 0,0:14:19.52,0:14:20.56,Default,,0000,0000,0000,,Omelete!
+Dialogue: 0,0:14:21.65,0:14:24.94,Default,,0000,0000,0000,,Quem fica tão animado com um\Nprêmio de palito de picolé?
+Dialogue: 0,0:14:25.03,0:14:28.36,Default,,0000,0000,0000,,- Você é tão infantil.\N- Não é um prêmio comum!
+Dialogue: 0,0:14:28.57,0:14:30.66,Default,,0000,0000,0000,,É super raro vir escrito embaixo!
+Dialogue: 0,0:14:30.74,0:14:33.41,Default,,0000,0000,0000,,Não importa onde está escrito.
+Dialogue: 0,0:14:33.95,0:14:36.75,Default,,0000,0000,0000,,Descobriria depois de\Numa mordida ou duas.
+Dialogue: 0,0:14:33.95,0:14:36.75,Signs,,0000,0000,0000,,PEIXE
+Dialogue: 0,0:14:37.08,0:14:40.21,Default,,0000,0000,0000,,Nossa, vocês, crianças,\Nsão tão fáceis de agradar.
+Dialogue: 0,0:14:40.38,0:14:42.75,Default,,0000,0000,0000,,Ficam super animadas por nada.
+Dialogue: 0,0:14:43.17,0:14:44.75,Default,,0000,0000,0000,,O que... Um caranguejo!
+Dialogue: 0,0:14:45.42,0:14:48.13,Default,,0000,0000,0000,,É super raro ver algo assim!
+Dialogue: 0,0:14:48.47,0:14:51.09,Default,,0000,0000,0000,,Acho que vou deixar o\Nmelhor para o final!
+Dialogue: 0,0:14:53.97,0:14:55.47,Default,,0000,0000,0000,,Obrigada pela refeição.
+Dialogue: 0,0:14:56.39,0:14:59.56,Default,,0000,0000,0000,,Mal tocou na sua refeição, Doutora.
+Dialogue: 0,0:15:00.35,0:15:03.65,Default,,0000,0000,0000,,Não me diga que você comeu\Nmais lanches depois do almoço?
+Dialogue: 0,0:15:03.94,0:15:04.94,Default,,0000,0000,0000,,Desculpe...
+Dialogue: 0,0:15:05.03,0:15:08.32,Default,,0000,0000,0000,,Minha nossa!\NQuantos lanchinhos comeu?
+Dialogue: 0,0:15:13.20,0:15:14.20,Default,,0000,0000,0000,,Todos eles...
+Dialogue: 0,0:15:14.41,0:15:17.37,Default,,0000,0000,0000,,Todos eles? Você comeu um\Nmês inteiro de lanches?
+Dialogue: 0,0:15:19.29,0:15:20.46,Default,,0000,0000,0000,,Não me impressiona!
+Dialogue: 0,0:15:20.83,0:15:21.92,Default,,0000,0000,0000,,Minha Nossa...
+Dialogue: 0,0:15:22.00,0:15:24.46,Default,,0000,0000,0000,,É que Sakamoto me disse para comer!
+Dialogue: 0,0:15:24.54,0:15:25.84,Default,,0000,0000,0000,,Sakamoto!
+Dialogue: 0,0:15:38.02,0:15:41.14,Default,,0000,0000,0000,,Sakamoto disse que a comida\Nestraga rápido no verão.
+Dialogue: 0,0:15:38.02,0:15:41.14,Signs,,0000,0000,0000,,LABORATÓRIO SHINONOME
+Dialogue: 0,0:15:41.23,0:15:42.60,Default,,0000,0000,0000,,Isso não tem nada a ver.
+Dialogue: 0,0:15:42.73,0:15:44.73,Default,,0000,0000,0000,,Lanches vão para outro estômago!
+Dialogue: 0,0:15:44.86,0:15:46.57,Default,,0000,0000,0000,,Parece mulher de meia-idade!
+Dialogue: 0,0:15:46.73,0:15:49.44,Default,,0000,0000,0000,,- Sakamoto!\N- Por que acredita nela?
+Dialogue: 0,0:15:49.69,0:15:52.91,Default,,0000,0000,0000,,Sou inocente! Isso é preto\Nno branco, e sou o branco!
+Dialogue: 0,0:15:53.53,0:15:55.58,Default,,0000,0000,0000,,- Mas você é preto.\N- É mesmo.
+Dialogue: 0,0:15:55.66,0:15:57.41,Default,,0000,0000,0000,,Eu nasci assim!
+Dialogue: 0,0:15:57.79,0:16:01.12,Default,,0000,0000,0000,,Chega. Não adianta discutir mais.
+Dialogue: 0,0:16:02.25,0:16:05.59,Default,,0000,0000,0000,,Mas a Doutora não\Nganhará suco de morango.
+Dialogue: 0,0:16:07.05,0:16:09.76,Default,,0000,0000,0000,,- Não vou comer mais lanchinhos!\N- Eu disse não.
+Dialogue: 0,0:16:10.05,0:16:12.18,Default,,0000,0000,0000,,Te dou o palito de picolé vencedor!
+Dialogue: 0,0:16:12.43,0:16:15.47,Default,,0000,0000,0000,,- Não quero.\N- Vou comer todos os meus vegetais!
+Dialogue: 0,0:16:15.76,0:16:16.85,Default,,0000,0000,0000,,É melhor que coma!
+Dialogue: 0,0:16:22.64,0:16:26.02,Default,,0000,0000,0000,,Vou tirar sua chave...
+Dialogue: 0,0:16:30.32,0:16:32.74,Default,,0000,0000,0000,,Vou deixar passar desta vez.
+Dialogue: 0,0:16:30.32,0:16:32.74,Signs,,0000,0000,0000,,MORANGO
+Dialogue: 0,0:16:33.03,0:16:35.62,Default,,0000,0000,0000,,Da próxima, não terá\Nlanchinhos por um mês.
+Dialogue: 0,0:16:35.70,0:16:36.70,Default,,0000,0000,0000,,Certo!
+Dialogue: 0,0:16:36.91,0:16:37.91,Default,,0000,0000,0000,,Então...
+Dialogue: 0,0:16:39.74,0:16:43.16,Default,,0000,0000,0000,,Se eu der para ela agora,\Nnão vai aprender a lição!
+Dialogue: 0,0:16:44.79,0:16:47.84,Default,,0000,0000,0000,,Te dou o suco de morango\Ndepois que tirar a chave.
+Dialogue: 0,0:16:50.63,0:16:52.05,Default,,0000,0000,0000,,Então fique de costas.
+Dialogue: 0,0:16:52.63,0:16:53.63,Default,,0000,0000,0000,,Tudo bem!
+Dialogue: 0,0:17:09.69,0:17:10.69,Signs,,0000,0000,0000,,PERDEDORA
+Dialogue: 0,0:17:10.90,0:17:14.11,Default,,0000,0000,0000,,- A mão direita é perdedora.\N- De onde tirou isso?
+Dialogue: 0,0:17:14.36,0:17:15.70,Default,,0000,0000,0000,,Não me impressiona!
+Dialogue: 0,0:17:15.91,0:17:18.07,Default,,0000,0000,0000,,Precisa parar de fazer coisas assim.
+Dialogue: 0,0:17:18.49,0:17:21.33,Default,,0000,0000,0000,,Por favor, ao menos pense\Nnas consequências...
+Dialogue: 0,0:17:21.70,0:17:23.46,Default,,0000,0000,0000,,Não está prestando atenção!
+Dialogue: 0,0:17:29.25,0:17:32.84,Signs,,0000,0000,0000,,UM MILAGRE TRIVIAL
+Dialogue: 0,0:17:39.05,0:17:41.72,Default,,0000,0000,0000,,Pedra, papel, tesoura!
+Dialogue: 0,0:17:47.60,0:17:48.61,Default,,0000,0000,0000,,Meu!
+Dialogue: 0,0:17:53.15,0:17:55.78,Signs,,0000,0000,0000,,HORA DA PALAVRA
+Dialogue: 0,0:18:03.16,0:18:07.50,Default,,0000,0000,0000,,Se olhar com atenção,\Npode encontrar qualquer coisa.
+Dialogue: 0,0:18:03.16,0:18:07.50,Signs,,0000,0000,0000,,SE OLHAR COM ATENÇÃO,\NPODE ENCONTRAR QUALQUER COISA
+Dialogue: 0,0:18:13.42,0:18:14.42,Default,,0000,0000,0000,,Mio!
+Dialogue: 0,0:18:14.80,0:18:15.84,Default,,0000,0000,0000,,Quem bom vê-la.
+Dialogue: 0,0:18:15.97,0:18:17.38,Default,,0000,0000,0000,,O que foi, mana?
+Dialogue: 0,0:18:17.97,0:18:20.10,Default,,0000,0000,0000,,Preciso resolver algo urgente.
+Dialogue: 0,0:18:20.85,0:18:24.68,Default,,0000,0000,0000,,Seria ótimo se pudesse me substituir\Nna associação de moradores.
+Dialogue: 0,0:18:24.77,0:18:27.81,Default,,0000,0000,0000,,Devia pedir à mamãe, não a mim.
+Dialogue: 0,0:18:28.35,0:18:30.77,Default,,0000,0000,0000,,Ela está jogando sepak\Ntakraw com amigos.
+Dialogue: 0,0:18:31.31,0:18:33.82,Default,,0000,0000,0000,,E você receberá 10.000\Nienes por ajudar.
+Dialogue: 0,0:18:34.61,0:18:36.03,Default,,0000,0000,0000,,Conto com você!
+Dialogue: 0,0:18:38.36,0:18:44.20,Default,,0000,0000,0000,,O dinheiro seria útil.\NNão estou ocupada. Posso ir.
+Dialogue: 0,0:18:38.36,0:18:44.20,Signs,,0000,0000,0000,,ASSOCIAÇÃO DE MORADORES\NFEIRA DAIFUKU
+Dialogue: 0,0:18:44.54,0:18:47.21,Default,,0000,0000,0000,,Acha que devo usar\Numa peruca de moicano?
+Dialogue: 0,0:18:47.62,0:18:49.54,Default,,0000,0000,0000,,Veja! Isso é tão fofo.
+Dialogue: 0,0:18:47.62,0:18:49.54,Signs,,0000,0000,0000,,MINHA VIDA COTIDIANA 39\NFEIRA DAIFUKU - TRAVE A BICICLETA!
+Dialogue: 0,0:18:51.25,0:18:52.79,Default,,0000,0000,0000,,Fui enganada!{\an}
+Dialogue: 0,0:18:51.25,0:18:52.79,Signs,,0000,0000,0000,,{\an8}MASCOTE DAIFUKU
+Dialogue: 0,0:18:53.21,0:18:56.59,Default,,0000,0000,0000,,Isso fede! O que é isso?\NO que estou fazendo?
+Dialogue: 0,0:18:56.88,0:18:58.43,Default,,0000,0000,0000,,Por que suportar isso?
+Dialogue: 0,0:18:58.59,0:19:01.26,Default,,0000,0000,0000,,É o grande plano da associação?
+Dialogue: 0,0:18:58.59,0:19:01.26,Signs,,0000,0000,0000,,FEIRA DAIFUKU
+Dialogue: 0,0:19:01.59,0:19:04.76,Default,,0000,0000,0000,,Vender daifuku com\Npoucas pessoas na rua?
+Dialogue: 0,0:19:06.73,0:19:07.81,Default,,0000,0000,0000,,Isso é embaraçoso!
+Dialogue: 0,0:19:08.56,0:19:10.35,Default,,0000,0000,0000,,É muito constrangedor!
+Dialogue: 0,0:19:10.77,0:19:13.52,Default,,0000,0000,0000,,Todos estão olhando como\Nse eu fosse idiota!
+Dialogue: 0,0:19:10.77,0:19:13.52,Signs,,0000,0000,0000,,TOFU TOKISADAME\NÀ MODA ANTIGA
+Dialogue: 0,0:19:13.61,0:19:16.69,Default,,0000,0000,0000,,Devo atrair as pessoas com\Nessa fantasia de Daifuku,
+Dialogue: 0,0:19:16.78,0:19:17.94,Default,,0000,0000,0000,,o mascote!
+Dialogue: 0,0:19:18.45,0:19:21.61,Default,,0000,0000,0000,,Mas não há olhos nem boca!\NSó um rosto grande e branco!
+Dialogue: 0,0:19:22.03,0:19:24.83,Default,,0000,0000,0000,,Como isso é um mascote Daifuku?
+Dialogue: 0,0:19:25.29,0:19:26.41,Default,,0000,0000,0000,,Sem personalidade!
+Dialogue: 0,0:19:27.33,0:19:29.66,Default,,0000,0000,0000,,Mas espere... Esta Feira Daifuku...
+Dialogue: 0,0:19:30.17,0:19:32.25,Default,,0000,0000,0000,,não é justo!
+Dialogue: 0,0:19:36.67,0:19:37.67,Default,,0000,0000,0000,,Desculpe...
+Dialogue: 0,0:19:43.01,0:19:44.76,Default,,0000,0000,0000,,Isso não está dando certo.
+Dialogue: 0,0:19:46.18,0:19:49.48,Default,,0000,0000,0000,,O que é isso? É nojento!
+Dialogue: 0,0:19:51.02,0:19:51.98,Default,,0000,0000,0000,,Toma essa!
+Dialogue: 0,0:19:52.27,0:19:54.86,Default,,0000,0000,0000,,Pare! Isso dói, então pare!
+Dialogue: 0,0:19:54.94,0:19:58.53,Default,,0000,0000,0000,,Pare com isso! Não é acolchoado!
+Dialogue: 0,0:19:58.94,0:20:02.57,Default,,0000,0000,0000,,Não é acolchoado! Pare!
+Dialogue: 0,0:20:02.78,0:20:03.87,Default,,0000,0000,0000,,Deem o fora!
+Dialogue: 0,0:20:04.20,0:20:05.99,Default,,0000,0000,0000,,Ela é louca! Vamos!
+Dialogue: 0,0:20:06.74,0:20:08.04,Default,,0000,0000,0000,,Que aberração!
+Dialogue: 0,0:20:08.83,0:20:10.50,Default,,0000,0000,0000,,Dá um tempo...
+Dialogue: 0,0:20:14.42,0:20:15.42,Default,,0000,0000,0000,,Yuuko!
+Dialogue: 0,0:20:30.89,0:20:33.19,Default,,0000,0000,0000,,Pare de manchar a imagem do daifuku.
+Dialogue: 0,0:20:36.31,0:20:39.32,Default,,0000,0000,0000,,Não aguento mais\Nver isso. Tire logo.
+Dialogue: 0,0:20:39.94,0:20:41.36,Default,,0000,0000,0000,,Funcionários inúteis...
+Dialogue: 0,0:20:43.11,0:20:46.12,Default,,0000,0000,0000,,Não fique parada.\NVá trabalhar atrás do balcão.
+Dialogue: 0,0:20:46.28,0:20:47.28,Default,,0000,0000,0000,,Entendeu?
+Dialogue: 0,0:20:47.53,0:20:48.49,Default,,0000,0000,0000,,Entendi.
+Dialogue: 0,0:20:48.62,0:20:51.62,Default,,0000,0000,0000,,Tudo por 10.000 ienes.\NPreciso aguentar firme.
+Dialogue: 0,0:20:58.00,0:21:00.88,Default,,0000,0000,0000,,Tokachi! Feijão Azuki!
+Dialogue: 0,0:21:00.96,0:21:03.17,Default,,0000,0000,0000,,- Eu quero sair.\N- Açúcar!
+Dialogue: 0,0:21:04.97,0:21:06.51,Default,,0000,0000,0000,,Tenho saudades de casa.
+Dialogue: 0,0:21:07.85,0:21:09.89,Default,,0000,0000,0000,,Alguém vai comprar?
+Dialogue: 0,0:21:10.22,0:21:12.48,Default,,0000,0000,0000,,Estão muito bem alinhados.
+Dialogue: 0,0:21:12.85,0:21:13.85,Default,,0000,0000,0000,,Com licença.
+Dialogue: 0,0:21:14.69,0:21:16.69,Default,,0000,0000,0000,,- Quanto custa um?\N- Um cliente!
+Dialogue: 0,0:21:17.02,0:21:18.23,Default,,0000,0000,0000,,Bem...
+Dialogue: 0,0:21:18.31,0:21:20.07,Default,,0000,0000,0000,,Será quanto custa...
+Dialogue: 0,0:21:20.36,0:21:22.49,Default,,0000,0000,0000,,Com licença, quanto custa o daifuku?
+Dialogue: 0,0:21:23.15,0:21:24.78,Default,,0000,0000,0000,,Qual o problema do açúcar?
+Dialogue: 0,0:21:26.03,0:21:29.41,Default,,0000,0000,0000,,Não vou fugir!\NUm morango não pode fugir!
+Dialogue: 0,0:21:31.37,0:21:33.29,Default,,0000,0000,0000,,Bem...
+Dialogue: 0,0:21:33.91,0:21:35.37,Default,,0000,0000,0000,,Pode levar de graça.
+Dialogue: 0,0:21:35.46,0:21:36.50,Default,,0000,0000,0000,,Legal! Que sorte!
+Dialogue: 0,0:21:46.80,0:21:49.68,Default,,0000,0000,0000,,Você acorda de manhã,\Nescova os dentes
+Dialogue: 0,0:21:49.97,0:21:52.68,Default,,0000,0000,0000,,Antes que perceba, são dez da noite
+Dialogue: 0,0:21:53.10,0:21:56.10,Default,,0000,0000,0000,,Outro dia se foi, cheio de risadas
+Dialogue: 0,0:21:56.19,0:21:58.36,Default,,0000,0000,0000,,Mais um dia cheio de alegria
+Dialogue: 0,0:21:59.23,0:22:02.15,Default,,0000,0000,0000,,Brincando com amigos, só de bobeira
+Dialogue: 0,0:22:02.40,0:22:05.11,Default,,0000,0000,0000,,Fazendo barulho e então eu vejo
+Dialogue: 0,0:22:05.49,0:22:06.86,Default,,0000,0000,0000,,Um vislumbre de você
+Dialogue: 0,0:22:07.07,0:22:08.32,Default,,0000,0000,0000,,E então nossos olhos se encontram
+Dialogue: 0,0:22:08.66,0:22:10.74,Default,,0000,0000,0000,,Coincidência ou não?
+Dialogue: 0,0:22:11.37,0:22:14.50,Default,,0000,0000,0000,,Nunca vou admitir\Nque é o primeiro amor
+Dialogue: 0,0:22:14.87,0:22:17.67,Default,,0000,0000,0000,,Isso não é algo que eu diria
+Dialogue: 0,0:22:17.83,0:22:23.67,Default,,0000,0000,0000,,Aí, vejo você de novo amanhã também
+Dialogue: 0,0:22:24.13,0:22:26.93,Default,,0000,0000,0000,,Quando eu fecho meus olhos eu vejo
+Dialogue: 0,0:22:27.18,0:22:30.18,Default,,0000,0000,0000,,Minha visão brilhando, cheia de você
+Dialogue: 0,0:22:30.35,0:22:33.35,Default,,0000,0000,0000,,Não foi muito divertido hoje?
+Dialogue: 0,0:22:33.56,0:22:37.98,Default,,0000,0000,0000,,Acho que estou apaixonada
+Dialogue: 0,0:22:42.98,0:22:45.65,Default,,0000,0000,0000,,Estou tão feliz, estou tão feliz
+Dialogue: 0,0:22:46.07,0:22:49.07,Default,,0000,0000,0000,,Prazer em conhecer, despertando amor
+Dialogue: 0,0:22:49.24,0:22:51.95,Default,,0000,0000,0000,,Te vejo amanhã também
+Dialogue: 0,0:22:52.28,0:22:54.58,Default,,0000,0000,0000,,Boa noite
+Dialogue: 0,0:22:55.50,0:22:59.46,Default,,0000,0000,0000,,Eu te vejo de novo Em\Nbreve nos meus sonhos
+Dialogue: 0,0:23:00.08,0:23:05.05,Default,,0000,0000,0000,,Boa noite
+Dialogue: 0,0:23:07.59,0:23:11.85,Signs,,0000,0000,0000,,MOSQUITO
+Dialogue: 0,0:23:24.98,0:23:28.11,Default,,0000,0000,0000,,Mais um dia de paz na\Nfamília Shinonome.
+Dialogue: 0,0:23:30.41,0:23:31.78,Default,,0000,0000,0000,,Olá! Sou o Rei!
+Dialogue: 0,0:23:31.87,0:23:35.20,Default,,0000,0000,0000,,Pensou xadrez, pensou cobra!\NDepois, mangusto!
+Dialogue: 0,0:23:35.41,0:23:37.83,Default,,0000,0000,0000,,Agora quero muito\Nviajar para Okinawa!
+Dialogue: 0,0:23:38.12,0:23:39.29,Default,,0000,0000,0000,,Vai ficar tudo bem!
+Dialogue: 0,0:23:39.54,0:23:42.63,Default,,0000,0000,0000,,O próximo será o Episódio 10.\NEstou ansiosa!{\an}
+Dialogue: 0,0:23:39.54,0:23:42.63,Signs,,0000,0000,0000,,{\an8}NARRAÇÃO: AYA HIRANO
