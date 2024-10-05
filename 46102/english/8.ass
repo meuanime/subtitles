@@ -1,0 +1,554 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: Default - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Ep_Title,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,3,0020,0020,0045,1
+Style: Next_Time,Arial,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,1,0027,0010,0060,1
+Style: sign_3019_24_Fuyuki_Yamamoto_,Arial,18,&H00F4FAFC,&H000000FF,&H00445F7F,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0244,0234,0112,1
+Style: sign_10194_114_Can_you_tell_who,Arial,16,&H00323232,&H000000FF,&H00FDFEFE,&H00000000,0,0,0,0,100,100,0,12,1,2,0,8,0212,0235,0225,1
+Style: sign_10194_113_Ayumu_Goriki,Arial,20,&H00F4FAFC,&H000000FF,&H008F852B,&H00000000,-1,0,0,0,100,100,0,11,1,2,0,8,0241,0252,0131,1
+Style: sign_10245_115_Can_you_tell_who,Arial,16,&H00323232,&H000000FF,&H00FDFEFE,&H00000000,0,0,0,0,100,100,0,12,1,2,0,8,0217,0230,0042,1
+Style: sign_10354_116_It_s_Kakihana__y,Arial,16,&H00323232,&H000000FF,&H0066FF80,&H00000000,0,0,0,0,100,100,0,12,1,2,0,8,0269,0082,0055,1
+Style: sign_10438_117_Wanna_get_drinks,Arial,16,&H00323232,&H000000FF,&H00FDFEFE,&H00000000,0,0,0,0,100,100,0,12,1,2,0,8,0212,0097,0151,1
+Style: sign_15631_176_Goriki_Clinic,Trebuchet MS,18,&H0078544D,&H000000FF,&H00271D13,&H0022180E,0,0,0,0,100,100,0,0,1,2,1,8,0417,0116,0142,1
+Style: sign_16840_209_To_Yamabiko__Don,Times New Roman,18,&H001D242C,&H000000FF,&H00D8F1F6,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,9,0246,0270,0018,1
+Style: sign_18591_240_Inbox,Arial,16,&H00E18D39,&H000000FF,&H00F5F8F6,&H00000000,-1,0,0,0,100,100,0,8,1,2,0,8,0291,0301,0055,1
+Style: sign_18591_241_Got_it___I_ll_st,Comic Sans MS,16,&H00464646,&H000000FF,&H00F7F7F7,&H00000000,-1,0,0,0,100,100,0,7,1,2,0,1,0248,0260,0150,1
+Style: sign_19753_265_Goriki,Arial,16,&H00E7E1C5,&H000000FF,&H005E4D33,&H00000000,-1,0,0,0,100,100,0,-12,1,2,0,8,0407,0181,0114,1
+Style: sign_23192_315_Mom,Arial,16,&H00F7F7F7,&H000000FF,&H00633318,&H00000000,-1,0,0,0,100,100,0,-6,1,2,0,8,0314,0284,0073,1
+Style: sign_28196_336__Declaration_of_,Arial,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,0020,0010,0045,1
+Style: sign_23868_323__Assault__Dobu_s,Arial,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,0020,0120,0045,1
+Style: sign_25350_348_New_message__Tae,Arial,16,&H0075818E,&H000000FF,&H00DCDEEC,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,1,0180,0069,0152,1
+Style: sign_25664_349_N_1_Grand_Prix_2,Times New Roman,22,&H003121F2,&H000000FF,&H005A5A5A,&H008E8E8E,-1,0,0,0,100,100,0,4,1,1,1,8,0195,0222,0034,0
+Style: sign_25664_350_Results_____Sche,Arial,16,&H00CBEEFE,&H000000FF,&H002474EB,&H008E8E8E,-1,0,0,0,100,100,0,4,1,3,0,8,0234,0242,0212,0
+Style: sign_25664_351_What_is_N_1_2021,Arial,16,&H00080808,&H000000FF,&H00F8F2E9,&H008E8E8E,-1,0,0,0,100,100,0,4,1,3,0,8,0117,0114,0273,0
+Style: sign_25707_352_30_Semifinalist_,Arial,16,&H001815AE,&H000000FF,&H00EDEEED,&H008E8E8E,-1,0,0,0,100,100,0,4,1,3,0,8,0000,0446,0042,0
+Style: sign_25707_353_Callop,Arial,16,&H00000000,&H000000FF,&H00EDEEED,&H008E8E8E,-1,0,0,0,100,100,0,4,1,3,0,8,0070,0516,0042,0
+Style: sign_25783_365_Homosapiens,Arial,25,&H00000000,&H000000FF,&H00EDEEED,&H008E8E8E,-1,0,0,0,100,100,0,3,1,3,0,8,0248,0209,0130,0
+Style: sign_26834_378_Recording_1_wav,Arial,13,&H00313131,&H000000FF,&H00F1F2EF,&H008E8E8E,0,-1,0,0,100,100,0,0,1,3,0,8,0250,0274,0161,0
+Style: sign_30130_427_Recording_1_wav,Arial,16,&H007E5F55,&H000000FF,&H00F1F2EF,&H008E8E8E,-1,0,0,0,100,100,0,-110,1,3,0,8,0388,0110,0245,0
+Style: sign_30167_428_End_Recording,Arial,14,&H00F5F2F1,&H000000FF,&H008E7C73,&H008E8E8E,-1,0,0,0,100,100,0,-110,1,3,0,8,0190,0339,0169,0
+Style: sign_31040_441_To__Little_Daimo,Arial,15,&H003B3B3B,&H000000FF,&H00FCFDFF,&H00FAFAFA,-1,0,0,0,100,100,0,5,1,3,0,8,0149,0354,0032,0
+Style: sign_31040_442_Subject_,Arial,15,&H003B3B3B,&H000000FF,&H00FCFDFF,&H00FAFAFA,-1,0,0,0,100,100,0,5,1,3,0,8,0158,0416,0066,0
+Style: sign_31040_443_Attachments_,Arial,15,&H003B3B3B,&H000000FF,&H00FCFDFF,&H00FAFAFA,-1,0,0,0,100,100,0,5,1,3,0,8,0157,0376,0098,0
+Style: sign_31040_444_Recording_1_wav,Arial,15,&H003B3B3B,&H000000FF,&H00FCFDFF,&H00FAFAFA,-1,0,0,0,100,100,0,5,1,3,0,8,0261,0246,0126,0
+Style: sign_31113_445_Message_Sent,Arial,22,&H00272727,&H000000FF,&H00FCFDFF,&H00FAFAFA,-1,0,0,0,100,100,0,4,1,3,0,8,0205,0271,0038,0
+Style: sign_31113_446_Your_message_has,Arial,17,&H00272727,&H000000FF,&H00FCFDFF,&H00FAFAFA,0,0,0,0,100,100,0,4,1,3,0,8,0174,0213,0177,0
+Style: sign_31113_447_Back,Arial,17,&H00FFFFFF,&H000000FF,&H00E7C441,&H00FAFAFA,-1,0,0,0,100,100,0,4,1,3,0,8,0285,0309,0277,0
+Style: sign_31207_448_Eiji_Kakihana__C,Arial,25,&H00FFFFFF,&H000000FF,&H00283557,&H00FAFAFA,-1,0,0,0,100,100,0,3,1,3,0,8,0230,0228,0118,0
+Style: sign_4919_56_Kabukicho_Ichiba,Arial,22,&H001300DB,&H000000FF,&H00F9FEFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0177,0177,0020,1
+Style: sign_31352_450_Kabukicho_Ichiba,Arial,22,&H001300DB,&H000000FF,&H00F9FEFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0189,0189,0020,1
+Style: Autograph,Times New Roman,16,&H00000000,&H000000FF,&H00CCEBF4,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0100,0010,0020,1
+Style: sign_28108_321_Kakihana_san____,Comic Sans MS,16,&H002C402D,&H000000FF,&H00F1F1F1,&H003E3E3E,-1,0,0,0,100,100,0,0,1,2,0,8,0093,0422,0268,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:04.25,0:01:05.66,Default - Top,SEKIGUCHI,0000,0000,0000,,This guy was a dud.
+Dialogue: 0,0:01:05.66,0:01:07.81,Default - Top,SEKIGUCHI,0000,0000,0000,,He's actually part-time janitor.
+Dialogue: 0,0:01:07.81,0:01:09.28,Default - Top,SEKIGUCHI,0000,0000,0000,,Not only that, but he's drowning in debt.
+Dialogue: 0,0:01:09.28,0:01:12.34,Default,YANO,0000,0000,0000,,Drowning in debt and desperate.
+Dialogue: 0,0:01:12.34,0:01:14.69,Default,YANO,0000,0000,0000,,Thought he could get away \Nwith lyin' about it.
+Dialogue: 0,0:01:14.69,0:01:18.26,Default,SEKIGUCHI,0000,0000,0000,,The only thing he had on him was this ring.
+Dialogue: 0,0:01:18.26,0:01:19.68,Default,YANO,0000,0000,0000,,An engagement ring? I could cry.
+Dialogue: 0,0:01:19.68,0:01:21.24,Default,YANO,0000,0000,0000,,So desperate to tie the knot he lied?
+Dialogue: 0,0:01:21.24,0:01:22.77,Default,YANO,0000,0000,0000,,Have middle-aged men's brains liquefied?
+Dialogue: 0,0:01:22.77,0:01:24.34,Default,YANO,0000,0000,0000,,Will he tie a noose instead\N after being tossed aside?
+Dialogue: 0,0:01:24.34,0:01:26.81,Default,YANO,0000,0000,0000,,An article of tribute for his fake honey.
+Dialogue: 0,0:01:26.81,0:01:30.07,Default,YANO,0000,0000,0000,,If you ask me, this wasn't worth the money.
+Dialogue: 0,0:01:30.07,0:01:32.23,Default,YANO,0000,0000,0000,,Who's got any use for this counterfeit?
+Dialogue: 0,0:01:32.23,0:01:36.02,Default,YANO,0000,0000,0000,,I've got a few ideas 'bout where he can stick it.
+Dialogue: 0,0:01:36.02,0:01:39.83,Default,KAKIHANA,0000,0000,0000,,Where's Shiho-chan? Is she all right?
+Dialogue: 0,0:01:39.83,0:01:41.28,Default,YANO,0000,0000,0000,,Hey, Kakihana-chan.
+Dialogue: 0,0:01:41.28,0:01:45.20,Default,YANO,0000,0000,0000,,If you still trust that girl you wanted to \Nget with, your brains are in the trash can.
+Dialogue: 0,0:01:45.20,0:01:49.76,Default,YANO,0000,0000,0000,,That calculating girl who flirted with you \Nfor your money took off and ran.
+Dialogue: 0,0:01:49.76,0:01:51.25,Default,YANO,0000,0000,0000,,In other words, it was a scam.
+Dialogue: 0,0:01:51.25,0:01:54.16,Default,YANO,0000,0000,0000,,I'm the one who told her to wait and\N see what your lame ass would do.
+Dialogue: 0,0:01:54.16,0:01:58.58,Default,YANO,0000,0000,0000,,Let you think you'd won before \Nsucking you dry and killing you.
+Dialogue: 0,0:02:01.46,0:02:04.79,Default,DOBU,0000,0000,0000,,That's all for today. \NI'll come up with a new plan.
+Dialogue: 0,0:02:05.89,0:02:08.73,sign_3019_24_Fuyuki_Yamamoto_,SIGN,0000,0000,0000,,Fuyuki Yamamoto\N {\fs14}Incoming Call
+Dialogue: 0,0:02:08.73,0:02:13.25,Default,DOBU,0000,0000,0000,,Hey, isn't this the guy you said \Nwanted your dash cam data?
+Dialogue: 0,0:02:13.25,0:02:14.28,Default,ODOKAWA,0000,0000,0000,,That's right.
+Dialogue: 0,0:02:14.80,0:02:16.73,Default,DOBU,0000,0000,0000,,Answer and put it on speakerphone.
+Dialogue: 0,0:02:19.65,0:02:20.45,Default,ODOKAWA,0000,0000,0000,,Hello?
+Dialogue: 0,0:02:20.45,0:02:23.06,Italics,YAMAMOTO,0000,0000,0000,,Ah, Odokawa-san. Could you \Ncome pick me up right away?
+Dialogue: 0,0:02:23.06,0:02:25.60,Default,ODOKAWA,0000,0000,0000,,This is sudden. Does it have to be me?
+Dialogue: 0,0:02:25.60,0:02:27.68,Italics,YAMAMOTO,0000,0000,0000,,Aren't most pickups sudden?
+Dialogue: 0,0:02:27.68,0:02:31.06,Italics,YAMAMOTO,0000,0000,0000,,It's one of those girls who \Ncan't be seen by the public.
+Dialogue: 0,0:02:31.06,0:02:32.14,Default,ODOKAWA,0000,0000,0000,,Where?
+Dialogue: 0,0:02:32.14,0:02:34.09,Italics,YAMAMOTO,0000,0000,0000,,A short distance away from Shibuya.
+Dialogue: 0,0:02:35.82,0:02:38.26,Default,ODOKAWA,0000,0000,0000,,Got it. I'll be there in ten minutes.
+Dialogue: 0,0:02:38.26,0:02:39.58,Italics,YAMAMOTO,0000,0000,0000,,Thanks.
+Dialogue: 0,0:02:41.51,0:02:45.89,Default,ODOKAWA,0000,0000,0000,,What should I do? He'll probably \Nask for my dash cam data.
+Dialogue: 0,0:02:49.27,0:02:51.45,Default,DOBU,0000,0000,0000,,Let me ride in the trunk.
+Dialogue: 0,0:02:51.45,0:02:54.88,Default,DOBU,0000,0000,0000,,I'll eavesdrop on your conversation \Nthrough your phone.
+Dialogue: 0,0:02:55.73,0:03:00.53,Default,ODOKAWA,0000,0000,0000,,I can't do that. As far as I'm concerned, \Nhe's a harmless passenger.
+Dialogue: 0,0:03:00.53,0:03:04.36,Default,DOBU,0000,0000,0000,,Then ask him why he really wants the data,
+Dialogue: 0,0:03:04.36,0:03:07.91,Default,DOBU,0000,0000,0000,,and if he's connected to Yano, \Nthen tell me about it later.
+Dialogue: 0,0:03:07.91,0:03:09.91,Default,ODOKAWA,0000,0000,0000,,Don't you think he'd lie about that?
+Dialogue: 0,0:03:09.91,0:03:13.29,Default,DOBU,0000,0000,0000,,That's right. That's why violence \Nis the only way to get people to talk.
+Dialogue: 0,0:03:13.29,0:03:15.13,Default,DOBU,0000,0000,0000,,Let me meet him.
+Dialogue: 0,0:03:15.13,0:03:17.50,Default,DOBU,0000,0000,0000,,I'm the one who has the dash cam data.
+Dialogue: 0,0:03:17.50,0:03:19.63,Default,DOBU,0000,0000,0000,,I'm sure Yamamoto wants to meet me, too.
+Dialogue: 0,0:03:19.63,0:03:21.04,Default,ODOKAWA,0000,0000,0000,,I can't let you do that.
+Dialogue: 0,0:03:21.04,0:03:23.56,Default,ODOKAWA,0000,0000,0000,,I have to go. I told him \NI'd be there in ten minutes.
+Dialogue: 0,0:03:23.56,0:03:27.72,Default,DOBU,0000,0000,0000,,Fine. If he asks for your \Ndash cam data, tell him this.
+Dialogue: 0,0:03:28.05,0:03:30.02,Default,DOBU,0000,0000,0000,,You'll sell it to him for one billion yen.
+Dialogue: 0,0:03:35.75,0:03:38.94,Default,YAMAMOTO,0000,0000,0000,,Sorry, Odokawa-san. Could you take us \Nto Shibaura Harbor in a hurry?
+Dialogue: 0,0:03:39.24,0:03:40.53,Default,ODOKAWA,0000,0000,0000,,The harbor?
+Dialogue: 0,0:03:40.89,0:03:43.41,Default,ODOKAWA,0000,0000,0000,,Hey, it's the girl who likes hot springs.
+Dialogue: 0,0:03:47.32,0:03:51.33,Default,ODOKAWA,0000,0000,0000,,A calico cat. Where have I seen one before?
+Dialogue: 0,0:03:51.33,0:03:53.33,Default,YAMAMOTO,0000,0000,0000,,What are you talking about, Odokawa-san?
+Dialogue: 0,0:03:56.72,0:04:01.01,Default,ICHIMURA,0000,0000,0000,,Hey, am I going to meet Ya—that guy?
+Dialogue: 0,0:04:01.01,0:04:04.47,Default,YAMAMOTO,0000,0000,0000,,Yeah. I'm sorry, but if you want to quit, \Nyou have to tell him yourself.
+Dialogue: 0,0:04:04.47,0:04:06.74,Default,ICHIMURA,0000,0000,0000,,I worked really hard, though.
+Dialogue: 0,0:04:06.74,0:04:08.52,Default,YAMAMOTO,0000,0000,0000,,Apparently, that target didn't work out.
+Dialogue: 0,0:04:08.52,0:04:10.87,Default,ICHIMURA,0000,0000,0000,,What? You mean he didn't have money?
+Dialogue: 0,0:04:10.87,0:04:12.69,Default,ICHIMURA,0000,0000,0000,,Is that old man serious?
+Dialogue: 0,0:04:12.98,0:04:14.67,Default,YAMAMOTO,0000,0000,0000,,Oh, right. I just remembered.
+Dialogue: 0,0:04:14.67,0:04:18.57,Default,YAMAMOTO,0000,0000,0000,,Have you considered my request \Nto hand over your dash cam data?
+Dialogue: 0,0:04:18.57,0:04:19.85,Default,ODOKAWA,0000,0000,0000,,Yeah, sure.
+Dialogue: 0,0:04:19.85,0:04:20.65,Default,YAMAMOTO,0000,0000,0000,,Really?
+Dialogue: 0,0:04:20.65,0:04:21.70,Default,ODOKAWA,0000,0000,0000,,I'll sell it to you.
+Dialogue: 0,0:04:21.70,0:04:22.56,Default,YAMAMOTO,0000,0000,0000,,For how much?
+Dialogue: 0,0:04:22.99,0:04:24.11,Default,ODOKAWA,0000,0000,0000,,One billion.
+Dialogue: 0,0:04:25.69,0:04:28.24,Default,YAMAMOTO,0000,0000,0000,,That's the kind of price \Na child would come up with.
+Dialogue: 0,0:04:30.87,0:04:33.23,Default,YAMAMOTO,0000,0000,0000,,What? You're being serious?
+Dialogue: 0,0:04:33.23,0:04:34.54,Default,ODOKAWA,0000,0000,0000,,Super serious.
+Dialogue: 0,0:04:34.54,0:04:37.64,Default,YAMAMOTO,0000,0000,0000,,This is ridiculous, Odokawa-san. \NYou're gouging me here.
+Dialogue: 0,0:04:37.64,0:04:40.38,Default,ODOKAWA,0000,0000,0000,,I found someone who said \Nthey'd buy it for 900 million.
+Dialogue: 0,0:04:40.38,0:04:42.08,Default,ODOKAWA,0000,0000,0000,,That's why I want one billion.
+Dialogue: 0,0:04:42.46,0:04:43.67,Default,YAMAMOTO,0000,0000,0000,,You're lying.
+Dialogue: 0,0:04:47.91,0:04:48.86,Default,YAMAMOTO,0000,0000,0000,,Who is it?
+Dialogue: 0,0:04:49.74,0:04:51.08,Default,ODOKAWA,0000,0000,0000,,I can't tell you that.
+Dialogue: 0,0:04:56.56,0:04:59.91,Default,YAMAMOTO,0000,0000,0000,,If that's true, then I need \Nto discuss this with someone.
+Dialogue: 0,0:04:59.91,0:05:02.20,Default,ODOKAWA,0000,0000,0000,,Discuss it all you want.
+Dialogue: 0,0:05:02.20,0:05:05.24,Default,ODOKAWA,0000,0000,0000,,I wouldn't mind 900 million or one billion.
+Dialogue: 0,0:05:06.49,0:05:08.03,Default,YAMAMOTO,0000,0000,0000,,I'll be in touch.
+Dialogue: 0,0:05:26.68,0:05:28.43,Default,SEKIGUCHI,0000,0000,0000,,Doesn't this seem like not enough profit?
+Dialogue: 0,0:05:28.43,0:05:29.98,Default,SEKIGUCHI,0000,0000,0000,,Is this all we make from concerts?
+Dialogue: 0,0:05:29.98,0:05:32.64,Default,YAMAMOTO,0000,0000,0000,,They weren't the only ones performing today.
+Dialogue: 0,0:05:32.64,0:05:34.48,Default,SEKIGUCHI,0000,0000,0000,,Why's she here?
+Dialogue: 0,0:05:34.48,0:05:36.66,Default,YAMAMOTO,0000,0000,0000,,She doesn't want to run \Nbadger games anymore,
+Dialogue: 0,0:05:36.66,0:05:38.77,Default,YAMAMOTO,0000,0000,0000,,so she's here to talk to Yano-san.
+Dialogue: 0,0:05:39.21,0:05:40.29,Default,SEKIGUCHI,0000,0000,0000,,Ah.
+Dialogue: 0,0:05:42.60,0:05:44.06,Default,SEKIGUCHI,0000,0000,0000,,He's busy right now.
+Dialogue: 0,0:05:45.73,0:05:48.22,Default,YAMAMOTO,0000,0000,0000,,More importantly, I've got some bad news.
+Dialogue: 0,0:05:48.22,0:05:49.94,Default,YAMAMOTO,0000,0000,0000,,Could I talk to him for a few minutes?
+Dialogue: 0,0:05:49.94,0:05:51.20,Default,SEKIGUCHI,0000,0000,0000,,Bad news?
+Dialogue: 0,0:05:51.20,0:05:52.73,Default,YAMAMOTO,0000,0000,0000,,It's about the dash cam.
+Dialogue: 0,0:05:51.61,0:05:53.20,Default,KAKIHANA,0000,0000,0000,,Shiho-chan!
+Dialogue: 0,0:05:53.20,0:05:55.45,Default,KAKIHANA,0000,0000,0000,,You're being tricked, right?
+Dialogue: 0,0:05:55.45,0:05:58.17,Default,KAKIHANA,0000,0000,0000,,I'll protect you from these guys!
+Dialogue: 0,0:06:03.71,0:06:07.46,Default,KAKIHANA,0000,0000,0000,,It's okay, Shiho-chan. \NI'm actually pretty strong.
+Dialogue: 0,0:06:07.46,0:06:13.58,Default,KAKIHANA,0000,0000,0000,,I've mastered every martial art there is, \Nfrom sumo for kids to whatever-jiujitsu.
+Dialogue: 0,0:06:13.58,0:06:16.56,Default,ICHIMURA,0000,0000,0000,,Don't get the wrong idea, mister. \NSeriously, I can't even.
+Dialogue: 0,0:06:16.56,0:06:19.92,Default,KAKIHANA,0000,0000,0000,,Shiho-chan, they're making \Nyou say that, aren't they?
+Dialogue: 0,0:06:19.92,0:06:21.33,Default,KAKIHANA,0000,0000,0000,,Didn't we have fun together?
+Dialogue: 0,0:06:21.33,0:06:23.52,Default,KAKIHANA,0000,0000,0000,,We ate lots of good food together!
+Dialogue: 0,0:06:24.17,0:06:26.63,Default,ICHIMURA,0000,0000,0000,,Spending time with you was painful.
+Dialogue: 0,0:06:26.63,0:06:29.78,Default,ICHIMURA,0000,0000,0000,,That's why I want to quit \Nrunning badger games.
+Dialogue: 0,0:06:29.78,0:06:32.28,Default,KAKIHANA,0000,0000,0000,,You're lying! Liar!
+Dialogue: 0,0:06:32.28,0:06:34.36,Default,KAKIHANA,0000,0000,0000,,You're not the kind of girl who says that!
+Dialogue: 0,0:06:34.36,0:06:35.78,Default,KAKIHANA,0000,0000,0000,,Shiho-chan, you're a liar!
+Dialogue: 0,0:06:35.78,0:06:38.04,Default,ICHIMURA,0000,0000,0000,,You're the liar, you bum. You're broke.
+Dialogue: 0,0:06:38.04,0:06:42.07,Default,KAKIHANA,0000,0000,0000,,Why?! Why would you say that?!
+Dialogue: 0,0:06:42.07,0:06:45.92,Default,KAKIHANA,0000,0000,0000,,I don't believe you! You're lying!
+Dialogue: 0,0:06:50.26,0:06:52.30,Default,SEKIGUCHI,0000,0000,0000,,Shut up.
+Dialogue: 0,0:07:05.15,0:07:07.26,sign_10194_113_Ayumu_Goriki,SIGN,0000,0000,0000,,Ayumu Goriki
+Dialogue: 0,0:07:05.15,0:07:07.28,sign_10194_114_Can_you_tell_who,SIGN,0000,0000,0000,,Can you tell who this is?
+Dialogue: 0,0:07:07.28,0:07:09.82,sign_10245_115_Can_you_tell_who,SIGN,0000,0000,0000,,Can you tell who this is?
+Dialogue: 0,0:07:11.82,0:07:17.37,sign_10354_116_It_s_Kakihana__y,SIGN,0000,0000,0000,,It's Kakihana, you unemployed bum.
+Dialogue: 0,0:07:15.33,0:07:17.37,sign_10438_117_Wanna_get_drinks,SIGN,0000,0000,0000,,Wanna get drinks at Yamabiko right now?
+Dialogue: 0,0:07:19.35,0:07:21.78,Default,ODOKAWA,0000,0000,0000,,It's been a while. I guess I'll go.
+Dialogue: 0,0:07:22.37,0:07:25.34,sign_15631_176_Goriki_Clinic,SIGN,0000,0000,0000,,Goriki Clinic
+Dialogue: 0,0:07:23.82,0:07:26.61,Default,GORIKI,0000,0000,0000,,Can you tell from this photo \Nthat this is Kakihana?
+Dialogue: 0,0:07:26.61,0:07:29.32,Default,SHIRAKAWA,0000,0000,0000,,I guess I'd believe you \Nif you told me it was him.
+Dialogue: 0,0:07:29.32,0:07:32.09,Default,SHIRAKAWA,0000,0000,0000,,I doubt I'd know if I were just \Nshown this photo without context.
+Dialogue: 0,0:07:32.09,0:07:33.55,Default,GORIKI,0000,0000,0000,,Yeah.
+Dialogue: 0,0:07:34.06,0:07:36.31,Default,SHIRAKAWA,0000,0000,0000,,It only took Odokawa-san \Na second to identify him.
+Dialogue: 0,0:07:36.31,0:07:38.10,Default,SHIRAKAWA,0000,0000,0000,,Does that tell us anything?
+Dialogue: 0,0:07:38.10,0:07:41.88,Default,GORIKI,0000,0000,0000,,At first I thought Odokawa \Nhad an exceptional memory,
+Dialogue: 0,0:07:41.88,0:07:43.86,Default,GORIKI,0000,0000,0000,,but it doesn't feel right.
+Dialogue: 0,0:07:43.86,0:07:47.39,Default,SHIRAKAWA,0000,0000,0000,,You're right. I thought \Nmaybe he had good instincts.
+Dialogue: 0,0:07:47.39,0:07:49.78,Default,GORIKI,0000,0000,0000,,It's almost like synesthesia.
+Dialogue: 0,0:07:50.15,0:07:51.38,Default,SHIRAKAWA,0000,0000,0000,,Synesthesia?
+Dialogue: 0,0:07:51.38,0:07:53.52,Default,GORIKI,0000,0000,0000,,It's when one sense is stimulated,
+Dialogue: 0,0:07:53.52,0:07:57.13,Default,GORIKI,0000,0000,0000,,and a completely different \Nsense is triggered.
+Dialogue: 0,0:07:57.13,0:08:01.75,Default,GORIKI,0000,0000,0000,,Like seeing colors or feeling textures \Nwhen you hear sounds or see letters.
+Dialogue: 0,0:08:01.75,0:08:04.96,Default,GORIKI,0000,0000,0000,,Maybe Odokawa has some kind \Nof indicator for telling people apart
+Dialogue: 0,0:08:04.96,0:08:07.55,Default,GORIKI,0000,0000,0000,,and is basing it on that.
+Dialogue: 0,0:08:07.55,0:08:10.39,Default,SHIRAKAWA,0000,0000,0000,,I don't know if this is related,
+Dialogue: 0,0:08:10.39,0:08:13.47,Default,SHIRAKAWA,0000,0000,0000,,but apparently Odokawa-san has been \Nspeaking to someone in his home,
+Dialogue: 0,0:08:13.47,0:08:16.18,Default,SHIRAKAWA,0000,0000,0000,,and he's clearly not talking to himself.
+Dialogue: 0,0:08:16.79,0:08:20.38,Default,GORIKI,0000,0000,0000,,Regarding that, if there really \Nisn't anybody there,
+Dialogue: 0,0:08:20.38,0:08:22.70,Default,GORIKI,0000,0000,0000,,then maybe it's an imaginary friend.
+Dialogue: 0,0:08:23.47,0:08:26.36,Default,SHIRAKAWA,0000,0000,0000,,Like a figment of his imagination?
+Dialogue: 0,0:08:26.36,0:08:27.52,Default,GORIKI,0000,0000,0000,,Yeah.
+Dialogue: 0,0:08:27.52,0:08:30.57,Default,GORIKI,0000,0000,0000,,You might already know, but he's lived alone
+Dialogue: 0,0:08:30.57,0:08:33.78,Default,GORIKI,0000,0000,0000,,since his parents abandoned him \Nwhen he was in grade school.
+Dialogue: 0,0:08:34.20,0:08:35.99,Default,SHIRAKAWA,0000,0000,0000,,Alone?
+Dialogue: 0,0:08:35.99,0:08:38.61,Default,GORIKI,0000,0000,0000,,Apparently some kind of NPO \Nthat supports orphans
+Dialogue: 0,0:08:38.61,0:08:41.32,Default,GORIKI,0000,0000,0000,,sent him money to cover his living expenses.
+Dialogue: 0,0:08:41.32,0:08:43.04,Default,GORIKI,0000,0000,0000,,He pretends that he wanted for nothing
+Dialogue: 0,0:08:43.04,0:08:45.81,Default,GORIKI,0000,0000,0000,,and experienced no \Ndifficulties because of that.
+Dialogue: 0,0:08:45.81,0:08:48.45,Default,GORIKI,0000,0000,0000,,But if he's invented an imaginary friend,
+Dialogue: 0,0:08:48.45,0:08:52.46,Default,GORIKI,0000,0000,0000,,then he may be under more \Nstress than he realizes.
+Dialogue: 0,0:08:53.23,0:08:56.31,Default,SHIRAKAWA,0000,0000,0000,,When did the two of you meet?
+Dialogue: 0,0:08:56.31,0:08:58.09,Default,GORIKI,0000,0000,0000,,About three years ago, I think.
+Dialogue: 0,0:08:58.09,0:09:01.36,Default,SHIRAKAWA,0000,0000,0000,,I thought it was this year when he first \Nstarted seeing you for consultations.
+Dialogue: 0,0:09:01.36,0:09:03.85,Default,SHIRAKAWA,0000,0000,0000,,Had he been coming \Nto the clinic before that?
+Dialogue: 0,0:09:03.85,0:09:07.98,Default,GORIKI,0000,0000,0000,,No. I rode in his taxi as a passenger first.
+Dialogue: 0,0:09:07.98,0:09:09.54,Flashback_Italics,SHIBAGAKI,0000,0000,0000,,It's finally starting.
+Dialogue: 0,0:09:09.54,0:09:10.27,Flashback_Italics,BABA,0000,0000,0000,,Sure has.
+Dialogue: 0,0:09:10.27,0:09:13.18,Flashback_Italics,SHIBAGAKI,0000,0000,0000,,We used to broadcast in just Osaka, \Nbut now we've gone national.
+Dialogue: 0,0:09:13.18,0:09:16.26,Flashback_Italics,BABA,0000,0000,0000,,That's right. Starting this year, \Nthe Homosapiens have expanded to Tokyo.
+Dialogue: 0,0:09:16.26,0:09:17.64,Flashback_Italics,SHIBAGAKI,0000,0000,0000,,For real. I'm overjoyed.
+Dialogue: 0,0:09:17.24,0:09:19.13,Flashback,GORIKI,0000,0000,0000,,Could you turn that off? It's annoying.
+Dialogue: 0,0:09:17.64,0:09:18.25,Flashback_Italics,BABA,0000,0000,0000,,For sure.
+Dialogue: 0,0:09:18.25,0:09:19.49,Flashback_Italics,SHIBAGAKI,0000,0000,0000,,Got here sooner than I expected.
+Dialogue: 0,0:09:19.49,0:09:20.20,Flashback_Italics,BABA,0000,0000,0000,,Yeah, seriously.
+Dialogue: 0,0:09:20.20,0:09:21.65,Flashback_Italics,SHIBAGAKI,0000,0000,0000,,Guess we should keep trying, then—
+Dialogue: 0,0:09:28.43,0:09:29.85,Flashback,ODOKAWA,0000,0000,0000,,How old are you?
+Dialogue: 0,0:09:30.92,0:09:32.56,Flashback,GORIKI,0000,0000,0000,,38.
+Dialogue: 0,0:09:33.17,0:09:36.19,Flashback,ODOKAWA,0000,0000,0000,,We're the same age? \NYou seem so dignified, though.
+Dialogue: 0,0:09:36.63,0:09:39.54,Flashback,GORIKI,0000,0000,0000,,Hey, that's rude. Mind your manners.
+Dialogue: 0,0:09:39.54,0:09:43.12,Flashback,ODOKAWA,0000,0000,0000,,Manners? You act like you're real important.
+Dialogue: 0,0:09:43.12,0:09:45.06,Flashback,ODOKAWA,0000,0000,0000,,What, do you think \Nthe customer is always right?
+Dialogue: 0,0:09:45.06,0:09:47.10,Flashback,ODOKAWA,0000,0000,0000,,I bet you look down on taxi drivers.
+Dialogue: 0,0:09:47.10,0:09:50.14,Flashback,GORIKI,0000,0000,0000,,You got some kind of pent-up anger, or what?
+Dialogue: 0,0:09:50.14,0:09:52.98,Flashback,GORIKI,0000,0000,0000,,It's not anyone's fault \Nthat your life isn't going well.
+Dialogue: 0,0:09:52.98,0:09:55.32,Flashback,GORIKI,0000,0000,0000,,It's not your environment's \Nfault, either. It's your fault.
+Dialogue: 0,0:09:55.32,0:09:59.01,Flashback,GORIKI,0000,0000,0000,,You should resolve it yourself \Nwithout bothering others.
+Dialogue: 0,0:09:59.01,0:10:02.20,Flashback,ODOKAWA,0000,0000,0000,,Of course. Doctors speak \Ndifferently from the rest of us.
+Dialogue: 0,0:10:02.55,0:10:04.27,Flashback,ODOKAWA,0000,0000,0000,,Hey, that got to you.
+Dialogue: 0,0:10:04.27,0:10:06.84,Flashback,ODOKAWA,0000,0000,0000,,That's charming. Good for you.
+Dialogue: 0,0:10:06.84,0:10:08.61,Flashback,GORIKI,0000,0000,0000,,How'd you know?
+Dialogue: 0,0:10:08.61,0:10:10.79,Flashback,ODOKAWA,0000,0000,0000,,I'm psychic.
+Dialogue: 0,0:10:12.25,0:10:15.00,Flashback,GORIKI,0000,0000,0000,,Then why didn't you know my age?
+Dialogue: 0,0:10:15.00,0:10:17.62,Flashback,ODOKAWA,0000,0000,0000,,Psychic powers come in a variety of flavors.
+Dialogue: 0,0:10:17.62,0:10:20.18,Flashback,ODOKAWA,0000,0000,0000,,I can see souls.
+Dialogue: 0,0:10:20.18,0:10:24.32,Flashback,ODOKAWA,0000,0000,0000,,And your soul's been screaming, "I'm a doctor."
+Dialogue: 0,0:10:24.71,0:10:29.62,Flashback,ODOKAWA,0000,0000,0000,,As for your age, I couldn't tell because \Nyour soul and body are so separated.
+Dialogue: 0,0:10:30.81,0:10:32.70,Flashback,ODOKAWA,0000,0000,0000,,In other words, you look old.
+Dialogue: 0,0:10:36.82,0:10:38.16,Flashback,GORIKI,0000,0000,0000,,You're funny.
+Dialogue: 0,0:10:38.16,0:10:41.95,Flashback,GORIKI,0000,0000,0000,,In that case, can you hear what my soul \Nis shouting now? What's it saying?
+Dialogue: 0,0:10:41.95,0:10:44.56,Flashback,ODOKAWA,0000,0000,0000,,"Don't turn. Head straight ahead."
+Dialogue: 0,0:10:47.56,0:10:51.26,Flashback,ODOKAWA,0000,0000,0000,,Turning here gets us to your clinic faster.
+Dialogue: 0,0:10:51.72,0:10:55.51,Default,GORIKI,0000,0000,0000,,I was shocked. It really {\i1}was{\i0} a shortcut.
+Dialogue: 0,0:10:55.51,0:10:58.92,Default,GORIKI,0000,0000,0000,,At first, I thought he had \Nan exceptional sense of smell
+Dialogue: 0,0:10:58.92,0:11:02.01,Default,GORIKI,0000,0000,0000,,that allowed him to pick up on the \Ndistinctive hospital smell coming off of me.
+Dialogue: 0,0:11:02.01,0:11:04.16,Default,SHIRAKAWA,0000,0000,0000,,But you think it's synesthesia?
+Dialogue: 0,0:11:04.16,0:11:06.76,Default,GORIKI,0000,0000,0000,,When I asked how he did it later, \Nhe said it was nothing.
+Dialogue: 0,0:11:06.76,0:11:09.84,Default,GORIKI,0000,0000,0000,,He'd just had me as a passenger before.
+Dialogue: 0,0:11:09.84,0:11:11.86,Default,SHIRAKAWA,0000,0000,0000,,So you thought it was his memory.
+Dialogue: 0,0:11:12.63,0:11:15.71,Default,GORIKI,0000,0000,0000,,Yeah. I thought it was impressive, if true.
+Dialogue: 0,0:11:15.71,0:11:17.96,Default,GORIKI,0000,0000,0000,,That's why synesthesia makes sense to me.
+Dialogue: 0,0:11:19.65,0:11:21.31,Default,GORIKI,0000,0000,0000,,I'm going to Yamabiko for a drink.
+Dialogue: 0,0:11:21.31,0:11:22.96,Default,GORIKI,0000,0000,0000,,Shirakawa-san, do you want to come with me?
+Dialogue: 0,0:11:25.13,0:11:28.82,Default,SHIRAKAWA,0000,0000,0000,,If I go, I imagine Odokawa-san would leave.
+Dialogue: 0,0:11:31.81,0:11:34.66,Default,ODOKAWA,0000,0000,0000,,Mochi kinchaku and daikon radish.
+Dialogue: 0,0:11:34.66,0:11:37.54,Default,ODOKAWA,0000,0000,0000,,I'd like some kind of nerimono, too.
+Dialogue: 0,0:11:39.04,0:11:42.34,Default,ODOKAWA,0000,0000,0000,,Wait a minute. You've got \Na Donraku Shofutei autograph.
+Dialogue: 0,0:11:42.34,0:11:45.80,sign_16840_209_To_Yamabiko__Don,SIGN,0000,0000,0000,,To Yamabiko \N{\fs25}Donraku
+Dialogue: 0,0:11:42.34,0:11:45.80,Default,TAEKO,0000,0000,0000,,That's right. He stopped by the other day.
+Dialogue: 0,0:11:45.80,0:11:47.48,Default,ODOKAWA,0000,0000,0000,,Really? Wow.
+Dialogue: 0,0:11:47.48,0:11:49.19,Default,GORIKI,0000,0000,0000,,You sure do like him, Odokawa.
+Dialogue: 0,0:11:49.19,0:11:52.48,Default,TAEKO,0000,0000,0000,,He sat right over there with an \Nincredibly cross look on his face.
+Dialogue: 0,0:11:52.48,0:11:54.00,Default,GORIKI,0000,0000,0000,,He came alone?
+Dialogue: 0,0:11:54.00,0:11:57.59,Default,TAEKO,0000,0000,0000,,He had an attendant with him, \Nas well as a driver outside.
+Dialogue: 0,0:11:57.59,0:11:59.11,Default,ODOKAWA,0000,0000,0000,,What did they talk about?
+Dialogue: 0,0:11:59.57,0:12:02.05,Default,TAEKO,0000,0000,0000,,How young comedians these days \Nare obsessed with innovation
+Dialogue: 0,0:12:02.05,0:12:03.64,Default,TAEKO,0000,0000,0000,,and don't have the basics down.
+Dialogue: 0,0:12:03.64,0:12:06.99,Default,TAEKO,0000,0000,0000,,Or how he pretends he doesn't mince words.
+Dialogue: 0,0:12:06.99,0:12:09.86,Default,TAEKO,0000,0000,0000,,Or how being a commentator \Nor judging comedy contests
+Dialogue: 0,0:12:09.86,0:12:11.55,Default,TAEKO,0000,0000,0000,,doesn't benefit him in any way.
+Dialogue: 0,0:12:11.55,0:12:13.46,Default,TAEKO,0000,0000,0000,,I thought he was getting mad,
+Dialogue: 0,0:12:13.46,0:12:16.26,Default,TAEKO,0000,0000,0000,,but then, he started cackling \Nwhile reminiscing about his old mentor.
+Dialogue: 0,0:12:16.26,0:12:17.72,Default,ODOKAWA,0000,0000,0000,,You totally eavesdropped.
+Dialogue: 0,0:12:19.59,0:12:22.03,Default,GORIKI,0000,0000,0000,,Oh, right, Odokawa. Let me quiz you.
+Dialogue: 0,0:12:22.03,0:12:22.90,Default,ODOKAWA,0000,0000,0000,,What's gotten into you?
+Dialogue: 0,0:12:22.90,0:12:25.15,Default,ODOKAWA,0000,0000,0000,,Does losing your job make you \Nturn back into a child?
+Dialogue: 0,0:12:25.15,0:12:26.21,Default,TAEKO,0000,0000,0000,,I'd like to play, too.
+Dialogue: 0,0:12:26.21,0:12:28.39,Default,GORIKI,0000,0000,0000,,Sure. You can join us.
+Dialogue: 0,0:12:28.66,0:12:29.98,Default,GORIKI,0000,0000,0000,,Can you tell who this is?
+Dialogue: 0,0:12:31.26,0:12:32.76,Default,ODOKAWA,0000,0000,0000,,Is this your thing these days?
+Dialogue: 0,0:12:32.76,0:12:35.27,Default,TAEKO,0000,0000,0000,,How am I supposed to know?
+Dialogue: 0,0:12:35.95,0:12:39.52,Default,GORIKI,0000,0000,0000,,Exactly. But Odokawa \Nidentified him immediately.
+Dialogue: 0,0:12:39.52,0:12:41.53,Default,ODOKAWA,0000,0000,0000,,It's clearly Kakihana.
+Dialogue: 0,0:12:41.53,0:12:43.72,Default,TAEKO,0000,0000,0000,,But that's just how Odokawa-san is.
+Dialogue: 0,0:12:43.72,0:12:46.45,Default,TAEKO,0000,0000,0000,,He remembers the faces \Nof customers I don't recognize.
+Dialogue: 0,0:12:46.45,0:12:48.62,Default,TAEKO,0000,0000,0000,,I bet you'd be good at customer service.
+Dialogue: 0,0:12:48.62,0:12:51.12,Default,ODOKAWA,0000,0000,0000,,I can't unless they make an impression.
+Dialogue: 0,0:12:51.12,0:12:54.07,Default,GORIKI,0000,0000,0000,,That's not the question here.
+Dialogue: 0,0:12:55.37,0:12:57.75,Default,GORIKI,0000,0000,0000,,Do you know who this is?
+Dialogue: 0,0:12:55.37,0:12:59.38,sign_18591_240_Inbox,SIGN,0000,0000,0000,,Inbox
+Dialogue: 0,0:12:55.37,0:12:59.38,sign_18591_241_Got_it___I_ll_st,SIGN,0000,0000,0000,,Got it.\N I'll stop by later.
+Dialogue: 0,0:12:57.75,0:12:59.38,Default,ODOKAWA,0000,0000,0000,,Of course not.
+Dialogue: 0,0:12:59.38,0:13:00.13,Default,GORIKI,0000,0000,0000,,Really?
+Dialogue: 0,0:13:00.13,0:13:01.00,Default,ODOKAWA,0000,0000,0000,,Really.
+Dialogue: 0,0:13:01.00,0:13:04.77,Default,TAEKO,0000,0000,0000,,Odokawa-san, are you psychic? \NLike Psychometrer What's-his-name?
+Dialogue: 0,0:13:04.77,0:13:05.88,Default,GORIKI,0000,0000,0000,,What's this, then?
+Dialogue: 0,0:13:06.74,0:13:07.60,Default,ODOKAWA,0000,0000,0000,,A bird?
+Dialogue: 0,0:13:07.60,0:13:09.89,Default,TAEKO,0000,0000,0000,,Even I know that one. It's a bird.
+Dialogue: 0,0:13:10.22,0:13:11.17,Default,GORIKI,0000,0000,0000,,Correct.
+Dialogue: 0,0:13:11.17,0:13:12.24,Default,ODOKAWA,0000,0000,0000,,Are you making fun of me?
+Dialogue: 0,0:13:12.24,0:13:13.43,Default,GORIKI,0000,0000,0000,,Next, this one.
+Dialogue: 0,0:13:14.55,0:13:15.89,Default,ODOKAWA,0000,0000,0000,,Shirakawa-san.
+Dialogue: 0,0:13:16.53,0:13:18.23,Default,ODOKAWA,0000,0000,0000,,What the hell have you been up to?
+Dialogue: 0,0:13:18.23,0:13:20.88,Default,TAEKO,0000,0000,0000,,That's Shirakawa-san? \NIs this some kind of kink?
+Dialogue: 0,0:13:20.88,0:13:23.53,Default,TAEKO,0000,0000,0000,,Mixing your personal and professional\N lives? My, how scandalous.
+Dialogue: 0,0:13:23.53,0:13:24.38,Default,GORIKI,0000,0000,0000,,I see.
+Dialogue: 0,0:13:24.38,0:13:25.92,Default,ODOKAWA,0000,0000,0000,,What are you trying to pull?
+Dialogue: 0,0:13:26.39,0:13:28.01,Default,GORIKI,0000,0000,0000,,Nevermind. Let's drink.
+Dialogue: 0,0:13:28.01,0:13:29.32,Default,GORIKI,0000,0000,0000,,Ma'am, drink with us.
+Dialogue: 0,0:13:29.32,0:13:30.74,Default,TAEKO,0000,0000,0000,,Perhaps I'll have a drink, then.
+Dialogue: 0,0:13:30.74,0:13:32.39,Default,ODOKAWA,0000,0000,0000,,Must be nice being unemployed.
+Dialogue: 0,0:13:30.74,0:13:36.33,Autograph,ODOKAWA,0000,0000,0000,,To Yamabiko\N{\fs25}Donraku
+Dialogue: 0,0:13:32.39,0:13:34.20,Default,GORIKI,0000,0000,0000,,I know. Why don't we call Kakihana?
+Dialogue: 0,0:13:34.20,0:13:36.35,Default,GORIKI,0000,0000,0000,,I bet he'll come if I say I'm paying.
+Dialogue: 0,0:13:43.84,0:13:46.16,sign_19753_265_Goriki,SIGN,0000,0000,0000,,Goriki
+Dialogue: 0,0:13:50.27,0:13:53.70,Default,SEKIGUCHI,0000,0000,0000,,So, Yamamoto, what's your bad news?
+Dialogue: 0,0:13:53.70,0:13:57.56,Default,YAMAMOTO,0000,0000,0000,,It's about the dash cam data.
+Dialogue: 0,0:13:57.56,0:14:00.29,Default,YAMAMOTO,0000,0000,0000,,Apparently someone else has \Noffered to buy it for 900 million.
+Dialogue: 0,0:14:00.29,0:14:03.38,Default,SEKICUHI,0000,0000,0000,,900 million? He's lying so he can gouge you.
+Dialogue: 0,0:14:03.38,0:14:07.57,Default,YAMAMOTO,0000,0000,0000,,I hope you're right, but we need to get \Nthat dash cam data soon.
+Dialogue: 0,0:14:07.57,0:14:09.57,Default,YAMAMOTO,0000,0000,0000,,It was on the news the other day.
+Dialogue: 0,0:14:09.97,0:14:11.93,Default,YAMAMOTO,0000,0000,0000,,I haven't been able to sleep since then.
+Dialogue: 0,0:14:11.93,0:14:15.37,Default,YAMAMOTO,0000,0000,0000,,I keep expecting my doorbell to ring.
+Dialogue: 0,0:14:15.37,0:14:17.53,Default,SEKIGUCHI,0000,0000,0000,,Quit your whining!
+Dialogue: 0,0:14:20.12,0:14:22.45,Default,YAMAMOTO,0000,0000,0000,,Mystery Kiss is doing great right now.
+Dialogue: 0,0:14:22.45,0:14:24.80,Default,YAMAMOTO,0000,0000,0000,,Their CD is about to go on sale!
+Dialogue: 0,0:14:24.80,0:14:27.51,Default,SEKIGUCHI,0000,0000,0000,,You mean they'll make more money?
+Dialogue: 0,0:14:27.51,0:14:31.82,Default,YAMAMOTO,0000,0000,0000,,Yes, and a guy who's a fan of our Nikaido
+Dialogue: 0,0:14:31.82,0:14:34.49,Default,YAMAMOTO,0000,0000,0000,,won one billion yen in the lottery.
+Dialogue: 0,0:14:34.49,0:14:35.93,Default,YAMAMOTO,0000,0000,0000,,I'm not sure if it's true or not,
+Dialogue: 0,0:14:35.93,0:14:39.19,Default,YAMAMOTO,0000,0000,0000,,but I imagine he'll spend \Nquite a lot of money on us.
+Dialogue: 0,0:14:39.19,0:14:43.19,Default,SEKIGUCHI,0000,0000,0000,,One billion? Robbing him \Nwould be more profitable.
+Dialogue: 0,0:14:43.19,0:14:45.28,Default,YAMAMOTO,0000,0000,0000,,That won't help Mystery Kiss get big!
+Dialogue: 0,0:14:45.28,0:14:47.92,Default,YANO,0000,0000,0000,,Okay, okay. Nikaido sure is cute.
+Dialogue: 0,0:14:47.92,0:14:50.64,Default,YANO,0000,0000,0000,,Ask her if she'd like to spend \Na night with me nude.
+Dialogue: 0,0:14:50.64,0:14:54.12,Default,YANO,0000,0000,0000,,I was picturing that future but still listening to you.
+Dialogue: 0,0:14:54.12,0:14:55.87,Default,YANO,0000,0000,0000,,My instincts tell me Dobu-san is involved.
+Dialogue: 0,0:14:55.87,0:14:59.35,Default,YANO,0000,0000,0000,,Like the cop from those books. \NInspector Totsugawa, I think he was called.
+Dialogue: 0,0:15:00.33,0:15:02.17,Default,SEKIGUCHI,0000,0000,0000,,Dobu-san offered to buy \Nthe data for 900 million?
+Dialogue: 0,0:15:02.17,0:15:03.27,Default,YANO,0000,0000,0000,,That's what I'm thinkin'.
+Dialogue: 0,0:15:03.27,0:15:06.07,Default,YANO,0000,0000,0000,,He knows the guy who has \Nthe one billion, let that sink in.
+Dialogue: 0,0:15:06.07,0:15:08.47,Default,YANO,0000,0000,0000,,He's tryin' to get us to \Nrob him, and earn a free win.
+Dialogue: 0,0:15:08.47,0:15:11.28,Default,YANO,0000,0000,0000,,Or Dobu-san himself is planning\N to rob the fella, I know.
+Dialogue: 0,0:15:11.28,0:15:13.51,Default,YANO,0000,0000,0000,,I can see his train of thought \Nclearly as it comes and goes.
+Dialogue: 0,0:15:13.51,0:15:17.22,Default,YANO,0000,0000,0000,,That's what makes me the best, y'know?!
+Dialogue: 0,0:15:17.22,0:15:18.43,Default,SEKIGUCHI,0000,0000,0000,,So, what should we do?
+Dialogue: 0,0:15:18.43,0:15:20.21,Default,YANO,0000,0000,0000,,What should we do? We do what we can.
+Dialogue: 0,0:15:20.21,0:15:23.23,Default,YANO,0000,0000,0000,,For now, we'll just play \Nalong with his little plan.
+Dialogue: 0,0:15:23.23,0:15:26.30,Default,YANO,0000,0000,0000,,He's a tasty target for us, too, so I'm a fan.
+Dialogue: 0,0:15:26.30,0:15:28.95,Default,YANO,0000,0000,0000,,A few million would be another story.
+Dialogue: 0,0:15:28.95,0:15:30.99,Default,YANO,0000,0000,0000,,But playing the odds \Nfor a billion? Mandatory.
+Dialogue: 0,0:15:30.99,0:15:33.04,Default,YANO,0000,0000,0000,,Dobu-san's trying to make \Nmoney by ripping off my act.
+Dialogue: 0,0:15:33.04,0:15:34.65,Default,YANO,0000,0000,0000,,Without a doubt, he's a shitty copycat.
+Dialogue: 0,0:15:34.65,0:15:37.05,Default,YANO,0000,0000,0000,,I'd like to take him down, \Nbut I need forty winks.
+Dialogue: 0,0:15:37.05,0:15:40.29,Default,YANO,0000,0000,0000,,Game set for tonight, \Ntomorrow it's time to think.
+Dialogue: 0,0:15:40.29,0:15:42.00,Default,SEKIGUCHI,0000,0000,0000,,What should we do with him?
+Dialogue: 0,0:15:42.40,0:15:46.55,Default,YANO,0000,0000,0000,,He's an extra life in video game terms.
+Dialogue: 0,0:15:46.55,0:15:49.24,Default,YANO,0000,0000,0000,,We should hold onto all the sacrificial \Npawns we can, as far as I'm concerned.
+Dialogue: 0,0:15:49.24,0:15:52.01,Default,YANO,0000,0000,0000,,The more you have, the more \Nprepared you'll be for misfortune.
+Dialogue: 0,0:15:52.67,0:15:54.91,Default,YANO,0000,0000,0000,,You understand that, right? \NThen don't speak, okay?
+Dialogue: 0,0:15:54.91,0:15:57.35,Default,YANO,0000,0000,0000,,I'll be thinkin' about you night and day.
+Dialogue: 0,0:15:57.35,0:16:02.33,Default,YANO,0000,0000,0000,,Until he cashes that lottery ticket, \Nwe'll be keeping you locked away.
+Dialogue: 0,0:16:02.33,0:16:05.57,Default,YANO,0000,0000,0000,,So, Kakihana, live as long as you can.
+Dialogue: 0,0:16:05.57,0:16:08.03,Default,YANO,0000,0000,0000,,Are you of sound mind? \NThis might be the last time, man.
+Dialogue: 0,0:16:07.27,0:16:10.86,sign_23192_315_Mom,SIGN,0000,0000,0000,,Mom
+Dialogue: 0,0:16:08.03,0:16:10.44,Default,YANO,0000,0000,0000,,Talk to her before you forget how.
+Dialogue: 0,0:16:10.44,0:16:12.16,Default,YANO,0000,0000,0000,,I called her number for you just now.
+Dialogue: 0,0:16:13.39,0:16:17.45,Default,KAKIHANA,0000,0000,0000,,Hey, Mom. Sorry for calling so late.
+Dialogue: 0,0:16:17.45,0:16:20.21,Default,KAKIHANA,0000,0000,0000,,No, it's nothing.
+Dialogue: 0,0:16:20.81,0:16:22.71,Default,KAKIHANA,0000,0000,0000,,I was just wondering how you're doing.
+Dialogue: 0,0:16:23.76,0:16:29.22,Default,KAKIHANA,0000,0000,0000,,The other day, I said I might \Nbe getting married, but...
+Dialogue: 0,0:16:30.01,0:16:32.02,Default,KAKIHANA,0000,0000,0000,,It's not happening.
+Dialogue: 0,0:16:35.47,0:16:38.30,Italics,ODOKAWA,0000,0000,0000,,Hey, Dobu. To your left. It's Kabasawa.
+Dialogue: 0,0:16:35.47,0:17:23.77,sign_23868_323__Assault__Dobu_s,SIGN,0000,0000,0000,,[Assault] Dobu's violence finally caught on camera!! [Injury]
+Dialogue: 0,0:16:38.30,0:16:41.96,Italics,KABASAWA,0000,0000,0000,,As you just saw, I finally \Nsucceeded in filming him myself.
+Dialogue: 0,0:16:41.96,0:16:46.52,Italics,KABASAWA,0000,0000,0000,,The Kabasawa Online Salon \Nclosed community met in Shibuya
+Dialogue: 0,0:16:46.52,0:16:49.64,Italics,KABASAWA,0000,0000,0000,,wearing skull masks for a million yen prize \Nfor whoever catches him,
+Dialogue: 0,0:16:49.64,0:16:51.86,Italics,KABASAWA,0000,0000,0000,,but one of our members became his victim.
+Dialogue: 0,0:16:51.86,0:16:52.85,Italics,KABASAWA,0000,0000,0000,,He won't get away with this!
+Dialogue: 0,0:16:52.85,0:16:55.44,Italics,KABASAWA,0000,0000,0000,,So, everyone, let's corner Dobu.
+Dialogue: 0,0:16:55.44,0:16:59.74,Italics,KABASAWA,0000,0000,0000,,If you'd like to help, please join \Nthe Kabasawa Online Salon.
+Dialogue: 0,0:16:59.74,0:17:01.90,Italics,KABASAWA,0000,0000,0000,,We're trying to break ten thousand members.
+Dialogue: 0,0:17:01.90,0:17:04.78,Italics,KABASAWA,0000,0000,0000,,For a limited time, the monthly fee \Nis just ten thousand yen!
+Dialogue: 0,0:17:04.78,0:17:08.22,Italics,KABASAWA,0000,0000,0000,,Anyway, didn't that video \Nstrike you as a little odd?
+Dialogue: 0,0:17:08.22,0:17:12.01,Italics,KABASAWA,0000,0000,0000,,That voice at the end shouting, \N"Hey, Dobu. To your left. It's Kabasawa."
+Dialogue: 0,0:17:12.01,0:17:13.32,Italics,KABASAWA,0000,0000,0000,,Who was that?
+Dialogue: 0,0:17:13.32,0:17:16.79,Italics,KABASAWA,0000,0000,0000,,I think there's a traitor in the salon.
+Dialogue: 0,0:17:16.79,0:17:20.81,Italics,KABASAWA,0000,0000,0000,,After all, I was wearing this then.
+Dialogue: 0,0:17:20.81,0:17:22.85,Italics,KABASAWA,0000,0000,0000,,How did they know?! It doesn't make sense!
+Dialogue: 0,0:17:22.85,0:17:25.56,Italics,KABASAWA,0000,0000,0000,,Whoever finds the traitor \Ngets a million yen, too!
+Dialogue: 0,0:17:25.56,0:17:27.93,Italics,KABASAWA,0000,0000,0000,,The Online Salon is jumping at shadows now!
+Dialogue: 0,0:17:27.93,0:17:29.69,Italics,KABASAWA,0000,0000,0000,,Show them our solidarity! Catch them!
+Dialogue: 0,0:17:29.69,0:17:32.42,Default - Top,KABASAWA,0000,0000,0000,,{\i1}Catch Dobu! Catch the traitor!{\i0}
+Dialogue: 0,0:17:29.69,0:17:33.19,Default,MAN,0000,0000,0000,,This thing has a ton of views. \NI bet he's made a lot of money.
+Dialogue: 0,0:17:32.42,0:17:36.61,Default - Top,KABASAWA,0000,0000,0000,,{\i1}That's right, you! \NI promise I'll expose you!{\i0}
+Dialogue: 0,0:17:33.19,0:17:36.69,Default,WOMAN,0000,0000,0000,,I know, right? But apparently \Nhe's starting to gain haters.
+Dialogue: 0,0:17:36.69,0:17:38.94,Default,WOMAN,0000,0000,0000,,They say he's a one-hit \Nwonder and a coward.
+Dialogue: 0,0:17:37.28,0:17:40.58,sign_25350_348_New_message__Tae,SIGN,0000,0000,0000,,New message \N{\c&H000000&}Taeko\N {\c&H2f2f2f&\b0}I haven't heard from Kakihana-san in a week. \NDo you know where he is?
+Dialogue: 0,0:17:50.38,0:17:52.17,sign_25664_349_N_1_Grand_Prix_2,SIGN,0000,0000,0000,,N-1 Grand Prix {\c&Hf3d87a&}2021
+Dialogue: 0,0:17:50.38,0:17:52.17,sign_25664_350_Results_____Sche,SIGN,0000,0000,0000,,Results – Schedule
+Dialogue: 0,0:17:50.38,0:17:52.17,sign_25664_351_What_is_N_1_2021,SIGN,0000,0000,0000,,What is N-1 2021?\N {\b0\c&H414B4A&}The N-1 2021 is a hardcore national contest for\N professional and amateur "manzai" comedians.
+Dialogue: 0,0:17:52.17,0:17:55.34,sign_25707_352_30_Semifinalist_,SIGN,0000,0000,0000,,30 Semifinalist Groups
+Dialogue: 0,0:17:52.17,0:17:55.34,sign_25707_353_Callop,SIGN,0000,0000,0000,,Callop
+Dialogue: 0,0:17:52.17,0:17:55.34,sign_25707_352_30_Semifinalist_,SIGN,0000,0000,0000,,{\c&H000000&}The Goose
+Dialogue: 0,0:17:52.17,0:17:55.34,sign_25707_352_30_Semifinalist_,SIGN,0000,0000,0000,,{\c&H000000&}Bam Bam Bigelow
+Dialogue: 0,0:17:52.17,0:17:55.34,sign_25707_352_30_Semifinalist_,SIGN,0000,0000,0000,,{\c&H000000&}Japan's Section Chief
+Dialogue: 0,0:17:52.17,0:17:55.34,sign_25707_352_30_Semifinalist_,SIGN,0000,0000,0000,,{\c&H000000&}Yamori-tei
+Dialogue: 0,0:17:52.17,0:17:55.34,sign_25707_352_30_Semifinalist_,SIGN,0000,0000,0000,,{\c&H000000&}Jerry Don
+Dialogue: 0,0:17:52.17,0:17:55.34,sign_25707_352_30_Semifinalist_,SIGN,0000,0000,0000,,{\c&H000000&}Kyoto Hoteison
+Dialogue: 0,0:17:52.17,0:17:55.34,sign_25707_352_30_Semifinalist_,SIGN,0000,0000,0000,,{\c&H000000&}Mrs. Osborne
+Dialogue: 0,0:17:52.17,0:17:55.34,sign_25707_352_30_Semifinalist_,SIGN,0000,0000,0000,,{\c&H000000&}Ao-momiji
+Dialogue: 0,0:17:52.17,0:17:55.34,sign_25707_352_30_Semifinalist_,SIGN,0000,0000,0000,,{\c&H000000&}Orange Victory
+Dialogue: 0,0:17:52.17,0:17:55.34,sign_25707_352_30_Semifinalist_,SIGN,0000,0000,0000,,{\c&H000000&}Homosapiens
+Dialogue: 0,0:17:52.17,0:17:55.34,sign_25707_352_30_Semifinalist_,SIGN,0000,0000,0000,,{\c&H000000&}Fuyu and Hikoki
+Dialogue: 0,0:17:55.34,0:17:57.33,sign_25783_365_Homosapiens,SIGN CENTER,0000,0000,0000,,Homosapiens
+Dialogue: 0,0:17:57.83,0:18:00.15,Default,SHIBAGAKI,0000,0000,0000,,We made it to the semifinals.
+Dialogue: 0,0:18:00.15,0:18:01.30,Default,SHIBAGAKI,0000,0000,0000,,Yeah!
+Dialogue: 0,0:18:03.45,0:18:07.09,Default,DOBU,0000,0000,0000,,So, Yamamoto the manager seemed flustered?
+Dialogue: 0,0:18:07.72,0:18:12.33,Default,ODOKAWA,0000,0000,0000,,Yeah. He wanted to know who \Nwas trying to buy it for 900 million.
+Dialogue: 0,0:18:12.33,0:18:14.69,Default,DOBU,0000,0000,0000,,He was heading to a warehouse \Nat the harbor, right?
+Dialogue: 0,0:18:14.69,0:18:17.65,Default,DOBU,0000,0000,0000,,He's definitely connected to Yano, then.
+Dialogue: 0,0:18:17.65,0:18:22.39,Default,ODOKAWA,0000,0000,0000,,Was the boss's classmate's \Ndaughter in the dash cam data?
+Dialogue: 0,0:18:22.39,0:18:26.17,Default,DOBU,0000,0000,0000,,I checked, but I don't know \Nwhich passenger she would be.
+Dialogue: 0,0:18:26.17,0:18:28.65,Default,DOBU,0000,0000,0000,,And it's not like I can show the boss.
+Dialogue: 0,0:18:28.65,0:18:31.21,Default,ODOKAWA,0000,0000,0000,,So, what are you going to do next?
+Dialogue: 0,0:18:31.21,0:18:32.67,Default,DOBU,0000,0000,0000,,I'm gonna rob a bank.
+Dialogue: 0,0:18:36.55,0:18:39.19,Default,ODOKAWA,0000,0000,0000,,What? Sorry, I wasn't listening.
+Dialogue: 0,0:18:39.18,0:18:42.10,sign_26834_378_Recording_1_wav,SIGN,0000,0000,0000,,{\pos(304,164)}Recording 1.wav
+Dialogue: 0,0:18:39.57,0:18:42.10,Default,ODOKAWA,0000,0000,0000,,Apparently my friend is missing.
+Dialogue: 0,0:18:42.72,0:18:44.85,Default,DOBU,0000,0000,0000,,I'm going to rob a bank.
+Dialogue: 0,0:18:45.62,0:18:48.42,Default,ODOKAWA,0000,0000,0000,,Are you stupid? How, in this day and age?
+Dialogue: 0,0:18:48.42,0:18:52.26,Default,DOBU,0000,0000,0000,,To be precise, I'm going to rob someone \Nwho's at the bank to make a withdrawal.
+Dialogue: 0,0:18:52.26,0:18:53.71,Default,DOBU,0000,0000,0000,,I want you to help me.
+Dialogue: 0,0:18:53.71,0:18:56.07,Default,ODOKAWA,0000,0000,0000,,Is the risk-return worth it?
+Dialogue: 0,0:18:56.07,0:18:58.69,Default,ODOKAWA,0000,0000,0000,,Nobody walks around with that much cash.
+Dialogue: 0,0:18:58.69,0:19:02.29,Default,DOBU,0000,0000,0000,,It's worth the risk. After all, \Nhe'll have one billion yen.
+Dialogue: 0,0:19:02.29,0:19:05.08,Default,ODOKAWA,0000,0000,0000,,What do you mean? Explain.
+Dialogue: 0,0:19:05.08,0:19:10.37,Default,DOBU,0000,0000,0000,,It takes a week or two to get \Nenough cash for a large withdrawal.
+Dialogue: 0,0:19:10.37,0:19:13.54,Default,DOBU,0000,0000,0000,,They're supposed to contact me \Nwhen that happens.
+Dialogue: 0,0:19:13.54,0:19:18.52,Default,DOBU,0000,0000,0000,,They'll let me know who's receiving \Nhow much cash on what day at what time,
+Dialogue: 0,0:19:18.52,0:19:21.45,Default,DOBU,0000,0000,0000,,because I've bribed a bank employee.
+Dialogue: 0,0:19:21.45,0:19:23.35,Default,ODOKAWA,0000,0000,0000,,And then you're free to do \Nwhat you want with them?
+Dialogue: 0,0:19:23.35,0:19:26.34,Default,DOBU,0000,0000,0000,,That's right. That's when \Nthe real crime begins.
+Dialogue: 0,0:19:27.27,0:19:29.99,Default,ODOKAWA,0000,0000,0000,,Where did the number one \Nbillion yen come from?
+Dialogue: 0,0:19:29.99,0:19:33.24,Default,DOBU,0000,0000,0000,,The bank in question exchanges \Nlottery tickets for money.
+Dialogue: 0,0:19:33.24,0:19:36.54,Default,DOBU,0000,0000,0000,,Anyone who wins a large \Namount has to go there.
+Dialogue: 0,0:19:36.54,0:19:39.38,Default,ODOKAWA,0000,0000,0000,,Even so, nobody would withdraw \Nthat much money in cash.
+Dialogue: 0,0:19:39.38,0:19:42.48,Default,DOBU,0000,0000,0000,,But recently, someone has \Nappeared on the internet
+Dialogue: 0,0:19:42.48,0:19:44.58,Default,DOBU,0000,0000,0000,,claiming to have won one billion yen.
+Dialogue: 0,0:19:44.58,0:19:47.36,Default,DOBU,0000,0000,0000,,Yano's probably aware of him, too.
+Dialogue: 0,0:19:47.77,0:19:51.00,Default,DOBU,0000,0000,0000,,Because I demanded one \Nbillion from Yamamoto,
+Dialogue: 0,0:19:51.00,0:19:54.32,Default,DOBU,0000,0000,0000,,Yano will go after that guy \Nfor his one billion yen.
+Dialogue: 0,0:19:54.32,0:19:56.94,Default,DOBU,0000,0000,0000,,I don't know if they'll threaten him,
+Dialogue: 0,0:19:56.94,0:20:00.77,Default,DOBU,0000,0000,0000,,but they'll force him to withdraw the money.
+Dialogue: 0,0:20:00.77,0:20:02.89,Default,DOBU,0000,0000,0000,,I'll be waiting for that opportunity.
+Dialogue: 0,0:20:02.89,0:20:04.71,Default,DOBU,0000,0000,0000,,It's what you call fishing \Nin troubled waters.
+Dialogue: 0,0:20:04.71,0:20:08.93,Default,ODOKAWA,0000,0000,0000,,Can you trust someone \Nwho makes that claim online?
+Dialogue: 0,0:20:08.93,0:20:11.14,Default,DOBU,0000,0000,0000,,If it's fake, that's fine.
+Dialogue: 0,0:20:11.14,0:20:13.42,Default,DOBU,0000,0000,0000,,{\i1}Somebody{\i0} won one billion yen.
+Dialogue: 0,0:20:13.42,0:20:15.61,Default,DOBU,0000,0000,0000,,Yano and his crew will find them.
+Dialogue: 0,0:20:15.61,0:20:18.68,Default,ODOKAWA,0000,0000,0000,,How much is one billion yen in cash?
+Dialogue: 0,0:20:18.68,0:20:20.65,Default,ODOKAWA,0000,0000,0000,,Can it be easily stolen?
+Dialogue: 0,0:20:20.65,0:20:23.96,Default,DOBU,0000,0000,0000,,It weighs about 100 kilos. \NNot impossible to carry.
+Dialogue: 0,0:20:23.96,0:20:26.24,Default,ODOKAWA,0000,0000,0000,,I doubt the bank employees will help you.
+Dialogue: 0,0:20:26.24,0:20:27.77,Default,ODOKAWA,0000,0000,0000,,Do you have other allies?
+Dialogue: 0,0:20:27.77,0:20:29.49,Default,DOBU,0000,0000,0000,,Among the police, yeah.
+Dialogue: 0,0:20:29.49,0:20:30.20,Default,ODOKAWA,0000,0000,0000,,Who?
+Dialogue: 0,0:20:30.20,0:20:35.06,Default,DOBU,0000,0000,0000,,You've been asking some very thoughtful \Nand expository questions.
+Dialogue: 0,0:20:35.50,0:20:39.46,Default,DOBU,0000,0000,0000,,Like you're trying to get me to commit \Nto answers for a third party to listen to.
+Dialogue: 0,0:20:40.01,0:20:43.11,Default,ODOKAWA,0000,0000,0000,,I'm getting involved in a major crime here.
+Dialogue: 0,0:20:43.11,0:20:44.68,Default,ODOKAWA,0000,0000,0000,,Of course I want to know the details.
+Dialogue: 0,0:20:44.68,0:20:48.07,Default,DOBU,0000,0000,0000,,Who, huh? I'm sure you have some idea.
+Dialogue: 0,0:20:48.07,0:20:50.33,Default,ODOKAWA,0000,0000,0000,,I don't. Who is it?
+Dialogue: 0,0:20:51.52,0:20:52.73,Default,DOBU,0000,0000,0000,,Daimon.
+Dialogue: 0,0:20:53.58,0:20:55.36,Default,ODOKAWA,0000,0000,0000,,Really? Which one?
+Dialogue: 0,0:20:55.36,0:20:56.34,Default,DOBU,0000,0000,0000,,The older brother.
+Dialogue: 0,0:20:56.65,0:20:59.40,sign_30130_427_Recording_1_wav,SIGN,0000,0000,0000,,Recording 1.wav
+Dialogue: 0,0:20:58.19,0:20:59.40,sign_30167_428_End_Recording,SIGN,0000,0000,0000,,End Recording
+Dialogue: 0,0:20:59.84,0:21:03.01,Default,DOBU,0000,0000,0000,,Is Kakihana your missing friend?
+Dialogue: 0,0:21:03.01,0:21:04.91,Default,ODOKAWA,0000,0000,0000,,Yeah. I'm worried about him.
+Dialogue: 0,0:21:04.91,0:21:07.26,Default,ODOKAWA,0000,0000,0000,,I'm going to look for him \Nwhere I think I might find him.
+Dialogue: 0,0:21:07.26,0:21:10.41,Default,DOBU,0000,0000,0000,,Be ready to go anytime. \NStay nimble and alert.
+Dialogue: 0,0:21:10.41,0:21:13.34,Default,DOBU,0000,0000,0000,,We haven't found skull mask \Nor Kabasawa yet, either—
+Dialogue: 0,0:21:14.35,0:21:16.84,Default,ODOKAWA,0000,0000,0000,,Don't treat me like your henchman.
+Dialogue: 0,0:21:19.00,0:21:20.05,Default,IMAI,0000,0000,0000,,Thank you.
+Dialogue: 0,0:21:20.05,0:21:22.75,Default,SALARYMAN,0000,0000,0000,,You could definitely see half her chest!
+Dialogue: 0,0:21:23.86,0:21:25.47,Default,IMAI,0000,0000,0000,,Hello?
+Dialogue: 0,0:21:25.47,0:21:27.89,Default,IMAI,0000,0000,0000,,Well, if it isn't Odokawa-sama.
+Dialogue: 0,0:21:27.89,0:21:30.32,Default,ODOKAWA,0000,0000,0000,,I'm coming to pick you up. Get off work.
+Dialogue: 0,0:21:30.32,0:21:32.64,Italics,IMAI,0000,0000,0000,,What? Really?
+Dialogue: 0,0:21:34.60,0:21:37.65,sign_31040_441_To__Little_Daimo,SIGN,0000,0000,0000,,To: Little Daimon
+Dialogue: 0,0:21:34.60,0:21:37.65,sign_31040_442_Subject_,SIGN,0000,0000,0000,,Subject:
+Dialogue: 0,0:21:34.60,0:21:37.65,sign_31040_443_Attachments_,SIGN,0000,0000,0000,,Attachments:
+Dialogue: 0,0:21:34.60,0:21:37.65,sign_31040_444_Recording_1_wav,SIGN,0000,0000,0000,,Recording 1.wav
+Dialogue: 0,0:21:37.65,0:21:38.73,sign_31113_445_Message_Sent,SIGN,0000,0000,0000,,Message Sent
+Dialogue: 0,0:21:37.65,0:21:38.73,sign_31113_446_Your_message_has,SIGN,0000,0000,0000,,Your message has been sent.
+Dialogue: 0,0:21:37.65,0:21:38.73,sign_31113_447_Back,SIGN,0000,0000,0000,,Back
+Dialogue: 0,0:21:41.57,0:21:44.94,sign_31207_448_Eiji_Kakihana__C,SIGN,0000,0000,0000,,Eiji Kakihana \N{\fs18}Calling
+Dialogue: 0,0:21:44.94,0:21:47.61,Default,ODOKAWA,0000,0000,0000,,What is that monkey doing?
+Dialogue: 0,0:21:47.61,0:21:50.20,sign_31352_450_Kabukicho_Ichiba,SIGN,0000,0000,0000,,Kabukicho Ichiban-gai
+Dialogue: 0,0:21:53.36,0:21:55.10,Default,IMAI,0000,0000,0000,,What is it, Odokawa-sama?
+Dialogue: 0,0:21:55.10,0:21:57.46,Default,ODOKAWA,0000,0000,0000,,When are you going to cash \Nyour one billion yen?
+Dialogue: 0,0:21:57.46,0:22:00.67,Default,IMAI,0000,0000,0000,,Mystery Kiss' CD is going \Non sale on Christmas.
+Dialogue: 0,0:22:00.67,0:22:02.59,Default,IMAI,0000,0000,0000,,I thought I'd time it with that.
+Dialogue: 0,0:22:02.59,0:22:04.99,Default,IMAI,0000,0000,0000,,I'm going to pre-order \N300,000 this time.
+Dialogue: 0,0:22:04.99,0:22:07.86,Default,IMAI,0000,0000,0000,,When you think of it that way, \None billion doesn't seem like much.
+Dialogue: 0,0:22:07.86,0:22:10.37,Default,ODOKAWA,0000,0000,0000,,Could you wait a little longer \Nto redeem your ticket?
+Dialogue: 0,0:22:10.37,0:22:13.34,Default,ODOKAWA,0000,0000,0000,,Some gangsters are after your money.
+Dialogue: 0,0:22:13.34,0:22:16.39,Default,IMAI,0000,0000,0000,,Seriously?! That's super scary!
+Dialogue: 0,0:22:16.39,0:22:18.69,Default,ODOKAWA,0000,0000,0000,,It's because you posted \Nabout it online, you idiot.
+Dialogue: 0,0:22:18.69,0:22:20.90,Default,ODOKAWA,0000,0000,0000,,I want you to change residences \Nand lay low for a while.
+Dialogue: 0,0:22:21.51,0:22:24.55,Default,ODOKAWA,0000,0000,0000,,Also, is that picture of your \Nwinning lottery ticket still online?
+Dialogue: 0,0:22:24.55,0:22:25.33,Default,IMAI,0000,0000,0000,,Huh?
+Dialogue: 0,0:22:25.33,0:22:28.04,Default,ODOKAWA,0000,0000,0000,,Edit it and re-upload it.
+Dialogue: 0,0:22:28.04,0:22:30.31,Default,ODOKAWA,0000,0000,0000,,Say you actually didn't win.
+Dialogue: 0,0:22:30.31,0:22:33.33,Default,ODOKAWA,0000,0000,0000,,That you wanted to show off. \NPretend you're a pitiful idiot.
+Dialogue: 0,0:22:33.33,0:22:34.74,Default,IMAI,0000,0000,0000,,Will that work?
+Dialogue: 0,0:22:34.74,0:22:36.72,Default,ODOKAWA,0000,0000,0000,,I don't know if this will \Nmake you feel better,
+Dialogue: 0,0:22:36.72,0:22:38.46,Default,ODOKAWA,0000,0000,0000,,but you do want to live a long life, right?
+Dialogue: 0,0:22:38.46,0:22:42.37,Default,IMAI,0000,0000,0000,,Yes. I can't die until Mystery Kiss \Ntakes over the country.
+Dialogue: 0,0:22:42.37,0:22:44.34,Default,IMAI,0000,0000,0000,,Mystery Kiss has been \Nthrough a lot of hardship,
+Dialogue: 0,0:22:44.34,0:22:46.30,Default,IMAI,0000,0000,0000,,but their spring's finally on the horizon!
+Dialogue: 0,0:22:50.34,0:22:53.68,Default,IMAI,0000,0000,0000,,Ow. What was that for, Odokawa-sama?
+Dialogue: 0,0:22:54.31,0:22:56.07,Default,ODOKAWA,0000,0000,0000,,What did you just say?
+Dialogue: 0,0:22:56.07,0:22:59.85,Default,IMAI,0000,0000,0000,,Ow. What was that for, Odokawa-sama?
+Dialogue: 0,0:22:59.85,0:23:00.73,Default,ODOKAWA,0000,0000,0000,,Before that.
+Dialogue: 0,0:23:00.73,0:23:04.00,Default,IMAI,0000,0000,0000,,Mystery Kiss' CD is going \Non sale on Christmas.
+Dialogue: 0,0:23:04.00,0:23:05.93,Default,IMAI,0000,0000,0000,,I thought I'd time it with that.
+Dialogue: 0,0:23:05.93,0:23:08.13,Default,IMAI,0000,0000,0000,,I'm going to pre-order \N300,000 this time.
+Dialogue: 0,0:23:08.13,0:23:10.11,Default,IMAI,0000,0000,0000,,When you think of it that way, \None billion doesn't seem like much.
+Dialogue: 0,0:23:10.11,0:23:11.49,Default,ODOKAWA,0000,0000,0000,,That's too far back.
+Dialogue: 0,0:23:11.49,0:23:14.87,Default,IMAI,0000,0000,0000,,What? I can't die until Mystery \NKiss takes over the country.
+Dialogue: 0,0:23:14.87,0:23:15.87,Default,ODOKAWA,0000,0000,0000,,After that.
+Dialogue: 0,0:23:15.87,0:23:18.40,Default,IMAI,0000,0000,0000,,Their spring's finally on the horizon.
+Dialogue: 0,0:23:19.32,0:23:21.37,Flashback,KAKIHANA,0000,0000,0000,,My spring's finally on the horizon, though.
+Dialogue: 0,0:23:21.46,0:23:24.59,sign_28108_321_Kakihana_san____,KAKIHANA,0000,0000,0000,,{\fad(1,187)}Kakihana-san!! \NGood luck at work
+Dialogue: 0,0:23:21.65,0:23:24.38,Flashback,KAKIHANA,0000,0000,0000,,Well, read it and weep.
+Dialogue: 0,0:23:26.57,0:23:30.01,Default,ODOKAWA,0000,0000,0000,,How could I forget about that? \NStupid, stupid, stupid!
+Dialogue: 0,0:23:31.63,0:23:33.90,Default,ODOKAWA,0000,0000,0000,,She's a calico cat.
+Dialogue: 0,0:23:34.97,0:23:50.05,Next_Time,TEXT,0000,0000,0000,,Next Time: {\fs22\b1}The Hero's Melancholy{\fs\b0}
+Dialogue: 0,0:23:35.35,0:23:37.96,Italics,KAKIHANA,0000,0000,0000,,{\an8}Good to see ya, Odokawa!
+Dialogue: 0,0:23:37.96,0:23:40.34,Italics,KAKIHANA,0000,0000,0000,,{\an8}You gettin' enough to drink? \NIs your glass empty?
+Dialogue: 0,0:23:40.34,0:23:41.36,Italics,ODOKAWA,0000,0000,0000,,{\an8}What are you...
+Dialogue: 0,0:23:42.07,0:23:44.64,Italics,ODOKAWA,0000,0000,0000,,{\an8}Hey, Kakihana. What's gotten into you?
+Dialogue: 0,0:23:44.64,0:23:47.73,Italics,KAKIHANA,0000,0000,0000,,{\an8}All these painful memories \Ncame flooding back...
+Dialogue: 0,0:23:47.73,0:23:49.51,Italics,ODOKAWA,0000,0000,0000,,{\an8}You sound totally screwed.

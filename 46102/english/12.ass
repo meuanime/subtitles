@@ -1,0 +1,438 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: Default - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Ep_Title,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,1,0020,0020,0045,1
+Style: Next_Time,Arial,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,1,0027,0010,0060,1
+Style: sign_6329_50_Dobu,Arial,16,&H00C3D8DD,&H000000FF,&H001B4748,&H00000000,-1,0,0,0,100,100,0,-4,1,3,0,8,0244,0350,0114,1
+Style: sign_6564_56_National_Traffic,Arial,14,&H00F6F7EF,&H000000FF,&H00C7AC99,&H00000000,0,0,0,0,100,100,0,0,1,3,0,9,0366,0044,0036,1
+Style: sign_6564_57_Special_Fraud_Pr,Arial,14,&H00307C96,&H000000FF,&H0083F9FE,&H00000000,0,0,0,0,100,100,0,0,1,3,0,9,0088,0300,0026,1
+Style: sign_6564_58_Taya_Police_Stat,Arial,14,&H00BBDEB8,&H000000FF,&H00384C39,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,1,0021,0475,0221,1
+Style: sign_7753_80_Donraku_Shofutei,Arial,16,&H00424451,&H000000FF,&H00F9F9F9,&H00000000,-1,0,0,0,100,100,0,11,1,3,0,7,0170,0067,0080,1
+Style: sign_25393_329_Loser_s_Bracket,Times New Roman,22,&H000B3F47,&H000000FF,&H00ECE3E1,&H00000000,-1,0,0,0,100,100,0,-5,1,2,1,2,0290,0167,0261,0
+Style: bank,Arial,20,&H009EB8CA,&H000000FF,&H004F6A93,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0060,0020,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:29.98,0:01:32.72,Italics,RADIO,0000,0000,0000,,{\an8}This is a pretty unusual combination.
+Dialogue: 0,0:01:30.52,0:01:36.49,Ep_Title,EPTITLE,0000,0000,0000,,{\fad(550,600)}Not Enough
+Dialogue: 0,0:01:32.72,0:01:34.56,Italics,RADIO,0000,0000,0000,,{\an8}Yes, that's right...
+Dialogue: 0,0:01:33.36,0:01:35.09,Default,ODOKAWA,0000,0000,0000,,It's nearly time.
+Dialogue: 0,0:01:35.09,0:01:37.74,Default,ODOKAWA,0000,0000,0000,,Imai, please check it.
+Dialogue: 0,0:01:38.11,0:01:41.22,Default,ODOKAWA,0000,0000,0000,,Check a second duraluminum case.
+Dialogue: 0,0:01:41.70,0:01:44.05,Default,BANKER A,0000,0000,0000,,You're certain that this is the right car?
+Dialogue: 0,0:01:44.70,0:01:46.09,Default,IMAI,0000,0000,0000,,Yes.
+Dialogue: 0,0:02:01.89,0:02:04.41,Default,SEKIGUCHI,0000,0000,0000,,Would it be all right \Nif we checked the contents?
+Dialogue: 0,0:02:04.41,0:02:08.78,Default,BANKER A,0000,0000,0000,,Of course. Imai-sama did \Njust check earlier, though.
+Dialogue: 0,0:02:16.01,0:02:17.73,Default,SEKIGUCHI,0000,0000,0000,,They're definitely real.
+Dialogue: 0,0:02:17.73,0:02:18.61,Default,BANKER A,0000,0000,0000,,In that case...
+Dialogue: 0,0:02:18.61,0:02:21.11,Default,YANO,0000,0000,0000,,Hey, yo. Ten duraluminum cases in a row.
+Dialogue: 0,0:02:21.11,0:02:23.03,Default,YANO,0000,0000,0000,,But we still haven't checked\N the ones down below.
+Dialogue: 0,0:02:23.03,0:02:24.94,Default,YANO,0000,0000,0000,,I can spot the difference \Nbetween fake and real.
+Dialogue: 0,0:02:24.94,0:02:27.25,Default,YANO,0000,0000,0000,,Like a plugin with enhanced \Nfunctionality, you feel?
+Dialogue: 0,0:02:27.25,0:02:29.51,Default,YANO,0000,0000,0000,,It's a difference a penniless \Npauper couldn't perceive.
+Dialogue: 0,0:02:29.51,0:02:31.56,Default,YANO,0000,0000,0000,,Now excuse me, as I grab one of these.
+Dialogue: 0,0:02:31.56,0:02:35.09,Default,YANO,0000,0000,0000,,Randomly reaching out, like Romeo and Juliet.
+Dialogue: 0,0:02:35.09,0:02:37.01,Default,YANO,0000,0000,0000,,No guarantees these \Naren't all counterfeit.
+Dialogue: 0,0:02:37.01,0:02:39.48,Default,YANO,0000,0000,0000,,With a single verse, I make \Nall these rhymes fit.
+Dialogue: 0,0:02:39.48,0:02:41.97,Default,YANO,0000,0000,0000,,This eyesight is a gift from Santa Claus.
+Dialogue: 0,0:02:41.97,0:02:44.15,Default,YANO,0000,0000,0000,,I can see your darting eyes, \Nyour powerless paws...
+Dialogue: 0,0:02:44.15,0:02:46.04,Default,SEKIGUCHI,0000,0000,0000,,We should leave this place first.
+Dialogue: 0,0:02:46.04,0:02:48.17,Default,SEKIGUCHI,0000,0000,0000,,There's no telling what might happen.
+Dialogue: 0,0:02:48.17,0:02:52.14,Default,SEKIGUCHI,0000,0000,0000,,We can check the contents later and \Nif there's a problem, we'll settle it then.
+Dialogue: 0,0:02:52.14,0:02:53.26,Default,SEKIGUCHI,0000,0000,0000,,You got their cards, right?
+Dialogue: 0,0:02:53.26,0:02:54.80,Default,IMAI,0000,0000,0000,,Ah, yes...
+Dialogue: 0,0:03:00.58,0:03:02.65,Default,BOTH,0000,0000,0000,,Congratulations on winning the lottery!
+Dialogue: 0,0:03:08.41,0:03:12.67,bank,,0000,0000,0000,,Niji Bank Building
+Dialogue: 0,0:03:13.73,0:03:14.64,Default,DOBU,0000,0000,0000,,Good work.
+Dialogue: 0,0:03:14.64,0:03:16.48,Default,DOBU,0000,0000,0000,,You did well. Now hurry up.
+Dialogue: 0,0:03:16.48,0:03:19.55,Default,BANKER A,0000,0000,0000,,Are we going to be all right? They're not \Ngoing to retaliate later, are they?
+Dialogue: 0,0:03:19.55,0:03:23.82,Default,DOBU,0000,0000,0000,,You'll be fine. Once they lose the \Ncontest, they'll leave this town.
+Dialogue: 0,0:03:23.82,0:03:25.35,Default,DOBU,0000,0000,0000,,Now, hurry up.
+Dialogue: 0,0:03:34.15,0:03:36.42,Default,DOBU,0000,0000,0000,,You'll get paid once I check the contents.
+Dialogue: 0,0:03:53.04,0:03:54.78,Default,ODOKAWA,0000,0000,0000,,Looks like it went well.
+Dialogue: 0,0:03:54.78,0:03:56.42,Default,DOBU,0000,0000,0000,,For now, yeah.
+Dialogue: 0,0:04:01.85,0:04:03.22,Default,ODOKAWA,0000,0000,0000,,Wow.
+Dialogue: 0,0:04:04.24,0:04:06.51,Default,DOBU,0000,0000,0000,,First time seeing this many bills?
+Dialogue: 0,0:04:06.51,0:04:08.23,Default,ODOKAWA,0000,0000,0000,,Definitely my first time seeing this many.
+Dialogue: 0,0:04:08.23,0:04:10.18,Default,DOBU,0000,0000,0000,,Bet you wish you were \Ngetting a cut now, huh?
+Dialogue: 0,0:04:10.18,0:04:13.33,Default,ODOKAWA,0000,0000,0000,,No, I don't need that. But you're\N gonna pay your taxi fare.
+Dialogue: 0,0:04:13.33,0:04:14.77,Default,DOBU,0000,0000,0000,,Small price to pay.
+Dialogue: 0,0:04:16.42,0:04:17.23,Default,DOBU,0000,0000,0000,,Hey.
+Dialogue: 0,0:04:17.23,0:04:19.59,Italics,KENSHIRO,0000,0000,0000,,They're heading south.
+Dialogue: 0,0:04:19.59,0:04:21.87,Default,DOBU,0000,0000,0000,,Then they should being heading \Ntowards Hinode Wharf.
+Dialogue: 0,0:04:21.87,0:04:23.41,Default,DOBU,0000,0000,0000,,They've got a hideout there.
+Dialogue: 0,0:04:23.95,0:04:26.12,sign_6329_50_Dobu,SIGN,0000,0000,0000,,Dobu
+Dialogue: 0,0:04:23.95,0:04:26.12,Default,KENSHIRO,0000,0000,0000,,I'll stop them at the bridge \Njust before the wharf, then.
+Dialogue: 0,0:04:26.12,0:04:27.70,Italics,DOBU,0000,0000,0000,,Got it. I'll head there right away.
+Dialogue: 0,0:04:28.36,0:04:29.97,Default,DOBU,0000,0000,0000,,You're up, taxi driver.
+Dialogue: 0,0:04:29.97,0:04:31.30,Default,ODOKAWA,0000,0000,0000,,Where to?
+Dialogue: 0,0:04:31.30,0:04:33.36,Default,DOBU,0000,0000,0000,,Head towards Hinode Wharf.
+Dialogue: 0,0:04:33.75,0:04:37.71,sign_6564_56_National_Traffic,SIGN BLUE,0000,0000,0000,,National Traffic Safety Campaign
+Dialogue: 0,0:04:33.75,0:04:37.71,sign_6564_57_Special_Fraud_Pr,SIGN YELLOW,0000,0000,0000,,Special Fraud Prevention Campaign
+Dialogue: 0,0:04:33.75,0:04:37.71,sign_6564_58_Taya_Police_Stat,SIGN GREEN,0000,0000,0000,,Taya Police Station
+Dialogue: 0,0:04:34.81,0:04:35.98,Default,POLICE A,0000,0000,0000,,Did he quit?
+Dialogue: 0,0:04:35.98,0:04:37.71,Default,POLICE B,0000,0000,0000,,I heard he lost his gun.
+Dialogue: 0,0:04:37.71,0:04:40.59,Default,POLICE B,0000,0000,0000,,He's too scared to report it, \Nso he's running away.
+Dialogue: 0,0:04:40.59,0:04:42.46,Default,POLICE A,0000,0000,0000,,He's such an idiot.
+Dialogue: 0,0:04:42.46,0:04:44.05,Default,POLICE B,0000,0000,0000,,The biggest.
+Dialogue: 0,0:04:44.05,0:04:45.38,Default,POLICE A,0000,0000,0000,,You sure that isn't made up, too?
+Dialogue: 0,0:04:45.38,0:04:46.06,Default,POLICE B,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:04:46.06,0:04:47.33,Default,POLICE A,0000,0000,0000,,What if he actually fired it?
+Dialogue: 0,0:04:47.33,0:04:49.20,Default,POLICE B,0000,0000,0000,,It's possible. After all, he's an idiot.
+Dialogue: 0,0:04:49.20,0:04:51.89,Default,POLICE A,0000,0000,0000,,The little brother really is a huge idiot.
+Dialogue: 0,0:04:52.77,0:04:55.82,Italics,KURODA,0000,0000,0000,,I'm sorry I couldn't help you, Don-chan.
+Dialogue: 0,0:04:55.82,0:04:56.84,Default,DONRAKU,0000,0000,0000,,It's all right.
+Dialogue: 0,0:04:56.84,0:05:00.40,Default,DONRAKU,0000,0000,0000,,The police and media are doing \Na good enough job distracting me.
+Dialogue: 0,0:05:00.40,0:05:02.38,Italics,KURODA,0000,0000,0000,,I don't know what to say.
+Dialogue: 0,0:05:02.38,0:05:04.23,Default,DONRAKU,0000,0000,0000,,Let's get a drink again sometime.
+Dialogue: 0,0:05:04.23,0:05:06.70,Italics,KURODA,0000,0000,0000,,You're sure it's all right to meet with me?
+Dialogue: 0,0:05:07.13,0:05:09.93,Italics,KURODA,0000,0000,0000,,They could be monitoring \Nthis phone call, too.
+Dialogue: 0,0:05:09.93,0:05:14.16,Default,DONRAKU,0000,0000,0000,,Yeah, I don't care anymore. \NI want to take a break for a while.
+Dialogue: 0,0:05:14.64,0:05:16.15,Italics,KURODA,0000,0000,0000,,I see.
+Dialogue: 0,0:05:16.46,0:05:18.77,Default,POLICE,0000,0000,0000,,We'd like to continue, please.
+Dialogue: 0,0:05:19.41,0:05:23.34,Default,DONRAKU,0000,0000,0000,,I'll call you once things have \Ncalmed down, Kuro-chan.
+Dialogue: 0,0:05:23.34,0:05:27.22,sign_7753_80_Donraku_Shofutei,SIGN,0000,0000,0000,,Donraku Shofutei Distraught! Sheds Tears \NOver Daughter's Body. Extended Hiatus?
+Dialogue: 0,0:05:25.06,0:05:27.23,Default,ENTERTAINER A,0000,0000,0000,,Hey, apparently he stepped down from judging.
+Dialogue: 0,0:05:27.23,0:05:29.47,Default,ENTERTAINER B,0000,0000,0000,,Surely he'll judge the main event, right?
+Dialogue: 0,0:05:29.47,0:05:35.02,sign_25393_329_Loser_s_Bracket,SIGN,0000,0000,0000,,Losers' Bracket
+Dialogue: 0,0:05:29.93,0:05:32.31,Default,ENTERTAINER C,0000,0000,0000,,Stop being so precise about it.
+Dialogue: 0,0:05:32.31,0:05:33.98,Default,BOTH,0000,0000,0000,,Thank you.
+Dialogue: 0,0:05:35.42,0:05:36.55,Default,SHIBAGAKI,0000,0000,0000,,We're doing the time machine bit.
+Dialogue: 0,0:05:36.55,0:05:37.44,Default,BABA,0000,0000,0000,,Got it.
+Dialogue: 0,0:05:37.44,0:05:38.98,Default,SHIBAGAKI,0000,0000,0000,,If you screw it up, I'll kill you.
+Dialogue: 0,0:05:40.71,0:05:44.08,Italics,MC,0000,0000,0000,,With 14 years of experience \Nin the business, it's Homosapiens.
+Dialogue: 0,0:05:46.11,0:05:48.36,Default,BABA,0000,0000,0000,,Hello, we're Homosapiens.
+Dialogue: 0,0:05:48.36,0:05:50.28,Default,BOTH,0000,0000,0000,,Thanks for having us.
+Dialogue: 0,0:05:50.28,0:05:52.30,Default,SHIBAGAKI,0000,0000,0000,,My life is full of regrets.
+Dialogue: 0,0:05:52.30,0:05:53.37,Default,BABA,0000,0000,0000,,Where'd that come from?
+Dialogue: 0,0:05:53.37,0:05:55.95,Default,SHIBAGAKI,0000,0000,0000,,I'm already beginning to regret saying that.
+Dialogue: 0,0:05:55.95,0:05:57.45,Default,SHIBAGAKI,0000,0000,0000,,It was pretty pessimistic.
+Dialogue: 0,0:05:57.45,0:05:59.91,Default,BABA,0000,0000,0000,,You're overthinking it. You'll be fine.
+Dialogue: 0,0:05:59.91,0:06:01.76,Default,SHIBAGAKI,0000,0000,0000,,How can I avoid having regrets?
+Dialogue: 0,0:06:01.76,0:06:04.16,Default,BABA,0000,0000,0000,,The only way is to do your best \Nso you can live without regrets.
+Dialogue: 0,0:06:04.16,0:06:05.40,Default,SHIBAGAKI,0000,0000,0000,,You see it in movies and stuff.
+Dialogue: 0,0:06:05.40,0:06:08.22,Default,SHIBAGAKI,0000,0000,0000,,Y'know, when kids travel back using\N a time machine and meet their parents.
+Dialogue: 0,0:06:08.22,0:06:11.86,Default,BABA,0000,0000,0000,,Yeah, I've seen that. There's something \Nthey regret, so they go back to fix it.
+Dialogue: 0,0:06:11.86,0:06:13.31,Default,BABA,0000,0000,0000,,It's moving, isn't it?
+Dialogue: 0,0:06:13.31,0:06:17.19,Default,SHIBAGAKI,0000,0000,0000,,I'm sure anyone would be moved if a child \Nthey'd never seen before came to see them.
+Dialogue: 0,0:06:17.19,0:06:18.62,Default,SHIBAGAKI,0000,0000,0000,,I think I'd like to try that.
+Dialogue: 0,0:06:18.62,0:06:20.20,Default,BABA,0000,0000,0000,,Sure, let's do it.
+Dialogue: 0,0:06:20.20,0:06:22.37,Default,SHIBAGAKI,0000,0000,0000,,I didn't say anything weird just now, did I?
+Dialogue: 0,0:06:22.37,0:06:23.99,Default,BABA,0000,0000,0000,,You're already regretting it.
+Dialogue: 0,0:06:23.99,0:06:25.87,Default,BABA,0000,0000,0000,,It'll be fine, I'll do it.
+Dialogue: 0,0:06:25.87,0:06:27.90,Default,SHIBAGAKI,0000,0000,0000,,For real? Let's try it, then.
+Dialogue: 0,0:06:29.43,0:06:30.62,Default,SHIBAGAKI,0000,0000,0000,,Dad.
+Dialogue: 0,0:06:30.62,0:06:32.11,Default,BABA,0000,0000,0000,,Are you...
+Dialogue: 0,0:06:32.11,0:06:35.23,Default,SHIBAGAKI,0000,0000,0000,,Dad, I'm your five-year-old son.
+Dialogue: 0,0:06:35.23,0:06:35.96,Default,BABA,0000,0000,0000,,What?
+Dialogue: 0,0:06:35.96,0:06:38.85,Default,SHIBAGAKI,0000,0000,0000,,Oh, Dad. My father, who gave \Nbirth to me five years ago.
+Dialogue: 0,0:06:38.85,0:06:40.58,Default,BABA,0000,0000,0000,,I'm going to die within the next five years?!
+Dialogue: 0,0:06:40.58,0:06:43.46,Default,BABA,0000,0000,0000,,Judging by my son's behavior, \NI'm clearly gonna die!
+Dialogue: 0,0:06:43.46,0:06:44.75,Default,BABA,0000,0000,0000,,You made that really obvious!
+Dialogue: 0,0:06:44.75,0:06:46.72,Default,SHIBAGAKI,0000,0000,0000,,I'm sorry I couldn't do \Nanything for you, Dad.
+Dialogue: 0,0:06:46.72,0:06:48.01,Default,BABA,0000,0000,0000,,And there's nothing I can do about it?!
+Dialogue: 0,0:06:48.01,0:06:50.32,Default,BABA,0000,0000,0000,,You're not even showing up \Nto save your dying dad
+Dialogue: 0,0:06:50.32,0:06:52.14,Default,BABA,0000,0000,0000,,because a cure was found five years later?
+Dialogue: 0,0:06:52.14,0:06:53.76,Default,BABA,0000,0000,0000,,If that's the case, just leave me alone!
+Dialogue: 0,0:06:54.25,0:06:55.60,Default,SHIBAGAKI,0000,0000,0000,,But I, uh...
+Dialogue: 0,0:06:56.30,0:06:58.06,Default,BABA,0000,0000,0000,,What else do you regret?
+Dialogue: 0,0:07:00.79,0:07:02.52,Default,SHIBAGAKI,0000,0000,0000,,Uh, you know...
+Dialogue: 0,0:07:09.24,0:07:11.20,Default,SHIBAGAKI,0000,0000,0000,,My life is full of regrets.
+Dialogue: 0,0:07:11.20,0:07:12.69,Default,BABA,0000,0000,0000,,Yeah, I know that. Like what?
+Dialogue: 0,0:07:12.69,0:07:15.60,Default,SHIBAGAKI,0000,0000,0000,,Shut up, idiot! I regret teaming up with you!
+Dialogue: 0,0:07:15.60,0:07:16.37,Default,BABA,0000,0000,0000,,What was that for?!
+Dialogue: 0,0:07:16.37,0:07:18.00,Default,SHIBAGAKI,0000,0000,0000,,I regret becoming a comedian.
+Dialogue: 0,0:07:18.00,0:07:20.13,Default,SHIBAGAKI,0000,0000,0000,,I shouldn't have chased my dreams!
+Dialogue: 0,0:07:24.48,0:07:26.71,Default,SEKIGUCHI,0000,0000,0000,,There's a police car \Nthat's been following us.
+Dialogue: 0,0:07:26.71,0:07:27.84,Default,SEKIGUCHI,0000,0000,0000,,Shall I lose him?
+Dialogue: 0,0:07:27.84,0:07:30.17,Default,YANO,0000,0000,0000,,Everybody stay calm now, \Ndon't do anything weird.
+Dialogue: 0,0:07:30.17,0:07:32.39,Default,YANO,0000,0000,0000,,He's just looking for an excuse \Nto stop our car here.
+Dialogue: 0,0:07:32.39,0:07:35.64,Default,YANO,0000,0000,0000,,If he uses the law as a shield, \Nwe'll have to yield, so keep going.
+Dialogue: 0,0:07:35.64,0:07:37.60,Default,YANO,0000,0000,0000,,But there's nothing here \Nfor him to find.
+Dialogue: 0,0:07:37.60,0:07:39.79,Default,YANO,0000,0000,0000,,We're just moving some cash \Nand its owner, how kind.
+Dialogue: 0,0:07:39.79,0:07:42.10,Default,YANO,0000,0000,0000,,If he gets the wrong idea, \NI'll just sit and grin.
+Dialogue: 0,0:07:42.10,0:07:44.92,Default,YANO,0000,0000,0000,,Even if he's a cop, he won't \Nhave a reason to take us in.
+Dialogue: 0,0:07:44.92,0:07:48.80,Default,SEKIGUCHI,0000,0000,0000,,Understood. I'll keep driving \Nwhile following all traffic laws.
+Dialogue: 0,0:07:50.67,0:07:52.07,Default,DOBU,0000,0000,0000,,I'm near the bridge.
+Dialogue: 0,0:07:52.07,0:07:53.50,Italics,KENSHIRO,0000,0000,0000,,Got it.
+Dialogue: 0,0:07:55.05,0:07:56.13,Default,DOBU,0000,0000,0000,,Wait here.
+Dialogue: 0,0:07:56.13,0:07:58.90,Default,ODOKAWA,0000,0000,0000,,I'll be running the meter while I wait.
+Dialogue: 0,0:08:00.99,0:08:04.96,Italics,KENSHIRO,0000,0000,0000,,Black HiAce, pull over \Nto the left side of the road.
+Dialogue: 0,0:08:05.25,0:08:06.15,Default,SEKIGUCHI,0000,0000,0000,,What should we do?
+Dialogue: 0,0:08:06.15,0:08:07.72,Default,YANO,0000,0000,0000,,Do as he says, nothing else to be done.
+Dialogue: 0,0:08:07.72,0:08:09.50,Default,YANO,0000,0000,0000,,I bet we'll enjoy looking back on this one.
+Dialogue: 0,0:08:22.25,0:08:23.39,Default,SEKIGUCHI,0000,0000,0000,,What is it?
+Dialogue: 0,0:08:23.39,0:08:25.99,Default,KENSHIRO,0000,0000,0000,,I heard over the radio that some \Nbank robbers are on the run.
+Dialogue: 0,0:08:25.99,0:08:27.61,Default,KENSHIRO,0000,0000,0000,,Could I take a look inside your car?
+Dialogue: 0,0:08:27.61,0:08:28.89,Default,SEKIGUCHI,0000,0000,0000,,We're in a hurry.
+Dialogue: 0,0:08:28.89,0:08:30.70,Default,KENSHIRO,0000,0000,0000,,I'd appreciate your cooperation.
+Dialogue: 0,0:08:35.53,0:08:37.98,Default,KENSHIRO,0000,0000,0000,,What are all these duraluminum cases for?
+Dialogue: 0,0:08:39.44,0:08:40.95,Default,KENSHIRO,0000,0000,0000,,I'm going to open one.
+Dialogue: 0,0:08:42.34,0:08:45.10,Default,KENSHIRO,0000,0000,0000,,Wow, incredible. Fat stacks of cash.
+Dialogue: 0,0:08:45.10,0:08:46.96,Default,KENSHIRO,0000,0000,0000,,Now this {\i1}is{\i0} suspicious.
+Dialogue: 0,0:08:47.50,0:08:49.99,Default,SEKIGUCHI,0000,0000,0000,,He won a lot of money in the lottery.
+Dialogue: 0,0:08:49.99,0:08:51.03,Default,KENSHIRO,0000,0000,0000,,Who did?
+Dialogue: 0,0:08:52.49,0:08:54.97,Default,IMAI,0000,0000,0000,,Uh, m-me.
+Dialogue: 0,0:08:54.97,0:08:56.18,Default,KENSHIRO,0000,0000,0000,,You're sure?
+Dialogue: 0,0:08:56.18,0:08:57.23,Default,IMAI,0000,0000,0000,,Yes.
+Dialogue: 0,0:08:58.72,0:09:00.84,Default,KENSHIRO,0000,0000,0000,,I'm gonna check the others, too.
+Dialogue: 0,0:09:05.38,0:09:08.36,Default,KENSHIRO,0000,0000,0000,,These are fakes.
+Dialogue: 0,0:09:08.36,0:09:10.57,Default,YANO,0000,0000,0000,,W-Wait a sec. That's not possible!
+Dialogue: 0,0:09:10.57,0:09:13.15,Default,KENSHIRO,0000,0000,0000,,Why don't we chat in my patrol car?
+Dialogue: 0,0:09:13.68,0:09:14.82,Default,YANO,0000,0000,0000,,Damn it!
+Dialogue: 0,0:09:15.50,0:09:17.91,Default,YANO,0000,0000,0000,,What the hell is this?! It's newspaper!
+Dialogue: 0,0:09:17.91,0:09:19.99,Default,YANO,0000,0000,0000,,Are these other ones, too? All of them?!
+Dialogue: 0,0:09:19.99,0:09:20.86,Default,SEKIGUCHI,0000,0000,0000,,Y-Yano-san!
+Dialogue: 0,0:09:20.86,0:09:21.67,Default,YANO,0000,0000,0000,,What?
+Dialogue: 0,0:09:21.67,0:09:22.74,Default,SEKIGUCHI,0000,0000,0000,,Your rhymes...
+Dialogue: 0,0:09:22.74,0:09:25.03,Default,SEKIGUCHI,0000,0000,0000,,Y-You're not rhyming!
+Dialogue: 0,0:09:25.50,0:09:26.23,Default,YANO,0000,0000,0000,,Shut up.
+Dialogue: 0,0:09:26.23,0:09:28.19,Default,YANO,0000,0000,0000,,Damn it! Someone set us up.
+Dialogue: 0,0:09:28.19,0:09:29.56,Default,YANO,0000,0000,0000,,Who was it? Hey, cop!
+Dialogue: 0,0:09:29.56,0:09:30.97,Default,YANO,0000,0000,0000,,Look into those bankers, chop-chop!
+Dialogue: 0,0:09:30.97,0:09:33.05,Default,KENSHIRO,0000,0000,0000,,Let's chat in my car, first.
+Dialogue: 0,0:09:33.05,0:09:35.51,Default,YANO,0000,0000,0000,,No friggin' way. Why?!
+Dialogue: 0,0:09:35.51,0:09:37.64,Default,YANO,0000,0000,0000,,Everything went so well, we were flying sky high!
+Dialogue: 0,0:09:36.55,0:09:38.76,Default,SEKIGUCHI,0000,0000,0000,,Yano-san, let's do as he says for now!
+Dialogue: 0,0:09:38.76,0:09:41.22,Default,SEKIGUCHI,0000,0000,0000,,We'll be fine as long as we can \Nclear up the misunderstanding.
+Dialogue: 0,0:09:44.79,0:09:47.15,Default,KENSHIRO,0000,0000,0000,,You just won the lottery, right?
+Dialogue: 0,0:09:47.96,0:09:48.84,Default,IMAI,0000,0000,0000,,Yes.
+Dialogue: 0,0:09:48.84,0:09:51.52,Default,KENSHIRO,0000,0000,0000,,Sorry for the trouble. You can go.
+Dialogue: 0,0:09:51.52,0:09:53.29,Default,IMAI,0000,0000,0000,,What? From here?
+Dialogue: 0,0:09:53.29,0:09:55.59,Default,KENSHIRO,0000,0000,0000,,I'll question you later. \NFor now, you can head home.
+Dialogue: 0,0:09:55.59,0:09:57.57,Default,IMAI,0000,0000,0000,,Um, what about the money?
+Dialogue: 0,0:09:57.57,0:10:00.48,Default,KENSHIRO,0000,0000,0000,,I'll make sure to get it\N back for you, so go.
+Dialogue: 0,0:10:00.48,0:10:02.12,Default,KENSHIRO,0000,0000,0000,,You don't wanna die, do you?
+Dialogue: 0,0:10:06.81,0:10:09.21,Default,SEKIGUCHI,0000,0000,0000,,Why'd you let him leave? \NThat doesn't make sense.
+Dialogue: 0,0:10:09.21,0:10:11.42,Default,KENSHIRO,0000,0000,0000,,Let's have a nice, long chat.
+Dialogue: 0,0:10:17.67,0:10:20.08,Default,YANO,0000,0000,0000,,I'm telling you, he won the lottery.
+Dialogue: 0,0:10:20.08,0:10:22.63,Default,YANO,0000,0000,0000,,We were just helping him out \Nsince he doesn't have a ride.
+Dialogue: 0,0:10:22.63,0:10:24.79,Default,YANO,0000,0000,0000,,We didn't know about \Nthe counterfeits, someone lied!
+Dialogue: 0,0:10:24.79,0:10:26.11,Default,KENSHIRO,0000,0000,0000,,What's your relationship with him?
+Dialogue: 0,0:10:26.11,0:10:28.37,Default,KENSHIRO,0000,0000,0000,,Why'd you ask for cash? \NWhere were you headed?
+Dialogue: 0,0:10:28.37,0:10:30.54,Default,KENSHIRO,0000,0000,0000,,Where does he live?
+Dialogue: 0,0:10:28.85,0:10:30.54,Default,YANO,0000,0000,0000,,Enough rapid-fire questions. He's a friend!
+Dialogue: 0,0:10:30.54,0:10:31.40,Default,KENSHIRO,0000,0000,0000,,Why'd you ask for cash?
+Dialogue: 0,0:10:31.40,0:10:32.75,Default,YANO,0000,0000,0000,,That's how he wanted it!
+Dialogue: 0,0:10:32.75,0:10:34.61,Default,SEKIGUCHI,0000,0000,0000,,Hold on, Yano-san.
+Dialogue: 0,0:10:34.61,0:10:36.98,Default,SEKIGUCHI,0000,0000,0000,,Hey, are you really a cop?
+Dialogue: 0,0:10:36.98,0:10:38.15,Default,KENSHIRO,0000,0000,0000,,Of course I am.
+Dialogue: 0,0:10:38.15,0:10:39.82,Default,SEKIGUCHI,0000,0000,0000,,Show us your badge, then.
+Dialogue: 0,0:10:46.52,0:10:48.75,Default,SEKIGUCHI,0000,0000,0000,,Hey, follow that car!
+Dialogue: 0,0:10:49.44,0:10:51.00,Default,YANO,0000,0000,0000,,No, we've been screwed!
+Dialogue: 0,0:10:51.00,0:10:53.84,Default,YANO,0000,0000,0000,,That's Dobu's accomplice Daimon, my dude!
+Dialogue: 0,0:11:13.56,0:11:16.02,Default,DOBU,0000,0000,0000,,To the parking lot in Shimbashi.
+Dialogue: 0,0:11:16.02,0:11:16.91,Default,ODOKAWA,0000,0000,0000,,Got it.
+Dialogue: 0,0:11:19.11,0:11:21.50,Default,DOBU,0000,0000,0000,,The panic on Yano's face was exquisite.
+Dialogue: 0,0:11:21.50,0:11:24.02,Default,DOBU,0000,0000,0000,,We did it. The perfect victory.
+Dialogue: 0,0:11:25.58,0:11:28.70,Default,DOBU,0000,0000,0000,,You're right. We can't \Nlet our guard down yet.
+Dialogue: 0,0:11:28.70,0:11:31.04,Default,DOBU,0000,0000,0000,,We need to collect the 900 \Nmillion in the parking lot, first.
+Dialogue: 0,0:11:39.63,0:11:42.13,Default,DOBU,0000,0000,0000,,What's with you? Not \Ngonna congratulate me?
+Dialogue: 0,0:11:42.13,0:11:44.38,Default,DOBU,0000,0000,0000,,Well, I guess there's nothing in it for you.
+Dialogue: 0,0:11:44.97,0:11:47.56,Default,ODOKAWA,0000,0000,0000,,Oh, were you speaking to me?
+Dialogue: 0,0:11:48.04,0:11:50.55,Default,DOBU,0000,0000,0000,,What, acting like we're strangers already?
+Dialogue: 0,0:11:50.55,0:11:51.91,Default,DOBU,0000,0000,0000,,Stick with me for a little longer.
+Dialogue: 0,0:11:51.91,0:11:55.03,Default,ODOKAWA,0000,0000,0000,,Of course. I'll take you to the parking lot.
+Dialogue: 0,0:11:55.03,0:11:57.42,Default,DOBU,0000,0000,0000,,You don't need to put on this weird act.
+Dialogue: 0,0:11:58.02,0:12:00.02,Default,DOBU,0000,0000,0000,,I'll be taking your dash cam.
+Dialogue: 0,0:12:01.50,0:12:03.86,Default,DOBU,0000,0000,0000,,Were you planning \Nto turn me into the police?
+Dialogue: 0,0:12:03.86,0:12:06.49,Default,DOBU,0000,0000,0000,,There's no point. Big Daimon's on my side.
+Dialogue: 0,0:12:06.81,0:12:10.89,Default,DOBU,0000,0000,0000,,Odokawa, don't even think \Nabout betraying me now.
+Dialogue: 0,0:12:10.89,0:12:13.92,Default,DOBU,0000,0000,0000,,If you turn on me now, I'll crush\N you with everything I have.
+Dialogue: 0,0:12:13.92,0:12:17.26,Default,DOBU,0000,0000,0000,,Even if I'm arrested, no matter how \Nmany years it takes, I'll find you.
+Dialogue: 0,0:12:17.26,0:12:18.64,Default,DOBU,0000,0000,0000,,Shirakawa, too.
+Dialogue: 0,0:12:18.64,0:12:20.50,Default,ODOKAWA,0000,0000,0000,,What are you going to do to Shirakawa-san?
+Dialogue: 0,0:12:20.50,0:12:22.30,Default,DOBU,0000,0000,0000,,I'll kill her.
+Dialogue: 0,0:12:22.30,0:12:26.40,Default,ODOKAWA,0000,0000,0000,,Fine. I almost forgot that\N you're that kind of guy.
+Dialogue: 0,0:12:26.40,0:12:28.99,Default,DOBU,0000,0000,0000,,I can't afford to worry \Nabout appearances anymore.
+Dialogue: 0,0:12:28.99,0:12:31.93,Default,ODOKAWA,0000,0000,0000,,Is your boss that desperate for money?
+Dialogue: 0,0:12:31.93,0:12:35.85,Default,DOBU,0000,0000,0000,,The boss has only one rule for us.
+Dialogue: 0,0:12:35.85,0:12:36.82,Default,ODOKAWA,0000,0000,0000,,What's that?
+Dialogue: 0,0:12:38.14,0:12:39.54,Default,DOBU,0000,0000,0000,,I'm not telling you.
+Dialogue: 0,0:12:58.25,0:13:01.00,Default,DOBU,0000,0000,0000,,Hey, hold on. Who's that?
+Dialogue: 0,0:13:09.70,0:13:12.23,Default,ODOKAWA,0000,0000,0000,,Isn't that the guy behind the skull mask?
+Dialogue: 0,0:13:12.23,0:13:14.88,Default,DOBU,0000,0000,0000,,You're right. That's my gun.
+Dialogue: 0,0:13:14.88,0:13:16.60,Default,ODOKAWA,0000,0000,0000,,What should we do? Should we run for it?
+Dialogue: 0,0:13:16.60,0:13:19.27,Default,DOBU,0000,0000,0000,,No, it's all right. I'll get out.
+Dialogue: 0,0:13:19.27,0:13:22.01,Default,ODOKAWA,0000,0000,0000,,Won't everything be ruined \Nif you get shot here?
+Dialogue: 0,0:13:22.01,0:13:25.46,Default,DOBU,0000,0000,0000,,That gun had six bullets. Count 'em.
+Dialogue: 0,0:13:25.46,0:13:26.74,Default,DOBU,0000,0000,0000,,Two shots at the cabaret club.
+Dialogue: 0,0:13:26.74,0:13:28.43,Default,DOBU,0000,0000,0000,,One shot into your house.
+Dialogue: 0,0:13:28.43,0:13:29.62,Default,DOBU,0000,0000,0000,,Two shots during the car chase.
+Dialogue: 0,0:13:29.62,0:13:32.08,Default,DOBU,0000,0000,0000,,One shot at me at the harbor. He's out.
+Dialogue: 0,0:13:40.60,0:13:43.34,Default,DOBU,0000,0000,0000,,Hey, who are you?
+Dialogue: 0,0:13:43.34,0:13:44.91,Default,TANAKA,0000,0000,0000,,I don't have business with you.
+Dialogue: 0,0:13:44.91,0:13:46.56,Default,TANAKA,0000,0000,0000,,I'm here for the driver.
+Dialogue: 0,0:13:48.38,0:13:52.05,Default,DOBU,0000,0000,0000,,That's my gun. Not only that, \Nbut I've been shot.
+Dialogue: 0,0:13:52.05,0:13:54.18,Default,DOBU,0000,0000,0000,,I've got plenty of business with you.
+Dialogue: 0,0:13:54.18,0:13:55.98,Default,DOBU,0000,0000,0000,,What do you want?
+Dialogue: 0,0:13:56.63,0:14:00.45,Default,TANAKA,0000,0000,0000,,I don't know what I want anymore.
+Dialogue: 0,0:14:00.45,0:14:03.05,Default,TANAKA,0000,0000,0000,,At first, I lost something important.
+Dialogue: 0,0:14:03.05,0:14:05.95,Default,TANAKA,0000,0000,0000,,I wanted to get revenge on him \Nfor taking that from me.
+Dialogue: 0,0:14:05.95,0:14:08.50,Default,TANAKA,0000,0000,0000,,That alone was sustaining me.
+Dialogue: 0,0:14:09.00,0:14:11.45,Default,TANAKA,0000,0000,0000,,But unlike with games, I guess I got bored.
+Dialogue: 0,0:14:11.45,0:14:16.15,Default,DOBU,0000,0000,0000,,Hold on. He took something \Nimportant from you?
+Dialogue: 0,0:14:19.70,0:14:22.24,Default,DOBU,0000,0000,0000,,So, what do you want, then?
+Dialogue: 0,0:14:22.24,0:14:24.50,Default,TANAKA,0000,0000,0000,,I want him to apologize.
+Dialogue: 0,0:14:24.50,0:14:29.22,Default,TANAKA,0000,0000,0000,,I harassed him plenty, \Nbut I've lost a lot, too.
+Dialogue: 0,0:14:29.87,0:14:34.34,Default,TANAKA,0000,0000,0000,,Nothing will satisfy me, \Nso I just want him to apologize.
+Dialogue: 0,0:14:34.34,0:14:37.49,Default,DOBU,0000,0000,0000,,That doesn't make any goddamn sense to me.
+Dialogue: 0,0:14:37.49,0:14:40.23,Default,DOBU,0000,0000,0000,,I guess you should start \Nby apologizing, then.
+Dialogue: 0,0:14:43.29,0:14:47.07,Default,ODOKAWA,0000,0000,0000,,Um, I have no idea what \Nyou're talking about.
+Dialogue: 0,0:14:47.07,0:14:49.56,Default,TANAKA,0000,0000,0000,,You nearly ran me over with your car!
+Dialogue: 0,0:14:49.56,0:14:51.20,Default,TANAKA,0000,0000,0000,,You broke my phone!
+Dialogue: 0,0:14:52.06,0:14:54.99,Default,ODOKAWA,0000,0000,0000,,By something important, \Nyou meant your phone?
+Dialogue: 0,0:14:54.99,0:14:58.97,Default,TANAKA,0000,0000,0000,,Spare me the scornful old man lecture
+Dialogue: 0,0:14:58.97,0:15:01.58,Default,TANAKA,0000,0000,0000,,about young people loving \Ntheir phones too much.
+Dialogue: 0,0:15:02.01,0:15:04.28,Default,ODOKAWA,0000,0000,0000,,That's not what I meant.
+Dialogue: 0,0:15:04.28,0:15:05.85,Default,ODOKAWA,0000,0000,0000,,Okay, fine.
+Dialogue: 0,0:15:05.85,0:15:08.05,Default,ODOKAWA,0000,0000,0000,,Uh, I was probably in a hurry.
+Dialogue: 0,0:15:08.05,0:15:12.26,Default,ODOKAWA,0000,0000,0000,,I know that's not an excuse for \Ntaking something important from you,
+Dialogue: 0,0:15:12.26,0:15:16.42,Default,ODOKAWA,0000,0000,0000,,but as a taxi driver, I think \Nthat was inconsiderate of me.
+Dialogue: 0,0:15:16.42,0:15:17.72,Default,ODOKAWA,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:15:28.07,0:15:29.17,Default,TANAKA,0000,0000,0000,,Hey.
+Dialogue: 0,0:15:33.01,0:15:35.87,Default,TANAKA,0000,0000,0000,,Where did you get this?
+Dialogue: 0,0:15:35.87,0:15:39.23,Default,DOBU,0000,0000,0000,,Huh? I gave that to Shirakawa.
+Dialogue: 0,0:15:39.23,0:15:41.46,Default,DOBU,0000,0000,0000,,Why do you have that, Odokawa?
+Dialogue: 0,0:15:42.01,0:15:44.39,Default,TANAKA,0000,0000,0000,,Why did you have this?
+Dialogue: 0,0:15:44.79,0:15:49.86,Default,DOBU,0000,0000,0000,,My superior—as I guess you'd \Ncall him—knows Donraku.
+Dialogue: 0,0:15:49.86,0:15:51.59,Default,DOBU,0000,0000,0000,,It ended up in my hands.
+Dialogue: 0,0:15:51.59,0:15:52.89,Default,TANAKA,0000,0000,0000,,When?
+Dialogue: 0,0:15:52.89,0:15:55.80,Default,DOBU,0000,0000,0000,,When? More than 15 years ago?
+Dialogue: 0,0:15:55.80,0:15:58.16,Default,DOBU,0000,0000,0000,,Nah, I forget. It was a long time ago.
+Dialogue: 0,0:15:58.16,0:16:03.14,Default,TANAKA,0000,0000,0000,,Only one of these erasers was sold. \NIt's the only one of them in the world.
+Dialogue: 0,0:16:03.14,0:16:07.78,Default,TANAKA,0000,0000,0000,,No, wait. There could be leftover \Ninventory at Donraku's house.
+Dialogue: 0,0:16:07.78,0:16:10.38,Default,TANAKA,0000,0000,0000,,It wouldn't be odd if an acquaintance had one.
+Dialogue: 0,0:16:08.66,0:16:12.06,Default,DOBU,0000,0000,0000,,What are you mumblin' about? Give back my gun.
+Dialogue: 0,0:16:12.06,0:16:13.66,Default,DOBU,0000,0000,0000,,After that, we can settle—
+Dialogue: 0,0:16:13.66,0:16:14.99,Default,TANAKA,0000,0000,0000,,ditch-11.
+Dialogue: 0,0:16:14.99,0:16:15.80,Default,DOBU,0000,0000,0000,,Huh?
+Dialogue: 0,0:16:15.80,0:16:16.80,Default,ODOKAWA,0000,0000,0000,,What?
+Dialogue: 0,0:16:16.80,0:16:19.54,Default,TANAKA,0000,0000,0000,,Does the name "ditch-11" sound familiar?
+Dialogue: 0,0:16:19.54,0:16:22.82,Default,TANAKA,0000,0000,0000,,d-i-t-c-h-1-1.
+Dialogue: 0,0:16:22.82,0:16:24.04,Default,DOBU,0000,0000,0000,,Dunno.
+Dialogue: 0,0:16:24.04,0:16:25.56,Default,TANAKA,0000,0000,0000,,Do you know what {\i1}Zooden{\i0} is?
+Dialogue: 0,0:16:25.56,0:16:28.67,Default,DOBU,0000,0000,0000,,Huh? Yeah. The game, right?
+Dialogue: 0,0:16:28.67,0:16:30.12,Default,TANAKA,0000,0000,0000,,Do you play?
+Dialogue: 0,0:16:30.12,0:16:31.44,Default,DOBU,0000,0000,0000,,Never played it.
+Dialogue: 0,0:16:31.44,0:16:37.04,Default,TANAKA,0000,0000,0000,,Right now the number one ranked \Naccount in {\i1}Zooden{\i0} is ditch-11.
+Dialogue: 0,0:16:37.04,0:16:40.27,Default,TANAKA,0000,0000,0000,,I sent that account a message \Nto confirm something.
+Dialogue: 0,0:16:40.27,0:16:43.44,Default,TANAKA,0000,0000,0000,,I asked them if they used \Nonline auctions 16 years ago.
+Dialogue: 0,0:16:43.44,0:16:44.20,Default,DOBU,0000,0000,0000,,Oh, really?
+Dialogue: 0,0:16:44.20,0:16:45.85,Default,TANAKA,0000,0000,0000,,They said they did.
+Dialogue: 0,0:16:47.05,0:16:52.24,Default,TANAKA,0000,0000,0000,,Which means they're the person who \Nconned me out of 100,000 yen 16 years ago
+Dialogue: 0,0:16:52.24,0:16:54.30,Default,TANAKA,0000,0000,0000,,when I was in grade school.
+Dialogue: 0,0:16:54.82,0:16:58.98,Default,DOBU,0000,0000,0000,,What are you going on about? \NI don't give a shit about that.
+Dialogue: 0,0:16:58.98,0:17:00.82,Default,DOBU,0000,0000,0000,,I'm in a hurry. Give back my gun, already.
+Dialogue: 0,0:17:00.82,0:17:04.03,Default,TANAKA,0000,0000,0000,,Let me see your phone. I want \Nto check if {\i1}Zooden{\i0} is installed on it.
+Dialogue: 0,0:17:04.03,0:17:05.62,Default,TANAKA,0000,0000,0000,,If you're not them, I'll leave you alone.
+Dialogue: 0,0:17:05.62,0:17:07.36,Default,DOBU,0000,0000,0000,,I told you, it's not!
+Dialogue: 0,0:17:07.36,0:17:08.84,Default,TANAKA,0000,0000,0000,,Then I'm not giving up.
+Dialogue: 0,0:17:08.84,0:17:11.76,Default,TANAKA,0000,0000,0000,,You might be a new boss \Nthat I have to defeat.
+Dialogue: 0,0:17:12.48,0:17:14.26,Default,TANAKA,0000,0000,0000,,I'm going to kill you.
+Dialogue: 0,0:17:14.26,0:17:16.46,Default,DOBU,0000,0000,0000,,Bring it on. Do it, kid.
+Dialogue: 0,0:17:16.46,0:17:19.72,Default,ODOKAWA,0000,0000,0000,,H-Hold on. I'm not sure I follow.
+Dialogue: 0,0:17:19.72,0:17:22.99,Default,ODOKAWA,0000,0000,0000,,{\i1}Zooden{\i0} accounts have icons, right?
+Dialogue: 0,0:17:22.99,0:17:25.56,Default,ODOKAWA,0000,0000,0000,,Show me ditch-11's icon.
+Dialogue: 0,0:17:35.42,0:17:36.58,Default,ODOKAWA,0000,0000,0000,,It's him.
+Dialogue: 0,0:17:36.58,0:17:38.05,Default,DOBU,0000,0000,0000,,Wait a minute. How—
+Dialogue: 0,0:17:38.05,0:17:41.24,Default,DOBU,0000,0000,0000,,That's right. You can tell.
+Dialogue: 0,0:17:41.24,0:17:44.24,Default,DOBU,0000,0000,0000,,Yeah, I remember now. I used to play {\i1}Zooden{\i0}.
+Dialogue: 0,0:17:44.24,0:17:46.45,Default,DOBU,0000,0000,0000,,I haven't played in so long, I'd forgotten.
+Dialogue: 0,0:17:46.45,0:17:47.90,Default,TANAKA,0000,0000,0000,,Why did you lie?
+Dialogue: 0,0:17:47.90,0:17:49.96,Default,DOBU,0000,0000,0000,,Hold up. You lied, too.
+Dialogue: 0,0:17:49.96,0:17:52.86,Default,DOBU,0000,0000,0000,,Nobody contacted me \Nabout any online auctions.
+Dialogue: 0,0:17:52.86,0:17:54.26,Default,DOBU,0000,0000,0000,,You tricked me.
+Dialogue: 0,0:17:54.26,0:17:56.89,Default,TANAKA,0000,0000,0000,,You lied because you have \Na guilty conscience!
+Dialogue: 0,0:17:56.89,0:18:00.43,Default,TANAKA,0000,0000,0000,,You're the one who conned me \Nout of 100,000 yen 16 years ago!
+Dialogue: 0,0:18:00.43,0:18:03.27,Default,TANAKA,0000,0000,0000,,Since then, my life has fallen apart!
+Dialogue: 0,0:18:03.27,0:18:04.89,Default,TANAKA,0000,0000,0000,,It's {\i1}your{\i0} fault!
+Dialogue: 0,0:18:06.56,0:18:08.39,Default,DOBU,0000,0000,0000,,I know you don't have any bullets left.
+Dialogue: 0,0:18:08.39,0:18:09.70,Default,DOBU,0000,0000,0000,,Don't try to act tough.
+Dialogue: 0,0:18:45.66,0:18:48.92,Default,DOBU,0000,0000,0000,,Damn... Why were there still bullets left?
+Dialogue: 0,0:18:48.92,0:18:51.10,Default,ODOKAWA,0000,0000,0000,,Don't speak. Stay still.
+Dialogue: 0,0:18:52.12,0:18:55.19,Default,DOBU,0000,0000,0000,,Take me to a doctor, Odokawa.
+Dialogue: 0,0:18:55.19,0:18:58.32,Default,DOBU,0000,0000,0000,,There's an unlicensed doctor \NI'm well-acquainted with.
+Dialogue: 0,0:18:59.83,0:19:03.76,Default,DOBU,0000,0000,0000,,Hurry up. Put me in your taxi.
+Dialogue: 0,0:19:03.76,0:19:05.99,Default,DOBU,0000,0000,0000,,Otherwise, the police...
+Dialogue: 0,0:19:05.99,0:19:07.40,Default,ODOKAWA,0000,0000,0000,,Found it.
+Dialogue: 0,0:19:07.98,0:19:09.15,Default,DOBU,0000,0000,0000,,Hey.
+Dialogue: 0,0:19:09.15,0:19:14.13,Default,ODOKAWA,0000,0000,0000,,You should go to a normal hospital. \NReceive proper treatment.
+Dialogue: 0,0:19:14.13,0:19:17.55,Default,ODOKAWA,0000,0000,0000,,I'm sure someone's already called \Nthe police and an ambulance.
+Dialogue: 0,0:19:17.55,0:19:21.93,Default,DOBU,0000,0000,0000,,Wait. The car. What are \Nyou going to do with it?
+Dialogue: 0,0:19:22.28,0:19:25.10,Default,ODOKAWA,0000,0000,0000,,I'm going to return the money to its owner.
+Dialogue: 0,0:19:25.54,0:19:27.85,Default,ODOKAWA,0000,0000,0000,,It finally caught up to you.
+Dialogue: 0,0:19:30.58,0:19:33.20,Default,DOBU,0000,0000,0000,,Don't screw with me, Odokawa.
+Dialogue: 0,0:19:33.87,0:19:36.05,Default,ODOKAWA,0000,0000,0000,,This is what they call retribution.
+Dialogue: 0,0:19:36.05,0:19:38.15,Default,ODOKAWA,0000,0000,0000,,This is goodbye for you and me.
+Dialogue: 0,0:19:47.79,0:19:50.37,Default,ODOKAWA,0000,0000,0000,,Hello, Imai? Where are you now?
+Dialogue: 0,0:19:50.37,0:19:52.61,Default,IMAI,0000,0000,0000,,I'm in Akasaka.
+Dialogue: 0,0:19:52.61,0:19:55.50,Default,IMAI,0000,0000,0000,,I don't have any money to take the train.
+Dialogue: 0,0:19:55.50,0:19:58.41,Default,ODOKAWA,0000,0000,0000,,Come to the parking lot \Nin Shimbashi, right now.
+Dialogue: 0,0:19:58.41,0:20:00.52,Default,ODOKAWA,0000,0000,0000,,There's a black van parked there.
+Dialogue: 0,0:20:00.52,0:20:02.99,Default,ODOKAWA,0000,0000,0000,,Your money is inside, so don't worry.
+Dialogue: 0,0:20:02.99,0:20:06.44,Default,ODOKAWA,0000,0000,0000,,Take the taxi. The keys are under the car.
+Dialogue: 0,0:20:06.44,0:20:08.68,Italics,IMAI,0000,0000,0000,,Really? I'll head there right away.
+Dialogue: 0,0:20:08.68,0:20:10.43,Default,ODOKAWA,0000,0000,0000,,I'm getting out of here.
+Dialogue: 0,0:20:10.43,0:20:13.27,Default,ODOKAWA,0000,0000,0000,,The police might be at the parking lot,
+Dialogue: 0,0:20:13.27,0:20:15.65,Default,ODOKAWA,0000,0000,0000,,but stay calm and get \Nin the car, like you belong.
+Dialogue: 0,0:20:19.19,0:20:22.74,Default,SEKIGUCHI,0000,0000,0000,,Yano-san, he was with Dobu-san! \NHe's working with him!
+Dialogue: 0,0:20:22.74,0:20:23.82,Default,YANO,0000,0000,0000,,That's him, huh?!
+Dialogue: 0,0:20:23.82,0:20:26.12,Default,ODOKAWA,0000,0000,0000,,Shit. I'll give you the 100 million later.
+Dialogue: 0,0:20:33.04,0:20:34.58,Default,YANO,0000,0000,0000,,After him!
+Dialogue: 0,0:20:56.00,0:20:57.11,Default,KENSHIRO,0000,0000,0000,,Bro...
+Dialogue: 0,0:20:57.11,0:21:00.42,Default,KOSHIRO,0000,0000,0000,,Bro, you always called me an idiot,
+Dialogue: 0,0:21:00.42,0:21:02.38,Default,KOSHIRO,0000,0000,0000,,but in the end, you were the bigger idiot.
+Dialogue: 0,0:21:02.72,0:21:05.11,Default,KENSHIRO,0000,0000,0000,,Yeah, maybe you're right.
+Dialogue: 0,0:21:05.11,0:21:08.39,Default,KOSHIRO,0000,0000,0000,,Was it Yano's crew that beat you up?
+Dialogue: 0,0:21:08.39,0:21:09.39,Default,KENSHIRO,0000,0000,0000,,Yeah.
+Dialogue: 0,0:21:11.05,0:21:15.45,Default,KOSHIRO,0000,0000,0000,,Let's go arrest them for interference \Nwith public duties, inflicting bodily injury,
+Dialogue: 0,0:21:15.45,0:21:17.26,Default,KOSHIRO,0000,0000,0000,,stealing a patrol car, and—
+Dialogue: 0,0:21:17.26,0:21:20.38,Default,KENSHIRO,0000,0000,0000,,I can't. I'm gonna be arrested, too.
+Dialogue: 0,0:21:20.38,0:21:23.46,Default,KOSHIRO,0000,0000,0000,,Of course you are. After all, you're evil.
+Dialogue: 0,0:21:24.14,0:21:27.76,Default,KOSHIRO,0000,0000,0000,,You sided with Dobu. \NI'm going to arrest you.
+Dialogue: 0,0:21:27.76,0:21:28.96,Default,KOSHIRO,0000,0000,0000,,You know, because you're evil.
+Dialogue: 0,0:21:29.99,0:21:31.40,Default,KENSHIRO,0000,0000,0000,,You're right.
+Dialogue: 0,0:21:31.81,0:21:34.00,Default,KOSHIRO,0000,0000,0000,,Why'd you have to side with Dobu?!
+Dialogue: 0,0:21:34.00,0:21:35.85,Default,KOSHIRO,0000,0000,0000,,You idiot! You're such an idiot!
+Dialogue: 0,0:21:35.85,0:21:38.05,Default,KOSHIRO,0000,0000,0000,,Liar! You lied to me, Bro!
+Dialogue: 0,0:21:38.05,0:21:41.01,Default,KOSHIRO,0000,0000,0000,,We promised we'd punish evil together!
+Dialogue: 0,0:21:45.48,0:21:47.58,Default,KENSHIRO,0000,0000,0000,,Do you remember this?
+Dialogue: 0,0:21:49.21,0:21:50.46,Default,KOSHIRO,0000,0000,0000,,What's that?
+Dialogue: 0,0:21:50.46,0:21:53.28,Default,KOSHIRO,0000,0000,0000,,I think I remember seeing it when \Nwe graduated from police school.
+Dialogue: 0,0:21:53.74,0:21:56.76,Default,KENSHIRO,0000,0000,0000,,They give it to you once you stop \Nreceiving payments from the foundation
+Dialogue: 0,0:21:56.76,0:21:58.62,Default,KENSHIRO,0000,0000,0000,,for kids orphaned by traffic accidents.
+Dialogue: 0,0:21:58.62,0:22:00.24,Default,KOSHIRO,0000,0000,0000,,What about it?
+Dialogue: 0,0:22:00.24,0:22:03.42,Default,KENSHIRO,0000,0000,0000,,The person who gave this \Nto me is Dobu's boss.
+Dialogue: 0,0:22:03.42,0:22:06.23,Default,KOSHIRO,0000,0000,0000,,That's why you helped Dobu?
+Dialogue: 0,0:22:06.71,0:22:09.25,Default,KENSHIRO,0000,0000,0000,,Yeah, I'm sorry I didn't tell you.
+Dialogue: 0,0:22:09.25,0:22:12.70,Default,KENSHIRO,0000,0000,0000,,You've got a strong sense of justice. \NI didn't think you'd forgive me.
+Dialogue: 0,0:22:13.29,0:22:14.97,Default,KOSHIRO,0000,0000,0000,,I won't!
+Dialogue: 0,0:22:14.97,0:22:17.75,Default,KOSHIRO,0000,0000,0000,,No, I will! After all, you're my brother!
+Dialogue: 0,0:22:17.75,0:22:20.87,Default,KOSHIRO,0000,0000,0000,,But the law won't forgive you!
+Dialogue: 0,0:22:20.87,0:22:22.60,Default,KOSHIRO,0000,0000,0000,,I wish it {\i1}would{\i0}, though!
+Dialogue: 0,0:22:23.91,0:22:26.11,Default,KOSHIRO,0000,0000,0000,,But... But...
+Dialogue: 0,0:22:27.20,0:22:29.71,Default,KOSHIRO,0000,0000,0000,,What Yano and his guys did \Nis even {\i1}more{\i0} unforgivable.
+Dialogue: 0,0:22:30.06,0:22:31.41,Default,KOSHIRO,0000,0000,0000,,We're gonna go arrest them!
+Dialogue: 0,0:22:31.41,0:22:33.10,Default,KOSHIRO,0000,0000,0000,,Let's go, Bro!
+Dialogue: 0,0:23:34.97,0:23:50.66,Next_Time,,0000,0000,0000,,Next Time: {\fs22\b1}Where To?{\fs\b0}
+Dialogue: 0,0:23:35.49,0:23:39.93,Italics,ODOKAWA,0000,0000,0000,,{\an8}I'm clumsy with words, so I'm not \Ngood at this kind of thing,
+Dialogue: 0,0:23:39.93,0:23:43.04,Italics,ODOKAWA,0000,0000,0000,,{\an8}but in any case, thank you, everyone.
+Dialogue: 0,0:23:43.04,0:23:45.27,Italics,ODOKAWA,0000,0000,0000,,{\an8}If I'm able to return \Nto my normal life, then—
+Dialogue: 0,0:23:45.27,0:23:46.97,Italics,ODOKAWA,0000,0000,0000,,{\an8}What? Last train?
+Dialogue: 0,0:23:47.44,0:23:49.94,Italics,ODOKAWA,0000,0000,0000,,{\an8}In that case, have \Na Happy New Year, everyone.
