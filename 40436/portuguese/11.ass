@@ -1,0 +1,220 @@
+﻿[Script Info]
+Title: [Erai-raws] Português (Brasil)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 100.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,60,&H0000FFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0020,1
+Style: Main,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Italics_Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Show_Title,Times New Roman,24,&H001C0134,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0020,1
+Style: Ep_Title,Times New Roman,18,&H00FFFFFF,&H000000FF,&H8C000000,&H8C000000,0,0,0,0,100,100,0,0,1,1,1,9,0050,0045,0050,1
+Style: Main Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: OP,Trebuchet MS,22,&H000703CE,&H000000FF,&H00FFFFFF,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,0010,0010,0018,1
+Style: Flashback,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: ED,Trebuchet MS,22,&H00D84615,&H000000FF,&H00FFFFFF,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,0010,0010,0018,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.17,0:00:11.75,OP,,0000,0000,0000,,A chance de ser um herói já era....
+Dialogue: 0,0:00:10.00,0:00:21.12,Show_Title,,0000,0000,0000,,{\pos(324,61)\c&H250046&\fad(900,1)}Peter Grill and the Philosopher's Time
+Dialogue: 0,0:00:14.63,0:00:18.04,OP,,0000,0000,0000,,Mergulhei em um buraco sem saída
+Dialogue: 0,0:00:21.17,0:00:24.42,OP,,0000,0000,0000,,Estou contra a parede...\Nquero dizer, como eu poderia resistir?
+Dialogue: 0,0:00:24.42,0:00:27.67,OP,,0000,0000,0000,,"Isso não deveria acontecer", continuo negando
+Dialogue: 0,0:00:27.67,0:00:33.88,OP,,0000,0000,0000,,Queria apenas desaparecer... eu não suporto
+Dialogue: 0,0:00:33.88,0:00:37.21,OP,,0000,0000,0000,,Andando de um lado pro outro, espalhando\Nmentiras, sofrendo por coração partido
+Dialogue: 0,0:00:37.21,0:00:40.04,OP,,0000,0000,0000,,Me agarro desesperado\Na esses sentimentos e fecho os olhos
+Dialogue: 0,0:00:40.38,0:00:43.63,OP,,0000,0000,0000,,Mas o remorso se recusa a desaparecer!
+Dialogue: 0,0:00:43.63,0:00:47.25,OP,,0000,0000,0000,,Sou sufocado sob esse peso
+Dialogue: 0,0:00:48.08,0:00:51.46,OP,,0000,0000,0000,,A chance de ser um herói já era....
+Dialogue: 0,0:00:51.46,0:00:54.58,OP,,0000,0000,0000,,Sempre sou desencorajado por minhas fraquezas
+Dialogue: 0,0:00:54.58,0:00:57.79,OP,,0000,0000,0000,,Caio de joelhos e rastejo aos seus pés
+Dialogue: 0,0:00:57.79,0:01:01.08,OP,,0000,0000,0000,,Me apegando de forma egoísta\Nà esperança pelo perdão
+Dialogue: 0,0:01:01.08,0:01:04.25,OP,,0000,0000,0000,,Mergulhei em um buraco sem saída
+Dialogue: 0,0:01:04.25,0:01:07.50,OP,,0000,0000,0000,,Cheio de arrependimento e impotente para mudar
+Dialogue: 0,0:01:07.50,0:01:10.58,OP,,0000,0000,0000,,Sinto meu coração sendo despedaçado
+Dialogue: 0,0:01:10.58,0:01:14.42,OP,,0000,0000,0000,,Nesta noite de vergonha e desespero sem fim
+Dialogue: 0,0:01:20.38,0:01:23.63,OP,,0000,0000,0000,,Por que não consigo agir direito?
+Dialogue: 0,0:01:26.63,0:01:29.83,OP,,0000,0000,0000,,Tenho apenas esse meu eu patético...
+Dialogue: 0,0:01:32.50,0:01:33.83,Italics,,0000,0000,0000,,É isso mesmo...
+Dialogue: 0,0:01:32.54,0:01:36.92,Ep_Title,,0000,0000,0000,,{\fad(800,700)}Episódio 11 : Peter Grill e os modos no duelo
+Dialogue: 0,0:01:34.38,0:01:36.21,Italics,,0000,0000,0000,,Clareie sua mente, Peter Grill!
+Dialogue: 0,0:01:37.21,0:01:39.25,Italics,,0000,0000,0000,,Se eu perder esta disputa...
+Dialogue: 0,0:01:39.75,0:01:44.38,Italics,,0000,0000,0000,,O Spartokos-kun vai levar a Lisa\Nde volta para a terra natal dela!
+Dialogue: 0,0:01:44.96,0:01:46.42,Italics,,0000,0000,0000,,Isso é perfeito...
+Dialogue: 0,0:01:46.63,0:01:49.71,Italics,,0000,0000,0000,,Basta eu perder de propósito!
+Dialogue: 0,0:01:52.67,0:01:54.54,Main,,0000,0000,0000,,Peter Grill...
+Dialogue: 0,0:01:54.96,0:01:56.08,Main,,0000,0000,0000,,Olhe ali.
+Dialogue: 0,0:02:06.04,0:02:07.46,Italics,,0000,0000,0000,,Não pode ser!
+Dialogue: 0,0:02:08.25,0:02:12.42,Main,,0000,0000,0000,,É melhor não pensar em perder de propósito.
+Dialogue: 0,0:02:12.83,0:02:17.71,Main,,0000,0000,0000,,A menos que não queira manter\Nmais nossa relação em segredo.
+Dialogue: 0,0:02:20.08,0:02:23.79,Italics,,0000,0000,0000,,S-Sabem exatamente qual era o meu plano...
+Dialogue: 0,0:02:25.63,0:02:26.58,Main,,0000,0000,0000,,Muito bem,
+Dialogue: 0,0:02:26.58,0:02:28.25,Main,,0000,0000,0000,,aproximem-se, desafiantes!
+Dialogue: 0,0:02:32.63,0:02:36.42,Main,,0000,0000,0000,,Pelo nome da Guilda dos Guerreiros\Nde Yakeppachi e das Forças Armadas de Ogrestan,
+Dialogue: 0,0:02:36.42,0:02:41.13,Main,,0000,0000,0000,,espero que os dois deem tudo de si\Nnesta luta, defendendo sua honra!
+Dialogue: 0,0:02:42.54,0:02:44.75,Main,,0000,0000,0000,,Cavalheiros, estão preparados?
+Dialogue: 0,0:02:44.96,0:02:46.54,Main,,0000,0000,0000,,Sim, totalmente!
+Dialogue: 0,0:02:46.71,0:02:48.79,Main,,0000,0000,0000,,C-Claro...
+Dialogue: 0,0:02:54.88,0:02:56.46,Main,,0000,0000,0000,,Peter Grill-dono.
+Dialogue: 0,0:02:57.13,0:03:01.33,Main,,0000,0000,0000,,Se lembra de nossa primeira conversa?
+Dialogue: 0,0:03:01.92,0:03:04.04,Flashback,,0000,0000,0000,,Se o seu amor é verdadeiro,
+Dialogue: 0,0:03:04.04,0:03:07.96,Flashback,,0000,0000,0000,,tenho certeza de que os deuses\Nirão iluminar seu caminho.
+Dialogue: 0,0:03:11.83,0:03:15.17,Main,,0000,0000,0000,,Foi absurdo de minha parte\Npregar as virtudes do amor
+Dialogue: 0,0:03:15.17,0:03:19.88,Main,,0000,0000,0000,,para alguém que não sabe fazer\Noutra coisa senão ser trair as pessoas!
+Dialogue: 0,0:03:20.25,0:03:23.42,Main,,0000,0000,0000,,Normalmente, eu nem perderia\Nmeu tempo com um duelo.
+Dialogue: 0,0:03:23.42,0:03:28.17,Main,,0000,0000,0000,,Anunciar seu comportamento traiçoeiro\Nao mundo seria uma conclusão mais rápida.
+Dialogue: 0,0:03:29.29,0:03:30.33,Main,,0000,0000,0000,,No entanto!
+Dialogue: 0,0:03:30.33,0:03:36.96,Main,,0000,0000,0000,,Meu orgulho como ogro\Nnão permite tal ato de covardia!
+Dialogue: 0,0:03:39.54,0:03:41.33,Main,,0000,0000,0000,,A-Aquela pose...
+Dialogue: 0,0:03:41.33,0:03:43.38,Main,,0000,0000,0000,,Quê? Você conhece, Tim?
+Dialogue: 0,0:03:43.54,0:03:45.79,Main,,0000,0000,0000,,Sim, não há dúvidas...
+Dialogue: 0,0:03:45.88,0:03:50.04,Main,,0000,0000,0000,,Aquela pose é do estilo Gigan Duplo Tomahawk,
+Dialogue: 0,0:03:50.04,0:03:53.96,Main,,0000,0000,0000,,uma técnica imbatível, usada\Npelo temível exército de Ogrestan!
+Dialogue: 0,0:03:53.96,0:03:59.83,Main,,0000,0000,0000,,Dizem que nenhum ser vivo é capaz de sobreviver\Nao peso esmagador com que o vórtice gira...
+Dialogue: 0,0:04:03.63,0:04:06.32,Main,,0000,0000,0000,,Estou comprometido com a busca\Ndo amor verdadeiro.
+Dialogue: 0,0:04:06.32,0:04:10.63,Main,,0000,0000,0000,,É absurda a ideia de ser derrotado\Npor alguém como você!
+Dialogue: 0,0:04:11.04,0:04:16.63,Main,,0000,0000,0000,,Eu, Antonio Spartokos,\Namo Lisa-sama desde criança...
+Dialogue: 0,0:04:17.79,0:04:22.71,Main,,0000,0000,0000,,Para que ela me visse como um homem,\Nme esforcei para aprimorar minhas habilidades...
+Dialogue: 0,0:04:26.08,0:04:29.38,Main,,0000,0000,0000,,Além de manter um código estrito\Nde abstinência sexual!
+Dialogue: 0,0:04:29.63,0:04:30.42,Main,,0000,0000,0000,,Hein?
+Dialogue: 0,0:04:30.75,0:04:31.88,Main,,0000,0000,0000,,É virgem?
+Dialogue: 0,0:04:32.08,0:04:33.88,Main,,0000,0000,0000,,Ele é virgem?!
+Dialogue: 0,0:04:33.96,0:04:35.96,Main,,0000,0000,0000,,Virgem, com aquela cara?
+Dialogue: 0,0:04:36.13,0:04:38.46,Main,,0000,0000,0000,,Pegue leve com ele, Peter.
+Dialogue: 0,0:04:38.54,0:04:40.67,Main,,0000,0000,0000,,Tenha compaixão!
+Dialogue: 0,0:04:41.92,0:04:43.50,Main,,0000,0000,0000,,Perca, Peter.
+Dialogue: 0,0:04:43.67,0:04:45.17,Main,,0000,0000,0000,,Perca, Peter.
+Dialogue: 0,0:04:45.38,0:04:46.75,Main,,0000,0000,0000,,Perca, Peter.
+Dialogue: 0,0:04:47.04,0:04:48.68,Main Top,,0000,0000,0000,,Perca, Peter.
+Dialogue: 0,0:04:48.00,0:04:50.17,Italics,,0000,0000,0000,,Eu também quero perder...
+Dialogue: 0,0:04:48.70,0:04:50.20,Main Top,,0000,0000,0000,,Perca, Peter.
+Dialogue: 0,0:04:50.42,0:04:54.58,Main Top,,0000,0000,0000,,Perca, Peter. Perca, Peter....
+Dialogue: 0,0:04:50.96,0:04:55.21,Italics,,0000,0000,0000,,É a primeira vez na vida\Nque desejo tanto ser derrotado.
+Dialogue: 0,0:04:55.58,0:04:56.92,Italics,,0000,0000,0000,,Mas...
+Dialogue: 0,0:05:00.75,0:05:03.46,Italics,,0000,0000,0000,,Eu terei mesmo que lutar a sério?
+Dialogue: 0,0:05:04.67,0:05:08.50,Main,,0000,0000,0000,,Arte secreta no estilo Gigan:\NLâmina Giratória da Destruição!
+Dialogue: 0,0:05:12.71,0:05:13.83,Italics,,0000,0000,0000,,Me perdoe!
+Dialogue: 0,0:05:15.00,0:05:17.67,Italics,,0000,0000,0000,,Desculpa, Spartokos-kun!
+Dialogue: 0,0:05:33.21,0:05:34.50,Italics,,0000,0000,0000,,Desculpa...
+Dialogue: 0,0:05:34.79,0:05:36.17,Italics,,0000,0000,0000,,Me perdoe!
+Dialogue: 0,0:05:37.50,0:05:40.83,Main,,0000,0000,0000,,Parece que o duelo já foi decidido.
+Dialogue: 0,0:05:41.71,0:05:43.17,Main,,0000,0000,0000,,L-Lisa-sama!
+Dialogue: 0,0:05:43.17,0:05:44.88,Main,,0000,0000,0000,,E-Esse resultado não é o que parece!
+Dialogue: 0,0:05:44.88,0:05:46.75,Main,,0000,0000,0000,,E o que deveria parecer?
+Dialogue: 0,0:05:46.92,0:05:50.24,Main,,0000,0000,0000,,Está mais do que clara a diferença\Nde força com o Peter Grill.
+Dialogue: 0,0:05:51.08,0:05:51.88,Main,,0000,0000,0000,,E eu...
+Dialogue: 0,0:05:52.67,0:05:54.79,Main,,0000,0000,0000,,Não tenho interesse em fracotes!
+Dialogue: 0,0:05:57.67,0:06:02.63,Main,,0000,0000,0000,,E-Ei, ele fez de tudo para chegar\Naté aqui e te encontrar, certo?
+Dialogue: 0,0:06:03.21,0:06:06.08,Main,,0000,0000,0000,,Não precisa ser tão dura...
+Dialogue: 0,0:06:06.21,0:06:07.63,Main,,0000,0000,0000,,Peter-dono!
+Dialogue: 0,0:06:07.83,0:06:10.46,Main,,0000,0000,0000,,Lisa-sama! Eu te peço!
+Dialogue: 0,0:06:10.71,0:06:12.67,Main,,0000,0000,0000,,Por favor, uma chance!
+Dialogue: 0,0:06:12.67,0:06:14.96,Main,,0000,0000,0000,,Pode me dar somente mais uma chance?!
+Dialogue: 0,0:06:18.50,0:06:20.46,Main,,0000,0000,0000,,Se insiste tanto,
+Dialogue: 0,0:06:20.46,0:06:23.88,Main,,0000,0000,0000,,te darei mais uma chance de mostrar sua força.
+Dialogue: 0,0:06:24.00,0:06:25.04,Main,,0000,0000,0000,,Lisa-sama!
+Dialogue: 0,0:06:25.08,0:06:29.38,Main,,0000,0000,0000,,Mas na próxima vez, terá que me enfrentar!
+Dialogue: 0,0:06:31.00,0:06:33.83,Main,,0000,0000,0000,,Vou lutar diretamente com a Lisa-sama?!
+Dialogue: 0,0:06:35.38,0:06:37.88,Main,,0000,0000,0000,,Te darei o tempo extra de uma semana.
+Dialogue: 0,0:06:38.08,0:06:41.96,Main,,0000,0000,0000,,Afinal, no seu estado,\Neu já posso imaginar o resultado.
+Dialogue: 0,0:06:50.79,0:06:53.17,Main,,0000,0000,0000,,Bem, eu preciso ir, sabe...
+Dialogue: 0,0:06:53.17,0:06:55.04,Main,,0000,0000,0000,,Peter Grill-dono!
+Dialogue: 0,0:06:55.58,0:06:56.17,Main,,0000,0000,0000,,Hein?!
+Dialogue: 0,0:06:56.17,0:06:57.92,Main,,0000,0000,0000,,E-Ei!
+Dialogue: 0,0:06:58.25,0:07:02.54,Main,,0000,0000,0000,,Por favor, me perdoe por todo\No desrespeito que cometi contra você!
+Dialogue: 0,0:07:02.54,0:07:07.42,Main,,0000,0000,0000,,Ao experienciar o poder do homem\Nque conquistou o Grande Torneio de Luta,
+Dialogue: 0,0:07:07.42,0:07:09.29,Main,,0000,0000,0000,,eu agora sei a verdade por completo!
+Dialogue: 0,0:07:09.92,0:07:13.21,Main,,0000,0000,0000,,Na verdade, desde que eu\Nestava em minha terra natal,
+Dialogue: 0,0:07:13.21,0:07:17.92,Main,,0000,0000,0000,,nunca consegui um bom resultado\Nem todas as minhas lutas contra a Lisa-sama!
+Dialogue: 0,0:07:18.13,0:07:19.54,Main,,0000,0000,0000,,Bem, isso significa que...
+Dialogue: 0,0:07:19.63,0:07:20.75,Main,,0000,0000,0000,,Eu te peço!
+Dialogue: 0,0:07:20.75,0:07:25.25,Main,,0000,0000,0000,,Poderia me aceitar como seu discípulo?!
+Dialogue: 0,0:07:28.38,0:07:30.67,Italics,,0000,0000,0000,,Q-Que saco...
+Dialogue: 0,0:07:30.88,0:07:32.21,Main,,0000,0000,0000,,Por favor!!
+Dialogue: 0,0:07:32.50,0:07:33.83,Main,,0000,0000,0000,,Eu te imploro!
+Dialogue: 0,0:07:33.83,0:07:38.25,Main,,0000,0000,0000,,Se este duelo contra a Lisa-sama for\Nminha única oportunidade na vida,
+Dialogue: 0,0:07:38.25,0:07:41.04,Main,,0000,0000,0000,,eu não posso perder, não importa o custo!
+Dialogue: 0,0:07:41.13,0:07:42.54,Main,,0000,0000,0000,,Bem, eu...
+Dialogue: 0,0:07:42.75,0:07:44.71,Main,,0000,0000,0000,,Eu não aceito discípulos...
+Dialogue: 0,0:07:44.83,0:07:48.25,Main,,0000,0000,0000,,Por favor! Por favor, me ajude!
+Dialogue: 0,0:07:49.33,0:07:51.38,Main,,0000,0000,0000,,Já ouvimos toda a história.
+Dialogue: 0,0:07:53.13,0:07:58.21,Main,,0000,0000,0000,,Deveria aceitar o pedido\Ndesse ogro miserável, Peter Grill.
+Dialogue: 0,0:07:58.29,0:08:01.04,Main,,0000,0000,0000,,E-Eu também peço por isso.
+Dialogue: 0,0:08:01.50,0:08:03.42,Main,,0000,0000,0000,,C-Como assim?
+Dialogue: 0,0:08:04.46,0:08:05.71,Main,,0000,0000,0000,,É bem simples.
+Dialogue: 0,0:08:05.79,0:08:09.25,Main,,0000,0000,0000,,Se focarmos nossos esforços\Npara treinar esse ogro,
+Dialogue: 0,0:08:09.25,0:08:11.79,Main,,0000,0000,0000,,e com isso garantir a vitória dele no duelo,
+Dialogue: 0,0:08:11.92,0:08:18.21,Main,,0000,0000,0000,,consequentemente Lisa Alpacas vai\Nescolher Spartokos e voltar à sua terra natal.
+Dialogue: 0,0:08:18.79,0:08:22.21,Main,,0000,0000,0000,,Acredito que vale a pena\Ntentar cooperarmos nisso.
+Dialogue: 0,0:08:22.42,0:08:23.50,Italics,,0000,0000,0000,,É verdade...
+Dialogue: 0,0:08:23.96,0:08:26.67,Italics,,0000,0000,0000,,Eu não sou capaz de ir contra aquelas duas irmãs...
+Dialogue: 0,0:08:26.79,0:08:29.75,Italics,,0000,0000,0000,,Mas se eu atacar indiretamente,\Najudando o Spartokos-kun...
+Dialogue: 0,0:08:30.04,0:08:33.75,Italics,,0000,0000,0000,,Se ele puder convencer Lisa\Nde sua própria força...
+Dialogue: 0,0:08:34.54,0:08:36.21,Main,,0000,0000,0000,,Certo, vamos tentar!
+Dialogue: 0,0:08:38.46,0:08:41.63,Main,,0000,0000,0000,,No entanto, minhas aulas não são fáceis.
+Dialogue: 0,0:08:42.28,0:08:43.56,Main,,0000,0000,0000,,É capaz de me acompanhar?
+Dialogue: 0,0:08:44.17,0:08:46.38,Main,,0000,0000,0000,,Sim, Peter-dono!
+Dialogue: 0,0:08:47.67,0:08:51.33,Italics,,0000,0000,0000,,Assim, o "Programa de Treinamento\Ndo Ogro" foi colocado em prática.
+Dialogue: 0,0:08:53.88,0:08:54.58,Main,,0000,0000,0000,,De novo!
+Dialogue: 0,0:08:54.83,0:08:55.58,Main,,0000,0000,0000,,De novo!
+Dialogue: 0,0:08:55.92,0:08:56.71,Main,,0000,0000,0000,,De novo!
+Dialogue: 0,0:08:57.00,0:08:57.71,Main,,0000,0000,0000,,De novo!
+Dialogue: 0,0:08:57.83,0:08:58.67,Main,,0000,0000,0000,,Continue!
+Dialogue: 0,0:08:58.79,0:08:59.46,Main,,0000,0000,0000,,Golpeie!
+Dialogue: 0,0:08:59.79,0:09:00.58,Main,,0000,0000,0000,,Golpeie!
+Dialogue: 0,0:09:00.92,0:09:01.79,Main,,0000,0000,0000,,Golpeie!
+Dialogue: 0,0:09:04.96,0:09:08.14,Italics,,0000,0000,0000,,Com Peter Grill, o instrutor\Nde combate mais forte do mundo...
+Dialogue: 0,0:09:12.29,0:09:17.21,Italics,,0000,0000,0000,,Com a magia negra proibida entre os elfos\Nde melhoramento muscular...
+Dialogue: 0,0:09:19.67,0:09:25.33,Italics,,0000,0000,0000,,E uma receita usando ingredientes proibidos\Npela sociedade orc para aumento de força física...
+Dialogue: 0,0:09:34.88,0:09:37.21,Main,,0000,0000,0000,,Mim... forte...
+Dialogue: 0,0:09:37.50,0:09:40.21,Main,,0000,0000,0000,,Mim... vencer.
+Dialogue: 0,0:09:40.38,0:09:43.92,Main,,0000,0000,0000,,Não acham que saiu um pouco fora?
+Dialogue: 0,0:09:48.13,0:09:49.83,Main,,0000,0000,0000,,Peter-sama, aqui está.
+Dialogue: 0,0:09:50.13,0:09:51.13,Main,,0000,0000,0000,,Obrigado.
+Dialogue: 0,0:09:52.46,0:09:54.75,Main,,0000,0000,0000,,Bem, já está na hora do almoço.
+Dialogue: 0,0:09:56.96,0:09:58.00,Main,,0000,0000,0000,,Bom trabalho hoje.
+Dialogue: 0,0:09:58.25,0:10:00.42,Main,,0000,0000,0000,,É a Mitchie, a recepcionista da Guilda?
+Dialogue: 0,0:09:59.54,0:10:01.53,Main Top,,0000,0000,0000,,Agradeço sua gentileza.
+Dialogue: 0,0:10:01.71,0:10:03.04,Main,,0000,0000,0000,,Por que ela está aqui?
+Dialogue: 0,0:10:03.25,0:10:04.79,Main,,0000,0000,0000,,B-Bem...
+Dialogue: 0,0:10:05.04,0:10:08.46,Main,,0000,0000,0000,,Ultimamente, a vejo trazendo comida para ele...
+Dialogue: 0,0:10:08.92,0:10:13.05,Main Top,,0000,0000,0000,,S-Se quiser, preparei mais.
+Dialogue: 0,0:10:08.92,0:10:15.92,Main,,0000,0000,0000,,Imagino que a Mitchie-dono tenha\Nse apaixonado pelo Spartokos-dono.
+Dialogue: 0,0:10:16.92,0:10:17.83,Main,,0000,0000,0000,,Ah!
+Dialogue: 0,0:10:33.79,0:10:37.92,Main,,0000,0000,0000,,Vejo que se preparou com mais treinamento.
+Dialogue: 0,0:10:38.54,0:10:39.63,Main,,0000,0000,0000,,Lisa-sama.
+Dialogue: 0,0:10:40.42,0:10:41.67,Main,,0000,0000,0000,,Hoje é o dia...
+Dialogue: 0,0:10:41.96,0:10:48.21,Main,,0000,0000,0000,,Em que eu, Spartokos,\Nprovarei meu valor como homem!
+Dialogue: 0,0:11:01.58,0:11:04.13,ED,,0000,0000,0000,,No começo era apenas uma paixão
+Dialogue: 0,0:11:04.13,0:11:07.04,ED,,0000,0000,0000,,De repente, isso se tornou\Numa grande fonte de força
+Dialogue: 0,0:11:07.04,0:11:09.83,ED,,0000,0000,0000,,Até que a morte nos separe,\Nvamos envelhecer juntos
+Dialogue: 0,0:11:09.83,0:11:13.08,ED,,0000,0000,0000,,Este é meu desejo sincero:
+Dialogue: 0,0:11:13.08,0:11:15.13,ED,,0000,0000,0000,,Fique comigo, fique comigo
+Dialogue: 0,0:11:15.13,0:11:18.63,ED,,0000,0000,0000,,Por tanto tempo, ao meu lado pela eternidade
+Dialogue: 0,0:11:18.88,0:11:21.88,ED,,0000,0000,0000,,Mesmo exausto pelas lutas diárias
+Dialogue: 0,0:11:21.88,0:11:24.33,ED,,0000,0000,0000,,Ou ensopado por uma tempestade de ira
+Dialogue: 0,0:11:24.50,0:11:27.21,ED,,0000,0000,0000,,Se vai ficar encharcado, não hesitarei
+Dialogue: 0,0:11:27.21,0:11:29.63,ED,,0000,0000,0000,,Em ser o guarda-chuvas para te proteger
+Dialogue: 0,0:11:29.63,0:11:32.42,ED,,0000,0000,0000,,Não é tão frio, se está ao meu lado
+Dialogue: 0,0:11:32.42,0:11:35.13,ED,,0000,0000,0000,,E isso é o bastante
+Dialogue: 0,0:11:35.13,0:11:38.00,ED,,0000,0000,0000,,Você é o meu porto seguro
+Dialogue: 0,0:11:38.00,0:11:41.88,ED,,0000,0000,0000,,Seu sorriso cura minha alma
+Dialogue: 0,0:11:41.88,0:11:44.29,ED,,0000,0000,0000,,Mesmo que eu procure ao redor do mundo
+Dialogue: 0,0:11:44.29,0:11:46.38,ED,,0000,0000,0000,,Não há quem te substitua
+Dialogue: 0,0:11:46.38,0:11:49.38,ED,,0000,0000,0000,,Você é meu porto seguro
+Dialogue: 0,0:11:49.38,0:11:53.33,ED,,0000,0000,0000,,Basta sua presença\Ne meu coração se enche de alegria
+Dialogue: 0,0:11:53.33,0:11:55.54,ED,,0000,0000,0000,,Não importa o quanto eu me magoe
+Dialogue: 0,0:11:55.54,0:11:59.21,ED,,0000,0000,0000,,Ofereço minha vida para te proteger
+Dialogue: 0,0:12:01.50,0:12:03.67,Main,,0000,0000,0000,,Querido Peter Grill.
+Dialogue: 0,0:12:04.21,0:12:06.71,Main,,0000,0000,0000,,Foi um susto saber que agora tem um discípulo!
+Dialogue: 0,0:12:07.08,0:12:10.33,Main,,0000,0000,0000,,Uma hora, eu queria enfrentá-lo também.
+Dialogue: 0,0:12:07.46,0:12:10.75,Ep_Title,,0000,0000,0000,,{\fad(600,1)\fs22\pos(506,136)}Episódio 12 : Peter Grill e o guerreiro que gritou pelo amor

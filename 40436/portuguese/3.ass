@@ -1,0 +1,214 @@
+﻿[Script Info]
+Title: [Erai-raws] Português (Brasil)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 100.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,60,&H0000FFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0020,1
+Style: Main,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Italics_Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Show_Title,Times New Roman,24,&H001C0134,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0020,1
+Style: Ep_Title,Times New Roman,18,&H00FFFFFF,&H000000FF,&H8C000000,&H8C000000,0,0,0,0,100,100,0,0,1,1,1,3,0010,0040,0050,1
+Style: Main Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: OP,Trebuchet MS,22,&H000703CE,&H000000FF,&H00FFFFFF,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,0010,0010,0018,1
+Style: Flashback,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: ED,Trebuchet MS,22,&H00D84615,&H000000FF,&H00FFFFFF,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,0010,0010,0018,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:07.02,0:00:08.15,Main,,0000,0000,0000,,Peter-kun...
+Dialogue: 0,0:00:08.42,0:00:12.26,Main,,0000,0000,0000,,Finalmente descobri de onde vem os bebês.
+Dialogue: 0,0:00:13.60,0:00:15.32,Main,,0000,0000,0000,,Luvellia-senpai.
+Dialogue: 0,0:00:15.64,0:00:17.99,Main,,0000,0000,0000,,Agora entende do que eu falava.
+Dialogue: 0,0:00:21.34,0:00:23.71,Main,,0000,0000,0000,,Venha, vamos colocar empenho
+Dialogue: 0,0:00:24.79,0:00:27.29,Main,,0000,0000,0000,,e fazer uma criança...
+Dialogue: 0,0:00:28.34,0:00:29.55,Main,,0000,0000,0000,,Peter-kun.
+Dialogue: 0,0:00:32.42,0:00:35.13,Main,,0000,0000,0000,,Luvellia-senpai...
+Dialogue: 0,0:00:39.16,0:00:44.39,Main,,0000,0000,0000,,Você vai pagar!
+Dialogue: 0,0:00:41.22,0:00:45.18,Main,,0000,0000,0000,,O quê?!
+Dialogue: 0,0:00:55.95,0:00:59.53,OP,,0000,0000,0000,,A chance de ser um herói já era...
+Dialogue: 0,0:00:57.66,0:01:08.79,Show_Title,,0000,0000,0000,,{\pos(324,61)\c&H250046&\fad(900,1)}Peter Grill and the Philosopher's Time
+Dialogue: 0,0:01:02.33,0:01:05.74,OP,,0000,0000,0000,,Mergulhei em um buraco sem saída
+Dialogue: 0,0:01:08.87,0:01:12.12,OP,,0000,0000,0000,,Estou contra a parede...\Nquero dizer, como eu poderia resistir?
+Dialogue: 0,0:01:12.12,0:01:15.37,OP,,0000,0000,0000,,"Isso não deveria acontecer", continuo negando
+Dialogue: 0,0:01:15.37,0:01:21.58,OP,,0000,0000,0000,,Queria apenas desaparecer... eu não suporto
+Dialogue: 0,0:01:21.58,0:01:24.91,OP,,0000,0000,0000,,Andando de um lado pro outro, espalhando\Nmentiras, sofrendo por coração partido
+Dialogue: 0,0:01:24.91,0:01:27.74,OP,,0000,0000,0000,,Me agarro desesperado\Na esses sentimentos e fecho os olhos
+Dialogue: 0,0:01:28.08,0:01:31.33,OP,,0000,0000,0000,,Mas o remorso se recusa a desaparecer!
+Dialogue: 0,0:01:31.33,0:01:34.95,OP,,0000,0000,0000,,Sou sufocado sob esse peso
+Dialogue: 0,0:01:35.78,0:01:39.16,OP,,0000,0000,0000,,A chance de ser um herói já era....
+Dialogue: 0,0:01:39.16,0:01:42.28,OP,,0000,0000,0000,,Sempre sou desencorajado por minhas fraquezas
+Dialogue: 0,0:01:42.28,0:01:45.49,OP,,0000,0000,0000,,Caio de joelhos e rastejo aos seus pés
+Dialogue: 0,0:01:45.49,0:01:48.78,OP,,0000,0000,0000,,Me apegando de forma egoísta\Nà esperança pelo perdão
+Dialogue: 0,0:01:48.78,0:01:51.95,OP,,0000,0000,0000,,Mergulhei em um buraco sem saída
+Dialogue: 0,0:01:51.95,0:01:55.20,OP,,0000,0000,0000,,Cheio de arrependimento e impotente para mudar
+Dialogue: 0,0:01:55.20,0:01:58.28,OP,,0000,0000,0000,,Sinto meu coração sendo despedaçado
+Dialogue: 0,0:01:58.28,0:02:02.12,OP,,0000,0000,0000,,Nesta noite de vergonha e desespero sem fim
+Dialogue: 0,0:02:08.08,0:02:11.33,OP,,0000,0000,0000,,Por que não consigo agir direito?
+Dialogue: 0,0:02:14.33,0:02:17.53,OP,,0000,0000,0000,,Tenho apenas esse meu eu patético...
+Dialogue: 0,0:02:20.40,0:02:23.32,Italics_Top,,0000,0000,0000,,É-É um monstro? Não, é um ladrão, certo?
+Dialogue: 0,0:02:20.76,0:02:27.80,Ep_Title,,0000,0000,0000,,{\fad(800,700)\pos(389,304)}Episódio 3: Peter Grill e relacionamentos com elfos
+Dialogue: 0,0:02:23.32,0:02:25.24,Italics_Top,,0000,0000,0000,,Pare de se debater!
+Dialogue: 0,0:02:25.60,0:02:27.42,Italics_Top,,0000,0000,0000,,Que tal? Toma isso!
+Dialogue: 0,0:02:27.42,0:02:29.82,Italics_Top,,0000,0000,0000,,Hã? O que está fazendo, seu patife?!
+Dialogue: 0,0:02:29.82,0:02:31.94,Italics,,0000,0000,0000,,Bastava você continuar adormecido!
+Dialogue: 0,0:02:31.94,0:02:35.12,Main,,0000,0000,0000,,Que barulheira o Peter está fazendo...
+Dialogue: 0,0:02:35.12,0:02:37.14,Main,,0000,0000,0000,,Ele não sabe das regras daqui?
+Dialogue: 0,0:02:37.14,0:02:38.97,Italics,,0000,0000,0000,,Ei, vou entrar.
+Dialogue: 0,0:02:40.10,0:02:42.97,Main,,0000,0000,0000,,Que bagunça é essa no escuro?
+Dialogue: 0,0:02:45.54,0:02:47.42,Main,,0000,0000,0000,,Tome, seu...
+Dialogue: 0,0:02:56.94,0:02:59.90,Main,,0000,0000,0000,,U-Uma... garota?
+Dialogue: 0,0:03:03.26,0:03:05.36,Main,,0000,0000,0000,,Me solte, idiota!
+Dialogue: 0,0:03:07.74,0:03:11.30,Main,,0000,0000,0000,,Fique tranquilo, não contarei\Npara ninguém sobre isso.
+Dialogue: 0,0:03:11.30,0:03:13.13,Main,,0000,0000,0000,,Eu, Tim Robson, sairei tranquilamente.
+Dialogue: 0,0:03:13.58,0:03:16.82,Main,,0000,0000,0000,,Não é isso! Entendeu errado! Espere, Tim-kun!
+Dialogue: 0,0:03:16.82,0:03:18.32,Main,,0000,0000,0000,,Não é o que pensa!
+Dialogue: 0,0:03:18.32,0:03:21.02,Italics_Top,,0000,0000,0000,,Tim-kun!
+Dialogue: 0,0:03:18.82,0:03:22.05,Main,,0000,0000,0000,,Está pulando a cerca? Que coragem ele tem.
+Dialogue: 0,0:03:25.22,0:03:28.06,Main,,0000,0000,0000,,Terei que usar a tática padrão.
+Dialogue: 0,0:03:30.31,0:03:32.72,Main,,0000,0000,0000,,Meu nome é Vegan Eldoriel!
+Dialogue: 0,0:03:32.72,0:03:34.78,Main,,0000,0000,0000,,Vim da vila dos elfos
+Dialogue: 0,0:03:34.78,0:03:38.57,Main,,0000,0000,0000,,como uma embaixadadora especial da boa fé!
+Dialogue: 0,0:03:39.00,0:03:40.30,Italics,,0000,0000,0000,,Elfos?
+Dialogue: 0,0:03:40.72,0:03:42.28,Italics,,0000,0000,0000,,Um ser semi-humano?
+Dialogue: 0,0:03:42.28,0:03:43.86,Italics,,0000,0000,0000,,Além de ser uma garota?
+Dialogue: 0,0:03:44.14,0:03:47.96,Italics,,0000,0000,0000,,Agora eu tive um pressentimento terrível!
+Dialogue: 0,0:03:47.96,0:03:52.08,Italics,,0000,0000,0000,,Não me diga que essa garota\Né igual àquelas duas irmãs ogras...
+Dialogue: 0,0:03:52.50,0:03:55.58,Main,,0000,0000,0000,,A razão para eu vir aqui é uma só.
+Dialogue: 0,0:03:59.06,0:04:02.14,Main,,0000,0000,0000,,Eu vim para receber seu sêmen!
+Dialogue: 0,0:04:02.14,0:04:03.05,Italics,,0000,0000,0000,,Eu sabia!
+Dialogue: 0,0:04:03.48,0:04:05.50,Main,,0000,0000,0000,,Tenho medo de perguntar, mas preciso.
+Dialogue: 0,0:04:05.50,0:04:07.48,Main,,0000,0000,0000,,Por que um filho meu?
+Dialogue: 0,0:04:07.48,0:04:09.56,Main,,0000,0000,0000,,Sim, que ótimo que tenha perguntado!
+Dialogue: 0,0:04:09.86,0:04:11.94,Main,,0000,0000,0000,,Nós, honrados elfos,
+Dialogue: 0,0:04:11.94,0:04:16.10,Main,,0000,0000,0000,,se temos a necessidade de ter o sêmen\Nde vocês, humanos, seres inferiores,
+Dialogue: 0,0:04:16.10,0:04:20.48,Main,,0000,0000,0000,,é exatamente para salvar\Na vila dos elfos de um extermínio!
+Dialogue: 0,0:04:20.98,0:04:23.12,Main,,0000,0000,0000,,É uma história humilhante,
+Dialogue: 0,0:04:23.12,0:04:26.40,Main,,0000,0000,0000,,mas a vila dos elfos se mantém participando\Ndo Grande Torneio de Luta,
+Dialogue: 0,0:04:26.40,0:04:28.94,Main,,0000,0000,0000,,e mesmo assim, nunca\Nconseguiu um bom resultado!
+Dialogue: 0,0:04:29.34,0:04:31.84,Main,,0000,0000,0000,,Com isso, as nações fronteiriças\Ndesdenham de nós,
+Dialogue: 0,0:04:31.84,0:04:33.50,Main,,0000,0000,0000,,sofremos com invasões
+Dialogue: 0,0:04:33.50,0:04:36.58,Main,,0000,0000,0000,,e perdemos nossa posição internacionalmente.
+Dialogue: 0,0:04:37.08,0:04:39.76,Main,,0000,0000,0000,,Planejamos vários modos de combater isso,
+Dialogue: 0,0:04:39.76,0:04:42.46,Main,,0000,0000,0000,,mas basicamente, os elfos\Npossuem corpos frágeis.
+Dialogue: 0,0:04:42.86,0:04:46.09,Main,,0000,0000,0000,,A História prova que não\Nnos damos bem lutando.
+Dialogue: 0,0:04:46.66,0:04:47.94,Main,,0000,0000,0000,,Foi assim que, por fim,
+Dialogue: 0,0:04:47.94,0:04:54.60,Main,,0000,0000,0000,,o grande conselho adotou a resolução de que\Ndevemos atrair um sangue talentoso de fora!
+Dialogue: 0,0:04:55.06,0:04:58.36,Main,,0000,0000,0000,,E eu, nomeada como\Nembaixadora especial da boa fé,
+Dialogue: 0,0:04:58.36,0:05:01.68,Main,,0000,0000,0000,,tenho a missão de levar o seu sêmen para a vila!
+Dialogue: 0,0:05:01.68,0:05:04.61,Main,,0000,0000,0000,,Muito bem! Dito isso, Peter Grill...
+Dialogue: 0,0:05:05.62,0:05:10.06,Main,,0000,0000,0000,,P-Pode ficar à vontade e...
+Dialogue: 0,0:05:11.48,0:05:13.12,Main,,0000,0000,0000,,se satisfazer o quanto quiser.
+Dialogue: 0,0:05:13.12,0:05:17.42,Italics,,0000,0000,0000,,Por que esses semi-humanos nunca\Nse importam com a minha situação?!
+Dialogue: 0,0:05:17.42,0:05:19.75,Italics,,0000,0000,0000,,Todos os semi-humanos são assim?!
+Dialogue: 0,0:05:19.98,0:05:25.12,Main,,0000,0000,0000,,Bem, para ser sincero, não é ruim\Nque uma garota bonita dê em cima de mim...
+Dialogue: 0,0:05:26.30,0:05:29.01,Main,,0000,0000,0000,,Claro, não é mesmo?
+Dialogue: 0,0:05:29.42,0:05:35.27,Main,,0000,0000,0000,,Mas eu terei que recusar a sua proposta!
+Dialogue: 0,0:05:35.27,0:05:36.62,Main,,0000,0000,0000,,Quê?!
+Dialogue: 0,0:05:37.88,0:05:39.46,Main,,0000,0000,0000,,Impossível!
+Dialogue: 0,0:05:39.46,0:05:41.74,Main,,0000,0000,0000,,Está dizendo que um simples humano como você
+Dialogue: 0,0:05:41.74,0:05:45.10,Main,,0000,0000,0000,,vai perder a chance de levar uma elfa\Nde honra como eu para a cama?!
+Dialogue: 0,0:05:45.10,0:05:47.06,Italics,,0000,0000,0000,,Nem esconde o desdém dos humanos.
+Dialogue: 0,0:05:47.06,0:05:48.82,Italics,,0000,0000,0000,,Por isso que esses elfos são tão...
+Dialogue: 0,0:05:49.04,0:05:52.62,Main,,0000,0000,0000,,Droga! Já que é assim, eu vou arrancar\Nde você, nem que seja a força!
+Dialogue: 0,0:05:52.62,0:05:55.83,Main,,0000,0000,0000,,Perderá seu tempo! Olhe bem aqui!
+Dialogue: 0,0:05:59.58,0:06:02.52,Main,,0000,0000,0000,,M-Maldito! Significa que...
+Dialogue: 0,0:06:02.52,0:06:07.09,Main,,0000,0000,0000,,Está dizendo que não tem ereção\Nolhando para o meu corpo?!
+Dialogue: 0,0:06:07.09,0:06:09.16,Main,,0000,0000,0000,,Por quê? Por quê?
+Dialogue: 0,0:06:09.16,0:06:11.80,Main,,0000,0000,0000,,Por que não tem ereção?!
+Dialogue: 0,0:06:11.80,0:06:17.85,Main,,0000,0000,0000,,Significa que sem a química entre dois corações,\No sangue não vai para os corpos cavernosos!
+Dialogue: 0,0:06:19.58,0:06:21.04,Main,,0000,0000,0000,,Ah, não...
+Dialogue: 0,0:06:21.04,0:06:22.76,Main,,0000,0000,0000,,Seu inútil!
+Dialogue: 0,0:06:22.76,0:06:26.86,Main,,0000,0000,0000,,Assim não posso cumprir\Nmeu papel como embaixadora!
+Dialogue: 0,0:06:27.54,0:06:29.50,Main,,0000,0000,0000,,Já que é assim, só me resta...
+Dialogue: 0,0:06:30.00,0:06:31.80,Main,,0000,0000,0000,,Usar "aquilo"!
+Dialogue: 0,0:06:34.00,0:06:38.90,Main,,0000,0000,0000,,{\i1}Senbine poubasa kyurinvenya terisosuprun...{\i0}
+Dialogue: 0,0:06:38.90,0:06:44.50,Main,,0000,0000,0000,,{\i1}Akiroviya parinsu supreme eme...{\i0}
+Dialogue: 0,0:06:44.52,0:06:47.13,Main,,0000,0000,0000,,E-Espere! O que pretende fazer?!
+Dialogue: 0,0:06:48.76,0:06:49.76,Main,,0000,0000,0000,,Tome!
+Dialogue: 0,0:06:51.46,0:06:53.74,Main,,0000,0000,0000,,E-Esse brilho...
+Dialogue: 0,0:06:55.14,0:06:56.48,Main,,0000,0000,0000,,Um encantamento?!
+Dialogue: 0,0:06:56.48,0:06:58.36,Main,,0000,0000,0000,,O que fez na minha virilha?!
+Dialogue: 0,0:06:59.90,0:07:02.76,Main,,0000,0000,0000,,Agora é tarde para se arrepender, idiota!
+Dialogue: 0,0:07:03.08,0:07:05.24,Main,,0000,0000,0000,,A magia que lancei agora em você
+Dialogue: 0,0:07:05.24,0:07:09.36,Main,,0000,0000,0000,,é algo selado cuidadosamente \Nna nossa vila dos elfos.
+Dialogue: 0,0:07:09.36,0:07:11.78,Main,,0000,0000,0000,,Um terrível encantamento proibido!
+Dialogue: 0,0:07:11.78,0:07:13.78,Main,,0000,0000,0000,,E-Encantamento proibido?!
+Dialogue: 0,0:07:13.78,0:07:15.41,Main,,0000,0000,0000,,Peter Grill...
+Dialogue: 0,0:07:15.41,0:07:18.04,Main,,0000,0000,0000,,Vou te dizer uma profecia.
+Dialogue: 0,0:07:18.44,0:07:25.20,Main,,0000,0000,0000,,Na noite de amanhã, você virá a mim se arrastando\Nno chão e implorando de forma miserável:
+Dialogue: 0,0:07:26.00,0:07:28.98,Main,,0000,0000,0000,,"por favor, aceite o meu sêmen,
+Dialogue: 0,0:07:28.98,0:07:32.05,Main,,0000,0000,0000,,eu imploro para que vá\Npara a cama comigo", é o que dirá!
+Dialogue: 0,0:07:32.26,0:07:34.30,Main,,0000,0000,0000,,Por que diz algo tão específico?!
+Dialogue: 0,0:07:34.50,0:07:37.06,Main,,0000,0000,0000,,Isso é tudo nesta noite. Adeus!
+Dialogue: 0,0:07:37.06,0:07:38.81,Main,,0000,0000,0000,,E-Espere aí!
+Dialogue: 0,0:07:42.18,0:07:45.32,Italics,,0000,0000,0000,,O brilho se foi e não vejo\Nnada de estranho na minha virilha.
+Dialogue: 0,0:07:45.96,0:07:50.44,Italics,,0000,0000,0000,,Pra começar, nunca ouvi falar de um encanto\Npara ser aplicado aqui em baixo.
+Dialogue: 0,0:07:50.76,0:07:54.28,Italics,,0000,0000,0000,,Que besteira. Deve ser um blefe.
+Dialogue: 0,0:07:55.44,0:07:58.90,Main,,0000,0000,0000,,Hoje tenho que eliminar\Nanimais que são ameaçadores.
+Dialogue: 0,0:07:58.90,0:08:00.80,Main,,0000,0000,0000,,Me sinto empolgado.
+Dialogue: 0,0:08:06.00,0:08:12.38,Main,,0000,0000,0000,,Pelo que os moradores da vila contaram,\Neles aparecem junto com o cair da noite, certo?
+Dialogue: 0,0:08:15.70,0:08:16.98,Main,,0000,0000,0000,,Luvellia-sama.
+Dialogue: 0,0:08:16.98,0:08:18.76,Main,,0000,0000,0000,,Logo vai anoitecer.
+Dialogue: 0,0:08:19.08,0:08:23.32,Main,,0000,0000,0000,,Será perigoso se escurecer, já que não temos\Ndefinido o local onde ele vive.
+Dialogue: 0,0:08:23.58,0:08:26.50,Main,,0000,0000,0000,,Vamos esperar a chegada\Ndo grupo de extermínio e novamente...
+Dialogue: 0,0:08:27.50,0:08:28.74,Main,,0000,0000,0000,,Que foi?
+Dialogue: 0,0:08:28.74,0:08:31.44,Main,,0000,0000,0000,,L-Livellia-sama! Olhe sob seus pés!
+Dialogue: 0,0:08:34.94,0:08:37.12,Main,,0000,0000,0000,,I-Isto é...
+Dialogue: 0,0:08:47.38,0:08:51.00,Main,,0000,0000,0000,,Peter-san! Temos problemas! A Luvellia-sama...
+Dialogue: 0,0:08:52.00,0:08:56.54,Main,,0000,0000,0000,,A senpai já seguiu para a vila de águas\Ntermais, em um grupo avançado, certo?
+Dialogue: 0,0:08:56.54,0:08:57.64,Main,,0000,0000,0000,,Também estou indo...
+Dialogue: 0,0:08:57.98,0:09:02.36,Main,,0000,0000,0000,,Recebemos uma mensagem há pouco dizendo\Nque encontraram um tipo de animal ameaçador...
+Dialogue: 0,0:09:02.76,0:09:05.39,Main,,0000,0000,0000,,Pelas informações, deve ser este o monstro,
+Dialogue: 0,0:09:05.39,0:09:07.88,Main,,0000,0000,0000,,um Great Worm Goblin!
+Dialogue: 0,0:09:08.80,0:09:09.48,Main,,0000,0000,0000,,Hein?
+Dialogue: 0,0:09:09.48,0:09:11.30,Main,,0000,0000,0000,,Ah, peguei outro.
+Dialogue: 0,0:09:11.65,0:09:13.10,Main,,0000,0000,0000,,É este!
+Dialogue: 0,0:09:13.50,0:09:14.78,Main,,0000,0000,0000,,Esse aí é...
+Dialogue: 0,0:09:16.24,0:09:19.30,Main,,0000,0000,0000,,Ele aparece junto com o cair da noite.
+Dialogue: 0,0:09:19.30,0:09:23.32,Main,,0000,0000,0000,,Dizem que devora os homens\Ne estupra as mulheres!
+Dialogue: 0,0:09:28.96,0:09:30.90,Italics,,0000,0000,0000,,Luvellia-senpai...
+Dialogue: 0,0:09:33.00,0:09:34.58,Main,,0000,0000,0000,,Ah, senpai!
+Dialogue: 0,0:09:42.60,0:09:44.14,Main,,0000,0000,0000,,Maldito demônio!
+Dialogue: 0,0:09:44.14,0:09:46.04,Main,,0000,0000,0000,,Luvellia-sama, é perigoso!
+Dialogue: 0,0:09:46.04,0:09:47.76,Main,,0000,0000,0000,,Eu servirei como escudo,
+Dialogue: 0,0:09:47.76,0:09:49.90,Main,,0000,0000,0000,,enquanto isso, fuja, por favor!
+Dialogue: 0,0:09:53.92,0:09:58.12,Main,,0000,0000,0000,,Sendo uma cavaleira,\Nnão posso recuar nesta situação!
+Dialogue: 0,0:10:14.14,0:10:16.26,Main,,0000,0000,0000,,Me solte, maldito!
+Dialogue: 0,0:10:25.10,0:10:26.89,Main,,0000,0000,0000,,Luvelli-sama!
+Dialogue: 0,0:10:37.24,0:10:40.64,Italics,,0000,0000,0000,,Não tem jeito, não vou conseguir vencê-lo...
+Dialogue: 0,0:10:55.46,0:10:57.21,Italics,,0000,0000,0000,,Me salve...
+Dialogue: 0,0:10:57.56,0:11:00.34,Italics,,0000,0000,0000,,Me salve, Peter-kun!
+Dialogue: 0,0:11:01.30,0:11:03.85,ED,,0000,0000,0000,,No começo era apenas uma paixão
+Dialogue: 0,0:11:03.85,0:11:06.76,ED,,0000,0000,0000,,De repente, isso se tornou\Numa grande fonte de força
+Dialogue: 0,0:11:06.76,0:11:09.55,ED,,0000,0000,0000,,Até que a morte nos separe,\Nvamos envelhecer juntos
+Dialogue: 0,0:11:09.55,0:11:12.80,ED,,0000,0000,0000,,Este é meu desejo sincero:
+Dialogue: 0,0:11:12.80,0:11:14.85,ED,,0000,0000,0000,,Fique comigo, fique comigo
+Dialogue: 0,0:11:14.85,0:11:18.35,ED,,0000,0000,0000,,Por tanto tempo, ao meu lado pela eternidade
+Dialogue: 0,0:11:18.60,0:11:21.60,ED,,0000,0000,0000,,Mesmo exausto pelas lutas diárias
+Dialogue: 0,0:11:21.60,0:11:24.05,ED,,0000,0000,0000,,Ou ensopado por uma tempestade de ira
+Dialogue: 0,0:11:24.22,0:11:26.89,ED,,0000,0000,0000,,Se vai ficar encharcada, não hesitarei
+Dialogue: 0,0:11:26.89,0:11:29.30,ED,,0000,0000,0000,,Em ser o guarda-chuvas para te proteger
+Dialogue: 0,0:11:29.30,0:11:32.10,ED,,0000,0000,0000,,Não é tão frio, se está ao meu lado
+Dialogue: 0,0:11:32.10,0:11:34.80,ED,,0000,0000,0000,,E isso é o bastante
+Dialogue: 0,0:11:34.80,0:11:37.72,ED,,0000,0000,0000,,Você é o meu porto seguro
+Dialogue: 0,0:11:37.72,0:11:41.60,ED,,0000,0000,0000,,Seu sorriso cura minha alma
+Dialogue: 0,0:11:41.60,0:11:44.01,ED,,0000,0000,0000,,Mesmo que eu procure ao redor do mundo
+Dialogue: 0,0:11:44.01,0:11:46.10,ED,,0000,0000,0000,,Não há quem te substitua
+Dialogue: 0,0:11:46.10,0:11:49.10,ED,,0000,0000,0000,,Você é meu porto seguro
+Dialogue: 0,0:11:49.10,0:11:53.05,ED,,0000,0000,0000,,Basta sua presença\Ne meu coração se enche de alegria
+Dialogue: 0,0:11:53.05,0:11:55.26,ED,,0000,0000,0000,,Não importa o quanto eu me magoe
+Dialogue: 0,0:11:55.26,0:11:58.93,ED,,0000,0000,0000,,Ofereço minha vida para te proteger
+Dialogue: 0,0:12:01.02,0:12:03.36,Main,,0000,0000,0000,,Querido Peter Grill.
+Dialogue: 0,0:12:03.36,0:12:06.32,Main,,0000,0000,0000,,Soube que ele foi eliminar animais perigosos,
+Dialogue: 0,0:12:06.32,0:12:10.16,Main,,0000,0000,0000,,sendo o maior guerreiro do mundo,\Nnão há oponentes à sua altura, né?
+Dialogue: 0,0:12:08.22,0:12:10.66,Ep_Title,,0000,0000,0000,,{\fad(600,1)\fs22\pos(466,154)}Episódio 4: Peter Grill e a etiqueta no banho
+Dialogue: 0,0:12:10.16,0:12:12.16,Main,,0000,0000,0000,,

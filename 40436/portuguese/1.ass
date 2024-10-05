@@ -1,0 +1,184 @@
+﻿[Script Info]
+Title: [Erai-raws] Português (Brasil)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 100.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,60,&H0000FFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0020,1
+Style: Main,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Italics_Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Show_Title,Times New Roman,24,&H001C0134,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0020,1
+Style: Ep_Title,Times New Roman,18,&H00FFFFFF,&H000000FF,&H8C000000,&H8C000000,0,0,0,0,100,100,0,0,1,1,1,3,0010,0040,0050,1
+Style: Main Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:07.46,0:00:11.00,Main,,0000,0000,0000,,E agora, o festival decenal\Nde combate conhecido
+Dialogue: 0,0:00:11.00,0:00:14.38,Main,,0000,0000,0000,,como "Grande Torneio de Luta"\Nchega à sua emocionante conclusão!
+Dialogue: 0,0:00:14.58,0:00:19.08,Main,,0000,0000,0000,,Poderá um humano sair vitorioso\Npela primeira vez em 150 anos?!
+Dialogue: 0,0:00:25.83,0:00:27.71,Italics,,0000,0000,0000,,Se eu vencer isto...
+Dialogue: 0,0:00:28.46,0:00:31.17,Italics,,0000,0000,0000,,Nós... Luvellia-senpai e eu...
+Dialogue: 0,0:00:39.08,0:00:41.96,Italics,,0000,0000,0000,,Em algum lugar lá fora, em uma terra distante...
+Dialogue: 0,0:00:42.38,0:00:47.50,Italics,,0000,0000,0000,,Está em andamento a competição de artes marciais,\Nque decidirá o homem mais forte do mundo.
+Dialogue: 0,0:00:51.71,0:00:55.21,Italics,,0000,0000,0000,,O vencedor da competição receberá fama e glória.
+Dialogue: 0,0:00:55.67,0:01:00.08,Italics,,0000,0000,0000,,Por outro lado, ele se tornará\Nobjeto de uma intriga internacional.
+Dialogue: 0,0:01:09.96,0:01:11.25,Main,,0000,0000,0000,,O nosso campeão é...
+Dialogue: 0,0:01:11.50,0:01:13.68,Main,,0000,0000,0000,,Da guilda dos Guerreiros de Yakeppachi,
+Dialogue: 0,0:01:13.92,0:01:15.42,Main,,0000,0000,0000,,Peter Grill!
+Dialogue: 0,0:01:15.44,0:01:16.18,Italics,,0000,0000,0000,,Naquela hora...
+Dialogue: 0,0:01:16.54,0:01:19.50,Italics,,0000,0000,0000,,Peter Grill ainda não sabia do seu futuro.
+Dialogue: 0,0:01:21.63,0:01:24.17,Italics,,0000,0000,0000,,Nem do terror que estava por vir.
+Dialogue: 0,0:01:33.98,0:01:44.70,Show_Title,,0000,0000,0000,,{\pos(324,61)\c&H250046&\fad(900,1)}Peter Grill and the Philosopher's Time
+Dialogue: 0,0:02:55.21,0:02:59.13,Ep_Title,,0000,0000,0000,,{\fad(600,600)\pos(307,292)}Episódio 1: Peter Grill e as irmãs ogro
+Dialogue: 0,0:02:58.13,0:02:59.50,Main,,0000,0000,0000,,Ei, Peter!
+Dialogue: 0,0:02:59.50,0:03:02.00,Main,,0000,0000,0000,,O bar que foi reservado não fica para esse lado!
+Dialogue: 0,0:03:04.54,0:03:05.78,Italics,,0000,0000,0000,,Preciso me apressar.
+Dialogue: 0,0:03:05.83,0:03:07.88,Italics,,0000,0000,0000,,Mal posso esperar para celebrar com ela!
+Dialogue: 0,0:03:08.50,0:03:09.79,Main,,0000,0000,0000,,Senpai...
+Dialogue: 0,0:03:10.17,0:03:11.00,Main,,0000,0000,0000,,Senpai!
+Dialogue: 0,0:03:11.13,0:03:12.46,Main,,0000,0000,0000,,Ah, é você, Mimi.
+Dialogue: 0,0:03:12.46,0:03:14.50,Main,,0000,0000,0000,,Meus parabéns pela vitória!
+Dialogue: 0,0:03:14.50,0:03:18.00,Main,,0000,0000,0000,,Como companheira da mesma guilda,\Nvocê me enche de orgulho!
+Dialogue: 0,0:03:18.17,0:03:21.50,Main,,0000,0000,0000,,E parece que eu sou a primeira a te encontrar.
+Dialogue: 0,0:03:21.79,0:03:23.75,Main,,0000,0000,0000,,Hã? O que tem isso?
+Dialogue: 0,0:03:23.75,0:03:24.88,Main,,0000,0000,0000,,Bem, é que...
+Dialogue: 0,0:03:24.88,0:03:27.42,Main,,0000,0000,0000,,Agora que você é oficialmente\No homem mais forte do mundo,
+Dialogue: 0,0:03:27.42,0:03:29.25,Main,,0000,0000,0000,,quero te pedir uma coisa.
+Dialogue: 0,0:03:31.08,0:03:32.63,Main,,0000,0000,0000,,Não sei o que quer,
+Dialogue: 0,0:03:32.63,0:03:35.79,Main,,0000,0000,0000,,mas estou de bom humor, peça o que quiser!
+Dialogue: 0,0:03:36.04,0:03:38.42,Main,,0000,0000,0000,,Obrigada! Eu fico agradecida, de verdade!
+Dialogue: 0,0:03:39.04,0:03:40.63,Main,,0000,0000,0000,,Então, eu estava pensando...
+Dialogue: 0,0:03:40.67,0:03:41.38,Main,,0000,0000,0000,,Hm?
+Dialogue: 0,0:03:41.52,0:03:43.29,Main,,0000,0000,0000,,Quero sementinhas do seu esperma!
+Dialogue: 0,0:03:45.88,0:03:48.17,Main,,0000,0000,0000,,Ei, o que está dizendo?!
+Dialogue: 0,0:03:48.58,0:03:52.38,Main,,0000,0000,0000,,Ué? Será que eu acabei\Ndizendo algo inapropriado?
+Dialogue: 0,0:03:52.63,0:03:57.29,Main,,0000,0000,0000,,Para nós, ogros, é uma prioridade\Nproduzir descendentes fortes.
+Dialogue: 0,0:03:57.29,0:04:00.02,Main,,0000,0000,0000,,E você sendo o campeão,\Nquero que plante sementinhas...
+Dialogue: 0,0:04:00.02,0:04:02.83,Main,,0000,0000,0000,,O que é normal para os ogros é anormal aqui!
+Dialogue: 0,0:04:02.92,0:04:04.25,Main,,0000,0000,0000,,Me desculpa!
+Dialogue: 0,0:04:04.25,0:04:07.04,Main,,0000,0000,0000,,Esqueci que no reino dos humanos\Nhá esse tipo de regra...
+Dialogue: 0,0:04:07.04,0:04:07.79,Main,,0000,0000,0000,,Que coisa...
+Dialogue: 0,0:04:07.79,0:04:10.79,Main,,0000,0000,0000,,Faz tão pouco tempo que eu cheguei aqui...
+Dialogue: 0,0:04:10.79,0:04:12.96,Italics,,0000,0000,0000,,Bem, ela não é uma má pessoa...
+Dialogue: 0,0:04:12.96,0:04:14.92,Main Top,,0000,0000,0000,,Bem...
+Dialogue: 0,0:04:12.96,0:04:15.33,Italics,,0000,0000,0000,,Mas diz coisas malucas às vezes.
+Dialogue: 0,0:04:15.33,0:04:17.63,Main,,0000,0000,0000,,Tudo bem, já entendi, senpai!
+Dialogue: 0,0:04:18.88,0:04:19.75,Main,,0000,0000,0000,,Quero que você...
+Dialogue: 0,0:04:19.75,0:04:22.38,Main,,0000,0000,0000,,faça sexo comigo!
+Dialogue: 0,0:04:20.74,0:04:23.08,Main,,0000,0000,0000,,Não, você não entendeu nada!
+Dialogue: 0,0:04:23.13,0:04:24.96,Main,,0000,0000,0000,,Melhor parar com isso.
+Dialogue: 0,0:04:26.88,0:04:28.88,Main,,0000,0000,0000,,M-Mana?
+Dialogue: 0,0:04:29.21,0:04:30.63,Main,,0000,0000,0000,,Ah, Lisa!
+Dialogue: 0,0:04:30.83,0:04:32.75,Main,,0000,0000,0000,,Diga alguma coisa sensata para ela!
+Dialogue: 0,0:04:33.25,0:04:36.08,Main,,0000,0000,0000,,Mimi, pare com esse\Ncomportamento agora mesmo.
+Dialogue: 0,0:04:38.21,0:04:41.46,Main,,0000,0000,0000,,Eu que vou ficar com as sementinhas dele!
+Dialogue: 0,0:04:40.72,0:04:42.42,Italics,,0000,0000,0000,,Até você?
+Dialogue: 0,0:04:42.71,0:04:44.33,Main,,0000,0000,0000,,Essa foi por pouco.
+Dialogue: 0,0:04:44.46,0:04:46.25,Main,,0000,0000,0000,,Neste exato momento,
+Dialogue: 0,0:04:46.25,0:04:49.78,Main,,0000,0000,0000,,incontáveis nações começaram\Na corrida para obter seu esperma.
+Dialogue: 0,0:04:49.78,0:04:53.75,Main,,0000,0000,0000,,Sendo eu uma ogra, não posso permitir isso!
+Dialogue: 0,0:04:53.92,0:04:56.21,Main,,0000,0000,0000,,A história comprova que...
+Dialogue: 0,0:04:57.08,0:05:00.29,Main,,0000,0000,0000,,O sangue do guerreiro mais poderoso\Ndeve pertencer aos ogros!
+Dialogue: 0,0:05:00.29,0:05:01.54,Italics,,0000,0000,0000,,Não acredito...
+Dialogue: 0,0:05:01.63,0:05:03.50,Main,,0000,0000,0000,,Venha aqui, Peter Grill...
+Dialogue: 0,0:05:03.79,0:05:06.88,Main,,0000,0000,0000,,Você já entendeu, então, desista de lutar!
+Dialogue: 0,0:05:06.88,0:05:07.75,Main,,0000,0000,0000,,Sério?!
+Dialogue: 0,0:05:08.17,0:05:09.92,Main,,0000,0000,0000,,Isso não pode estar acontecendo!
+Dialogue: 0,0:05:15.92,0:05:17.88,Main,,0000,0000,0000,,Que foi? O que é isso?
+Dialogue: 0,0:05:21.75,0:05:23.88,Main,,0000,0000,0000,,Não sou um cavalo para reprodução!
+Dialogue: 0,0:05:24.42,0:05:25.79,Main,,0000,0000,0000,,Peter Grill!
+Dialogue: 0,0:05:25.79,0:05:29.92,Main,,0000,0000,0000,,Pela honra dos ogros, juro que você não vai fugir!
+Dialogue: 0,0:05:29.92,0:05:30.96,Main,,0000,0000,0000,,Isso!
+Dialogue: 0,0:05:31.83,0:05:35.00,Italics,,0000,0000,0000,,Esqueça elas. Você não tem tempo a perder, Peter!
+Dialogue: 0,0:05:35.21,0:05:37.29,Italics,,0000,0000,0000,,Preciso me apressar!
+Dialogue: 0,0:05:38.17,0:05:39.72,Italics,,0000,0000,0000,,Para ficar logo ao lado dela!
+Dialogue: 0,0:05:42.33,0:05:43.42,Main,,0000,0000,0000,,Luvellia-senpai!
+Dialogue: 0,0:05:44.50,0:05:46.00,Main,,0000,0000,0000,,Olá, Peter-kun.
+Dialogue: 0,0:05:46.00,0:05:47.29,Main,,0000,0000,0000,,Estava te esperando.
+Dialogue: 0,0:05:51.08,0:05:52.38,Main,,0000,0000,0000,,Eu finalmente consegui.
+Dialogue: 0,0:05:52.46,0:05:54.42,Main,,0000,0000,0000,,Com isso, nós certamente vamos...
+Dialogue: 0,0:05:55.04,0:05:56.04,Main,,0000,0000,0000,,Realmente.
+Dialogue: 0,0:05:56.04,0:05:57.67,Main,,0000,0000,0000,,Tendo essa vitória,
+Dialogue: 0,0:05:57.67,0:05:59.33,Main,,0000,0000,0000,,até meu pai tão cabeça-dura
+Dialogue: 0,0:05:59.33,0:06:01.46,Main,,0000,0000,0000,,vai aceitar o nosso casamento.
+Dialogue: 0,0:06:03.80,0:06:05.40,Main,,0000,0000,0000,,E assim que estivermos casados...
+Dialogue: 0,0:06:05.40,0:06:08.50,Main,,0000,0000,0000,,restará apenas termos um filho,\Npara carregar o nome da família.
+Dialogue: 0,0:06:08.75,0:06:11.46,Main,,0000,0000,0000,,Ah... queria conferir uma coisa.
+Dialogue: 0,0:06:11.58,0:06:14.67,Main,,0000,0000,0000,,Pode me lembrar como os bebês são feitos?
+Dialogue: 0,0:06:17.71,0:06:19.46,Main,,0000,0000,0000,,Isso de novo?
+Dialogue: 0,0:06:19.46,0:06:22.50,Main,,0000,0000,0000,,Está zombando de mim por não saber\Ntanto sobre o mundo afora, certo?
+Dialogue: 0,0:06:22.58,0:06:25.25,Main,,0000,0000,0000,,Ouça, os nossos filhos...
+Dialogue: 0,0:06:25.52,0:06:28.38,Main,,0000,0000,0000,,Quando duas pessoas\Nque se amam oferecem suas preces,
+Dialogue: 0,0:06:28.38,0:06:31.21,Main,,0000,0000,0000,,a cegonha leva seu filho\Naté uma plantação de repolhos.
+Dialogue: 0,0:06:31.21,0:06:33.17,Main,,0000,0000,0000,,Isso é o milagre da vida!
+Dialogue: 0,0:06:34.17,0:06:35.75,Italics,,0000,0000,0000,,Ela é tão inocente...
+Dialogue: 0,0:06:36.54,0:06:39.24,Italics,,0000,0000,0000,,Não deixo de pensar\Nque esse é o verdadeiro milagre!
+Dialogue: 0,0:06:41.21,0:06:43.92,Italics,,0000,0000,0000,,Estou há 2 anos em um relacionamento com a senpai.
+Dialogue: 0,0:06:43.92,0:06:47.88,Italics,,0000,0000,0000,,Graças aos métodos superprotetores\Ne a lavagem cerebral do mestre da guilda
+Dialogue: 0,0:06:47.88,0:06:50.88,Italics,,0000,0000,0000,,não fizemos nada\Nalém de ficarmos de mãos dadas!
+Dialogue: 0,0:06:52.33,0:06:55.83,Italics,,0000,0000,0000,,Se nos casarmos e isso continuar, vou me dar mal...
+Dialogue: 0,0:06:56.50,0:06:57.38,Main,,0000,0000,0000,,Venha!
+Dialogue: 0,0:06:57.38,0:07:00.71,Main,,0000,0000,0000,,Vamos elevar as nossas preces juntos, Peter-kun!
+Dialogue: 0,0:07:01.42,0:07:02.29,Main,,0000,0000,0000,,Está bem...
+Dialogue: 0,0:07:08.54,0:07:09.92,Main,,0000,0000,0000,,Que dia...
+Dialogue: 0,0:07:10.42,0:07:14.08,Main,,0000,0000,0000,,Eu venci o torneio, mas junto\Nvieram vários problemas...
+Dialogue: 0,0:07:17.17,0:07:19.08,Main,,0000,0000,0000,,Quero seu esperma!
+Dialogue: 0,0:07:21.56,0:07:23.22,Main,,0000,0000,0000,,Não adianta ficar pensando nisso.
+Dialogue: 0,0:07:27.67,0:07:30.42,Main,,0000,0000,0000,,Olá! Olha eu aqui!
+Dialogue: 0,0:07:31.21,0:07:34.08,Main,,0000,0000,0000,,Vem pra cama comigo, senpai!
+Dialogue: 0,0:07:35.88,0:07:37.04,Main,,0000,0000,0000,,Saia!
+Dialogue: 0,0:07:37.17,0:07:39.67,Main,,0000,0000,0000,,Espera, senpai! Por favor, abra a porta!
+Dialogue: 0,0:07:39.67,0:07:43.04,Main Top,,0000,0000,0000,,Vamos, por favor! Senpai!
+Dialogue: 0,0:07:39.67,0:07:43.04,Italics,,0000,0000,0000,,Esse ogros não têm decência?
+Dialogue: 0,0:07:45.50,0:07:48.58,Main,,0000,0000,0000,,Finalmente estamos a sós.
+Dialogue: 0,0:07:50.58,0:07:52.38,Main,,0000,0000,0000,,Abra a porta, Peter Grill!
+Dialogue: 0,0:07:52.38,0:07:54.38,Main,,0000,0000,0000,,Qual é a sua insatisfação comigo?!
+Dialogue: 0,0:07:54.38,0:07:57.21,Main,,0000,0000,0000,,É dinheiro? Quanto eu preciso pagar?!
+Dialogue: 0,0:07:57.25,0:08:00.00,Main,,0000,0000,0000,,Calem-se e saiam daqui!
+Dialogue: 0,0:08:00.38,0:08:01.75,Main,,0000,0000,0000,,Que barulheira é essa?
+Dialogue: 0,0:08:02.42,0:08:03.46,Main,,0000,0000,0000,,Não acredito...
+Dialogue: 0,0:08:03.46,0:08:05.38,Main,,0000,0000,0000,,Ele está enxotando duas garotas nuas...
+Dialogue: 0,0:08:05.38,0:08:06.33,Main,,0000,0000,0000,,Sério?
+Dialogue: 0,0:08:06.63,0:08:08.25,Main,,0000,0000,0000,,Que cara imundo.
+Dialogue: 0,0:08:09.17,0:08:10.50,Main,,0000,0000,0000,,Ah, droga!
+Dialogue: 0,0:08:10.71,0:08:11.96,Italics,,0000,0000,0000,,Preciso me acalmar...
+Dialogue: 0,0:08:11.96,0:08:15.06,Italics,,0000,0000,0000,,Se eu continuar assim,\Nvou agir exatamente como elas querem.
+Dialogue: 0,0:08:15.06,0:08:17.83,Main,,0000,0000,0000,,Eu já estou feliz com a Luvellia-senpai...
+Dialogue: 0,0:08:19.50,0:08:24.38,Main,,0000,0000,0000,,Nós já sabemos, Peter Grill,\Nsobre a sua relação com a Luvellia.
+Dialogue: 0,0:08:25.25,0:08:28.63,Main,,0000,0000,0000,,E que ainda não fizeram nada\Nalém de ficarem de mãos dadas...
+Dialogue: 0,0:08:28.83,0:08:30.71,Main,,0000,0000,0000,,Mas se ficar conosco...
+Dialogue: 0,0:08:33.50,0:08:34.79,Main,,0000,0000,0000,,E-Ei...
+Dialogue: 0,0:08:35.00,0:08:39.29,Main,,0000,0000,0000,,Pode ter certeza que vai se divertir\Nmais do que com aquela mulher.
+Dialogue: 0,0:08:40.71,0:08:41.58,Main,,0000,0000,0000,,Parem com isso!
+Dialogue: 0,0:08:42.04,0:08:45.04,Main,,0000,0000,0000,,Pensam que sou um homem tão desprezível assim?
+Dialogue: 0,0:08:45.83,0:08:48.92,Main,,0000,0000,0000,,Eu e a senpai juramos viver juntos!
+Dialogue: 0,0:08:48.92,0:08:50.33,Main,,0000,0000,0000,,Trai-la dessa forma...
+Dialogue: 0,0:08:50.33,0:08:52.00,Main,,0000,0000,0000,,É absolutamente imperdoável!
+Dialogue: 0,0:08:53.96,0:08:54.79,Main,,0000,0000,0000,,Isso mesmo!
+Dialogue: 0,0:08:54.79,0:08:59.63,Main,,0000,0000,0000,,Nunca serei usado por uma ogra!
+Dialogue: 0,0:09:03.75,0:09:06.71,Main,,0000,0000,0000,,Você disse algo?
+Dialogue: 0,0:09:12.21,0:09:15.08,Italics,,0000,0000,0000,,N-Não. Isso não é certo.
+Dialogue: 0,0:09:15.08,0:09:18.13,Italics,,0000,0000,0000,,Já tenho uma pessoa que é dona do meu coração!
+Dialogue: 0,0:09:25.00,0:09:26.50,Italics,,0000,0000,0000,,Mesmo assim...
+Dialogue: 0,0:09:27.79,0:09:29.08,Italics,,0000,0000,0000,,Eu...
+Dialogue: 0,0:09:29.58,0:09:31.71,Italics,,0000,0000,0000,,Eu...
+Dialogue: 0,0:10:30.71,0:10:33.54,Italics,,0000,0000,0000,,O que eu fiz?!
+Dialogue: 0,0:10:33.54,0:10:36.75,Main,,0000,0000,0000,,Como pude ser tão fraco?
+Dialogue: 0,0:10:37.67,0:10:38.50,Main,,0000,0000,0000,,Por quê?
+Dialogue: 0,0:10:38.71,0:10:39.71,Main,,0000,0000,0000,,Por quê?!
+Dialogue: 0,0:10:40.21,0:10:44.13,Main,,0000,0000,0000,,Por que não fui capaz de resistir?!
+Dialogue: 0,0:10:46.83,0:10:48.96,Main,,0000,0000,0000,,Peter-kun, está acordado?
+Dialogue: 0,0:10:52.13,0:10:54.04,Italics,,0000,0000,0000,,E-Essa voz...
+Dialogue: 0,0:10:58.63,0:11:00.21,Italics,,0000,0000,0000,,Essa não...
+Dialogue: 0,0:12:00.79,0:12:03.04,Main,,0000,0000,0000,,Querido Peter Grill.
+Dialogue: 0,0:12:03.58,0:12:07.17,Main,,0000,0000,0000,,Você venceu o torneio e firmou de vez\Nseu relacionamento com Luvellia-san.
+Dialogue: 0,0:12:06.28,0:12:10.63,Ep_Title,,0000,0000,0000,,{\fad(600,1)\fs22\pos(466,154)}Episódio 2: Peter Grill e o seu futuro sogro
+Dialogue: 0,0:12:07.17,0:12:10.04,Main,,0000,0000,0000,,Pode-se dizer que está no auge da felicidade, não é?
