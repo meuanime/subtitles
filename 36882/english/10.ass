@@ -1,0 +1,277 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:13.47,0:00:18.05,Default,,0000,0000,0000,,Nagumo-{\i1}kun{\i0}, is there anything\Nyou could do about this army of monsters?
+Dialogue: 0,0:01:55.86,0:01:57.40,Default,,0000,0000,0000,,Nagumo-{\i1}kun{\i0},
+Dialogue: 0,0:01:57.40,0:02:00.41,Default,,0000,0000,0000,,would you please help us?
+Dialogue: 0,0:02:00.41,0:02:05.70,Default,,0000,0000,0000,,If you don't, they'll destroy the town,\Nand hundreds of lives will be lost!
+Dialogue: 0,0:02:06.50,0:02:08.04,Default,,0000,0000,0000,,Well, that's unexpected.
+Dialogue: 0,0:02:08.04,0:02:11.79,Default,,0000,0000,0000,,I thought you always put\Nyour students first and foremost.
+Dialogue: 0,0:02:11.79,0:02:17.55,Default,,0000,0000,0000,,Didn't think you'd ask one of them to lay\Ntheir life on the line for a bunch of strangers.
+Dialogue: 0,0:02:19.30,0:02:23.35,Default,,0000,0000,0000,,Of course, as a teacher,\Nmy students always come first.
+Dialogue: 0,0:02:23.35,0:02:27.14,Default,,0000,0000,0000,,But I don't want to cast aside\Nthe many people of this world
+Dialogue: 0,0:02:27.14,0:02:28.77,Default,,0000,0000,0000,,who I've met and grown to know.
+Dialogue: 0,0:02:28.77,0:02:32.27,Default,,0000,0000,0000,,I wasn't able to help you in your time of need,
+Dialogue: 0,0:02:32.27,0:02:36.19,Default,,0000,0000,0000,,so maybe these words\Ndon't mean much to you...
+Dialogue: 0,0:02:36.19,0:02:39.24,Default,,0000,0000,0000,,But I don't want you to live\Na sad life where you cut ties
+Dialogue: 0,0:02:39.24,0:02:42.57,Default,,0000,0000,0000,,with everyone and everything!
+Dialogue: 0,0:02:46.70,0:02:50.92,Default,,0000,0000,0000,,Sensei, no matter what happens from\Nhere on out, you'll still be my teacher, right?
+Dialogue: 0,0:02:50.92,0:02:52.29,Default,,0000,0000,0000,,Of course!
+Dialogue: 0,0:02:52.29,0:02:57.76,Default,,0000,0000,0000,,No matter what decision I make,\Neven if it's not what you would've wanted?
+Dialogue: 0,0:02:57.76,0:02:58.67,Default,,0000,0000,0000,,That's right,
+Dialogue: 0,0:02:58.67,0:03:03.80,Default,,0000,0000,0000,,as long as you listen to what I have\Nto say before you make that decision.
+Dialogue: 0,0:03:10.31,0:03:12.27,Default,,0000,0000,0000,,N... Nagumo-{\i1}kun{\i0}!
+Dialogue: 0,0:03:14.65,0:03:16.57,Default,,0000,0000,0000,,There's an army headed this way.
+Dialogue: 0,0:03:16.57,0:03:19.49,Default,,0000,0000,0000,,I'm gonna wanna get ready.
+Dialogue: 0,0:03:19.49,0:03:21.15,Default,,0000,0000,0000,,Nagumo-{\i1}kun{\i0}!
+Dialogue: 0,0:03:21.15,0:03:24.07,Default,,0000,0000,0000,,Only 'cause my teacher told me.
+Dialogue: 0,0:04:37.06,0:04:40.07,Default,,0000,0000,0000,,Nagumo-{\i1}kun{\i0}, how are preparations coming?
+Dialogue: 0,0:04:40.07,0:04:42.53,Default,,0000,0000,0000,,Is there anything I can help you with?
+Dialogue: 0,0:04:42.53,0:04:45.16,Default,,0000,0000,0000,,Nah, I'm good, Sensei.
+Dialogue: 0,0:04:46.16,0:04:50.08,Default,,0000,0000,0000,,They'll be here soon.
+Dialogue: 0,0:04:53.12,0:04:56.58,Default,,0000,0000,0000,,Don't frown like that, Sensei.\NIt's gonna be fine.
+Dialogue: 0,0:04:58.96,0:05:00.88,Default,,0000,0000,0000,,This may sound hypocritical,
+Dialogue: 0,0:05:00.88,0:05:04.92,Default,,0000,0000,0000,,given that I was the one\Nwho put you up to this, but...
+Dialogue: 0,0:05:04.92,0:05:06.93,Default,,0000,0000,0000,,Please come back safe.
+Dialogue: 0,0:05:30.08,0:05:31.99,Default,,0000,0000,0000,,Hey, Nagumo!
+Dialogue: 0,0:05:37.17,0:05:39.50,Default,,0000,0000,0000,,What's up, Sonobe?
+Dialogue: 0,0:05:39.50,0:05:44.17,Default,,0000,0000,0000,,Um... Thanks for what you did, back then!
+Dialogue: 0,0:05:44.17,0:05:45.80,Default,,0000,0000,0000,,Back when?
+Dialogue: 0,0:05:47.84,0:05:53.18,Default,,0000,0000,0000,,You might not remember it,\Nbut you rescued me back in the labyrinth.
+Dialogue: 0,0:05:53.18,0:05:56.43,Default,,0000,0000,0000,,I wanted to thank you for that.
+Dialogue: 0,0:05:56.43,0:05:58.81,Default,,0000,0000,0000,,Rescued you?
+Dialogue: 0,0:05:58.81,0:06:01.86,Default,,0000,0000,0000,,It was probably just a fluke.
+Dialogue: 0,0:06:01.86,0:06:03.69,Default,,0000,0000,0000,,Even if it was...
+Dialogue: 0,0:06:03.69,0:06:04.90,Default,,0000,0000,0000,,I'm not gonna waste this chance!
+Dialogue: 0,0:06:04.90,0:06:08.78,Default,,0000,0000,0000,,You gave me a chance when you\Nrescued me, so I'm not gonna waste it!
+Dialogue: 0,0:06:09.53,0:06:11.41,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:06:13.37,0:06:15.45,Default,,0000,0000,0000,,I'm going, then.
+Dialogue: 0,0:06:15.45,0:06:17.25,Default,,0000,0000,0000,,Sonobe.
+Dialogue: 0,0:06:17.25,0:06:21.84,Default,,0000,0000,0000,,Don't die, all right? You've got guts.
+Dialogue: 0,0:06:23.42,0:06:25.76,Default,,0000,0000,0000,,Well, for the most part.
+Dialogue: 0,0:06:25.76,0:06:27.05,Default,,0000,0000,0000,,Thanks.
+Dialogue: 0,0:06:33.39,0:06:34.22,Default,,0000,0000,0000,,Hey.
+Dialogue: 0,0:06:34.22,0:06:38.89,Default,,0000,0000,0000,,You're not even trying to hide.\NWhat the hell are you doing?
+Dialogue: 0,0:06:38.89,0:06:42.19,Default,,0000,0000,0000,,I simply missed my chance to emerge!
+Dialogue: 0,0:06:42.19,0:06:45.23,Default,,0000,0000,0000,,A moment of your time?
+Dialogue: 0,0:06:46.94,0:06:48.86,Default,,0000,0000,0000,,A moment of your time?
+Dialogue: 0,0:06:53.07,0:06:56.24,Default,,0000,0000,0000,,I have but one request to make of you.
+Dialogue: 0,0:06:56.24,0:06:58.66,Default,,0000,0000,0000,,Might I ask for your ear?
+Dialogue: 0,0:07:02.92,0:07:08.01,Default,,0000,0000,0000,,Could you be engaging me in\Nintentional neglect to arouse me?!
+Dialogue: 0,0:07:08.01,0:07:09.17,Default,,0000,0000,0000,,This is so harsh!
+Dialogue: 0,0:07:09.17,0:07:12.93,Default,,0000,0000,0000,,I never knew such an act existed!
+Dialogue: 0,0:07:12.93,0:07:16.64,Default,,0000,0000,0000,,So what do you want, you pervert?
+Dialogue: 0,0:07:16.64,0:07:21.81,Default,,0000,0000,0000,,Oh, well, you will be continuing\Non your battle-frought journey, yes?
+Dialogue: 0,0:07:21.81,0:07:22.60,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:07:22.60,0:07:25.44,Default,,0000,0000,0000,,If so, might I join you on said journey--
+Dialogue: 0,0:07:25.44,0:07:26.27,Default,,0000,0000,0000,,Hell no.
+Dialogue: 0,0:07:26.27,0:07:29.78,Default,,0000,0000,0000,,A-An answer swifter than I had imagined!
+Dialogue: 0,0:07:29.78,0:07:32.36,Default,,0000,0000,0000,,I would not join you\Nwithout recompense, of course!
+Dialogue: 0,0:07:32.36,0:07:37.12,Default,,0000,0000,0000,,I would call you Master and\Noffer myself to you in body and soul!
+Dialogue: 0,0:07:37.12,0:07:40.33,Default,,0000,0000,0000,,Go back to your den. Or maybe\Njust die and return to the earth!
+Dialogue: 0,0:07:40.33,0:07:43.25,Default,,0000,0000,0000,,Those eyes, so piercing!
+Dialogue: 0,0:07:43.25,0:07:47.67,Default,,0000,0000,0000,,I want you to see how fiercely\NI fight in this coming battle, Master!
+Dialogue: 0,0:07:47.67,0:07:49.63,Default,,0000,0000,0000,,I promise you, my performance\Nwill be more than satisfactory!
+Dialogue: 0,0:07:49.63,0:07:54.01,Default,,0000,0000,0000,,You will surely ask me\Nto join you after witnessing it!
+Dialogue: 0,0:07:54.01,0:07:56.35,Default,,0000,0000,0000,,She's crazy.
+Dialogue: 0,0:07:56.35,0:07:58.93,Default,,0000,0000,0000,,But she'll be a good asset in battle.
+Dialogue: 0,0:08:04.85,0:08:06.65,Default,,0000,0000,0000,,There they are.
+Dialogue: 0,0:08:11.44,0:08:13.91,Default,,0000,0000,0000,,Right then, let's go put\Nthe finishing touches on it.
+Dialogue: 0,0:08:13.91,0:08:15.07,Default,,0000,0000,0000,,Finishing touches?
+Dialogue: 0,0:08:15.07,0:08:19.12,Default,,0000,0000,0000,,Now's the perfect chance to make\Nthe Goddess of Agriculture, Aiko-{\i1}sensei{\i0},
+Dialogue: 0,0:08:19.12,0:08:20.95,Default,,0000,0000,0000,,even more important.
+Dialogue: 0,0:08:20.95,0:08:25.54,Default,,0000,0000,0000,,That'll help protect Aiko\Nand the other students.
+Dialogue: 0,0:08:25.54,0:08:29.46,Default,,0000,0000,0000,,And that'll mean you'll be protected,\Ntoo, since you're her student.
+Dialogue: 0,0:08:29.46,0:08:31.17,Default,,0000,0000,0000,,Yep.
+Dialogue: 0,0:08:38.68,0:08:43.02,Default,,0000,0000,0000,,Listen up, brave citizens of Ur!
+Dialogue: 0,0:08:43.02,0:08:46.65,Default,,0000,0000,0000,,Our victory is already guaranteed!
+Dialogue: 0,0:08:49.69,0:08:55.07,Default,,0000,0000,0000,,A goddess, summoned by the heavens\Nthemselves, stands in our midst!
+Dialogue: 0,0:08:55.07,0:08:58.28,Default,,0000,0000,0000,,Yes, you know her well--
+Dialogue: 0,0:08:58.28,0:09:01.91,Default,,0000,0000,0000,,The Goddess of Plenty, Lady Aiko!
+Dialogue: 0,0:09:01.91,0:09:06.96,Default,,0000,0000,0000,,As long as she stands\Nby our side, we cannot fall!
+Dialogue: 0,0:09:06.96,0:09:10.46,Default,,0000,0000,0000,,Wh-Wh-Wh-What are you doing?!
+Dialogue: 0,0:09:10.46,0:09:14.34,Default,,0000,0000,0000,,I am Lady Aiko's sword and shield.
+Dialogue: 0,0:09:14.34,0:09:16.51,Default,,0000,0000,0000,,She has asked me to protect you,
+Dialogue: 0,0:09:16.51,0:09:20.22,Default,,0000,0000,0000,,and I have come to heed\Nher command to the letter!
+Dialogue: 0,0:09:20.22,0:09:21.60,Default,,0000,0000,0000,,Witness me!
+Dialogue: 0,0:09:21.60,0:09:23.22,Default,,0000,0000,0000,,Glory to Lady Aiko!
+Dialogue: 0,0:09:23.22,0:09:25.56,Default,,0000,0000,0000,,Lady Aiko!
+Dialogue: 0,0:09:27.98,0:09:33.40,Default,,0000,0000,0000,,This is the power of the Goddess's blade,\Nenlightened by Lady Aiko herself!
+Dialogue: 0,0:10:00.85,0:10:02.72,Default,,0000,0000,0000,,It's my turn, now.
+Dialogue: 0,0:10:02.72,0:10:05.23,Default,,0000,0000,0000,,I'm getting pumped up!
+Dialogue: 0,0:10:08.19,0:10:12.82,Default,,0000,0000,0000,,I know full well he said this was a\Nmana reserve made with a Holy Crystal...
+Dialogue: 0,0:10:12.82,0:10:14.82,Default,,0000,0000,0000,,But if only he could tell me the truth!
+Dialogue: 0,0:10:14.82,0:10:18.11,Default,,0000,0000,0000,,How bold, proposing to me just before battle...
+Dialogue: 0,0:10:18.11,0:10:18.99,Default,,0000,0000,0000,,Hey.
+Dialogue: 0,0:10:18.99,0:10:22.87,Default,,0000,0000,0000,,I'm lending that to you, so you\Nbetter give it back when we're done!
+Dialogue: 0,0:10:22.87,0:10:27.04,Default,,0000,0000,0000,,Oh, no, perish the thought!
+Dialogue: 0,0:10:27.04,0:10:31.92,Default,,0000,0000,0000,,Use all those dragon powers\Nof yours to drain that reserve dry!
+Dialogue: 0,0:10:31.92,0:10:34.80,Default,,0000,0000,0000,,You can most certainly count on me, Master!
+Dialogue: 0,0:10:36.01,0:10:37.88,Default,,0000,0000,0000,,Take 'em out all at once!
+Dialogue: 0,0:11:07.08,0:11:08.37,Default,,0000,0000,0000,,What ecstasy!
+Dialogue: 0,0:11:08.37,0:11:12.00,Default,,0000,0000,0000,,I feel the love Master harbors for me!
+Dialogue: 0,0:11:12.63,0:11:17.26,Default,,0000,0000,0000,,Blow, tempest winds; rage, torrential flame!
+Dialogue: 0,0:11:17.26,0:11:19.42,Default,,0000,0000,0000,,Flame Tempest!
+Dialogue: 0,0:11:36.61,0:11:38.74,Default,,0000,0000,0000,,Lady Aiko!
+Dialogue: 0,0:11:58.63,0:12:01.51,Default,,0000,0000,0000,,Who's next?! Who's next!
+Dialogue: 0,0:12:21.44,0:12:23.57,Default,,0000,0000,0000,,Seems this is where I must stop.
+Dialogue: 0,0:12:26.07,0:12:27.99,Default,,0000,0000,0000,,The engagement ring!
+Dialogue: 0,0:12:27.99,0:12:30.12,Default,,0000,0000,0000,,Not bad work, for a creepy perv.
+Dialogue: 0,0:12:30.12,0:12:32.29,Default,,0000,0000,0000,,Take a nap and let me handle the rest.
+Dialogue: 0,0:12:37.25,0:12:39.38,Default,,0000,0000,0000,,I'm outta bullets.
+Dialogue: 0,0:12:39.38,0:12:42.13,Default,,0000,0000,0000,,Yue, how much mana you got left?
+Dialogue: 0,0:12:42.13,0:12:44.88,Default,,0000,0000,0000,,About two Mana Stone's worth!
+Dialogue: 0,0:12:44.88,0:12:47.93,Default,,0000,0000,0000,,Gravitic magic uses\Nmuch more than I thought.
+Dialogue: 0,0:12:47.93,0:12:51.22,Default,,0000,0000,0000,,That's fine. Use what you've\Ngot left on the big ones.
+Dialogue: 0,0:12:51.22,0:12:54.31,Default,,0000,0000,0000,,Mm-hmm. Reward me later!
+Dialogue: 0,0:12:54.31,0:12:55.27,Default,,0000,0000,0000,,Let's go, Shea!
+Dialogue: 0,0:12:55.27,0:12:57.27,Default,,0000,0000,0000,,Aye aye, sir!
+Dialogue: 0,0:12:58.44,0:12:59.77,Default,,0000,0000,0000,,Lightning Wyrm!
+Dialogue: 0,0:13:13.20,0:13:15.87,Default,,0000,0000,0000,,Shea! Can you tell the difference\Nbetween these guys?
+Dialogue: 0,0:13:15.87,0:13:20.88,Default,,0000,0000,0000,,Some are being controlled like Tio was,\Nand others are totally useless, yeah?
+Dialogue: 0,0:13:20.88,0:13:22.09,Default,,0000,0000,0000,,That's right.
+Dialogue: 0,0:13:23.17,0:13:27.05,Default,,0000,0000,0000,,Most likely one of them's\Nleading all the brainwashed ones!
+Dialogue: 0,0:13:27.05,0:13:29.30,Default,,0000,0000,0000,,If we take him out, that'll be it!
+Dialogue: 0,0:13:38.40,0:13:41.69,Default,,0000,0000,0000,,I get it! Then they'll be\Ntotally lost and confused!
+Dialogue: 0,0:14:07.80,0:14:09.93,Default,,0000,0000,0000,,Take this!
+Dialogue: 0,0:14:31.83,0:14:33.37,Default,,0000,0000,0000,,Sorry, man.
+Dialogue: 0,0:14:35.41,0:14:37.91,Default,,0000,0000,0000,,You picked the wrong guy to mess with.
+Dialogue: 0,0:14:51.30,0:14:54.56,Default,,0000,0000,0000,,He's gotta be some demon...
+Dialogue: 0,0:15:21.33,0:15:26.17,Default,,0000,0000,0000,,Will you tell me why you went and did this?
+Dialogue: 0,0:15:26.17,0:15:29.88,Default,,0000,0000,0000,,I just wanted to show you how great I was!
+Dialogue: 0,0:15:29.88,0:15:31.13,Default,,0000,0000,0000,,I see...
+Dialogue: 0,0:15:31.13,0:15:35.47,Default,,0000,0000,0000,,But, Shimizu-{\i1}kun{\i0}, I still don't understand.
+Dialogue: 0,0:15:35.47,0:15:39.18,Default,,0000,0000,0000,,How would this show us you were great?
+Dialogue: 0,0:15:39.18,0:15:41.10,Default,,0000,0000,0000,,Someone would see I was great.
+Dialogue: 0,0:15:41.10,0:15:44.06,Default,,0000,0000,0000,,The demons!
+Dialogue: 0,0:15:44.06,0:15:48.44,Default,,0000,0000,0000,,I went north into the mountains\Nto capture a monster.
+Dialogue: 0,0:15:48.44,0:15:52.28,Default,,0000,0000,0000,,That's when I met a demon.
+Dialogue: 0,0:15:52.28,0:15:59.20,Default,,0000,0000,0000,,They understood. They knew how great I was.
+Dialogue: 0,0:15:59.20,0:16:02.54,Default,,0000,0000,0000,,So I made a contract with them.
+Dialogue: 0,0:16:02.54,0:16:06.13,Default,,0000,0000,0000,,A contract? To do what?
+Dialogue: 0,0:16:06.13,0:16:08.13,Default,,0000,0000,0000,,A contract...
+Dialogue: 0,0:16:08.13,0:16:11.01,Default,,0000,0000,0000,,...to kill you, Hatayama-{\i1}sensei{\i0}!
+Dialogue: 0,0:16:12.84,0:16:17.76,Default,,0000,0000,0000,,You're more of a nuisance than the heroes.\NYou can't be left to your own devices,
+Dialogue: 0,0:16:17.76,0:16:20.93,Default,,0000,0000,0000,,Goddess of Plenty.
+Dialogue: 0,0:16:20.93,0:16:26.44,Default,,0000,0000,0000,,If I kill you, the demons\Nwill hail me as a hero.
+Dialogue: 0,0:16:26.44,0:16:27.69,Default,,0000,0000,0000,,Shimizu-{\i1}kun{\i0}!
+Dialogue: 0,0:16:27.69,0:16:32.24,Default,,0000,0000,0000,,But what the hell?!\NI had 60,000 troops, and they lost!
+Dialogue: 0,0:16:32.24,0:16:35.24,Default,,0000,0000,0000,,Why the hell do you\Nhave such powerful weapons?!
+Dialogue: 0,0:16:35.24,0:16:39.04,Default,,0000,0000,0000,,Just what... what the hell are you?!
+Dialogue: 0,0:16:40.20,0:16:45.17,Default,,0000,0000,0000,,I understand that you want to be special.\NIt's not wrong to feel that way.
+Dialogue: 0,0:16:45.17,0:16:47.84,Default,,0000,0000,0000,,It's only natural.
+Dialogue: 0,0:16:47.84,0:16:51.55,Default,,0000,0000,0000,,But you can't join up with the demons.
+Dialogue: 0,0:16:51.55,0:16:55.72,Default,,0000,0000,0000,,Shut up! Why shouldn't I join up\Nwith the side who'll treat me better?!
+Dialogue: 0,0:16:55.72,0:16:57.89,Default,,0000,0000,0000,,Because it's wrong.
+Dialogue: 0,0:16:57.89,0:17:01.06,Default,,0000,0000,0000,,I won't let anyone use\Nyour pure-hearted intentions for evil!
+Dialogue: 0,0:17:01.06,0:17:04.35,Default,,0000,0000,0000,,You're my student!
+Dialogue: 0,0:17:05.90,0:17:07.36,Default,,0000,0000,0000,,I don't get you...
+Dialogue: 0,0:17:07.36,0:17:10.61,Default,,0000,0000,0000,,Shimizu, why don't we start things over?
+Dialogue: 0,0:17:10.61,0:17:13.65,Default,,0000,0000,0000,,I'll be rooting for you the whole way.
+Dialogue: 0,0:17:19.28,0:17:21.83,Default,,0000,0000,0000,,I'm so glad you understand.
+Dialogue: 0,0:17:24.25,0:17:25.58,Default,,0000,0000,0000,,Sensei?!
+Dialogue: 0,0:17:25.58,0:17:27.13,Default,,0000,0000,0000,,Don't move!
+Dialogue: 0,0:17:27.13,0:17:28.67,Default,,0000,0000,0000,,I'll stab her neck!
+Dialogue: 0,0:17:28.67,0:17:32.67,Default,,0000,0000,0000,,Listen up, this needle's coated\Nin monster poison!
+Dialogue: 0,0:17:32.67,0:17:36.05,Default,,0000,0000,0000,,Drop your weapons and put your hands up!
+Dialogue: 0,0:17:36.05,0:17:38.89,Default,,0000,0000,0000,,S... Shimizu-{\i1}kun{\i0}, please, listen to...
+Dialogue: 0,0:17:38.89,0:17:41.72,Default,,0000,0000,0000,,Shut up! Shut your mouth, you hypocrite!
+Dialogue: 0,0:17:41.72,0:17:46.48,Default,,0000,0000,0000,,Just keep quiet\Nso I can get the hell out of here!
+Dialogue: 0,0:17:46.48,0:17:48.36,Default,,0000,0000,0000,,Hey, you!
+Dialogue: 0,0:17:48.36,0:17:51.69,Default,,0000,0000,0000,,I'm talkin' to you, edgelord!
+Dialogue: 0,0:17:51.69,0:17:53.36,Default,,0000,0000,0000,,Don't look behind you!
+Dialogue: 0,0:17:53.36,0:17:56.36,Default,,0000,0000,0000,,You keep messing around,\Nand I will seriously murder her!
+Dialogue: 0,0:17:56.36,0:17:59.41,Default,,0000,0000,0000,,You think you can do it, huh?
+Dialogue: 0,0:17:59.41,0:18:01.12,Default,,0000,0000,0000,,Don't insult me!
+Dialogue: 0,0:18:01.12,0:18:03.29,Default,,0000,0000,0000,,So, what did you want?
+Dialogue: 0,0:18:03.29,0:18:07.37,Default,,0000,0000,0000,,Gimme your gun,\Nand all your other weapons!
+Dialogue: 0,0:18:07.37,0:18:10.17,Default,,0000,0000,0000,,Yeah, figured you'd ask that.
+Dialogue: 0,0:18:10.17,0:18:11.75,Default,,0000,0000,0000,,Shut up and hand 'em over!
+Dialogue: 0,0:18:11.75,0:18:13.67,Default,,0000,0000,0000,,Yeah, not happening.
+Dialogue: 0,0:18:13.67,0:18:16.05,Default,,0000,0000,0000,,Besides, when you bring\NSensei back to the demons,
+Dialogue: 0,0:18:16.05,0:18:18.18,Default,,0000,0000,0000,,they're just gonna kill her, right?
+Dialogue: 0,0:18:18.18,0:18:20.43,Default,,0000,0000,0000,,So what'd be the point\Nin giving you all my stuff?
+Dialogue: 0,0:18:20.43,0:18:22.81,Default,,0000,0000,0000,,Just shut up and give 'em to me!
+Dialogue: 0,0:18:23.43,0:18:25.06,Default,,0000,0000,0000,,Look out!
+Dialogue: 0,0:18:34.15,0:18:35.57,Default,,0000,0000,0000,,Shea!
+Dialogue: 0,0:18:48.54,0:18:50.21,Default,,0000,0000,0000,,Shea!
+Dialogue: 0,0:18:50.71,0:18:53.80,Default,,0000,0000,0000,,H-Help your Sensei first...
+Dialogue: 0,0:18:53.80,0:18:55.42,Default,,0000,0000,0000,,The needle got her...
+Dialogue: 0,0:19:00.39,0:19:02.22,Default,,0000,0000,0000,,This looks pretty bad.
+Dialogue: 0,0:19:02.22,0:19:03.93,Default,,0000,0000,0000,,Okay, fine.
+Dialogue: 0,0:19:15.65,0:19:17.11,Default,,0000,0000,0000,,Sensei?
+Dialogue: 0,0:19:19.07,0:19:21.11,Default,,0000,0000,0000,,Hey, Sensei!
+Dialogue: 0,0:19:22.24,0:19:24.28,Default,,0000,0000,0000,,She's all right.
+Dialogue: 0,0:19:26.20,0:19:28.71,Default,,0000,0000,0000,,I-I don't wanna die!
+Dialogue: 0,0:19:28.71,0:19:30.33,Default,,0000,0000,0000,,H-Help me!
+Dialogue: 0,0:19:30.33,0:19:32.00,Default,,0000,0000,0000,,This wasn't supposed to happen.
+Dialogue: 0,0:19:32.00,0:19:34.04,Default,,0000,0000,0000,,It can't be... happening...
+Dialogue: 0,0:19:34.04,0:19:35.75,Default,,0000,0000,0000,,Shimizu-{\i1}kun{\i0}!
+Dialogue: 0,0:19:35.75,0:19:38.17,Default,,0000,0000,0000,,Oh, no...
+Dialogue: 0,0:19:38.17,0:19:41.13,Default,,0000,0000,0000,,Nagumo-{\i1}kun{\i0}, give him that medicine!
+Dialogue: 0,0:19:41.13,0:19:44.64,Default,,0000,0000,0000,,After he literally just tried to kill you?
+Dialogue: 0,0:19:46.68,0:19:52.40,Default,,0000,0000,0000,,I promised that no matter what happened,\NI'd be there for my students!
+Dialogue: 0,0:19:52.40,0:19:55.19,Default,,0000,0000,0000,,Please, you have to!
+Dialogue: 0,0:19:56.94,0:20:00.74,Default,,0000,0000,0000,,Shimizu... answer me this.
+Dialogue: 0,0:20:02.74,0:20:04.57,Default,,0000,0000,0000,,Are you my enemy?
+Dialogue: 0,0:20:04.57,0:20:06.28,Default,,0000,0000,0000,,I-I'm not!
+Dialogue: 0,0:20:06.28,0:20:08.75,Default,,0000,0000,0000,,I'll swear loyalty to you!
+Dialogue: 0,0:20:08.75,0:20:13.00,Default,,0000,0000,0000,,I'll do anything, so please, let me live...
+Dialogue: 0,0:20:14.58,0:20:16.42,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:20:21.26,0:20:22.72,Default,,0000,0000,0000,,Why?
+Dialogue: 0,0:20:25.10,0:20:26.76,Default,,0000,0000,0000,,'Cause he's my enemy.
+Dialogue: 0,0:20:26.76,0:20:29.81,Default,,0000,0000,0000,,No! Shimizu-{\i1}kun {\i0}was...
+Dialogue: 0,0:20:29.81,0:20:31.52,Default,,0000,0000,0000,,Was gonna turn over a new leaf?
+Dialogue: 0,0:20:31.52,0:20:34.06,Default,,0000,0000,0000,,Sorry, but I'm not that\Nmuch of a bleeding heart.
+Dialogue: 0,0:20:34.06,0:20:35.77,Default,,0000,0000,0000,,I don't believe that crap.
+Dialogue: 0,0:20:35.77,0:20:38.23,Default,,0000,0000,0000,,So why did you have to kill him?!
+Dialogue: 0,0:20:38.23,0:20:42.32,Default,,0000,0000,0000,,That's right, I killed your precious student.
+Dialogue: 0,0:20:42.32,0:20:46.12,Default,,0000,0000,0000,,I thought over what you said, Sensei,
+Dialogue: 0,0:20:46.12,0:20:49.58,Default,,0000,0000,0000,,but it doesn't change\Nmy stance on enemies.
+Dialogue: 0,0:20:49.58,0:20:52.66,Default,,0000,0000,0000,,I won't show any mercy.
+Dialogue: 0,0:20:52.66,0:20:54.79,Default,,0000,0000,0000,,Nagumo-{\i1}kun{\i0}...
+Dialogue: 0,0:21:02.47,0:21:04.59,Default,,0000,0000,0000,,You want a reason?
+Dialogue: 0,0:21:04.59,0:21:07.39,Default,,0000,0000,0000,,I said it before. He was our enemy.
+Dialogue: 0,0:21:07.39,0:21:09.97,Default,,0000,0000,0000,,That's not a reason.
+Dialogue: 0,0:21:09.97,0:21:13.35,Default,,0000,0000,0000,,Had you done nothing, he would\Nhave died within a matter of minutes.
+Dialogue: 0,0:21:13.35,0:21:15.85,Default,,0000,0000,0000,,Surprised you're keeping\Nthat close of an eye on things.
+Dialogue: 0,0:21:15.85,0:21:19.07,Default,,0000,0000,0000,,Hajime, you're so nice to Aiko.
+Dialogue: 0,0:21:26.11,0:21:30.16,Default,,0000,0000,0000,,That attack was meant\Nto kill your Sensei, right?
+Dialogue: 0,0:21:32.20,0:21:37.21,Default,,0000,0000,0000,,Now she won't think that\Na student died because of her.
+Dialogue: 0,0:21:37.21,0:21:40.42,Default,,0000,0000,0000,,It would've broken her heart,
+Dialogue: 0,0:21:40.42,0:21:43.47,Default,,0000,0000,0000,,but now, she can still be the same\Ngreat teacher she always was.
+Dialogue: 0,0:21:43.92,0:21:47.80,Default,,0000,0000,0000,,Aiko will realize what you did.
+Dialogue: 0,0:21:47.80,0:21:52.85,Default,,0000,0000,0000,,She's a teacher whose words\Nstill live within your heart.
+Dialogue: 0,0:21:59.36,0:22:05.07,Italics,,0000,0000,0000,,"Good morning," "Good night,"\Nall those simple things
+Dialogue: 0,0:22:05.07,0:22:10.16,Italics,,0000,0000,0000,,are so dreamlike and beloved to me
+Dialogue: 0,0:22:10.16,0:22:14.87,Italics,,0000,0000,0000,,Because I finally met you
+Dialogue: 0,0:22:14.87,0:22:21.50,Italics,,0000,0000,0000,,Everything is so special, thank you again
+Dialogue: 0,0:22:24.26,0:22:29.64,Italics,,0000,0000,0000,,I didn't think I'd be lonely all by myself
+Dialogue: 0,0:22:29.64,0:22:34.85,Italics,,0000,0000,0000,,That is, until you found me
+Dialogue: 0,0:22:34.85,0:22:40.44,Italics,,0000,0000,0000,,I wasn't afraid of anything
+Dialogue: 0,0:22:40.44,0:22:45.86,Italics,,0000,0000,0000,,That is, until I thought of a world without you
+Dialogue: 0,0:22:45.86,0:22:52.70,Italics,,0000,0000,0000,,Can you believe it?\NI miss you, I'm so fond of you
+Dialogue: 0,0:22:52.70,0:22:58.50,Italics,,0000,0000,0000,,I love you, don't forget it
+Dialogue: 0,0:22:58.50,0:23:03.59,Italics,,0000,0000,0000,,Shine bright like the first star in the night
+Dialogue: 0,0:23:03.59,0:23:09.38,Italics,,0000,0000,0000,,and stay closer to me than anyone else
+Dialogue: 0,0:23:09.38,0:23:14.76,Italics,,0000,0000,0000,,I'll never let you go
+Dialogue: 0,0:23:14.76,0:23:20.27,Italics,,0000,0000,0000,,I'll never let go of that hand
+Dialogue: 0,0:23:20.27,0:23:27.82,Italics,,0000,0000,0000,,Stay by my side and shine
+Dialogue: 0,0:23:30.82,0:23:33.78,Default,,0000,0000,0000,,ARIFURETA: From Commonplace\Nto World's Strongest.

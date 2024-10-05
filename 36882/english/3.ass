@@ -1,0 +1,247 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.55,0:00:10.09,Default,,0000,0000,0000,,Hajime!
+Dialogue: 0,0:00:24.06,0:00:25.65,Default,,0000,0000,0000,,I let my guard down!
+Dialogue: 0,0:00:28.82,0:00:31.48,Default,,0000,0000,0000,,Hajime!
+Dialogue: 0,0:00:38.83,0:00:41.70,Default,,0000,0000,0000,,Guess it's here to make sure you don't escape...
+Dialogue: 0,0:00:46.67,0:00:47.96,Default,,0000,0000,0000,,Here.
+Dialogue: 0,0:00:50.05,0:00:52.05,Default,,0000,0000,0000,,Put this on.
+Dialogue: 0,0:00:55.34,0:00:57.55,Default,,0000,0000,0000,,Hajime, you perv.
+Dialogue: 0,0:00:59.80,0:01:02.10,Default,,0000,0000,0000,,Hold on tight, Yue!
+Dialogue: 0,0:01:13.36,0:01:14.69,Default,,0000,0000,0000,,Come at me!
+Dialogue: 0,0:01:14.69,0:01:18.37,Default,,0000,0000,0000,,You get in my way,\Nthen I'm gonna kill and eat you!
+Dialogue: 0,0:03:46.64,0:03:48.22,Default,,0000,0000,0000,,Quick Step!
+Dialogue: 0,0:04:02.61,0:04:05.66,Default,,0000,0000,0000,,I've gotta do something\Nabout that hard carapace...
+Dialogue: 0,0:04:08.49,0:04:09.91,Default,,0000,0000,0000,,What's up?
+Dialogue: 0,0:04:11.37,0:04:12.79,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:04:32.14,0:04:35.02,Default,,0000,0000,0000,,It can manipulate the earth around it...
+Dialogue: 0,0:04:35.02,0:04:38.15,Default,,0000,0000,0000,,Nice trick, but that's my specialty!
+Dialogue: 0,0:05:03.76,0:05:05.51,Default,,0000,0000,0000,,That was delicious.
+Dialogue: 0,0:05:10.76,0:05:12.56,Default,,0000,0000,0000,,Azure Blaze!
+Dialogue: 0,0:05:37.37,0:05:39.63,Default,,0000,0000,0000,,You okay?
+Dialogue: 0,0:05:39.63,0:05:42.75,Default,,0000,0000,0000,,High-level magic is tiring...
+Dialogue: 0,0:05:44.71,0:05:49.22,Default,,0000,0000,0000,,I know you're tired,\Nbut could you do that one again?
+Dialogue: 0,0:05:49.22,0:05:52.18,Default,,0000,0000,0000,,I can, but it'll be little...
+Dialogue: 0,0:05:52.18,0:05:53.68,Default,,0000,0000,0000,,That's fine.
+Dialogue: 0,0:05:53.68,0:05:56.85,Default,,0000,0000,0000,,Do you remember where\NI shot him with my Donner?
+Dialogue: 0,0:05:56.85,0:05:57.94,Default,,0000,0000,0000,,Mm-hmm.
+Dialogue: 0,0:05:57.94,0:06:00.90,Default,,0000,0000,0000,,When I give the signal, you hit him there!
+Dialogue: 0,0:06:00.90,0:06:02.44,Default,,0000,0000,0000,,Mm-kay!
+Dialogue: 0,0:06:02.44,0:06:04.48,Default,,0000,0000,0000,,Okay, let's go!
+Dialogue: 0,0:06:12.16,0:06:13.87,Default,,0000,0000,0000,,Yue!
+Dialogue: 0,0:06:38.81,0:06:39.89,Default,,0000,0000,0000,,Why?
+Dialogue: 0,0:06:39.89,0:06:41.48,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:06:41.48,0:06:44.32,Default,,0000,0000,0000,,Why didn't you leave me behind and run?
+Dialogue: 0,0:06:44.32,0:06:46.65,Default,,0000,0000,0000,,I haven't fallen {\i1}that {\i0}far.
+Dialogue: 0,0:06:47.44,0:06:52.62,Default,,0000,0000,0000,,You were horribly betrayed,\Nthen entrusted me with your safety.
+Dialogue: 0,0:06:52.62,0:06:55.24,Default,,0000,0000,0000,,What kind of man would I be if I left you?
+Dialogue: 0,0:07:02.96,0:07:05.30,Default,,0000,0000,0000,,If I remember right,
+Dialogue: 0,0:07:05.30,0:07:09.72,Default,,0000,0000,0000,,the vampires were eradicated in\Na war that took place 300 years ago.
+Dialogue: 0,0:07:09.72,0:07:11.26,Default,,0000,0000,0000,,300 years ago...
+Dialogue: 0,0:07:11.26,0:07:16.39,Default,,0000,0000,0000,,Which means you must be over 300 years old.
+Dialogue: 0,0:07:18.48,0:07:20.64,Default,,0000,0000,0000,,That's rude.
+Dialogue: 0,0:07:23.31,0:07:26.61,Default,,0000,0000,0000,,Do all vampires live that long?
+Dialogue: 0,0:07:26.61,0:07:31.65,Default,,0000,0000,0000,,I'm special. Because I regenerate, I don't age.
+Dialogue: 0,0:07:31.65,0:07:33.99,Default,,0000,0000,0000,,Must be a special kind of magic\Nthat makes you immortal.
+Dialogue: 0,0:07:33.99,0:07:35.58,Default,,0000,0000,0000,,Mm-hmm...
+Dialogue: 0,0:07:35.58,0:07:39.41,Default,,0000,0000,0000,,So, do you know where we are right now?
+Dialogue: 0,0:07:39.41,0:07:41.92,Default,,0000,0000,0000,,Or do you know of\Nany way up to the surface?
+Dialogue: 0,0:07:41.92,0:07:43.88,Default,,0000,0000,0000,,I don't...
+Dialogue: 0,0:07:43.88,0:07:48.38,Default,,0000,0000,0000,,But they say this labyrinth\Nwas built by one of the Mavericks.
+Dialogue: 0,0:07:48.38,0:07:50.59,Default,,0000,0000,0000,,The Mavericks?
+Dialogue: 0,0:07:50.59,0:07:56.22,Default,,0000,0000,0000,,They were the messengers of deities that fought\Nagainst their gods during the Age of Gods.
+Dialogue: 0,0:07:56.22,0:07:58.93,Default,,0000,0000,0000,,There were people who went against the gods?
+Dialogue: 0,0:07:58.93,0:08:02.56,Default,,0000,0000,0000,,They say the Mavericks\Ntried to destroy the world,
+Dialogue: 0,0:08:02.56,0:08:08.19,Default,,0000,0000,0000,,but their plans fell apart, and they\Nescaped into what are their labyrinths.
+Dialogue: 0,0:08:08.19,0:08:11.19,Default,,0000,0000,0000,,Does that mean this\NGreat Orcus Labyrinth, too?
+Dialogue: 0,0:08:11.19,0:08:18.24,Default,,0000,0000,0000,,Mm-hmm, and it seems the Maverick\Nresided at the bottom of each labyrinth.
+Dialogue: 0,0:08:18.24,0:08:21.20,Default,,0000,0000,0000,,In the deepest depths of hell, huh?
+Dialogue: 0,0:08:21.20,0:08:23.96,Default,,0000,0000,0000,,If we go there,\Nwe might find a way to the surface.
+Dialogue: 0,0:08:26.58,0:08:27.96,Default,,0000,0000,0000,,I get it.
+Dialogue: 0,0:08:27.96,0:08:33.76,Default,,0000,0000,0000,,It'd make sense that someone wielding divine\Nmagic could just create a path to the surface.
+Dialogue: 0,0:08:36.39,0:08:44.14,OS,,0000,0000,0000,,"An ore with a high affinity to magic.\NThe more mana it absorbs,\Nthe stronger it becomes."
+Dialogue: 0,0:08:36.72,0:08:38.35,Default,,0000,0000,0000,,Shtar Ore.
+Dialogue: 0,0:08:38.35,0:08:40.27,Default,,0000,0000,0000,,An ore with a high affinity to magic.
+Dialogue: 0,0:08:40.27,0:08:44.69,Default,,0000,0000,0000,,The more mana it absorbs,\Nthe stronger it becomes.
+Dialogue: 0,0:08:44.69,0:08:47.19,Default,,0000,0000,0000,,Guess that's why it's so hard.
+Dialogue: 0,0:08:55.20,0:08:56.61,Default,,0000,0000,0000,,What're you making?
+Dialogue: 0,0:08:56.61,0:09:00.66,Default,,0000,0000,0000,,This is the railgun version\Nof a antimateriel rifle.
+Dialogue: 0,0:09:00.66,0:09:02.16,Default,,0000,0000,0000,,Rail...?
+Dialogue: 0,0:09:02.16,0:09:05.62,Default,,0000,0000,0000,,You saw my gun Donner, right?
+Dialogue: 0,0:09:05.62,0:09:10.25,Default,,0000,0000,0000,,That's a pretty powerful gun.\NThe bullets are special, too.
+Dialogue: 0,0:09:10.25,0:09:15.01,Default,,0000,0000,0000,,But I'm gonna use this perfect material\Nto make Donner pack more of a punch.
+Dialogue: 0,0:09:15.01,0:09:17.05,Default,,0000,0000,0000,,Okay, all done.
+Dialogue: 0,0:09:17.05,0:09:19.47,Default,,0000,0000,0000,,This one's named Schlagen.
+Dialogue: 0,0:09:19.47,0:09:21.56,Default,,0000,0000,0000,,Why are you down here, Hajime?
+Dialogue: 0,0:09:21.56,0:09:22.56,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:09:22.56,0:09:24.93,Default,,0000,0000,0000,,Why can you manipulate mana directly?
+Dialogue: 0,0:09:24.93,0:09:26.48,Default,,0000,0000,0000,,Wha?!
+Dialogue: 0,0:09:26.48,0:09:30.69,Default,,0000,0000,0000,,How can you eat monsters?\NAre you human? What happened to your arm?
+Dialogue: 0,0:09:30.69,0:09:34.99,Default,,0000,0000,0000,,H-Hold on a sec!\NI'll explain everything in order, just hold on!
+Dialogue: 0,0:09:36.53,0:09:39.66,Default,,0000,0000,0000,,Okay, where should I even start...
+Dialogue: 0,0:09:42.70,0:09:48.25,Default,,0000,0000,0000,,One day, we were summoned\Nto this world by the god Ehit.
+Dialogue: 0,0:09:48.25,0:09:53.46,Default,,0000,0000,0000,,They said we were supposedly the\Npeople to save humanity from demonkind.
+Dialogue: 0,0:09:53.46,0:09:57.88,Default,,0000,0000,0000,,However, my job was Synergist,\Nwhich wasn't well-suited for combat.
+Dialogue: 0,0:09:57.88,0:10:02.72,Default,,0000,0000,0000,,Everyone said I was totally useless in a fight.
+Dialogue: 0,0:10:02.72,0:10:07.98,Default,,0000,0000,0000,,We teamed up with the\NRoyal Guard to clear out the labyrinth.
+Dialogue: 0,0:10:07.98,0:10:11.23,Default,,0000,0000,0000,,In the middle of battling a Behemoth,\NI was betrayed by one of my classmates,
+Dialogue: 0,0:10:11.23,0:10:14.78,Default,,0000,0000,0000,,and before I knew it,\NI was down here in the depths.
+Dialogue: 0,0:10:14.78,0:10:18.36,Default,,0000,0000,0000,,A monster ate my arm,\Nand I was this close to dying...
+Dialogue: 0,0:10:18.36,0:10:21.66,Default,,0000,0000,0000,,But I decided I was going\Nto survive, no matter what.
+Dialogue: 0,0:10:21.66,0:10:27.21,Default,,0000,0000,0000,,So I used my synergist abilities\Nto kill a monster and ate it.
+Dialogue: 0,0:10:34.05,0:10:36.38,Default,,0000,0000,0000,,Whoa, what's wrong?
+Dialogue: 0,0:10:36.38,0:10:40.80,Default,,0000,0000,0000,,That's so horrible... It hurts to hear.
+Dialogue: 0,0:10:42.93,0:10:44.89,Default,,0000,0000,0000,,Don't worry about it.
+Dialogue: 0,0:10:44.89,0:10:47.77,Default,,0000,0000,0000,,I don't give a crap\Nabout my classmates anymore.
+Dialogue: 0,0:10:47.77,0:10:50.35,Default,,0000,0000,0000,,I don't even want revenge.
+Dialogue: 0,0:10:50.35,0:10:53.94,Default,,0000,0000,0000,,I just want to get better\Nat things that'll help me survive.
+Dialogue: 0,0:10:53.94,0:10:56.19,Default,,0000,0000,0000,,I'm going to find a way back home.
+Dialogue: 0,0:10:56.19,0:10:58.78,Default,,0000,0000,0000,,I've gotta give that my all.
+Dialogue: 0,0:10:58.78,0:10:59.86,Default,,0000,0000,0000,,Back home?
+Dialogue: 0,0:10:59.86,0:11:01.53,Default,,0000,0000,0000,,Well, yeah.
+Dialogue: 0,0:11:01.53,0:11:07.37,Default,,0000,0000,0000,,Sure, a lot might've changed\Nabout me, but I want to go home.
+Dialogue: 0,0:11:07.37,0:11:09.04,Default,,0000,0000,0000,,Oh.
+Dialogue: 0,0:11:09.04,0:11:12.58,Default,,0000,0000,0000,,I don't have a home to go back to...
+Dialogue: 0,0:11:15.30,0:11:17.13,Default,,0000,0000,0000,,I don't need that old one anymore!
+Dialogue: 0,0:11:17.13,0:11:19.80,Default,,0000,0000,0000,,I want whatever name you give me, Hajime!
+Dialogue: 0,0:11:21.55,0:11:23.09,Default,,0000,0000,0000,,Ah, man...
+Dialogue: 0,0:11:27.27,0:11:29.77,Default,,0000,0000,0000,,You wanna come with, then, Yue?
+Dialogue: 0,0:11:29.77,0:11:31.06,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:11:31.06,0:11:34.31,Default,,0000,0000,0000,,I mean, back home with me.
+Dialogue: 0,0:11:34.31,0:11:38.90,Default,,0000,0000,0000,,It might be pretty boring, seeing\Nthat the human world doesn't have magic,
+Dialogue: 0,0:11:38.90,0:11:41.61,Default,,0000,0000,0000,,but I think we'll work something out.
+Dialogue: 0,0:11:41.61,0:11:45.62,Default,,0000,0000,0000,,Only if you want to, of course.
+Dialogue: 0,0:11:45.62,0:11:47.24,Default,,0000,0000,0000,,Are you sure?
+Dialogue: 0,0:12:07.93,0:12:10.06,Default,,0000,0000,0000,,Status: Open!
+Dialogue: 0,0:12:10.06,0:12:14.06,OS,,0000,0000,0000,,"Skills: Elemental Affinity, Elemental Resistance,\NPhysical Resistance, Composite Magic,\NSwordsmanship, Herculean Strength, Quick Step,"
+Dialogue: 0,0:12:10.35,0:12:14.06,Default,,0000,0000,0000,,Kouki Amanogawa, job: Hero.
+Dialogue: 0,0:12:14.06,0:12:18.32,OS,,0000,0000,0000,,Foresight, Increased Mana Recovery Speed,\NPresence Perception, Magic Perception,\NLimit Break, Language Comprehension"
+Dialogue: 0,0:12:15.65,0:12:18.32,Default,,0000,0000,0000,,Seems you've grown even stronger.
+Dialogue: 0,0:12:19.28,0:12:24.49,Default,,0000,0000,0000,,We will continue with practical training\Nwithin the labyrinth with the present members.
+Dialogue: 0,0:12:24.49,0:12:26.95,Default,,0000,0000,0000,,I trust you will prepare accordingly.
+Dialogue: 0,0:12:26.95,0:12:28.33,Default,,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:12:28.33,0:12:30.04,Default,,0000,0000,0000,,That is all.
+Dialogue: 0,0:12:36.71,0:12:40.01,Default,,0000,0000,0000,,Failure is not an option, huh...
+Dialogue: 0,0:12:42.51,0:12:46.72,Default,,0000,0000,0000,,Okay, everyone! We're going\Nto make this training a success!
+Dialogue: 0,0:12:46.72,0:12:48.05,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:12:55.56,0:12:58.40,Default,,0000,0000,0000,,God dammit!
+Dialogue: 0,0:12:58.40,0:13:00.44,Default,,0000,0000,0000,,Keep it up, Hajime.
+Dialogue: 0,0:13:01.11,0:13:03.53,Default,,0000,0000,0000,,You are way too chill!
+Dialogue: 0,0:13:05.70,0:13:07.62,Default,,0000,0000,0000,,What the hell are these guys?!
+Dialogue: 0,0:13:07.62,0:13:11.24,Default,,0000,0000,0000,,No matter how many I kill,\Nthey just keep coming!
+Dialogue: 0,0:13:11.24,0:13:13.08,Default,,0000,0000,0000,,And there's more and more of them.
+Dialogue: 0,0:13:13.08,0:13:17.88,Default,,0000,0000,0000,,That's crazy! And what the hell is\Nwith those flowers on their heads?
+Dialogue: 0,0:13:19.21,0:13:20.38,Default,,0000,0000,0000,,They're kind of cute.
+Dialogue: 0,0:13:20.38,0:13:24.22,Default,,0000,0000,0000,,Like hell they are!\NDid you see what the one before was...
+Dialogue: 0,0:13:32.85,0:13:35.23,Default,,0000,0000,0000,,Wait, are those flowers...
+Dialogue: 0,0:13:36.64,0:13:37.73,Default,,0000,0000,0000,,Parasites.
+Dialogue: 0,0:13:37.73,0:13:39.40,Default,,0000,0000,0000,,You think so, too?
+Dialogue: 0,0:13:40.32,0:13:41.86,Default,,0000,0000,0000,,Something should be controlling them.
+Dialogue: 0,0:13:41.86,0:13:46.07,Default,,0000,0000,0000,,Yeah. If we don't kill the thing\Nthat's controlling the flowers,
+Dialogue: 0,0:13:46.07,0:13:50.49,Default,,0000,0000,0000,,then we'll have to battle\Nevery monster on this level...
+Dialogue: 0,0:14:08.72,0:14:10.47,Default,,0000,0000,0000,,Where is it?
+Dialogue: 0,0:14:10.47,0:14:12.68,Default,,0000,0000,0000,,Where's the source?
+Dialogue: 0,0:14:23.48,0:14:26.03,Default,,0000,0000,0000,,Hey, little miss vampire princess?
+Dialogue: 0,0:14:26.03,0:14:29.66,Default,,0000,0000,0000,,Could you stop snacking on my blood?!
+Dialogue: 0,0:14:29.66,0:14:31.24,Default,,0000,0000,0000,,I can't help it.
+Dialogue: 0,0:14:31.24,0:14:34.49,Default,,0000,0000,0000,,Yeah, right! You can't be that tired!
+Dialogue: 0,0:14:38.33,0:14:40.75,Default,,0000,0000,0000,,Well, that looks suspicious...
+Dialogue: 0,0:15:08.15,0:15:10.57,Default,,0000,0000,0000,,We should be safe for now.
+Dialogue: 0,0:15:10.57,0:15:11.91,Default,,0000,0000,0000,,Good work.
+Dialogue: 0,0:15:11.91,0:15:15.16,Default,,0000,0000,0000,,If you really wanna make me happy,\Nthen why don't you come down from there?
+Dialogue: 0,0:15:15.62,0:15:17.66,Default,,0000,0000,0000,,Fine.
+Dialogue: 0,0:15:19.96,0:15:23.63,Default,,0000,0000,0000,,Okay. They were pretty damn desperate,
+Dialogue: 0,0:15:23.63,0:15:25.88,Default,,0000,0000,0000,,so I bet we hit the jackpot here.
+Dialogue: 0,0:15:25.88,0:15:26.96,Default,,0000,0000,0000,,Don't let your guard down.
+Dialogue: 0,0:15:34.76,0:15:38.85,Default,,0000,0000,0000,,My Sense Presence skill\Nhasn't detected anything yet...
+Dialogue: 0,0:15:47.15,0:15:48.57,Default,,0000,0000,0000,,Dammit!
+Dialogue: 0,0:15:53.66,0:15:56.58,Default,,0000,0000,0000,,That's probably an attack from the source, Yue.
+Dialogue: 0,0:15:56.58,0:15:59.00,Default,,0000,0000,0000,,Know where it is?
+Dialogue: 0,0:15:59.00,0:16:00.25,Default,,0000,0000,0000,,Yue?
+Dialogue: 0,0:16:07.63,0:16:10.22,Default,,0000,0000,0000,,Run, Hajime!
+Dialogue: 0,0:16:17.06,0:16:19.52,Default,,0000,0000,0000,,Did those green balls do that to her?
+Dialogue: 0,0:16:58.35,0:17:00.77,Default,,0000,0000,0000,,You're not half bad...
+Dialogue: 0,0:17:07.19,0:17:09.73,Default,,0000,0000,0000,,Hajime, I'm sorry...
+Dialogue: 0,0:17:27.46,0:17:29.75,Default,,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:17:29.75,0:17:33.51,Default,,0000,0000,0000,,I gained resistance by eating those monsters.\NThat trick won't work on me!
+Dialogue: 0,0:17:33.92,0:17:35.18,Default,,0000,0000,0000,,Stop!
+Dialogue: 0,0:17:39.80,0:17:40.68,Default,,0000,0000,0000,,Dammit...
+Dialogue: 0,0:17:40.68,0:17:42.10,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:17:43.14,0:17:45.89,Default,,0000,0000,0000,,Hajime, don't worry about me!
+Dialogue: 0,0:17:45.89,0:17:47.15,Default,,0000,0000,0000,,Just shoot!
+Dialogue: 0,0:17:47.15,0:17:49.27,Default,,0000,0000,0000,,Yue...
+Dialogue: 0,0:17:52.48,0:17:55.45,Default,,0000,0000,0000,,Hajime, shoot!
+Dialogue: 0,0:17:55.74,0:17:57.57,Default,,0000,0000,0000,,Wait, really?
+Dialogue: 0,0:17:57.57,0:17:59.74,Default,,0000,0000,0000,,That makes things easier!
+Dialogue: 0,0:18:07.83,0:18:10.63,Default,,0000,0000,0000,,Don't look at me like that.
+Dialogue: 0,0:18:18.68,0:18:21.89,Default,,0000,0000,0000,,You okay? Anything feel off?
+Dialogue: 0,0:18:22.81,0:18:23.93,Default,,0000,0000,0000,,You shot at me.
+Dialogue: 0,0:18:24.93,0:18:26.77,Default,,0000,0000,0000,,You told me to.
+Dialogue: 0,0:18:28.06,0:18:29.94,Default,,0000,0000,0000,,You didn't even hesitate.
+Dialogue: 0,0:18:29.94,0:18:33.23,Default,,0000,0000,0000,,Well, I wanted to shoot at it.
+Dialogue: 0,0:18:33.23,0:18:35.82,Default,,0000,0000,0000,,I knew I'd hit my mark, but...
+Dialogue: 0,0:18:35.82,0:18:37.11,Default,,0000,0000,0000,,But?
+Dialogue: 0,0:18:37.11,0:18:43.74,Default,,0000,0000,0000,,But if I'd shot at her without saying anything,\Nyou'd probably get mad, so I held off.
+Dialogue: 0,0:18:43.74,0:18:46.79,Default,,0000,0000,0000,,I think you burned off... some of my scalp.
+Dialogue: 0,0:18:46.79,0:18:51.04,Default,,0000,0000,0000,,It'll just grow back, won't it? No biggie.
+Dialogue: 0,0:19:01.55,0:19:03.14,Default,,0000,0000,0000,,Want some, Yue?
+Dialogue: 0,0:19:03.14,0:19:04.43,Default,,0000,0000,0000,,I don't need it.
+Dialogue: 0,0:19:04.43,0:19:08.85,Default,,0000,0000,0000,,Makes sense, you've been sealed\Naway for 300 years and survived.
+Dialogue: 0,0:19:08.85,0:19:10.77,Default,,0000,0000,0000,,Aren't you hungry, though?
+Dialogue: 0,0:19:10.77,0:19:13.94,Default,,0000,0000,0000,,I was... but I'm okay.
+Dialogue: 0,0:19:13.94,0:19:18.03,Default,,0000,0000,0000,,Okay? What, you ate something?
+Dialogue: 0,0:19:19.74,0:19:21.07,Default,,0000,0000,0000,,Your blood.
+Dialogue: 0,0:19:21.07,0:19:25.91,Default,,0000,0000,0000,,Oh. That means you don't need to eat\Nas long as you're drinking blood.
+Dialogue: 0,0:19:25.91,0:19:28.87,Default,,0000,0000,0000,,I can get nutrients from food as well...
+Dialogue: 0,0:19:28.87,0:19:32.38,Default,,0000,0000,0000,,But blood is the most efficient way.
+Dialogue: 0,0:19:32.38,0:19:34.29,Default,,0000,0000,0000,,I get it.
+Dialogue: 0,0:19:40.26,0:19:43.09,Default,,0000,0000,0000,,Why're you licking your lips?
+Dialogue: 0,0:19:45.47,0:19:48.02,Default,,0000,0000,0000,,You taste good.
+Dialogue: 0,0:19:52.27,0:19:54.61,Default,,0000,0000,0000,,You taste ripe.
+Dialogue: 0,0:19:54.61,0:19:57.28,Default,,0000,0000,0000,,H-Hold on a sec.
+Dialogue: 0,0:19:57.28,0:19:59.61,Default,,0000,0000,0000,,Whoa, whoa, whoa!
+Dialogue: 0,0:19:59.61,0:20:02.45,Default,,0000,0000,0000,,No getting away. Time to eat.
+Dialogue: 0,0:20:41.78,0:20:44.41,Default,,0000,0000,0000,,We're finally at floor 100.
+Dialogue: 0,0:21:09.01,0:21:11.60,Default,,0000,0000,0000,,Hajime, you're being more careful than usual...
+Dialogue: 0,0:21:11.60,0:21:16.44,Default,,0000,0000,0000,,Yeah, since this is the\Nhundredth floor since my fall.
+Dialogue: 0,0:21:16.44,0:21:20.28,Default,,0000,0000,0000,,I figured there might be something down here.
+Dialogue: 0,0:21:20.28,0:21:22.24,Default,,0000,0000,0000,,Like what?
+Dialogue: 0,0:21:23.40,0:21:25.74,Default,,0000,0000,0000,,I dunno, just want to be safe.
+Dialogue: 0,0:21:42.84,0:21:45.97,Default,,0000,0000,0000,,If there is something down there,\Nit's beyond these doors.
+Dialogue: 0,0:21:45.97,0:21:47.97,Default,,0000,0000,0000,,You scared, Yue?
+Dialogue: 0,0:21:47.97,0:21:51.60,Default,,0000,0000,0000,,Not if I'm with you, Hajime.
+Dialogue: 0,0:21:51.60,0:21:53.18,Default,,0000,0000,0000,,That's what I like to hear!
+Dialogue: 0,0:21:59.44,0:22:05.15,Italics,,0000,0000,0000,,"Good morning," "Good night,"\Nall those simple things
+Dialogue: 0,0:22:05.15,0:22:10.24,Italics,,0000,0000,0000,,are so dreamlike and beloved to me
+Dialogue: 0,0:22:10.24,0:22:14.95,Italics,,0000,0000,0000,,Because I finally met you
+Dialogue: 0,0:22:14.95,0:22:21.59,Italics,,0000,0000,0000,,Everything is so special, thank you again
+Dialogue: 0,0:22:24.34,0:22:29.72,Italics,,0000,0000,0000,,I didn't think I'd be lonely all by myself
+Dialogue: 0,0:22:29.72,0:22:34.93,Italics,,0000,0000,0000,,That is, until you found me
+Dialogue: 0,0:22:34.93,0:22:40.52,Italics,,0000,0000,0000,,I wasn't afraid of anything
+Dialogue: 0,0:22:40.52,0:22:45.94,Italics,,0000,0000,0000,,That is, until I thought of a world without you
+Dialogue: 0,0:22:45.94,0:22:52.78,Italics,,0000,0000,0000,,Can you believe it?\NI miss you, I'm so fond of you
+Dialogue: 0,0:22:52.78,0:22:58.58,Italics,,0000,0000,0000,,I love you, don't forget it
+Dialogue: 0,0:22:58.58,0:23:03.67,Italics,,0000,0000,0000,,Shine bright like the first star in the night
+Dialogue: 0,0:23:03.67,0:23:09.47,Italics,,0000,0000,0000,,and stay closer to me than anyone else
+Dialogue: 0,0:23:09.47,0:23:14.85,Italics,,0000,0000,0000,,I'll never let you go
+Dialogue: 0,0:23:14.85,0:23:20.35,Italics,,0000,0000,0000,,I'll never let go of that hand
+Dialogue: 0,0:23:20.35,0:23:27.90,Italics,,0000,0000,0000,,Stay by my side and shine
+Dialogue: 0,0:23:30.95,0:23:33.78,Default,,0000,0000,0000,,ARIFURETA: From Commonplace\Nto World's Strongest

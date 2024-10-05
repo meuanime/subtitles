@@ -1,0 +1,272 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:29.27,0:00:32.90,Default,,0000,0000,0000,,Guess eating him won't make\Nmy level go up any higher.
+Dialogue: 0,0:00:33.11,0:00:36.11,OS,,0000,0000,0000,,"Skills: Transmute (+Mineral Appraisal) (+Precise\NTransmute) (+Mineral Probe) (+Mineral Isolation)\N(+Mineral Fusion), Mana Manipulation, Iron Stomach,"
+Dialogue: 0,0:00:34.40,0:00:36.55,Default,,0000,0000,0000,,If I can't find a way up,
+Dialogue: 0,0:00:36.11,0:00:38.58,On Top,,0000,0000,0000,,"Lightning Field, Air Walk (+Aerodynamics)\N(+Quick Step), Spirit Claw, Language Comprehension"
+Dialogue: 0,0:00:36.55,0:00:38.80,Default,,0000,0000,0000,,then I'm gonna have to keep going down.
+Dialogue: 0,0:00:38.83,0:00:45.21,Default,,0000,0000,0000,,I can use Transmute to move horizontally,\Nso I should be able to use it to move vertically.
+Dialogue: 0,0:00:45.21,0:00:51.21,Default,,0000,0000,0000,,They said this labyrinth had 100 levels,\Nbut which level am I even on?!
+Dialogue: 0,0:00:57.18,0:01:00.85,Default,,0000,0000,0000,,Can't see a damn thing...
+Dialogue: 0,0:01:02.18,0:01:05.60,Default,,0000,0000,0000,,I know shining a light in the\Ndark's dangerous, but I have to...
+Dialogue: 0,0:01:16.53,0:01:18.20,Default,,0000,0000,0000,,Petrifaction?!
+Dialogue: 0,0:01:20.74,0:01:23.54,Default,,0000,0000,0000,,Dammit, you got me...
+Dialogue: 0,0:03:39.67,0:03:41.13,Default,,0000,0000,0000,,Now then,
+Dialogue: 0,0:03:41.13,0:03:46.01,Default,,0000,0000,0000,,what is it that you found on the\N20th level of the Great Orcus Labyrinth?
+Dialogue: 0,0:03:45.99,0:03:47.16,On Top,,0000,0000,0000,,Your highness,
+Dialogue: 0,0:03:47.18,0:03:50.69,On Top,,0000,0000,0000,,we found a new kind of trap\Nthat utilized a glanz crystal.
+Dialogue: 0,0:03:51.52,0:03:55.44,Default,,0000,0000,0000,,It instantly transported\Nus to the 65th level.
+Dialogue: 0,0:03:56.11,0:03:58.02,Default,,0000,0000,0000,,That's quite deep.
+Dialogue: 0,0:03:58.02,0:04:03.20,Default,,0000,0000,0000,,That is the deepest level ever reached,\Nand the lair of the Behemoth.
+Dialogue: 0,0:04:03.20,0:04:08.49,Default,,0000,0000,0000,,Our fight against the\NBehemoth and Traum Soldiers was...
+Dialogue: 0,0:04:08.49,0:04:09.87,Default,,0000,0000,0000,,...regretfully, in vain.
+Dialogue: 0,0:04:09.87,0:04:17.88,Default,,0000,0000,0000,,Word that one of God's chosen heroes has\Nperished is spreading through the kingdom.
+Dialogue: 0,0:04:17.88,0:04:22.26,Default,,0000,0000,0000,,Say nothing more about\Nthis matter. Understood?
+Dialogue: 0,0:04:23.63,0:04:24.76,Default,,0000,0000,0000,,Understood.
+Dialogue: 0,0:04:24.76,0:04:27.80,Default,,0000,0000,0000,,You are all in agreement, yes, Heroes?
+Dialogue: 0,0:04:36.35,0:04:37.61,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:04:39.65,0:04:43.61,Default,,0000,0000,0000,,The Behemoth! This is the 65th floor!
+Dialogue: 0,0:04:43.61,0:04:46.32,Default,,0000,0000,0000,,That's the furthest anyone's ever gotten...
+Dialogue: 0,0:04:47.32,0:04:49.95,Default,,0000,0000,0000,,Take the students and\Nattack the Traum Soldiers!
+Dialogue: 0,0:04:49.95,0:04:50.99,Default,,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:04:50.99,0:04:53.41,Default,,0000,0000,0000,,The rest of you, hold this beast back!
+Dialogue: 0,0:04:53.41,0:04:54.07,Default,,0000,0000,0000,,We'll help!
+Dialogue: 0,0:04:54.07,0:04:55.30,Default,,0000,0000,0000,,You fools!
+Dialogue: 0,0:05:10.18,0:05:12.22,Default,,0000,0000,0000,,Run! Now's your chance!
+Dialogue: 0,0:05:12.22,0:05:13.81,Default,,0000,0000,0000,,I swear, we'll rescue you.
+Dialogue: 0,0:05:13.81,0:05:16.14,Default,,0000,0000,0000,,All right... Keep it up!
+Dialogue: 0,0:05:19.36,0:05:20.19,Default,,0000,0000,0000,,It's not gonna last!
+Dialogue: 0,0:05:20.19,0:05:22.86,Default,,0000,0000,0000,,Get out of there, kid! We'll cover you!
+Dialogue: 0,0:05:27.53,0:05:29.99,Default,,0000,0000,0000,,Second volley, fire!
+Dialogue: 0,0:05:32.58,0:05:34.45,Default,,0000,0000,0000,,Why's it coming this way?!
+Dialogue: 0,0:05:37.21,0:05:39.00,Default,,0000,0000,0000,,Nagumo-{\i1}kun{\i0}!
+Dialogue: 0,0:05:39.71,0:05:40.71,Default,,0000,0000,0000,,Don't!
+Dialogue: 0,0:05:40.71,0:05:42.55,Default,,0000,0000,0000,,But Nagumo-{\i1}kun{\i0}'s--!
+Dialogue: 0,0:05:48.59,0:05:50.51,Default,,0000,0000,0000,,Nagumo-{\i1}kun{\i0}!
+Dialogue: 0,0:05:50.51,0:05:51.68,Default,,0000,0000,0000,,Kaori!
+Dialogue: 0,0:05:51.68,0:05:52.89,Default,,0000,0000,0000,,Let go of me!
+Dialogue: 0,0:05:52.89,0:05:54.35,Default,,0000,0000,0000,,We have to save Nagumo-{\i1}kun{\i0}!
+Dialogue: 0,0:05:54.35,0:05:55.35,Default,,0000,0000,0000,,Kaori!
+Dialogue: 0,0:05:55.35,0:05:57.48,Default,,0000,0000,0000,,It's too late!
+Dialogue: 0,0:05:59.94,0:06:05.19,Default,,0000,0000,0000,,I promised... I promised to protect him!
+Dialogue: 0,0:06:05.19,0:06:05.86,Default,,0000,0000,0000,,Kaori!
+Dialogue: 0,0:06:05.86,0:06:08.20,Default,,0000,0000,0000,,Nagumo-{\i1}kun{\i0}!
+Dialogue: 0,0:06:14.87,0:06:16.37,Default,,0000,0000,0000,,You didn't have to do that!
+Dialogue: 0,0:06:16.37,0:06:17.79,Default,,0000,0000,0000,,Koki!
+Dialogue: 0,0:06:19.42,0:06:21.75,Default,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:06:21.75,0:06:26.38,Default,,0000,0000,0000,,We can't lose any more of you.
+Dialogue: 0,0:06:27.84,0:06:29.38,Default,,0000,0000,0000,,Right.
+Dialogue: 0,0:06:30.14,0:06:32.76,Default,,0000,0000,0000,,C'mon, you can cut open a path for us.
+Dialogue: 0,0:06:32.76,0:06:34.97,Default,,0000,0000,0000,,Get us all out of here.
+Dialogue: 0,0:06:34.97,0:06:37.35,Default,,0000,0000,0000,,Right... I can.
+Dialogue: 0,0:06:41.65,0:06:44.90,Default,,0000,0000,0000,,Welcome to Tortus.
+Dialogue: 0,0:06:44.90,0:06:52.16,Default,,0000,0000,0000,,Let me formally welcome you great heroes\Nand your retainers to our kingdom.
+Dialogue: 0,0:06:52.16,0:06:54.70,Default,,0000,0000,0000,,According to Pope Ishtar,
+Dialogue: 0,0:06:54.70,0:06:59.29,Default,,0000,0000,0000,,there are three races\Nof creatures in this world:
+Dialogue: 0,0:06:59.29,0:07:05.25,Default,,0000,0000,0000,,humans, demons, and beastmen.
+Dialogue: 0,0:07:05.25,0:07:11.80,Default,,0000,0000,0000,,Humankind and demonkind have been\Nengaged in a bloody war for centuries...
+Dialogue: 0,0:07:12.51,0:07:19.73,Default,,0000,0000,0000,,But demons have learned to control monsters,\Ntipping the scales in their favor...
+Dialogue: 0,0:07:19.73,0:07:23.98,Default,,0000,0000,0000,,Humanity is now on the brink of destruction.
+Dialogue: 0,0:07:25.61,0:07:29.86,Default,,0000,0000,0000,,To prevent that, the god of creation\Nworshipped by the people of Tortus, Ehit,
+Dialogue: 0,0:07:29.86,0:07:36.20,Default,,0000,0000,0000,,summoned heroes with incredible\Npower to his kingdom--that's us.
+Dialogue: 0,0:07:37.20,0:07:42.04,Default,,0000,0000,0000,,The people of this kingdom are in danger.\NWe can't let them die!
+Dialogue: 0,0:07:42.04,0:07:45.59,Default,,0000,0000,0000,,I think we should fight to save them all!
+Dialogue: 0,0:07:45.59,0:07:47.63,Default,,0000,0000,0000,,A... Amanogawa-{\i1}kun{\i0}?!
+Dialogue: 0,0:07:47.63,0:07:53.18,Default,,0000,0000,0000,,I-I can't let you do that!\NNo, I cannot let you do that!
+Dialogue: 0,0:07:53.16,0:07:56.49,On Top,,0000,0000,0000,,I have a duty as your\Nteacher to keep you all safe!
+Dialogue: 0,0:07:54.49,0:07:55.95,Default,,0000,0000,0000,,I'll fight, too.
+Dialogue: 0,0:07:55.95,0:07:58.24,Default,,0000,0000,0000,,I don't want you to have to fight alone.
+Dialogue: 0,0:07:56.49,0:08:02.58,On Top,,0000,0000,0000,,Even if it wasn't my duty, I'd protect you!\NYou're all very dear to me!
+Dialogue: 0,0:07:58.24,0:07:59.83,Default,,0000,0000,0000,,Ryutaro...
+Dialogue: 0,0:07:59.83,0:08:01.50,Default,,0000,0000,0000,,I'll fight, too.
+Dialogue: 0,0:08:01.50,0:08:03.71,Default,,0000,0000,0000,,That's all we can do right now.
+Dialogue: 0,0:08:02.58,0:08:06.39,On Top,,0000,0000,0000,,H-Hey, Amanogawa-{\i1}kun{\i0},\Nare you listening to me?!
+Dialogue: 0,0:08:03.71,0:08:04.78,Default,,0000,0000,0000,,Shizuku!
+Dialogue: 0,0:08:05.88,0:08:07.59,Default,,0000,0000,0000,,U-Uh...
+Dialogue: 0,0:08:06.39,0:08:12.09,On Top,,0000,0000,0000,,When your teacher is talking, you have\Nto listen and respond to her, understand?!
+Dialogue: 0,0:08:07.61,0:08:11.50,Default,,0000,0000,0000,,I-If Shizuka-{\i1}chan {\i0}is going\Nto fight, then I'll try, too!
+Dialogue: 0,0:08:12.09,0:08:13.43,Default,,0000,0000,0000,,Kaori!
+Dialogue: 0,0:08:12.09,0:08:14.96,On Top,,0000,0000,0000,,Can't you understand how I feel?!
+Dialogue: 0,0:08:16.62,0:08:20.12,Default,,0000,0000,0000,,You can't! You simply can't!
+Dialogue: 0,0:08:20.12,0:08:21.87,Default,,0000,0000,0000,,Listen to your teacher!
+Dialogue: 0,0:08:21.87,0:08:24.96,Default,,0000,0000,0000,,We are going to have them send us\Nback to school as soon as possible!
+Dialogue: 0,0:08:24.96,0:08:30.05,Default,,0000,0000,0000,,Until that happens,\Nyou are still my students, and...
+Dialogue: 0,0:08:40.22,0:08:44.35,Default,,0000,0000,0000,,Something's wrong.\NNo way it's that easy...
+Dialogue: 0,0:08:44.35,0:08:47.44,Default,,0000,0000,0000,,I-It's fine.
+Dialogue: 0,0:08:47.44,0:08:49.40,Default,,0000,0000,0000,,Nobody'll ever find out.
+Dialogue: 0,0:08:49.40,0:08:51.28,Default,,0000,0000,0000,,Nobody saw me do it...
+Dialogue: 0,0:08:51.28,0:08:53.53,Default,,0000,0000,0000,,Everything went perfectly. It's fine.
+Dialogue: 0,0:08:53.53,0:08:54.74,Default,,0000,0000,0000,,Hiyama-{\i1}kun{\i0}?
+Dialogue: 0,0:08:54.74,0:08:56.20,Default,,0000,0000,0000,,Yaegashi?!
+Dialogue: 0,0:08:57.99,0:09:00.04,Default,,0000,0000,0000,,What's up?
+Dialogue: 0,0:09:00.04,0:09:04.29,Default,,0000,0000,0000,,N-Nothing! What's up with you?
+Dialogue: 0,0:09:04.29,0:09:09.00,Default,,0000,0000,0000,,Just training.\NGotta keep up or I'll get rusty.
+Dialogue: 0,0:09:09.00,0:09:11.09,Default,,0000,0000,0000,,Why don't you do a bit of training yourself?
+Dialogue: 0,0:09:11.09,0:09:15.38,Default,,0000,0000,0000,,N-No, I'm fine.
+Dialogue: 0,0:09:15.38,0:09:18.76,Default,,0000,0000,0000,,Was Hiyama-{\i1}kun {\i0}always like that?
+Dialogue: 0,0:09:21.39,0:09:26.77,Default,,0000,0000,0000,,You know, he was always\Npicking fights with Nagumo-{\i1}kun{\i0}.
+Dialogue: 0,0:09:26.77,0:09:29.81,On Top,,0000,0000,0000,,"Skills: Transmute, Language Comprehension"
+Dialogue: 0,0:09:27.48,0:09:29.94,Default,,0000,0000,0000,,Even when we came over here...
+Dialogue: 0,0:09:34.03,0:09:37.78,Default,,0000,0000,0000,,Does Hiyama-{\i1}kun {\i0}like Kaori...?
+Dialogue: 0,0:09:43.83,0:09:45.41,Default,,0000,0000,0000,,No, it couldn't be.
+Dialogue: 0,0:10:01.14,0:10:03.35,Default,,0000,0000,0000,,Kaori!
+Dialogue: 0,0:10:03.35,0:10:05.06,Default,,0000,0000,0000,,Thank goodness...
+Dialogue: 0,0:10:06.77,0:10:08.19,Default,,0000,0000,0000,,Shizuku-{\i1}chan{\i0}.
+Dialogue: 0,0:10:08.19,0:10:09.73,Default,,0000,0000,0000,,How are you feeling?
+Dialogue: 0,0:10:12.02,0:10:15.57,Default,,0000,0000,0000,,I'm okay. Just a little tired.
+Dialogue: 0,0:10:15.57,0:10:18.86,Default,,0000,0000,0000,,You've been asleep for five days,\Nno wonder you're tired.
+Dialogue: 0,0:10:18.86,0:10:22.20,Default,,0000,0000,0000,,That long? But why?
+Dialogue: 0,0:10:22.20,0:10:24.91,Default,,0000,0000,0000,,I remember we were\Nin the Labyrinth, and then--
+Dialogue: 0,0:10:24.91,0:10:27.12,Default,,0000,0000,0000,,Hey, you thirsty?
+Dialogue: 0,0:10:31.13,0:10:32.88,Default,,0000,0000,0000,,I can't remember.
+Dialogue: 0,0:10:34.71,0:10:36.97,Default,,0000,0000,0000,,Where's Nagumo-{\i1}kun{\i0}?
+Dialogue: 0,0:10:38.30,0:10:42.05,Default,,0000,0000,0000,,He's okay, right?\NWe saved him, didn't we?
+Dialogue: 0,0:10:42.05,0:10:44.10,Default,,0000,0000,0000,,Right?
+Dialogue: 0,0:10:45.64,0:10:46.68,Default,,0000,0000,0000,,No...
+Dialogue: 0,0:10:46.68,0:10:50.10,Default,,0000,0000,0000,,Don't... that can't be true!
+Dialogue: 0,0:10:51.19,0:10:53.19,Default,,0000,0000,0000,,Kaori!
+Dialogue: 0,0:10:53.19,0:10:55.65,Default,,0000,0000,0000,,Shizuku-{\i1}chan{\i0}, let go of me!
+Dialogue: 0,0:10:55.65,0:10:56.78,Default,,0000,0000,0000,,Kaori!
+Dialogue: 0,0:10:56.78,0:11:00.36,Default,,0000,0000,0000,,I have to go!\NNagumo-{\i1}kun {\i0}must be waiting for us!
+Dialogue: 0,0:11:00.36,0:11:03.58,Default,,0000,0000,0000,,He must be so sad, down there all alone!
+Dialogue: 0,0:11:19.17,0:11:23.30,Default,,0000,0000,0000,,I've got no idea how\Nfar down this place goes.
+Dialogue: 0,0:11:23.30,0:11:28.60,Default,,0000,0000,0000,,I've gone down 50 levels since I fell.
+Dialogue: 0,0:11:28.60,0:11:32.56,Default,,0000,0000,0000,,Maybe the answer's\Nwaiting behind those doors.
+Dialogue: 0,0:11:33.90,0:11:36.23,Default,,0000,0000,0000,,Just like Pandora's Box.
+Dialogue: 0,0:11:37.48,0:11:41.95,Default,,0000,0000,0000,,What hope lies beyond those doors?
+Dialogue: 0,0:11:43.16,0:11:46.70,Default,,0000,0000,0000,,I'm going home.\NI'm surviving this and going home.
+Dialogue: 0,0:11:46.70,0:11:50.08,Default,,0000,0000,0000,,And if anything gets in my way,
+Dialogue: 0,0:11:51.08,0:11:54.79,Default,,0000,0000,0000,,I'll kill them.
+Dialogue: 0,0:12:07.93,0:12:14.44,Default,,0000,0000,0000,,Man, I'm stumped. I did a whole\Nlot of studying, but I never saw this.
+Dialogue: 0,0:12:14.44,0:12:17.94,Default,,0000,0000,0000,,Must mean it's pretty old.
+Dialogue: 0,0:12:17.94,0:12:21.65,Default,,0000,0000,0000,,Guess I'm just gonna\Nhave to use Transmute...
+Dialogue: 0,0:12:26.37,0:12:27.74,Default,,0000,0000,0000,,Dammit!
+Dialogue: 0,0:12:35.71,0:12:39.00,Default,,0000,0000,0000,,Yeah, I should've expected that cliché.
+Dialogue: 0,0:12:53.98,0:12:55.90,Default,,0000,0000,0000,,Sorry, I see what's goin' on,
+Dialogue: 0,0:12:55.90,0:12:59.73,Default,,0000,0000,0000,,and I'm not gonna wait for the\Nboth of you to come out to fight you!
+Dialogue: 0,0:13:13.83,0:13:16.46,Default,,0000,0000,0000,,Defensive magic, huh...
+Dialogue: 0,0:13:17.25,0:13:20.25,Default,,0000,0000,0000,,Sorry, but I already know its weakness!
+Dialogue: 0,0:13:31.43,0:13:33.98,Default,,0000,0000,0000,,His arm's in the damn way!
+Dialogue: 0,0:13:36.60,0:13:39.73,Default,,0000,0000,0000,,What's wrong? Come and get me!
+Dialogue: 0,0:13:41.65,0:13:44.44,Default,,0000,0000,0000,,Can't get too far from the door, huh?
+Dialogue: 0,0:13:44.44,0:13:48.28,Default,,0000,0000,0000,,Is what's behind it that much of a secret?
+Dialogue: 0,0:14:03.80,0:14:06.26,Default,,0000,0000,0000,,You got nowhere left to go!
+Dialogue: 0,0:14:17.39,0:14:19.23,Default,,0000,0000,0000,,Over here!
+Dialogue: 0,0:14:23.19,0:14:26.82,Default,,0000,0000,0000,,Now, what were you protecting here?
+Dialogue: 0,0:14:40.42,0:14:45.67,Default,,0000,0000,0000,,Shizuku-{\i1}chan{\i0}, I want to believe...
+Dialogue: 0,0:14:45.67,0:14:47.76,Default,,0000,0000,0000,,...that Nagumo-{\i1}kun {\i0}is still alive.
+Dialogue: 0,0:14:47.76,0:14:49.76,Default,,0000,0000,0000,,Kaori...
+Dialogue: 0,0:14:49.76,0:14:54.64,Default,,0000,0000,0000,,I know. It's more unlikely he'd be alive.
+Dialogue: 0,0:14:54.64,0:14:59.14,Default,,0000,0000,0000,,But we won't know for sure\Nuntil we check for ourselves.
+Dialogue: 0,0:15:00.98,0:15:04.77,Default,,0000,0000,0000,,I'm going to get stronger.
+Dialogue: 0,0:15:04.77,0:15:09.36,Default,,0000,0000,0000,,I'm going to get stronger\Nand see for myself!
+Dialogue: 0,0:15:09.36,0:15:11.91,Default,,0000,0000,0000,,Shizuku-{\i1}chan{\i0}...
+Dialogue: 0,0:15:13.12,0:15:15.41,Default,,0000,0000,0000,,Will you help me?
+Dialogue: 0,0:15:15.41,0:15:18.46,Default,,0000,0000,0000,,Sure. I'll be with you all the way.
+Dialogue: 0,0:15:19.46,0:15:21.29,Default,,0000,0000,0000,,Thanks!
+Dialogue: 0,0:15:23.08,0:15:26.80,Default,,0000,0000,0000,,No need to thank me. We're friends, right?
+Dialogue: 0,0:15:27.38,0:15:28.97,Default,,0000,0000,0000,,Mm-hmm.
+Dialogue: 0,0:15:33.80,0:15:35.76,Default,,0000,0000,0000,,Mana stones?
+Dialogue: 0,0:15:36.60,0:15:40.06,Default,,0000,0000,0000,,Guess the monsters\Nthemselves were the keys.
+Dialogue: 0,0:15:40.06,0:15:44.15,Default,,0000,0000,0000,,I'll eat them later. For now...
+Dialogue: 0,0:16:36.07,0:16:37.74,Default,,0000,0000,0000,,Who's there?
+Dialogue: 0,0:16:52.26,0:16:55.55,Default,,0000,0000,0000,,Is that... a person?!
+Dialogue: 0,0:17:03.56,0:17:04.77,Default,,0000,0000,0000,,Sorry to bother you.
+Dialogue: 0,0:17:04.77,0:17:08.77,Default,,0000,0000,0000,,W-Wait! Please, help me!
+Dialogue: 0,0:17:08.77,0:17:10.44,Default,,0000,0000,0000,,No thanks.
+Dialogue: 0,0:17:10.44,0:17:14.36,Default,,0000,0000,0000,,Why?! I'll do anything!
+Dialogue: 0,0:17:18.37,0:17:22.66,Default,,0000,0000,0000,,Look, nobody in their\Nright mind would release someone
+Dialogue: 0,0:17:22.66,0:17:27.21,Default,,0000,0000,0000,,obviously sealed away\Ndown here on purpose!
+Dialogue: 0,0:17:27.21,0:17:28.46,Default,,0000,0000,0000,,I'm busy!
+Dialogue: 0,0:17:28.46,0:17:30.63,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:17:30.63,0:17:32.42,Default,,0000,0000,0000,,It's not my fault!
+Dialogue: 0,0:17:32.42,0:17:34.67,Default,,0000,0000,0000,,Please, wait, I...
+Dialogue: 0,0:17:34.67,0:17:36.63,Default,,0000,0000,0000,,I was betrayed!
+Dialogue: 0,0:17:41.60,0:17:43.60,Default,,0000,0000,0000,,Dammit.
+Dialogue: 0,0:17:44.64,0:17:47.02,Default,,0000,0000,0000,,You were betrayed, huh?
+Dialogue: 0,0:17:49.44,0:17:53.61,Default,,0000,0000,0000,,That doesn't explain why\Nyou were sealed down here,
+Dialogue: 0,0:17:53.61,0:17:55.49,Default,,0000,0000,0000,,even if what you're saying is true.
+Dialogue: 0,0:17:55.49,0:17:59.66,Default,,0000,0000,0000,,Why'd the people who betrayed\Nyou seal you up down here?
+Dialogue: 0,0:18:02.54,0:18:04.37,Default,,0000,0000,0000,,Hey, you listening?
+Dialogue: 0,0:18:04.37,0:18:07.12,Default,,0000,0000,0000,,If you don't feel like talking, I'm leaving.
+Dialogue: 0,0:18:07.12,0:18:12.38,Default,,0000,0000,0000,,I'm one of a long line of vampires\Nand extremely powerful, too...
+Dialogue: 0,0:18:12.38,0:18:16.68,Default,,0000,0000,0000,,I worked really hard to protect my people.
+Dialogue: 0,0:18:16.68,0:18:24.27,Default,,0000,0000,0000,,But one day, my ministers said\NI was no longer needed...
+Dialogue: 0,0:18:24.27,0:18:28.81,Default,,0000,0000,0000,,My uncle said he was going to rule instead...
+Dialogue: 0,0:18:28.81,0:18:31.90,Default,,0000,0000,0000,,And I was fine with that.
+Dialogue: 0,0:18:31.90,0:18:35.32,Default,,0000,0000,0000,,Were you the royalty of some kingdom, then?
+Dialogue: 0,0:18:35.32,0:18:39.41,Default,,0000,0000,0000,,But they said I was too dangerous...
+Dialogue: 0,0:18:39.41,0:18:45.50,Default,,0000,0000,0000,,And they couldn't kill me,\Nso they sealed me down here...
+Dialogue: 0,0:18:45.50,0:18:48.12,Default,,0000,0000,0000,,What do you mean, they can't kill you?
+Dialogue: 0,0:18:48.12,0:18:51.71,Default,,0000,0000,0000,,I heal quickly.\NWhen I get hurt, it heals right away.
+Dialogue: 0,0:18:51.71,0:18:55.76,Default,,0000,0000,0000,,Is that what you meant by powerful?
+Dialogue: 0,0:18:55.76,0:19:00.22,Default,,0000,0000,0000,,That, and I can manipulate mana...
+Dialogue: 0,0:19:00.22,0:19:01.47,Default,,0000,0000,0000,,I don't even need a circle.
+Dialogue: 0,0:19:01.47,0:19:04.68,Default,,0000,0000,0000,,Damn. Those are some\Nrule-breaking powers.
+Dialogue: 0,0:19:04.68,0:19:08.69,Default,,0000,0000,0000,,That'd make you immortal for sure.
+Dialogue: 0,0:19:08.69,0:19:10.90,Default,,0000,0000,0000,,Please help me.
+Dialogue: 0,0:19:19.65,0:19:22.32,Default,,0000,0000,0000,,The hell am I doing...
+Dialogue: 0,0:19:30.54,0:19:33.42,Default,,0000,0000,0000,,This thing really doesn't wanna go...
+Dialogue: 0,0:19:33.42,0:19:36.25,Default,,0000,0000,0000,,But I've got the power now!
+Dialogue: 0,0:19:45.81,0:19:48.18,Default,,0000,0000,0000,,Come on!
+Dialogue: 0,0:20:24.64,0:20:26.35,Default,,0000,0000,0000,,Want some?
+Dialogue: 0,0:20:27.39,0:20:28.68,Default,,0000,0000,0000,,You're warm.
+Dialogue: 0,0:20:28.68,0:20:33.06,Default,,0000,0000,0000,,Well, duh. I'm still alive.
+Dialogue: 0,0:20:34.56,0:20:37.02,Default,,0000,0000,0000,,What's your name?
+Dialogue: 0,0:20:37.77,0:20:41.11,Default,,0000,0000,0000,,Hajime. Hajime Nagumo.
+Dialogue: 0,0:20:41.11,0:20:43.03,Default,,0000,0000,0000,,Hajime...
+Dialogue: 0,0:20:43.01,0:20:45.72,Default,,0000,0000,0000,,Hajime, Hajime, Hajime...
+Dialogue: 0,0:20:44.55,0:20:45.50,On Top,,0000,0000,0000,,What's yours?
+Dialogue: 0,0:20:47.33,0:20:48.24,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:20:48.24,0:20:50.20,Default,,0000,0000,0000,,What's your name?
+Dialogue: 0,0:20:52.66,0:20:53.75,Default,,0000,0000,0000,,Give me one.
+Dialogue: 0,0:20:53.75,0:20:57.67,Default,,0000,0000,0000,,What? Give you one?\NDid you forget yours or something?
+Dialogue: 0,0:20:57.67,0:20:59.38,Default,,0000,0000,0000,,I don't need that old one anymore!
+Dialogue: 0,0:20:59.38,0:21:01.97,Default,,0000,0000,0000,,I want whatever name\Nyou give me, Hajime!
+Dialogue: 0,0:21:01.97,0:21:04.34,Default,,0000,0000,0000,,What do you mean, you don't need it...
+Dialogue: 0,0:21:10.31,0:21:14.56,Default,,0000,0000,0000,,M-Man, even if\NI wanted to name you, I just...
+Dialogue: 0,0:21:19.27,0:21:21.74,Default,,0000,0000,0000,,How about "Yue"?
+Dialogue: 0,0:21:21.74,0:21:23.11,Default,,0000,0000,0000,,Yue?
+Dialogue: 0,0:21:23.11,0:21:26.99,Default,,0000,0000,0000,,Yeah. Where I come from,\Nit means "moon."
+Dialogue: 0,0:21:26.99,0:21:28.37,Default,,0000,0000,0000,,Moon?
+Dialogue: 0,0:21:28.37,0:21:30.95,Default,,0000,0000,0000,,When I first came into this room,
+Dialogue: 0,0:21:30.95,0:21:37.67,Default,,0000,0000,0000,,your blonde hair and red eyes\Nreminded me of the moon in the night sky.
+Dialogue: 0,0:21:37.67,0:21:39.00,Default,,0000,0000,0000,,How about it?
+Dialogue: 0,0:21:40.05,0:21:44.55,Default,,0000,0000,0000,,From this day on, I'm Yue...
+Dialogue: 0,0:21:44.55,0:21:46.22,Default,,0000,0000,0000,,Thank you!
+Dialogue: 0,0:21:46.22,0:21:47.93,Default,,0000,0000,0000,,N-No prob.
+Dialogue: 0,0:21:52.22,0:21:56.14,Default,,0000,0000,0000,,Hajime! Hajime!
+Dialogue: 0,0:21:59.40,0:22:05.11,Italics,,0000,0000,0000,,"Good morning," "Good night,"\Nall those simple things
+Dialogue: 0,0:22:05.11,0:22:10.20,Italics,,0000,0000,0000,,are so dreamlike and beloved to me
+Dialogue: 0,0:22:10.20,0:22:14.91,Italics,,0000,0000,0000,,Because I finally met you
+Dialogue: 0,0:22:14.91,0:22:21.54,Italics,,0000,0000,0000,,Everything is so special, thank you again
+Dialogue: 0,0:22:24.30,0:22:29.68,Italics,,0000,0000,0000,,I didn't think I'd be lonely all by myself
+Dialogue: 0,0:22:29.68,0:22:34.89,Italics,,0000,0000,0000,,That is, until you found me
+Dialogue: 0,0:22:34.89,0:22:40.48,Italics,,0000,0000,0000,,I wasn't afraid of anything
+Dialogue: 0,0:22:40.48,0:22:45.90,Italics,,0000,0000,0000,,That is, until I thought of a world without you
+Dialogue: 0,0:22:45.90,0:22:52.74,Italics,,0000,0000,0000,,Can you believe it?\NI miss you, I'm so fond of you
+Dialogue: 0,0:22:52.74,0:22:58.54,Italics,,0000,0000,0000,,I love you, don't forget it
+Dialogue: 0,0:22:58.54,0:23:03.63,Italics,,0000,0000,0000,,Shine bright like the first star in the night
+Dialogue: 0,0:23:03.63,0:23:09.43,Italics,,0000,0000,0000,,and stay closer to me than anyone else
+Dialogue: 0,0:23:09.43,0:23:14.81,Italics,,0000,0000,0000,,I'll never let you go
+Dialogue: 0,0:23:14.81,0:23:20.31,Italics,,0000,0000,0000,,I'll never let go of that hand
+Dialogue: 0,0:23:20.31,0:23:27.86,Italics,,0000,0000,0000,,Stay by my side and shine
+Dialogue: 0,0:23:30.88,0:23:34.26,On Top,,0000,0000,0000,,ARIFURETA: From Commonplace\Nto World's Strongest

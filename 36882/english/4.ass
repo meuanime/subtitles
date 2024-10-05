@@ -1,0 +1,166 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:23.23,0:00:27.23,Default,,0000,0000,0000,,Damn, this is pretty impressive.
+Dialogue: 0,0:00:28.90,0:00:30.40,Default,,0000,0000,0000,,Could this be...
+Dialogue: 0,0:00:30.40,0:00:32.82,Default,,0000,0000,0000,,...the Maverick's lair?
+Dialogue: 0,0:00:39.49,0:00:41.58,Default,,0000,0000,0000,,If it is, then hell yeah.
+Dialogue: 0,0:00:41.58,0:00:44.87,Default,,0000,0000,0000,,Means we've finally reached our goal.
+Dialogue: 0,0:00:58.89,0:01:00.26,Default,,0000,0000,0000,,Crap!
+Dialogue: 0,0:01:03.18,0:01:04.64,Default,,0000,0000,0000,,Whoa, hey!
+Dialogue: 0,0:01:04.64,0:01:08.15,Default,,0000,0000,0000,,Look how big that is!\NThis has gotta be the final boss.
+Dialogue: 0,0:01:08.15,0:01:10.11,Default,,0000,0000,0000,,Don't worry.
+Dialogue: 0,0:01:10.11,0:01:12.40,Default,,0000,0000,0000,,We won't lose!
+Dialogue: 0,0:01:13.23,0:01:16.24,Default,,0000,0000,0000,,Yeah, we won't lose!
+Dialogue: 0,0:03:45.05,0:03:46.55,Default,,0000,0000,0000,,Glacial Sleet!
+Dialogue: 0,0:04:20.98,0:04:23.22,Default,,0000,0000,0000,,The white one heals it!
+Dialogue: 0,0:04:23.22,0:04:25.30,Default,,0000,0000,0000,,That means...
+Dialogue: 0,0:04:25.30,0:04:27.80,Default,,0000,0000,0000,,...we take that one out first!
+Dialogue: 0,0:04:32.77,0:04:34.31,Default,,0000,0000,0000,,Yue!
+Dialogue: 0,0:04:51.95,0:04:53.58,Default,,0000,0000,0000,,Crimson Javelin!
+Dialogue: 0,0:05:09.35,0:05:11.93,Default,,0000,0000,0000,,The yellow one defends, huh?
+Dialogue: 0,0:05:11.93,0:05:17.35,Default,,0000,0000,0000,,One heals, one attacks, one defends.\NThis thing's pretty well-balanced!
+Dialogue: 0,0:05:17.35,0:05:18.61,Default,,0000,0000,0000,,Take this!
+Dialogue: 0,0:05:24.74,0:05:25.99,Default,,0000,0000,0000,,Imperial Cannon!
+Dialogue: 0,0:05:36.41,0:05:38.08,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:05:39.92,0:05:41.96,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:05:41.96,0:05:44.34,Default,,0000,0000,0000,,It's me...
+Dialogue: 0,0:05:53.18,0:05:54.77,Default,,0000,0000,0000,,Hajime?
+Dialogue: 0,0:06:01.65,0:06:05.99,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:06:06.19,0:06:08.20,Default,,0000,0000,0000,,Yue! You bastard!
+Dialogue: 0,0:06:12.24,0:06:15.25,Default,,0000,0000,0000,,No, you don't!
+Dialogue: 0,0:06:40.44,0:06:42.77,Default,,0000,0000,0000,,Hey, Yue!
+Dialogue: 0,0:06:42.77,0:06:45.03,Default,,0000,0000,0000,,Snap out of it!
+Dialogue: 0,0:06:50.57,0:06:51.57,Default,,0000,0000,0000,,Hajime?
+Dialogue: 0,0:06:51.57,0:06:53.53,Default,,0000,0000,0000,,Yep, it's me!
+Dialogue: 0,0:06:53.53,0:06:55.95,Default,,0000,0000,0000,,You okay?
+Dialogue: 0,0:06:55.95,0:07:00.54,Default,,0000,0000,0000,,Thank goodness,\NI thought I'd been abandoned again...
+Dialogue: 0,0:07:00.54,0:07:02.92,Default,,0000,0000,0000,,I thought I'd be alone in the dark again...
+Dialogue: 0,0:07:29.74,0:07:33.99,Default,,0000,0000,0000,,Listen, we're gonna kill that thing and survive.
+Dialogue: 0,0:07:33.99,0:07:38.54,Default,,0000,0000,0000,,Then we're going to\Nthe surface and going home.
+Dialogue: 0,0:07:40.04,0:07:42.04,Default,,0000,0000,0000,,Together.
+Dialogue: 0,0:07:43.58,0:07:45.09,Default,,0000,0000,0000,,Mm-hm!
+Dialogue: 0,0:07:51.30,0:07:54.51,Default,,0000,0000,0000,,Right, how do we take it out?
+Dialogue: 0,0:07:56.43,0:07:58.43,Default,,0000,0000,0000,,Yue, I'm gonna use Schlagen.
+Dialogue: 0,0:07:58.43,0:08:00.77,Default,,0000,0000,0000,,I can only fire one shot at\Na time, so cover me, okay?
+Dialogue: 0,0:08:00.77,0:08:02.27,Default,,0000,0000,0000,,You got it!
+Dialogue: 0,0:08:07.98,0:08:10.82,Default,,0000,0000,0000,,Crimson Javelin! Force Lasher! Glacial Sleet!
+Dialogue: 0,0:08:38.35,0:08:40.14,Default,,0000,0000,0000,,That won't work again!
+Dialogue: 0,0:08:59.41,0:09:04.37,Default,,0000,0000,0000,,Using a debuff to try to make\Nme freak out? That's pretty intense.
+Dialogue: 0,0:09:04.37,0:09:07.25,Default,,0000,0000,0000,,But not for me!
+Dialogue: 0,0:09:20.97,0:09:23.64,Default,,0000,0000,0000,,I'll take 'em out all at once!
+Dialogue: 0,0:09:56.22,0:09:58.09,Default,,0000,0000,0000,,Heavenly Blaze!
+Dialogue: 0,0:10:35.09,0:10:36.67,Default,,0000,0000,0000,,Hajime!
+Dialogue: 0,0:11:13.25,0:11:15.59,Default,,0000,0000,0000,,Hajime...?
+Dialogue: 0,0:11:26.31,0:11:27.97,Default,,0000,0000,0000,,Hajime?
+Dialogue: 0,0:11:37.90,0:11:39.49,Default,,0000,0000,0000,,Hajime!
+Dialogue: 0,0:11:54.00,0:11:55.88,Default,,0000,0000,0000,,Hajime!
+Dialogue: 0,0:11:58.21,0:11:59.38,Default,,0000,0000,0000,,Hajime!
+Dialogue: 0,0:12:29.26,0:12:32.46,Default,,0000,0000,0000,,Hang in there, Hajime!
+Dialogue: 0,0:12:40.55,0:12:42.59,Default,,0000,0000,0000,,Drink, Hajime!
+Dialogue: 0,0:12:45.05,0:12:46.64,Default,,0000,0000,0000,,Hajime!
+Dialogue: 0,0:13:06.45,0:13:08.95,Default,,0000,0000,0000,,Heal, quickly!
+Dialogue: 0,0:13:22.96,0:13:25.84,Default,,0000,0000,0000,,This time, I'll save you!
+Dialogue: 0,0:13:36.81,0:13:39.90,Default,,0000,0000,0000,,I can't stop... I can't stop!
+Dialogue: 0,0:13:49.49,0:13:51.37,Default,,0000,0000,0000,,Please hit!
+Dialogue: 0,0:14:17.77,0:14:23.27,Default,,0000,0000,0000,,I'm going... to save...
+Dialogue: 0,0:14:39.92,0:14:41.75,Default,,0000,0000,0000,,Hajime...
+Dialogue: 0,0:14:50.39,0:14:53.76,Default,,0000,0000,0000,,Yue's crying...
+Dialogue: 0,0:15:09.32,0:15:11.49,Default,,0000,0000,0000,,Hajime... I'm sorry!
+Dialogue: 0,0:15:17.04,0:15:18.37,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:15:20.50,0:15:23.00,Default,,0000,0000,0000,,Don't cry, Yue.
+Dialogue: 0,0:15:23.59,0:15:25.38,Default,,0000,0000,0000,,You've won.
+Dialogue: 0,0:15:26.42,0:15:27.92,Default,,0000,0000,0000,,Hajime!
+Dialogue: 0,0:15:36.39,0:15:38.06,Default,,0000,0000,0000,,So damn slow...
+Dialogue: 0,0:15:38.06,0:15:39.77,Default,,0000,0000,0000,,Hajime, run!
+Dialogue: 0,0:15:39.77,0:15:41.44,Default,,0000,0000,0000,,Don't worry.
+Dialogue: 0,0:15:53.74,0:15:57.49,Default,,0000,0000,0000,,His attacks are so damn slow to me.
+Dialogue: 0,0:15:57.49,0:16:00.79,Default,,0000,0000,0000,,They're not slower, you just got faster!
+Dialogue: 0,0:16:00.79,0:16:03.33,Default,,0000,0000,0000,,Yue, suck my blood.
+Dialogue: 0,0:16:03.33,0:16:05.54,Default,,0000,0000,0000,,I need your magic to help me.
+Dialogue: 0,0:16:05.54,0:16:08.51,Default,,0000,0000,0000,,Let's do this, Yue! We're gonna win!
+Dialogue: 0,0:16:19.72,0:16:22.44,Default,,0000,0000,0000,,What am I doing?
+Dialogue: 0,0:16:22.44,0:16:25.23,Default,,0000,0000,0000,,How long am I gonna lie here and take it?!
+Dialogue: 0,0:16:31.99,0:16:39.37,Default,,0000,0000,0000,,Do I really wanna lose\Nmy beloved partner here?
+Dialogue: 0,0:16:40.41,0:16:42.79,Default,,0000,0000,0000,,To that crappy monster?
+Dialogue: 0,0:16:43.87,0:16:47.00,Default,,0000,0000,0000,,My beloved...
+Dialogue: 0,0:16:53.38,0:16:55.47,Default,,0000,0000,0000,,I'll kill you!
+Dialogue: 0,0:16:56.21,0:17:00.06,Default,,0000,0000,0000,,In that moment, something stirred within me.
+Dialogue: 0,0:16:57.60,0:17:00.06,On Top,,0000,0000,0000,,"Air Walk [+Blink]"
+Dialogue: 0,0:17:03.02,0:17:06.02,Default,,0000,0000,0000,,Yue, when I give the signal, cast Azure Blaze.
+Dialogue: 0,0:17:06.02,0:17:08.15,Default,,0000,0000,0000,,Focus on healing until then.
+Dialogue: 0,0:17:08.15,0:17:10.53,Default,,0000,0000,0000,,Mm-hm. What about you?
+Dialogue: 0,0:17:10.53,0:17:12.86,Default,,0000,0000,0000,,I'm gonna go get set up!
+Dialogue: 0,0:17:26.17,0:17:27.13,Default,,0000,0000,0000,,Hajime!
+Dialogue: 0,0:17:27.13,0:17:29.29,Default,,0000,0000,0000,,Yeah, leave it to me!
+Dialogue: 0,0:17:57.45,0:18:01.41,Default,,0000,0000,0000,,This is for messing with Yue! Take this!
+Dialogue: 0,0:18:29.52,0:18:31.48,Default,,0000,0000,0000,,Transmute!
+Dialogue: 0,0:18:36.78,0:18:38.28,Default,,0000,0000,0000,,Yue!
+Dialogue: 0,0:18:40.99,0:18:42.74,Default,,0000,0000,0000,,Azure Blaze!
+Dialogue: 0,0:19:31.92,0:19:33.71,Default,,0000,0000,0000,,Hajime!
+Dialogue: 0,0:19:36.55,0:19:39.55,Default,,0000,0000,0000,,Yeah, that's about all I got...
+Dialogue: 0,0:19:46.43,0:19:50.02,Default,,0000,0000,0000,,You did a great job.
+Dialogue: 0,0:19:50.02,0:19:52.15,Default,,0000,0000,0000,,Yeah, so did you.
+Dialogue: 0,0:19:58.99,0:20:01.03,Default,,0000,0000,0000,,What is the meaning of this?!
+Dialogue: 0,0:20:01.03,0:20:04.91,Default,,0000,0000,0000,,You're forcing students to fight,\Neven when they don't want to?!
+Dialogue: 0,0:20:04.91,0:20:08.16,Default,,0000,0000,0000,,They just saw one of their friends die!
+Dialogue: 0,0:20:08.16,0:20:12.50,Default,,0000,0000,0000,,They need time to heal\Nfrom their grief and terror!
+Dialogue: 0,0:20:12.50,0:20:15.96,Default,,0000,0000,0000,,This loss was unfortunate, indeed.
+Dialogue: 0,0:20:15.96,0:20:19.71,Default,,0000,0000,0000,,If that's what you really feel,\Nthen you need to stop this, right now!
+Dialogue: 0,0:20:19.71,0:20:23.13,Default,,0000,0000,0000,,If you don't, I won't\Nhelp on the farms anymore!
+Dialogue: 0,0:20:23.13,0:20:25.22,Default,,0000,0000,0000,,Then let me propose this.
+Dialogue: 0,0:20:25.22,0:20:31.18,Default,,0000,0000,0000,,I promise that those who do not wish\Nto fight will not be forced to do so.
+Dialogue: 0,0:20:31.18,0:20:33.48,Default,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:20:33.48,0:20:37.15,Default,,0000,0000,0000,,Lady Aiko, your job class,\NFarmer, is incredibly important.
+Dialogue: 0,0:20:37.15,0:20:42.99,Default,,0000,0000,0000,,We humbly ask that you use your abilities\Nto continue cultivating our farming efforts.
+Dialogue: 0,0:20:42.99,0:20:44.86,Default,,0000,0000,0000,,Excuse me.
+Dialogue: 0,0:20:46.20,0:20:50.75,Default,,0000,0000,0000,,Nagumo-{\i1}kun{\i0}, class...\NI should have done this much earlier!
+Dialogue: 0,0:20:54.12,0:20:57.54,Default,,0000,0000,0000,,But your Sensei won't be\Nswept away ever again!
+Dialogue: 0,0:21:04.18,0:21:05.72,Default,,0000,0000,0000,,Kaori!
+Dialogue: 0,0:21:13.77,0:21:15.65,Default,,0000,0000,0000,,I'm okay.
+Dialogue: 0,0:21:15.65,0:21:17.81,Default,,0000,0000,0000,,Don't push yourself too hard, okay?
+Dialogue: 0,0:21:17.81,0:21:20.15,Default,,0000,0000,0000,,Thanks, Shizuku-{\i1}chan{\i0}.
+Dialogue: 0,0:21:20.15,0:21:23.70,Default,,0000,0000,0000,,Kaori, I love how kind you are,
+Dialogue: 0,0:21:23.70,0:21:26.95,Default,,0000,0000,0000,,but we can't let the death of\Nour classmate hold us back forever!
+Dialogue: 0,0:21:26.95,0:21:28.49,Default,,0000,0000,0000,,C'mon, Kouki!
+Dialogue: 0,0:21:28.49,0:21:30.49,Default,,0000,0000,0000,,Quiet, Shizuku, please!
+Dialogue: 0,0:21:30.49,0:21:32.50,Default,,0000,0000,0000,,Kaori, we have to move forward!
+Dialogue: 0,0:21:32.50,0:21:34.21,Default,,0000,0000,0000,,I'm sure Nagumo would've wanted us to move--
+Dialogue: 0,0:21:34.21,0:21:38.29,Default,,0000,0000,0000,,Kaori-{\i1}chan{\i0}, I'm here for you, so just let me\Nknow if there's anything I can do for you!
+Dialogue: 0,0:21:38.29,0:21:42.17,Default,,0000,0000,0000,,That's right! You can count on your\Nfriend Suzu to be your ally, Kaorin!
+Dialogue: 0,0:21:42.17,0:21:45.88,Default,,0000,0000,0000,,Right. Thanks, Eri-{\i1}chan{\i0}, Suzu-{\i1}chan{\i0}.
+Dialogue: 0,0:21:45.88,0:21:47.76,Default,,0000,0000,0000,,Break's over!
+Dialogue: 0,0:21:47.76,0:21:49.72,Default,,0000,0000,0000,,Time to move forward!
+Dialogue: 0,0:21:59.36,0:22:05.07,Italics,,0000,0000,0000,,"Good morning," "Good night,"\Nall those simple things
+Dialogue: 0,0:22:05.07,0:22:10.16,Italics,,0000,0000,0000,,are so dreamlike and beloved to me
+Dialogue: 0,0:22:10.16,0:22:14.87,Italics,,0000,0000,0000,,Because I finally met you
+Dialogue: 0,0:22:14.87,0:22:21.50,Italics,,0000,0000,0000,,Everything is so special, thank you again
+Dialogue: 0,0:22:24.26,0:22:29.64,Italics,,0000,0000,0000,,I didn't think I'd be lonely all by myself
+Dialogue: 0,0:22:29.64,0:22:34.85,Italics,,0000,0000,0000,,That is, until you found me
+Dialogue: 0,0:22:34.85,0:22:40.44,Italics,,0000,0000,0000,,I wasn't afraid of anything
+Dialogue: 0,0:22:40.44,0:22:45.86,Italics,,0000,0000,0000,,That is, until I thought of a world without you
+Dialogue: 0,0:22:45.86,0:22:52.70,Italics,,0000,0000,0000,,Can you believe it?\NI miss you, I'm so fond of you
+Dialogue: 0,0:22:52.70,0:22:58.50,Italics,,0000,0000,0000,,I love you, don't forget it
+Dialogue: 0,0:22:58.50,0:23:03.59,Italics,,0000,0000,0000,,Shine bright like the first star in the night
+Dialogue: 0,0:23:03.59,0:23:09.38,Italics,,0000,0000,0000,,and stay closer to me than anyone else
+Dialogue: 0,0:23:09.38,0:23:14.76,Italics,,0000,0000,0000,,I'll never let you go
+Dialogue: 0,0:23:14.76,0:23:20.27,Italics,,0000,0000,0000,,I'll never let go of that hand
+Dialogue: 0,0:23:20.27,0:23:27.82,Italics,,0000,0000,0000,,Stay by my side and shine
+Dialogue: 0,0:23:30.95,0:23:34.28,On Top,,0000,0000,0000,,ARIFURETA: From Commonplace\Nto World's Strongest

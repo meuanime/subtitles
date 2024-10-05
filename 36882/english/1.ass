@@ -1,0 +1,252 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:00.41,0:02:02.12,Default,,0000,0000,0000,,Am I alive?
+Dialogue: 0,0:02:02.12,0:02:06.54,Default,,0000,0000,0000,,Or am I already dead?
+Dialogue: 0,0:02:06.54,0:02:09.62,Default,,0000,0000,0000,,It's too dark to see anything.
+Dialogue: 0,0:02:12.25,0:02:15.17,Default,,0000,0000,0000,,Looks like I'm not dead yet.
+Dialogue: 0,0:02:16.17,0:02:18.43,Default,,0000,0000,0000,,Where am I?
+Dialogue: 0,0:02:18.43,0:02:21.51,Default,,0000,0000,0000,,I fell pretty deep into\Nthe Great Orcus Labyrinth...
+Dialogue: 0,0:02:21.51,0:02:27.10,Default,,0000,0000,0000,,I can't be so deep that\Nnobody's made it down here, right?
+Dialogue: 0,0:02:27.10,0:02:30.27,Default,,0000,0000,0000,,In any case, I better get\Nto the upper levels, fast.
+Dialogue: 0,0:02:30.27,0:02:33.11,Default,,0000,0000,0000,,Gotta find some stairs that lead upwards.
+Dialogue: 0,0:02:33.94,0:02:37.90,Default,,0000,0000,0000,,This level is huge...\NNot like any of the other levels before.
+Dialogue: 0,0:02:40.70,0:02:44.24,Default,,0000,0000,0000,,A bunny? All the way down here?
+Dialogue: 0,0:02:44.24,0:02:47.87,Default,,0000,0000,0000,,I thought the monsters in\Nthe deeper levels were tougher...
+Dialogue: 0,0:02:59.01,0:03:02.84,Default,,0000,0000,0000,,Crap! That bunny is crazy tough!
+Dialogue: 0,0:03:05.68,0:03:07.35,Default,,0000,0000,0000,,It found me!
+Dialogue: 0,0:03:46.72,0:03:48.06,Default,,0000,0000,0000,,It's eating it...
+Dialogue: 0,0:03:48.06,0:03:50.60,Default,,0000,0000,0000,,It was just prey for a predator.
+Dialogue: 0,0:03:50.60,0:03:52.27,Default,,0000,0000,0000,,Just like me!
+Dialogue: 0,0:04:19.75,0:04:21.84,Default,,0000,0000,0000,,My arm!
+Dialogue: 0,0:04:26.14,0:04:28.60,Default,,0000,0000,0000,,It ate my arm!
+Dialogue: 0,0:04:34.94,0:04:36.48,Default,,0000,0000,0000,,T-Transmute!
+Dialogue: 0,0:04:38.15,0:04:39.32,Default,,0000,0000,0000,,Transmute!
+Dialogue: 0,0:04:40.94,0:04:44.65,Default,,0000,0000,0000,,Transmute, Transmute, Transmute, Transmute!
+Dialogue: 0,0:04:44.65,0:04:49.91,Default,,0000,0000,0000,,Transmute, Transmute,\NTransmute, Transmute, Transmute!
+Dialogue: 0,0:04:53.50,0:04:56.75,Default,,0000,0000,0000,,Get away, get away,\Nget away, get away, get away!
+Dialogue: 0,0:05:04.55,0:05:08.22,Default,,0000,0000,0000,,C-Crap, it won't stop bleeding...
+Dialogue: 0,0:05:08.22,0:05:10.39,Default,,0000,0000,0000,,I'm passing out...
+Dialogue: 0,0:05:16.69,0:05:19.44,Default,,0000,0000,0000,,My arm hurts...
+Dialogue: 0,0:05:21.82,0:05:25.20,Default,,0000,0000,0000,,That's... a Holy Crystal.
+Dialogue: 0,0:05:25.20,0:05:31.08,Default,,0000,0000,0000,,A mythological stone formed by\Nthe crystallization of mana over milennia...
+Dialogue: 0,0:05:35.12,0:05:39.67,Default,,0000,0000,0000,,"The saturation of mana turns to liquid\Nand begins to flow from the stone.
+Dialogue: 0,0:05:39.67,0:05:45.55,Default,,0000,0000,0000,,That liquid is called Holy Water,\Nand it can heal any injury and dispel any curse."
+Dialogue: 0,0:05:47.55,0:05:52.97,Default,,0000,0000,0000,,I've been visiting the Royal Library to try\Nand glean information to help my classmates,
+Dialogue: 0,0:05:47.59,0:05:58.85,On Top,,0000,0000,0000,,"Status: Hajime Nagumo"\N"Skills: Transmute, Language Comprehension"
+Dialogue: 0,0:05:52.97,0:05:56.02,Default,,0000,0000,0000,,but it looks like if I can't fight,
+Dialogue: 0,0:05:56.02,0:05:58.73,Default,,0000,0000,0000,,then there's no way I'm gonna\Nget out of here or even survive.
+Dialogue: 0,0:06:03.07,0:06:05.90,Default,,0000,0000,0000,,I can't fight that thing!
+Dialogue: 0,0:06:05.90,0:06:08.66,Default,,0000,0000,0000,,It's way tougher than a Behemoth!
+Dialogue: 0,0:06:08.66,0:06:12.03,Default,,0000,0000,0000,,I should have never gone\Ninto the Labyrinth...
+Dialogue: 0,0:06:12.03,0:06:13.79,Default,,0000,0000,0000,,Someone, help me!
+Dialogue: 0,0:06:18.04,0:06:21.46,Default,,0000,0000,0000,,Listen up! Everyone helps\Neach other in the Labyrinth.
+Dialogue: 0,0:06:21.46,0:06:24.42,Default,,0000,0000,0000,,No matter what, got it?
+Dialogue: 0,0:06:24.42,0:06:25.76,Default,,0000,0000,0000,,Got it!
+Dialogue: 0,0:06:37.68,0:06:39.94,Default,,0000,0000,0000,,I'll keep everyone safe!
+Dialogue: 0,0:06:39.94,0:06:42.90,Default,,0000,0000,0000,,Thanks, Amanogawa-{\i1}kun{\i0}.
+Dialogue: 0,0:06:42.90,0:06:49.28,Default,,0000,0000,0000,,Why're you bothering with a sword?\NYou're still totally useless.
+Dialogue: 0,0:06:49.28,0:06:51.49,Default,,0000,0000,0000,,Are you okay, Nagumo-{\i1}kun{\i0}?
+Dialogue: 0,0:06:51.49,0:06:53.03,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:06:56.58,0:06:59.58,Default,,0000,0000,0000,,You just have to work harder, Nagumo.
+Dialogue: 0,0:06:59.58,0:07:01.71,Default,,0000,0000,0000,,If I were you,
+Dialogue: 0,0:07:01.71,0:07:04.67,Default,,0000,0000,0000,,I'd be using every scrap of free time\Nto train and get a little bit stronger.
+Dialogue: 0,0:07:07.34,0:07:10.55,Default,,0000,0000,0000,,What's that? It's so shiny.
+Dialogue: 0,0:07:11.72,0:07:13.76,Default,,0000,0000,0000,,Is that...
+Dialogue: 0,0:07:13.76,0:07:19.89,Default,,0000,0000,0000,,That's a glanz crystal.\NYou don't see big ones like that all too often.
+Dialogue: 0,0:07:19.89,0:07:23.48,Default,,0000,0000,0000,,It's apparently a pretty popular\Nengagement ring stone.
+Dialogue: 0,0:07:23.48,0:07:25.32,Default,,0000,0000,0000,,It's beautiful!
+Dialogue: 0,0:07:25.32,0:07:28.53,Default,,0000,0000,0000,,Well, then, I'll go grab it!
+Dialogue: 0,0:07:28.53,0:07:30.95,Default,,0000,0000,0000,,Hey! Don't go off on your own!
+Dialogue: 0,0:07:30.95,0:07:33.24,Default,,0000,0000,0000,,We haven't even checked to see if it's safe!
+Dialogue: 0,0:08:04.06,0:08:06.98,Default,,0000,0000,0000,,It's a trap! Get back!
+Dialogue: 0,0:08:06.98,0:08:08.69,Default,,0000,0000,0000,,Get to those stairs, hurry!
+Dialogue: 0,0:08:14.66,0:08:16.41,Default,,0000,0000,0000,,Thanks, Shizuku!
+Dialogue: 0,0:08:16.41,0:08:18.12,Default,,0000,0000,0000,,Hurry, everyone!
+Dialogue: 0,0:08:20.29,0:08:24.96,Default,,0000,0000,0000,,Get a move on!\NI'm not going to let you die here!
+Dialogue: 0,0:08:28.09,0:08:30.55,Default,,0000,0000,0000,,O God, grant thy beloved\Nchildren thy divine protection
+Dialogue: 0,0:08:30.55,0:08:32.63,Default,,0000,0000,0000,,from all wishing to cause them harm,
+Dialogue: 0,0:08:32.63,0:08:36.30,Default,,0000,0000,0000,,let the soil at our feet become divine\Nground that keeps our enemies at bay!
+Dialogue: 0,0:08:36.30,0:08:38.18,Default,,0000,0000,0000,,Hallowed Ground!
+Dialogue: 0,0:08:56.78,0:08:58.49,Default,,0000,0000,0000,,Run, Kaori!
+Dialogue: 0,0:08:59.87,0:09:01.41,Default,,0000,0000,0000,,Transmute?
+Dialogue: 0,0:09:02.54,0:09:03.37,Default,,0000,0000,0000,,Nagumo-{\i1}kun{\i0}!
+Dialogue: 0,0:09:03.37,0:09:05.46,Default,,0000,0000,0000,,Run! Now's your chance!
+Dialogue: 0,0:09:08.00,0:09:09.42,Default,,0000,0000,0000,,You all right, kid?!
+Dialogue: 0,0:09:09.42,0:09:11.96,Default,,0000,0000,0000,,This won't hold for long, Captain Meld!
+Dialogue: 0,0:09:11.96,0:09:15.76,Default,,0000,0000,0000,,G-Get Shirasaki-{\i1}san {\i0}and yourself to safety!
+Dialogue: 0,0:09:18.30,0:09:19.39,Default,,0000,0000,0000,,Hurry!
+Dialogue: 0,0:09:19.39,0:09:20.76,Default,,0000,0000,0000,,I swear, we'll rescue you.
+Dialogue: 0,0:09:20.76,0:09:22.97,Default,,0000,0000,0000,,All right... Keep it up!
+Dialogue: 0,0:09:28.94,0:09:30.15,Default,,0000,0000,0000,,It's not gonna last!
+Dialogue: 0,0:09:30.15,0:09:32.82,Default,,0000,0000,0000,,Get out of there, kid! We'll cover you!
+Dialogue: 0,0:09:32.82,0:09:34.11,Default,,0000,0000,0000,,Ready, everyone?
+Dialogue: 0,0:09:34.11,0:09:35.36,Default,,0000,0000,0000,,Ready!
+Dialogue: 0,0:09:38.49,0:09:40.16,Default,,0000,0000,0000,,Run, kid! Hurry!
+Dialogue: 0,0:09:40.16,0:09:41.87,Default,,0000,0000,0000,,Got it!
+Dialogue: 0,0:09:44.08,0:09:46.62,Default,,0000,0000,0000,,Why? Why?
+Dialogue: 0,0:09:46.62,0:09:48.96,Default,,0000,0000,0000,,Why? Why?!
+Dialogue: 0,0:09:48.96,0:09:51.75,Default,,0000,0000,0000,,Just die already. Die!
+Dialogue: 0,0:09:51.75,0:09:54.26,Default,,0000,0000,0000,,I don't wanna die... Die!
+Dialogue: 0,0:09:54.26,0:09:56.93,Default,,0000,0000,0000,,No, I don't want to die... Die!
+Dialogue: 0,0:09:56.93,0:09:59.34,Default,,0000,0000,0000,,I don't want to die... Die!
+Dialogue: 0,0:09:59.34,0:10:01.18,Default,,0000,0000,0000,,I don't want to die!
+Dialogue: 0,0:10:01.18,0:10:04.43,Default,,0000,0000,0000,,Dammit! My left arm hurts so much!
+Dialogue: 0,0:10:04.43,0:10:07.56,Default,,0000,0000,0000,,It got bitten off, but it still hurts!
+Dialogue: 0,0:10:10.94,0:10:13.90,Default,,0000,0000,0000,,Whose fault is this?! Who's to blame?!
+Dialogue: 0,0:10:13.90,0:10:18.49,Default,,0000,0000,0000,,Who? Who did this?! Who, dammit?!
+Dialogue: 0,0:10:19.03,0:10:21.37,Default,,0000,0000,0000,,I swear, we'll rescue you.
+Dialogue: 0,0:10:21.37,0:10:22.95,Default,,0000,0000,0000,,Fire!
+Dialogue: 0,0:10:26.75,0:10:28.87,Default,,0000,0000,0000,,Second volley, fire!
+Dialogue: 0,0:10:33.63,0:10:35.80,Default,,0000,0000,0000,,Hang in there, Nagumo-{\i1}kun{\i0}!
+Dialogue: 0,0:10:37.84,0:10:38.55,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:10:38.55,0:10:40.76,Default,,0000,0000,0000,,Why's it coming this way?!
+Dialogue: 0,0:10:50.81,0:10:56.74,Default,,0000,0000,0000,,I don't remember anyone\Never wanting to kill me.
+Dialogue: 0,0:10:56.74,0:11:01.32,Default,,0000,0000,0000,,But that was aimed directly\Nat me, to try and kill me.
+Dialogue: 0,0:11:01.32,0:11:03.58,Default,,0000,0000,0000,,Who the hell was it?!
+Dialogue: 0,0:11:04.08,0:11:07.08,Default,,0000,0000,0000,,It was him!
+Dialogue: 0,0:11:08.91,0:11:11.37,Default,,0000,0000,0000,,But why?
+Dialogue: 0,0:11:11.37,0:11:13.84,Default,,0000,0000,0000,,Guess it doesn't matter anymore...
+Dialogue: 0,0:11:29.18,0:11:29.77,Default,,0000,0000,0000,,Kid!
+Dialogue: 0,0:11:29.77,0:11:31.98,Default,,0000,0000,0000,,Run!
+Dialogue: 0,0:11:31.98,0:11:32.57,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:11:32.57,0:11:33.56,Default,,0000,0000,0000,,Did someone miss?!
+Dialogue: 0,0:11:36.98,0:11:37.75,Default,,0000,0000,0000,,Nagumo-{\i1}kun{\i0}!
+Dialogue: 0,0:11:37.75,0:11:38.65,Default,,0000,0000,0000,,Don't!
+Dialogue: 0,0:11:38.65,0:11:40.28,Default,,0000,0000,0000,,But Nagumo-{\i1}kun{\i0}'s--!
+Dialogue: 0,0:11:49.83,0:11:52.21,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:11:57.80,0:11:59.17,On Top,,0000,0000,0000,,Shirasaki-{\i1}san{\i0}?
+Dialogue: 0,0:11:59.17,0:12:01.47,On Top,,0000,0000,0000,,It's the middle of\Nthe night, what's up?
+Dialogue: 0,0:12:01.47,0:12:04.14,On Top,,0000,0000,0000,,I don't want you to go with us
+Dialogue: 0,0:12:04.14,0:12:06.60,On Top,,0000,0000,0000,,to train in the\NGreat Orcus Labyrinth.
+Dialogue: 0,0:12:06.60,0:12:10.02,Default,,0000,0000,0000,,Please. I had a really horrible dream.
+Dialogue: 0,0:12:10.02,0:12:11.48,Default,,0000,0000,0000,,I think something's\Ngoing to happen to you...
+Dialogue: 0,0:12:11.48,0:12:13.56,Default,,0000,0000,0000,,Hold on a sec.
+Dialogue: 0,0:12:13.56,0:12:15.48,Default,,0000,0000,0000,,We were in a dark place,
+Dialogue: 0,0:12:15.48,0:12:18.11,Default,,0000,0000,0000,,and when I tried calling out to you,\Nyou didn't respond...
+Dialogue: 0,0:12:18.11,0:12:21.07,Default,,0000,0000,0000,,I ran after you, but I couldn't catch up...
+Dialogue: 0,0:12:21.07,0:12:23.82,Default,,0000,0000,0000,,A-And then...
+Dialogue: 0,0:12:23.82,0:12:25.62,Default,,0000,0000,0000,,And then?
+Dialogue: 0,0:12:25.62,0:12:27.28,Default,,0000,0000,0000,,You disappeared...
+Dialogue: 0,0:12:29.41,0:12:32.00,Default,,0000,0000,0000,,Huh...
+Dialogue: 0,0:12:32.00,0:12:34.46,Default,,0000,0000,0000,,Well, then, would you protect me?
+Dialogue: 0,0:12:34.46,0:12:36.08,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:12:36.08,0:12:41.30,Default,,0000,0000,0000,,My Synergist job is super commonplace\Nand not really well-suited to combat,
+Dialogue: 0,0:12:41.30,0:12:44.18,Default,,0000,0000,0000,,but you're a Priest, right, Shirasaki-{\i1}san{\i0}?
+Dialogue: 0,0:12:44.18,0:12:49.39,Default,,0000,0000,0000,,If I end up getting really hurt,\Nyou can just use your powers to heal me.
+Dialogue: 0,0:12:53.69,0:12:57.98,Default,,0000,0000,0000,,Okay. I promise\NI'll protect you, Nagumo-{\i1}kun{\i0}.
+Dialogue: 0,0:12:59.07,0:13:01.57,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:13:02.19,0:13:05.36,Default,,0000,0000,0000,,Nobody's going to rescue me...
+Dialogue: 0,0:13:05.36,0:13:07.57,Default,,0000,0000,0000,,What should I do now?
+Dialogue: 0,0:13:10.45,0:13:13.91,Default,,0000,0000,0000,,Why do I have to suffer like this?
+Dialogue: 0,0:13:13.91,0:13:18.29,Default,,0000,0000,0000,,What did I do?\NWhy is this happening to me?!
+Dialogue: 0,0:13:18.29,0:13:22.13,Default,,0000,0000,0000,,I was brought here\Nin some crazy turn of events,
+Dialogue: 0,0:13:22.13,0:13:25.97,Default,,0000,0000,0000,,my classmates all betrayed me,
+Dialogue: 0,0:13:25.97,0:13:29.18,Default,,0000,0000,0000,,and the enemies are too damn powerful!
+Dialogue: 0,0:13:31.51,0:13:36.39,Default,,0000,0000,0000,,What do I want in this\Nhopeless pit of despair?
+Dialogue: 0,0:13:37.69,0:13:40.90,Default,,0000,0000,0000,,I want to survive and go home...
+Dialogue: 0,0:13:40.90,0:13:44.74,Default,,0000,0000,0000,,Everything between me\Nand home is my enemy!
+Dialogue: 0,0:13:44.74,0:13:50.78,Default,,0000,0000,0000,,That's right. If something's in my way,\Nif someone's forcing me to do crap...
+Dialogue: 0,0:13:52.20,0:13:54.04,Default,,0000,0000,0000,,...then I'll kill them!
+Dialogue: 0,0:13:55.75,0:13:59.33,Default,,0000,0000,0000,,I'm thirsty and hungry, too.
+Dialogue: 0,0:14:04.76,0:14:08.80,Default,,0000,0000,0000,,Dammit! I don't care\Nif I have to eat a monster.
+Dialogue: 0,0:14:08.80,0:14:10.76,Default,,0000,0000,0000,,I'll frickin' eat it!
+Dialogue: 0,0:14:33.37,0:14:38.04,Default,,0000,0000,0000,,Shut up! I'm pissed off\N'cause I'm so damn hungry!
+Dialogue: 0,0:14:40.21,0:14:42.88,Default,,0000,0000,0000,,Shut up and let me eat you!
+Dialogue: 0,0:14:44.71,0:14:48.26,Default,,0000,0000,0000,,These tough monsters\Nare pretty damn resilient.
+Dialogue: 0,0:14:52.93,0:14:55.39,Default,,0000,0000,0000,,God, this is way grosser\Nthan I'd imagined...
+Dialogue: 0,0:15:01.52,0:15:02.90,Default,,0000,0000,0000,,Wh-What the hell?!
+Dialogue: 0,0:15:02.90,0:15:06.90,Default,,0000,0000,0000,,It's like something's\Neating me from the inside...!
+Dialogue: 0,0:15:19.37,0:15:23.54,Default,,0000,0000,0000,,I-It won't stop!\NWhat the hell is happening to...
+Dialogue: 0,0:15:24.34,0:15:27.88,Default,,0000,0000,0000,,Shit, do you die\Nif you eat monster meat?
+Dialogue: 0,0:15:44.44,0:15:47.73,Default,,0000,0000,0000,,I'd be screwed without this Holy Water.
+Dialogue: 0,0:15:47.73,0:15:51.36,Default,,0000,0000,0000,,I'd have died when\Nthe monster meat tore me apart.
+Dialogue: 0,0:15:52.91,0:15:56.58,Default,,0000,0000,0000,,For once, I don't feel any pain.
+Dialogue: 0,0:15:56.58,0:15:59.83,Default,,0000,0000,0000,,My body actually feels lighter.
+Dialogue: 0,0:15:59.83,0:16:03.25,Default,,0000,0000,0000,,What the hell happened to me?
+Dialogue: 0,0:16:07.25,0:16:10.97,Default,,0000,0000,0000,,Damn, I look like a demon.
+Dialogue: 0,0:16:11.51,0:16:14.43,Default,,0000,0000,0000,,Guess I should take\Na look at my status plate.
+Dialogue: 0,0:16:18.06,0:16:21.48,Default,,0000,0000,0000,,Eating monster meat\Nmade my level jump up, huh?
+Dialogue: 0,0:16:18.06,0:16:22.31,OS,,0000,0000,0000,,"Skills: Transmute (+Mineral Apprasial),\NMana Manipulation, Iron Stomach,\NLightning Field, Language Comprehension"
+Dialogue: 0,0:16:21.48,0:16:24.31,Default,,0000,0000,0000,,"Lightning Field, Language Comprehension"\NAnd I've got new skills.
+Dialogue: 0,0:16:24.31,0:16:30.61,Default,,0000,0000,0000,,Mana Manipulation? Guess it means\Njust what it says, I can manipulate mana.
+Dialogue: 0,0:16:30.19,0:16:40.83,OS,,0000,0000,0000,,"Skills: Transmute (+Mineral Apprasial),\NMana Manipulation, Iron Stomach,\NLightning Field, Language Comprehension"
+Dialogue: 0,0:16:30.61,0:16:33.74,Default,,0000,0000,0000,,Damn, I don't even need to say the spell.
+Dialogue: 0,0:16:33.74,0:16:39.08,Default,,0000,0000,0000,,I must've gained these skills\Nby eating that monster meat.
+Dialogue: 0,0:16:41.08,0:16:43.25,Default,,0000,0000,0000,,Lightning Field?
+Dialogue: 0,0:16:43.25,0:16:45.63,Default,,0000,0000,0000,,That move, huh?
+Dialogue: 0,0:16:45.63,0:16:47.46,Default,,0000,0000,0000,,Hey, I did it.
+Dialogue: 0,0:16:47.46,0:16:51.59,Default,,0000,0000,0000,,The mana light's turning red.
+Dialogue: 0,0:16:51.59,0:16:55.05,Default,,0000,0000,0000,,I can't shoot it like that two-tailed wolf did,
+Dialogue: 0,0:16:55.05,0:16:59.26,Default,,0000,0000,0000,,but if I can manipulate\Nthe voltage and amperage...
+Dialogue: 0,0:17:02.06,0:17:07.19,Default,,0000,0000,0000,,Smells like crap,\Nbut it's better than eating it raw.
+Dialogue: 0,0:17:07.98,0:17:12.28,Default,,0000,0000,0000,,At any rate, I need some kind of weapon.
+Dialogue: 0,0:17:12.94,0:17:18.14,OS,,0000,0000,0000,,"Skills: Transmute (+Mineral Apprasial),\NMana Manipulation, Iron Stomach,\NLightning Field, Language Comprehension"
+Dialogue: 0,0:17:14.32,0:17:18.37,Default,,0000,0000,0000,,Whoa! I can know what\Na rock is just by grabbing it.
+Dialogue: 0,0:17:18.37,0:17:21.95,Default,,0000,0000,0000,,I should be able to make\Na weapon if I use it right...
+Dialogue: 0,0:17:22.45,0:17:29.29,OS,,0000,0000,0000,,"Taur Stone"\N"A hard black rock. Hardness 8, Toughness 8.\NStrong against force and heat but weak to cold.\NWeakens when frozen. Add heat to bond."
+Dialogue: 0,0:17:23.08,0:17:26.79,Default,,0000,0000,0000,,Taur Stone. A hard black rock.
+Dialogue: 0,0:17:26.79,0:17:29.50,Default,,0000,0000,0000,,Hardness 8, Toughness 8.
+Dialogue: 0,0:17:29.50,0:17:33.13,Default,,0000,0000,0000,,Strong against force\Nand heat but weak to cold.
+Dialogue: 0,0:17:33.13,0:17:38.26,Default,,0000,0000,0000,,Weakens when frozen. Add heat to bond.
+Dialogue: 0,0:17:38.47,0:17:45.48,OS,,0000,0000,0000,,"Blast Rock"\N"A flammable stone. Can explode when\Npressure and heat is applied in a closed space."
+Dialogue: 0,0:17:40.35,0:17:42.35,Default,,0000,0000,0000,,Whoa!
+Dialogue: 0,0:17:42.35,0:17:45.27,Default,,0000,0000,0000,,Blast Rock, a flammable stone.
+Dialogue: 0,0:17:45.27,0:17:49.90,Default,,0000,0000,0000,,Can explode when pressure and\Nheat is applied in an enclosed space.
+Dialogue: 0,0:17:45.48,0:17:51.44,OS,,0000,0000,0000,,With enough volume and pressure,\Nproduces explosions that rival\Nthe highest tier of fire magic spells."
+Dialogue: 0,0:17:49.90,0:17:52.07,Default,,0000,0000,0000,,So it's basically gunpowder.
+Dialogue: 0,0:17:52.07,0:17:55.24,Default,,0000,0000,0000,,With enough volume and pressure,
+Dialogue: 0,0:17:55.24,0:17:58.24,Default,,0000,0000,0000,,produces explosions that rival\Nthe highest tier of fire magic spells.
+Dialogue: 0,0:17:58.99,0:18:02.16,Default,,0000,0000,0000,,Now I've got bullets.
+Dialogue: 0,0:18:07.87,0:18:14.01,Default,,0000,0000,0000,,A six-shot revolver and bullets crafted\Nfrom extremely tough Taur Stone.
+Dialogue: 0,0:18:14.01,0:18:18.55,Default,,0000,0000,0000,,Each bullet was packed\Nwith Blast Rock powder.
+Dialogue: 0,0:18:18.55,0:18:21.30,Default,,0000,0000,0000,,And if I accelerate them\Nwith Lightning Field...
+Dialogue: 0,0:18:41.53,0:18:44.95,Default,,0000,0000,0000,,I'd better give him a good name...
+Dialogue: 0,0:18:44.95,0:18:49.08,Default,,0000,0000,0000,,I got it; I'll name it Donner.
+Dialogue: 0,0:18:59.88,0:19:02.14,Default,,0000,0000,0000,,This doesn't get any easier...
+Dialogue: 0,0:19:02.14,0:19:05.68,Default,,0000,0000,0000,,Let's check my status...
+Dialogue: 0,0:19:05.14,0:19:11.15,OS,,0000,0000,0000,,"Skills: Transmute (+Mineral Apprasial)\N(+Precise Transmute) (+Mineral Probe),\NMana Manipulation, Iron Stomach,"
+Dialogue: 0,0:19:05.68,0:19:07.93,Default,,0000,0000,0000,,Good, the numbers went up.
+Dialogue: 0,0:19:07.93,0:19:12.44,Default,,0000,0000,0000,,Whenever I eat a monster I haven't\Neaten before, my stats go up a lot.
+Dialogue: 0,0:19:11.15,0:19:16.11,On Top,,0000,0000,0000,,"Lightning Field, Air Walk (+Aerodynamics)\N(+Quick Step), Language Comprehension"
+Dialogue: 0,0:19:12.44,0:19:16.32,Default,,0000,0000,0000,,And these new skills will\Nprobably help me find the exit.
+Dialogue: 0,0:19:16.53,0:19:20.61,On Top,,0000,0000,0000,,"Quick Step"
+Dialogue: 0,0:19:17.24,0:19:20.49,Default,,0000,0000,0000,,Quick Step... That's how it teleported.
+Dialogue: 0,0:19:22.87,0:19:26.62,On Top,,0000,0000,0000,,"Aerodynamics"
+Dialogue: 0,0:19:22.99,0:19:27.25,Default,,0000,0000,0000,,Aerodynamics...\NThat was when it pushed off the air.
+Dialogue: 0,0:19:29.33,0:19:34.92,Default,,0000,0000,0000,,Guess I should go repay a favor\Nto a favorite monster of mine.
+Dialogue: 0,0:19:45.47,0:19:47.77,Default,,0000,0000,0000,,Hey, long time no see.
+Dialogue: 0,0:19:47.77,0:19:50.48,Default,,0000,0000,0000,,Enjoy snacking on my arm?
+Dialogue: 0,0:19:51.19,0:19:54.52,Default,,0000,0000,0000,,That's the spirit. Time for a rematch!
+Dialogue: 0,0:19:54.52,0:19:56.69,Default,,0000,0000,0000,,I'm gonna kill you and eat you!
+Dialogue: 0,0:20:00.65,0:20:01.99,Default,,0000,0000,0000,,Quick Step!
+Dialogue: 0,0:20:03.03,0:20:05.87,Default,,0000,0000,0000,,That's right, I'm your enemy!
+Dialogue: 0,0:20:05.87,0:20:08.87,Default,,0000,0000,0000,,I'm not some sniveling prey\Nfor you to hunt!
+Dialogue: 0,0:20:10.58,0:20:11.83,Default,,0000,0000,0000,,Aerodynamics!
+Dialogue: 0,0:20:16.88,0:20:18.38,Default,,0000,0000,0000,,Dammit!
+Dialogue: 0,0:20:20.84,0:20:24.34,Default,,0000,0000,0000,,I'm real proud of this creation.\NTake a good look!
+Dialogue: 0,0:20:38.78,0:20:40.74,Default,,0000,0000,0000,,Ugh, tastes like crap.
+Dialogue: 0,0:20:40.74,0:20:45.66,Default,,0000,0000,0000,,But for some reason, it tastes\Nway better than anything else.
+Dialogue: 0,0:20:53.92,0:20:55.58,Default,,0000,0000,0000,,Lightning Field!
+Dialogue: 0,0:21:15.35,0:21:16.69,Default,,0000,0000,0000,,I'm going home...
+Dialogue: 0,0:21:16.69,0:21:19.32,Default,,0000,0000,0000,,I'm going to survive this and go home!
+Dialogue: 0,0:21:19.32,0:21:25.70,Default,,0000,0000,0000,,I don't care who stands in my way\Nor what they might be...
+Dialogue: 0,0:21:25.70,0:21:29.16,Default,,0000,0000,0000,,I'll kill them.
+Dialogue: 0,0:23:31.03,0:23:34.41,Default,,0000,0000,0000,,{\i1}ARIFURETA: From Commonplace\Nto World's Strongest{\i0}.
