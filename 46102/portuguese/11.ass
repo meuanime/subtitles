@@ -1,0 +1,482 @@
+﻿[Script Info]
+Title: [Erai-raws] Português (Brasil)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: Default - Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: Italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback_Italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Ep_Title,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,1,0020,0020,0045,1
+Style: Next_Time,Arial,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,1,0027,0010,0060,1
+Style: sign_24882_273_What_s_for_Lunch,Arial,18,&H0023DBEE,&H000000FF,&H00FFFFFF,&H00BAB3AE,-1,0,0,0,100,100,0,0,1,3,2,8,0037,0421,0073,0
+Style: sign_24882_274_Asking_People_Ar,Arial,15,&H003813CD,&H000000FF,&H00EAEAEA,&H003E3E3E,0,0,0,0,100,100,0,0,1,2,0,9,0010,0025,0055,0
+Style: sign_19306_241_Nerima_City__Tok,Arial,14,&H00FFFFFF,&H000000FF,&H00595959,&H00000000,0,0,0,0,100,100,0,-14,1,1,0,3,0010,0036,0065,1
+Style: sign_19400_242_Breaking_News,Arial,14,&H00E2E2E2,&H000000FF,&H004E3DC2,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,8,0186,0342,0197,1
+Style: sign_19400_243_Shibaura_Wharf_A,Arial,14,&H002E2F25,&H000000FF,&H00F0F5F5,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,1,0217,0132,0092,1
+Style: sign_19914_250_Body_Found_at_Sh,Arial,14,&H00384241,&H000000FF,&H00939C9D,&H00000000,-1,0,0,0,100,100,0,21,1,3,0,1,0097,0309,0177,1
+Style: sign_20852_264_Fuyuki_Yamamoto,Arial,16,&H00DFE6EE,&H000000FF,&H001F2543,&H00000000,-1,0,0,0,100,100,0,5,1,3,0,8,0244,0242,0062,1
+Style: sign_21432_275_Fuyuki_Yamamoto,Arial,24,&H00FFFFFF,&H000000FF,&H0031445C,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0224,0185,0065,1
+Style: sign_21802_281_Fuyuki_Yamamoto,Arial,16,&H00DFE6EE,&H000000FF,&H001F2543,&H00000000,-1,0,0,0,100,100,0,5,1,3,0,8,0241,0245,0084,1
+Style: sign_25393_329_Loser_s_Bracket,Times New Roman,22,&H000B3F47,&H000000FF,&H00ECE3E1,&H00000000,-1,0,0,0,100,100,0,-5,1,2,1,2,0290,0167,0261,0
+Style: sign_26568_345_Cancer_Research_,Arial,18,&H00CFDCD8,&H000000FF,&H003F483E,&H00000000,-1,0,0,0,100,100,0,-14,1,3,0,3,0339,0027,0217,1
+Style: sign_26568_346_Space_Observatio,Arial,16,&H00444A48,&H000000FF,&H00C4CFD2,&H00000000,-1,0,0,0,100,100,0,-14,1,3,0,3,0000,0291,0140,1
+Style: sign_26835_348_Married_Couple_F,Arial,20,&H00CFDCD8,&H000000FF,&H002F3030,&H00000000,-1,0,0,0,100,100,0,-17,1,3,0,7,0116,0107,0034,1
+Style: sign_29776_381_Live__Talent_Age,Arial,12,&H005E53C2,&H000000FF,&H00FEFCFD,&H00000000,-1,0,0,0,100,100,0,2,1,3,0,9,0322,0128,0058,1
+Style: signs,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0040,0040,0020,1
+Style: sign_21802_285_Chamada_Encerrad,Arial,12,&H00DFE6EE,&H000000FF,&H001F2543,&H00000000,-1,0,0,0,100,100,0,5,1,3,0,8,0257,0252,0128,1
+Style: sign_22176_289_Daimon_mais_novo,Arial,16,&H00DFE6EE,&H000000FF,&H001F2543,&H00000000,-1,0,0,0,100,100,0,5,1,3,0,8,0190,0289,0086,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:00.45,0:01:03.85,Italics,NIKAIDO,0000,0000,0000,,Desde criança, sempre detestei\Nperder mais do que o normal.
+Dialogue: 0,0:01:04.21,0:01:11.80,Ep_Title,EPTITLE,0000,0000,0000,,{\fad(550,600)}Se desse para voltar àquele dia
+Dialogue: 0,0:01:04.39,0:01:05.58,Italics,NIKAIDO,0000,0000,0000,,{\an8}No meu boletim,
+Dialogue: 0,0:01:05.58,0:01:09.17,Italics,NIKAIDO,0000,0000,0000,,{\an8}a professora me descreveu como "uma\Ncriança ambiciosa repleta de energia".
+Dialogue: 0,0:01:09.17,0:01:12.84,Italics,NIKAIDO,0000,0000,0000,,{\an8}No entanto, na vida,\Nperdas são inevitáveis.
+Dialogue: 0,0:01:12.84,0:01:14.98,Italics,NIKAIDO,0000,0000,0000,,Inteligência, condição\Nfísica e artística.
+Dialogue: 0,0:01:14.98,0:01:17.52,Italics,NIKAIDO,0000,0000,0000,,Há limites em todas\Nas nossas habilidades,
+Dialogue: 0,0:01:17.52,0:01:20.12,Italics,NIKAIDO,0000,0000,0000,,e sempre havia alguém melhor do que eu.
+Dialogue: 0,0:01:20.12,0:01:21.31,Italics,NIKAIDO,0000,0000,0000,,Menos na aparência.
+Dialogue: 0,0:01:23.88,0:01:26.85,Italics,NIKAIDO,0000,0000,0000,,Com 16 anos, fiz\Numa audição e virei idol.
+Dialogue: 0,0:01:27.16,0:01:30.01,Italics,NIKAIDO,0000,0000,0000,,Era a única vez em que meu\Ntalento podia ser utilizado.
+Dialogue: 0,0:01:31.13,0:01:33.26,Italics,NIKAIDO,0000,0000,0000,,O nome dela era Mitsuya Yuki.
+Dialogue: 0,0:01:33.26,0:01:36.45,Flashback,MITSUYA,0000,0000,0000,,Sei que você vai passar,\Nafinal, você é linda.
+Dialogue: 0,0:01:36.45,0:01:39.74,Italics,NIKAIDO,0000,0000,0000,,Ela fazia balé e ginástica\Nartística desde criança.
+Dialogue: 0,0:01:39.74,0:01:42.70,Italics,NIKAIDO,0000,0000,0000,,Parece que ela também era\Ndo clube de atletismo.
+Dialogue: 0,0:01:43.24,0:01:45.74,Italics,NIKAIDO,0000,0000,0000,,O pai dela era um ícone\Nem teatro tradicional.
+Dialogue: 0,0:01:45.74,0:01:47.75,Italics,NIKAIDO,0000,0000,0000,,Essa exposição desde cedo\Nà arte refinada
+Dialogue: 0,0:01:47.75,0:01:50.06,Italics,NIKAIDO,0000,0000,0000,,deu a ela um bom olhar.
+Dialogue: 0,0:01:50.06,0:01:51.92,Italics,NIKAIDO,0000,0000,0000,,Ela não era em nada como eu.
+Dialogue: 0,0:01:51.92,0:01:54.07,Italics,NIKAIDO,0000,0000,0000,,Ela estava acostumada\Na ficar diante do público.
+Dialogue: 0,0:01:54.07,0:01:55.41,Italics,NIKAIDO,0000,0000,0000,,Ela tinha experiência.
+Dialogue: 0,0:01:56.05,0:01:57.80,Italics,NIKAIDO,0000,0000,0000,,Ela tinha minha idade\Ne já tinha se dedicado muito.
+Dialogue: 0,0:01:57.80,0:02:01.10,Italics,NIKAIDO,0000,0000,0000,,Ela já tinha fracassado\Ne não tinha medo do fracasso.
+Dialogue: 0,0:02:03.15,0:02:05.43,Italics,NIKAIDO,0000,0000,0000,,Soube que eu passei.
+Dialogue: 0,0:02:05.43,0:02:07.50,Default - Top,YAMAMOTO,0000,0000,0000,,Sou Yamamoto, seu empresário.
+Dialogue: 0,0:02:05.43,0:02:09.02,Italics,NIKAIDO,0000,0000,0000,,Aquele homem encorpado era\Nmeu empresário, Yamamoto.
+Dialogue: 0,0:02:07.50,0:02:10.50,Default - Top,YAMAMOTO,0000,0000,0000,,Minha missão é levar\Nas garotas até o topo.
+Dialogue: 0,0:02:09.44,0:02:12.06,Italics,NIKAIDO,0000,0000,0000,,Comigo, nós três passamos.
+Dialogue: 0,0:02:11.00,0:02:12.06,Default - Top,YAMAMOTO,0000,0000,0000,,Juntos, nós seremos os melhores.
+Dialogue: 0,0:02:12.06,0:02:15.24,Italics,NIKAIDO,0000,0000,0000,,Como esperado, Mitsuya Yuki passou,\Ne Ichimura Shiho também.
+Dialogue: 0,0:02:16.18,0:02:19.27,Italics,NIKAIDO,0000,0000,0000,,Yamamoto anunciou que eu\Nseria a figura central.
+Dialogue: 0,0:02:20.85,0:02:25.12,Italics,NIKAIDO,0000,0000,0000,,Dia após dia nós treinávamos como idols\Nenquanto íamos à escola.
+Dialogue: 0,0:02:25.12,0:02:27.16,Italics,NIKAIDO,0000,0000,0000,,Pela primeira vez na vida,\Ntive que pegar pesado.
+Dialogue: 0,0:02:27.66,0:02:31.80,Italics,NIKAIDO,0000,0000,0000,,Além disso, Mitsuya Yuki\Ncontinuou no clube de atletismo.
+Dialogue: 0,0:02:31.80,0:02:33.39,Italics,NIKAIDO,0000,0000,0000,,Me deu raiva.
+Dialogue: 0,0:02:34.47,0:02:37.88,Italics,NIKAIDO,0000,0000,0000,,Um ano e meio depois,\Nfoi nosso primeiro show.
+Dialogue: 0,0:02:37.88,0:02:41.26,Italics,NIKAIDO,0000,0000,0000,,Eu já estava com 18\Ne ficando sem paciência.
+Dialogue: 0,0:02:41.89,0:02:44.33,Italics,NIKAIDO,0000,0000,0000,,Eu participei de vários\Neventos pelo trabalho.
+Dialogue: 0,0:02:44.33,0:02:47.60,Italics,NIKAIDO,0000,0000,0000,,Duplas de comédia de quem eu nunca tinha\Nouvido falar tiravam sarro de mim.
+Dialogue: 0,0:02:48.16,0:02:49.74,Italics,NIKAIDO,0000,0000,0000,,Era humilhante.
+Dialogue: 0,0:02:49.74,0:02:52.31,Italics,NIKAIDO,0000,0000,0000,,Pensei que eles deviam ser\Nacostumados ao fracasso.
+Dialogue: 0,0:02:52.71,0:02:56.07,Italics,NIKAIDO,0000,0000,0000,,Voltando para casa de um evento,\Nencontrei Baba no trem.
+Dialogue: 0,0:02:57.53,0:03:01.46,Italics,NIKAIDO,0000,0000,0000,,Fiquei cada vez mais irritada\Ncom esse artista malsucedido.
+Dialogue: 0,0:03:01.46,0:03:04.24,Italics,NIKAIDO,0000,0000,0000,,Achei que nunca mais\No veria, então disse...
+Dialogue: 0,0:03:04.24,0:03:06.23,Flashback,NIKAIDO,0000,0000,0000,,Não dá raiva?
+Dialogue: 0,0:03:06.23,0:03:09.75,Flashback,NIKAIDO,0000,0000,0000,,Você trabalha em eventos espalhafatosos\Ncom idols desconhecidas.
+Dialogue: 0,0:03:09.75,0:03:12.09,Flashback,NIKAIDO,0000,0000,0000,,Como é ver gente\Nda sua idade ou mais nova
+Dialogue: 0,0:03:12.09,0:03:13.81,Flashback,NIKAIDO,0000,0000,0000,,alcançando o sucesso antes de você?
+Dialogue: 0,0:03:13.81,0:03:16.63,Flashback,BABA,0000,0000,0000,,Que estranho, meu parceiro\Ndisse a mesma coisa.
+Dialogue: 0,0:03:16.63,0:03:19.17,Flashback,NIKAIDO,0000,0000,0000,,Não é o que todo mundo pensa?
+Dialogue: 0,0:03:19.47,0:03:23.46,Flashback,BABA,0000,0000,0000,,No começo fiquei com raiva, mas desisti.
+Dialogue: 0,0:03:23.46,0:03:25.03,Flashback,BABA,0000,0000,0000,,Agora minha vida é mais fácil.
+Dialogue: 0,0:03:25.03,0:03:27.43,Flashback,BABA,0000,0000,0000,,Eu fico feliz quando vejo gente\Nmais nova fazendo sucesso.
+Dialogue: 0,0:03:28.68,0:03:32.38,Italics,NIKAIDO,0000,0000,0000,,Eu pensei que essa mentalidade\Nsignificava que era o fim,
+Dialogue: 0,0:03:32.38,0:03:34.87,Italics,NIKAIDO,0000,0000,0000,,mas também que seria mais fácil\Nse eu fosse daquele jeito.
+Dialogue: 0,0:03:40.33,0:03:42.96,Italics,NIKAIDO,0000,0000,0000,,Acabamos nos adicionando.
+Dialogue: 0,0:03:44.17,0:03:47.37,Italics,NIKAIDO,0000,0000,0000,,Foi quando nossa grande\Nestreia foi anunciada.
+Dialogue: 0,0:03:47.37,0:03:49.66,Flashback,MITSUYA,0000,0000,0000,,Finalmente, nossa grande estreia.
+Dialogue: 0,0:03:49.66,0:03:51.77,Flashback,ICHIMURA,0000,0000,0000,,É, parece um sonho.
+Dialogue: 0,0:03:52.69,0:03:56.04,Flashback,NIKAIDO,0000,0000,0000,,Por que vocês decidiram virar idols?
+Dialogue: 0,0:03:56.04,0:03:57.88,Flashback,ICHIMURA,0000,0000,0000,,Minha família é pobre.
+Dialogue: 0,0:03:57.88,0:03:58.91,Flashback,ICHIMURA,0000,0000,0000,,Não tenho um quarto só meu,
+Dialogue: 0,0:03:58.91,0:04:01.35,Flashback,ICHIMURA,0000,0000,0000,,então o banho é o único momento\Nem que tenho um espaço só meu.
+Dialogue: 0,0:04:01.35,0:04:05.65,Flashback,ICHIMURA,0000,0000,0000,,Quero ficar rica para ter\Numa casa com uma banheira enorme.
+Dialogue: 0,0:04:05.65,0:04:08.66,Flashback,NIKAIDO,0000,0000,0000,,Entendi. Então é bom trabalhar bastante.
+Dialogue: 0,0:04:08.66,0:04:09.68,Flashback,ICHIMURA,0000,0000,0000,,Sim...
+Dialogue: 0,0:04:09.68,0:04:11.03,Flashback,ICHIMURA,0000,0000,0000,,E você, Mitsuya-san?
+Dialogue: 0,0:04:11.43,0:04:15.73,Flashback,MITSUYA,0000,0000,0000,,Sinceramente, só entrei\Npara aproveitar a experiência.
+Dialogue: 0,0:04:16.36,0:04:21.66,Flashback,MITSUYA,0000,0000,0000,,Mas agora acho que podemos\Nconseguir algo grandioso
+Dialogue: 0,0:04:21.66,0:04:23.45,Flashback,MITSUYA,0000,0000,0000,,graças a você, Nikaido-san.
+Dialogue: 0,0:04:23.45,0:04:27.86,Flashback,ICHIMURA,0000,0000,0000,,Também acho. Temos sorte de estar\Nno mesmo grupo que você, Nikaido-san.
+Dialogue: 0,0:04:27.86,0:04:32.05,Flashback,MITSUYA,0000,0000,0000,,Temos que trabalhar\Npara não te atrapalhar.
+Dialogue: 0,0:04:33.03,0:04:34.84,Italics,NIKAIDO,0000,0000,0000,,Nós três subirmos juntas.
+Dialogue: 0,0:04:34.84,0:04:36.69,Italics,NIKAIDO,0000,0000,0000,,Nós três vencermos juntas.
+Dialogue: 0,0:04:36.69,0:04:38.74,Italics,NIKAIDO,0000,0000,0000,,Aquela me parecia uma boa ideia.
+Dialogue: 0,0:04:39.51,0:04:41.42,Italics,NIKAIDO,0000,0000,0000,,Uma sessão de gravação estava chegando.
+Dialogue: 0,0:04:41.42,0:04:43.22,Italics,NIKAIDO,0000,0000,0000,,Todos estavam empolgados.
+Dialogue: 0,0:04:43.66,0:04:46.23,Italics,NIKAIDO,0000,0000,0000,,Foi quando um produtor que veio\Nassistir ao nosso ensaio disse:
+Dialogue: 0,0:04:47.39,0:04:49.81,Flashback,PRODUCER,0000,0000,0000,,É melhor aquela menina ficar no centro.
+Dialogue: 0,0:04:53.72,0:04:54.74,Flashback,YAMAMOTO,0000,0000,0000,,Ei...
+Dialogue: 0,0:04:59.32,0:05:02.49,Italics,NIKAIDO,0000,0000,0000,,No dia 4 de outubro, chamei\Na Mitsuya Yuki para conversar.
+Dialogue: 0,0:05:03.71,0:05:07.24,Flashback_Italics,NIKAIDO,0000,0000,0000,,Venha para o escritório da agência.\NQuero conversar uma coisa com você.
+Dialogue: 0,0:05:07.24,0:05:10.11,Flashback_Italics,MITSUYA,0000,0000,0000,,O quê? Mas já não tem mais trem.
+Dialogue: 0,0:05:10.81,0:05:13.57,Flashback_Italics,NIKAIDO,0000,0000,0000,,Pegue um táxi, eu pago.
+Dialogue: 0,0:05:14.00,0:05:16.55,Flashback_Italics,MITSUYA,0000,0000,0000,,Estou em Nerima. Vai ser caro.
+Dialogue: 0,0:05:16.96,0:05:19.64,Italics,NIKAIDO,0000,0000,0000,,Eu ia fazer um pedido idiota.
+Dialogue: 0,0:05:19.64,0:05:21.85,Italics,NIKAIDO,0000,0000,0000,,Não queria que ninguém nos visse.
+Dialogue: 0,0:05:21.85,0:05:23.97,Italics,NIKAIDO,0000,0000,0000,,Eu posso tentar inventar desculpas,
+Dialogue: 0,0:05:23.97,0:05:26.77,Italics,NIKAIDO,0000,0000,0000,,mas meu desejo de matá-la\Njá estava consolidado.
+Dialogue: 0,0:05:30.35,0:05:32.33,Flashback,NIKAIDO,0000,0000,0000,,Mitsuya-san, você está aí?
+Dialogue: 0,0:05:35.90,0:05:37.23,Flashback,NIKAIDO,0000,0000,0000,,Mitsuya-san?
+Dialogue: 0,0:05:45.34,0:05:48.08,Italics,NIKAIDO,0000,0000,0000,,Mitsuya Yuki já estava morta.
+Dialogue: 0,0:05:50.23,0:05:51.68,Flashback,YAMAMOTO,0000,0000,0000,,O que está fazendo?
+Dialogue: 0,0:05:53.66,0:05:55.04,Flashback,YAMAMOTO,0000,0000,0000,,Ei, Nikaido.
+Dialogue: 0,0:05:58.54,0:06:00.29,Flashback,YAMAMOTO,0000,0000,0000,,Você a matou?
+Dialogue: 0,0:06:02.52,0:06:04.00,Italics,NIKAIDO,0000,0000,0000,,Eu contei tudo para ele.
+Dialogue: 0,0:06:04.00,0:06:06.52,Italics,NIKAIDO,0000,0000,0000,,Que eu ia pedir para que ela\Ndesistisse da posição central.
+Dialogue: 0,0:06:06.52,0:06:09.64,Italics,NIKAIDO,0000,0000,0000,,Que eu ia matá-la\Nse ela não concordasse.
+Dialogue: 0,0:06:09.64,0:06:11.64,Italics,NIKAIDO,0000,0000,0000,,Eu mostrei as mensagens que trocamos.
+Dialogue: 0,0:06:11.64,0:06:14.52,Italics,NIKAIDO,0000,0000,0000,,Eu contei toda a verdade\Ndo que tinha acontecido.
+Dialogue: 0,0:06:14.52,0:06:17.54,Flashback,YAMAMOTO,0000,0000,0000,,Então quem foi?
+Dialogue: 0,0:06:18.37,0:06:20.55,Italics,NIKAIDO,0000,0000,0000,,Também me perguntei isso.
+Dialogue: 0,0:06:20.55,0:06:22.86,Italics,NIKAIDO,0000,0000,0000,,Parece que o Yamamoto\Nacreditou em mim.
+Dialogue: 0,0:06:23.96,0:06:25.46,Flashback,YAMAMOTO,0000,0000,0000,,Não temos escolha.
+Dialogue: 0,0:06:26.28,0:06:31.32,Italics,NIKAIDO,0000,0000,0000,,Uma hora depois, Yamamoto desceu\Ne deixou dois homens entrarem.
+Dialogue: 0,0:06:31.32,0:06:36.08,Italics,NIKAIDO,0000,0000,0000,,Um homem enorme e um cara\Nque falava num ritmo estranho.
+Dialogue: 0,0:06:36.36,0:06:38.23,Italics,NIKAIDO,0000,0000,0000,,Pelo visto eram conhecidos\Ndo dono da agência.
+Dialogue: 0,0:06:38.23,0:06:41.08,Default,YANO,0000,0000,0000,,Que nojo, cara, não curto, não.
+Dialogue: 0,0:06:41.08,0:06:44.37,Default,YANO,0000,0000,0000,,Cresci nas ruas, mas gente\Nmorta é de arrepiar.
+Dialogue: 0,0:06:44.37,0:06:47.09,Default,YANO,0000,0000,0000,,Parece que ela foi espancada\Ne, depois, sufocada.
+Dialogue: 0,0:06:47.09,0:06:50.05,Default,YANO,0000,0000,0000,,Eu uso ternos sob medida da Donki,
+Dialogue: 0,0:06:50.05,0:06:52.64,Default,YANO,0000,0000,0000,,e acho que ela bateu as botas assim.
+Dialogue: 0,0:06:53.38,0:06:55.72,Italics,NIKAIDO,0000,0000,0000,,Não tem muita gente andando\Nna rua nessa área.
+Dialogue: 0,0:06:55.72,0:06:57.10,Italics,NIKAIDO,0000,0000,0000,,Mas como era na calada da noite,
+Dialogue: 0,0:06:57.10,0:06:59.35,Italics,NIKAIDO,0000,0000,0000,,se qualquer pessoa nos visse,\Nchamaríamos atenção.
+Dialogue: 0,0:06:59.35,0:07:01.48,Italics,NIKAIDO,0000,0000,0000,,Fui extremamente cautelosa.
+Dialogue: 0,0:07:02.15,0:07:05.17,Italics,NIKAIDO,0000,0000,0000,,Não tinha nenhuma\Ncâmera de segurança.
+Dialogue: 0,0:07:05.17,0:07:09.65,Italics,NIKAIDO,0000,0000,0000,,Eu confirmei isso várias vezes\Nantes de chamar a Mitsuya Yuki.
+Dialogue: 0,0:07:12.38,0:07:14.70,Italics,NIKAIDO,0000,0000,0000,,Foi uma visão do inferno.
+Dialogue: 0,0:07:15.27,0:07:20.12,Italics,NIKAIDO,0000,0000,0000,,Depois disso, Yamamoto voltou pro\Nescritório para limpar as coisas por lá.
+Dialogue: 0,0:07:20.12,0:07:22.50,Italics,NIKAIDO,0000,0000,0000,,Para que ela não fosse\Nencontrada por GPS,
+Dialogue: 0,0:07:22.50,0:07:27.12,Italics,NIKAIDO,0000,0000,0000,,ele levou o celular da Mitsuya\NYuki para longe e se livrou dele.
+Dialogue: 0,0:07:27.12,0:07:28.29,Italics,NIKAIDO,0000,0000,0000,,Deu muito trabalho.
+Dialogue: 0,0:07:28.78,0:07:31.93,Italics,NIKAIDO,0000,0000,0000,,O rapper nos explicou\No que aconteceria depois.
+Dialogue: 0,0:07:31.93,0:07:34.97,Italics,NIKAIDO,0000,0000,0000,,Como sempre, não deu\Npara entender o que ele disse,
+Dialogue: 0,0:07:34.97,0:07:40.06,Italics,NIKAIDO,0000,0000,0000,,mas parece que ele queria saber\No que Mitsuya Yuki tinha feito no dia.
+Dialogue: 0,0:07:40.06,0:07:43.32,Italics,NIKAIDO,0000,0000,0000,,Se ela disse a alguém aonde ia ou caso\Ntenha sido capturada em câmeras,
+Dialogue: 0,0:07:43.32,0:07:45.40,Italics,NIKAIDO,0000,0000,0000,,teríamos que lidar com isso.
+Dialogue: 0,0:07:45.40,0:07:50.41,Italics,NIKAIDO,0000,0000,0000,,A gente podia analisar o celular dela,\Nmas seria mais rápido terceirizar pra polícia.
+Dialogue: 0,0:07:50.90,0:07:53.53,Italics,NIKAIDO,0000,0000,0000,,Pedimos pra família fazer\Nboletim de pessoa desaparecida
+Dialogue: 0,0:07:53.53,0:07:57.70,Italics,NIKAIDO,0000,0000,0000,,e, depois, para que retirassem\Nquando conseguíssemos a informação.
+Dialogue: 0,0:07:58.23,0:08:00.52,Italics,NIKAIDO,0000,0000,0000,,Parece que o custo\Npara se livrar do corpo
+Dialogue: 0,0:08:00.52,0:08:04.00,Italics,NIKAIDO,0000,0000,0000,,era metade dos lucros\Nfuturos do Mystery Kiss
+Dialogue: 0,0:08:04.00,0:08:06.92,Italics,NIKAIDO,0000,0000,0000,,e permitir que eles usassem as integrantes\Ncomo quisessem para o trabalho.
+Dialogue: 0,0:08:06.92,0:08:08.46,Italics,NIKAIDO,0000,0000,0000,,Foi esse o acordo a que chegamos.
+Dialogue: 0,0:08:14.36,0:08:17.80,Italics,NIKAIDO,0000,0000,0000,,Mesmo depois que ela afundou,\Neu continuei encarando a água.
+Dialogue: 0,0:08:19.04,0:08:21.08,Italics,NIKAIDO,0000,0000,0000,,O céu começava a clarear.
+Dialogue: 0,0:08:23.94,0:08:27.23,Italics,NIKAIDO,0000,0000,0000,,Tudo ficaria bem? Daria certo?
+Dialogue: 0,0:08:27.23,0:08:31.19,Italics,NIKAIDO,0000,0000,0000,,Estávamos todos exaustos\Ndemais para nos preocuparmos.
+Dialogue: 0,0:08:31.86,0:08:36.16,Italics,NIKAIDO,0000,0000,0000,,Vários dias depois, Yamamoto\Nnos apresentou uma garota.
+Dialogue: 0,0:08:36.16,0:08:37.49,Flashback,WADAGAKI,0000,0000,0000,,Sou de Kyushu.
+Dialogue: 0,0:08:37.49,0:08:40.40,Flashback,WADAGAKI,0000,0000,0000,,Meu nome é Wadagaki Sakura. É um prazer.
+Dialogue: 0,0:08:40.40,0:08:42.65,Flashback,YAMAMOTO,0000,0000,0000,,Eu já expliquei a situação para ela.
+Dialogue: 0,0:08:42.65,0:08:45.72,Flashback,YAMAMOTO,0000,0000,0000,,Ela vai trabalhar\Nsob o nome da Mitsuya Yuki.
+Dialogue: 0,0:08:45.72,0:08:48.87,Flashback,ICHIMURA,0000,0000,0000,,Hã? E a verdadeira Mitsuya-san?
+Dialogue: 0,0:08:49.48,0:08:51.10,Flashback,YAMAMOTO,0000,0000,0000,,Está desaparecida.
+Dialogue: 0,0:08:51.10,0:08:52.13,Flashback,ICHIMURA,0000,0000,0000,,O quê?
+Dialogue: 0,0:08:52.13,0:08:53.73,Flashback,YAMAMOTO,0000,0000,0000,,Não consigo entrar em contato com ela.
+Dialogue: 0,0:08:54.15,0:08:57.89,Flashback,ICHIMURA,0000,0000,0000,,Mas não é cedo demais\Npara incluir uma nova integrante?
+Dialogue: 0,0:08:57.89,0:09:01.18,Flashback,YAMAMOTO,0000,0000,0000,,Vocês estão prestes a estrear.\NNão temos tempo.
+Dialogue: 0,0:09:01.18,0:09:03.99,Flashback,YAMAMOTO,0000,0000,0000,,Exceto a Nikaido,\Nvocês vão usar essas máscaras.
+Dialogue: 0,0:09:04.54,0:09:07.56,Italics,NIKAIDO,0000,0000,0000,,Nós convencemos a família da Mitsuya Yuki\Na nos deixar usar o nome dela
+Dialogue: 0,0:09:07.56,0:09:10.32,Italics,NIKAIDO,0000,0000,0000,,para que ela pudesse voltar\Na trabalhar assim que voltasse.
+Dialogue: 0,0:09:10.93,0:09:14.49,Italics,NIKAIDO,0000,0000,0000,,Até Mitsuya Yuki voltar,\Nelas usam máscaras diante das pessoas.
+Dialogue: 0,0:09:14.49,0:09:17.69,Italics,NIKAIDO,0000,0000,0000,,Ichimura aceitou a explicação.
+Dialogue: 0,0:09:17.69,0:09:20.03,Italics,NIKAIDO,0000,0000,0000,,Eu fiquei com pena por ela,\Nmas não tinha jeito.
+Dialogue: 0,0:09:20.03,0:09:26.66,Default - Top,INSTRUCTOR,0000,0000,0000,,Ei!
+Dialogue: 0,0:09:23.54,0:09:27.21,Italics,NIKAIDO,0000,0000,0000,,Aposto que todos estavam pensando:\N"queria que Mitsuya Yuki estivesse aqui".
+Dialogue: 0,0:09:27.21,0:09:29.72,Italics,NIKAIDO,0000,0000,0000,,Eu vou esmagar esses pensamentos.
+Dialogue: 0,0:09:30.17,0:09:31.52,Italics,NIKAIDO,0000,0000,0000,,Eu jurei que esmagaria.
+Dialogue: 0,0:09:33.76,0:09:37.35,Flashback,NIKAIDO,0000,0000,0000,,Temos que nos acostumar, então vou\Nchamar você de Mitsuya-san. Sinto muito.
+Dialogue: 0,0:09:37.35,0:09:40.76,Flashback,WADAGAKI,0000,0000,0000,,Tudo bem. Eu estou aqui\Npara ser Mitsuya Yuki.
+Dialogue: 0,0:09:40.76,0:09:44.01,Flashback,NIKAIDO,0000,0000,0000,,Mitsuya-san, você não se importa\Nde não usar seu rosto nem seu nome?
+Dialogue: 0,0:09:44.01,0:09:45.24,Flashback,WADAGAKI,0000,0000,0000,,De forma alguma.
+Dialogue: 0,0:09:45.24,0:09:49.30,Flashback,WADAGAKI,0000,0000,0000,,Eu recusei a acreditar que não\Ntinha passado na audição.
+Dialogue: 0,0:09:49.30,0:09:51.97,Flashback,WADAGAKI,0000,0000,0000,,Falei diretamente com o Yamamoto-san.
+Dialogue: 0,0:09:51.97,0:09:54.40,Flashback,WADAGAKI,0000,0000,0000,,Implorei para que me deixasse entrar.
+Dialogue: 0,0:09:54.40,0:09:56.08,Flashback,NIKAIDO,0000,0000,0000,,Incrível.
+Dialogue: 0,0:09:56.08,0:10:01.21,Flashback,WADAGAKI,0000,0000,0000,,Digo, disseram que eu\Nera a próxima da lista.
+Dialogue: 0,0:10:01.21,0:10:05.00,Flashback,WADAGAKI,0000,0000,0000,,Não dá raiva?\NEu quase consegui, faltava tão pouco.
+Dialogue: 0,0:10:05.00,0:10:07.31,Flashback,NIKAIDO,0000,0000,0000,,Você não fez audição em outros lugares?
+Dialogue: 0,0:10:07.31,0:10:10.57,Flashback,WADAGAKI,0000,0000,0000,,Não, porque eu soube\Nque você tinha passado.
+Dialogue: 0,0:10:10.57,0:10:12.95,Flashback,WADAGAKI,0000,0000,0000,,Sabia que você ficaria famosa.
+Dialogue: 0,0:10:12.95,0:10:14.36,Flashback,NIKAIDO,0000,0000,0000,,Você quer ficar famosa?
+Dialogue: 0,0:10:14.36,0:10:15.46,Flashback,WADAGAKI,0000,0000,0000,,Quero.
+Dialogue: 0,0:10:15.46,0:10:17.68,Flashback,WADAGAKI,0000,0000,0000,,Minha mãe me criou sozinha.
+Dialogue: 0,0:10:17.68,0:10:20.73,Flashback,WADAGAKI,0000,0000,0000,,Quero ficar famosa para que minha mãe\Nem Kyushu possa ter uma vida mais fácil.
+Dialogue: 0,0:10:20.73,0:10:24.79,Flashback,WADAGAKI,0000,0000,0000,,Mesmo trabalhando, ela acorda cedo\Npara preparar meu almoço.
+Dialogue: 0,0:10:24.79,0:10:26.09,Flashback,NIKAIDO,0000,0000,0000,,Entendi.
+Dialogue: 0,0:10:26.09,0:10:28.89,Flashback,WADAGAKI,0000,0000,0000,,Sinto que sempre só dei\Ntrabalho pra minha mãe.
+Dialogue: 0,0:10:28.89,0:10:31.40,Flashback,WADAGAKI,0000,0000,0000,,Eu não tenho nenhum ponto forte, sabe?
+Dialogue: 0,0:10:31.40,0:10:34.09,Flashback,WADAGAKI,0000,0000,0000,,Às vezes, queria\Nsimplesmente desaparecer,
+Dialogue: 0,0:10:34.09,0:10:37.37,Flashback,WADAGAKI,0000,0000,0000,,mas eu me animava ao ver idols na TV.
+Dialogue: 0,0:10:38.45,0:10:41.33,Italics,NIKAIDO,0000,0000,0000,,Esperamos o momento certo\Npara fazer o show.
+Dialogue: 0,0:10:41.33,0:10:45.37,Italics,NIKAIDO,0000,0000,0000,,Yamamoto disse que nossa aprovação era\Nboa, mas eu não estava satisfeita.
+Dialogue: 0,0:10:45.37,0:10:49.17,Italics,NIKAIDO,0000,0000,0000,,Tinha gosto de derrota.\NA gente podia ter feito melhor.
+Dialogue: 0,0:10:49.17,0:10:51.12,Italics,NIKAIDO,0000,0000,0000,,"Se Mitsuya Yuki estivesse aqui..."
+Dialogue: 0,0:10:51.88,0:10:53.56,Italics,NIKAIDO,0000,0000,0000,,"Se Mitsuya Yuki estivesse aqui..."
+Dialogue: 0,0:10:53.56,0:10:56.30,Italics,NIKAIDO,0000,0000,0000,,Nem eu escapava desse pensamento.
+Dialogue: 0,0:10:57.23,0:10:59.34,Italics,NIKAIDO,0000,0000,0000,,Foi quando saíram as notícias.
+Dialogue: 0,0:10:59.34,0:11:01.70,Italics,NIKAIDO,0000,0000,0000,,"Uma colegial de Nerima\Nestá desaparecida."
+Dialogue: 0,0:11:02.01,0:11:04.77,Italics,NIKAIDO,0000,0000,0000,,Yamamoto falou com a família\Nde Mitsuya Yuki, e eles fizeram
+Dialogue: 0,0:11:04.77,0:11:06.46,Italics,NIKAIDO,0000,0000,0000,,um boletim de ocorrência com a polícia.
+Dialogue: 0,0:11:06.97,0:11:09.00,Italics,NIKAIDO,0000,0000,0000,,Como o pai dela é famoso,
+Dialogue: 0,0:11:09.00,0:11:13.36,Italics,NIKAIDO,0000,0000,0000,,o nome e a profissão dela\Nforam mantidos em segredo.
+Dialogue: 0,0:11:13.36,0:11:14.97,Italics,NIKAIDO,0000,0000,0000,,A polícia veio até a agência.
+Dialogue: 0,0:11:14.97,0:11:17.61,Italics,NIKAIDO,0000,0000,0000,,Eu ajudei a investigação\Ndeles várias vezes.
+Dialogue: 0,0:11:18.15,0:11:22.91,Italics,NIKAIDO,0000,0000,0000,,Naquele dia, Mitsuya Yuki pegou\Num táxi em Nerima e desapareceu.
+Dialogue: 0,0:11:22.91,0:11:25.57,Italics,NIKAIDO,0000,0000,0000,,Eles só tinham que rastrear\Nos movimentos da Mitsuya Yuki
+Dialogue: 0,0:11:25.57,0:11:27.00,Italics,NIKAIDO,0000,0000,0000,,até a chegada dela na agência.
+Dialogue: 0,0:11:27.00,0:11:30.37,Italics,NIKAIDO,0000,0000,0000,,O problema era o táxi\Nque ela tinha pegado.
+Dialogue: 0,0:11:30.37,0:11:32.83,Italics,NIKAIDO,0000,0000,0000,,Eu tinha medo do que o motorista diria.
+Dialogue: 0,0:11:32.83,0:11:35.79,Italics,NIKAIDO,0000,0000,0000,,Talvez ele tivesse uma câmera interna.
+Dialogue: 0,0:11:35.79,0:11:38.34,Italics,NIKAIDO,0000,0000,0000,,Identificar o taxista era\Nde suma importância,
+Dialogue: 0,0:11:38.34,0:11:41.26,Italics,NIKAIDO,0000,0000,0000,,mas isso era trabalho\Npro rapper e pro Yamamoto.
+Dialogue: 0,0:11:41.80,0:11:46.12,Italics,NIKAIDO,0000,0000,0000,,Tudo que a gente podia fazer era\Ncontinuar trabalhando como idols.
+Dialogue: 0,0:11:46.46,0:11:50.38,Italics,NIKAIDO,0000,0000,0000,,Como conseguimos informações\Nda polícia e das notícias,
+Dialogue: 0,0:11:50.38,0:11:53.02,Italics,NIKAIDO,0000,0000,0000,,o próximo passo era retirar\No boletim de ocorrência.
+Dialogue: 0,0:11:53.02,0:11:57.56,Italics,NIKAIDO,0000,0000,0000,,Ao investigar Mitsuya Yuki,\No rapper descobriu uma coisa.
+Dialogue: 0,0:11:58.07,0:12:02.35,Italics,NIKAIDO,0000,0000,0000,,Uma conexão entre o pai\Nda Mitsuya Yuki e um criminoso.
+Dialogue: 0,0:12:02.90,0:12:05.62,Italics,NIKAIDO,0000,0000,0000,,Virar idol era o sonho da Mitsuya Yuki.
+Dialogue: 0,0:12:05.62,0:12:10.59,Italics,NIKAIDO,0000,0000,0000,,No entanto, preocupada que a ligação\Nentre seu pai e uma organização criminosa
+Dialogue: 0,0:12:10.59,0:12:13.35,Italics,NIKAIDO,0000,0000,0000,,a impediria de virar idol,
+Dialogue: 0,0:12:13.35,0:12:14.76,Italics,NIKAIDO,0000,0000,0000,,ela fugiu de casa.
+Dialogue: 0,0:12:14.76,0:12:18.55,Italics,NIKAIDO,0000,0000,0000,,Foi o que dissemos\Npara os pais da Mitsuya Yuki.
+Dialogue: 0,0:12:18.55,0:12:22.24,Italics,NIKAIDO,0000,0000,0000,,No fim, o boletim foi retirado.
+Dialogue: 0,0:12:23.68,0:12:25.72,Italics,NIKAIDO,0000,0000,0000,,Eu voltei à minha vida normal.
+Dialogue: 0,0:12:25.72,0:12:27.61,Italics,NIKAIDO,0000,0000,0000,,Alguém nos viu?
+Dialogue: 0,0:12:27.61,0:12:29.32,Italics,NIKAIDO,0000,0000,0000,,E se alguém já souber?
+Dialogue: 0,0:12:29.32,0:12:32.59,Italics,NIKAIDO,0000,0000,0000,,E se me cutucarem no ombro\Nenquanto estou andando?
+Dialogue: 0,0:12:32.59,0:12:35.87,Italics,NIKAIDO,0000,0000,0000,,As palpitações no meu coração pioraram\Ne eu comecei a respirar pesado.
+Dialogue: 0,0:12:36.31,0:12:40.61,Italics,NIKAIDO,0000,0000,0000,,Não conseguia parar de suar. Minhas mãos\Ntremiam e me dava vontade de gritar.
+Dialogue: 0,0:12:41.03,0:12:43.82,Italics,NIKAIDO,0000,0000,0000,,Eu queria voltar no tempo\Ncom todas as forças.
+Dialogue: 0,0:12:43.82,0:12:46.66,Italics,NIKAIDO,0000,0000,0000,,Então, eu voltei à vida normal de novo.
+Dialogue: 0,0:12:46.66,0:12:50.54,Italics,NIKAIDO,0000,0000,0000,,Talvez eu repita esse\Nciclo pelo resto da vida.
+Dialogue: 0,0:12:51.04,0:12:52.62,Italics,NIKAIDO,0000,0000,0000,,Achei que fosse enlouquecer.
+Dialogue: 0,0:12:52.62,0:12:55.16,Flashback_Italics,BABA,0000,0000,0000,,Espera, não diga ainda. Há regras.
+Dialogue: 0,0:12:52.62,0:12:56.08,sign_24882_273_What_s_for_Lunch,SIGN LEFT,0000,0000,0000,,O {\c&H9d50d8&}que {\c&Hb15da7&}tem\N{\c&H4252cf&}pro {\c&H1fdaee&}almoço{\c&Ha058e2&}?!
+Dialogue: 0,0:12:52.62,0:12:56.08,sign_24882_274_Asking_People_Ar,SIGN RIGHT,0000,0000,0000,,Vamos ver {\c&H000000&}o que as pessoas\Nem Kichijoji {\c&H56aae7&}almoçam{\c}!
+Dialogue: 0,0:12:55.16,0:12:56.08,Flashback_Italics,BABA,0000,0000,0000,,Certo, lá vamos nós.
+Dialogue: 0,0:12:56.08,0:12:57.56,Flashback_Italics,BABA,0000,0000,0000,,{\an8}Ei, o que tem pro almoço?
+Dialogue: 0,0:12:56.53,0:12:59.49,Italics,NIKAIDO,0000,0000,0000,,O Baba que me deu forças.
+Dialogue: 0,0:12:59.49,0:13:02.16,Italics,NIKAIDO,0000,0000,0000,,Claro que não contei nada pra ele.
+Dialogue: 0,0:13:02.16,0:13:05.38,Italics,NIKAIDO,0000,0000,0000,,A mera existência dele me salvou.
+Dialogue: 0,0:13:05.38,0:13:06.84,Italics,NIKAIDO,0000,0000,0000,,Ele era meu único conforto.
+Dialogue: 0,0:13:07.59,0:13:11.52,Italics,NIKAIDO,0000,0000,0000,,Eu odiava perder, o estilo\Nde vida dele permitia isso.
+Dialogue: 0,0:13:11.52,0:13:14.18,Italics,NIKAIDO,0000,0000,0000,,Tudo bem se eu perdesse.\NE eu se vencesse também, claro.
+Dialogue: 0,0:13:14.18,0:13:16.50,Italics,NIKAIDO,0000,0000,0000,,De qualquer forma, não importava.
+Dialogue: 0,0:13:16.50,0:13:17.80,Italics,NIKAIDO,0000,0000,0000,,Nisso eu podia acreditar.
+Dialogue: 0,0:13:17.80,0:13:20.59,Italics,NIKAIDO,0000,0000,0000,,Eu queria que ele fosse feliz.
+Dialogue: 0,0:13:20.59,0:13:24.81,Italics,NIKAIDO,0000,0000,0000,,O inverno chegou. Repentinamente.
+Dialogue: 0,0:13:25.20,0:13:29.12,Italics,NEWSCATER,0000,0000,0000,,{\an8}A falecida é Mitsuya Yuki-san,\N18 anos, residente de Nerima.
+Dialogue: 0,0:13:26.20,0:13:29.12,sign_19306_241_Nerima_City__Tok,SIGN TOP RIGHT,0000,0000,0000,,Distrito de Nerima, Tóquio\N{\fs18}Mitsuya Yuki-san (18)
+Dialogue: 0,0:13:29.12,0:13:31.41,sign_19400_242_Breaking_News,SIGN FAR LEFT BOTTOM,0000,0000,0000,,Notícias urgentes
+Dialogue: 0,0:13:29.12,0:13:31.41,sign_19400_243_Shibaura_Wharf_A,SIGN BOTTOM,0000,0000,0000,,Caso do corpo abandonado no cais de Shibaura\N{\fs16}O corpo é de uma integrante\Nde um grupo idol de sucesso
+Dialogue: 0,0:13:29.12,0:13:33.95,Italics,NEWSCASTER,0000,0000,0000,,{\an8}Mitsuya Yuki-san era integrante\Ndo Mystery Kiss, um grupo idol.
+Dialogue: 0,0:13:33.95,0:13:38.32,Italics,NEWSCASTER,0000,0000,0000,,Os fãs ficaram em choque com a notícia\Nrepentina de sua morte.
+Dialogue: 0,0:13:42.71,0:13:44.40,Default,KANON,0000,0000,0000,,A árvore é tão fofa.
+Dialogue: 0,0:13:45.20,0:13:46.48,Default,MAN A,0000,0000,0000,,É mesmo.
+Dialogue: 0,0:13:47.53,0:13:52.04,Italics,NEWSCASTER,0000,0000,0000,,Encontraram o corpo de Mitsuya Yuki-san,\Ndo grupo idol Mystery Kiss.
+Dialogue: 0,0:13:50.55,0:13:53.39,sign_19914_250_Body_Found_at_Sh,SIGN,0000,0000,0000,,O corpo encontrado no cais\NShibaura era de uma idol
+Dialogue: 0,0:13:52.04,0:13:55.58,Italics,NEWSCASTER,0000,0000,0000,,A agência dela fará uma coletiva\Nde imprensa depois.
+Dialogue: 0,0:13:56.60,0:14:01.94,Default,DOBU,0000,0000,0000,,Será em uma semana, no dia\N25 de dezembro às 16h.
+Dialogue: 0,0:14:01.94,0:14:04.98,Default,ODOKAWA,0000,0000,0000,,Eu espero no estacionamento\Nno horário, é isso?
+Dialogue: 0,0:14:04.98,0:14:07.54,Italics,DOBU,0000,0000,0000,,Sim. Você viu as notícias?
+Dialogue: 0,0:14:07.54,0:14:09.41,Default,DOBU,0000,0000,0000,,Yamamoto, o empresário,\Nprovavelmente não vá.
+Dialogue: 0,0:14:09.41,0:14:12.92,Default,DOBU,0000,0000,0000,,Sorte a nossa. Quanto menos gente\No Yano tiver, mais fácil para nós.
+Dialogue: 0,0:14:12.92,0:14:14.28,Italics,ODOKAWA,0000,0000,0000,,Isso é um problema.
+Dialogue: 0,0:14:14.28,0:14:15.15,Default,DOBU,0000,0000,0000,,O quê?
+Dialogue: 0,0:14:15.15,0:14:16.37,Italics,ODOKAWA,0000,0000,0000,,Nada.
+Dialogue: 0,0:14:16.37,0:14:19.15,Italics,DOBU,0000,0000,0000,,Certo, tem um problema.
+Dialogue: 0,0:14:19.15,0:14:22.54,Italics,DOBU,0000,0000,0000,,O corpo da Mitsuya Yuki foi encontrado\Nperto do esconderijo do Yano.
+Dialogue: 0,0:14:22.54,0:14:25.11,Italics,DOBU,0000,0000,0000,,É possível que eles\Ntenham mudado de lugar.
+Dialogue: 0,0:14:25.11,0:14:28.33,Italics,DOBU,0000,0000,0000,,E se mudaram, a rota que eu presumi\Nque eles fariam não vale nada.
+Dialogue: 0,0:14:29.68,0:14:35.02,sign_20852_264_Fuyuki_Yamamoto,SIGN,0000,0000,0000,,Yamamoto Fuyuki
+Dialogue: 0,0:14:33.54,0:14:35.02,Default,ODOKAWA,0000,0000,0000,,Ah, você atendeu.
+Dialogue: 0,0:14:35.36,0:14:36.52,Italics,YAMAMOTO,0000,0000,0000,,O que foi?
+Dialogue: 0,0:14:36.52,0:14:38.65,Default,ODOKAWA,0000,0000,0000,,Você não vai com o grupo do Yano hoje?
+Dialogue: 0,0:14:38.65,0:14:41.67,Italics,YAMAMOTO,0000,0000,0000,,Não tenho tempo para isso,\Nvocê sabe muito bem disso.
+Dialogue: 0,0:14:41.67,0:14:42.76,Default,ODOKAWA,0000,0000,0000,,Pois é.
+Dialogue: 0,0:14:42.76,0:14:45.28,Italics,YAMAMOTO,0000,0000,0000,,Posso ir? Tenho uma coletiva\Nde imprensa a dar.
+Dialogue: 0,0:14:45.28,0:14:46.79,Default,ODOKAWA,0000,0000,0000,,Quero confirmar uma coisa.
+Dialogue: 0,0:14:46.79,0:14:47.88,Italics,YAMAMOTO,0000,0000,0000,,O quê?
+Dialogue: 0,0:14:47.88,0:14:50.57,Default,ODOKAWA,0000,0000,0000,,A Mitsuya Yuki da foto dos jornais
+Dialogue: 0,0:14:50.57,0:14:53.38,Default,ODOKAWA,0000,0000,0000,,e a Mitsuya Yuki que eu levei\Nno meu táxi são pessoas diferentes.
+Dialogue: 0,0:14:53.87,0:14:59.12,sign_21432_275_Fuyuki_Yamamoto,SIGN,0000,0000,0000,,Yamamoto Fuyuki
+Dialogue: 0,0:14:55.83,0:14:57.60,Italics,YAMAMOTO,0000,0000,0000,,Tem certeza de que não está confuso?
+Dialogue: 0,0:14:57.60,0:15:01.20,Default,ODOKAWA,0000,0000,0000,,Eu levei vocês dois juntos.\NA menina que adora frango frito.
+Dialogue: 0,0:15:01.88,0:15:03.69,Default,ODOKAWA,0000,0000,0000,,Falando nisso.
+Dialogue: 0,0:15:03.69,0:15:06.37,Default,ODOKAWA,0000,0000,0000,,A garota que eu levei no\Ndia 4 de outubro era...
+Dialogue: 0,0:15:08.18,0:15:09.30,Default,ODOKAWA,0000,0000,0000,,Hã?
+Dialogue: 0,0:15:09.30,0:15:12.30,sign_21802_281_Fuyuki_Yamamoto,SIGN,0000,0000,0000,,Yamamoto Fuyuki
+Dialogue: 0,0:15:09.30,0:15:12.30,sign_21802_285_Chamada_Encerrad,SIGN,0000,0000,0000,,Chamada Encerrada
+Dialogue: 0,0:15:10.14,0:15:11.54,Default,ODOKAWA,0000,0000,0000,,Sério mesmo?
+Dialogue: 0,0:15:13.11,0:15:16.29,Default,ODOKAWA,0000,0000,0000,,Não dá para usar o Yamamoto. Ou seja...
+Dialogue: 0,0:15:24.90,0:15:27.98,Default,ODOKAWA,0000,0000,0000,,Droga. O que ele está fazendo?
+Dialogue: 0,0:15:24.90,0:15:27.98,sign_22176_289_Daimon_mais_novo,SIGN,0000,0000,0000,,Daimon mais novo
+Dialogue: 0,0:15:34.99,0:15:38.44,Default,SEKIGUCHI,0000,0000,0000,,Desculpe, mas você vai\Nficar aqui até o Natal.
+Dialogue: 0,0:15:39.60,0:15:42.96,Default,IMAI,0000,0000,0000,,Não me importo mais.
+Dialogue: 0,0:15:43.67,0:15:45.33,Default,IMAI,0000,0000,0000,,O show foi cancelado.
+Dialogue: 0,0:15:45.33,0:15:47.59,Default,IMAI,0000,0000,0000,,Elas não vão lançar o CD.
+Dialogue: 0,0:15:48.28,0:15:51.37,Default,IMAI,0000,0000,0000,,Não acredito\Nque Mitsuya Yuki-san morreu.
+Dialogue: 0,0:15:52.09,0:15:56.56,Default,IMAI,0000,0000,0000,,Na primeira vez que a vi no show, fiquei\Nimpressionado com a dança dela.
+Dialogue: 0,0:15:57.05,0:15:58.28,Default,IMAI,0000,0000,0000,,Pensando agora,
+Dialogue: 0,0:15:58.28,0:16:02.08,Default,IMAI,0000,0000,0000,,a Mitsuya Yuki-san\Nde máscara era outra pessoa.
+Dialogue: 0,0:16:04.07,0:16:06.52,Default,YANO,0000,0000,0000,,É hoje que o Dobu-san cai.
+Dialogue: 0,0:16:06.52,0:16:08.82,Default,YANO,0000,0000,0000,,Ele vai ser obrigado\Na me passar a coroa.
+Dialogue: 0,0:16:08.82,0:16:10.87,Default,YANO,0000,0000,0000,,Subindo no conceito do chefe.
+Dialogue: 0,0:16:10.87,0:16:13.22,Default,YANO,0000,0000,0000,,Esse vai ser o melhor Natal de todos.
+Dialogue: 0,0:16:13.22,0:16:15.34,Default,YANO,0000,0000,0000,,Está ventando bastante hoje. Que frio...
+Dialogue: 0,0:16:14.59,0:16:15.34,Default,IMAI,0000,0000,0000,,Com licença...
+Dialogue: 0,0:16:15.34,0:16:16.81,Default,YANO,0000,0000,0000,,Ei, caipira, fica quieto!
+Dialogue: 0,0:16:16.81,0:16:18.33,Default,YANO,0000,0000,0000,,É minha vez, ponha-se em seu lugar.
+Dialogue: 0,0:16:18.33,0:16:20.60,Default,YANO,0000,0000,0000,,Mas eu não preciso gritar.
+Dialogue: 0,0:16:20.60,0:16:22.46,Default,YANO,0000,0000,0000,,De certa forma, você é meu padrinho.
+Dialogue: 0,0:16:22.46,0:16:25.88,Default,YANO,0000,0000,0000,,Mas chega de sentimentalismo,\No que você quer?
+Dialogue: 0,0:16:26.29,0:16:29.92,Default,IMAI,0000,0000,0000,,Podem colocar a coletiva\Nde imprensa pro Mystery Kiss na TV?
+Dialogue: 0,0:16:42.53,0:16:46.92,Default,YAMAMOTO,0000,0000,0000,,Essa não. O taxista se lembra\Ndo rosto da Wadagaki.
+Dialogue: 0,0:16:46.92,0:16:48.44,Default,NIKAIDO,0000,0000,0000,,Claro que lembra.
+Dialogue: 0,0:16:48.95,0:16:51.25,Default,YAMAMOTO,0000,0000,0000,,Tem como montar uma narrativa\Npositiva em cima?
+Dialogue: 0,0:16:51.70,0:16:54.27,Default,YAMAMOTO,0000,0000,0000,,Mas se descobrirem\Nque tentamos encobrir...
+Dialogue: 0,0:16:54.27,0:16:56.11,Default,YAMAMOTO,0000,0000,0000,,Justo quando estamos começando\Na sentir o gosto do sucesso.
+Dialogue: 0,0:16:56.64,0:16:58.79,Default,NIKAIDO,0000,0000,0000,,Alguns dos cinco caras\Nque foram ao primeiro show
+Dialogue: 0,0:16:58.79,0:17:00.08,Default,NIKAIDO,0000,0000,0000,,também devem se lembrar dela.
+Dialogue: 0,0:17:00.08,0:17:01.32,Default,NIKAIDO,0000,0000,0000,,Não é possível.
+Dialogue: 0,0:17:01.32,0:17:02.72,Default,YAMAMOTO,0000,0000,0000,,Tem razão.
+Dialogue: 0,0:17:06.56,0:17:07.71,Default,NIKAIDO,0000,0000,0000,,Alô?
+Dialogue: 0,0:17:08.32,0:17:11.50,Default,NIKAIDO,0000,0000,0000,,Sim, estou bem. Vou tentar.
+Dialogue: 0,0:17:12.07,0:17:12.93,Default,NIKAIDO,0000,0000,0000,,Sim...
+Dialogue: 0,0:17:13.52,0:17:15.43,Default,NIKAIDO,0000,0000,0000,,Boa sorte na repescagem.
+Dialogue: 0,0:17:16.16,0:17:19.05,Default,NIKAIDO,0000,0000,0000,,Eu juro que também vou voltar disso.
+Dialogue: 0,0:17:20.14,0:17:23.86,Default,BABA,0000,0000,0000,,Você está bem?\NDesculpe por não ter notado.
+Dialogue: 0,0:17:24.50,0:17:26.81,Default,BABA,0000,0000,0000,,Eu não consigo me esforçar demais.
+Dialogue: 0,0:17:26.81,0:17:30.49,Default,BABA,0000,0000,0000,,Tudo bem, mas não se force demais.\NTchau.
+Dialogue: 0,0:17:30.49,0:17:32.20,Default,SHIBAGAKI,0000,0000,0000,,Ei, o que você está fazendo?
+Dialogue: 0,0:17:32.20,0:17:32.86,Default,BABA,0000,0000,0000,,Desculpa.
+Dialogue: 0,0:17:32.86,0:17:34.30,Default,SHIBAGAKI,0000,0000,0000,,Vamos repassar nossas piadas.
+Dialogue: 0,0:17:34.30,0:17:35.48,Default,BABA,0000,0000,0000,,Acabamos de repassar.
+Dialogue: 0,0:17:35.48,0:17:37.47,Default,SHIBAGAKI,0000,0000,0000,,Ainda não sabemos quais\Nvamos apresentar.
+Dialogue: 0,0:17:37.47,0:17:39.07,Default,BABA,0000,0000,0000,,A gente não combinou\Nque seria a do café?
+Dialogue: 0,0:17:39.07,0:17:42.07,Default,SHIBAGAKI,0000,0000,0000,,Acho que o clima está mais\Npara a da máquina do tempo.
+Dialogue: 0,0:17:39.07,0:17:44.95,sign_25393_329_Loser_s_Bracket,SIGN,0000,0000,0000,,Repescagem
+Dialogue: 0,0:17:42.07,0:17:44.95,Default,BABA,0000,0000,0000,,Eu me lembro da máquina do tempo.\NVou ficar bem.
+Dialogue: 0,0:17:46.26,0:17:47.98,Default,SHIBAGAKI,0000,0000,0000,,Você não se importa com a competição?
+Dialogue: 0,0:17:47.98,0:17:49.92,Default,SHIBAGAKI,0000,0000,0000,,Se perdermos agora,\Nvamos encerrar a dupla.
+Dialogue: 0,0:17:52.27,0:17:53.30,Default,SHIBAGAKI,0000,0000,0000,,O quê?
+Dialogue: 0,0:17:55.05,0:17:57.40,Default,BABA,0000,0000,0000,,Você que vai ter problemas\Nse a gente se separar.
+Dialogue: 0,0:17:57.40,0:18:00.64,Default,SHIBAGAKI,0000,0000,0000,,Baba, você ficou muito pomposo.
+Dialogue: 0,0:18:01.05,0:18:03.09,Default,BABA,0000,0000,0000,,Antes você era mais divertido.
+Dialogue: 0,0:18:03.09,0:18:05.00,Default,BABA,0000,0000,0000,,Não posso ver você desmoronar.
+Dialogue: 0,0:18:05.00,0:18:08.97,Default,BABA,0000,0000,0000,,Você não acha nenhum filme, série\Nou comediante de sucesso engraçado.
+Dialogue: 0,0:18:08.97,0:18:11.27,Default,BABA,0000,0000,0000,,Você que está fora de sintonia.
+Dialogue: 0,0:18:13.24,0:18:15.90,Default,BABA,0000,0000,0000,,Sei que você gosta de comédia manzai.
+Dialogue: 0,0:18:15.90,0:18:18.32,Default,BABA,0000,0000,0000,,Também sei que estou te atrapalhando.
+Dialogue: 0,0:18:18.80,0:18:22.32,Default,BABA,0000,0000,0000,,Então sinto muito, Shibagaki.\NVamos nos separar hoje.
+Dialogue: 0,0:18:27.73,0:18:29.29,sign_26568_346_Space_Observatio,HEADLINE LEFT,0000,0000,0000,,Tecnologia de\Nobservação espacial\Navança
+Dialogue: 0,0:18:28.08,0:18:29.29,sign_26568_345_Cancer_Research_,HEADLINE RIGHT,0000,0000,0000,,Pesquisa de câncer causa\Nalarme no setor de saúde
+Dialogue: 0,0:18:32.39,0:18:34.70,Default,LIBRARIAN,0000,0000,0000,,Fecharemos em breve.
+Dialogue: 0,0:18:39.22,0:18:45.31,sign_26835_348_Married_Couple_F,SIGN,0000,0000,0000,,Casal encontrado dentro de carro que\Ncaiu no mar. Suicídio forçado?
+Dialogue: 0,0:18:40.74,0:18:45.31,Default,GORIKI,0000,0000,0000,,"Casal encontrado dentro de carro\Nque caiu no mar. Suicídio forçado?"
+Dialogue: 0,0:18:46.44,0:18:51.47,Default,GORIKI,0000,0000,0000,,"Em torno das 4h15,\Nno cais Takeshiba em Minato,
+Dialogue: 0,0:18:51.47,0:18:54.73,Default,GORIKI,0000,0000,0000,,Odokawa Kiyoshi-san\Nde Chichibu, Saitama,
+Dialogue: 0,0:18:54.73,0:18:56.79,Default,,0000,0000,0000,,e Odokawa Yumi-san, sua esposa,
+Dialogue: 0,0:18:54.73,0:19:04.78,signs,SIGN,0000,0000,0000,,Odokawa Kiyoshi-san (39)
+Dialogue: 0,0:18:54.73,0:19:04.78,signs,SIGN,0000,0000,0000,,Odokawa Yumi-san (37)
+Dialogue: 0,0:18:54.73,0:19:04.78,signs,SIGN,0000,0000,0000,,Filho (10)
+Dialogue: 0,0:18:56.79,0:19:00.03,Default,GORIKI,0000,0000,0000,,foram encontrados dentro\Nde um carro que afundou no mar."
+Dialogue: 0,0:19:00.03,0:19:02.82,Default,GORIKI,0000,0000,0000,,"O filho de 10 anos\Nconseguiu escapar sozinho,
+Dialogue: 0,0:19:02.82,0:19:04.78,Default,GORIKI,0000,0000,0000,,mas está inconsciente\Ne em estado crítico."
+Dialogue: 0,0:19:04.78,0:19:09.84,Default,GORIKI,0000,0000,0000,,"A polícia investiga a possibilidade\Nde ter sido um suicídio forçado."
+Dialogue: 0,0:19:13.71,0:19:17.76,Default,YAMAMOTO,0000,0000,0000,,Desculpe por todo o trabalho que demos.
+Dialogue: 0,0:19:22.46,0:19:25.04,Default,YAMAMOTO,0000,0000,0000,,Não conseguimos esconder nossa surpresa
+Dialogue: 0,0:19:25.51,0:19:28.60,Default,YAMAMOTO,0000,0000,0000,,ao saber que Mitsuya Yuki\Nfoi encontrada morta.
+Dialogue: 0,0:19:29.01,0:19:32.33,Default,YAMAMOTO,0000,0000,0000,,Em outubro, a mãe da Mitsuya Yuki\Nentrou em contato
+Dialogue: 0,0:19:32.33,0:19:35.19,Default,YAMAMOTO,0000,0000,0000,,dizendo que a filha não\Ntinha voltado para casa.
+Dialogue: 0,0:19:35.75,0:19:39.76,Default,YAMAMOTO,0000,0000,0000,,Nós fizemos de tudo para encontrá-la,\Nmas não conseguimos.
+Dialogue: 0,0:19:40.37,0:19:45.16,Default,YAMAMOTO,0000,0000,0000,,Além disso,\Ncomo Mystery Kiss estrearia em breve,
+Dialogue: 0,0:19:45.68,0:19:49.26,Default,YAMAMOTO,0000,0000,0000,,pedimos que outra garota\Nque fez a audição
+Dialogue: 0,0:19:49.26,0:19:52.18,Default,YAMAMOTO,0000,0000,0000,,assumisse o lugar da Mitsuya Yuki.
+Dialogue: 0,0:19:53.81,0:19:59.41,Default,YAMAMOTO,0000,0000,0000,,No fim, nós engamos todo mundo\Ne as pessoas envolvidas,
+Dialogue: 0,0:19:59.98,0:20:02.30,Default,YAMAMOTO,0000,0000,0000,,e pedimos sinceras desculpas.
+Dialogue: 0,0:20:02.30,0:20:05.77,Default,REPORTER,0000,0000,0000,,Soube que a polícia está investigando\No caso como assassinato.
+Dialogue: 0,0:20:05.77,0:20:07.92,Default,REPORTER,0000,0000,0000,,Tem alguma ideia\Ndo que aconteceu com ela?
+Dialogue: 0,0:20:08.55,0:20:14.53,Default,YAMAMOTO,0000,0000,0000,,Bem, ela não era bem paga\Nantes da estreia do grupo.
+Dialogue: 0,0:20:15.03,0:20:17.41,Default,YAMAMOTO,0000,0000,0000,,Imagino que ela tenha\Nse promovido nas mídias sociais
+Dialogue: 0,0:20:17.41,0:20:19.73,Default,YAMAMOTO,0000,0000,0000,,e pode ter se aproximado de fãs também.
+Dialogue: 0,0:20:19.73,0:20:22.15,Default,REPORTER,0000,0000,0000,,Está dizendo que um fã a matou?
+Dialogue: 0,0:20:22.15,0:20:25.48,Default,YAMAMOTO,0000,0000,0000,,Não, apenas que a possibilidade existe.
+Dialogue: 0,0:20:26.09,0:20:27.96,Default,YAMAMOTO,0000,0000,0000,,Falhamos com nossa responsabilidade
+Dialogue: 0,0:20:27.96,0:20:31.33,Default,YAMAMOTO,0000,0000,0000,,de proteger a privacidade dela\Ne fornecer segurança adequada.
+Dialogue: 0,0:20:31.33,0:20:36.92,Default,YAMAMOTO,0000,0000,0000,,Nós nos arrependemos\Nprofundamente disso.
+Dialogue: 0,0:20:37.40,0:20:42.38,Default,YAMAMOTO,0000,0000,0000,,Também não sabemos como encarar\NShofutei Donraku-san,
+Dialogue: 0,0:20:41.88,0:20:45.89,sign_29776_381_Live__Talent_Age,SIGN,0000,0000,0000,,Ao vivo: {\b0}Agência de talentos\N{\c&H425533&}Coletiva de imprensa urgente
+Dialogue: 0,0:20:42.38,0:20:45.89,Italics,YAMAMOTO,0000,0000,0000,,que confiou a filha à nossa agência.
+Dialogue: 0,0:20:47.23,0:20:48.50,Default,TAEKO,0000,0000,0000,,Ora.
+Dialogue: 0,0:20:49.93,0:20:51.58,Default,ODOKAWA,0000,0000,0000,,Não pode ser.
+Dialogue: 0,0:20:56.88,0:20:57.82,Default,KENSHIRO,0000,0000,0000,,Ei.
+Dialogue: 0,0:20:58.66,0:21:01.36,Default,ODOKAWA,0000,0000,0000,,Nunca achei que ajudaria vocês.
+Dialogue: 0,0:21:01.36,0:21:03.53,Default,ODOKAWA,0000,0000,0000,,Você não precisa se posicionar?
+Dialogue: 0,0:21:03.53,0:21:07.74,Default,KENSHIRO,0000,0000,0000,,Como o esconderijo deles mudou,\Neu vou segui-los do banco.
+Dialogue: 0,0:21:07.74,0:21:09.04,Default,ODOKAWA,0000,0000,0000,,Entendi.
+Dialogue: 0,0:21:09.37,0:21:11.41,Default,ODOKAWA,0000,0000,0000,,Cadê seu irmão?
+Dialogue: 0,0:21:11.41,0:21:13.48,Default,KENSHIRO,0000,0000,0000,,Faz tempo que ele não vai trabalhar.
+Dialogue: 0,0:21:13.48,0:21:16.15,Default,KENSHIRO,0000,0000,0000,,Notei que tinha algo estranho com ele,
+Dialogue: 0,0:21:16.15,0:21:19.92,Default,KENSHIRO,0000,0000,0000,,mas não acredito que meu irmão\Nestá ignorando minhas chamadas.
+Dialogue: 0,0:21:19.92,0:21:23.30,Default,KENSHIRO,0000,0000,0000,,Ei, taxista. Você disse\Nalguma coisa para ele?
+Dialogue: 0,0:21:24.42,0:21:27.27,Default,ODOKAWA,0000,0000,0000,,Até parece. Agora estamos\Ndo mesmo lado, não?
+Dialogue: 0,0:21:27.91,0:21:30.35,Default,KENSHIRO,0000,0000,0000,,Falando assim, de maneira geral,
+Dialogue: 0,0:21:30.35,0:21:33.03,Default,KENSHIRO,0000,0000,0000,,nós estamos do mesmo\Nlado desde o começo.
+Dialogue: 0,0:21:39.81,0:21:41.60,Default,SEKIGUCHI,0000,0000,0000,,Chegou a hora.
+Dialogue: 0,0:21:41.60,0:21:46.29,Default,SEKIGUCHI,0000,0000,0000,,Você sabe o que vai acontecer\Nse sair da linha, né?
+Dialogue: 0,0:21:55.86,0:21:59.00,Default,GORIKI,0000,0000,0000,,O Dr. Kato da clínica\NMinami Nakano me enviou.
+Dialogue: 0,0:21:59.00,0:22:00.32,Default,GORIKI,0000,0000,0000,,Meu nome é Goriki.
+Dialogue: 0,0:22:00.32,0:22:04.05,Default,GORIKI,0000,0000,0000,,Quero falar com você\Nsobre Odokawa Hiroshi.
+Dialogue: 0,0:22:04.71,0:22:08.34,Default,DOCTOR,0000,0000,0000,,Odokawa Hiroshi-kun foi meu paciente.
+Dialogue: 0,0:22:08.74,0:22:11.22,Default,GORIKI,0000,0000,0000,,Pode dizer como ele era?
+Dialogue: 0,0:22:11.22,0:22:14.64,Default,DOCTOR,0000,0000,0000,,Ele passou dois meses aqui no hospital.
+Dialogue: 0,0:22:14.64,0:22:19.08,Default,DOCTOR,0000,0000,0000,,Era para que ele continuasse\Nfazendo terapia depois,
+Dialogue: 0,0:22:19.08,0:22:22.35,Default,DOCTOR,0000,0000,0000,,mas o tribunal disse\Nque um benfeitor o acolheu
+Dialogue: 0,0:22:22.35,0:22:24.61,Default,DOCTOR,0000,0000,0000,,e ele foi para Tóquio.
+Dialogue: 0,0:22:24.61,0:22:26.72,Default,DOCTOR,0000,0000,0000,,Não sabemos o que aconteceu\Ncom ele depois.
+Dialogue: 0,0:22:26.72,0:22:29.74,Default,GORIKI,0000,0000,0000,,Como estava o psicológico\Ndele depois do acidente?
+Dialogue: 0,0:22:30.12,0:22:33.33,Default,DOCTOR,0000,0000,0000,,Ele não lembrava nada do acidente.
+Dialogue: 0,0:22:33.33,0:22:38.34,Default,DOCTOR,0000,0000,0000,,Não identificamos problemas\Nmotores nem na linguagem,
+Dialogue: 0,0:22:38.34,0:22:41.84,Default,DOCTOR,0000,0000,0000,,então pedimos que ele mantivesse\Num caderno de memórias
+Dialogue: 0,0:22:41.84,0:22:43.84,Default,DOCTOR,0000,0000,0000,,para a recuperação psicológica.
+Dialogue: 0,0:22:43.84,0:22:46.88,Default,DOCTOR,0000,0000,0000,,Ele parecia estável\Nnesse quesito também.
+Dialogue: 0,0:22:46.88,0:22:48.84,Default,GORIKI,0000,0000,0000,,Diga mais sobre esse\Ncaderno de memórias.
+Dialogue: 0,0:22:48.84,0:22:51.94,Default,DOCTOR,0000,0000,0000,,Ele registrava as regras da vida\Nno hospital, os remédios,
+Dialogue: 0,0:22:51.94,0:22:55.90,Default,DOCTOR,0000,0000,0000,,o horário de banho e outras\Ninformações sobre si mesmo.
+Dialogue: 0,0:22:55.90,0:22:57.98,Default,DOCTOR,0000,0000,0000,,Era como um diário.
+Dialogue: 0,0:22:57.98,0:23:00.87,Default,GORIKI,0000,0000,0000,,O que você pensou ao ler o caderno?
+Dialogue: 0,0:23:00.87,0:23:03.98,Default,DOCTOR,0000,0000,0000,,Que ele era uma criança estranha.
+Dialogue: 0,0:23:04.32,0:23:05.76,Default,GORIKI,0000,0000,0000,,Você tem o caderno?
+Dialogue: 0,0:23:05.76,0:23:06.67,Default,DOCTOR,0000,0000,0000,,Tenho.
+Dialogue: 0,0:23:06.67,0:23:11.29,Default,DOCTOR,0000,0000,0000,,Como você avisou que vinha,\Neu li pela primeira vez em 30 anos.
+Dialogue: 0,0:23:11.29,0:23:13.76,Default,GORIKI,0000,0000,0000,,Posso dar uma olhada?
+Dialogue: 0,0:23:14.76,0:23:18.66,Default,DOCTOR,0000,0000,0000,,Sei que você é o médico atual\Ndo Odokawa Hiroshi-kun,
+Dialogue: 0,0:23:18.66,0:23:21.97,Default,DOCTOR,0000,0000,0000,,mas não é material\Npara um clínico geral como você.
+Dialogue: 0,0:23:24.45,0:23:26.46,Default,GORIKI,0000,0000,0000,,Não peço como médico dele.
+Dialogue: 0,0:23:32.06,0:23:33.87,Default,GORIKI,0000,0000,0000,,Peço como amigo!
+Dialogue: 0,0:23:34.97,0:23:50.34,Next_Time,TEXT,0000,0000,0000,,Próximo episódio: {\fs22\b1}Não é o bastante{\fs\b0}
+Dialogue: 0,0:23:35.45,0:23:36.83,Italics,GORIKI,0000,0000,0000,,{\an8}Está comendo direito?
+Dialogue: 0,0:23:36.83,0:23:37.50,Italics,ODOKAWA,0000,0000,0000,,{\an8}Sim.
+Dialogue: 0,0:23:37.50,0:23:39.64,Italics,GORIKI,0000,0000,0000,,{\an8}É importante ter uma vida regrada.
+Dialogue: 0,0:23:39.64,0:23:40.38,Italics,ODOKAWA,0000,0000,0000,,{\an8}Eu sei.
+Dialogue: 0,0:23:40.38,0:23:41.68,Italics,GORIKI,0000,0000,0000,,{\an8}E dirija com segurança.
+Dialogue: 0,0:23:41.68,0:23:42.40,Italics,ODOKAWA,0000,0000,0000,,{\an8}Está bem.
+Dialogue: 0,0:23:42.40,0:23:44.53,Italics,GORIKI,0000,0000,0000,,{\an8}E pare de deixar todos preocupados.
+Dialogue: 0,0:23:44.53,0:23:45.40,Italics,ODOKAWA,0000,0000,0000,,{\an8}Desculpa.
+Dialogue: 0,0:23:45.40,0:23:46.84,Italics,GORIKI,0000,0000,0000,,{\an8}Você devia se casar...
+Dialogue: 0,0:23:46.84,0:23:49.94,Italics,ODOKAWA,0000,0000,0000,,{\an8}Cala a boca! Você não é\Nmeu pai, temos a mesma idade!

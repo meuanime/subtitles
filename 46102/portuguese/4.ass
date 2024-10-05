@@ -1,0 +1,642 @@
+﻿[Script Info]
+Title: [Erai-raws] Português (Brasil)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: Default - Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: Italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback_Italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Ep_Title,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,1,0020,0020,0045,1
+Style: Next_Time,Arial,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,1,0027,0010,0060,1
+Style: sign_2366_3_Maid_Cafe,Comic Sans MS,24,&H00FFFFFF,&H000000FF,&H00E38CF3,&H00B21AAC,-1,0,0,0,100,100,0,-12,1,1,2,8,0104,0429,0113,1
+Style: sign_2366_4_Welcome_Back__Ma,Comic Sans MS,18,&H008B5EE9,&H000000FF,&H00A9F6FD,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0062,0396,0059,1
+Style: sign_3401_27_Found_Around_Sch,Comic Sans MS,20,&H00B17C77,&H000000FF,&H00D3FCF9,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0267,0182,0049,1
+Style: sign_7601_91_One_of_a_kind_Su,Arial,14,&H002C2C2C,&H000000FF,&H00FCFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0155,0111,0092,1
+Style: sign_7649_92_One_of_a_kind_Su,Arial,16,&H00000000,&H000000FF,&H00FCFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0019,0193,0086,1
+Style: sign_7759_95_One_of_a_kind_Su,Arial,24,&H00000000,&H000000FF,&H00FCFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0042,0273,0130,1
+Style: sign_8933_113_Number_of_Bids,Arial,16,&H00000000,&H000000FF,&H00C3C3C3,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0106,0401,0056,1
+Style: sign_8933_114_Bidding_History,Arial,16,&H00C89D21,&H000000FF,&H00C3C3C3,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0167,0340,0113,1
+Style: sign_8933_115_Time_Remaining,Arial,16,&H00000000,&H000000FF,&H00C3C3C3,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0315,0187,0055,1
+Style: sign_8933_116_3_Days____Detail,Arial,20,&H00000000,&H000000FF,&H00C3C3C3,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0343,0127,0111,1
+Style: sign_8933_117_Current_Price,Arial,20,&H00000000,&H000000FF,&H00ECF3F2,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0103,0395,0192,1
+Style: sign_8972_119_Place_Bid,Arial,20,&H00EDF5FB,&H000000FF,&H002763DB,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0286,0254,0044,1
+Style: sign_8972_121_Follow,Arial,20,&H00000000,&H000000FF,&H00F1F2EF,&H00000000,0,0,0,0,100,100,0,0,1,3,0,7,0407,0168,0156,1
+Style: sign_8972_123_Overall_Rating__,Arial,17,&H00000000,&H000000FF,&H00F4F6EE,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0174,0091,0257,1
+Style: sign_9479_133_Hilarious__Joke_,Arial,17,&H001E17B0,&H000000FF,&H00BEE2E3,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0020,0395,0041,1
+Style: sign_9479_134_Newbies_to_Watch,Arial,14,&H001E17B0,&H000000FF,&H0084E1F5,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,0402,0018,0035,1
+Style: sign_9479_135_Short_Skit__Conv,Arial,14,&H007FC1D5,&H000000FF,&H0016102A,&H00000000,0,0,0,0,100,100,0,0,1,3,0,9,0010,0018,0060,1
+Style: sign_10257_146_Bid,Arial,24,&H00000000,&H000000FF,&H00E7E7E7,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0303,0294,0037,1
+Style: sign_10257_147_Maximum_Bid,Arial,18,&H00000000,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0100,0410,0107,1
+Style: sign_10257_148_yen,Arial,18,&H00000000,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0566,0039,0185,1
+Style: sign_10257_149_Place_Bid,Arial,20,&H00EDF5FB,&H000000FF,&H002763DB,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0272,0267,0274,1
+Style: sign_11083_160_Number_of_Bids,Arial,16,&H00000000,&H000000FF,&H00C3C3C3,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0121,0386,0036,1
+Style: sign_11083_161_Bidding_History,Arial,16,&H00C89D21,&H000000FF,&H00C3C3C3,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0172,0335,0083,1
+Style: sign_11083_162_Time_Remaining,Arial,16,&H00000000,&H000000FF,&H00C3C3C3,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0291,0211,0038,1
+Style: sign_11083_163_12_Minutes__Deta,Arial,20,&H00000000,&H000000FF,&H00C3C3C3,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0297,0142,0084,1
+Style: sign_11083_164_Current_Price,Arial,20,&H00000000,&H000000FF,&H00ECF3F2,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0119,0379,0145,1
+Style: sign_11083_165_Free_Shipping,Arial,18,&H00000000,&H000000FF,&H00ECF3F2,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0132,0374,0218,1
+Style: sign_11083_166_Place_Bid,Arial,20,&H00EDF5FB,&H000000FF,&H002763DB,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0255,0285,0277,1
+Style: sign_11249_169_Bid,Arial,20,&H00000000,&H000000FF,&H00E7E7E7,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0349,0255,0044,1
+Style: sign_11249_170_Maximum_Bid,Arial,18,&H00000000,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0166,0343,0105,1
+Style: sign_11249_171_yen,Arial,18,&H00000000,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0541,0064,0176,1
+Style: sign_11249_172_Place_Bid,Arial,20,&H00EDF5FB,&H000000FF,&H002763DB,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0308,0231,0273,1
+Style: sign_11416_173_Current_Price,Arial,18,&H00000000,&H000000FF,&H00ECF3F2,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0079,0433,0063,1
+Style: sign_11416_174_Free_Shipping,Arial,18,&H00000000,&H000000FF,&H00ECF3F2,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0076,0430,0196,1
+Style: sign_11416_175_Place_Bid,Arial,20,&H00EDF5FB,&H000000FF,&H002763DB,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0264,0275,0227,1
+Style: sign_11416_174_Yen,Arial,18,&H003585E5,&H000000FF,&H00ECF3F2,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0329,0274,0147,1
+Style: sign_12065_189_Bid,Arial,24,&H00000000,&H000000FF,&H00E7E7E7,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0232,0365,0036,1
+Style: sign_12065_190_Maximum_Bid,Arial,18,&H00000000,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0053,0456,0124,1
+Style: sign_12065_191_yen,Arial,20,&H00000000,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0527,0074,0229,1
+Style: sign_12122_191_Maximum_Bid,Arial,18,&H00000000,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0053,0456,0040,1
+Style: sign_12122_193_yen,Arial,18,&H00000000,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0529,0076,0122,1
+Style: sign_12122_194_Place_Bid,Arial,20,&H00EDF5FB,&H000000FF,&H002763DB,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0201,0338,0260,1
+Style: sign_12420_196_Bid,Arial,24,&H00000000,&H000000FF,&H00E7E7E7,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0247,0350,0037,1
+Style: sign_12420_197_Maximum_Bid,Arial,18,&H00000000,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0060,0450,0120,1
+Style: sign_12420_198_yen,Arial,18,&H00000000,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0539,0067,0216,1
+Style: sign_12489_199_Place_Bid,Arial,20,&H00EDF5FB,&H000000FF,&H002763DB,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0216,0323,0256,1
+Style: sign_12489_199_Maximum_Bid,Arial,18,&H00000000,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0060,0450,0037,1
+Style: sign_12489_200_yen,Arial,18,&H00000000,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0538,0068,0116,1
+Style: sign_12601_202_Place_Bid,Arial,20,&H00EDF5FB,&H000000FF,&H002763DB,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0277,0263,0142,1
+Style: sign_13000_206_Congratulations_,Arial,14,&H00000000,&H000000FF,&H00DDF8F3,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0301,0011,0070,1
+Style: sign_13000_209_Number_of_Items_,Arial,12,&H00000000,&H000000FF,&H00F3F5F5,&H00000000,0,0,0,0,100,100,0,0,1,3,0,7,0364,0135,0153,1
+Style: sign_13000_210_Begin_Transactio,Arial,12,&H00EFEFEF,&H000000FF,&H00CEA14B,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0368,0155,0211,1
+Style: sign_13082_214_Begin_Transactio,Arial,24,&H00FFFFFF,&H000000FF,&H00D29337,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0010,0010,0113,1
+Style: sign_13435_221_What_is_the_Hyak,Comic Sans MS,24,&H00EAF8E7,&H000000FF,&H00355933,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0040,0296,0019,1
+Style: sign_14129_230_Tanaka,Arial,12,&H00A1B6C0,&H000000FF,&H00515660,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,0259,0337,0183,1
+Style: sign_16388_267_Raise_slimes___,Comic Sans MS,20,&H00A0A0A0,&H000000FF,&H00FBFCFA,&H00000000,0,0,0,0,100,100,0,11,1,3,0,8,0201,0325,0031,1
+Style: sign_16388_269_Purchase,Arial,16,&H00FC8F1C,&H000000FF,&H00E0E0DE,&H00000000,-1,0,0,0,100,100,0,11,1,3,0,8,0395,0164,0095,1
+Style: sign_16388_270_Dragon_Slayer,Arial,16,&H001C1C1C,&H000000FF,&H00FBFCFA,&H00000000,-1,0,0,0,100,100,0,11,1,3,0,8,0224,0295,0166,1
+Style: sign_16388_272_Purchase,Arial,16,&H00FC8F1C,&H000000FF,&H00E0E0DE,&H00000000,-1,0,0,0,100,100,0,11,1,3,0,8,0413,0146,0196,1
+Style: sign_16388_275_Purchase,Arial,16,&H00FC8F1C,&H000000FF,&H00E0E0DE,&H00000000,-1,0,0,0,100,100,0,11,1,3,0,8,0435,0124,0286,1
+Style: sign_16388_271_Exhilarating_act,Comic Sans MS,17,&H00A0A0A0,&H000000FF,&H00FBFCFA,&H00000000,0,0,0,0,100,100,0,11,1,3,0,8,0235,0267,0225,1
+Style: sign_16530_276_Zoological_Garde,Arial,16,&H001C1C1C,&H000000FF,&H00FBFCFA,&H00000000,-1,0,0,0,100,100,0,11,1,3,0,8,0208,0274,0087,1
+Style: sign_16530_278_Purchase,Arial,16,&H00FC8F1C,&H000000FF,&H00E0E0DE,&H00000000,-1,0,0,0,100,100,0,11,1,3,0,8,0398,0161,0119,1
+Style: sign_16530_277_Gather_and_raise,Comic Sans MS,17,&H00A0A0A0,&H000000FF,&H00FBFCFA,&H00000000,0,0,0,0,100,100,0,11,1,3,0,8,0214,0240,0143,1
+Style: sign_16530_279_Sengokusou,Arial,16,&H001C1C1C,&H000000FF,&H00FBFCFA,&H00000000,-1,0,0,0,100,100,0,11,1,3,0,8,0226,0306,0188,1
+Style: sign_16530_280_Live_with_genera,Comic Sans MS,17,&H00A0A0A0,&H000000FF,&H00FBFCFA,&H00000000,0,0,0,0,100,100,0,11,1,3,0,8,0235,0209,0240,1
+Style: sign_16530_281_Purchase,Arial,16,&H00FC8F1C,&H000000FF,&H00E0E0DE,&H00000000,-1,0,0,0,100,100,0,11,1,3,0,8,0406,0153,0180,1
+Style: sign_16631_285___Back,Arial,20,&H00DF8C37,&H000000FF,&H00F3F4F2,&H00000000,-1,0,0,0,100,100,0,11,1,3,0,8,0125,0443,0028,1
+Style: sign_16631_286_Zoological_Garde,Arial,18,&H002A2A2A,&H000000FF,&H00EDF1F3,&H00000000,-1,0,0,0,100,100,0,11,1,3,0,8,0262,0201,0051,1
+Style: sign_16631_287_Purchase,Arial,16,&H00F3F4F2,&H000000FF,&H00F68F22,&H00000000,-1,0,0,0,100,100,0,11,1,3,0,8,0306,0253,0128,1
+Style: sign_16631_288_3245_Reviews,Arial,17,&H00A5A7A3,&H000000FF,&H00F3F4F2,&H00000000,0,0,0,0,100,100,0,11,1,3,0,8,0169,0352,0237,1
+Style: sign_17114_295_Super_Rare,Arial,20,&H00145DCA,&H000000FF,&H00AAEAFA,&H00000000,-1,0,0,0,100,100,0,13,1,3,0,8,0096,0425,0180,1
+Style: sign_17114_296_Snow_Leopard,Arial,24,&H0079C4F4,&H000000FF,&H001E2B53,&H00F5FAFE,-1,0,0,0,100,100,0,0,1,2,2,2,0220,0235,0118,1
+Style: sign_17296_298_Dodo,Arial,22,&H00BC605E,&H000000FF,&H00F7FEF6,&H00000000,-1,0,0,0,100,100,0,10,1,3,0,8,0380,0197,0103,1
+Style: sign_17296_299_A_now_extinct_sp,Arial,15,&H00474747,&H000000FF,&H00FDFDFD,&H00000000,0,0,0,0,100,100,0,10,1,3,0,7,0314,0000,0147,1
+Style: sign_17296_300_Attractiveness,Arial,12,&H00EAEAEA,&H000000FF,&H00CE7261,&H00000000,0,0,0,0,100,100,0,11,1,3,0,8,0335,0221,0201,1
+Style: sign_17296_301_Care_Difficulty,Arial,12,&H00EAEAEA,&H000000FF,&H00CE7261,&H00000000,0,0,0,0,100,100,0,9,1,3,0,8,0314,0243,0238,1
+Style: sign_17296_302_Maintenance_Cost,Arial,12,&H00EAEAEA,&H000000FF,&H00CE7261,&H00000000,0,0,0,0,100,100,0,8,1,3,0,8,0258,0069,0260,1
+Style: sign_17296_303_Not_yet_acquired,Arial,12,&H00482CC0,&H000000FF,&H00FDFDFD,&H00000000,-1,0,0,0,100,100,0,8,1,3,0,8,0109,0422,0288,1
+Style: sign_18075_317_Purchase_Hagenbe,Arial,12,&H00C57E8A,&H000000FF,&H00FDFDFD,&H00000000,-1,0,0,0,100,100,0,10,1,3,0,8,0088,0409,0153,1
+Style: sign_18075_318_6_Hagenbecks,Arial,12,&H00FFFFFF,&H000000FF,&H00C9735C,&H00000000,0,0,0,0,100,100,0,10,1,3,0,8,0145,0410,0235,1
+Style: sign_18075_319_24_Hagenbecks,Arial,12,&H00FFFFFF,&H000000FF,&H00C9735C,&H00000000,0,0,0,0,100,100,0,10,1,3,0,8,0254,0293,0216,1
+Style: sign_18075_320_68_Hagenbecks,Arial,12,&H00FFFFFF,&H000000FF,&H00C9735C,&H00000000,0,0,0,0,100,100,0,10,1,3,0,8,0368,0178,0200,1
+Style: sign_18431_329_World_Ranking,Arial,24,&H009ABAF8,&H000000FF,&H00605A81,&H00F5FAFE,-1,0,0,0,100,100,0,3,1,2,2,8,0199,0252,0094,1
+Style: sign_21219_372_Purchase,Arial,15,&H00FFFFFF,&H000000FF,&H002E73F2,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,9,0500,0064,0161,1
+Style: sign_21219_374_Account_with_num,Arial,16,&H00D1A528,&H000000FF,&H00FAFAFA,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0077,0163,0184,1
+Style: sign_21266_378_Account_with_10_,Arial,16,&H00D1A528,&H000000FF,&H00FAFAFA,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,0071,0010,0050,1
+Style: sign_23322_410_Super_Rare,Arial,18,&H00348BE6,&H000000FF,&H00B1FFFC,&H00000000,-1,0,0,0,100,100,0,25,1,3,0,8,0140,0393,0182,1
+Style: sign_23322_411_Red_Panda,Arial,20,&H0062D6ED,&H000000FF,&H0054326C,&H00F5FAFE,-1,0,0,0,100,100,0,10,1,2,2,2,0302,0222,0097,1
+Style: sign_23410_413_Okapi,Arial,20,&H0062D6ED,&H000000FF,&H00794562,&H00F5FAFE,-1,0,0,0,100,100,0,10,1,2,2,2,0327,0251,0093,1
+Style: sign_23410_412_Super_Rare,Arial,18,&H00348BE6,&H000000FF,&H00B1FFFC,&H00000000,-1,0,0,0,100,100,0,25,1,3,0,8,0161,0371,0188,1
+Style: sign_23595_414_Ultra_Rare,Arial,18,&H0038F7EC,&H000000FF,&H00B98825,&H00000000,-1,0,0,0,100,100,0,20,1,3,0,8,0171,0373,0183,1
+Style: sign_23595_415_Dodo,Arial,20,&H0062D6ED,&H000000FF,&H0062378F,&H00F5FAFE,-1,0,0,0,100,100,0,10,1,2,2,2,0327,0256,0094,1
+Style: sign_23759_416_Ultra_Rare,Arial,20,&H0020FEF6,&H000000FF,&H00E2A34E,&H00000000,-1,0,0,0,100,100,0,18,1,3,0,8,0141,0403,0201,1
+Style: sign_23759_417_Dodo,Arial,24,&H0062D6ED,&H000000FF,&H0062378F,&H00F5FAFE,-1,0,0,0,100,100,0,10,1,2,2,2,0333,0239,0057,1
+Style: sign_23944_419_Ultra_Rare,Arial,20,&H0020FEF6,&H000000FF,&H00EDD35C,&H00000000,-1,0,0,0,100,100,0,10,1,3,0,8,0102,0431,0184,1
+Style: sign_23944_420_Dodo,Arial,24,&H008FD4F5,&H000000FF,&H001E2B53,&H00F5FAFE,-1,0,0,0,100,100,0,0,1,2,2,2,0266,0305,0055,1
+Style: sign_25119_427_Snow_Leopard,Arial,18,&H00FFFFFF,&H000000FF,&H00977051,&H00000000,-1,0,0,0,100,100,0,-20,1,3,0,8,0246,0255,0149,1
+Style: sign_25119_428_Dugong,Arial,18,&H00FFFFFF,&H000000FF,&H00977051,&H00000000,-1,0,0,0,100,100,0,-20,1,3,0,8,0231,0333,0203,1
+Style: sign_25119_429_Dodo,Arial,18,&H00FFFFFF,&H000000FF,&H00977051,&H00000000,-1,0,0,0,100,100,0,-20,1,3,0,8,0212,0377,0257,1
+Style: sign_25159_430_Dodo,Arial,22,&H00BC605E,&H000000FF,&H00F7FEF6,&H00000000,-1,0,0,0,100,100,0,-20,1,3,0,8,0369,0208,0180,1
+Style: sign_5909_65_Casa_de_animais,Arial,17,&H00FFFFFF,&H000000FF,&H0092B95F,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0365,0125,0048,1
+Style: sign_7759_95_Leil__es___Brinq,Arial,20,&H00000000,&H000000FF,&H00FCFEFE,&H00000000,0,0,0,0,100,100,0,0,1,3,0,7,0037,0015,0044,1
+Style: sign_8972_120_Informa____es_do,Arial,17,&H00000000,&H000000FF,&H00F4F6EE,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0106,0301,0112,1
+Style: sign_8972_122_N__o_aceitamos_r,Arial,18,&H00000000,&H000000FF,&H00F5F7EB,&H00000000,0,0,0,0,100,100,0,0,1,3,0,7,0112,0131,0211,1
+Style: sign_13000_206_Borracha_Donraku,Arial,13,&H00000000,&H000000FF,&H00F3F5F5,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0361,0013,0111,1
+Style: sign_13000_207_ID_do_leil__o__3,Arial,12,&H00000000,&H000000FF,&H00F3F5F5,&H00000000,0,0,0,0,100,100,0,0,1,3,0,7,0364,0000,0153,1
+Style: sign_13000_210_Informa____es_do,Arial,12,&H00000000,&H000000FF,&H00F5F5F5,&H00000000,0,0,0,0,100,100,0,0,1,3,0,7,0361,0075,0244,1
+Style: sign_13082_213_Informa____es_do,Arial,20,&H00000000,&H000000FF,&H00FBFBFD,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0040,0326,0180,1
+Style: sign_16388_265_Vamos_andar_de_b,Comic Sans MS,20,&H00A0A0A0,&H000000FF,&H00FBFCFA,&H00000000,0,0,0,0,100,100,0,11,1,3,0,8,0162,0265,0132,1
+Style: sign_21219_364_Venda_compra_de_,Arial,16,&H00FFFFFF,&H000000FF,&H00515660,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0119,0128,0078,1
+Style: sign_25119_414_Lista_de_animais,Arial,18,&H007AD9E3,&H000000FF,&H0060556D,&H00000000,-1,0,0,0,100,100,0,-20,1,3,0,8,0300,0183,0070,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:31.02,0:01:36.57,Ep_Title,EPTITLE,0000,0000,0000,,{\fad(550,600)}A revolução do Tanaka
+Dialogue: 0,0:01:34.40,0:01:36.22,Default,PEDESTRIAN B,0000,0000,0000,,{\an8}Estou falando sério, cara!
+Dialogue: 0,0:01:38.66,0:01:40.37,sign_2366_3_Maid_Cafe,SIGN LEFT,0000,0000,0000,,Maid Café
+Dialogue: 0,0:01:38.66,0:01:40.37,sign_2366_4_Welcome_Back__Ma,SIGN LEFT,0000,0000,0000,,Seja bem-vindo, meu amo
+Dialogue: 0,0:01:42.28,0:01:45.09,Default,SHIBAGAKI,0000,0000,0000,,Ei, o que você está tentando fazer?
+Dialogue: 0,0:01:45.85,0:01:48.08,Italics,TANAKA,0000,0000,0000,,Nossa história começou\Nquatro anos atrás.
+Dialogue: 0,0:01:49.62,0:01:51.94,Italics,TANAKA,0000,0000,0000,,Eu tinha acabado de entrar\Nnuma empresa de jogos.
+Dialogue: 0,0:01:51.94,0:01:53.72,Italics,TANAKA,0000,0000,0000,,Para avaliar os jogos da concorrência,
+Dialogue: 0,0:01:51.94,0:01:55.57,Flashback,BOSS A,0000,0000,0000,,{\an8}Tem muita demanda por jogos\Nde quebra-cabeça intuitivos
+Dialogue: 0,0:01:53.72,0:01:55.88,Italics,TANAKA,0000,0000,0000,,eu jogava vários jogos gratuitos.
+Dialogue: 0,0:01:55.57,0:01:57.22,Flashback,BOSS A,0000,0000,0000,,{\an8}com personagens de anime.
+Dialogue: 0,0:01:56.54,0:01:59.22,Italics,TANAKA,0000,0000,0000,,Sinceramente, não gosto\Ndos jogos de hoje em dia.
+Dialogue: 0,0:01:57.75,0:02:01.84,Flashback,BOSS A,0000,0000,0000,,{\an8}No ano passado, o {\i1}Puzzle Fantasy{\i0}\Nda Namico fez mais de 40 bilhões de ienes.
+Dialogue: 0,0:01:59.82,0:02:02.92,Italics,TANAKA,0000,0000,0000,,Jogos deveriam ser\Numa fuga da realidade.
+Dialogue: 0,0:02:04.42,0:02:06.23,Italics,TANAKA,0000,0000,0000,,Ter amigos dá uma vantagem.
+Dialogue: 0,0:02:04.86,0:02:06.89,Flashback,COWORKER D,0000,0000,0000,,{\an8}Sério, se eu pudesse, eu iria.
+Dialogue: 0,0:02:06.23,0:02:08.45,Italics,TANAKA,0000,0000,0000,,Ter tempo e dinheiro é uma vantagem.
+Dialogue: 0,0:02:06.89,0:02:08.26,Flashback,COWORKER D,0000,0000,0000,,{\an8}Você nunca aparece!
+Dialogue: 0,0:02:08.26,0:02:10.53,Flashback,COWORKER E,0000,0000,0000,,{\an8}Juro que vou na próxima.
+Dialogue: 0,0:02:08.45,0:02:10.53,Italics,TANAKA,0000,0000,0000,,Não é diferente da realidade.
+Dialogue: 0,0:02:12.97,0:02:16.44,Italics,TANAKA,0000,0000,0000,,Voltando ainda mais no tempo,\Nquando eu tinha 9 anos
+Dialogue: 0,0:02:14.28,0:02:16.95,Flashback,STUDENT A,0000,0000,0000,,{\an8}Ei, é um Gandum novo!
+Dialogue: 0,0:02:16.95,0:02:18.22,Flashback,STUDENT D,0000,0000,0000,,{\an8}Ganhei num sorteio!
+Dialogue: 0,0:02:16.95,0:02:20.32,Italics,TANAKA,0000,0000,0000,,a moda era fazer coleção de borrachas.
+Dialogue: 0,0:02:18.22,0:02:18.74,Flashback,STUDENT E,0000,0000,0000,,{\an8}Quero ver!
+Dialogue: 0,0:02:18.74,0:02:19.92,Flashback,STUDENT F,0000,0000,0000,,{\an8}Nossa!
+Dialogue: 0,0:02:21.82,0:02:30.83,sign_3401_27_Found_Around_Sch,CLASSROOM SIGN,0000,0000,0000,,Encontrado perto da escola
+Dialogue: 0,0:02:21.83,0:02:25.15,Italics,TANAKA,0000,0000,0000,,Era porque o orientador de turma tomava\Ncuidado com a diferença de riqueza.
+Dialogue: 0,0:02:25.15,0:02:27.05,Italics,TANAKA,0000,0000,0000,,Tudo que a gente levava era padronizado.
+Dialogue: 0,0:02:27.05,0:02:30.83,Italics,TANAKA,0000,0000,0000,,Os alunos não podiam fugir da média.
+Dialogue: 0,0:02:31.87,0:02:36.53,Italics,TANAKA,0000,0000,0000,,Mas tinha uma brecha:\Nmateriais escolares.
+Dialogue: 0,0:02:36.95,0:02:40.25,Italics,TANAKA,0000,0000,0000,,Na época, tinha vários tipos\Nde borrachas em circulação,
+Dialogue: 0,0:02:40.25,0:02:43.40,Italics,TANAKA,0000,0000,0000,,então nossa turma toda começou\Na fazer coleção delas.
+Dialogue: 0,0:02:42.13,0:02:43.40,Flashback,STUDENT A,0000,0000,0000,,{\an8}Nossa.
+Dialogue: 0,0:02:43.40,0:02:45.33,Italics,TANAKA,0000,0000,0000,,Quem tinha mais borrachas.
+Dialogue: 0,0:02:45.33,0:02:46.64,Italics,TANAKA,0000,0000,0000,,Quem tinha as mais raras.
+Dialogue: 0,0:02:46.96,0:02:49.89,Italics,TANAKA,0000,0000,0000,,Isso já determinava\Na hierarquia da turma.
+Dialogue: 0,0:02:50.77,0:02:54.18,Italics,TANAKA,0000,0000,0000,,Não, estou exagerando.\NOu melhor, mentindo.
+Dialogue: 0,0:02:54.18,0:02:57.91,Italics,TANAKA,0000,0000,0000,,Como é de se esperar, crianças\Ninteligentes, boas em esportes,
+Dialogue: 0,0:02:57.91,0:03:01.99,Italics,TANAKA,0000,0000,0000,,fortes, bonitas, artísticas e engraçadas
+Dialogue: 0,0:03:01.99,0:03:04.63,Italics,TANAKA,0000,0000,0000,,ficavam perto do topo.
+Dialogue: 0,0:03:05.03,0:03:07.66,Italics,TANAKA,0000,0000,0000,,Mas para o resto, que não tinha nada,
+Dialogue: 0,0:03:05.04,0:03:07.74,Flashback,STUDENT K,0000,0000,0000,,{\an8}A camiseta do professor de Educação\NFísica estava pendurada durante a aula.
+Dialogue: 0,0:03:07.66,0:03:12.86,Italics,TANAKA,0000,0000,0000,,a coleção de borrachas era a última\Nesperança de alcançar o topo.
+Dialogue: 0,0:03:12.86,0:03:16.30,Italics,TANAKA,0000,0000,0000,,Não, é outro exagero e mentira.
+Dialogue: 0,0:03:16.30,0:03:19.39,Flashback,STUDENT,0000,0000,0000,,{\an8}Viu a cara dele quando ele percebeu?
+Dialogue: 0,0:03:17.33,0:03:19.39,Italics,TANAKA,0000,0000,0000,,Mesmo entre os que não tinham nada,
+Dialogue: 0,0:03:19.39,0:03:22.98,Italics,TANAKA,0000,0000,0000,,só duas crianças faziam\Na coleção a sério.
+Dialogue: 0,0:03:22.98,0:03:25.80,Italics,TANAKA,0000,0000,0000,,Eu e um menino, o Sato.
+Dialogue: 0,0:03:26.23,0:03:28.86,Italics,TANAKA,0000,0000,0000,,O Sato era um pé no saco.
+Dialogue: 0,0:03:28.86,0:03:32.12,Italics,TANAKA,0000,0000,0000,,Os pais dele viviam viajando a trabalho,\Nentão ele se sentia sozinho.
+Dialogue: 0,0:03:32.12,0:03:34.14,Italics,TANAKA,0000,0000,0000,,Ele também tinha mesada
+Dialogue: 0,0:03:34.14,0:03:36.55,Italics,TANAKA,0000,0000,0000,,e pedia pros pais trazerem\Nborrachas raras da região
+Dialogue: 0,0:03:36.55,0:03:38.36,Italics,TANAKA,0000,0000,0000,,como lembrancinha das viagens.
+Dialogue: 0,0:03:39.13,0:03:42.10,Italics,TANAKA,0000,0000,0000,,Acho que eu participei
+Dialogue: 0,0:03:42.10,0:03:45.20,Italics,TANAKA,0000,0000,0000,,dessa disputa inútil entre nós
+Dialogue: 0,0:03:45.79,0:03:49.80,Italics,TANAKA,0000,0000,0000,,porque eu já tinha uma borracha rara.
+Dialogue: 0,0:03:50.20,0:03:52.54,Italics,TANAKA,0000,0000,0000,,Era uma borracha em formato de dodô.
+Dialogue: 0,0:03:53.00,0:03:56.07,Italics,TANAKA,0000,0000,0000,,Meus parentes compraram no exterior.
+Dialogue: 0,0:03:56.42,0:03:58.35,Italics,TANAKA,0000,0000,0000,,Eu adorava pássaros.
+Dialogue: 0,0:03:58.35,0:04:01.80,Italics,TANAKA,0000,0000,0000,,Eu li minha enciclopédia de aves várias vezes.\NAs páginas até ficaram desgastadas.
+Dialogue: 0,0:04:02.47,0:04:05.11,Flashback,TANAKA,0000,0000,0000,,Você é um pássaro incomum, né?
+Dialogue: 0,0:04:06.43,0:04:13.19,sign_5909_65_Casa_de_animais,STORE SIGN,0000,0000,0000,,Casa de animais
+Dialogue: 0,0:04:07.59,0:04:11.98,Italics,TANAKA,0000,0000,0000,,Uma vez, eu implorei pro meu pai\Npara ter um pássaro de estimação.
+Dialogue: 0,0:04:11.98,0:04:14.87,Italics,TANAKA,0000,0000,0000,,Ele me levou para o pet shop\Nsó para dar uma olhada,
+Dialogue: 0,0:04:14.87,0:04:17.73,Italics,TANAKA,0000,0000,0000,,mas ele acabou me comprando\Num periquito cinza.
+Dialogue: 0,0:04:18.40,0:04:20.37,Italics,TANAKA,0000,0000,0000,,Ele se chamava Maru.
+Dialogue: 0,0:04:20.37,0:04:23.76,Italics,TANAKA,0000,0000,0000,,Depois, ele disse pra minha mãe que estava\Nme ajudando a cultivar senso de estética,
+Dialogue: 0,0:04:23.76,0:04:26.95,Italics,TANAKA,0000,0000,0000,,mas, pensando agora, deve ter\Nsido porque não era muito caro.
+Dialogue: 0,0:04:26.95,0:04:30.18,Italics,TANAKA,0000,0000,0000,,Eles compraram jogos de computador\Notaku caros pro meu irmão,
+Dialogue: 0,0:04:30.18,0:04:32.51,Italics,TANAKA,0000,0000,0000,,então o Maru deve ter sido\Nbarato em comparação.
+Dialogue: 0,0:04:33.78,0:04:36.18,Italics,TANAKA,0000,0000,0000,,Eu me dediquei ao máximo\Npara cuidar dele
+Dialogue: 0,0:04:36.18,0:04:38.99,Italics,TANAKA,0000,0000,0000,,e criamos uma relação de confiança.
+Dialogue: 0,0:04:40.00,0:04:41.55,Italics,TANAKA,0000,0000,0000,,Enfim, voltando à minha história.
+Dialogue: 0,0:04:41.55,0:04:44.11,Italics,TANAKA,0000,0000,0000,,A minha borracha de dodô era muito rara,
+Dialogue: 0,0:04:43.38,0:04:45.73,Flashback,STUDENT A,0000,0000,0000,,{\an8}Sato-kun, onde você conseguiu essas?
+Dialogue: 0,0:04:44.11,0:04:46.75,Italics,TANAKA,0000,0000,0000,,mas a quantidade que eu podia\Ncomprar com minha mesada
+Dialogue: 0,0:04:45.73,0:04:47.36,Flashback,STUDENT D,0000,0000,0000,,{\an8}Nossa.
+Dialogue: 0,0:04:46.75,0:04:48.93,Italics,TANAKA,0000,0000,0000,,não chegava aos pés da coleção do Sato.
+Dialogue: 0,0:04:47.36,0:04:48.93,Flashback,STUDENT E,0000,0000,0000,,{\an8}Posso ver?
+Dialogue: 0,0:04:48.93,0:04:49.92,Flashback,SATO,0000,0000,0000,,{\an8}Claro.
+Dialogue: 0,0:04:49.27,0:04:52.67,Italics,TANAKA,0000,0000,0000,,Algumas outras crianças o bajulavam,
+Dialogue: 0,0:04:52.67,0:04:55.42,Italics,TANAKA,0000,0000,0000,,o que era insuportável para mim.
+Dialogue: 0,0:04:55.83,0:05:00.02,Italics,TANAKA,0000,0000,0000,,Com toda a presunção, eu voltei a usar\Nborrachas normais depois de tentar um monte
+Dialogue: 0,0:05:00.02,0:05:02.36,Italics,TANAKA,0000,0000,0000,,ou fazia besteiras
+Dialogue: 0,0:05:02.36,0:05:05.95,Italics,TANAKA,0000,0000,0000,,como usar pão em vez de borracha, dizendo\Nque é o que fazem em faculdades de artes.
+Dialogue: 0,0:05:05.95,0:05:09.75,Italics,TANAKA,0000,0000,0000,,Mas técnicas de baixo nível que eu fingia\Nque eram de alto nível não funcionavam
+Dialogue: 0,0:05:09.75,0:05:12.83,Italics,TANAKA,0000,0000,0000,,e eu sentia a derrota todo dia.
+Dialogue: 0,0:05:13.75,0:05:15.18,Italics,TANAKA,0000,0000,0000,,Então, algo incrível aconteceu.
+Dialogue: 0,0:05:17.00,0:05:19.00,sign_7601_91_One_of_a_kind_Su,SIGN,0000,0000,0000,,Borracha Donraku original e exclusiva
+Dialogue: 0,0:05:19.00,0:05:21.24,sign_7649_92_One_of_a_kind_Su,,0000,0000,0000,,Borracha Donraku original e exclusiva
+Dialogue: 0,0:05:21.95,0:05:23.59,Default,TANAKA,0000,0000,0000,,Uma borracha do Donraku...
+Dialogue: 0,0:05:23.59,0:05:25.80,sign_7759_95_Leil__es___Brinq,SIGN,0000,0000,0000,,Leilões > Brinquedos > Jogos > Colecionáveis > Borrachas
+Dialogue: 0,0:05:23.59,0:05:25.80,sign_7759_95_One_of_a_kind_Su,SIGN,0000,0000,0000,,Exclusiva Super-rara
+Dialogue: 0,0:05:30.03,0:05:31.71,Italics,TANAKA,0000,0000,0000,,Achei que era meu momento.
+Dialogue: 0,0:05:31.71,0:05:34.11,Italics,TANAKA,0000,0000,0000,,Só tinha uma no mundo todo.
+Dialogue: 0,0:05:34.11,0:05:36.69,Italics,TANAKA,0000,0000,0000,,Era minha única chance\Nde mudar a situação.
+Dialogue: 0,0:05:36.69,0:05:37.81,Italics,TANAKA,0000,0000,0000,,Eu mostraria para ele.
+Dialogue: 0,0:05:38.52,0:05:41.07,Italics,TANAKA,0000,0000,0000,,Eu voltei para casa e,\Nquando meus pais dormiram,
+Dialogue: 0,0:05:41.07,0:05:43.94,Italics,TANAKA,0000,0000,0000,,eu peguei o cartão de crédito do meu pai
+Dialogue: 0,0:05:43.94,0:05:45.77,Italics,TANAKA,0000,0000,0000,,e anotei o número.
+Dialogue: 0,0:05:48.07,0:05:52.52,Italics,TANAKA,0000,0000,0000,,Eu precisava do cartão de crédito\Ncomo meio de pagamento.
+Dialogue: 0,0:05:52.52,0:05:54.63,Italics,TANAKA,0000,0000,0000,,Era um cartão normal, acessível a todos.
+Dialogue: 0,0:05:54.63,0:05:56.98,Italics,TANAKA,0000,0000,0000,,O tipo de cartão\Nque até estudantes conseguem.
+Dialogue: 0,0:05:56.98,0:06:01.23,Italics,TANAKA,0000,0000,0000,,Quando soube disso depois,\Nbateu um sentimentalismo,
+Dialogue: 0,0:06:01.23,0:06:03.55,Italics,TANAKA,0000,0000,0000,,mas essa é outra história.
+Dialogue: 0,0:06:03.55,0:06:08.07,Flashback,SATO,0000,0000,0000,,Meu pai comprou isso para mim\Nquando foi para Dubai.
+Dialogue: 0,0:06:07.15,0:06:08.68,Flashback_Italics,TANAKA,0000,0000,0000,,{\an8}Fique só vendo.
+Dialogue: 0,0:06:09.56,0:06:10.91,Italics,TANAKA,0000,0000,0000,,Naquele dia, depois das aulas,
+Dialogue: 0,0:06:10.91,0:06:13.09,Italics,TANAKA,0000,0000,0000,,enquanto meu irmão não\Ntinha voltado ainda,
+Dialogue: 0,0:06:12.55,0:06:14.18,sign_8933_113_Number_of_Bids,TOP LEFT SIGN,0000,0000,0000,,Número de lances
+Dialogue: 0,0:06:12.55,0:06:14.18,sign_8933_114_Bidding_History,TOP LEFT SIGN,0000,0000,0000,,Histórico de lances
+Dialogue: 0,0:06:12.55,0:06:14.18,sign_8933_115_Time_Remaining,TOP RIGHT SIGN,0000,0000,0000,,Tempo restante
+Dialogue: 0,0:06:12.55,0:06:14.18,sign_8933_116_3_Days____Detail,TOP RIGHT SIGN,0000,0000,0000,,3 dias {\c&Hcd971c&\fs16} Detalhes
+Dialogue: 0,0:06:12.55,0:06:14.18,sign_8933_117_Current_Price,TOP SIGN,0000,0000,0000,,Preço atual
+Dialogue: 0,0:06:13.09,0:06:15.29,Italics,TANAKA,0000,0000,0000,,eu me preparei e criei uma conta.
+Dialogue: 0,0:06:14.18,0:06:15.60,sign_8972_119_Place_Bid,ORANGE BUTTON SIGN,0000,0000,0000,,Fazer lance
+Dialogue: 0,0:06:14.18,0:06:15.60,sign_8972_120_Informa____es_do,SIGN,0000,0000,0000,,Informações do vendedor
+Dialogue: 0,0:06:14.18,0:06:15.60,sign_8972_121_Follow,SIGN,0000,0000,0000,,Seguir
+Dialogue: 0,0:06:14.18,0:06:15.60,sign_8972_122_N__o_aceitamos_r,SIGN,0000,0000,0000,,Não aceitamos reembolsos nem devoluções
+Dialogue: 0,0:06:14.18,0:06:15.60,sign_8972_123_Overall_Rating__,SIGN,0000,0000,0000,,Avaliações totais: {\c&Hcd971c&}24{\c} |\NAvaliações positivas: {\c&Hcd971c&}30
+Dialogue: 0,0:06:15.60,0:06:17.81,Flashback,TANAKA,0000,0000,0000,,3 mil ienes, é?
+Dialogue: 0,0:06:17.81,0:06:21.15,Italics,TANAKA,0000,0000,0000,,Não tinha nenhum lance\Nfaltando três dias pro fim.
+Dialogue: 0,0:06:21.77,0:06:24.09,Italics,TANAKA,0000,0000,0000,,Como eu não podia usar\No computador por muito tempo,
+Dialogue: 0,0:06:24.09,0:06:25.85,Italics,TANAKA,0000,0000,0000,,eu não tinha tempo\Npara formular estratégias.
+Dialogue: 0,0:06:25.85,0:06:27.56,Italics,TANAKA,0000,0000,0000,,Fiz meu lance na hora.
+Dialogue: 0,0:06:27.56,0:06:29.44,Italics,TANAKA,0000,0000,0000,,Eram 3 mil ienes.
+Dialogue: 0,0:06:29.44,0:06:32.45,Italics,TANAKA,0000,0000,0000,,Não era barato para mim,
+Dialogue: 0,0:06:32.45,0:06:35.33,Italics,TANAKA,0000,0000,0000,,mas era possível que o preço\Nsubisse ainda mais.
+Dialogue: 0,0:06:35.33,0:06:40.42,sign_9479_133_Hilarious__Joke_,TOP LEFT SIGN,0000,0000,0000,,Hilário! {\c&Ha27428&}Batalha de piadas!
+Dialogue: 0,0:06:35.33,0:06:40.42,sign_9479_134_Newbies_to_Watch,TOP RIGHT SIGN,0000,0000,0000,,Novatos promissores: {\c&H0e0e0e&}A morsa
+Dialogue: 0,0:06:35.33,0:06:40.42,sign_9479_135_Short_Skit__Conv,TOP RIGHT SIGN,0000,0000,0000,,Esquete curto "Mercadinho"
+Dialogue: 0,0:06:35.87,0:06:37.88,Flashback_Italics,CELEBRITY A,0000,0000,0000,,Que tipo de funcionário você é?\NJá chega.
+Dialogue: 0,0:06:37.88,0:06:41.11,Italics,TANAKA,0000,0000,0000,,Eu apaguei o histórico e qualquer indício\Nde que eu tinha usado o computador
+Dialogue: 0,0:06:38.15,0:06:40.42,Flashback_Italics,BOTH,0000,0000,0000,,{\an8}Muito obrigado.
+Dialogue: 0,0:06:41.11,0:06:43.87,Italics,TANAKA,0000,0000,0000,,e jantei como se nada\Ntivesse acontecido.
+Dialogue: 0,0:06:43.87,0:06:45.85,Flashback,TANAKA,0000,0000,0000,,Mãe, tem algo pra sobremesa?
+Dialogue: 0,0:06:45.85,0:06:51.15,Italics,TANAKA,0000,0000,0000,,Eu estava eufórico, como se eu\Ntivesse virado um grande hacker.
+Dialogue: 0,0:06:57.35,0:06:58.46,Italics,TANAKA,0000,0000,0000,,No dia seguinte...
+Dialogue: 0,0:07:02.46,0:07:03.92,Flashback,TANAKA,0000,0000,0000,,Subiu.
+Dialogue: 0,0:07:03.92,0:07:05.58,Italics,TANAKA,0000,0000,0000,,Eu tinha um rival.
+Dialogue: 0,0:07:05.58,0:07:07.78,Italics,TANAKA,0000,0000,0000,,Pensando agora, essa\Nporcaria mal valia a pena.
+Dialogue: 0,0:07:07.78,0:07:12.24,sign_10257_146_Bid,SIGN,0000,0000,0000,,Lance
+Dialogue: 0,0:07:07.78,0:07:12.24,sign_10257_147_Maximum_Bid,SIGN,0000,0000,0000,,Lance máximo
+Dialogue: 0,0:07:07.78,0:07:12.24,sign_10257_148_yen,SIGN,0000,0000,0000,,ienes
+Dialogue: 0,0:07:07.78,0:07:12.24,sign_10257_149_Place_Bid,SIGN,0000,0000,0000,,Fazer lance
+Dialogue: 0,0:07:08.53,0:07:12.24,Italics,TANAKA,0000,0000,0000,,Eu fiz um lance de 3.600 ienes.
+Dialogue: 0,0:07:12.78,0:07:15.15,Italics,TANAKA,0000,0000,0000,,Era o último dia de leilão...
+Dialogue: 0,0:07:15.74,0:07:16.72,Flashback,TANAKA,0000,0000,0000,,O quê?
+Dialogue: 0,0:07:18.01,0:07:19.48,Flashback,TANAKA,0000,0000,0000,,4 mil ienes?
+Dialogue: 0,0:07:19.91,0:07:22.08,Italics,TANAKA,0000,0000,0000,,Meu rival era teimoso.
+Dialogue: 0,0:07:22.08,0:07:25.41,Italics,TANAKA,0000,0000,0000,,Eu sentia a determinação dele de adquirir\Na borracha a qualquer custo.
+Dialogue: 0,0:07:25.41,0:07:28.30,Italics,TANAKA,0000,0000,0000,,Competir contra um oponente\Nde intenções e orçamento desconhecidos
+Dialogue: 0,0:07:28.30,0:07:30.82,Italics,TANAKA,0000,0000,0000,,é o que torna leilões\Non-line fascinantes.
+Dialogue: 0,0:07:31.18,0:07:33.78,Italics,TANAKA,0000,0000,0000,,No entanto, eu estava determinado.
+Dialogue: 0,0:07:33.78,0:07:36.65,Italics,TANAKA,0000,0000,0000,,Fiz um lance de 4.100 ienes.
+Dialogue: 0,0:07:42.23,0:07:43.52,sign_11083_160_Number_of_Bids,TOP LEFT SIGN,0000,0000,0000,,Número de lances
+Dialogue: 0,0:07:42.23,0:07:43.52,sign_11083_161_Bidding_History,TOP LEFT SIGN,0000,0000,0000,,Histórico de lances
+Dialogue: 0,0:07:42.23,0:07:43.52,sign_11083_162_Time_Remaining,TOP RIGHT SIGN,0000,0000,0000,,Tempo restante
+Dialogue: 0,0:07:42.23,0:07:43.52,sign_11083_163_12_Minutes__Deta,TOP RIGHT SIGN,0000,0000,0000,,12 minutos {\c&Hcd971c&\fs16} Detalhes
+Dialogue: 0,0:07:42.23,0:07:43.52,sign_11083_164_Current_Price,TOP SIGN,0000,0000,0000,,Preço atual
+Dialogue: 0,0:07:42.23,0:07:43.52,sign_11083_165_Free_Shipping,BOTTOM SIGN,0000,0000,0000,,Frete grátis
+Dialogue: 0,0:07:42.23,0:07:43.52,sign_11083_166_Place_Bid,ORANGE BUTTON SIGN,0000,0000,0000,,Fazer lance
+Dialogue: 0,0:07:43.52,0:07:44.83,Flashback,TANAKA,0000,0000,0000,,Droga!
+Dialogue: 0,0:07:47.67,0:07:49.15,Flashback,TANAKA,0000,0000,0000,,Não há tempo.
+Dialogue: 0,0:07:49.15,0:07:54.16,sign_11249_169_Bid,SIGN,0000,0000,0000,,Lance
+Dialogue: 0,0:07:49.15,0:07:54.16,sign_11249_170_Maximum_Bid,SIGN,0000,0000,0000,,Lance máximo
+Dialogue: 0,0:07:49.15,0:07:54.16,sign_11249_171_yen,SIGN,0000,0000,0000,,ienes
+Dialogue: 0,0:07:49.15,0:07:54.16,sign_11249_172_Place_Bid,SIGN,0000,0000,0000,,Fazer lance
+Dialogue: 0,0:07:56.12,0:07:56.99,sign_11416_173_Current_Price,TOP SIGN,0000,0000,0000,,Preço atual
+Dialogue: 0,0:07:56.12,0:07:56.99,sign_11416_174_Yen,TOP SIGN,0000,0000,0000,,ienes
+Dialogue: 0,0:07:56.12,0:07:56.99,sign_11416_174_Free_Shipping,BOTTOM SIGN,0000,0000,0000,,Frete grátis
+Dialogue: 0,0:07:56.12,0:07:56.99,sign_11416_175_Place_Bid,ORANGE BUTTON SIGN,0000,0000,0000,,Fazer lance
+Dialogue: 0,0:07:57.41,0:07:59.54,sign_11416_173_Current_Price,TOP SIGN,0000,0000,0000,,Preço atual
+Dialogue: 0,0:07:57.41,0:07:59.54,sign_11416_174_Yen,TOP SIGN,0000,0000,0000,,ienes
+Dialogue: 0,0:07:57.41,0:07:59.54,sign_11416_174_Free_Shipping,BOTTOM SIGN,0000,0000,0000,,Frete grátis
+Dialogue: 0,0:07:57.41,0:07:59.54,sign_11416_175_Place_Bid,ORANGE BUTTON SIGN,0000,0000,0000,,Fazer lance
+Dialogue: 0,0:07:59.54,0:08:02.07,Italics,TANAKA,0000,0000,0000,,Eu senti que tinha sido\Npreso injustamente
+Dialogue: 0,0:08:02.07,0:08:03.94,Italics,TANAKA,0000,0000,0000,,e estava tentando provar\Nminha própria inocência
+Dialogue: 0,0:08:03.94,0:08:06.82,Italics,TANAKA,0000,0000,0000,,enquanto a polícia apresentava\Nmais e mais evidências.
+Dialogue: 0,0:08:06.82,0:08:09.64,Italics,TANAKA,0000,0000,0000,,Eu lembro dessa sensação de desespero.
+Dialogue: 0,0:08:10.30,0:08:14.08,Italics,TANAKA,0000,0000,0000,,Não, é outro exagero e mentira.
+Dialogue: 0,0:08:14.49,0:08:17.36,Italics,TANAKA,0000,0000,0000,,Mas foi realmente um desespero\Ndifícil de descrever.
+Dialogue: 0,0:08:18.80,0:08:20.18,Italics,TANAKA,0000,0000,0000,,Foi quando tudo aconteceu sem parar.
+Dialogue: 0,0:08:20.18,0:08:21.53,Flashback,BROTHER,0000,0000,0000,,Cheguei.
+Dialogue: 0,0:08:23.19,0:08:25.56,sign_12065_190_Maximum_Bid,SIGN,0000,0000,0000,,Lance máximo
+Dialogue: 0,0:08:23.19,0:08:25.56,sign_12065_191_yen,SIGN,0000,0000,0000,,ienes
+Dialogue: 0,0:08:23.19,0:08:25.58,sign_12065_189_Bid,SIGN,0000,0000,0000,,Lance
+Dialogue: 0,0:08:25.56,0:08:26.81,sign_12122_191_Maximum_Bid,,0000,0000,0000,,Lance máximo
+Dialogue: 0,0:08:25.56,0:08:26.81,sign_12122_193_yen,,0000,0000,0000,,ienes
+Dialogue: 0,0:08:25.58,0:08:26.81,sign_12122_194_Place_Bid,SIGN,0000,0000,0000,,Fazer lance
+Dialogue: 0,0:08:26.81,0:08:30.32,Flashback,TANAKA,0000,0000,0000,,Ele vai superar meu\Nlance, eu sei que vai.
+Dialogue: 0,0:08:37.99,0:08:40.89,sign_12420_196_Bid,SIGN,0000,0000,0000,,Lance
+Dialogue: 0,0:08:37.99,0:08:40.89,sign_12420_197_Maximum_Bid,SIGN,0000,0000,0000,,Lance máximo
+Dialogue: 0,0:08:37.99,0:08:40.89,sign_12420_198_yen,SIGN,0000,0000,0000,,ienes
+Dialogue: 0,0:08:40.89,0:08:43.54,sign_12489_199_Maximum_Bid,SIGN,0000,0000,0000,,Lance máximo
+Dialogue: 0,0:08:40.89,0:08:43.54,sign_12489_200_yen,SIGN,0000,0000,0000,,ienes
+Dialogue: 0,0:08:40.89,0:08:43.54,sign_12489_199_Place_Bid,SIGN,0000,0000,0000,,Fazer lance
+Dialogue: 0,0:08:45.54,0:08:48.25,sign_12601_202_Place_Bid,SIGN,0000,0000,0000,,Fazer lance
+Dialogue: 0,0:08:48.95,0:08:49.84,Flashback,BROTHER,0000,0000,0000,,Ei!
+Dialogue: 0,0:08:51.05,0:08:54.55,Flashback,TANAKA,0000,0000,0000,,Eu queria procurar uma coisa.
+Dialogue: 0,0:08:54.94,0:08:57.00,Flashback,BROTHER,0000,0000,0000,,Já disse para não tocar\Nnas minhas coisas!
+Dialogue: 0,0:09:02.18,0:09:05.60,sign_13000_206_Congratulations_,SIGN,0000,0000,0000,,Parabéns! Você venceu o leilão.
+Dialogue: 0,0:09:02.18,0:09:05.60,sign_13000_206_Borracha_Donraku,SIGN,0000,0000,0000,,Borracha Donraku original e exclusiva
+Dialogue: 0,0:09:02.18,0:09:05.60,sign_13000_207_ID_do_leil__o__3,SIGN,0000,0000,0000,,ID do leilão: 32976128739\NHorário de encerramento: 22 de setembro 17h32
+Dialogue: 0,0:09:02.18,0:09:05.60,sign_13000_209_Number_of_Items_,SIGN [blurry; hard to read],0000,0000,0000,,Número de itens: 1\NPreço final 100.000 ienes
+Dialogue: 0,0:09:02.18,0:09:05.60,sign_13000_210_Begin_Transactio,BLUE BUTTON SIGN,0000,0000,0000,,Iniciar transação
+Dialogue: 0,0:09:02.18,0:09:05.60,sign_13000_210_Informa____es_do,SIGN,0000,0000,0000,,Informações do vendedor {\c&Hc69c32&}ditch-11{\c&H000000&}-san
+Dialogue: 0,0:09:02.18,0:09:06.21,Italics,TANAKA,0000,0000,0000,,Fui eu. Eu venci o leilão.
+Dialogue: 0,0:09:05.60,0:09:07.69,sign_13082_214_Begin_Transactio,BLUE BUTTON SIGN,0000,0000,0000,,Iniciar transação
+Dialogue: 0,0:09:05.60,0:09:07.69,sign_13082_213_Informa____es_do,SIGN,0000,0000,0000,,Informações do vendedor
+Dialogue: 0,0:09:06.21,0:09:07.69,Italics,TANAKA,0000,0000,0000,,Eu tinha ficado louco.
+Dialogue: 0,0:09:08.18,0:09:09.65,Flashback,STUDENT A,0000,0000,0000,,Vamos jogar futebol.
+Dialogue: 0,0:09:10.41,0:09:12.10,Flashback,STUDENT E,0000,0000,0000,,Vamos correr pro campo.
+Dialogue: 0,0:09:13.69,0:09:17.19,Italics,TANAKA,0000,0000,0000,,No Japão, um grupo de cidadãos\Norganizou uma revolução
+Dialogue: 0,0:09:17.19,0:09:20.33,Italics,TANAKA,0000,0000,0000,,pela insatisfação\Ncom a divisão econômica.
+Dialogue: 0,0:09:20.33,0:09:24.20,sign_13435_221_What_is_the_Hyak,SIGN,0000,0000,0000,,O que foi a Revolta dos fazendeiros\Ninquilinos Hyakushou Ikki? Período Edo {\c&H48c9be&}Fazendeiros inquilinos{\c} {\c&Hd7c554&}Senhores feudais
+Dialogue: 0,0:09:20.81,0:09:24.83,Italics,TANAKA,0000,0000,0000,,Na turma, o empenho do professor de evitar\Nque a diferença de riqueza aumentasse
+Dialogue: 0,0:09:24.83,0:09:29.14,Italics,TANAKA,0000,0000,0000,,teve um efeito colateral\Nperturbador em um aluno.
+Dialogue: 0,0:09:29.63,0:09:32.75,Italics,TANAKA,0000,0000,0000,,Não foi um movimento organizado,\Ncomo uma revolta ou revolução.
+Dialogue: 0,0:09:32.75,0:09:35.05,Italics,TANAKA,0000,0000,0000,,Foi um levante de um só aluno.
+Dialogue: 0,0:09:35.46,0:09:38.60,Italics,TANAKA,0000,0000,0000,,Eu chamei de a revolução do Tanaka.
+Dialogue: 0,0:09:39.34,0:09:42.10,Italics,TANAKA,0000,0000,0000,,Mais uma vez, eu voltei para casa\Ne mandei uma mensagem pro vendedor
+Dialogue: 0,0:09:42.10,0:09:44.53,Italics,TANAKA,0000,0000,0000,,com o endereço de envio para a borracha.
+Dialogue: 0,0:09:44.53,0:09:48.49,Italics,TANAKA,0000,0000,0000,,Agora era só esperar minha borracha\Noriginal do Donraku chegar.
+Dialogue: 0,0:09:49.27,0:09:58.66,sign_14129_230_Tanaka,BROWN SIGN,0000,0000,0000,,Tanaka
+Dialogue: 0,0:09:51.31,0:09:53.54,Italics,TANAKA,0000,0000,0000,,Uma semana se passou.
+Dialogue: 0,0:09:55.93,0:09:57.64,Italics,TANAKA,0000,0000,0000,,Um mês se passou.
+Dialogue: 0,0:09:58.66,0:10:01.32,Italics,TANAKA,0000,0000,0000,,Minha borracha original\Ndo Donraku não tinha chegado.
+Dialogue: 0,0:10:01.65,0:10:04.86,Italics,TANAKA,0000,0000,0000,,Eu lembrei do aviso de que não\Nhaveria reembolsos ou devoluções.
+Dialogue: 0,0:10:04.86,0:10:07.59,Italics,TANAKA,0000,0000,0000,,Eu percebi que podia ter\Nfeito várias coisas.
+Dialogue: 0,0:10:06.11,0:10:08.19,Flashback,HANDSOME,0000,0000,0000,,{\an8}Maki-chan, vamos comparar as respostas.
+Dialogue: 0,0:10:07.59,0:10:12.22,Italics,TANAKA,0000,0000,0000,,Mas, na época, me senti preso pelo aviso\Nde não haver reembolso nem devolução
+Dialogue: 0,0:10:08.19,0:10:11.38,Flashback,FIGHTER,0000,0000,0000,,{\an8}Você só quer copiar a lição dela.
+Dialogue: 0,0:10:09.41,0:10:11.38,Flashback,ARTIST,0000,0000,0000,,{\an8}Eu sempre deixo você ver minha lição de casa.
+Dialogue: 0,0:10:12.24,0:10:14.10,Italics,TANAKA,0000,0000,0000,,e me senti sem opções.
+Dialogue: 0,0:10:14.42,0:10:16.85,Italics,TANAKA,0000,0000,0000,,Além disso, eu aceitei\Nconcorrer pela borracha.
+Dialogue: 0,0:10:16.85,0:10:21.17,Italics,TANAKA,0000,0000,0000,,Eu não tinha direito de exigir indenização\Ne não tinha nada para devolver.
+Dialogue: 0,0:10:21.84,0:10:26.49,Italics,TANAKA,0000,0000,0000,,Sato e todos os colegas já tinham\Nperdido o interesse em borrachas.
+Dialogue: 0,0:10:26.49,0:10:30.44,Italics,TANAKA,0000,0000,0000,,Crianças de 9 anos crescem rápido.
+Dialogue: 0,0:10:33.56,0:10:36.12,Italics,TANAKA,0000,0000,0000,,E quando meu pai viu a fatura do cartão,
+Dialogue: 0,0:10:36.12,0:10:38.12,Italics,TANAKA,0000,0000,0000,,ele me deu uma baita surra.
+Dialogue: 0,0:10:38.74,0:10:42.73,Italics,TANAKA,0000,0000,0000,,E, enquanto eu levava a surra,\Nme perguntei de quem era a culpa.
+Dialogue: 0,0:10:43.12,0:10:45.87,Italics,TANAKA,0000,0000,0000,,Do professor. Dos colegas.
+Dialogue: 0,0:10:45.87,0:10:48.66,Italics,TANAKA,0000,0000,0000,,Do Sato. Do meu irmão. Do meu pai.
+Dialogue: 0,0:10:48.66,0:10:50.95,Italics,TANAKA,0000,0000,0000,,Do vendedor. Do outro interessado.
+Dialogue: 0,0:10:50.95,0:10:53.96,Italics,TANAKA,0000,0000,0000,,Minha. Do meu país. Da História.
+Dialogue: 0,0:10:53.96,0:10:55.72,Italics,TANAKA,0000,0000,0000,,Da civilização. Do governo.
+Dialogue: 0,0:10:55.72,0:10:56.75,Italics,TANAKA,0000,0000,0000,,De Deus.
+Dialogue: 0,0:10:57.09,0:11:00.41,Italics,TANAKA,0000,0000,0000,,Por mais que analisasse,\Nficava claro que era minha culpa.
+Dialogue: 0,0:11:00.41,0:11:02.42,Italics,TANAKA,0000,0000,0000,,E se alguém pode ser considerado\No perdedor da situação...
+Dialogue: 0,0:11:01.73,0:11:04.32,Flashback,MOM,0000,0000,0000,,{\an8}Querido!
+Dialogue: 0,0:11:03.72,0:11:05.22,Italics,TANAKA,0000,0000,0000,,...era eu.
+Dialogue: 0,0:11:06.59,0:11:09.75,Italics,TANAKA,0000,0000,0000,,Assim, a revolução do Tanaka acabou.
+Dialogue: 0,0:11:11.90,0:11:13.23,Italics,TANAKA,0000,0000,0000,,Voltando ao assunto anterior,
+Dialogue: 0,0:11:13.23,0:11:16.07,Italics,TANAKA,0000,0000,0000,,desde então, eu desprezo tudo\Nque não tenha uma forma real
+Dialogue: 0,0:11:16.07,0:11:17.64,Italics,TANAKA,0000,0000,0000,,e também competições.
+Dialogue: 0,0:11:17.64,0:11:18.52,Flashback,COWORKER F,0000,0000,0000,,Boa noite.
+Dialogue: 0,0:11:18.52,0:11:20.19,Flashback,TANAKA,0000,0000,0000,,Boa noite.
+Dialogue: 0,0:11:20.58,0:11:22.47,Italics,TANAKA,0000,0000,0000,,Jogos devem ser jogados sozinho.
+Dialogue: 0,0:11:22.47,0:11:25.29,Italics,TANAKA,0000,0000,0000,,Totalmente a sós, competindo\Ncontra o desenvolvedor.
+Dialogue: 0,0:11:23.49,0:11:25.91,sign_16388_267_Raise_slimes___,SIGN,0000,0000,0000,,Crie slimes...
+Dialogue: 0,0:11:23.49,0:11:25.91,sign_16388_265_Vamos_andar_de_b,SIGN,0000,0000,0000,,{\pos(300,122)}Vamos andar de bicicleta!
+Dialogue: 0,0:11:23.49,0:11:25.91,sign_16388_269_Purchase,SIGN,0000,0000,0000,,Comprar
+Dialogue: 0,0:11:23.49,0:11:25.91,sign_16388_270_Dragon_Slayer,SIGN,0000,0000,0000,,Dragon Slayer
+Dialogue: 0,0:11:23.49,0:11:25.91,sign_16388_271_Exhilarating_act,SIGN,0000,0000,0000,,Ação emocionante
+Dialogue: 0,0:11:23.49,0:11:25.91,sign_16388_272_Purchase,SIGN,0000,0000,0000,,Comprar
+Dialogue: 0,0:11:23.49,0:11:25.91,sign_16388_275_Purchase,SIGN,0000,0000,0000,,Comprar
+Dialogue: 0,0:11:28.44,0:11:31.30,Italics,TANAKA,0000,0000,0000,,Foi quando eu conheci um certo jogo.
+Dialogue: 0,0:11:29.41,0:11:33.58,sign_16530_279_Sengokusou,SIGN,0000,0000,0000,,Sengokusou
+Dialogue: 0,0:11:29.41,0:11:33.58,sign_16530_280_Live_with_genera,SIGN,0000,0000,0000,,Viva com os generais Comprar
+Dialogue: 0,0:11:29.41,0:11:33.58,sign_16530_281_Purchase,SIGN,0000,0000,0000,,Comprar
+Dialogue: 0,0:11:29.41,0:11:33.58,sign_16530_276_Zoological_Garde,SIGN,0000,0000,0000,,Zoological Garden
+Dialogue: 0,0:11:29.41,0:11:33.58,sign_16530_277_Gather_and_raise,SIGN,0000,0000,0000,,Colete e crie animais...
+Dialogue: 0,0:11:29.41,0:11:33.58,sign_16530_278_Purchase,SIGN,0000,0000,0000,,Comprar
+Dialogue: 0,0:11:31.30,0:11:34.48,Italics,TANAKA,0000,0000,0000,,"Zoological Garden", mais\Nconhecido como "Zooden".
+Dialogue: 0,0:11:33.63,0:11:35.84,sign_16631_285___Back,SIGN,0000,0000,0000,,← Voltar
+Dialogue: 0,0:11:33.63,0:11:35.84,sign_16631_286_Zoological_Garde,SIGN,0000,0000,0000,,Zoological Garden
+Dialogue: 0,0:11:33.63,0:11:35.84,sign_16631_287_Purchase,SIGN,0000,0000,0000,,Comprar
+Dialogue: 0,0:11:33.63,0:11:35.84,sign_16631_288_3245_Reviews,SIGN,0000,0000,0000,,3245 avaliações
+Dialogue: 0,0:11:34.48,0:11:37.22,Italics,TANAKA,0000,0000,0000,,Você cria animais únicos\Ne coloca em exposições.
+Dialogue: 0,0:11:37.22,0:11:41.49,Italics,TANAKA,0000,0000,0000,,Como diretor do zoológico, você\Ncompete numa classificação global.
+Dialogue: 0,0:11:41.96,0:11:45.17,Italics,TANAKA,0000,0000,0000,,Eu me diverti muito jogando\No máximo que pude de graça.
+Dialogue: 0,0:11:45.17,0:11:48.97,Italics,TANAKA,0000,0000,0000,,Acho que colecionar borrachas na\Ninfância foi o que influenciou isso.
+Dialogue: 0,0:11:48.97,0:11:52.23,Italics,TANAKA,0000,0000,0000,,Minha classificação era horrível, mas eu\Nficava feliz quando visitantes vinham,
+Dialogue: 0,0:11:52.23,0:11:57.44,Italics,TANAKA,0000,0000,0000,,e quando eu conseguia um animal raro,\Neu tinha um formigamento perigoso.
+Dialogue: 0,0:11:53.77,0:11:55.23,sign_17114_295_Super_Rare,SIGN,0000,0000,0000,,{\fad(550,1)}Super-raro
+Dialogue: 0,0:11:53.77,0:11:55.23,sign_17114_296_Snow_Leopard,SIGN,0000,0000,0000,,Leopardo-da-neve
+Dialogue: 0,0:11:58.27,0:12:00.75,Italics,TANAKA,0000,0000,0000,,Tinha um animal que eu\Nqueria a qualquer custo.
+Dialogue: 0,0:12:01.36,0:12:02.46,Italics,TANAKA,0000,0000,0000,,O dodô.
+Dialogue: 0,0:12:01.36,0:12:08.91,sign_17296_298_Dodo,SIGN,0000,0000,0000,,Dodô
+Dialogue: 0,0:12:01.36,0:12:08.91,sign_17296_299_A_now_extinct_sp,SIGN,0000,0000,0000,,Um animal agora extinto que vivia em Maurício,\Numa ilha próxima a Madagascar. Por conta das\Nasas subdesenvolvidas, eles não voavam.
+Dialogue: 0,0:12:01.36,0:12:08.91,sign_17296_300_Attractiveness,SIGN,0000,0000,0000,,Atratividade
+Dialogue: 0,0:12:01.36,0:12:08.91,sign_17296_301_Care_Difficulty,SIGN,0000,0000,0000,,Cuidado Difícil
+Dialogue: 0,0:12:01.36,0:12:08.91,sign_17296_302_Maintenance_Cost,SIGN LEFT,0000,0000,0000,,Custo de manutenção {\c&Hfbff61&}200 fpt\NEspaço de exibição{\c} 12 quadrados
+Dialogue: 0,0:12:01.36,0:12:08.91,sign_17296_303_Not_yet_acquired,SIGN BOTTOM LEFT,0000,0000,0000,,Ainda não adquirido!
+Dialogue: 0,0:12:02.79,0:12:05.30,Italics,TANAKA,0000,0000,0000,,No jogo, os animais tinham raridades,
+Dialogue: 0,0:12:05.30,0:12:07.67,Italics,TANAKA,0000,0000,0000,,como normal e rara.
+Dialogue: 0,0:12:07.67,0:12:09.45,Italics,TANAKA,0000,0000,0000,,Por ser uma espécie extinta,
+Dialogue: 0,0:12:09.45,0:12:11.21,Italics,TANAKA,0000,0000,0000,,o dodô era Super-raro Especial.
+Dialogue: 0,0:12:11.21,0:12:13.13,Italics,TANAKA,0000,0000,0000,,Dizem que tinha como conseguir de graça,
+Dialogue: 0,0:12:13.13,0:12:14.92,Italics,TANAKA,0000,0000,0000,,mas a chance era muito baixa.
+Dialogue: 0,0:12:15.49,0:12:19.90,Italics,TANAKA,0000,0000,0000,,Pensando agora, eu comecei a colecionar\Nborrachas porque tinha o dodô,
+Dialogue: 0,0:12:19.90,0:12:23.02,Italics,TANAKA,0000,0000,0000,,e jogava Zooden para conseguir o dodô.
+Dialogue: 0,0:12:23.02,0:12:24.58,Italics,TANAKA,0000,0000,0000,,Quando tracei esse paralelo,
+Dialogue: 0,0:12:24.58,0:12:29.34,Italics,TANAKA,0000,0000,0000,,senti que eu estava\Ndestinado a consegui-lo.
+Dialogue: 0,0:12:29.80,0:12:31.75,Italics,TANAKA,0000,0000,0000,,Talvez eu pudesse gastar\Num pouco de dinheiro.
+Dialogue: 0,0:12:31.75,0:12:33.43,Italics,TANAKA,0000,0000,0000,,Eu achei que seria o destino.
+Dialogue: 0,0:12:33.85,0:12:36.19,Italics,TANAKA,0000,0000,0000,,Eu coloquei 500 ienes na\Nconta e tentei a sorte.
+Dialogue: 0,0:12:33.85,0:12:37.65,sign_18075_317_Purchase_Hagenbe,SIGN TOP LEFT,0000,0000,0000,,{\fad(1,550)}Comprar hagenbecks
+Dialogue: 0,0:12:33.85,0:12:37.65,sign_18075_318_6_Hagenbecks,SIGN LEFT,0000,0000,0000,,{\fad(1,550)}6 hagenbecks
+Dialogue: 0,0:12:33.85,0:12:37.65,sign_18075_319_24_Hagenbecks,SIGN MIDDLE,0000,0000,0000,,{\fad(1,550)}24 hagenbecks
+Dialogue: 0,0:12:33.85,0:12:37.65,sign_18075_320_68_Hagenbecks,SIGN RIGHT,0000,0000,0000,,{\fad(1,550)}68 hagenbecks
+Dialogue: 0,0:12:39.98,0:12:42.07,sign_17114_296_Snow_Leopard,SIGN,0000,0000,0000,,Dugongo
+Dialogue: 0,0:12:39.99,0:12:43.55,Italics,TANAKA,0000,0000,0000,,Dugongo, uma espécie\Nameaçada. Super-raro.
+Dialogue: 0,0:12:40.84,0:12:42.07,sign_17114_295_Super_Rare,SIGN,0000,0000,0000,,{\fad(550,1)}Super-raro
+Dialogue: 0,0:12:43.55,0:12:46.39,Italics,TANAKA,0000,0000,0000,,Nesse ponto, acho que já tinha\Nperdido todo o controle.
+Dialogue: 0,0:12:46.39,0:12:48.15,Italics,TANAKA,0000,0000,0000,,Eu vi minha classificação.
+Dialogue: 0,0:12:48.15,0:12:50.19,Italics,TANAKA,0000,0000,0000,,Estava péssima, como sempre,
+Dialogue: 0,0:12:48.70,0:12:54.50,sign_18431_329_World_Ranking,SIGN,0000,0000,0000,,Placar mundial
+Dialogue: 0,0:12:50.19,0:12:52.72,Italics,TANAKA,0000,0000,0000,,mas, por curiosidade, fui ver\Nquem estava em primeiro lugar.
+Dialogue: 0,0:13:00.72,0:13:02.92,Flashback,TANAKA,0000,0000,0000,,ditch-11...
+Dialogue: 0,0:13:03.47,0:13:06.93,Italics,TANAKA,0000,0000,0000,,O nome que me roubou\N100.000 ienes na época.
+Dialogue: 0,0:13:06.93,0:13:11.23,Italics,TANAKA,0000,0000,0000,,Não, talvez tenha sido\Nalgum problema no frete.
+Dialogue: 0,0:13:11.23,0:13:15.27,Italics,TANAKA,0000,0000,0000,,Além disso, eu não tinha\Nnenhum ressentimento.
+Dialogue: 0,0:13:15.27,0:13:18.20,Italics,TANAKA,0000,0000,0000,,Não necessariamente\Nera a mesma pessoa.
+Dialogue: 0,0:13:18.68,0:13:20.73,Italics,TANAKA,0000,0000,0000,,Mas...
+Dialogue: 0,0:13:22.12,0:13:25.71,Italics,TANAKA,0000,0000,0000,,Não acreditei que tinha reencontrado essa\Nsequência de caracteres por coincidência.
+Dialogue: 0,0:13:25.71,0:13:28.20,Italics,TANAKA,0000,0000,0000,,Senti que era obra do destino.
+Dialogue: 0,0:13:28.20,0:13:31.49,Italics,TANAKA,0000,0000,0000,,Se eu fosse me vingar, seria\Ncomigo mesmo do passado.
+Dialogue: 0,0:13:31.49,0:13:34.94,Italics,TANAKA,0000,0000,0000,,E eu de hoje em dia\Nsalvaria eu quando criança.
+Dialogue: 0,0:13:36.81,0:13:39.20,Italics,TANAKA,0000,0000,0000,,Eu coloquei 100 mil ienes.
+Dialogue: 0,0:13:42.86,0:13:46.77,Italics,TANAKA,0000,0000,0000,,Se eu fosse me vingar, seria\Ncomigo mesmo do passado.
+Dialogue: 0,0:13:46.77,0:13:51.23,Italics,TANAKA,0000,0000,0000,,E eu de hoje em dia\Nsalvaria eu quando criança.
+Dialogue: 0,0:13:52.50,0:13:54.66,Italics,TANAKA,0000,0000,0000,,Foi há quatro anos!
+Dialogue: 0,0:13:54.66,0:13:57.12,Italics,TANAKA,0000,0000,0000,,Ainda jogo Zooden.
+Dialogue: 0,0:13:57.61,0:13:59.52,Italics,TANAKA,0000,0000,0000,,Graças à adição de novos sistemas
+Dialogue: 0,0:13:59.52,0:14:02.52,Italics,TANAKA,0000,0000,0000,,e eventos relacionados ao mundo\Nreal que mantêm o jogo atual,
+Dialogue: 0,0:14:02.52,0:14:08.15,Italics,TANAKA,0000,0000,0000,,o conteúdo ainda faz\Nsucesso no mundo todo.
+Dialogue: 0,0:14:06.88,0:14:08.15,Default - Top,COWORKER F,0000,0000,0000,,Bom dia.
+Dialogue: 0,0:14:10.68,0:14:14.16,Default - Top,BOSS B,0000,0000,0000,,Eu quero conquistar novos\Njogadores com um design novo.
+Dialogue: 0,0:14:11.11,0:14:14.16,Italics,TANAKA,0000,0000,0000,,No total, já gastei mais de\N5 milhões de ienes no jogo.
+Dialogue: 0,0:14:14.16,0:14:16.74,Default - Top,COWORKER I,0000,0000,0000,,Temos que conquistar\No interesse das pessoas.
+Dialogue: 0,0:14:14.63,0:14:16.74,Italics,TANAKA,0000,0000,0000,,Minha classificação ainda está\Nna casa dos três dígitos.
+Dialogue: 0,0:14:16.74,0:14:18.94,Default - Top,COWORKER D,0000,0000,0000,,Que tal fazer uma pesquisa de marketing?
+Dialogue: 0,0:14:17.12,0:14:18.93,Italics,TANAKA,0000,0000,0000,,Ainda não tenho um dodô.
+Dialogue: 0,0:14:18.93,0:14:19.70,Default,COWORKER H,0000,0000,0000,,Boa ideia.
+Dialogue: 0,0:14:19.70,0:14:21.14,Default,COWORKER G,0000,0000,0000,,Vamos usar o orçamento na pesquisa?
+Dialogue: 0,0:14:21.14,0:14:23.33,Default,COWORKER E,0000,0000,0000,,Não temos opção.
+Dialogue: 0,0:14:23.33,0:14:25.63,Default,BOSS A,0000,0000,0000,,Tanaka, está ouvindo?
+Dialogue: 0,0:14:26.87,0:14:28.00,Default,COWORKER B,0000,0000,0000,,Tanaka-kun?
+Dialogue: 0,0:14:28.51,0:14:29.48,Default,BOSS A,0000,0000,0000,,Tanaka!
+Dialogue: 0,0:14:29.48,0:14:30.14,Default,COWORKER A,0000,0000,0000,,Tanaka-kun!
+Dialogue: 0,0:14:30.14,0:14:30.88,Default,COWORKER D,0000,0000,0000,,Tanaka!
+Dialogue: 0,0:14:30.88,0:14:31.88,Default - Top,COWORKER E,0000,0000,0000,,Tanaka!
+Dialogue: 0,0:14:31.34,0:14:33.98,Italics,TEXT,0000,0000,0000,,O pássaro entrou em extinção\Nsem aprender a voar.
+Dialogue: 0,0:14:31.88,0:14:33.13,Default - Top,COWORKER H,0000,0000,0000,,Tanaka!
+Dialogue: 0,0:14:34.25,0:14:36.66,Italics,TANAKA,0000,0000,0000,,Talvez eu tivesse\Nme projetando no pássaro.
+Dialogue: 0,0:14:36.66,0:14:38.66,Italics,TANAKA,0000,0000,0000,,Ele era como eu.
+Dialogue: 0,0:14:38.66,0:14:43.44,Italics,TANAKA,0000,0000,0000,,Não, se eu morresse sem conquistar\Nnada, não seria nem raro.
+Dialogue: 0,0:14:43.44,0:14:44.98,Italics,TANAKA,0000,0000,0000,,Seria de raridade normal.
+Dialogue: 0,0:14:44.98,0:14:46.90,sign_21219_364_Venda_compra_de_,SIGN,0000,0000,0000,,Venda/compra de conta do Zoological Garden
+Dialogue: 0,0:14:44.98,0:14:46.90,sign_21219_372_Purchase,SIGN ORANGE BUTTON,0000,0000,0000,,Comprar
+Dialogue: 0,0:14:44.98,0:14:46.90,sign_21219_374_Account_with_num,SIGN,0000,0000,0000,,Conta com vários super-raros\N{\b0\c&H8B8B8B&\fs13}Vendedor: tarou \N\N\N{\c&H0000b1&\fs16}É de quem chegar primeiro!\N3 super-raros\N{\b0\c&H8B8B8B&\fs13}Vendedor: sakio\N\N\N{\c&H0000b1&\fs16}Pacote de 5 super-raros\N{\b0\c&H8B8B8B&\fs13}Vendedor: kinopi_22{\c}{\fs}
+Dialogue: 0,0:14:45.86,0:14:48.50,Italics,TANAKA,0000,0000,0000,,Como o jogo é popular no mundo todo,
+Dialogue: 0,0:14:46.94,0:14:49.95,sign_21266_378_Account_with_10_,SIGN,0000,0000,0000,,Conta com 10 animais de 3 estrelas\N{\b0\c&H8B8B8B&\fs13}Vendedor: yakitori45\N\N{\c&H0000b1&\fs16}Promoção!\NConta com várias espécies ameaçadas\N{\b0\c&H8B8B8B&\fs13}Vendedor: tarou\N\N{\c&H0000b1&\fs16}É de quem chegar primeiro!\N10 super-raros\N{\b0\c&H8B8B8B&\fs13}Vendedor: kondo11\N\N{\c&H0000b1&\fs16}Pacote de 20 raros exclusivos\N{\b0\c&H8B8B8B&\fs13}Vendedor: kitanotakeshifan{\c}{\fs}{\c}{\fs}
+Dialogue: 0,0:14:48.50,0:14:50.39,Italics,TANAKA,0000,0000,0000,,o mercado de contas é grande.
+Dialogue: 0,0:14:50.39,0:14:54.20,Italics,TANAKA,0000,0000,0000,,Há intermediários que compram\Ne vendem contas inteiras.
+Dialogue: 0,0:14:54.20,0:14:56.48,Italics,TANAKA,0000,0000,0000,,Minha conta em que gastei\N5 milhões de ienes,
+Dialogue: 0,0:14:56.49,0:14:58.23,Italics,TANAKA,0000,0000,0000,,com classificação nos três dígitos
+Dialogue: 0,0:14:58.23,0:15:00.53,Italics,TANAKA,0000,0000,0000,,venderia por algumas\Ncentenas de milhares.
+Dialogue: 0,0:15:00.53,0:15:03.11,Italics,TANAKA,0000,0000,0000,,Se a conta do ditch-11\Nfosse colocada à venda,
+Dialogue: 0,0:15:03.11,0:15:04.48,Italics,TANAKA,0000,0000,0000,,valeria muita grana.
+Dialogue: 0,0:15:06.21,0:15:10.69,Italics,TANAKA,0000,0000,0000,,Uma conta com dodô poderia ser minha\Npor algumas dezenas de milhares de ienes.
+Dialogue: 0,0:15:10.69,0:15:13.14,Italics,TANAKA,0000,0000,0000,,Mas a questão não é essa.
+Dialogue: 0,0:15:13.49,0:15:16.01,Italics,TANAKA,0000,0000,0000,,"Então qual é a questão",\Neu me pergunto.
+Dialogue: 0,0:15:17.51,0:15:19.66,Italics,TANAKA,0000,0000,0000,,A aventura? A libertação?
+Dialogue: 0,0:15:19.66,0:15:21.15,Italics,TANAKA,0000,0000,0000,,A liberação da opressão?
+Dialogue: 0,0:15:21.15,0:15:22.48,Italics,TANAKA,0000,0000,0000,,Reconhecimento social?
+Dialogue: 0,0:15:22.48,0:15:24.11,Italics,TANAKA,0000,0000,0000,,A vontade de me sentir\Nsuperior aos pares?
+Dialogue: 0,0:15:24.11,0:15:26.71,Italics,TANAKA,0000,0000,0000,,Eu tento usar palavras e frases\Ncomplicadas pelo tamanho.
+Dialogue: 0,0:15:27.67,0:15:30.54,Italics,TANAKA,0000,0000,0000,,Não, na verdade eu já sei.
+Dialogue: 0,0:15:30.54,0:15:34.23,Italics,TANAKA,0000,0000,0000,,Sei que essas palavras\Nbonitas não se aplicam.
+Dialogue: 0,0:15:34.23,0:15:36.83,Italics,TANAKA,0000,0000,0000,,É mais simples do que isso. Sim.
+Dialogue: 0,0:15:37.94,0:15:40.56,Italics,TANAKA,0000,0000,0000,,É só uma doença.
+Dialogue: 0,0:15:41.00,0:15:41.92,Default,TANAKA,0000,0000,0000,,Cale a boca!
+Dialogue: 0,0:15:41.92,0:15:43.96,Default,COWORKER C,0000,0000,0000,,Eu não disse nada...
+Dialogue: 0,0:15:44.46,0:15:46.35,Italics,TANAKA,0000,0000,0000,,Eu comecei a gastar dezenas\Nde milhares de ienes
+Dialogue: 0,0:15:46.35,0:15:47.94,Italics,TANAKA,0000,0000,0000,,num jogo como se não fosse nada de mais.
+Dialogue: 0,0:15:48.50,0:15:50.17,Italics,TANAKA,0000,0000,0000,,Eu estava totalmente entorpecido.
+Dialogue: 0,0:15:50.17,0:15:52.47,Italics,TANAKA,0000,0000,0000,,Tudo que fiz foi conseguir um dodô.
+Dialogue: 0,0:15:52.96,0:15:56.13,Italics,TANAKA,0000,0000,0000,,Para vingar o garoto que era\Nhá 16 anos e salvá-lo.
+Dialogue: 0,0:15:56.51,0:15:58.29,Italics,TANAKA,0000,0000,0000,,E me aproximar do ditch-11,
+Dialogue: 0,0:15:58.29,0:16:01.49,Italics,TANAKA,0000,0000,0000,,que continua reinando.
+Dialogue: 0,0:16:01.49,0:16:04.62,Italics,TANAKA,0000,0000,0000,,Espere só para ver, ditch-11.
+Dialogue: 0,0:16:12.70,0:16:14.11,sign_23322_410_Super_Rare,SIGN,0000,0000,0000,,{\fad(550,1)}Super-raro
+Dialogue: 0,0:16:12.70,0:16:14.11,sign_23322_411_Red_Panda,SIGN,0000,0000,0000,,Panda-vermelho
+Dialogue: 0,0:16:16.37,0:16:17.62,sign_23410_412_Super_Rare,SIGN,0000,0000,0000,,{\fad(550,1)}Super-raro
+Dialogue: 0,0:16:16.37,0:16:17.62,sign_23410_413_Okapi,SIGN,0000,0000,0000,,Ocapi
+Dialogue: 0,0:16:24.08,0:16:25.54,sign_23595_414_Ultra_Rare,SIGN,0000,0000,0000,,Ultrarraro
+Dialogue: 0,0:16:24.08,0:16:25.54,sign_23595_415_Dodo,SIGN,0000,0000,0000,,Dodô
+Dialogue: 0,0:16:30.92,0:16:34.30,sign_23759_416_Ultra_Rare,SIGN,0000,0000,0000,,Ultrarraro
+Dialogue: 0,0:16:30.92,0:16:34.30,sign_23759_417_Dodo,SIGN,0000,0000,0000,,Dodô
+Dialogue: 0,0:16:37.45,0:16:38.64,Default,TANAKA,0000,0000,0000,,Um dodô...
+Dialogue: 0,0:16:38.64,0:16:40.97,sign_23944_419_Ultra_Rare,SIGN,0000,0000,0000,,Ultrarraro
+Dialogue: 0,0:16:38.64,0:16:40.97,sign_23944_420_Dodo,SIGN,0000,0000,0000,,Dodô
+Dialogue: 0,0:16:39.30,0:16:41.65,Default,TANAKA,0000,0000,0000,,Esses quatro anos...
+Dialogue: 0,0:16:42.55,0:16:46.40,Default,TANAKA,0000,0000,0000,,Não, esses 16 anos...
+Dialogue: 0,0:16:46.70,0:16:48.94,Default,TANAKA,0000,0000,0000,,Finalmente valeram a pena!
+Dialogue: 0,0:16:48.94,0:16:54.07,Default,TANAKA,0000,0000,0000,,Isso, eu consegui! Um dodô!
+Dialogue: 0,0:17:18.68,0:17:21.46,Default,CLERK,0000,0000,0000,,Os dados de backup foram restaurados...
+Dialogue: 0,0:17:27.65,0:17:28.72,sign_25119_427_Snow_Leopard,SIGN,0000,0000,0000,,Leopardo-da-neve
+Dialogue: 0,0:17:27.65,0:17:28.72,sign_25119_428_Dugong,SIGN,0000,0000,0000,,Dugongo
+Dialogue: 0,0:17:27.65,0:17:28.72,sign_25119_429_Dodo,SIGN,0000,0000,0000,,Dodô
+Dialogue: 0,0:17:27.65,0:17:32.23,sign_25119_414_Lista_de_animais,SIGN,0000,0000,0000,,Lista de animais
+Dialogue: 0,0:17:29.31,0:17:32.23,sign_25159_430_Dodo,SIGN,0000,0000,0000,,Dodô
+Dialogue: 0,0:17:36.55,0:17:38.70,Italics,TANAKA,0000,0000,0000,,Minha cabeça ficou em branco.
+Dialogue: 0,0:17:38.70,0:17:40.85,Italics,TANAKA,0000,0000,0000,,Eu não conseguia pensar.
+Dialogue: 0,0:17:40.85,0:17:42.49,Italics,TANAKA,0000,0000,0000,,Não lembro de ter voltado para casa.
+Dialogue: 0,0:17:43.38,0:17:46.45,Italics,TANAKA,0000,0000,0000,,O sentimento de perda pelo dodô\Nque eu tinha conseguido
+Dialogue: 0,0:17:46.45,0:17:48.75,Italics,TANAKA,0000,0000,0000,,roubou toda minha força de vontade.
+Dialogue: 0,0:17:49.87,0:17:56.39,Italics,TANAKA,0000,0000,0000,,Mas o destino é cruel, e Deus\Ntomou algo mais de mim.
+Dialogue: 0,0:17:59.89,0:18:04.94,Italics,TANAKA,0000,0000,0000,,Foi quando a chama azul dentro\Nde mim finalmente ganhou vida.
+Dialogue: 0,0:18:05.75,0:18:09.19,Italics,TANAKA,0000,0000,0000,,Pelo menos, não foi Deus\Nque tomou meu dodô.
+Dialogue: 0,0:18:09.19,0:18:10.90,Italics,TANAKA,0000,0000,0000,,Foi aquele táxi.
+Dialogue: 0,0:18:11.78,0:18:15.03,Italics,TANAKA,0000,0000,0000,,E ninguém tomou o Maru de mim também.
+Dialogue: 0,0:18:15.03,0:18:17.54,Italics,TANAKA,0000,0000,0000,,A expectativa de vida de periquitos\Né de cerca de 15 anos.
+Dialogue: 0,0:18:17.54,0:18:19.35,Italics,TANAKA,0000,0000,0000,,Ele teve uma vida plena.
+Dialogue: 0,0:18:19.91,0:18:22.50,Italics,TANAKA,0000,0000,0000,,Só calhou de ser hoje.
+Dialogue: 0,0:18:22.50,0:18:26.50,Italics,TANAKA,0000,0000,0000,,Mas, às vezes, ao pensar\Nnessa coincidência infeliz,
+Dialogue: 0,0:18:26.50,0:18:29.61,Italics,TANAKA,0000,0000,0000,,eu me pergunto se Deus existe.
+Dialogue: 0,0:18:31.39,0:18:33.92,Italics,TANAKA,0000,0000,0000,,Nos jogos, normalmente\Nse consegue um item forte
+Dialogue: 0,0:18:33.92,0:18:36.13,Italics,TANAKA,0000,0000,0000,,justo quando você acha\Nque está num beco sem saída.
+Dialogue: 0,0:18:36.13,0:18:39.18,Italics,TANAKA,0000,0000,0000,,É muito conveniente, claro.
+Dialogue: 0,0:18:39.18,0:18:41.22,Italics,TANAKA,0000,0000,0000,,Afinal, foi projetado para ser assim.
+Dialogue: 0,0:18:41.87,0:18:44.45,Italics,TANAKA,0000,0000,0000,,Então alguém também deve\Nter feito este mundo.
+Dialogue: 0,0:18:44.45,0:18:47.48,Italics,TANAKA,0000,0000,0000,,Talvez o mundo tenha sido programado.
+Dialogue: 0,0:18:48.99,0:18:52.34,Default,TANAKA,0000,0000,0000,,Ei, Deus, é você.
+Dialogue: 0,0:18:53.96,0:18:56.40,Italics,TANAKA,0000,0000,0000,,Isso aconteceu três dias atrás.
+Dialogue: 0,0:18:59.84,0:19:06.75,Italics,TANAKA,0000,0000,0000,,Táxi... Matar... Maru... Dodô...
+Dialogue: 0,0:19:08.11,0:19:10.82,Default,SHIBAGAKI,0000,0000,0000,,Ei, calma, amigo.
+Dialogue: 0,0:19:11.54,0:19:13.09,Default,SHIBAGAKI,0000,0000,0000,,Peça desculpas ao esbarrar em alguém.
+Dialogue: 0,0:19:13.09,0:19:14.70,Default,SHIBAGAKI,0000,0000,0000,,É questão de educação.
+Dialogue: 0,0:19:15.65,0:19:17.01,Default,SHIBAGAKI,0000,0000,0000,,Não acha?
+Dialogue: 0,0:19:20.93,0:19:23.35,Default,SHIBAGAKI,0000,0000,0000,,Espera, calma, amigo.
+Dialogue: 0,0:19:23.35,0:19:26.39,Default,SHIBAGAKI,0000,0000,0000,,O que foi? Você está com cara\Nde quem matou alguém.
+Dialogue: 0,0:19:27.05,0:19:30.40,Default,SHIBAGAKI,0000,0000,0000,,Desculpe, estou curioso\Npor causa do meu trabalho.
+Dialogue: 0,0:19:30.40,0:19:34.01,Default,TANAKA,0000,0000,0000,,Ei! Por que você veio\Npara cá do interior?
+Dialogue: 0,0:19:34.01,0:19:35.16,Default,SHIBAGAKI,0000,0000,0000,,Do interior?
+Dialogue: 0,0:19:35.16,0:19:37.86,Default,SHIBAGAKI,0000,0000,0000,,Bem, comparado a Tóquio, é interior.
+Dialogue: 0,0:19:38.62,0:19:40.49,Default,TANAKA,0000,0000,0000,,Está correndo atrás de algum sonho?
+Dialogue: 0,0:19:40.49,0:19:45.00,Default,SHIBAGAKI,0000,0000,0000,,Isso mesmo. Vim para Tóquio\Npor status, glória e grana.
+Dialogue: 0,0:19:45.72,0:19:48.24,Default,TANAKA,0000,0000,0000,,Mas você não tem nada disso.
+Dialogue: 0,0:19:48.24,0:19:50.75,Default,SHIBAGAKI,0000,0000,0000,,Bem, não se construiu Roma em um dia.
+Dialogue: 0,0:19:50.75,0:19:52.58,Default,TANAKA,0000,0000,0000,,O que você acha que tem\Nque fazer para conseguir?
+Dialogue: 0,0:19:52.87,0:19:55.32,Default,SHIBAGAKI,0000,0000,0000,,Se eu soubesse, a vida seria fácil.
+Dialogue: 0,0:19:55.32,0:19:57.63,Default,SHIBAGAKI,0000,0000,0000,,Meu parceiro disse que é\Nquestão de sorte.
+Dialogue: 0,0:19:57.63,0:19:59.01,Default,TANAKA,0000,0000,0000,,Parceiro?
+Dialogue: 0,0:19:59.01,0:20:01.28,Default,SHIBAGAKI,0000,0000,0000,,Parceiro de negócios.
+Dialogue: 0,0:20:01.89,0:20:04.68,Default,TANAKA,0000,0000,0000,,Sorte? É, tem razão.
+Dialogue: 0,0:20:04.68,0:20:07.05,Default,SHIBAGAKI,0000,0000,0000,,Talvez tenha um pouco de sorte,
+Dialogue: 0,0:20:07.05,0:20:10.08,Default,SHIBAGAKI,0000,0000,0000,,mas não quero abrir mão\Ndas coisas que posso controlar.
+Dialogue: 0,0:20:10.08,0:20:12.39,Default,SHIBAGAKI,0000,0000,0000,,Tem muitos fatores além de sorte
+Dialogue: 0,0:20:12.39,0:20:14.52,Default,SHIBAGAKI,0000,0000,0000,,ao tentar descobrir como sobreviver.
+Dialogue: 0,0:20:14.52,0:20:17.13,Default,TANAKA,0000,0000,0000,,Então você está dizendo\Nque o dodô não teve sorte.
+Dialogue: 0,0:20:17.13,0:20:17.94,Default,SHIBAGAKI,0000,0000,0000,,O quê?
+Dialogue: 0,0:20:22.60,0:20:23.87,Default,SHIBAGAKI,0000,0000,0000,,O que isso significa?
+Dialogue: 0,0:20:23.87,0:20:26.05,Default,SHIBAGAKI,0000,0000,0000,,Achei que você e eu estivéssemos\Nseguindo o mesmo caminho.
+Dialogue: 0,0:20:26.05,0:20:28.22,Default,SHIBAGAKI,0000,0000,0000,,Está dizendo que você estava\Nna estrada e no metrô?
+Dialogue: 0,0:20:31.28,0:20:34.35,Italics,TANAKA,0000,0000,0000,,Sinto que eu sempre estive\Nprocurando alguma coisa.
+Dialogue: 0,0:20:34.35,0:20:38.79,Italics,TANAKA,0000,0000,0000,,Ao mesmo tempo, sempre\Nfaltou algo na minha vida.
+Dialogue: 0,0:20:39.23,0:20:44.50,Italics,TANAKA,0000,0000,0000,,E obter alguma coisa desesperadamente\Nsó garante um momento de prazer.
+Dialogue: 0,0:20:45.47,0:20:47.72,Italics,TANAKA,0000,0000,0000,,Mais do que sorte,
+Dialogue: 0,0:20:48.23,0:20:52.04,Italics,TANAKA,0000,0000,0000,,é só um momento de prazer provocado\Npela liberação de dopamina.
+Dialogue: 0,0:20:53.83,0:20:55.10,Italics,TANAKA,0000,0000,0000,,E?
+Dialogue: 0,0:20:55.10,0:20:59.58,Italics,TANAKA,0000,0000,0000,,A única palavra que sempre surge\Ndepois que consigo algo que queria.
+Dialogue: 0,0:21:00.07,0:21:01.21,Italics,TANAKA,0000,0000,0000,,E?
+Dialogue: 0,0:21:01.21,0:21:05.62,Italics,TANAKA,0000,0000,0000,,"E daí?" Uma parte\Nde mim se pergunta isso.
+Dialogue: 0,0:21:05.62,0:21:08.44,Italics,TANAKA,0000,0000,0000,,Sempre esteve presente,\Nde mãos dadas com o niilismo.
+Dialogue: 0,0:21:08.44,0:21:11.37,Italics,TANAKA,0000,0000,0000,,Um prazer sem forma.
+Dialogue: 0,0:21:11.94,0:21:15.62,Italics,TANAKA,0000,0000,0000,,Mas, agora, estou sentindo estar vivo.
+Dialogue: 0,0:21:15.62,0:21:19.82,Italics,TANAKA,0000,0000,0000,,Porque, quando perdi o dodô,\Neu descobri o que queria.
+Dialogue: 0,0:21:20.22,0:21:21.64,Italics,TANAKA,0000,0000,0000,,Ao contrário de antes,
+Dialogue: 0,0:21:21.64,0:21:24.28,Italics,TANAKA,0000,0000,0000,,não foi só uma adição à coleção\Nque acabou quando foi conquistada.
+Dialogue: 0,0:21:24.79,0:21:27.66,Italics,TANAKA,0000,0000,0000,,O que eu faço agora?
+Dialogue: 0,0:21:27.66,0:21:30.26,Italics,TANAKA,0000,0000,0000,,Fico animado só de pensar.
+Dialogue: 0,0:21:30.26,0:21:32.40,Italics,TANAKA,0000,0000,0000,,É um item raro com potencial\Nde desenvolvimento.
+Dialogue: 0,0:21:33.21,0:21:36.28,Italics,TANAKA,0000,0000,0000,,Acredito que todo mundo\Ntem o impulso de atacar.
+Dialogue: 0,0:21:36.28,0:21:39.48,Italics,TANAKA,0000,0000,0000,,Um impulso de atacar que é\Nmais empolgante e justificado
+Dialogue: 0,0:21:39.48,0:21:42.55,Italics,TANAKA,0000,0000,0000,,quanto menor for a sua culpa.
+Dialogue: 0,0:21:43.09,0:21:45.84,Italics,TANAKA,0000,0000,0000,,Estou caminhando há\Ntrês dias desde então.
+Dialogue: 0,0:21:46.26,0:21:50.03,Italics,TANAKA,0000,0000,0000,,Estou acostumado a correr atrás\Nde chances incompreensíveis.
+Dialogue: 0,0:21:50.62,0:21:52.24,Italics,TANAKA,0000,0000,0000,,Mas, desta vez, é diferente.
+Dialogue: 0,0:21:52.24,0:21:54.74,Italics,TANAKA,0000,0000,0000,,Senti um tipo de premonição.
+Dialogue: 0,0:21:54.74,0:21:57.61,Italics,TANAKA,0000,0000,0000,,Mais cedo, eu disse que podia conquistar\Nse abrisse mão de minhas fixações,
+Dialogue: 0,0:21:57.61,0:22:00.75,Italics,TANAKA,0000,0000,0000,,mas tem outra forma\Nde conseguir o que quero.
+Dialogue: 0,0:22:01.53,0:22:05.26,Italics,TANAKA,0000,0000,0000,,E é me agarrar com força
+Dialogue: 0,0:22:05.26,0:22:08.40,Italics,TANAKA,0000,0000,0000,,a uma fixação poderosa que supera tudo.
+Dialogue: 0,0:22:12.57,0:22:14.90,Default,SHIBAGAKI,0000,0000,0000,,Ei, o que você está tentando fazer?
+Dialogue: 0,0:23:34.97,0:23:50.61,Next_Time,TEXT,0000,0000,0000,,Próximo episódio: {\fs22\b1}Não me chame de idol{\fs\b0\b0}
+Dialogue: 0,0:23:35.61,0:23:37.78,Default - Top,SHIBAGAKI,0000,0000,0000,,{\i1}Quando alguém diz que algo\Né repleto de erros,{\i0}
+Dialogue: 0,0:23:37.78,0:23:40.02,Default - Top,SHIBAGAKI,0000,0000,0000,,{\i1}nunca vi alguém indicando todos eles.{\i0}
+Dialogue: 0,0:23:40.02,0:23:42.85,Default - Top,SHIBAGAKI,0000,0000,0000,,{\i1}Já que é assim, por que você não\Nexpressa cada um deles, hein?{\i0}
+Dialogue: 0,0:23:42.85,0:23:44.33,Default - Top,SHIBAGAKI,0000,0000,0000,,{\i1}Deve ser idiota demais para fazer isso.{\i0}
+Dialogue: 0,0:23:44.33,0:23:45.70,Default - Top,ODOKAWA,0000,0000,0000,,{\i1}Você está muito bêbado.{\i0}
+Dialogue: 0,0:23:45.70,0:23:47.46,Default - Top,SHIBAGAKI,0000,0000,0000,,{\i1}Cara, acho que vou ganhar na loteria.{\i0}
+Dialogue: 0,0:23:47.46,0:23:49.52,Default - Top,ODOKAWA,0000,0000,0000,,{\i1}Seu trabalho é como uma loteria.{\i0}

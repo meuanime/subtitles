@@ -1,0 +1,385 @@
+﻿[Script Info]
+Title: [Erai-raws] Português (Brasil)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: Italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback_Italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Ep_Title,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,1,0020,0020,0045,1
+Style: sign_3115_29_Animal_Encyclope,Arial,25,&H00655AA6,&H000000FF,&H00D0D2CF,&H00000000,-1,0,0,0,100,100,0,32,1,3,0,8,0066,0292,0060,1
+Style: sign_5335_51_National_Traffic,Arial,17,&H00478AA2,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-3,1,3,0,8,0065,0296,0068,1
+Style: sign_5544_54_Losers__Bracket,Times New Roman,22,&H000B3F47,&H000000FF,&H00ECE3E1,&H00000000,-1,0,0,0,100,100,0,-5,1,2,1,2,0298,0175,0261,0
+Style: sign_5755_57_N_1_Grand_Prix__,Arial,14,&H00001AB3,&H000000FF,&H00797352,&H00000000,-1,0,0,0,100,100,0,5,1,3,0,8,0098,0382,0064,1
+Style: sign_6086_64_Live__Private_Ta,Arial,14,&H000000CE,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,9,0010,0030,0015,1
+Style: sign_8750_92_My_Dream_For_the,Times New Roman,22,&H00696C6A,&H000000FF,&H00F7FAF8,&H00000000,-1,0,0,0,100,100,0,14,1,3,0,8,0131,0231,0077,1
+Style: sign_8750_93_Super_Rich,Arial,30,&H00696C6A,&H000000FF,&H00F7FAF8,&H00000000,-1,0,0,0,100,100,0,14,1,3,0,8,0181,0281,0077,1
+Style: sign_10658_107_Ksawa___Ksawa_2d,Arial,18,&H002C2C2C,&H000000FF,&H00F7FAF8,&H00000000,-1,0,0,0,100,100,0,11,1,3,0,7,0221,0249,0084,1
+Style: sign_10730_108_Ksawa,Arial,24,&H002C2C2C,&H000000FF,&H00F7FAF8,&H00000000,-1,0,0,0,100,100,0,4,1,3,0,7,0180,0375,0061,1
+Style: sign_10658_109_I_was_shocked_to,Arial,17,&H004E4E4E,&H000000FF,&H00F7FAF8,&H00000000,-1,0,0,0,100,100,0,4,1,3,0,7,0202,0000,0244,1
+Style: sign_11113_111_Road_Closed,Arial,16,&H002C2C2C,&H000000FF,&H009D8786,&H00000000,0,0,0,0,100,100,0,-1,1,3,0,7,0329,0208,0140,1
+Style: sign_22554_196_Suspects_Arreste,Arial,16,&H003E4033,&H000000FF,&H00FDFEEF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,1,0142,0102,0080,0
+Style: sign_22639_197_Arrested__Rui_Ni,Arial,16,&H003E4033,&H000000FF,&H00FDFEEF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,1,0110,0310,0110,0
+Style: sign_22639_198_Suspected_of_dum,Arial,20,&H00FFFFFF,&H000000FF,&H00505138,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,1,0120,0048,0028,0
+Style: sign_22788_202_Arrested__Employ,Arial,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,1,0017,0432,0072,0
+Style: sign_22788_204_Arrested__Unempl,Arial,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,1,0443,0000,0070,0
+Style: sign_22788_203_Arrested__Unempl,Arial,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,1,0228,0215,0074,0
+Style: sign_26880_258_Comedy_Duos_Comp,Arial,14,&H0043C3A7,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,12,1,3,0,1,0168,0210,0263,0
+Style: sign_26880_259_Who_Will_Fall_,Arial,12,&H00C5E4DD,&H000000FF,&H004922AE,&H00000000,-1,0,0,0,100,100,0,12,1,3,0,1,0172,0376,0211,0
+Style: sign_26880_260_Bonnou_Illuminat,Arial,12,&H00C5E4DD,&H000000FF,&H004922AE,&H00000000,-1,0,0,0,100,100,0,11,1,3,0,1,0207,0303,0140,0
+Style: sign_26960_261_Yamabiko,Times New Roman,14,&H00161616,&H000000FF,&H00EBEDE3,&H00000000,-1,0,0,0,100,100,0,-2,1,3,0,1,0079,0491,0322,0
+Style: sign_27032_262_Reserved_for_the,Times New Roman,20,&H00000000,&H000000FF,&H00EFEFEE,&H00000000,-1,0,0,0,100,100,0,-2,1,3,0,1,0188,0252,0288,0
+Style: sign_32271_317_Aozora_Comedy_Fe,Arial,18,&H00D9A90F,&H000000FF,&H00EBEBEB,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0228,0178,0047,1
+Style: sign_32471_322_Uninstall__Zoode,Arial,18,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,7,1,3,0,8,0262,0104,0067,1
+Style: sign_32471_323_Cancel,Arial,18,&H00A7A43D,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,7,1,3,0,8,0344,0234,0199,1
+Style: sign_32471_324_Uninstall,Arial,18,&H008067E0,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,7,1,3,0,8,0425,0137,0187,1
+Style: sign_32666_327_Must_read_,Arial,18,&H00E6E6E6,&H000000FF,&H00A560E6,&H00000000,-1,0,0,0,100,100,0,-9,1,3,0,8,0015,0522,0104,1
+Style: sign_32666_328_Foolproof_Method,Arial,18,&H003B7FEB,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,-9,1,3,0,8,0000,0298,0251,1
+Style: sign_2115_19_Quem_dera_ser_um,Comic Sans MS,28,&H00293342,&H000000FF,&H00879FBB,&H00000000,0,0,0,0,100,100,0,11,1,3,0,8,0117,0072,0096,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.56,0:00:04.98,Ep_Title,EPTITLE,0000,0000,0000,,{\fad(550,1)}Para onde?
+Dialogue: 0,0:00:27.18,0:00:29.69,Flashback_Italics,ODOKAWA,0000,0000,0000,,"Adoro animais.
+Dialogue: 0,0:00:29.69,0:00:33.01,Flashback_Italics,ODOKAWA,0000,0000,0000,,Quando crescer, quero\Ntrabalhar no zoológico.
+Dialogue: 0,0:00:33.37,0:00:36.38,Flashback_Italics,ODOKAWA,0000,0000,0000,,Afinal, não gosto de humanos.
+Dialogue: 0,0:00:36.87,0:00:40.60,Flashback_Italics,ODOKAWA,0000,0000,0000,,Eu fico ansioso perto de humanos.
+Dialogue: 0,0:00:41.21,0:00:43.78,Flashback_Italics,ODOKAWA,0000,0000,0000,,Dizem que tem que olhar\Nas pessoas nos olhos ao falar com elas,
+Dialogue: 0,0:00:43.78,0:00:45.85,Flashback_Italics,ODOKAWA,0000,0000,0000,,mas me dá medo demais.
+Dialogue: 0,0:00:46.64,0:00:50.27,Flashback_Italics,ODOKAWA,0000,0000,0000,,Eu também odeio ir\Nem festivais cheios de gente.
+Dialogue: 0,0:00:50.27,0:00:55.88,Flashback_Italics,ODOKAWA,0000,0000,0000,,Meus colegas me provocam,\Nme batem e riem da minha cara.
+Dialogue: 0,0:00:56.40,0:01:00.83,Flashback_Italics,ODOKAWA,0000,0000,0000,,Não sou bom na escola nem em esportes,\Nentão os professores não me ajudam.
+Dialogue: 0,0:01:01.19,0:01:04.15,Flashback_Italics,ODOKAWA,0000,0000,0000,,Até os professores me provocam.
+Dialogue: 0,0:01:05.08,0:01:08.79,Flashback_Italics,ODOKAWA,0000,0000,0000,,Quando isso acontece,\Nnão consigo segurar o choro.
+Dialogue: 0,0:01:08.79,0:01:12.89,Flashback_Italics,ODOKAWA,0000,0000,0000,,Quanto mais eu tento segurar,\Nmais fortes as lágrimas vêm.
+Dialogue: 0,0:01:13.34,0:01:17.53,Flashback_Italics,ODOKAWA,0000,0000,0000,,Dá raiva e vergonha.\NEu queria poder sumir.
+Dialogue: 0,0:01:18.14,0:01:22.45,Flashback_Italics,ODOKAWA,0000,0000,0000,,Quando choro, meus colegas riem de mim.
+Dialogue: 0,0:01:22.86,0:01:27.34,Flashback_Italics,ODOKAWA,0000,0000,0000,,Dizem que pareço uma morsa\Ne riem de mim."
+Dialogue: 0,0:01:28.19,0:01:32.05,Flashback_Italics,ODOKAWA,0000,0000,0000,,"Quem dera ser uma morsa de verdade."
+Dialogue: 0,0:01:28.19,0:01:33.48,sign_2115_19_Quem_dera_ser_um,SIGN,0000,0000,0000,,Quem dera ser uma morsa de verdade.
+Dialogue: 0,0:01:34.19,0:01:36.05,Flashback_Italics,ODOKAWA,0000,0000,0000,,"Minha mãe também.
+Dialogue: 0,0:01:36.05,0:01:40.49,Flashback_Italics,ODOKAWA,0000,0000,0000,,Como o pai nunca vem pra casa,\Nela sempre fica irritada e desconta em mim.
+Dialogue: 0,0:01:41.11,0:01:45.87,Flashback_Italics,ODOKAWA,0000,0000,0000,,Todo dia ela come um monte,\Nbate em mim e me dá bronca.
+Dialogue: 0,0:01:46.55,0:01:50.19,Flashback_Italics,ODOKAWA,0000,0000,0000,,Eu choro na escola,\Nmas não choro em casa.
+Dialogue: 0,0:01:50.19,0:01:53.00,Flashback_Italics,ODOKAWA,0000,0000,0000,,Afinal, minha mãe já está chorando.
+Dialogue: 0,0:01:53.72,0:01:58.47,Flashback_Italics,ODOKAWA,0000,0000,0000,,Meu pai nunca vem para casa\Nporque tem uma amante.
+Dialogue: 0,0:01:58.47,0:02:02.80,Flashback_Italics,ODOKAWA,0000,0000,0000,,As poucas vezes que ele volta\Npara casa, ele enche a cara.
+Dialogue: 0,0:02:03.43,0:02:05.43,Flashback_Italics,ODOKAWA,0000,0000,0000,,Meu pai é assim,
+Dialogue: 0,0:02:05.43,0:02:09.18,Flashback_Italics,ODOKAWA,0000,0000,0000,,mas ele me comprou uma enciclopédia\Nde animais, então até gosto dele.
+Dialogue: 0,0:02:09.90,0:02:13.77,sign_3115_29_Animal_Encyclope,SIGN,0000,0000,0000,,Enciclopédia de animais
+Dialogue: 0,0:02:10.41,0:02:13.47,Flashback_Italics,ODOKAWA,0000,0000,0000,,Eu nunca me canso de ler\Na enciclopédia de animais.
+Dialogue: 0,0:02:14.10,0:02:16.82,Flashback_Italics,ODOKAWA,0000,0000,0000,,Eu leio um monte sobre animais\Nna biblioteca da escola,
+Dialogue: 0,0:02:16.82,0:02:19.98,Flashback_Italics,ODOKAWA,0000,0000,0000,,mas a enciclopédia que ele\Nme deu é minha preferida."
+Dialogue: 0,0:02:20.88,0:02:24.66,Flashback_Italics,ODOKAWA,0000,0000,0000,,"Além de animais,\Neu também gosto de carros.
+Dialogue: 0,0:02:24.66,0:02:28.61,Flashback_Italics,ODOKAWA,0000,0000,0000,,Quando eu crescer, acho que trabalhar\Ndirigindo também seria legal.
+Dialogue: 0,0:02:28.99,0:02:33.82,Flashback_Italics,ODOKAWA,0000,0000,0000,,Bem de vez em quando, meu pai\Nme leva para passear de carro.
+Dialogue: 0,0:02:34.47,0:02:37.19,Flashback_Italics,ODOKAWA,0000,0000,0000,,Eu gostava quando íamos nós três,
+Dialogue: 0,0:02:37.19,0:02:39.65,Flashback_Italics,ODOKAWA,0000,0000,0000,,mas agora minha mãe não vai com a gente.
+Dialogue: 0,0:02:40.18,0:02:46.10,Flashback_Italics,ODOKAWA,0000,0000,0000,,Acho que meu pai não leva a mãe\Nporque vai se encontrar com a amante.
+Dialogue: 0,0:02:46.77,0:02:52.07,Flashback_Italics,ODOKAWA,0000,0000,0000,,Ele diz: 'Hiroshi, não conte pra sua\Nmãe', e me deixa no zoológico.
+Dialogue: 0,0:02:52.55,0:02:57.18,Flashback_Italics,ODOKAWA,0000,0000,0000,,Me dá pena da mãe, mas eu adoro\Npassar o tempo no zoológico.
+Dialogue: 0,0:02:58.07,0:02:59.95,Flashback_Italics,ODOKAWA,0000,0000,0000,,Eu não consigo olhar pessoas nos olhos,
+Dialogue: 0,0:02:59.95,0:03:02.41,Flashback_Italics,ODOKAWA,0000,0000,0000,,mas posso olhar os olhos\Ndos animais para sempre.
+Dialogue: 0,0:03:03.01,0:03:08.29,Flashback_Italics,ODOKAWA,0000,0000,0000,,Eu não consigo falar com pessoas,\Nmas consigo falar com animais.
+Dialogue: 0,0:03:08.73,0:03:10.37,Flashback_Italics,ODOKAWA,0000,0000,0000,,Vi uma morsa.
+Dialogue: 0,0:03:11.23,0:03:16.96,Flashback_Italics,ODOKAWA,0000,0000,0000,,Elas fazem barulhos estranhos\Ne são gordas, como eu.
+Dialogue: 0,0:03:16.96,0:03:21.04,Flashback_Italics,ODOKAWA,0000,0000,0000,,Elas também são parecidas com minha mãe.
+Dialogue: 0,0:03:21.72,0:03:25.58,Flashback_Italics,ODOKAWA,0000,0000,0000,,Só de pensar em voltar\Nà realidade cheia de humanos,
+Dialogue: 0,0:03:26.18,0:03:28.64,Flashback_Italics,ODOKAWA,0000,0000,0000,,me dá vontade de ficar aqui para sempre.
+Dialogue: 0,0:03:41.21,0:03:45.88,Flashback_Italics,ODOKAWA,0000,0000,0000,,Por isso, no dia do acidente, eu...
+Dialogue: 0,0:03:42.49,0:03:46.62,sign_5335_51_National_Traffic,SIGN,0000,0000,0000,,Campanha nacional\Nde segurança no trânsito
+Dialogue: 0,0:03:48.25,0:03:51.21,Default,MC,0000,0000,0000,,A dupla que foi repescada\Ne vai avançar para a final é
+Dialogue: 0,0:03:51.21,0:03:54.50,sign_5544_54_Losers__Bracket,SIGN,0000,0000,0000,,Repescagem
+Dialogue: 0,0:03:51.21,0:03:55.36,Default,MC,0000,0000,0000,,a número 1770, Rush Style!
+Dialogue: 0,0:03:55.90,0:03:59.20,Default,ENTERTAINER,0000,0000,0000,,Hã? O quê? Sério? Obrigado!
+Dialogue: 0,0:03:57.37,0:04:00.01,Default,ENTERTAINER,0000,0000,0000,,Conseguimos, Nozuyama-kun!
+Dialogue: 0,0:04:00.01,0:04:04.34,sign_5755_57_N_1_Grand_Prix__,SIGN TOP LEFT,0000,0000,0000,,N-1 Grand Prix\N{\c&Hc1bd89&}2021\N{\c&H5ee0d5&}Repescagem
+Dialogue: 0,0:04:00.01,0:04:04.34,Italics,ENTERTAINER,0000,0000,0000,,Estou tão feliz que já estou\Nescrevendo piadas.
+Dialogue: 0,0:04:04.34,0:04:06.73,Default,AUDIENCE B,0000,0000,0000,,Parece que o Donraku-san\Nnão é mais um dos jurados.
+Dialogue: 0,0:04:06.73,0:04:09.89,Default,AUDIENCE A,0000,0000,0000,,E teria como ser? A filha dele morreu.
+Dialogue: 0,0:04:09.89,0:04:11.92,Italics,MC,0000,0000,0000,,{\an8}Como você está se sentindo agora?
+Dialogue: 0,0:04:09.89,0:04:11.92,Default,AUDIENCE B,0000,0000,0000,,Moça, pode mudar o canal?
+Dialogue: 0,0:04:11.92,0:04:13.81,Italics,ENTERTAINER,0000,0000,0000,,Vamos aproveitar o embalo e...
+Dialogue: 0,0:04:13.81,0:04:16.48,sign_6086_64_Live__Private_Ta,SIGN TOP RIGHT,0000,0000,0000,,Ao vivo: táxi particular a toda\Nvelocidade na via expressa
+Dialogue: 0,0:04:19.23,0:04:22.03,Default,SHIRAKAWA,0000,0000,0000,,Então o Odokawa-san não atende porque...
+Dialogue: 0,0:04:22.03,0:04:23.96,Default,GORIKI,0000,0000,0000,,Onde está esse táxi?
+Dialogue: 0,0:04:23.96,0:04:27.37,Italics,SHIRAKAWA,0000,0000,0000,,Está indo pro porto de Toranomon.
+Dialogue: 0,0:04:27.37,0:04:29.68,Italics,GORIKI,0000,0000,0000,,Entendido. Vou lá.
+Dialogue: 0,0:04:29.68,0:04:33.16,Default,SHIRAKAWA,0000,0000,0000,,Me leve junto, Dr. Goriki.
+Dialogue: 0,0:04:44.23,0:04:47.60,Default,SHIBAGAKI,0000,0000,0000,,No outro dia, um ouvinte do ensino\Nmédio estava me esperando lá fora.
+Dialogue: 0,0:04:47.60,0:04:49.43,Default,SHIBAGAKI,0000,0000,0000,,Ele pediu para formar dupla comigo.
+Dialogue: 0,0:04:50.51,0:04:53.27,Default,SHIBAGAKI,0000,0000,0000,,Ele deve ter ficado decepcionado\Ndepois de ver a repescagem de hoje.
+Dialogue: 0,0:04:53.27,0:04:56.03,Default,SHIBAGAKI,0000,0000,0000,,A gente só ficou gritando e se xingando.
+Dialogue: 0,0:04:57.96,0:05:00.41,Default,SHIBAGAKI,0000,0000,0000,,Ei, você quer mesmo terminar?
+Dialogue: 0,0:05:00.41,0:05:03.74,Default,BABA,0000,0000,0000,,Você que disse que era melhor\Nterminarmos se não desse certo este ano.
+Dialogue: 0,0:05:04.15,0:05:05.74,Default,SHIBAGAKI,0000,0000,0000,,Faltava tão pouco.
+Dialogue: 0,0:05:05.74,0:05:08.29,Default,SHIBAGAKI,0000,0000,0000,,Se pararmos nesse ponto baixo,\Nvamos nos arrepender.
+Dialogue: 0,0:05:08.29,0:05:10.95,Default,SHIBAGAKI,0000,0000,0000,,Ano que vem será o nosso ano.\NPode reconsiderar?
+Dialogue: 0,0:05:13.89,0:05:15.47,Default,SHIBAGAKI,0000,0000,0000,,Eu preciso de você.
+Dialogue: 0,0:05:15.47,0:05:17.50,Default,SHIBAGAKI,0000,0000,0000,,Eu preciso de você como meu contraponto.
+Dialogue: 0,0:05:17.50,0:05:19.77,Default,BABA,0000,0000,0000,,Você sempre disse que eu\Nsou péssimo nisso.
+Dialogue: 0,0:05:19.77,0:05:20.46,Default,SHIBAGAKI,0000,0000,0000,,Por favor!
+Dialogue: 0,0:05:20.46,0:05:22.51,Default,SHIBAGAKI,0000,0000,0000,,Vou escrever piadas mais engraçadas.\NFaça meu contraponto.
+Dialogue: 0,0:05:22.51,0:05:24.67,Default,SHIBAGAKI,0000,0000,0000,,Me interrompa de novo!
+Dialogue: 0,0:05:29.96,0:05:33.43,Flashback_Italics,YAMAMOTO,0000,0000,0000,,A polícia deve continuar\Nnos interrogando.
+Dialogue: 0,0:05:33.79,0:05:35.20,Flashback,YAMAMOTO,0000,0000,0000,,É melhor alinharmos as histórias.
+Dialogue: 0,0:05:35.72,0:05:38.65,Flashback,NIKAIDO,0000,0000,0000,,Não é melhor só contar a verdade?
+Dialogue: 0,0:05:38.65,0:05:42.78,Flashback,YAMAMOTO,0000,0000,0000,,A verdade? Você entende o que fizemos?
+Dialogue: 0,0:05:56.25,0:05:58.29,Flashback_Italics,GIRL A,0000,0000,0000,,Você já viu a casa dela?
+Dialogue: 0,0:05:58.29,0:06:01.58,Flashback,GIRL B,0000,0000,0000,,É um cohab entupido do chão ao teto, né?
+Dialogue: 0,0:06:01.58,0:06:04.92,Flashback,GIRL A,0000,0000,0000,,É. Dizem que é por isso que ela\Nfica o tempo todo no banho.
+Dialogue: 0,0:06:04.92,0:06:07.17,Default,GIRL B,0000,0000,0000,,Que sarro. Ela deve ficar toda enrugada.
+Dialogue: 0,0:06:04.92,0:06:08.38,sign_8750_92_My_Dream_For_the,SIGN,0000,0000,0000,,O que quero ser quando crescer
+Dialogue: 0,0:06:04.92,0:06:08.38,sign_8750_93_Super_Rich,SIGN,0000,0000,0000,,Milionária
+Dialogue: 0,0:06:20.70,0:06:21.69,Flashback_Italics,WADAGAKI,0000,0000,0000,,Seja bem-vinda.
+Dialogue: 0,0:06:21.69,0:06:23.11,Flashback,MOM,0000,0000,0000,,Desculpe pelo atraso.
+Dialogue: 0,0:06:23.11,0:06:24.17,Flashback,MOM,0000,0000,0000,,Já jantou?
+Dialogue: 0,0:06:25.05,0:06:27.87,Flashback,WADAGAKI,0000,0000,0000,,Ainda não, mas você deve estar\Ncansada do trabalho, não?
+Dialogue: 0,0:06:27.87,0:06:29.42,Flashback,WADAGAKI,0000,0000,0000,,Vou encontrar algo para comer.
+Dialogue: 0,0:06:30.36,0:06:33.11,Flashback,MOM,0000,0000,0000,,Você precisa do almoço para amanhã.\NAproveite o faço o jantar.
+Dialogue: 0,0:06:33.11,0:06:34.56,Flashback,MOM,0000,0000,0000,,Mas não tem frango frito.
+Dialogue: 0,0:06:35.19,0:06:36.93,Flashback,WADAGAKI,0000,0000,0000,,Obrigada, mãe.
+Dialogue: 0,0:06:38.53,0:06:42.20,Flashback,MOM,0000,0000,0000,,Meus sonhos foram totalmente destruídos,\Nentão você é radiante aos meus olhos.
+Dialogue: 0,0:06:42.20,0:06:44.21,Flashback,MOM,0000,0000,0000,,Só se tem uma chance na vida.
+Dialogue: 0,0:06:44.21,0:06:47.50,Flashback,MOM,0000,0000,0000,,Você tem que fazer de tudo\Npara que seus sonhos se realizem.
+Dialogue: 0,0:07:15.12,0:07:20.13,Flashback,TANAKA,0000,0000,0000,,Não tenho mais nada. Fim de jogo.
+Dialogue: 0,0:07:24.50,0:07:27.50,sign_10658_107_Ksawa___Ksawa_2d,SIGN,0000,0000,0000,,Ksawa\N {\c&H7b7b7b&\fs14\b0}@Ksawa_2daime
+Dialogue: 0,0:07:27.50,0:07:32.01,sign_10730_108_Ksawa,SIGN,0000,0000,0000,,Ksawa
+Dialogue: 0,0:07:27.50,0:07:32.01,sign_10658_109_I_was_shocked_to,SIGN,0000,0000,0000,,Foi um susto saber que a filha do Donraku é a\Nmenina morta do Mystery Kiss, e sinto pena\Nda família, mas o grande mistério é como\Nvou me sustentar a partir de agora.
+Dialogue: 0,0:07:38.02,0:07:40.20,Default,YANO,0000,0000,0000,,Bata de novo! De novo!
+Dialogue: 0,0:07:43.48,0:07:45.52,sign_11113_111_Road_Closed,SIGN,0000,0000,0000,,Estrada\Ninterditada
+Dialogue: 0,0:07:50.76,0:07:53.87,Default,SHIRAKAWA,0000,0000,0000,,Você descobriu qual é\Na doença do Odokawa-san?
+Dialogue: 0,0:07:53.87,0:07:57.26,Default,GORIKI,0000,0000,0000,,Sim, se chama...
+Dialogue: 0,0:07:59.18,0:08:03.14,Flashback,DOCTOR,0000,0000,0000,,Agnosia visual, causada\Npor uma disfunção executiva.
+Dialogue: 0,0:08:04.56,0:08:06.71,Flashback,GORIKI,0000,0000,0000,,Agnosia visual...
+Dialogue: 0,0:08:07.54,0:08:09.11,Italics,SHIRAKAWA,0000,0000,0000,,O que é isso?
+Dialogue: 0,0:08:09.11,0:08:12.55,Italics,GORIKI,0000,0000,0000,,Ele não sabe o que os olhos\Ndele estão vendo.
+Dialogue: 0,0:08:12.55,0:08:17.05,Italics,GORIKI,0000,0000,0000,,O dano cerebral está causando\Num erro na função cognitiva.
+Dialogue: 0,0:08:23.43,0:08:24.77,Default,SHIRAKAWA,0000,0000,0000,,Pare o carro, doutor!
+Dialogue: 0,0:08:40.41,0:08:42.16,Default,YANO,0000,0000,0000,,Você não vai fugir!
+Dialogue: 0,0:09:12.41,0:09:13.44,Default,GORIKI,0000,0000,0000,,Shirakawa-kun!
+Dialogue: 0,0:09:31.55,0:09:33.30,Default,KABASAWA,0000,0000,0000,,Vai viralizar!
+Dialogue: 0,0:10:03.66,0:10:05.40,Default,SHIBAGAKI,0000,0000,0000,,Por favor, só mais uma vez.
+Dialogue: 0,0:10:05.40,0:10:06.91,Default,SHIBAGAKI,0000,0000,0000,,Seja meu parceiro de novo.
+Dialogue: 0,0:10:09.50,0:10:11.42,Default,SHIBAGAKI,0000,0000,0000,,Sério? Um carro está me interrompendo?
+Dialogue: 0,0:10:40.68,0:10:43.45,Flashback_Italics,ODOKAWA,0000,0000,0000,,"Por isso, no dia do acidente,
+Dialogue: 0,0:10:43.45,0:10:46.07,Flashback_Italics,ODOKAWA,0000,0000,0000,,eu lembro que estava feliz.
+Dialogue: 0,0:10:46.58,0:10:52.13,Flashback_Italics,ODOKAWA,0000,0000,0000,,Minha mãe colocou o pai podre de bêbado\Nno carro e nos levou para passear.
+Dialogue: 0,0:10:52.98,0:10:55.90,Flashback_Italics,ODOKAWA,0000,0000,0000,,Fazia tempo que não saíamos nós três.
+Dialogue: 0,0:10:55.90,0:10:58.07,Flashback_Italics,ODOKAWA,0000,0000,0000,,Meu pai estava dormindo\Nno banco de trás,
+Dialogue: 0,0:10:58.07,0:11:01.07,Flashback_Italics,ODOKAWA,0000,0000,0000,,e minha mãe parecia de mau humor,
+Dialogue: 0,0:11:01.07,0:11:03.15,Flashback_Italics,ODOKAWA,0000,0000,0000,,mas eu estava me divertindo.
+Dialogue: 0,0:11:03.93,0:11:06.62,Flashback_Italics,ODOKAWA,0000,0000,0000,,Foi a primeira vez que saí\Nde carro à noite.
+Dialogue: 0,0:11:06.62,0:11:11.27,Flashback_Italics,ODOKAWA,0000,0000,0000,,As luzes das ruas, dos carros e os faróis\Nestavam brilhando e eram lindos."
+Dialogue: 0,0:11:12.39,0:11:16.43,Flashback_Italics,ODOKAWA,0000,0000,0000,,"Quando acordei,\Nestava numa cama de hospital.
+Dialogue: 0,0:11:16.84,0:11:20.79,Flashback_Italics,ODOKAWA,0000,0000,0000,,Minha cabeça estava com tontura.\NEu me senti estranho.
+Dialogue: 0,0:11:21.40,0:11:25.66,Flashback_Italics,ODOKAWA,0000,0000,0000,,Os médicos me explicaram um monte\Nde coisas, mas não me lembro muito.
+Dialogue: 0,0:11:26.32,0:11:31.50,Flashback_Italics,ODOKAWA,0000,0000,0000,,Só lembro que meus pais foram para algum\Noutro lugar depois do acidente
+Dialogue: 0,0:11:31.50,0:11:35.20,Flashback_Italics,ODOKAWA,0000,0000,0000,,e que o médico meio\Nque parecia um jacaré,
+Dialogue: 0,0:11:36.13,0:11:39.51,Flashback_Italics,ODOKAWA,0000,0000,0000,,já que eu tinha virado\Numa morsa de verdade."
+Dialogue: 0,0:11:40.97,0:11:43.54,Flashback_Italics,ODOKAWA,0000,0000,0000,,"Meus parentes e professores apareceram,
+Dialogue: 0,0:11:43.54,0:11:48.73,Flashback_Italics,ODOKAWA,0000,0000,0000,,tiveram conversas sérias\Ne disseram um monte de coisa,
+Dialogue: 0,0:11:48.73,0:11:50.77,Flashback_Italics,ODOKAWA,0000,0000,0000,,mas eu não me importava.
+Dialogue: 0,0:11:51.14,0:11:56.02,Flashback_Italics,ODOKAWA,0000,0000,0000,,Eu conheci pacientes e enfermeiras,\Nmas não me importava.
+Dialogue: 0,0:11:57.48,0:12:02.66,Flashback_Italics,ODOKAWA,0000,0000,0000,,Afinal, eles eram pandas, castores,\Ntartarugas, lhamas e tal.
+Dialogue: 0,0:12:03.77,0:12:09.11,Flashback_Italics,ODOKAWA,0000,0000,0000,,Todos estavam com pena de mim, mas eu\Nestava muito melhor do que antes."
+Dialogue: 0,0:12:09.58,0:12:14.58,Flashback_Italics,ODOKAWA,0000,0000,0000,,"Um dia, uma anta apareceu\Ne disse que ia cuidar de mim.
+Dialogue: 0,0:12:15.21,0:12:18.53,Flashback_Italics,ODOKAWA,0000,0000,0000,,Eu não precisaria mais\Nver meus antigos colegas
+Dialogue: 0,0:12:18.53,0:12:20.51,Flashback_Italics,ODOKAWA,0000,0000,0000,,e iria para Tóquio.
+Dialogue: 0,0:12:20.51,0:12:22.75,Flashback_Italics,ODOKAWA,0000,0000,0000,,Não podia pedir nada melhor.
+Dialogue: 0,0:12:23.49,0:12:27.49,Flashback_Italics,ODOKAWA,0000,0000,0000,,Ainda bem que eu tinha virado uma morsa.
+Dialogue: 0,0:12:28.40,0:12:31.85,Flashback_Italics,ODOKAWA,0000,0000,0000,,Foi a única vez que vi a anta,
+Dialogue: 0,0:12:31.85,0:12:35.59,Flashback_Italics,ODOKAWA,0000,0000,0000,,mas queria agradecer direito algum dia."
+Dialogue: 0,0:13:00.10,0:13:01.55,Default,SHIRAKAWA,0000,0000,0000,,Queixada!
+Dialogue: 0,0:13:09.32,0:13:12.14,Default,GORIKI,0000,0000,0000,,Ei, por aqui! Depressa!
+Dialogue: 0,0:13:20.44,0:13:21.83,Default,GORIKI,0000,0000,0000,,Odokawa!
+Dialogue: 0,0:13:21.83,0:13:23.10,Default,SHIRAKAWA,0000,0000,0000,,Odokawa-san.
+Dialogue: 0,0:13:24.12,0:13:25.27,Default,GORIKI,0000,0000,0000,,Odokawa!
+Dialogue: 0,0:13:25.64,0:13:26.97,Default,SHIRAKAWA,0000,0000,0000,,Odokawa-san.
+Dialogue: 0,0:13:30.89,0:13:32.05,Default,GORIKI,0000,0000,0000,,Odokawa.
+Dialogue: 0,0:13:33.51,0:13:34.95,Default,SHIRAKAWA,0000,0000,0000,,Odokawa-san...
+Dialogue: 0,0:13:41.57,0:13:44.63,Default,GORIKI,0000,0000,0000,,Ei, Odokawa. O que eu pareço para você?
+Dialogue: 0,0:13:45.73,0:13:47.47,Default,ODOKAWA,0000,0000,0000,,Um humano.
+Dialogue: 0,0:13:47.47,0:13:49.98,Default,GORIKI,0000,0000,0000,,Entendi. Isso te assusta?
+Dialogue: 0,0:13:49.98,0:13:53.03,Default,ODOKAWA,0000,0000,0000,,Não estou com medo. Estou bem.
+Dialogue: 0,0:13:53.03,0:13:54.19,Default,SHIRAKAWA,0000,0000,0000,,E eu?
+Dialogue: 0,0:13:59.44,0:14:01.57,Default,SHIRAKAWA,0000,0000,0000,,O quê? De mim você tem medo?
+Dialogue: 0,0:14:01.99,0:14:05.20,Default,ODOKAWA,0000,0000,0000,,Não. É que você é bonita.
+Dialogue: 0,0:14:07.47,0:14:09.89,Default,GORIKI,0000,0000,0000,,Parece que ele ainda não\Nconsegue falar com mulheres.
+Dialogue: 0,0:14:31.64,0:14:33.52,Default,KOSHIRO,0000,0000,0000,,Seu plano acabou fracassando, Dobu.
+Dialogue: 0,0:14:33.52,0:14:35.72,Default,KOSHIRO,0000,0000,0000,,Mas não se preocupe, eu te deixo ir.
+Dialogue: 0,0:14:36.14,0:14:37.16,Default,DOBU,0000,0000,0000,,Daimon!
+Dialogue: 0,0:14:38.31,0:14:40.83,Default,KOSHIRO,0000,0000,0000,,Brincadeirinha. Sou o irmão mais novo!
+Dialogue: 0,0:14:40.83,0:14:42.81,Default,DOBU,0000,0000,0000,,Não tem graça.
+Dialogue: 0,0:14:42.81,0:14:44.25,Default,KOSHIRO,0000,0000,0000,,O Odokawa disse o mesmo.
+Dialogue: 0,0:14:44.25,0:14:46.09,Default,KOSHIRO,0000,0000,0000,,Ele disse que só parentes\Nacham engraçado.
+Dialogue: 0,0:14:46.09,0:14:47.58,Default,DOBU,0000,0000,0000,,Por que você está aqui?
+Dialogue: 0,0:14:47.58,0:14:51.21,Default,KOSHIRO,0000,0000,0000,,Um policial vai chegar logo com seu mandado\Nde prisão. Achei que devia avisar.
+Dialogue: 0,0:14:51.21,0:14:55.04,Default,DOBU,0000,0000,0000,,Por que me contar? E se eu fugir?
+Dialogue: 0,0:14:55.04,0:14:58.04,Default,KOSHIRO,0000,0000,0000,,Daí eu atiro de novo em você. Bang!
+Dialogue: 0,0:14:59.21,0:15:01.47,Default,DOBU,0000,0000,0000,,O tiro foi seu?
+Dialogue: 0,0:15:01.47,0:15:04.69,Default,KOSHIRO,0000,0000,0000,,Tive problemas por conta disso,\Nmas consegui prender a sua gangue.
+Dialogue: 0,0:15:04.69,0:15:05.84,Default,KOSHIRO,0000,0000,0000,,Nada de mais.
+Dialogue: 0,0:15:05.84,0:15:08.49,Default,DOBU,0000,0000,0000,,Você sabe o que vai\Nacontecer se eu for preso.
+Dialogue: 0,0:15:08.49,0:15:09.80,Default,DOBU,0000,0000,0000,,Seu irmão também vem junto.
+Dialogue: 0,0:15:09.80,0:15:13.21,Default,KOSHIRO,0000,0000,0000,,Isso mesmo. Afinal, o que meu\Nirmão fez foi do mal.
+Dialogue: 0,0:15:13.21,0:15:15.22,Default,KOSHIRO,0000,0000,0000,,Crime sempre tem que ser punido.
+Dialogue: 0,0:15:15.22,0:15:19.23,Default,KOSHIRO,0000,0000,0000,,Não tem como destruir o mal por completo,\Nmas vou continuar mantendo a paz.
+Dialogue: 0,0:15:19.23,0:15:21.71,Default,KOSHIRO,0000,0000,0000,,Afinal, sou da polícia.
+Dialogue: 0,0:15:29.40,0:15:32.07,Default,SHIRAKAWA,0000,0000,0000,,Quer gelatina? Ou prefere pudim?
+Dialogue: 0,0:15:32.33,0:15:35.66,Default,ODOKAWA,0000,0000,0000,,Já chega. Senta, eu estou bem.
+Dialogue: 0,0:15:36.69,0:15:40.66,Italics,NEWSCASTER,0000,0000,0000,,{\an8}Ontem, a polícia metropolitana\Nprendeu Nikaido Rui do Mystery Kiss,
+Dialogue: 0,0:15:40.66,0:15:44.21,Italics,NEWSCASTER,0000,0000,0000,,{\an8}que estava sendo interrogada\Nem relação ao assassinato
+Dialogue: 0,0:15:40.66,0:15:44.21,sign_22554_196_Suspects_Arreste,SIGN,0000,0000,0000,,Suspeitos do assassinato de Mitsuya Yuki-san são\Npresos {\fs20}Corpo despejado no mar após a morte
+Dialogue: 0,0:15:44.21,0:15:48.70,Italics,NEWSCASTER,0000,0000,0000,,{\an8}de Mitsuya Yuki-san do Mystery Kiss.
+Dialogue: 0,0:15:44.21,0:15:50.41,sign_22639_197_Arrested__Rui_Ni,SIGN,0000,0000,0000,,Presa: Nikaido Rui (18)
+Dialogue: 0,0:15:44.21,0:15:50.41,sign_22639_198_Suspected_of_dum,SIGN,0000,0000,0000,,Suspeita de jogar o corpo no mar depois de matar\Ncolega de grupo no escritório da agência
+Dialogue: 0,0:15:48.70,0:15:52.85,Italics,NEWSCASTER,0000,0000,0000,,{\an8}Yamamoto Fuyuki,\Nempresário do Mystery Kiss,
+Dialogue: 0,0:15:50.42,0:16:01.39,sign_22788_202_Arrested__Employ,SIGN,0000,0000,0000,,Preso: Empresário\N{\fs20}Yamamoto Fuyuki{\fs16} (34)
+Dialogue: 0,0:15:50.42,0:16:01.39,sign_22788_203_Arrested__Unempl,SIGN,0000,0000,0000,,Preso: Desempregado\N{\fs20}Yano Haruhito{\fs} {\fs16}(28)
+Dialogue: 0,0:15:50.42,0:16:01.39,sign_22788_204_Arrested__Unempl,SIGN,0000,0000,0000,,Preso: Desempregado\N{\fs20}Sekiguchi Togo{\fs16}(26)
+Dialogue: 0,0:15:52.85,0:15:58.63,Italics,NEWSCASTER,0000,0000,0000,,{\an8}Yano Haruhito, desempregado,\Ne Sekiguchi Togo, também desempregado,
+Dialogue: 0,0:15:58.63,0:16:01.39,Italics,NEWSCASTER,0000,0000,0000,,{\an8}foram presos por ocultação de cadáver.
+Dialogue: 0,0:16:01.39,0:16:05.30,Italics,NEWSCASTER,0000,0000,0000,,Nikaido Rui nega as acusações...
+Dialogue: 0,0:16:05.30,0:16:07.23,Default,ODOKAWA,0000,0000,0000,,Verdade, acabei de lembrar.
+Dialogue: 0,0:16:07.23,0:16:08.02,Default,SHIRAKAWA,0000,0000,0000,,O quê?
+Dialogue: 0,0:16:08.02,0:16:11.78,Default,ODOKAWA,0000,0000,0000,,Nada, não tem a ver com você.
+Dialogue: 0,0:16:11.78,0:16:14.41,Default,SHIRAKAWA,0000,0000,0000,,Ainda está acanhado?
+Dialogue: 0,0:16:14.41,0:16:17.14,Default,SHIRAKAWA,0000,0000,0000,,Estão reportando essa história desde cedo.
+Dialogue: 0,0:16:17.14,0:16:20.57,Default,SHIRAKAWA,0000,0000,0000,,Odokawa-san, devem interrogar\Nvocê em algum momento,
+Dialogue: 0,0:16:20.57,0:16:23.04,Default,SHIRAKAWA,0000,0000,0000,,mas, quando tudo se acalmar,\Nquero ir ao zoológico.
+Dialogue: 0,0:16:23.04,0:16:25.08,Default,ODOKAWA,0000,0000,0000,,Quê? Comigo?
+Dialogue: 0,0:16:27.59,0:16:30.87,Default,GORIKI,0000,0000,0000,,Eu trouxe uma pessoa\Nque quer te ver, Odokawa.
+Dialogue: 0,0:16:30.87,0:16:33.97,Default,IMAI,0000,0000,0000,,Odokawa-sama, está se sentindo bem?
+Dialogue: 0,0:16:33.97,0:16:36.62,Default,ODOKAWA,0000,0000,0000,,Felizmente, estou bem.
+Dialogue: 0,0:16:36.62,0:16:38.29,Default,ODOKAWA,0000,0000,0000,,Ah, é o Imai.
+Dialogue: 0,0:16:38.29,0:16:39.90,Default,IMAI,0000,0000,0000,,Que ótimo!
+Dialogue: 0,0:16:39.90,0:16:43.56,Default,ODOKAWA,0000,0000,0000,,Ou melhor, você está bem? A idol...
+Dialogue: 0,0:16:43.56,0:16:45.77,Default,IMAI,0000,0000,0000,,Foi um choque,
+Dialogue: 0,0:16:45.77,0:16:49.57,Default,IMAI,0000,0000,0000,,e seria horrível se descobrirem\Nque foi mesmo ela,
+Dialogue: 0,0:16:49.57,0:16:53.15,Default,IMAI,0000,0000,0000,,mas, pensando bem, visitar uma idol\Npessoalmente é uma experiência preciosa.
+Dialogue: 0,0:16:53.51,0:16:56.03,Default,ODOKAWA,0000,0000,0000,,Você tem mesmo uma visão otimista.
+Dialogue: 0,0:16:56.03,0:16:58.88,Default,IMAI,0000,0000,0000,,Então depois de visitá-la,\Nse eu visitar,
+Dialogue: 0,0:16:58.88,0:17:02.14,Default,IMAI,0000,0000,0000,,eu decido se quero\Ncontinuar apoiando ou não.
+Dialogue: 0,0:17:02.14,0:17:03.65,Default,IMAI,0000,0000,0000,,Ah, claro.
+Dialogue: 0,0:17:05.23,0:17:08.71,Default,IMAI,0000,0000,0000,,A polícia recuperou\No dinheiro que caiu no mar.
+Dialogue: 0,0:17:08.71,0:17:11.47,Default,IMAI,0000,0000,0000,,Sei que está faltando uma parte,\Nmas é para você.
+Dialogue: 0,0:17:12.31,0:17:13.50,Default,ODOKAWA,0000,0000,0000,,Não quero.
+Dialogue: 0,0:17:13.50,0:17:15.65,Default,IMAI,0000,0000,0000,,Por favor, você tem que aceitar!
+Dialogue: 0,0:17:15.65,0:17:18.68,Default,IMAI,0000,0000,0000,,Eu causei vários problemas\Npara você, e você me ajudou muito.
+Dialogue: 0,0:17:19.04,0:17:21.88,Default,SHIRAKAWA,0000,0000,0000,,Ele faz questão. Que tal aceitar?
+Dialogue: 0,0:17:21.88,0:17:25.07,Default,GORIKI,0000,0000,0000,,É, não machuca ter dinheiro.
+Dialogue: 0,0:17:25.07,0:17:28.10,Default,ODOKAWA,0000,0000,0000,,É, mas nem sei como usar.
+Dialogue: 0,0:17:28.10,0:17:30.10,Default,GORIKI,0000,0000,0000,,Você pode pagar a dívida do Kakihana.
+Dialogue: 0,0:17:30.10,0:17:33.40,Default,ODOKAWA,0000,0000,0000,,Nem, vou fazer com que ele mesmo pague.
+Dialogue: 0,0:17:33.40,0:17:35.74,Default,ODOKAWA,0000,0000,0000,,Ah, consigo pensar num uso.
+Dialogue: 0,0:17:35.74,0:17:37.56,Default,IMAI,0000,0000,0000,,Então você aceita?
+Dialogue: 0,0:17:37.56,0:17:39.68,Default,IMAI,0000,0000,0000,,Bem, é melhor eu ir.
+Dialogue: 0,0:17:39.68,0:17:43.08,Default,IMAI,0000,0000,0000,,Os fãs da Rui-tan vão se encontrar\Npara decidir o que fazer daqui para frente.
+Dialogue: 0,0:17:43.08,0:17:46.21,Default,ODOKAWA,0000,0000,0000,,Certo, falando nisso...
+Dialogue: 0,0:17:46.21,0:17:47.97,Default,ODOKAWA,0000,0000,0000,,A menina que eu levei tarde da noite
+Dialogue: 0,0:17:47.97,0:17:50.68,Default,ODOKAWA,0000,0000,0000,,pro escritório do Mystery\NKiss no dia 4 de outubro...
+Dialogue: 0,0:17:50.68,0:17:52.59,Default,IMAI,0000,0000,0000,,Hã, do que está falando?
+Dialogue: 0,0:17:52.59,0:17:55.34,Default,ODOKAWA,0000,0000,0000,,Nada. Acho melhor contar para a polícia.
+Dialogue: 0,0:17:55.34,0:17:58.15,Default,IMAI,0000,0000,0000,,Bem, então até. Vou vir visitar de novo.
+Dialogue: 0,0:18:00.47,0:18:03.72,Default,GORIKI,0000,0000,0000,,Um uso pro dinheiro? A fundação\Npara órfãs de trânsito?
+Dialogue: 0,0:18:03.72,0:18:05.84,Default,ODOKAWA,0000,0000,0000,,Sabia que você ia somar 2+2.
+Dialogue: 0,0:18:05.84,0:18:10.01,Default,GORIKI,0000,0000,0000,,Você sabe para quem devolver o dinheiro?
+Dialogue: 0,0:18:10.01,0:18:12.27,Default,ODOKAWA,0000,0000,0000,,Minha senhoria deve saber.
+Dialogue: 0,0:18:12.27,0:18:15.00,Default,GORIKI,0000,0000,0000,,Por que não dá pessoalmente para ele?
+Dialogue: 0,0:18:15.00,0:18:17.95,Default,GORIKI,0000,0000,0000,,Ele é uma anta. Você sabe quem é?
+Dialogue: 0,0:18:19.10,0:18:22.19,Default,ODOKAWA,0000,0000,0000,,Entendi. Uma anta.
+Dialogue: 0,0:18:23.05,0:18:24.65,Default,ODOKAWA,0000,0000,0000,,Então é isso.
+Dialogue: 0,0:18:24.65,0:18:29.77,Default,GORIKI,0000,0000,0000,,Além disso, Odokawa, é difícil dizer,\Nmas preciso confirmar uma coisa.
+Dialogue: 0,0:18:29.77,0:18:30.75,Default,ODOKAWA,0000,0000,0000,,O quê?
+Dialogue: 0,0:18:30.75,0:18:33.58,Default,GORIKI,0000,0000,0000,,O que tem na sua casa?
+Dialogue: 0,0:18:41.09,0:18:42.63,Italics,KONDO,0000,0000,0000,,Essa não! Ele está caindo!
+Dialogue: 0,0:18:41.09,0:18:44.43,sign_26880_258_Comedy_Duos_Comp,SIGN,0000,0000,0000,,Duplas de comédia lutam\Npela sobrevivência!
+Dialogue: 0,0:18:41.09,0:18:44.43,sign_26880_259_Who_Will_Fall_,SIGN,0000,0000,0000,,Quem vai cair?
+Dialogue: 0,0:18:41.09,0:18:44.43,sign_26880_260_Bonnou_Illuminat,SIGN,0000,0000,0000,,Bonnou Illumination
+Dialogue: 0,0:18:44.43,0:18:47.43,sign_26960_261_Yamabiko,SIGN,0000,0000,0000,,Yamabiko
+Dialogue: 0,0:18:47.43,0:18:49.44,sign_27032_262_Reserved_for_the,SIGN,0000,0000,0000,,Reservado o dia todo \N{\fs18}-Yamabiko
+Dialogue: 0,0:18:58.56,0:19:00.55,Default,KURODA,0000,0000,0000,,Está melhor agora?
+Dialogue: 0,0:19:01.19,0:19:05.61,Default,ODOKAWA,0000,0000,0000,,Eu sempre estive saudável.\NAgora também consigo dormir.
+Dialogue: 0,0:19:05.61,0:19:07.28,Default,KURODA,0000,0000,0000,,Que bom.
+Dialogue: 0,0:19:07.70,0:19:14.87,Default,ODOKAWA,0000,0000,0000,,Falar com confiança com um humano\Ncomo você é um grande progresso para mim.
+Dialogue: 0,0:19:14.87,0:19:17.19,Default,ODOKAWA,0000,0000,0000,,Mas ainda não me dou bem com mulheres.
+Dialogue: 0,0:19:17.19,0:19:19.00,Default,KURODA,0000,0000,0000,,Entendi.
+Dialogue: 0,0:19:19.49,0:19:22.36,Default,ODOKAWA,0000,0000,0000,,A polícia não te prendeu.
+Dialogue: 0,0:19:22.36,0:19:25.21,Default,KURODA,0000,0000,0000,,Porque meus subordinados\Nsão excepcionais.
+Dialogue: 0,0:19:25.21,0:19:29.04,Default,ODOKAWA,0000,0000,0000,,Aposto que muita gente\Nsofreu por sua culpa,
+Dialogue: 0,0:19:29.04,0:19:31.81,Default,ODOKAWA,0000,0000,0000,,mas não vim criticar isso.
+Dialogue: 0,0:19:31.81,0:19:37.24,Default,ODOKAWA,0000,0000,0000,,Não cabe a mim, e você deve ter\Nsalvado muito mais do que fez sofrer.
+Dialogue: 0,0:19:37.24,0:19:39.35,Default,KURODA,0000,0000,0000,,Vou me aposentar.
+Dialogue: 0,0:19:39.89,0:19:42.55,Default,KURODA,0000,0000,0000,,Além de não ter conseguido\Nsalvar a filha do Don-chan,
+Dialogue: 0,0:19:42.55,0:19:44.14,Default,KURODA,0000,0000,0000,,meus subordinados estavam envolvidos.
+Dialogue: 0,0:19:44.14,0:19:46.49,Default,KURODA,0000,0000,0000,,Isso que é colocar o carro\Nna frente dos bois.
+Dialogue: 0,0:19:46.49,0:19:50.71,Default,ODOKAWA,0000,0000,0000,,O Dobu me disse que você\Ntem só uma regra.
+Dialogue: 0,0:19:51.16,0:19:55.92,Default,KURODA,0000,0000,0000,,É. "Não matem ninguém". Só isso.
+Dialogue: 0,0:19:57.21,0:19:58.58,Default,ODOKAWA,0000,0000,0000,,Entendi.
+Dialogue: 0,0:20:02.48,0:20:05.01,Default,ODOKAWA,0000,0000,0000,,Tem cerca de 100 milhões aqui.
+Dialogue: 0,0:20:05.01,0:20:07.32,Default,ODOKAWA,0000,0000,0000,,Quero que você faça\No máximo possível com eles.
+Dialogue: 0,0:20:07.32,0:20:10.53,Default,ODOKAWA,0000,0000,0000,,Mesmo que seja só para ajudar as crianças\Nque já estão sob seus cuidados,
+Dialogue: 0,0:20:10.53,0:20:13.94,Default,ODOKAWA,0000,0000,0000,,quero que continue\Naté entregar aquele boneco.
+Dialogue: 0,0:20:14.46,0:20:19.33,Default,ODOKAWA,0000,0000,0000,,Você me ajudou demais. Muito obrigado.
+Dialogue: 0,0:20:54.67,0:20:58.27,Default,ODOKAWA,0000,0000,0000,,Ainda bem. É só um gato.
+Dialogue: 0,0:21:01.03,0:21:02.54,Italics,KONDO,0000,0000,0000,,Vamos começar. Olá.
+Dialogue: 0,0:21:02.54,0:21:03.94,Italics,KONDO,0000,0000,0000,,Somos Bonnou Illumination.
+Dialogue: 0,0:21:03.94,0:21:05.82,Italics,FUKUMOTO,0000,0000,0000,,Conseguiram nos trazer a força.
+Dialogue: 0,0:21:05.82,0:21:08.32,Italics,KONDO,0000,0000,0000,,Isso mesmo. Somos\Nrebatedores substitutos.
+Dialogue: 0,0:21:08.32,0:21:09.31,Italics,FUKUMOTO,0000,0000,0000,,Do Homosapiens.
+Dialogue: 0,0:21:09.31,0:21:10.83,Italics,KONDO,0000,0000,0000,,Não diga o nome deles.
+Dialogue: 0,0:21:10.83,0:21:12.16,Italics,FUKUMOTO,0000,0000,0000,,Não tem nada de mais dizer o nome.
+Dialogue: 0,0:21:12.16,0:21:13.99,Italics,KONDO,0000,0000,0000,,Certo. Tudo bem dizer o nome deles.
+Dialogue: 0,0:21:13.99,0:21:16.34,Italics,FUKUTOMO,0000,0000,0000,,Dá para acreditar que o Baba-san\Nestava namorando uma assassina?
+Dialogue: 0,0:21:16.34,0:21:17.68,Italics,KONDO,0000,0000,0000,,Não diga isso.
+Dialogue: 0,0:21:17.68,0:21:19.57,Italics,FUKUMOTO,0000,0000,0000,,Todo mundo vai ficar\Nassustado se eu não disser.
+Dialogue: 0,0:21:19.57,0:21:21.42,Italics,KONDO,0000,0000,0000,,Ela é só suspeita.
+Dialogue: 0,0:21:21.42,0:21:25.12,Italics,FUKUMOTO,0000,0000,0000,,Esqueça isso. Viemos fazer\Num programa de rádio.
+Dialogue: 0,0:21:26.20,0:21:28.00,Default,WADAGAKI,0000,0000,0000,,Mãe, como você está?
+Dialogue: 0,0:21:28.00,0:21:31.68,Default,WADAGAKI,0000,0000,0000,,Sim, eu fui para uma agência\Nainda maior.
+Dialogue: 0,0:21:31.68,0:21:34.86,Default,WADAGAKI,0000,0000,0000,,É. Está tudo dando tão\Ncerto que quase dá medo.
+Dialogue: 0,0:21:34.86,0:21:39.27,Default,WADAGAKI,0000,0000,0000,,Primeiro eu fiquei perseguindo o empresário\Ndepois de não passar na audição.
+Dialogue: 0,0:21:39.27,0:21:41.36,Default,WADAGAKI,0000,0000,0000,,Até rio de pensar nisso agora.
+Dialogue: 0,0:21:42.40,0:21:44.79,Default,WADAGAKI,0000,0000,0000,,Mas eu fiquei com tanta raiva.
+Dialogue: 0,0:21:45.88,0:21:47.95,Default,WADAGAKI,0000,0000,0000,,É, deu certo.
+Dialogue: 0,0:21:48.53,0:21:50.82,Italics,WADAGAKI,0000,0000,0000,,Se elas não tivessem ficado\Nfamosas depois daquilo,
+Dialogue: 0,0:21:50.83,0:21:52.20,Italics,WADAGAKI,0000,0000,0000,,acho que eu não me importaria.
+Dialogue: 0,0:21:52.20,0:21:54.86,Italics,WADAGAKI,0000,0000,0000,,Mas quando soube que elas\Nlançariam o primeiro CD,
+Dialogue: 0,0:21:54.86,0:21:56.54,Italics,WADAGAKI,0000,0000,0000,,não deu mais para ficar parada.
+Dialogue: 0,0:21:57.89,0:22:00.44,Default,WADAGAKI,0000,0000,0000,,Sim, está tudo indo bem.
+Dialogue: 0,0:22:01.14,0:22:04.48,Default,WADAGAKI,0000,0000,0000,,Sinceramente, não achei\Nque fosse perder outra pessoa,
+Dialogue: 0,0:22:04.48,0:22:07.13,Default,WADAGAKI,0000,0000,0000,,mas graças a isso sobra\Nmais atenção para mim.
+Dialogue: 0,0:22:07.70,0:22:12.18,Default,WADAGAKI,0000,0000,0000,,Estou pensando em me livrar\Nda outra e seguir carreira solo.
+Dialogue: 0,0:22:12.18,0:22:14.11,Default,WADAGAKI,0000,0000,0000,,O quê? Estou botando os pés pelas mãos?
+Dialogue: 0,0:22:15.00,0:22:18.17,Default,WADAGAKI,0000,0000,0000,,Não, nada por enquanto.
+Dialogue: 0,0:22:18.17,0:22:23.07,Default,WADAGAKI,0000,0000,0000,,Eu só saí para encontrar\No táxi que usei naquele dia.
+Dialogue: 0,0:22:23.76,0:22:25.94,Default,WADAGAKI,0000,0000,0000,,Acho que encontrei.
+Dialogue: 0,0:22:25.94,0:22:28.62,Italics,WADAGAKI,0000,0000,0000,,Foi por total coincidência.\NEu tenho sorte mesmo.
+Dialogue: 0,0:22:25.94,0:22:28.91,sign_32271_317_Aozora_Comedy_Fe,SIGN,0000,0000,0000,,Festival de {\c&H599126&}comédia {\c&H9273cf&}Aozora
+Dialogue: 0,0:22:28.62,0:22:30.34,Italics,WADAGAKI,0000,0000,0000,,Tudo está dando certo para mim.
+Dialogue: 0,0:22:30.89,0:22:32.92,Italics,WADAGAKI,0000,0000,0000,,Depois te conto mais.
+Dialogue: 0,0:22:33.69,0:22:36.92,Italics,WADAGAKI,0000,0000,0000,,Não se preocupe.\NVai dar tudo certo de novo.
+Dialogue: 0,0:22:34.29,0:22:36.45,sign_32471_322_Uninstall__Zoode,SIGN,0000,0000,0000,,Desinstalar Zooden?\N{\fs16\b0}Todos os dados do aplicativo\Nserão apagados.
+Dialogue: 0,0:22:34.29,0:22:36.45,sign_32471_323_Cancel,SIGN LEFT,0000,0000,0000,,Cancelar
+Dialogue: 0,0:22:34.29,0:22:36.45,sign_32471_324_Uninstall,SIGN RIGHT,0000,0000,0000,,Desinstalar
+Dialogue: 0,0:22:36.92,0:22:38.48,Italics,WADAGAKI,0000,0000,0000,,Ao longo do fim do ano...
+Dialogue: 0,0:22:39.51,0:22:41.79,Italics,WADAGAKI,0000,0000,0000,,Na verdade, depois eu te conto.
+Dialogue: 0,0:22:42.42,0:22:44.05,sign_32666_327_Must_read_,SIGN PINK,0000,0000,0000,,Leitura\Nobrigatória!
+Dialogue: 0,0:22:42.42,0:22:44.05,sign_32666_328_Foolproof_Method,SIGN ORANGE AND BLUE,0000,0000,0000,,Formas {\c&Hb75d49&}garantidas\N{\c&H3d7ee7&}de {\c&Hb75d49&}encontrar {\c&H3d7ee7&}um {\c&Hb75d49&}emprego
+Dialogue: 0,0:22:42.70,0:22:45.92,Italics,WADAGAKI,0000,0000,0000,,É. Você faz frango\Nfrito de novo para mim?
+Dialogue: 0,0:22:46.55,0:22:51.82,Default,WADAGAKI,0000,0000,0000,,Como você disse, eu farei de tudo\Npara que meu sonho se realize.
+Dialogue: 0,0:22:57.01,0:22:59.20,Default,BOSS A,0000,0000,0000,,Kakihana, vamos almoçar.
+Dialogue: 0,0:22:59.20,0:23:00.35,Default,KAKIHANA,0000,0000,0000,,Certo.
+Dialogue: 0,0:23:15.19,0:23:16.20,Default,ODOKAWA,0000,0000,0000,,Certo.
+Dialogue: 0,0:23:22.37,0:23:23.52,Default,ODOKAWA,0000,0000,0000,,Entra.
+Dialogue: 0,0:23:28.13,0:23:29.54,Default,ODOKAWA,0000,0000,0000,,Para onde?
