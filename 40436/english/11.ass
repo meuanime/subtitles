@@ -1,0 +1,218 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.02,0:00:11.75,Default,,0000,0000,0000,,Kanzen seijin ni nante nare yashinai
+Dialogue: 0,0:00:14.63,0:00:18.04,Default,,0000,0000,0000,,Nanben shippai shite naori mo shinai
+Dialogue: 0,0:00:21.12,0:00:24.37,Default,,0000,0000,0000,,Doushiyoumonai shi datte datte muri datta shi
+Dialogue: 0,0:00:24.37,0:00:27.63,Default,,0000,0000,0000,,Konna hazu janai tte genjitsutouhi
+Dialogue: 0,0:00:27.63,0:00:33.84,Default,,0000,0000,0000,,Mata shinitakunaru konna jibun, iya
+Dialogue: 0,0:00:33.84,0:00:37.21,Default,,0000,0000,0000,,Fusagikonde uso o tsuite kizutsuita tte naite
+Dialogue: 0,0:00:37.21,0:00:40.06,Default,,0000,0000,0000,,Maigo no kanjou dakishimete nemuttemo
+Dialogue: 0,0:00:40.38,0:00:43.63,Default,,0000,0000,0000,,Koukai zenzen zenzen zenzen kienai!
+Dialogue: 0,0:00:43.63,0:00:47.25,Default,,0000,0000,0000,,Hitorikiri de kubi shimeai
+Dialogue: 0,0:00:48.08,0:00:51.46,Default,,0000,0000,0000,,Kanzen seijin ni nante nare yashinai \Nitsumo risou ni zasetsu shite
+Dialogue: 0,0:00:51.46,0:00:54.58,Default,,0000,0000,0000,,Kanzen seijin ni nante nare yashinai \Nitsumo risou ni zasetsu shite
+Dialogue: 0,0:00:54.58,0:00:57.79,Default,,0000,0000,0000,,Jibun semeru pose dake totte oyasui \Nmenzai nigirishimete amaeteru
+Dialogue: 0,0:00:57.79,0:01:01.08,Default,,0000,0000,0000,,Jibun semeru pose dake totte oyasui \Nmenzai nigirishimete amaeteru
+Dialogue: 0,0:01:01.08,0:01:04.20,Default,,0000,0000,0000,,Nanben shippai shite naori mo shinai
+Dialogue: 0,0:01:04.20,0:01:07.46,Default,,0000,0000,0000,,Hansei bakari de kawarenakute
+Dialogue: 0,0:01:07.46,0:01:10.71,Default,,0000,0000,0000,,Kokorogoroshi yarisugosu owaranai \Nzange to yuuutsu no yoru
+Dialogue: 0,0:01:10.71,0:01:14.47,Default,,0000,0000,0000,,Kokorogoroshi yarisugosu owaranai \Nzange to yuuutsu no yoru
+Dialogue: 0,0:01:20.38,0:01:23.63,Default,,0000,0000,0000,,Kanzen na jibun ga dokonimo inai
+Dialogue: 0,0:01:26.60,0:01:29.86,Default,,0000,0000,0000,,Saitei na jibun shika mitsukaranai
+Dialogue: 0,0:01:32.50,0:01:33.83,Default,,0000,0000,0000,,That's it...!
+Dialogue: 0,0:01:32.54,0:01:36.92,On Top,,0000,0000,0000,,Episode 11:Peter Grill and Dueling Manners
+Dialogue: 0,0:01:34.38,0:01:36.21,Default,,0000,0000,0000,,Stay calm, Peter Grill.
+Dialogue: 0,0:01:37.21,0:01:39.25,Default,,0000,0000,0000,,If I lose this fight...
+Dialogue: 0,0:01:39.75,0:01:44.38,Default,,0000,0000,0000,,Spartokos takes Lisa off my hands\Nand back to Ogrestan for good.
+Dialogue: 0,0:01:44.87,0:01:46.50,Default,,0000,0000,0000,,This is perfect...
+Dialogue: 0,0:01:46.50,0:01:49.71,Default,,0000,0000,0000,,All I gotta do is throw the match...!
+Dialogue: 0,0:01:52.67,0:01:54.54,Default,,0000,0000,0000,,Peter Grill...
+Dialogue: 0,0:01:54.96,0:01:56.08,Default,,0000,0000,0000,,Have a look.
+Dialogue: 0,0:02:06.04,0:02:07.46,Default,,0000,0000,0000,,She wouldn't dare...!
+Dialogue: 0,0:02:08.25,0:02:12.42,Default,,0000,0000,0000,,I suggest that you reconsider doing anything brash.\NLosing on purpose, for example.
+Dialogue: 0,0:02:12.83,0:02:17.71,Default,,0000,0000,0000,,That is, of course, if you'd like our\Narrangement to remain a secret...
+Dialogue: 0,0:02:20.08,0:02:23.83,Default,,0000,0000,0000,,Sh-She read me like a book...!
+Dialogue: 0,0:02:25.63,0:02:26.58,Default,,0000,0000,0000,,Let us begin!
+Dialogue: 0,0:02:26.58,0:02:28.25,Default,,0000,0000,0000,,Challengers, step forward!
+Dialogue: 0,0:02:32.63,0:02:36.42,Default,,0000,0000,0000,,In the name of the Yakeppachi Warriors Guild\Nand the Ogrestan Armed Forces,
+Dialogue: 0,0:02:36.42,0:02:41.13,Default,,0000,0000,0000,,I expect each of you to put your best foot\Nforward in this fight and defend your honor!
+Dialogue: 0,0:02:42.54,0:02:44.83,Default,,0000,0000,0000,,Gentlemen, are you prepared for battle?
+Dialogue: 0,0:02:44.83,0:02:46.60,Default,,0000,0000,0000,,Yes, Your Highness!
+Dialogue: 0,0:02:46.60,0:02:48.79,Default,,0000,0000,0000,,S-Sure...
+Dialogue: 0,0:02:54.88,0:02:56.46,Default,,0000,0000,0000,,Sir Peter Grill...
+Dialogue: 0,0:02:57.13,0:03:01.45,Default,,0000,0000,0000,,Do you remember our conversation\Non the day we first met?
+Dialogue: 0,0:03:01.92,0:03:04.04,Default,,0000,0000,0000,,If your love is genuine,
+Dialogue: 0,0:03:04.04,0:03:07.96,Default,,0000,0000,0000,,then I am confident that the gods\Nshall light your path with their blessings.
+Dialogue: 0,0:03:11.83,0:03:15.17,Default,,0000,0000,0000,,'Twas absurd of me to \Npreach the virtues of love
+Dialogue: 0,0:03:15.17,0:03:20.01,Default,,0000,0000,0000,,in the presence of a man who\Nknows naught but lies and deceit.
+Dialogue: 0,0:03:20.25,0:03:23.42,Default,,0000,0000,0000,,Realistically, I need not \Nwaste my time with a duel.
+Dialogue: 0,0:03:23.42,0:03:28.17,Default,,0000,0000,0000,,Announcing your treacherous behavior to the\Nworld would bring about a swift conclusion.
+Dialogue: 0,0:03:29.29,0:03:30.33,Default,,0000,0000,0000,,However...!
+Dialogue: 0,0:03:30.33,0:03:36.96,Default,,0000,0000,0000,,My pride as an Ogre would never\Nallow such an act of cowardice!
+Dialogue: 0,0:03:39.44,0:03:41.33,Default,,0000,0000,0000,,I-I know that stance...!
+Dialogue: 0,0:03:41.33,0:03:43.44,Default,,0000,0000,0000,,What?! What's he doing, Tim?!
+Dialogue: 0,0:03:43.44,0:03:45.82,Default,,0000,0000,0000,,Yup, no doubt about it...
+Dialogue: 0,0:03:45.82,0:03:50.04,Default,,0000,0000,0000,,That stance... is the \NGigan-style Double Tomahawk,
+Dialogue: 0,0:03:50.04,0:03:53.96,Default,,0000,0000,0000,,an unbeatable technique\Ntouted by Ogrestan's fearsome army!
+Dialogue: 0,0:03:53.96,0:03:56.54,Default,,0000,0000,0000,,It's said that no living creature on the planet can survive
+Dialogue: 0,0:03:56.54,0:03:58.92,Default,,0000,0000,0000,,the crushing weight with which the vortex spins...
+Dialogue: 0,0:04:03.63,0:04:06.08,Default,,0000,0000,0000,,I am committed to the pursuit of true love.
+Dialogue: 0,0:04:06.08,0:04:10.63,Default,,0000,0000,0000,,The very idea of being defeated by\Na fiend like you is preposterous!
+Dialogue: 0,0:04:10.93,0:04:16.63,Default,,0000,0000,0000,,I, Antonio Spartokos,\Nhave adored Lady Lisa since childhood...
+Dialogue: 0,0:04:17.79,0:04:22.74,Default,,0000,0000,0000,,So that she might think of me as a man,\NI have poured my efforts into honing my skills...
+Dialogue: 0,0:04:26.08,0:04:29.41,Default,,0000,0000,0000,,Along with maintaining a \Nstrict code of sexual purity!
+Dialogue: 0,0:04:29.41,0:04:30.42,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:04:30.62,0:04:31.95,Default,,0000,0000,0000,,"Purity"...?
+Dialogue: 0,0:04:31.95,0:04:33.87,Default,,0000,0000,0000,,The dude's a virgin?!
+Dialogue: 0,0:04:33.87,0:04:36.02,Default,,0000,0000,0000,,With a ruggedly handsome face like that...?!
+Dialogue: 0,0:04:36.02,0:04:38.49,Default,,0000,0000,0000,,Give the poor guy a break, Peter...
+Dialogue: 0,0:04:38.49,0:04:40.67,Default,,0000,0000,0000,,For God's sake, show some compassion!
+Dialogue: 0,0:04:41.92,0:04:43.56,On Top,,0000,0000,0000,,Lose the fight, Peter...
+Dialogue: 0,0:04:43.56,0:04:45.25,On Top,,0000,0000,0000,,Lose the fight, Peter...
+Dialogue: 0,0:04:45.25,0:04:46.86,On Top,,0000,0000,0000,,Lose the fight, Peter...
+Dialogue: 0,0:04:46.86,0:04:48.00,On Top,,0000,0000,0000,,Lose the fight, Peter...
+Dialogue: 0,0:04:48.00,0:04:50.22,Default,,0000,0000,0000,,Trust me, I'd love nothing more!
+Dialogue: 0,0:04:48.00,0:04:50.22,On Top,,0000,0000,0000,,Trust me, I'd love nothing more!\NLose the fight, Peter...
+Dialogue: 0,0:04:50.22,0:04:55.23,On Top,,0000,0000,0000,,Lose the fight, Peter...
+Dialogue: 0,0:04:50.96,0:04:55.23,Default,,0000,0000,0000,,I've never wanted to lose something\Nso badly in my whole life!
+Dialogue: 0,0:04:55.58,0:04:56.92,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:05:00.75,0:05:03.46,Default,,0000,0000,0000,,What else am I supposed to do here...?!
+Dialogue: 0,0:05:04.67,0:05:08.50,Default,,0000,0000,0000,,Gigan-style Secret Art: \NWhirling Blade of Destruction!
+Dialogue: 0,0:05:12.71,0:05:13.83,Default,,0000,0000,0000,,I'm sorry...!
+Dialogue: 0,0:05:15.00,0:05:17.67,Default,,0000,0000,0000,,I'm so sorry, Spartokos-kun...!
+Dialogue: 0,0:05:33.21,0:05:34.61,Default,,0000,0000,0000,,I'm sorry...
+Dialogue: 0,0:05:34.61,0:05:36.06,Default,,0000,0000,0000,,Forgive me!
+Dialogue: 0,0:05:37.50,0:05:40.83,Default,,0000,0000,0000,,It would appear... that the \Nvictor has been decided.
+Dialogue: 0,0:05:41.65,0:05:43.17,Default,,0000,0000,0000,,L-Lady Lisa!
+Dialogue: 0,0:05:43.17,0:05:44.88,Default,,0000,0000,0000,,Th-This isn't what it looks like...!
+Dialogue: 0,0:05:44.88,0:05:46.90,Default,,0000,0000,0000,,And what exactly does it look like?
+Dialogue: 0,0:05:46.90,0:05:49.96,Default,,0000,0000,0000,,Peter Grill's strength \Nclearly exceeds your own.
+Dialogue: 0,0:05:51.08,0:05:51.91,Default,,0000,0000,0000,,And I...
+Dialogue: 0,0:05:52.67,0:05:54.87,Default,,0000,0000,0000,,Have no interest in weaklings!
+Dialogue: 0,0:05:57.67,0:06:02.63,Default,,0000,0000,0000,,C-C'mon... The guy travelled \Nall this way for you, y'know?
+Dialogue: 0,0:06:03.09,0:06:06.13,Default,,0000,0000,0000,,There's no need to be so hard on him...
+Dialogue: 0,0:06:06.13,0:06:07.70,Default,,0000,0000,0000,,Sir Peter...!
+Dialogue: 0,0:06:07.70,0:06:10.59,Default,,0000,0000,0000,,Lady Lisa, I mean it this time!
+Dialogue: 0,0:06:10.59,0:06:12.67,Default,,0000,0000,0000,,Please, just one chance!
+Dialogue: 0,0:06:12.67,0:06:14.96,Default,,0000,0000,0000,,Won't you give me one more chance?!
+Dialogue: 0,0:06:18.50,0:06:20.46,Default,,0000,0000,0000,,Seeing as you're willing to beg,
+Dialogue: 0,0:06:20.46,0:06:23.92,Default,,0000,0000,0000,,I shall grant you one last\Nchance to demonstrate your strength.
+Dialogue: 0,0:06:23.92,0:06:25.05,Default,,0000,0000,0000,,Lady Lisa...!
+Dialogue: 0,0:06:25.05,0:06:29.38,Default,,0000,0000,0000,,However, the next opponent \Nyou shall face is me.
+Dialogue: 0,0:06:31.00,0:06:33.83,Default,,0000,0000,0000,,A battle with Lady Lisa herself...?!
+Dialogue: 0,0:06:35.38,0:06:37.95,Default,,0000,0000,0000,,I shall postpone the match for one week.
+Dialogue: 0,0:06:37.95,0:06:42.04,Default,,0000,0000,0000,,A fight in your present condition\Nwould beget certain failure.
+Dialogue: 0,0:06:50.76,0:06:53.17,Default,,0000,0000,0000,,Well, I better get going...
+Dialogue: 0,0:06:53.17,0:06:55.04,Default,,0000,0000,0000,,Sir Peter Grill!
+Dialogue: 0,0:06:55.58,0:06:56.17,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:06:56.17,0:06:58.02,Default,,0000,0000,0000,,Wh-What are you doing?!
+Dialogue: 0,0:06:58.25,0:07:02.54,Default,,0000,0000,0000,,Please accept my sincerest apologies for the many\Ntransgressions I have committed against you!
+Dialogue: 0,0:07:02.54,0:07:04.79,Default,,0000,0000,0000,,Having experienced the power of the man who
+Dialogue: 0,0:07:04.79,0:07:07.42,Default,,0000,0000,0000,,conquered the Grand Fighting Tournament for myself,
+Dialogue: 0,0:07:07.42,0:07:09.29,Default,,0000,0000,0000,,I now know the truth!
+Dialogue: 0,0:07:09.78,0:07:13.21,Default,,0000,0000,0000,,To be honest, back in our homeland,
+Dialogue: 0,0:07:13.21,0:07:18.04,Default,,0000,0000,0000,,I was never able to achieve favorable\Nresults in a bout against Lady Lisa...
+Dialogue: 0,0:07:18.04,0:07:19.54,Default,,0000,0000,0000,,So, uh... What's your point?
+Dialogue: 0,0:07:19.54,0:07:20.75,Default,,0000,0000,0000,,I beg of you!
+Dialogue: 0,0:07:20.75,0:07:25.29,Default,,0000,0000,0000,,Won't you consider taking me \Non as as your apprentice?!
+Dialogue: 0,0:07:28.38,0:07:30.80,Default,,0000,0000,0000,,You're kiddin', right...?
+Dialogue: 0,0:07:30.80,0:07:32.26,Default,,0000,0000,0000,,PLEASE!
+Dialogue: 0,0:07:32.26,0:07:33.83,Default,,0000,0000,0000,,You're my only hope!
+Dialogue: 0,0:07:33.83,0:07:38.25,Default,,0000,0000,0000,,If this duel with Lady Lisa is to be\Nmy once-in-a-lifetime opportunity,
+Dialogue: 0,0:07:38.25,0:07:41.07,Default,,0000,0000,0000,,I cannot afford to let victory \Nslip through my grasp!
+Dialogue: 0,0:07:41.07,0:07:42.62,Default,,0000,0000,0000,,Yeah, but I...
+Dialogue: 0,0:07:42.62,0:07:44.77,Default,,0000,0000,0000,,I don't do the whole "apprentice" thing...
+Dialogue: 0,0:07:44.77,0:07:48.28,Default,,0000,0000,0000,,Please, I beseech you! I need your help!
+Dialogue: 0,0:07:49.33,0:07:51.38,Default,,0000,0000,0000,,Your pleas have been heard.
+Dialogue: 0,0:07:53.03,0:07:58.24,Default,,0000,0000,0000,,I recommend that you accept the\Npitiful Ogre's request, Peter Grill.
+Dialogue: 0,0:07:58.24,0:08:01.04,Default,,0000,0000,0000,,I-I, too, urge you to help him.
+Dialogue: 0,0:08:01.50,0:08:03.42,Default,,0000,0000,0000,,Wh-What are you talking about?
+Dialogue: 0,0:08:04.46,0:08:05.74,Default,,0000,0000,0000,,It's very simple.
+Dialogue: 0,0:08:05.74,0:08:09.25,Default,,0000,0000,0000,,If we were to focus our collective\Nefforts on training the Ogre,
+Dialogue: 0,0:08:09.25,0:08:11.80,Default,,0000,0000,0000,,we would guarantee his victory in the duel.
+Dialogue: 0,0:08:11.80,0:08:18.21,Default,,0000,0000,0000,,Consequently, Lisa Alpacas would choose\NSpartokos over you and return to her homeland!
+Dialogue: 0,0:08:18.79,0:08:22.31,Default,,0000,0000,0000,,I believe that there's no harm in\Nat least trying to work together!
+Dialogue: 0,0:08:22.31,0:08:23.50,Default,,0000,0000,0000,,True enough...
+Dialogue: 0,0:08:23.96,0:08:26.71,Default,,0000,0000,0000,,I might not be able to resist \Nthe Ogre sisters myself...
+Dialogue: 0,0:08:26.71,0:08:29.82,Default,,0000,0000,0000,,But I could mount an indirect attack\Nby helping Spartokos-kun...
+Dialogue: 0,0:08:29.82,0:08:33.75,Default,,0000,0000,0000,,If he can manage to convince \NLisa of his strength, then...
+Dialogue: 0,0:08:34.54,0:08:36.21,Default,,0000,0000,0000,,Alright, let's give it a try!
+Dialogue: 0,0:08:38.46,0:08:41.63,Default,,0000,0000,0000,,However, my lessons won't be easy.
+Dialogue: 0,0:08:42.38,0:08:43.54,Default,,0000,0000,0000,,Are you prepared for that?!
+Dialogue: 0,0:08:44.17,0:08:46.38,Default,,0000,0000,0000,,Yes, Sir Peter!
+Dialogue: 0,0:08:47.67,0:08:51.33,Default,,0000,0000,0000,,Thus, the "Ogre Training Program"\Nhad been set into motion.
+Dialogue: 0,0:08:53.80,0:08:54.67,Default,,0000,0000,0000,,Again!
+Dialogue: 0,0:08:54.67,0:08:55.58,Default,,0000,0000,0000,,Again!
+Dialogue: 0,0:08:55.92,0:08:56.93,Default,,0000,0000,0000,,Again!
+Dialogue: 0,0:08:56.93,0:08:57.75,Default,,0000,0000,0000,,Again!
+Dialogue: 0,0:08:57.75,0:08:58.71,Default,,0000,0000,0000,,Keep going!
+Dialogue: 0,0:08:58.71,0:08:59.46,Default,,0000,0000,0000,,Swing!
+Dialogue: 0,0:08:59.79,0:09:00.58,Default,,0000,0000,0000,,Swing!
+Dialogue: 0,0:09:00.92,0:09:01.79,Default,,0000,0000,0000,,Swing!
+Dialogue: 0,0:09:04.96,0:09:07.96,Default,,0000,0000,0000,,Between Peter Grill,\Nthe world's strongest combat instructor...
+Dialogue: 0,0:09:12.29,0:09:17.21,Default,,0000,0000,0000,,...a forbidden form of muscle-enhancing black\Nmagic passed down amongst the Elves...
+Dialogue: 0,0:09:19.67,0:09:25.33,Default,,0000,0000,0000,,...and a recipe using ingredients outlawed by\NOrc society that amplifies physical strength...
+Dialogue: 0,0:09:34.88,0:09:37.38,Default,,0000,0000,0000,,I... strong.
+Dialogue: 0,0:09:37.38,0:09:40.27,Default,,0000,0000,0000,,I... win.
+Dialogue: 0,0:09:40.27,0:09:43.92,Default,,0000,0000,0000,,Does something seem a little off to you...?
+Dialogue: 0,0:09:48.02,0:09:49.83,Default,,0000,0000,0000,,Here you go, Sir Peter.
+Dialogue: 0,0:09:50.13,0:09:51.13,Default,,0000,0000,0000,,Thanks.
+Dialogue: 0,0:09:52.46,0:09:54.75,Default,,0000,0000,0000,,Well, I think it's about time for lunch...
+Dialogue: 0,0:09:56.96,0:09:58.03,Default,,0000,0000,0000,,Good work out there today.
+Dialogue: 0,0:09:58.03,0:09:59.46,Default,,0000,0000,0000,,That's Mitchie, the Guild receptionist...
+Dialogue: 0,0:09:59.46,0:10:00.42,Default,,0000,0000,0000,,Your kindness is most appreciated.\NThat's Mitchie, the Guild receptionist...
+Dialogue: 0,0:10:00.42,0:10:01.55,Default,,0000,0000,0000,,Your kindness is most appreciated.
+Dialogue: 0,0:10:01.55,0:10:03.12,Default,,0000,0000,0000,,What's she doing here?
+Dialogue: 0,0:10:03.12,0:10:04.88,Default,,0000,0000,0000,,Y-You see...
+Dialogue: 0,0:10:04.88,0:10:08.54,Default,,0000,0000,0000,,She's been coming around to drop\Noff lunch like that a lot lately...
+Dialogue: 0,0:10:08.92,0:10:09.29,Default,,0000,0000,0000,,I-I can't help but feel as though Lady Mitchie\Nmight be in love with Sir Spartokos...
+Dialogue: 0,0:10:09.29,0:10:13.04,On Top,,0000,0000,0000,,I-If you'd like, I made a little bit extra...
+Dialogue: 0,0:10:09.29,0:10:13.04,Default,,0000,0000,0000,,I-I can't help but feel as though Lady Mitchie\Nmight be in love with Sir Spartokos...
+Dialogue: 0,0:10:13.04,0:10:15.92,Default,,0000,0000,0000,,I-I can't help but feel as though Lady Mitchie\Nmight be in love with Sir Spartokos...
+Dialogue: 0,0:10:16.92,0:10:17.83,Default,,0000,0000,0000,,Huh...
+Dialogue: 0,0:10:33.73,0:10:37.92,Default,,0000,0000,0000,,It would appear that you've come prepared\Nwith yet more training under your belt.
+Dialogue: 0,0:10:38.54,0:10:39.63,Default,,0000,0000,0000,,Lady Lisa...
+Dialogue: 0,0:10:40.42,0:10:41.74,Default,,0000,0000,0000,,Today is the day...
+Dialogue: 0,0:10:41.74,0:10:48.25,Default,,0000,0000,0000,,That I, Spartokos, shall prove my\Nworth as a man once and for all!
+Dialogue: 0,0:11:01.58,0:11:04.13,Default,,0000,0000,0000,,Hajimari wa tada no koigokoro
+Dialogue: 0,0:11:04.13,0:11:07.04,Default,,0000,0000,0000,,Kizukeba yuiitsumuni no yoridokoro
+Dialogue: 0,0:11:07.04,0:11:09.83,Default,,0000,0000,0000,,Onaji toki kizami toshi o torou yo
+Dialogue: 0,0:11:09.83,0:11:13.08,Default,,0000,0000,0000,,Korekara wa onegai sa
+Dialogue: 0,0:11:13.08,0:11:15.13,Default,,0000,0000,0000,,Stay with me, stay with me
+Dialogue: 0,0:11:15.13,0:11:18.82,Default,,0000,0000,0000,,So long time tonari ni ite eikyuu ni
+Dialogue: 0,0:11:18.82,0:11:21.88,Default,,0000,0000,0000,,Tatakai no hibi ni tsukaretemo
+Dialogue: 0,0:11:21.88,0:11:24.39,Default,,0000,0000,0000,,Ikari no ame ni furaretemo
+Dialogue: 0,0:11:24.39,0:11:27.21,Default,,0000,0000,0000,,Nureteshimau naraba mayowazu
+Dialogue: 0,0:11:27.21,0:11:29.63,Default,,0000,0000,0000,,Ore ga kawari ni anata no kasa to naru
+Dialogue: 0,0:11:29.63,0:11:32.42,Default,,0000,0000,0000,,Samukunai yo tonari ni iru
+Dialogue: 0,0:11:32.42,0:11:35.13,Default,,0000,0000,0000,,Tada soredake de
+Dialogue: 0,0:11:35.13,0:11:38.00,Default,,0000,0000,0000,,Kimi wa boku no yoridokoro sa
+Dialogue: 0,0:11:38.00,0:11:41.88,Default,,0000,0000,0000,,Sono egao ni mata iyasareru
+Dialogue: 0,0:11:41.88,0:11:44.29,Default,,0000,0000,0000,,Sekaijuu sagashitemo
+Dialogue: 0,0:11:44.29,0:11:46.38,Default,,0000,0000,0000,,Kawari nante inai
+Dialogue: 0,0:11:46.38,0:11:49.38,Default,,0000,0000,0000,,Kimi wa boku no yoridokoro sa
+Dialogue: 0,0:11:49.38,0:11:53.33,Default,,0000,0000,0000,,Soko ni iru dake de mata mitasareru
+Dialogue: 0,0:11:53.33,0:11:55.54,Default,,0000,0000,0000,,Donna ni kizutsuitemo
+Dialogue: 0,0:11:55.54,0:11:59.21,Default,,0000,0000,0000,,Kono mi sasage mamoru kara
+Dialogue: 0,0:12:01.50,0:12:03.67,Default,,0000,0000,0000,,Dear Sir Peter Grill,
+Dialogue: 0,0:12:04.21,0:12:06.78,Default,,0000,0000,0000,,Heard you took on an \Napprentice. Color me shocked!
+Dialogue: 0,0:12:07.08,0:12:10.33,Default,,0000,0000,0000,,I wouldn't mind goin' a few rounds\Nwith you one of these days.
+Dialogue: 0,0:12:07.58,0:12:10.75,On Top,,0000,0000,0000,,Episode 12: Peter Grill and \Nthe Warrior that Shouted Love

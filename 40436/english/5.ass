@@ -1,0 +1,205 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:11.71,0:00:15.07,Default,,0000,0000,0000,,My darling Luvellia is \Ndrifting away from my side...
+Dialogue: 0,0:00:19.79,0:00:21.25,Default,,0000,0000,0000,,Unacceptable!
+Dialogue: 0,0:00:22.66,0:00:25.79,Default,,0000,0000,0000,,Guildmaster, a missive has arrived...
+Dialogue: 0,0:00:35.83,0:00:41.50,Default,,0000,0000,0000,,With this, you shall meet \Nyour demise... Peter Grill!
+Dialogue: 0,0:00:51.75,0:00:55.33,Default,,0000,0000,0000,,Kanzen seijin ni nante nare yashinai
+Dialogue: 0,0:00:58.13,0:01:01.54,Default,,0000,0000,0000,,Nanben shippai shite naori mo shinai
+Dialogue: 0,0:01:04.62,0:01:07.88,Default,,0000,0000,0000,,Doushiyoumonai shi datte datte muri datta shi
+Dialogue: 0,0:01:07.88,0:01:11.13,Default,,0000,0000,0000,,Konna hazu janai tte genjitsutouhi
+Dialogue: 0,0:01:11.13,0:01:17.34,Default,,0000,0000,0000,,Mata shinitakunaru konna jibun, iya
+Dialogue: 0,0:01:17.34,0:01:20.71,Default,,0000,0000,0000,,Fusagikonde uso o tsuite kizutsuita tte naite
+Dialogue: 0,0:01:20.71,0:01:23.56,Default,,0000,0000,0000,,Maigo no kanjou dakishimete nemuttemo
+Dialogue: 0,0:01:23.88,0:01:27.13,Default,,0000,0000,0000,,Koukai zenzen zenzen zenzen kienai!
+Dialogue: 0,0:01:27.13,0:01:30.75,Default,,0000,0000,0000,,Hitorikiri de kubi shimeai
+Dialogue: 0,0:01:31.58,0:01:34.96,Default,,0000,0000,0000,,Kanzen seijin ni nante nare yashinai \Nitsumo risou ni zasetsu shite
+Dialogue: 0,0:01:34.96,0:01:38.08,Default,,0000,0000,0000,,Kanzen seijin ni nante nare yashinai \Nitsumo risou ni zasetsu shite
+Dialogue: 0,0:01:38.08,0:01:41.29,Default,,0000,0000,0000,,Jibun semeru pose dake totte oyasui \Nmenzai nigirishimete amaeteru
+Dialogue: 0,0:01:41.29,0:01:44.58,Default,,0000,0000,0000,,Jibun semeru pose dake totte oyasui \Nmenzai nigirishimete amaeteru
+Dialogue: 0,0:01:44.58,0:01:47.71,Default,,0000,0000,0000,,Nanben shippai shite naori mo shinai
+Dialogue: 0,0:01:47.71,0:01:50.96,Default,,0000,0000,0000,,Hansei bakari de kawarenakute
+Dialogue: 0,0:01:50.96,0:01:54.21,Default,,0000,0000,0000,,Kokorogoroshi yarisugosu owaranai \Nzange to yuuutsu no yoru
+Dialogue: 0,0:01:54.21,0:01:57.97,Default,,0000,0000,0000,,Kokorogoroshi yarisugosu owaranai \Nzange to yuuutsu no yoru
+Dialogue: 0,0:02:03.88,0:02:07.13,Default,,0000,0000,0000,,Kanzen na jibun ga dokonimo inai
+Dialogue: 0,0:02:10.13,0:02:13.36,Default,,0000,0000,0000,,Saitei na jibun shika mitsukaranai
+Dialogue: 0,0:02:15.38,0:02:18.11,Default,,0000,0000,0000,,Marriage... proposal?
+Dialogue: 0,0:02:18.11,0:02:19.32,Default,,0000,0000,0000,,Precisely.
+Dialogue: 0,0:02:19.00,0:02:26.21,On Top,,0000,0000,0000,,Episode 5: Peter Grill and \Na Blind Date with an Orc
+Dialogue: 0,0:02:19.32,0:02:24.67,Default,,0000,0000,0000,,We have received a missive from Orcland\Nrequesting access to your future offspring.
+Dialogue: 0,0:02:25.21,0:02:29.00,Default,,0000,0000,0000,,Having witnessed your performance in\Nthe Grand Fighting Tournament,
+Dialogue: 0,0:02:29.00,0:02:31.92,Default,,0000,0000,0000,,a member of the Orc aristocracy named\NMr. Babe has come forth with a direct offer.
+Dialogue: 0,0:02:31.92,0:02:36.34,Default,,0000,0000,0000,,But Luvellia-senpai and I \Nalready pledged ourselves!
+Dialogue: 0,0:02:37.08,0:02:38.00,Default,,0000,0000,0000,,Father!
+Dialogue: 0,0:02:38.46,0:02:40.63,Default,,0000,0000,0000,,What in the world is the meaning of this?!
+Dialogue: 0,0:02:41.29,0:02:44.13,Default,,0000,0000,0000,,The Guild recognized my \Nengagement to Peter-kun.
+Dialogue: 0,0:02:44.13,0:02:45.93,Default,,0000,0000,0000,,A marriage proposal?! Now, of all times?!
+Dialogue: 0,0:02:45.93,0:02:48.25,Default,,0000,0000,0000,,Calm yourself, Luvellia.
+Dialogue: 0,0:02:48.25,0:02:50.94,Default,,0000,0000,0000,,Consider this nothing more than a formality.
+Dialogue: 0,0:02:51.25,0:02:52.63,Default,,0000,0000,0000,,If I may be so bold,
+Dialogue: 0,0:02:52.63,0:02:56.88,Default,,0000,0000,0000,,the nobility hailing from Great Orcland and\Nthe southern United Pork Pie Kingdom
+Dialogue: 0,0:02:56.88,0:02:59.38,Default,,0000,0000,0000,,are some of our Guild's \Nmost influential patrons.
+Dialogue: 0,0:02:59.79,0:03:02.21,Default,,0000,0000,0000,,Due to the substantial monetary\Ncontributions they provide,
+Dialogue: 0,0:03:02.21,0:03:05.62,Default,,0000,0000,0000,,it would be unwise to decline \Ntheir request outright.
+Dialogue: 0,0:03:05.62,0:03:09.96,Default,,0000,0000,0000,,So as not to disgrace our esteemed allies,\Nwe must adhere to the standard protocol.
+Dialogue: 0,0:03:09.96,0:03:13.54,Default,,0000,0000,0000,,After that, etiquette \Ndictates a polite refusal.
+Dialogue: 0,0:03:14.29,0:03:15.63,Default,,0000,0000,0000,,Please, Guildmaster...!
+Dialogue: 0,0:03:16.13,0:03:18.13,Default,,0000,0000,0000,,Is there some sort of problem?
+Dialogue: 0,0:03:18.13,0:03:21.63,Default,,0000,0000,0000,,As Luvellia's loyal fiancé,\Nyou don't intend to become emotionally
+Dialogue: 0,0:03:21.63,0:03:24.89,Default,,0000,0000,0000,,attached to this potential \Nmarriage partner, do you?
+Dialogue: 0,0:03:24.89,0:03:28.13,Default,,0000,0000,0000,,No, I would never dream of such a thing...
+Dialogue: 0,0:03:28.47,0:03:32.17,Default,,0000,0000,0000,,I'm well aware of what you're \Ntrying to pull, Father.
+Dialogue: 0,0:03:32.17,0:03:34.71,Default,,0000,0000,0000,,However, you're wasting your time.
+Dialogue: 0,0:03:35.42,0:03:40.38,Default,,0000,0000,0000,,The idea of Peter-kun betraying\Nmy trust is simply preposterous!
+Dialogue: 0,0:03:42.33,0:03:43.42,Default,,0000,0000,0000,,Layonnaise!
+Dialogue: 0,0:03:44.50,0:03:45.57,Default,,0000,0000,0000,,The pain...
+Dialogue: 0,0:03:45.57,0:03:47.16,Default,,0000,0000,0000,,My heart can't take this...!
+Dialogue: 0,0:03:47.16,0:03:48.38,Default,,0000,0000,0000,,Senpai!
+Dialogue: 0,0:03:48.38,0:03:49.58,Default,,0000,0000,0000,,One little swimmer...
+Dialogue: 0,0:03:49.58,0:03:50.79,Default,,0000,0000,0000,,What about ME?!
+Dialogue: 0,0:03:56.67,0:04:01.58,Default,,0000,0000,0000,,It was exceedingly generous of you\Nto entertain our unusual request.
+Dialogue: 0,0:04:01.58,0:04:03.38,Default,,0000,0000,0000,,We are most appreciative!
+Dialogue: 0,0:04:04.43,0:04:06.58,Default,,0000,0000,0000,,This marriage proposal is \Nof great significance to us.
+Dialogue: 0,0:04:07.54,0:04:12.01,Default,,0000,0000,0000,,It presents an opportunity to reinforce the relationship between
+Dialogue: 0,0:04:12.01,0:04:15.35,Default,,0000,0000,0000,,Orcland and the Yakeppachi Warriors Guild.
+Dialogue: 0,0:04:16.50,0:04:18.58,Default,,0000,0000,0000,,Great minds think alike!
+Dialogue: 0,0:04:21.63,0:04:24.45,Default,,0000,0000,0000,,This whole blind date \Nthing is clearly a trap...
+Dialogue: 0,0:04:24.71,0:04:28.79,Default,,0000,0000,0000,,However, the Guildmaster has failed\Nto consider one crucial detail.
+Dialogue: 0,0:04:29.46,0:04:30.37,Default,,0000,0000,0000,,It's true...
+Dialogue: 0,0:04:30.37,0:04:32.96,Default,,0000,0000,0000,,Looks aren't everything, but...
+Dialogue: 0,0:04:36.71,0:04:38.21,Default,,0000,0000,0000,,That ain't gonna happen!
+Dialogue: 0,0:04:41.42,0:04:43.92,Default,,0000,0000,0000,,You! Go and fetch Piglette.
+Dialogue: 0,0:04:45.63,0:04:47.21,Default,,0000,0000,0000,,Did he say "Piglette"?!
+Dialogue: 0,0:04:48.50,0:04:51.00,Default,,0000,0000,0000,,Humans and Orcs are two distinct cultures.
+Dialogue: 0,0:04:51.00,0:04:54.34,Default,,0000,0000,0000,,Each has a vastly different \Nconcept of ideal beauty.
+Dialogue: 0,0:04:54.34,0:04:59.06,Default,,0000,0000,0000,,If I had to guess, the Guildmaster's goal is to\Ntrick me into causing some sort of scandal.
+Dialogue: 0,0:04:59.54,0:05:01.88,Default,,0000,0000,0000,,But this time, I have total confidence!
+Dialogue: 0,0:05:03.79,0:05:05.13,Default,,0000,0000,0000,,Oink...!
+Dialogue: 0,0:05:05.95,0:05:08.50,Default,,0000,0000,0000,,Me, fall for an Orc? No way in...
+Dialogue: 0,0:05:09.03,0:05:09.78,Default,,0000,0000,0000,,...hell?!
+Dialogue: 0,0:05:15.08,0:05:19.58,Default,,0000,0000,0000,,P-Piglette Pancetta, at your service.
+Dialogue: 0,0:05:24.33,0:05:26.76,Default,,0000,0000,0000,,Sh-She's cute?!
+Dialogue: 0,0:05:30.67,0:05:34.88,Default,,0000,0000,0000,,Now then, get to know one another.\NLet your friendship blossom.
+Dialogue: 0,0:05:44.21,0:05:46.24,Default,,0000,0000,0000,,The old bastard set me up...!
+Dialogue: 0,0:05:46.54,0:05:49.19,Default,,0000,0000,0000,,I already know where this is going...
+Dialogue: 0,0:05:49.19,0:05:50.46,Default,,0000,0000,0000,,Man milk!
+Dialogue: 0,0:05:50.46,0:05:51.95,Default,,0000,0000,0000,,Oink!
+Dialogue: 0,0:05:58.58,0:06:00.67,Default,,0000,0000,0000,,I-Is she about to give birth?!
+Dialogue: 0,0:06:00.92,0:06:03.29,Default,,0000,0000,0000,,Uh... Are you okay?
+Dialogue: 0,0:06:03.29,0:06:06.63,Default,,0000,0000,0000,,F-forgive me... I-it's just...
+Dialogue: 0,0:06:07.63,0:06:11.46,Default,,0000,0000,0000,,I've never spoken to a man \Nthis much in my life...
+Dialogue: 0,0:06:12.00,0:06:14.29,Default,,0000,0000,0000,,But we've barely said \Ntwo words to each other!
+Dialogue: 0,0:06:19.42,0:06:21.38,Default,,0000,0000,0000,,S-Sorry...
+Dialogue: 0,0:06:22.90,0:06:26.17,Default,,0000,0000,0000,,Guildmaster, a young lady such as she...
+Dialogue: 0,0:06:26.17,0:06:28.50,Default,,0000,0000,0000,,Fret not, Goodman...
+Dialogue: 0,0:06:30.13,0:06:31.32,Default,,0000,0000,0000,,Guildmaster!
+Dialogue: 0,0:06:31.32,0:06:32.79,Default,,0000,0000,0000,,My apologies for the delay.
+Dialogue: 0,0:06:33.13,0:06:35.38,Default,,0000,0000,0000,,I've brought the Goon Squad \NTrio, as you requested.
+Dialogue: 0,0:06:37.58,0:06:39.75,Default,,0000,0000,0000,,Goon Squad Trio?!
+Dialogue: 0,0:06:41.63,0:06:45.62,Default,,0000,0000,0000,,I was employed as a servant by Master Babe.
+Dialogue: 0,0:06:45.62,0:06:49.17,Default,,0000,0000,0000,,One day, I suddenly found myself\Nswept up in talks of marriage...
+Dialogue: 0,0:06:49.75,0:06:50.92,Default,,0000,0000,0000,,Does that mean...
+Dialogue: 0,0:06:50.92,0:06:53.22,Default,,0000,0000,0000,,You're not on board with this whole thing?
+Dialogue: 0,0:06:53.54,0:06:57.83,Default,,0000,0000,0000,,Y-You see, I'm merely doing \Nas Master Babe instructed...
+Dialogue: 0,0:07:00.60,0:07:01.42,Default,,0000,0000,0000,,However...
+Dialogue: 0,0:07:03.23,0:07:05.86,Default,,0000,0000,0000,,Your breathtaking performance at the tournament is burned into
+Dialogue: 0,0:07:05.86,0:07:07.86,Default,,0000,0000,0000,,my memories even now, Sir Peter.
+Dialogue: 0,0:07:10.79,0:07:14.63,Default,,0000,0000,0000,,Offering a repulsive woman like\Nme to a noble man like you...
+Dialogue: 0,0:07:15.17,0:07:16.00,Default,,0000,0000,0000,,It's...!
+Dialogue: 0,0:07:16.54,0:07:18.54,Default,,0000,0000,0000,,Repulsive?! You?!
+Dialogue: 0,0:07:18.92,0:07:21.32,Default,,0000,0000,0000,,I'm an outcast in Orc society.
+Dialogue: 0,0:07:21.32,0:07:26.05,Default,,0000,0000,0000,,My entire life, I've been treated like garbage\Nfor having the appearance of a Human...
+Dialogue: 0,0:07:26.92,0:07:27.99,Default,,0000,0000,0000,,I'm sorry!
+Dialogue: 0,0:07:27.99,0:07:31.50,Default,,0000,0000,0000,,Only a fool would be seen with \Na hideous Orc like me...!
+Dialogue: 0,0:07:32.33,0:07:33.08,Default,,0000,0000,0000,,Wait!
+Dialogue: 0,0:07:38.97,0:07:40.75,Default,,0000,0000,0000,,P-Pardon me...
+Dialogue: 0,0:07:41.96,0:07:43.88,Default,,0000,0000,0000,,Hey there, sweet cheeks!
+Dialogue: 0,0:07:43.88,0:07:48.46,Default,,0000,0000,0000,,If you ain't got nowhere to be,\Nhow's about joinin' us for a bite to eat?
+Dialogue: 0,0:07:48.46,0:07:51.08,Default,,0000,0000,0000,,Let us show you a good time...
+Dialogue: 0,0:07:51.50,0:07:55.63,Default,,0000,0000,0000,,U-Um... No, thank you. I...
+Dialogue: 0,0:07:56.03,0:07:57.17,Default,,0000,0000,0000,,Hey, back off!
+Dialogue: 0,0:07:57.88,0:07:59.67,Default,,0000,0000,0000,,S-Sir Peter...?
+Dialogue: 0,0:07:59.67,0:08:02.41,Default,,0000,0000,0000,,Piglette-san, stay behind me.
+Dialogue: 0,0:08:02.41,0:08:04.12,Default,,0000,0000,0000,,The hell's your problem?!
+Dialogue: 0,0:08:04.12,0:08:06.30,Default,,0000,0000,0000,,Dammit! Yer pissin' me off!
+Dialogue: 0,0:08:06.30,0:08:08.05,Default,,0000,0000,0000,,It's slaughter time, boys!
+Dialogue: 0,0:08:15.08,0:08:16.30,Default,,0000,0000,0000,,Now's our chance!
+Dialogue: 0,0:08:20.04,0:08:25.38,Default,,0000,0000,0000,,Th-Thank you, Sir Peter...\Nfor rescuing such an ugly woman...
+Dialogue: 0,0:08:26.31,0:08:28.59,Default,,0000,0000,0000,,You aren't ugly at all.
+Dialogue: 0,0:08:28.59,0:08:33.71,Default,,0000,0000,0000,,That might be the case in the Orc world,\Nbut let's get one thing straight:
+Dialogue: 0,0:08:33.71,0:08:36.32,Default,,0000,0000,0000,,By Human standards, you're really cute.
+Dialogue: 0,0:08:36.83,0:08:39.13,Default,,0000,0000,0000,,C-C-C-Cu...?!
+Dialogue: 0,0:08:44.67,0:08:47.88,Default,,0000,0000,0000,,So have a little more \Nconfidence in yourself, okay?
+Dialogue: 0,0:08:48.63,0:08:49.71,Default,,0000,0000,0000,,Oh, my bad.
+Dialogue: 0,0:08:55.71,0:09:01.99,Default,,0000,0000,0000,,W-Well then, could we take a \Ntour of the town together...?
+Dialogue: 0,0:09:01.99,0:09:03.04,Default,,0000,0000,0000,,Of course!
+Dialogue: 0,0:09:11.25,0:09:12.58,Default,,0000,0000,0000,,How beautiful...!
+Dialogue: 0,0:09:17.16,0:09:19.25,Default,,0000,0000,0000,,I've always wanted to visit a Human city.
+Dialogue: 0,0:09:19.25,0:09:23.04,Default,,0000,0000,0000,,I figured that it might be easier for\Na hideous woman like myself...
+Dialogue: 0,0:09:24.21,0:09:25.96,Default,,0000,0000,0000,,To blend in, you know?
+Dialogue: 0,0:09:31.33,0:09:32.96,Default,,0000,0000,0000,,That was a blast!
+Dialogue: 0,0:09:37.17,0:09:39.04,Default,,0000,0000,0000,,Out with it, you two.
+Dialogue: 0,0:09:39.04,0:09:42.44,Default,,0000,0000,0000,,Were you able to connect with\Neach other on a deeper level?
+Dialogue: 0,0:09:42.44,0:09:44.63,Default,,0000,0000,0000,,With all due respect, I must speak my mind.
+Dialogue: 0,0:09:45.21,0:09:49.29,Default,,0000,0000,0000,,This marriage proposal is nothing more\Nthan a ploy to score political points.
+Dialogue: 0,0:09:49.63,0:09:52.75,Default,,0000,0000,0000,,The intentions of those involved\Nare not being taken into account.
+Dialogue: 0,0:09:54.75,0:09:59.46,Default,,0000,0000,0000,,I believe Miss Piglette feels likewise and\Nwould prefer not to proceed any further.
+Dialogue: 0,0:10:00.08,0:10:02.57,Default,,0000,0000,0000,,Does he speak the truth, Piglette?
+Dialogue: 0,0:10:02.57,0:10:04.62,Default,,0000,0000,0000,,W-Well, I...
+Dialogue: 0,0:10:04.62,0:10:06.75,Default,,0000,0000,0000,,Now then, if you'll excuse me...
+Dialogue: 0,0:10:08.46,0:10:09.52,Default,,0000,0000,0000,,How rude!
+Dialogue: 0,0:10:09.52,0:10:11.92,Default,,0000,0000,0000,,Leaving your seat before our esteemed\Nguest has a chance to respond?
+Dialogue: 0,0:10:11.92,0:10:13.13,Default,,0000,0000,0000,,Where are your manners?!
+Dialogue: 0,0:10:14.54,0:10:18.08,Default,,0000,0000,0000,,Perhaps the two of you have not had enough time to
+Dialogue: 0,0:10:18.08,0:10:20.64,Default,,0000,0000,0000,,gain an intimate understanding of one another...
+Dialogue: 0,0:10:20.96,0:10:23.35,Default,,0000,0000,0000,,Don't you agree, Piglette?
+Dialogue: 0,0:10:27.58,0:10:28.71,Default,,0000,0000,0000,,What the hell...?
+Dialogue: 0,0:10:29.83,0:10:30.85,Default,,0000,0000,0000,,Guildmaster!
+Dialogue: 0,0:10:30.85,0:10:34.67,Default,,0000,0000,0000,,If you spend one night in this room,\Nat least we can say that we tried.
+Dialogue: 0,0:10:34.67,0:10:37.63,Default,,0000,0000,0000,,Though a mere formality,\Nwe must be sure to cover all our bases.
+Dialogue: 0,0:10:38.08,0:10:41.42,Default,,0000,0000,0000,,I sincerely hope that you refrain\Nfrom making an error in judgement...
+Dialogue: 0,0:10:43.08,0:10:44.28,Default,,0000,0000,0000,,Oh crap...
+Dialogue: 0,0:10:44.28,0:10:45.71,Default,,0000,0000,0000,,This is bad...!
+Dialogue: 0,0:10:49.83,0:10:51.50,Default,,0000,0000,0000,,Sir Peter...
+Dialogue: 0,0:11:01.08,0:11:03.63,Default,,0000,0000,0000,,Hajimari wa tada no koigokoro
+Dialogue: 0,0:11:03.63,0:11:06.54,Default,,0000,0000,0000,,Kizukeba yuiitsumuni no yoridokoro
+Dialogue: 0,0:11:06.54,0:11:09.33,Default,,0000,0000,0000,,Onaji toki kizami toshi o torou yo
+Dialogue: 0,0:11:09.33,0:11:12.58,Default,,0000,0000,0000,,Korekara wa onegai sa
+Dialogue: 0,0:11:12.58,0:11:14.63,Default,,0000,0000,0000,,Stay with me, stay with me
+Dialogue: 0,0:11:14.63,0:11:18.32,Default,,0000,0000,0000,,So long time tonari ni ite eikyuu ni
+Dialogue: 0,0:11:18.32,0:11:21.38,Default,,0000,0000,0000,,Tatakai no hibi ni tsukaretemo
+Dialogue: 0,0:11:21.38,0:11:23.89,Default,,0000,0000,0000,,Ikari no ame ni furaretemo
+Dialogue: 0,0:11:23.89,0:11:26.54,Default,,0000,0000,0000,,Nureteshimau naraba mayowazu
+Dialogue: 0,0:11:26.54,0:11:29.13,Default,,0000,0000,0000,,Ore ga kawari ni anata no kasa to naru
+Dialogue: 0,0:11:29.13,0:11:31.92,Default,,0000,0000,0000,,Samukunai yo tonari ni iru
+Dialogue: 0,0:11:31.92,0:11:34.63,Default,,0000,0000,0000,,Tada soredake de
+Dialogue: 0,0:11:34.63,0:11:37.50,Default,,0000,0000,0000,,Kimi wa boku no yoridokoro sa
+Dialogue: 0,0:11:37.50,0:11:41.38,Default,,0000,0000,0000,,Sono egao ni mata iyasareru
+Dialogue: 0,0:11:41.38,0:11:43.79,Default,,0000,0000,0000,,Sekaijuu sagashitemo
+Dialogue: 0,0:11:43.79,0:11:45.88,Default,,0000,0000,0000,,Kawari nante inai
+Dialogue: 0,0:11:45.88,0:11:48.88,Default,,0000,0000,0000,,Kimi wa boku no yoridokoro sa
+Dialogue: 0,0:11:48.88,0:11:52.83,Default,,0000,0000,0000,,Soko ni iru dake de mata mitasareru
+Dialogue: 0,0:11:52.83,0:11:55.04,Default,,0000,0000,0000,,Donna ni kizutsuitemo
+Dialogue: 0,0:11:55.04,0:11:58.71,Default,,0000,0000,0000,,Kono mi sasage mamoru kara
+Dialogue: 0,0:12:01.00,0:12:03.25,Default,,0000,0000,0000,,Dear Sir Peter Grill,
+Dialogue: 0,0:12:03.88,0:12:06.91,Default,,0000,0000,0000,,Between your fortitude and ingenuity,\Nnobody can catch you off guard.
+Dialogue: 0,0:12:06.91,0:12:09.83,Default,,0000,0000,0000,,That's the beauty of being \Nthe strongest man alive, eh?
+Dialogue: 0,0:12:08.46,0:12:10.50,Default,,0000,0000,0000,,Episode 6: Peter Grill and \Nthe Orc's True Character
