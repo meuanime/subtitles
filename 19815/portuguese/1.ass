@@ -1,0 +1,452 @@
+﻿[Script Info]
+Title: [Erai-raws] Português (Brasil)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: ngnl-main,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: ngnl-main-top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,0
+Style: ngnl-internal,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: ngnl-narration,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000026,&H00000026,-1,-1,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,0
+Style: ngnl-ep-title,Times New Roman,25,&H00F9FFFD,&H000000FF,&H00BB58FA,&H00D1FDFF,0,0,0,0,100,100,0,0,1,1,0,1,0079,0026,0095,0
+Style: ngnl-next-ep-title,Times New Roman,26,&H00F8FFEB,&H000000FF,&H00D200DB,&H00000A2D,-1,0,0,0,100,100,0,0,1,2,0,3,0000,0054,0085,0
+Style: ngnl-red text,Trebuchet MS,20,&H00E9E4F3,&H000000FF,&H006B4BAE,&H00222A17,0,0,0,0,100,100,0,0,1,2,0,4,0020,0020,0000,0
+Style: mail,Trebuchet MS,24,&H00D8B55B,&H000000FF,&H00F7F7EE,&H00D1FDFF,0,0,0,0,100,100,0,0,1,3,0,7,0030,0030,0010,0
+Style: mail2,Trebuchet MS,25,&H00C6B269,&H000000FF,&H00F7F7EE,&H00D1FDFF,0,0,0,0,100,100,0,0,1,0,0,8,0030,0030,0125,0
+Style: chess,Arial,35,&H00FDF9FF,&H000000FF,&H00B2D9DA,&H00CBD197,-1,0,0,0,100,100,0,346,1,0,2,8,0100,0005,0080,0
+Style: location,Trebuchet MS,18,&H00E9E4F3,&H000000FF,&H00894EC6,&H00894EC6,-1,0,0,0,100,100,0,0,1,1,1,2,0000,0000,0060,0
+Style: swwear,Times New Roman,35,&H00FFFFFF,&H000000FF,&H008233E8,&H00894EC6,0,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0100,0
+Style: vs,Arial,18,&H00FFEF9E,&H000000FF,&H00BCCB4C,&H006F808B,0,0,0,0,100,100,0,0,1,4,0,3,0020,0110,0038,0
+Style: screen-blue,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00FF8054,&H006F808B,0,0,0,0,100,100,0,0,1,4,0,7,0270,0030,0030,0
+Style: about,Trebuchet MS,18,&H00E6BFFD,&H000000FF,&H00611390,&H00D09EF6,0,0,0,0,100,100,0,0,1,1,0,3,0030,0058,0072,0
+Style: scroll,Times New Roman,16,&H0046283B,&H000000FF,&H00E7D5D7,&H00544378,-1,0,0,0,100,100,0,0,1,3,0,8,0400,0001,0110,0
+Style: air quest,Trebuchet MS,24,&H00F0C4AE,&H000000FF,&H0078A7D3,&H00000000,0,0,0,0,100,100,0,0,1,0,0,9,0000,0102,0140,0
+Style: air quest 2,Trebuchet MS,24,&H00FEF1D5,&H000000FF,&H0078A7D3,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0072,0000,0145,0
+Style: air quest 3,Trebuchet MS,24,&H00F0C4AE,&H000000FF,&H0078A7D3,&H00000000,0,0,0,0,100,100,0,0,1,0,0,9,0000,0074,0028,0
+Style: graah,Arial,40,&H00DFAC6B,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,9,0000,0020,0020,0
+Style: games only,Arial,20,&H009665DC,&H000000FF,&H00F4EAE6,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,0070,0000,0015,0
+Style: phone,Trebuchet MS,18,&H00DBBD73,&H000000FF,&H00F7F7EE,&H00D1FDFF,0,0,0,0,100,100,0,16,1,0,0,8,0050,0030,0022,0
+Style: ngnl-previa,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00490781,&H00490781,-1,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0060,0
+Style: sign_15297_166_Se_houvesse_um_m,Trebuchet MS,24,&H00D8B55B,&H000000FF,&H00F7F7EE,&H00D1FDFF,0,0,0,0,100,100,0,0,1,3,0,7,0033,0010,0151,0
+Style: sign_12238_165_Remetente__Desco,Trebuchet MS,20,&H00D8B55B,&H000000FF,&H00F7F7EE,&H00D1FDFF,0,0,0,0,100,100,0,0,1,3,0,7,0031,0306,0027,0
+Style: sign_8007_108_Para________,Trebuchet MS,24,&H00D8B55B,&H000000FF,&H00F7F7EE,&H00D1FDFF,0,0,0,0,100,100,0,0,1,3,0,7,0060,0464,0010,0
+Style: sign_8007_109_Remetente__Desco,Trebuchet MS,24,&H00D8B55B,&H000000FF,&H00F7F7EE,&H00D1FDFF,0,0,0,0,100,100,0,0,1,3,0,7,0060,0277,0078,0
+Style: sign_8007_110_Irm__ozinhos__vo,Trebuchet MS,24,&H00D8B55B,&H000000FF,&H00F7F7EE,&H00D1FDFF,0,0,0,0,100,100,0,0,1,3,0,7,0060,0166,0145,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:01.70,0:00:03.16,ngnl-red text,{Le.PenDu,0000,0000,0000,,Estou morto.
+Dialogue: 0,0:00:03.16,0:00:04.03,ngnl-red text,ksk,0000,0000,0000,,Estou morto.\N\NMorri.
+Dialogue: 0,0:00:04.03,0:00:04.37,ngnl-red text,LUNA,0000,0000,0000,,Estou morto.\N\NMorri.\N\NEstou morto, lol
+Dialogue: 0,0:00:04.37,0:00:04.70,ngnl-red text,Masa,0000,0000,0000,,Estou morto.\N\NMorri.\N\NEstou morto, lol\N\NMorto!
+Dialogue: 0,0:00:04.70,0:00:05.92,ngnl-red text,Maison-Diev,0000,0000,0000,,Estou morto.\N\NMorri.\N\NEstou morto, lol!\N\NMorto!\N\NHã? Como eu morri?!
+Dialogue: 0,0:00:05.92,0:00:06.75,ngnl-red text,Manba,0000,0000,0000,,Eles são{\i1} level{\i0} 40. Isso é impossível!
+Dialogue: 0,0:00:06.75,0:00:07.69,ngnl-red text,Niyo,0000,0000,0000,,Eles são {\i1}level{\i0} 40. Isso é impossível!  \N\N\N\NEles são invencíveis.
+Dialogue: 0,0:00:07.69,0:00:08.12,ngnl-red text,Toguro (Little Sis),0000,0000,0000,,Eles são monstros!
+Dialogue: 0,0:00:08.12,0:00:09.00,ngnl-red text,lusy07,0000,0000,0000,,Eles são monstros!\N\N\N\NO {\i1}level{\i0} deles é tão baixo, mas eles são tão fortes!
+Dialogue: 0,0:00:09.00,0:00:09.15,ngnl-red text,metabom,0000,0000,0000,,O {\i1}level{\i0} deles é tão baixo, mas eles são tão fortes! \N\N\N\NQuantos morreram?
+Dialogue: 0,0:00:09.15,0:00:09.72,ngnl-red text,Shichika,0000,0000,0000,,O {\i1}level{\i0} deles é tão baixo, mas eles são tão fortes! \N\N\N\NQuantos morreram?\N\N\N\NUma magia de baixo nível acabou de derrotar 40 ou 50!
+Dialogue: 0,0:00:09.72,0:00:10.36,ngnl-red text,Amunyan,0000,0000,0000,,Quantos morreram?\N\N\N\NUma magia de baixo nível acabou de derrotar 40 ou 50!!\N\N\N\NEsses são os lendários......?! (((( ; ゜Д゜)))gkbr
+Dialogue: 0,0:00:10.36,0:00:10.86,ngnl-red text,DoTEI,0000,0000,0000,,Esses são os lendários......?!  (((( ; ゜Д゜)))gkbr\N\N\N\NEles vão mesmo nos matar?
+Dialogue: 0,0:00:11.06,0:00:11.76,ngnl-red text,Satoru,0000,0000,0000,,Eles vão mesmo nos matar?\N\N\N\N Não, ainda há esperança.\N\N\N\N  Sobrou uma pessoa:
+Dialogue: 0,0:00:11.76,0:00:12.02,ngnl-red text,Kazuya,0000,0000,0000,,Sobrou uma pessoa:\N\N\N\N...Quem?
+Dialogue: 0,0:00:12.02,0:00:12.72,ngnl-red text,Kazuya,0000,0000,0000,,...Quem?
+Dialogue: 0,0:00:13.14,0:00:14.79,ngnl-red text,Jin,0000,0000,0000,,A mais forte. QUEEN.
+Dialogue: 0,0:00:20.36,0:00:21.65,ngnl-main,Q,0000,0000,0000,,Não acredito!
+Dialogue: 0,0:00:22.99,0:00:25.18,ngnl-main,Q,0000,0000,0000,,Tem só quatro deles!
+Dialogue: 0,0:00:29.94,0:00:31.06,ngnl-main,Q,0000,0000,0000,,E...
+Dialogue: 0,0:00:31.96,0:00:33.70,ngnl-main,,0000,0000,0000,,eles conseguiram ganhar de\Noutros 1200 jogadores?
+Dialogue: 0,0:00:44.13,0:00:46.75,ngnl-main,Q,0000,0000,0000,,Mas... esse é o fim!
+Dialogue: 0,0:01:08.76,0:01:09.55,ngnl-main,Q,0000,0000,0000,,Você é meu.
+Dialogue: 0,0:01:28.03,0:01:29.01,ngnl-main,Q,0000,0000,0000,,Não pode ser...
+Dialogue: 0,0:01:29.57,0:01:32.37,ngnl-main,Q,0000,0000,0000,,Eles... desviaram daquilo também?
+Dialogue: 0,0:01:34.32,0:01:36.70,ngnl-narration,Narr,0000,0000,0000,,Há muitas lendas urbanas por aí.
+Dialogue: 0,0:01:36.51,0:01:41.48,vs,Narr,0000,0000,0000,,{\fad(800,550)}[            ]  4 Jogadores     vs      [Night Opera]  1200 Jogadores \N\NMortes                                                    Mortes
+Dialogue: 0,0:01:36.70,0:01:40.20,ngnl-narration,Narr,0000,0000,0000,,Você já ouviu dessa?
+Dialogue: 0,0:01:40.20,0:01:42.63,ngnl-narration,Narr,0000,0000,0000,,Um grupo de jogadores desconhecidos
+Dialogue: 0,0:01:42.63,0:01:45.07,ngnl-narration,Narr,0000,0000,0000,,que vence tudo que joga
+Dialogue: 0,0:01:45.07,0:01:50.05,ngnl-narration,Narr,0000,0000,0000,,com pontuações nunca antes alcançadas.
+Dialogue: 0,0:01:51.73,0:01:54.81,ngnl-narration,Narr,0000,0000,0000,,Sua conta é sempre espaços em branco
+Dialogue: 0,0:01:54.81,0:01:57.37,ngnl-narration,Narr,0000,0000,0000,,e esse grupo é conhecido como "Kuuhaku".
+Dialogue: 0,0:01:57.37,0:02:01.40,ngnl-narration,Narr,0000,0000,0000,,Dizem que esses jogadores são invencíveis.
+Dialogue: 0,0:02:02.32,0:02:04.77,ngnl-main,Q,0000,0000,0000,,Você acha que os Kuuhaku são trapaceiros?
+Dialogue: 0,0:02:04.77,0:02:05.63,ngnl-main,Guy,0000,0000,0000,,Sim.
+Dialogue: 0,0:02:05.63,0:02:06.61,ngnl-main,Guy,0000,0000,0000,,Tenho certeza.
+Dialogue: 0,0:02:06.61,0:02:08.75,ngnl-main,Guy,0000,0000,0000,,Eles são trapaceiros.
+Dialogue: 0,0:02:08.75,0:02:12.72,ngnl-main,Guy,0000,0000,0000,,Se não fossem, não conseguiriam\Nganhar no 1200 contra 4.
+Dialogue: 0,0:02:12.72,0:02:15.40,ngnl-main,Guy,0000,0000,0000,,Miras e sistema de esquiva automático...\NManipulação de {\i1}hitboxes{\i0}.
+Dialogue: 0,0:02:15.40,0:02:17.01,ngnl-main,Guy,0000,0000,0000,,Eles só podem estar trapaceando.
+Dialogue: 0,0:02:17.34,0:02:18.31,ngnl-main,Q,0000,0000,0000,,Não.
+Dialogue: 0,0:02:19.26,0:02:21.52,ngnl-main,Q,0000,0000,0000,,{\i1}Nós{\i0} que estávamos trapaceando.
+Dialogue: 0,0:02:22.32,0:02:25.42,ngnl-main,Q,0000,0000,0000,,Ou eu não conseguiria usar magias poderosas\Ncomo aquelas uma após a outra.
+Dialogue: 0,0:02:25.42,0:02:26.40,ngnl-main,Guy,0000,0000,0000,,O quê?
+Dialogue: 0,0:02:26.40,0:02:28.45,ngnl-main,Q,0000,0000,0000,,Mas o Kuuhaku se desviou.
+Dialogue: 0,0:02:28.45,0:02:32.19,ngnl-main,Q,0000,0000,0000,,Eles sabiam que eu estava roubando\Ne não se importaram.
+Dialogue: 0,0:02:33.64,0:02:35.12,ngnl-main,Q,0000,0000,0000,,Kuuhaku...
+Dialogue: 0,0:02:35.12,0:02:37.50,ngnl-main,Q,0000,0000,0000,,Tenho certeza que eles são muito inteligentes!
+Dialogue: 0,0:02:37.74,0:02:41.28,ngnl-main,Q,0000,0000,0000,,Como será que eles são?
+Dialogue: 0,0:02:39.60,0:02:41.73,screen-blue,,0000,0000,0000,,{\fad(700,700)}QUEEN: \NKuuhaku... tenho certeza que eles são muito inteligentes! \N Como será que eles são? ❤❤
+Dialogue: 0,0:02:43.67,0:02:46.36,ngnl-narration,Narr,0000,0000,0000,,E então os rumores se espalharam mais rápido.
+Dialogue: 0,0:02:47.52,0:02:50.91,ngnl-narration,Narr,0000,0000,0000,,Lendas Urbanas são um tipo de desejo.
+Dialogue: 0,0:02:52.68,0:02:54.01,ngnl-narration,Narr,0000,0000,0000,,Porque...
+Dialogue: 0,0:02:54.97,0:03:00.43,ngnl-narration,Narr,0000,0000,0000,,na realidade, a resposta menos interessante\Ngeralmente é a correta.
+Dialogue: 0,0:03:02.99,0:03:08.89,about,{Brother,0000,0000,0000,,{\fad(500,1)}Irmão: Sora, 18 anos, Virgem\N\N\N\N\N\NProblemas de comunicação, NEET, obcecado por jogos
+Dialogue: 0,0:03:03.97,0:03:05.96,ngnl-main-top,S,0000,0000,0000,,E, no fim, vencemos...
+Dialogue: 0,0:03:08.16,0:03:09.75,ngnl-main-top,,0000,0000,0000,,Escuta, minha irmã...
+Dialogue: 0,0:03:09.75,0:03:15.35,ngnl-main-top,,0000,0000,0000,,dá para você parar de controlar a conta\Nprincipal do Kuuhaku com os pés?
+Dialogue: 0,0:03:09.96,0:03:17.84,about,,0000,0000,0000,,{\fad(500,1)}Irmã: Shiro, 11 anos\N\N\N\NNunca vai para a escola, problemas de comunicação,\Nnunca sai de casa, obcecada com jogos.
+Dialogue: 0,0:03:15.35,0:03:17.84,ngnl-main-top,Sh,0000,0000,0000,,Estou com fome.
+Dialogue: 0,0:03:19.48,0:03:21.25,ngnl-main,Sh,0000,0000,0000,,Quer comer algo?
+Dialogue: 0,0:03:22.19,0:03:23.49,ngnl-main,S,0000,0000,0000,,Obrigado.
+Dialogue: 0,0:03:31.48,0:03:34.62,ngnl-main,S,0000,0000,0000,,É estranho te ver comprando\Nrações chiques como essas.{}
+Dialogue: 0,0:03:35.65,0:03:37.39,ngnl-main,Sh,0000,0000,0000,,Nutrição é importante.
+Dialogue: 0,0:03:37.69,0:03:41.65,ngnl-main-top,S,0000,0000,0000,,O cérebro humano funciona\Ndesde que haja glicose.
+Dialogue: 0,0:03:37.79,0:03:43.43,ngnl-ep-title,Sh,0000,0000,0000,,{\fad(1350,400)}Novato
+Dialogue: 0,0:03:41.65,0:03:43.78,ngnl-main-top,S,0000,0000,0000,,Pelo custo benefício,\Npão branco é o melhor.
+Dialogue: 0,0:03:43.78,0:03:45.77,ngnl-main,Sh,0000,0000,0000,,Eficiência não é tudo.
+Dialogue: 0,0:03:45.77,0:03:49.41,ngnl-main,Sh,0000,0000,0000,,É preciso de outros tipos de\Nnutrientes para crescer.
+Dialogue: 0,0:03:49.82,0:03:52.21,ngnl-main,S,0000,0000,0000,,Você já é linda e perfeita.
+Dialogue: 0,0:03:52.21,0:03:53.68,ngnl-main,,0000,0000,0000,,Não se preocupe.
+Dialogue: 0,0:03:54.43,0:03:56.14,ngnl-main,S,0000,0000,0000,,Bom, que horas são?
+Dialogue: 0,0:03:56.14,0:03:59.46,ngnl-main,Sh,0000,0000,0000,,Ah... 8:00 AM. Estamos no meio da noite.
+Dialogue: 0,0:03:59.46,0:04:00.60,ngnl-main,S,0000,0000,0000,,Que dia?
+Dialogue: 0,0:04:00.60,0:04:02.65,ngnl-main,Sh,0000,0000,0000,,Importa mesmo? Para alguém\Nque nunca sai de casa?
+Dialogue: 0,0:04:02.65,0:04:03.75,ngnl-main,S,0000,0000,0000,,Importa.
+Dialogue: 0,0:04:03.75,0:04:06.26,ngnl-main,S,0000,0000,0000,,Ajuda a saber quando os MMORPGs\Nvão ter eventos e novos torneios!
+Dialogue: 0,0:04:06.26,0:04:07.66,ngnl-main,S,0000,0000,0000,,Espera!
+Dialogue: 0,0:04:07.66,0:04:09.04,ngnl-main,S,0000,0000,0000,,Eu sei que você está acordada por cinco dias,
+Dialogue: 0,0:04:08.35,0:04:10.62,scroll,S,0000,0000,0000,,Prova de que\Nela está\Nacordada\Nhá cinco dias.
+Dialogue: 0,0:04:09.04,0:04:10.63,ngnl-main,,0000,0000,0000,,mas se você cair no sono agora,\Nnão vamos ter um curandeiro.
+Dialogue: 0,0:04:12.16,0:04:13.75,ngnl-main,Sh,0000,0000,0000,,Você consegue.
+Dialogue: 0,0:04:13.75,0:04:16.67,ngnl-main,S,0000,0000,0000,,Você não está falando para eu controlar quatro\Npersonagens com os dois pés e mãos, está?
+Dialogue: 0,0:04:16.88,0:04:18.33,ngnl-main,Sh,0000,0000,0000,,Boa sorte!
+Dialogue: 0,0:04:19.37,0:04:21.31,ngnl-main,S,0000,0000,0000,,Espera, não! Espera!
+Dialogue: 0,0:04:21.31,0:04:23.01,ngnl-main,S,0000,0000,0000,,Se você for dormir, Shiro, todos...
+Dialogue: 0,0:04:23.01,0:04:25.04,ngnl-main,,0000,0000,0000,,E por todos eu quero dizer {\i1}eu{\i0} vou morrer!
+Dialogue: 0,0:04:27.55,0:04:29.72,ngnl-main,S,0000,0000,0000,,Certo, eu me viro!
+Dialogue: 0,0:04:34.85,0:04:38.29,ngnl-narration,Narr,0000,0000,0000,,O mundo é caótico. Irracional. Injusto.
+Dialogue: 0,0:04:38.29,0:04:39.82,ngnl-narration,Narr,0000,0000,0000,,Ele não tem objetivo.
+Dialogue: 0,0:04:40.53,0:04:46.31,ngnl-narration,Narr,0000,0000,0000,,É o desejo daqueles que sabem isso,\Nmas que se recusam a aceitar...
+Dialogue: 0,0:04:46.95,0:04:50.63,ngnl-narration,Narr,0000,0000,0000,,Um desejo que o mundo seja pelo\Nmenos um pouco interessante...
+Dialogue: 0,0:04:51.34,0:04:52.69,ngnl-narration,Narr,0000,0000,0000,,É isso...
+Dialogue: 0,0:04:53.39,0:04:54.79,ngnl-narration,Narr,0000,0000,0000,,que é uma Lenda Urbana.
+Dialogue: 0,0:04:55.87,0:04:59.77,ngnl-narration,Narr,0000,0000,0000,,Então eu vou te ajudar.
+Dialogue: 0,0:04:59.77,0:05:03.20,ngnl-narration,Narr,0000,0000,0000,,É assim que vou começar?
+Dialogue: 0,0:05:04.36,0:05:08.17,ngnl-narration,Narr,0000,0000,0000,,"Você já ouviu falar disso?"
+Dialogue: 0,0:05:10.30,0:05:12.04,ngnl-main,Sh,0000,0000,0000,,Nii... mensagem...
+Dialogue: 0,0:05:12.04,0:05:14.69,ngnl-main,S,0000,0000,0000,,Seu irmão estava jogando com quatro\Npersonagens em quatro telas diferentes.
+Dialogue: 0,0:05:14.69,0:05:17.85,ngnl-main,,0000,0000,0000,,Eu não sei o que você quer,\Nmas não tenho energia.
+Dialogue: 0,0:05:17.85,0:05:19.60,ngnl-main,Sh,0000,0000,0000,,Deve ser de um amigo.
+Dialogue: 0,0:05:20.90,0:05:21.69,ngnl-main,S,0000,0000,0000,,Amigo de quem?
+Dialogue: 0,0:05:22.09,0:05:23.35,ngnl-main,Sh,0000,0000,0000,,Seu?
+Dialogue: 0,0:05:24.52,0:05:26.09,ngnl-main,S,0000,0000,0000,,Mas que piada.
+Dialogue: 0,0:05:26.09,0:05:27.75,ngnl-main,S,0000,0000,0000,,Acho que minha querida\Nirmã falou algo muito,
+Dialogue: 0,0:05:27.75,0:05:29.17,ngnl-main,,0000,0000,0000,,mas muito sarcástico e\Nsádico para mim!
+Dialogue: 0,0:05:33.95,0:05:41.94,sign_8007_108_Para________,S,0000,0000,0000,,{\fad(1,2500)}Para "     "
+Dialogue: 0,0:05:33.95,0:05:41.94,sign_8007_109_Remetente__Desco,S,0000,0000,0000,,Remetente: Desconhecido
+Dialogue: 0,0:05:33.95,0:05:41.94,sign_8007_110_Irm__ozinhos__vo,S,0000,0000,0000,,Irmãozinhos, vocês dois já sentiram\Nque nasceram no mundo errado?
+Dialogue: 0,0:05:35.76,0:05:37.67,ngnl-main,S,0000,0000,0000,,O que é isso?
+Dialogue: 0,0:05:37.67,0:05:41.28,ngnl-main,S,0000,0000,0000,,E ele sabe que os Kuuhaku são irmãos?
+Dialogue: 0,0:05:42.90,0:05:44.08,ngnl-main,Sh,0000,0000,0000,,O que a gente faz?
+Dialogue: 0,0:05:46.84,0:05:49.04,ngnl-main,S,0000,0000,0000,,Ele está tentando usar essa\Ninformação em benefício próprio?
+Dialogue: 0,0:05:50.12,0:05:51.10,ngnl-main,S,0000,0000,0000,,Bom...
+Dialogue: 0,0:05:52.00,0:05:54.25,ngnl-main,,0000,0000,0000,,vai ser divertido ver no que isso vai dar.
+Dialogue: 0,0:05:55.60,0:05:57.44,chess,S,0000,0000,0000,,Bem-vindos
+Dialogue: 0,0:05:59.02,0:05:59.91,ngnl-main,S,0000,0000,0000,,Xadrez?
+Dialogue: 0,0:05:59.91,0:06:01.62,ngnl-main,Sh,0000,0000,0000,,Boa... noite.
+Dialogue: 0,0:06:01.62,0:06:03.00,ngnl-main,S,0000,0000,0000,,Espera!
+Dialogue: 0,0:06:03.00,0:06:07.11,ngnl-main,S,0000,0000,0000,,Eu não posso lidar com um programa\Nde alto nível de xadrez sozinho.
+Dialogue: 0,0:06:09.05,0:06:13.13,ngnl-internal,S,0000,0000,0000,,Xadrez é um jogo finito de dois jogadores,\Nsoma-zero e de informação-perfeita.
+Dialogue: 0,0:06:13.81,0:06:16.79,ngnl-internal,S,0000,0000,0000,,Sorte não tem lugar nele.
+Dialogue: 0,0:06:16.79,0:06:19.50,ngnl-internal,,0000,0000,0000,,Teoricamente, há uma solução\Nperfeita que nunca perderá.
+Dialogue: 0,0:06:20.41,0:06:23.52,ngnl-internal,S,0000,0000,0000,,Mas... só se você conseguir memorizar
+Dialogue: 0,0:06:24.06,0:06:28.17,ngnl-internal,,0000,0000,0000,,as 10^120 posições possíveis do tabuleiro.
+Dialogue: 0,0:06:31.36,0:06:32.57,ngnl-main,Sh,0000,0000,0000,,Xadrez não é diferente...
+Dialogue: 0,0:06:33.40,0:06:36.05,ngnl-main,,0000,0000,0000,,de jogo da velha.
+Dialogue: 0,0:06:38.51,0:06:39.51,ngnl-internal,S,0000,0000,0000,,Isso mesmo.
+Dialogue: 0,0:06:40.34,0:06:41.73,ngnl-internal,,0000,0000,0000,,Shiro derrotou
+Dialogue: 0,0:06:41.73,0:06:44.46,ngnl-internal,,0000,0000,0000,,20 vezes seguidas um programa feito\Npara derrotar mentes brilhantes
+Dialogue: 0,0:06:44.46,0:06:47.43,ngnl-internal,,0000,0000,0000,,apenas alternando entre\Nprimeiro e segundo.
+Dialogue: 0,0:06:49.13,0:06:50.04,ngnl-internal,S,0000,0000,0000,,Mas...
+Dialogue: 0,0:06:53.59,0:06:55.96,ngnl-main,Sh,0000,0000,0000,,Ele bloqueou o avanço das próprias peças?
+Dialogue: 0,0:06:56.43,0:06:57.49,ngnl-main,S,0000,0000,0000,,Espera, Shiro.
+Dialogue: 0,0:06:57.49,0:06:58.45,ngnl-main,Sh,0000,0000,0000,,Nii...
+Dialogue: 0,0:06:58.81,0:07:01.47,ngnl-main,S,0000,0000,0000,,O programa sempre usa\No melhor movimento.
+Dialogue: 0,0:07:01.47,0:07:03.52,ngnl-main,S,0000,0000,0000,,Por isso que você pode ganhar dele.
+Dialogue: 0,0:07:03.52,0:07:06.97,ngnl-main,S,0000,0000,0000,,Mas eles estão usando um movimento ruim de\Npropósito para te fazer cair numa armadilha.
+Dialogue: 0,0:07:06.97,0:07:08.31,ngnl-main,S,0000,0000,0000,,É um humano.
+Dialogue: 0,0:07:09.41,0:07:10.68,ngnl-main,S,0000,0000,0000,,Calma.
+Dialogue: 0,0:07:10.68,0:07:12.71,ngnl-main,S,0000,0000,0000,,Se for questão de habilidade,\Nvocê não vai perder nunca.
+Dialogue: 0,0:07:13.21,0:07:15.61,ngnl-main,S,0000,0000,0000,,Eu te digo quando ele estiver\Ntentando te atrair ou enganar.
+Dialogue: 0,0:07:15.97,0:07:19.12,ngnl-main,S,0000,0000,0000,,Nós dois, Sora e Shiro,\Nformamos o Kuuhaku juntos.
+Dialogue: 0,0:07:19.48,0:07:21.54,ngnl-main,S,0000,0000,0000,,Vamos ver se há alguém
+Dialogue: 0,0:07:21.98,0:07:24.04,ngnl-main,,0000,0000,0000,,que pode nos vencer.
+Dialogue: 0,0:07:31.45,0:07:32.81,ngnl-main,Voice,0000,0000,0000,,Xeque-mate.
+Dialogue: 0,0:07:33.38,0:07:35.14,ngnl-main,Voice,0000,0000,0000,,Você é o vencedor!
+Dialogue: 0,0:07:38.67,0:07:40.49,ngnl-main,S,0000,0000,0000,,Ganhamos!
+Dialogue: 0,0:07:40.49,0:07:43.40,ngnl-main,Sh,0000,0000,0000,,Faz tempo que não trabalho assim.
+Dialogue: 0,0:07:43.40,0:07:45.53,ngnl-main,Sh,0000,0000,0000,,Era mesmo um humano?
+Dialogue: 0,0:07:49.35,0:07:52.35,mail,,0000,0000,0000,,{\fad(1,2500)}Remetente: Desconhecido\N\N\N\N\NParabéns. \NSe vocês são tão bons em jogos assim...
+Dialogue: 0,0:07:52.35,0:07:53.84,mail2,,0000,0000,0000,,devem morar em um lugar difícil, né?
+Dialogue: 0,0:07:54.85,0:07:56.41,ngnl-main,S,0000,0000,0000,,O quê?
+Dialogue: 0,0:07:56.59,0:07:59.34,mail2,S,0000,0000,0000,,O que vocês acham do seu mundo?
+Dialogue: 0,0:07:59.35,0:08:00.88,air quest,sign,0000,0000,0000,,{\fad(200,1)}É divertido?
+Dialogue: 0,0:08:01.04,0:08:05.88,air quest 2,sign,0000,0000,0000,,{\fad(200,1)}É fácil viver aí?
+Dialogue: 0,0:08:02.66,0:08:05.44,ngnl-main,S,0000,0000,0000,,O que achamos?
+Dialogue: 0,0:08:06.20,0:08:09.03,ngnl-main,S,0000,0000,0000,,Não há como saber as regras ou o objetivo.
+Dialogue: 0,0:08:09.03,0:08:12.39,ngnl-main,S,0000,0000,0000,,Há 7 bilhões de jogadores fazendo\Nos movimentos que bem entendem.
+Dialogue: 0,0:08:13.08,0:08:15.50,ngnl-main,S,0000,0000,0000,,E há punição por perder ou ganhar demais.
+Dialogue: 0,0:08:16.25,0:08:17.89,ngnl-main,S,0000,0000,0000,,Você não pode passar turnos e,
+Dialogue: 0,0:08:18.51,0:08:20.41,ngnl-main,S,0000,0000,0000,,se falar demais, não gostarão de você.
+Dialogue: 0,0:08:21.26,0:08:24.00,ngnl-main,S,0000,0000,0000,,Não há parâmetros nem como\Nsaber qual o gênero...
+Dialogue: 0,0:08:24.00,0:08:26.72,ngnl-main,S,0000,0000,0000,,Este mundo é...
+Dialogue: 0,0:08:26.72,0:08:27.89,ngnl-main,S,0000,0000,0000,,...um jogo ruim.
+Dialogue: 0,0:08:30.39,0:08:32.54,sign_12238_165_Remetente__Desco,,0000,0000,0000,,Remetente: Desconhecido
+Dialogue: 0,0:08:30.39,0:08:32.54,sign_15297_166_Se_houvesse_um_m,,0000,0000,0000,,Se houvesse um mundo onde tudo\Né decidido por simples jogos...
+Dialogue: 0,0:08:33.27,0:08:38.05,air quest 3,,0000,0000,0000,,{\fad(260,1)}um mundo em um tabuleiro,\N\Nonde regras e objetivos são claros,\N\No que vocês achariam?
+Dialogue: 0,0:08:39.04,0:08:42.78,ngnl-main,S,0000,0000,0000,,Se houver um mundo assim...
+Dialogue: 0,0:08:43.34,0:08:45.99,ngnl-main,S,0000,0000,0000,,Nós nascemos no mundo errado.
+Dialogue: 0,0:08:52.95,0:08:53.87,ngnl-main,S,0000,0000,0000,,O quê?
+Dialogue: 0,0:08:53.87,0:08:54.84,ngnl-main,Sh,0000,0000,0000,,Nii...
+Dialogue: 0,0:08:55.89,0:08:57.80,ngnl-main,?,0000,0000,0000,,Eu também acho!
+Dialogue: 0,0:08:58.36,0:09:02.32,ngnl-main,?,0000,0000,0000,,Vocês com certeza nasceram no mundo errado!
+Dialogue: 0,0:09:03.29,0:09:07.00,ngnl-main,?,0000,0000,0000,,Então eu vou deixar vocês renascerem!
+Dialogue: 0,0:09:07.00,0:09:11.15,ngnl-main,?,0000,0000,0000,,No mundo onde vocês deviam ter nascido!
+Dialogue: 0,0:09:14.34,0:09:17.82,ngnl-main,?,0000,0000,0000,,Bem-vindos ao meu mundo!
+Dialogue: 0,0:09:19.03,0:09:21.94,ngnl-main,S,0000,0000,0000,,O que é isso?
+Dialogue: 0,0:09:22.21,0:09:25.09,ngnl-main,?,0000,0000,0000,,É o mundo perfeito dos seus sonhos.
+Dialogue: 0,0:09:25.09,0:09:27.39,ngnl-main,,0000,0000,0000,,O mundo dos jogos, Disboard!
+Dialogue: 0,0:09:29.30,0:09:31.92,ngnl-main,,0000,0000,0000,,Tudo nesse mundo é decidido por simples jogos.
+Dialogue: 0,0:09:32.81,0:09:35.62,ngnl-main,,0000,0000,0000,,A vida das pessoas... até fronteiras nacionais!
+Dialogue: 0,0:09:36.23,0:09:37.18,ngnl-main,Sh,0000,0000,0000,,Quem é você?
+Dialogue: 0,0:09:37.18,0:09:38.12,ngnl-main,?,0000,0000,0000,,Eu?
+Dialogue: 0,0:09:38.37,0:09:39.66,ngnl-main,,0000,0000,0000,,Sou Tet.
+Dialogue: 0,0:09:39.66,0:09:41.12,ngnl-main,?,0000,0000,0000,,Eu vivo ali.
+Dialogue: 0,0:09:41.12,0:09:42.11,ngnl-main,?,0000,0000,0000,,Um Deus.
+Dialogue: 0,0:09:42.46,0:09:43.88,ngnl-main,Sh,0000,0000,0000,,Um Deus?
+Dialogue: 0,0:09:43.88,0:09:45.37,ngnl-main,S,0000,0000,0000,,Agora não é hora!
+Dialogue: 0,0:09:45.37,0:09:46.34,ngnl-main,S,0000,0000,0000,,O que vamos fazer?
+Dialogue: 0,0:09:46.63,0:09:50.92,ngnl-main,T,0000,0000,0000,,Neste mundo, tudo é decidido por\N10 leis, os juramentos.
+Dialogue: 0,0:09:50.92,0:09:55.87,ngnl-main,One,0000,0000,0000,,Um: Todo tipo de assassinato, guerra\Ne roubo é proibido neste mundo.
+Dialogue: 0,0:09:56.67,0:10:01.36,ngnl-main,Two,0000,0000,0000,,Dois: Todos os conflitos serão\Ndecididos com jogos.
+Dialogue: 0,0:10:01.69,0:10:06.86,ngnl-main,Three,0000,0000,0000,,Três: Os jogadores concordam que ambas as\Npartes são de valor igual para o jogo.
+Dialogue: 0,0:10:07.40,0:10:09.95,ngnl-main,Four,0000,0000,0000,,Quatro: Desde que não vá\Ncontra o número três,
+Dialogue: 0,0:10:09.95,0:10:12.64,ngnl-main,,0000,0000,0000,,tudo pode ser apostado e\Nqualquer jogo pode ser jogado.
+Dialogue: 0,0:10:13.30,0:10:17.64,ngnl-main,Five,0000,0000,0000,,Cinco: Quem for desafiado deve\Nescolher as regras do jogo.
+Dialogue: 0,0:10:18.14,0:10:22.88,ngnl-main,Six,0000,0000,0000,,Seis: Quaisquer apostas feitas em\Nacordo devem ser mantidas.
+Dialogue: 0,0:10:22.88,0:10:25.77,ngnl-main,Seven,0000,0000,0000,,Sete: Conflitos entre grupos serão conduzidos
+Dialogue: 0,0:10:25.77,0:10:28.39,ngnl-main,,0000,0000,0000,,por um representante designado\Ne de autoridade absoluta.
+Dialogue: 0,0:10:28.80,0:10:33.16,ngnl-main,Eight,0000,0000,0000,,Oito: Ser pego roubando durante um\Njogo significa derrota instantânea.
+Dialogue: 0,0:10:33.50,0:10:38.30,ngnl-main,Nine,0000,0000,0000,,Nove: Em nome de Deus, nenhuma das\Nregras anteriores devem ser mudadas.
+Dialogue: 0,0:10:38.32,0:10:40.53,ngnl-main,S,0000,0000,0000,,Eu já falei que não é hora para isso!
+Dialogue: 0,0:10:40.53,0:10:42.80,ngnl-main,S,0000,0000,0000,,O chão! Estamos perto!
+Dialogue: 0,0:10:43.11,0:10:43.88,ngnl-main,Sh,0000,0000,0000,,Nii!
+Dialogue: 0,0:10:43.88,0:10:44.53,ngnl-main,S,0000,0000,0000,,Shiro!
+Dialogue: 0,0:10:59.10,0:11:02.74,ngnl-main,T,0000,0000,0000,,E dez: Vamos todos nos divertir e jogar juntos!
+Dialogue: 0,0:11:06.21,0:11:08.85,ngnl-main-top,T,0000,0000,0000,,Espero vê-los de novo.
+Dialogue: 0,0:11:09.62,0:11:12.43,ngnl-main-top,T,0000,0000,0000,,Eu não acho que vai demorar...
+Dialogue: 0,0:11:16.65,0:11:17.90,ngnl-main,Sh,0000,0000,0000,,Nii...
+Dialogue: 0,0:11:18.85,0:11:20.30,ngnl-main,Sh,0000,0000,0000,,Onde estamos?
+Dialogue: 0,0:11:43.00,0:11:44.13,ngnl-main,S,0000,0000,0000,,Irmã...
+Dialogue: 0,0:11:45.91,0:11:50.88,ngnl-main,S,0000,0000,0000,,Eu sempre pensei que a vida fosse um \Njogo impossível, de masoquistas.
+Dialogue: 0,0:11:51.42,0:11:53.20,ngnl-main,S,0000,0000,0000,,Até que enfim ele bugou!
+Dialogue: 0,0:11:53.20,0:11:54.74,ngnl-main,S,0000,0000,0000,,O que está acontecendo?
+Dialogue: 0,0:11:55.53,0:11:57.56,ngnl-main,S,0000,0000,0000,,Esse jogo é uma bosta!
+Dialogue: 0,0:12:00.17,0:12:02.99,ngnl-narration,Nar,0000,0000,0000,,Em um passado muito distante,
+Dialogue: 0,0:12:02.99,0:12:06.01,ngnl-narration,Nar,0000,0000,0000,,os deuses e seus servos, os chamados criados,
+Dialogue: 0,0:12:06.01,0:12:10.51,ngnl-narration,,0000,0000,0000,,travaram uma guerra eterna pelo\Ndireito de dominar no mundo,
+Dialogue: 0,0:12:10.51,0:12:12.28,ngnl-narration,,0000,0000,0000,,pelo direito de ser o Verdadeiro Deus.
+Dialogue: 0,0:12:13.04,0:12:16.87,ngnl-narration,Nar,0000,0000,0000,,A longa e brutal batalha chegou a\Num rápido final sem um vencedor
+Dialogue: 0,0:12:16.87,0:12:22.30,ngnl-narration,,0000,0000,0000,,com a morte das terras, dos mares,\Ndo céu e das estrelas.
+Dialogue: 0,0:12:22.30,0:12:26.89,ngnl-narration,Nar,0000,0000,0000,,A única deidade que não participara da guerra
+Dialogue: 0,0:12:26.89,0:12:29.13,ngnl-narration,,0000,0000,0000,,acabou vencendo por falta de opções
+Dialogue: 0,0:12:29.13,0:12:32.27,ngnl-narration,,0000,0000,0000,,e assumiu o título de Verdadeiro Deus.
+Dialogue: 0,0:12:32.96,0:12:34.50,ngnl-narration,Nar,0000,0000,0000,,Seu nome era Tet.
+Dialogue: 0,0:12:35.07,0:12:38.02,ngnl-narration,Nar,0000,0000,0000,,Ele era conhecido como deus dos jogos.
+Dialogue: 0,0:12:38.81,0:12:42.76,ngnl-main-top,T,0000,0000,0000,,Vocês, criaturas que se dizem inteligentes,\Nutilizaram-se da força, violência, sangue e morte
+Dialogue: 0,0:12:42.76,0:12:46.59,ngnl-main-top,,0000,0000,0000,,e fizeram uma torre de corpos que chega aos céus,
+Dialogue: 0,0:12:46.59,0:12:47.77,ngnl-main-top,T,0000,0000,0000,,me digam uma coisa:
+Dialogue: 0,0:12:47.77,0:12:50.72,ngnl-main-top,T,0000,0000,0000,,qual a diferença entre vocês\Ne os demônios burros?
+Dialogue: 0,0:12:50.72,0:12:54.59,ngnl-internal,Nar,0000,0000,0000,,Na face do mundo destruído,\Ndesculpas eram inúteis.
+Dialogue: 0,0:12:54.59,0:12:56.15,ngnl-internal,Nar,0000,0000,0000,,E deus falou.
+Dialogue: 0,0:12:56.66,0:13:01.27,ngnl-internal,Nar,0000,0000,0000,,"Todas as guerras e roubos estão proibidos.
+Dialogue: 0,0:13:01.27,0:13:04.60,ngnl-main-top,T,0000,0000,0000,,Vocês, 16 raças que se acham inteligentes,
+Dialogue: 0,0:13:04.60,0:13:08.11,ngnl-main-top,T,0000,0000,0000,,utilizem-se de sua inteligência e\Nperspicácia, sua sorte e riquezas,
+Dialogue: 0,0:13:08.58,0:13:10.34,ngnl-main-top,,0000,0000,0000,,e façam uma torre de inteligência.
+Dialogue: 0,0:13:10.34,0:13:11.32,ngnl-main-top,T,0000,0000,0000,,E me provem...
+Dialogue: 0,0:13:11.78,0:13:13.38,graah,Narr,0000,0000,0000,,G{\c&HE08FB4&}r{\c&H744551&}a{\c&HCA76E5&}a{\c&HDFAC6B&}h{\c&H5E2B4E&}!{\c&HE08FB4&}!
+Dialogue: 0,0:13:11.95,0:13:13.38,ngnl-main,Narr,0000,0000,0000,,que vocês são mesmo inteligentes.
+Dialogue: 0,0:13:13.96,0:13:15.25,ngnl-main,S,0000,0000,0000,,Então é isso...
+Dialogue: 0,0:13:15.25,0:13:19.75,ngnl-main,S,0000,0000,0000,,Por isso que temos um mundo onde\Ntudo é decidido por jogos.
+Dialogue: 0,0:13:20.04,0:13:21.98,ngnl-main,Narr,0000,0000,0000,,Sim. E, falando nisso...
+Dialogue: 0,0:13:21.98,0:13:22.85,ngnl-main,S,0000,0000,0000,,O quê?
+Dialogue: 0,0:13:23.10,0:13:26.88,ngnl-main,Narr,0000,0000,0000,,Você pode nos dar umas calças?
+Dialogue: 0,0:13:26.88,0:13:31.13,ngnl-main,S,0000,0000,0000,,Seis: Quaisquer apostas feitas em\Nacordo devem ser mantidas.
+Dialogue: 0,0:13:31.67,0:13:34.89,ngnl-main,S,0000,0000,0000,,Nós apostamos tudo que podíamos\Ndar, inclusive nossas vidas,
+Dialogue: 0,0:13:34.89,0:13:37.38,ngnl-main,S,0000,0000,0000,,e vocês apostaram tudo que tinham.
+Dialogue: 0,0:13:37.38,0:13:38.01,ngnl-main,S,0000,0000,0000,,Né?
+Dialogue: 0,0:13:38.01,0:13:39.14,ngnl-main,Narr,0000,0000,0000,,Sim, mas...
+Dialogue: 0,0:13:39.75,0:13:41.12,ngnl-main,Narr,0000,0000,0000,,Você não pode nos deixar aqui!
+Dialogue: 0,0:13:41.43,0:13:42.46,ngnl-main,S,0000,0000,0000,,Vamos, Shiro.
+Dialogue: 0,0:13:42.46,0:13:43.19,ngnl-main,Sh,0000,0000,0000,,Tá.
+Dialogue: 0,0:13:43.67,0:13:45.12,ngnl-main,Narr,0000,0000,0000,,Espera!
+Dialogue: 0,0:13:45.12,0:13:47.54,ngnl-main,Narr,0000,0000,0000,,Deixa eu te dar um soco! Só um!
+Dialogue: 0,0:13:48.17,0:13:52.97,ngnl-main,S,0000,0000,0000,,Parece que nem ladrões podem\Nroubar ou machucar.
+Dialogue: 0,0:13:52.97,0:13:55.55,ngnl-main,Sh,0000,0000,0000,,Eles provavelmente não conseguiriam\Nmesmo que quisessem.
+Dialogue: 0,0:13:56.63,0:13:58.00,ngnl-main,S,0000,0000,0000,,Em outras palavras...
+Dialogue: 0,0:13:58.00,0:14:00.60,ngnl-main,S,0000,0000,0000,,tudo é decidido pela habilidade no jogo.
+Dialogue: 0,0:14:02.43,0:14:05.80,location,S,0000,0000,0000,,{\fad(350,1)}Reino de Erukia            — Capital Erukia —
+Dialogue: 0,0:14:10.61,0:14:12.50,ngnl-main,K,0000,0000,0000,,Dá para você ir rápido?
+Dialogue: 0,0:14:13.26,0:14:14.77,ngnl-main,St,0000,0000,0000,,Cala a boca!
+Dialogue: 0,0:14:14.77,0:14:16.51,ngnl-main,St,0000,0000,0000,,Estou pensando!
+Dialogue: 0,0:14:17.65,0:14:19.91,ngnl-main,K,0000,0000,0000,,Pode pensar o quanto quiser,\Nisso não vai mudar as suas cartas.
+Dialogue: 0,0:14:21.00,0:14:23.91,ngnl-main,S,0000,0000,0000,,Um torneio de apostas para\Ndeterminar o próximo rei?
+Dialogue: 0,0:14:24.22,0:14:26.62,ngnl-main,Girl,0000,0000,0000,,Foi o último desejo do Falecido Rei.
+Dialogue: 0,0:14:26.62,0:14:30.66,ngnl-main,Girl,0000,0000,0000,,Ele queria que o próximo rei fosse\No melhor apostador do mundo.
+Dialogue: 0,0:14:30.66,0:14:33.92,ngnl-main,S,0000,0000,0000,,Então até o rei é decidido num jogo.
+Dialogue: 0,0:14:34.79,0:14:36.99,ngnl-main,Girl,0000,0000,0000,,A menina de cabelo vermelho é Stephanie Dora.
+Dialogue: 0,0:14:37.35,0:14:39.71,ngnl-main,Girl,0000,0000,0000,,Ela é a neta do último rei e,
+Dialogue: 0,0:14:39.71,0:14:42.35,ngnl-main,,0000,0000,0000,,por causa do desejo dele, ela não\Nconsegue assumir o trono.
+Dialogue: 0,0:14:42.35,0:14:45.00,ngnl-main,Girl,0000,0000,0000,,Então entrou no torneio de apostas.
+Dialogue: 0,0:14:46.67,0:14:48.92,ngnl-main,S,0000,0000,0000,,Shiro, você está bem?
+Dialogue: 0,0:14:49.96,0:14:50.96,ngnl-main,Sh,0000,0000,0000,,Estou.
+Dialogue: 0,0:14:54.21,0:14:56.26,ngnl-main,Girl,0000,0000,0000,,O quê? Você está apaixonado por mim?
+Dialogue: 0,0:14:57.13,0:15:00.69,ngnl-main,S,0000,0000,0000,,Não, só estava curioso se você vai entrar.
+Dialogue: 0,0:15:00.69,0:15:04.00,ngnl-main,Girl,0000,0000,0000,,Eu? Eu só preciso disto aqui.
+Dialogue: 0,0:15:04.00,0:15:04.72,ngnl-main,Girl,0000,0000,0000,,Além disso...
+Dialogue: 0,0:15:05.69,0:15:12.33,ngnl-main,,0000,0000,0000,,Aquela menina, a Kurami, ela é tão boa que\Na maioria dos jogadores desistiram.
+Dialogue: 0,0:15:12.69,0:15:15.18,ngnl-main,S,0000,0000,0000,,Em outras palavras, você está com medo?
+Dialogue: 0,0:15:15.18,0:15:16.23,ngnl-main,Girl,0000,0000,0000,,O quê?
+Dialogue: 0,0:15:16.45,0:15:19.78,ngnl-main,S,0000,0000,0000,,Bom, desde que você não perca aqui,
+Dialogue: 0,0:15:19.78,0:15:22.55,ngnl-main,,0000,0000,0000,,invente as desculpas que quiser.
+Dialogue: 0,0:15:22.55,0:15:25.28,ngnl-main,S,0000,0000,0000,,"Eu venci, mas eu a deixei ir", por exemplo.
+Dialogue: 0,0:15:27.21,0:15:28.48,ngnl-main,Girl,0000,0000,0000,,Interessante.
+Dialogue: 0,0:15:29.28,0:15:30.68,ngnl-main,Girl,0000,0000,0000,,Quer jogar, menino?
+Dialogue: 0,0:15:31.56,0:15:34.75,ngnl-main,S,0000,0000,0000,,Desculpa, mas eu não jogo por diversão.
+Dialogue: 0,0:15:35.03,0:15:36.18,ngnl-main,S,0000,0000,0000,,Aposte todo esse dinheiro.
+Dialogue: 0,0:15:37.25,0:15:38.88,ngnl-main,Girl,0000,0000,0000,,Você sabe quanto tem aqui?
+Dialogue: 0,0:15:38.88,0:15:43.06,ngnl-main,Girl,0000,0000,0000,,Nós temos que apostar algo que concordamos\Nser de valor igual ou não será um jogo.
+Dialogue: 0,0:15:43.40,0:15:46.23,ngnl-main,S,0000,0000,0000,,Regra três, né?
+Dialogue: 0,0:15:46.23,0:15:47.60,ngnl-main,S,0000,0000,0000,,Isso mesmo.
+Dialogue: 0,0:15:47.60,0:15:50.23,ngnl-main,S,0000,0000,0000,,Que tal você fazer o que quiser com nós dois?
+Dialogue: 0,0:15:50.56,0:15:52.81,ngnl-main,S,0000,0000,0000,,Nos vender, abandonar, o que quiser.
+Dialogue: 0,0:15:52.81,0:15:53.67,ngnl-main,Girl,0000,0000,0000,,Você está falando sério?
+Dialogue: 0,0:15:54.86,0:15:55.57,ngnl-main,Sh,0000,0000,0000,,Estamos.
+Dialogue: 0,0:15:56.23,0:15:58.24,ngnl-main,S,0000,0000,0000,,Nós vamos jogar uma mão só de poker.
+Dialogue: 0,0:15:58.64,0:15:59.34,ngnl-main,S,0000,0000,0000,,O que você acha?
+Dialogue: 0,0:16:00.16,0:16:02.44,ngnl-main,S,0000,0000,0000,,Essa é sua última chance de desistir.
+Dialogue: 0,0:16:02.99,0:16:05.87,ngnl-main,Sh,0000,0000,0000,,Não seja convencido, forasteiro.
+Dialogue: 0,0:16:06.69,0:16:08.50,ngnl-main,Sh,0000,0000,0000,,Eu vou com tudo.
+Dialogue: 0,0:16:09.84,0:16:11.12,ngnl-main,Sh,0000,0000,0000,,De acordo com os juramentos.
+Dialogue: 0,0:16:11.96,0:16:13.79,ngnl-main,S,0000,0000,0000,,De acordo com os juramentos.
+Dialogue: 0,0:16:15.89,0:16:17.44,swwear,S,0000,0000,0000,,{\fad(170,250)}Aschente (De acordo com juramentos.)
+Dialogue: 0,0:16:16.05,0:16:17.39,ngnl-main,S,0000,0000,0000,,Aschente!
+Dialogue: 0,0:16:22.98,0:16:26.46,ngnl-internal,Girl,0000,0000,0000,,Ele deve ser só um trouxa\Nqualquer que se acha demais.
+Dialogue: 0,0:16:27.63,0:16:31.63,ngnl-internal,Girl,0000,0000,0000,,Esse blefe pode funcionar na sua vilazinha,
+Dialogue: 0,0:16:32.73,0:16:34.31,ngnl-internal,,0000,0000,0000,,mas aqui não vai.
+Dialogue: 0,0:16:36.97,0:16:37.86,ngnl-main,Sh,0000,0000,0000,,Nii...
+Dialogue: 0,0:16:40.86,0:16:43.24,ngnl-main,Girl,0000,0000,0000,,Má sorte?
+Dialogue: 0,0:16:43.24,0:16:44.30,ngnl-main,Girl,0000,0000,0000,,Coitadinho.
+Dialogue: 0,0:16:44.30,0:16:49.30,ngnl-main,S,0000,0000,0000,,Sim, eu comecei o dia caindo do céu\Na 10 mil metros de altura,
+Dialogue: 0,0:16:49.30,0:16:51.32,ngnl-main,S,0000,0000,0000,,depois tive que andar um\Ntempão sob o sol quente.
+Dialogue: 0,0:16:51.32,0:16:52.66,ngnl-main,S,0000,0000,0000,,Foi um dia horrível.
+Dialogue: 0,0:16:52.91,0:16:54.48,ngnl-main,Girl,0000,0000,0000,,Do que você está falando?
+Dialogue: 0,0:16:54.48,0:16:55.63,ngnl-main,S,0000,0000,0000,,Nada.
+Dialogue: 0,0:16:55.63,0:16:56.83,ngnl-main,S,0000,0000,0000,,Pronta?
+Dialogue: 0,0:16:58.35,0:16:59.87,ngnl-main,Girl,0000,0000,0000,,Estou.
+Dialogue: 0,0:17:00.30,0:17:03.74,ngnl-main,Girl,0000,0000,0000,,Vou deixar você trocar as cartas\Nmais uma vez se você quiser.
+Dialogue: 0,0:17:03.74,0:17:04.97,ngnl-main,S,0000,0000,0000,,Não precisa.
+Dialogue: 0,0:17:04.97,0:17:05.80,ngnl-main,Girl,0000,0000,0000,,Sei.
+Dialogue: 0,0:17:06.17,0:17:07.29,ngnl-main,Girl,0000,0000,0000,,Então...
+Dialogue: 0,0:17:07.84,0:17:09.64,ngnl-main,Girl,0000,0000,0000,,Desculpa, menino.
+Dialogue: 0,0:17:09.93,0:17:11.31,ngnl-main,Girl,0000,0000,0000,,Full house!
+Dialogue: 0,0:17:11.87,0:17:13.12,ngnl-main,S,0000,0000,0000,,Ah, é.
+Dialogue: 0,0:17:13.12,0:17:14.01,ngnl-main,S,0000,0000,0000,,Desculpa...
+Dialogue: 0,0:17:20.28,0:17:24.69,ngnl-main,Girl,0000,0000,0000,,Um {\i1}royal straight{\i0}...
+Dialogue: 0,0:17:26.32,0:17:28.38,ngnl-main,Girl,0000,0000,0000,,flush!
+Dialogue: 0,0:17:28.38,0:17:32.38,ngnl-main,Girl,0000,0000,0000,,Não pode ser!
+Dialogue: 0,0:17:31.30,0:17:32.81,ngnl-main,S,0000,0000,0000,,Olhe bem. É verdade.
+Dialogue: 0,0:17:32.81,0:17:35.83,ngnl-main,Girl,0000,0000,0000,,Só há uma chance em 6 milhões\Nde pegar essa mão.
+Dialogue: 0,0:17:35.83,0:17:38.41,ngnl-main,S,0000,0000,0000,,E isso acabou de acontecer.
+Dialogue: 0,0:17:38.41,0:17:39.09,ngnl-main,Girl,0000,0000,0000,,Mas...
+Dialogue: 0,0:17:39.09,0:17:40.10,ngnl-main,S,0000,0000,0000,,Juramento seis.
+Dialogue: 0,0:17:40.50,0:17:42.69,ngnl-main,S,0000,0000,0000,,Quaisquer apostas feitas em acordo\Ndevem ser cumpridas.
+Dialogue: 0,0:17:42.69,0:17:43.61,ngnl-main,S,0000,0000,0000,,Certo?
+Dialogue: 0,0:17:44.87,0:17:48.61,ngnl-main,Girl,0000,0000,0000,,Quem é você?
+Dialogue: 0,0:17:49.11,0:17:50.98,ngnl-main,S,0000,0000,0000,,Ninguém especial.
+Dialogue: 0,0:17:52.88,0:17:54.15,ngnl-main,S,0000,0000,0000,,Só um forasteiro.
+Dialogue: 0,0:18:00.83,0:18:02.77,ngnl-main,Sh,0000,0000,0000,,Isso foi roubo, Nii.
+Dialogue: 0,0:18:02.77,0:18:04.73,ngnl-main,Sh,0000,0000,0000,,Roubo bem óbvio.
+Dialogue: 0,0:18:05.75,0:18:10.73,ngnl-main,S,0000,0000,0000,,Oito: Ser pego roubando durante um\Njogo significa derrota instantânea.
+Dialogue: 0,0:18:11.28,0:18:13.65,ngnl-main,S,0000,0000,0000,,Em outras palavras, se não for pego, pode.
+Dialogue: 0,0:18:13.65,0:18:15.81,ngnl-main,Sh,0000,0000,0000,,Quanto você tem aí?
+Dialogue: 0,0:18:15.81,0:18:16.37,ngnl-main,S,0000,0000,0000,,Sei lá.
+Dialogue: 0,0:18:17.43,0:18:19.33,ngnl-main,S,0000,0000,0000,,Só deixa comigo.
+Dialogue: 0,0:18:19.33,0:18:21.51,ngnl-main,S,0000,0000,0000,,Negociações são especialidade minha.
+Dialogue: 0,0:18:22.70,0:18:23.71,ngnl-main,S,0000,0000,0000,,Eu quero um quarto para dois.
+Dialogue: 0,0:18:24.12,0:18:25.77,ngnl-main,S,0000,0000,0000,,Uma cama está bom.
+Dialogue: 0,0:18:25.77,0:18:26.85,ngnl-main,S,0000,0000,0000,,Quantas noites dá para ficar com isso?
+Dialogue: 0,0:18:28.38,0:18:29.25,ngnl-main,Guy,0000,0000,0000,,Uma noite.
+Dialogue: 0,0:18:29.86,0:18:31.88,ngnl-main,S,0000,0000,0000,,Estou muito cansado.
+Dialogue: 0,0:18:31.88,0:18:35.17,ngnl-main,S,0000,0000,0000,,Por que você não me diz quantas\Nnoites eu posso mesmo ficar?
+Dialogue: 0,0:18:35.76,0:18:37.55,ngnl-main,S,0000,0000,0000,,Se você estiver tentando me passar a perna,
+Dialogue: 0,0:18:37.55,0:18:40.50,ngnl-main,,0000,0000,0000,,devia prestar mais atenção\Ncomo fala e para onde olha.{}
+Dialogue: 0,0:18:41.46,0:18:42.33,ngnl-main,Guy,0000,0000,0000,,Duas noites.
+Dialogue: 0,0:18:42.33,0:18:45.30,ngnl-main,S,0000,0000,0000,,E aí vai você de novo.
+Dialogue: 0,0:18:45.30,0:18:46.33,ngnl-main,,0000,0000,0000,,Uma dica.
+Dialogue: 0,0:18:47.33,0:18:51.57,ngnl-main,,0000,0000,0000,,Pense muito bem para quem\Nvocê está mentindo, tá?
+Dialogue: 0,0:18:52.94,0:18:55.13,ngnl-main,,0000,0000,0000,,Certo. Quatro noites. Obrigado.
+Dialogue: 0,0:18:55.13,0:18:57.05,ngnl-main,Guy,0000,0000,0000,,Qual o seu nome?
+Dialogue: 0,0:18:59.73,0:19:01.51,ngnl-main,S,0000,0000,0000,,Só deixe {\i1}em branco{\i0}.
+Dialogue: 0,0:19:01.51,0:19:02.75,games only,S,0000,0000,0000,,Só para jogos
+Dialogue: 0,0:19:04.11,0:19:06.15,ngnl-main,S,0000,0000,0000,,Voltei, Shiro.
+Dialogue: 0,0:19:06.15,0:19:07.75,ngnl-main,Sh,0000,0000,0000,,Ela vai perder.
+Dialogue: 0,0:19:08.66,0:19:10.27,ngnl-main,S,0000,0000,0000,,Vai sim.
+Dialogue: 0,0:19:10.27,0:19:13.89,ngnl-main,S,0000,0000,0000,,Ela nem sabe o que é uma {\i1}poker face{\i0},\Ndiferente da adversária dela.
+Dialogue: 0,0:19:14.99,0:19:16.22,ngnl-main,S,0000,0000,0000,,Ela está roubando?
+Dialogue: 0,0:19:16.22,0:19:17.90,ngnl-main,Sh,0000,0000,0000,,Eu tenho certeza.
+Dialogue: 0,0:19:18.34,0:19:19.13,ngnl-main,Sh,0000,0000,0000,,Mas...
+Dialogue: 0,0:19:20.51,0:19:22.29,ngnl-main,Sh,0000,0000,0000,,Não consigo saber como.
+Dialogue: 0,0:19:24.61,0:19:25.40,ngnl-main,S,0000,0000,0000,,Entendi.
+Dialogue: 0,0:19:26.40,0:19:28.78,ngnl-main,S,0000,0000,0000,,Eu não acredito, mas neste mundo...
+Dialogue: 0,0:19:32.08,0:19:33.14,ngnl-main,S,0000,0000,0000,,Sério?
+Dialogue: 0,0:19:34.04,0:19:35.57,ngnl-main,K,0000,0000,0000,,O que você vai fazer? Desistir?
+Dialogue: 0,0:19:35.57,0:19:37.71,ngnl-main,S,0000,0000,0000,,F-Fica quieta!
+Dialogue: 0,0:19:37.71,0:19:39.83,ngnl-main,S,0000,0000,0000,,Vamos lutar! E vai ser justo!
+Dialogue: 0,0:19:39.83,0:19:42.98,ngnl-main,S,0000,0000,0000,,Um... um...
+Dialogue: 0,0:19:45.94,0:19:47.56,ngnl-main,S,0000,0000,0000,,Certo!
+Dialogue: 0,0:19:48.92,0:19:51.43,ngnl-main,S,0000,0000,0000,,Ela está roubando.
+Dialogue: 0,0:20:01.93,0:20:04.24,ngnl-main,K,0000,0000,0000,,Então, está pronta?
+Dialogue: 0,0:20:05.30,0:20:07.51,ngnl-main,St,0000,0000,0000,,Claro!
+Dialogue: 0,0:20:08.54,0:20:10.61,ngnl-main,S,0000,0000,0000,,Smartphone. DSP.
+Dialogue: 0,0:20:10.61,0:20:11.98,ngnl-main,S,0000,0000,0000,,Tablet.
+Dialogue: 0,0:20:12.19,0:20:14.55,ngnl-main,S,0000,0000,0000,,Bateria e carregador solar.
+Dialogue: 0,0:20:14.55,0:20:15.49,ngnl-main,S,0000,0000,0000,,Cabos...
+Dialogue: 0,0:20:16.01,0:20:17.05,ngnl-main,Sh,0000,0000,0000,,Isso é tudo que temos?
+Dialogue: 0,0:20:17.05,0:20:20.99,ngnl-main,S,0000,0000,0000,,Bom, depois do que aconteceu,\Ntemos sorte de ter isso tudo.
+Dialogue: 0,0:20:21.78,0:20:24.40,ngnl-main,Sh,0000,0000,0000,,Não tem sinal.
+Dialogue: 0,0:20:24.40,0:20:26.05,ngnl-main,S,0000,0000,0000,,Claro que não.
+Dialogue: 0,0:20:26.05,0:20:29.20,ngnl-main,S,0000,0000,0000,,Este é um mundo de fantasia.
+Dialogue: 0,0:20:29.77,0:20:32.77,ngnl-main,S,0000,0000,0000,,O jeito que ela estava roubando...\NNão consigo acreditar.
+Dialogue: 0,0:20:34.13,0:20:35.00,ngnl-main,Sh,0000,0000,0000,,Nii...
+Dialogue: 0,0:20:35.72,0:20:38.14,ngnl-main,,0000,0000,0000,,você consegue ganhar {\i1}daquilo{\i0}?
+Dialogue: 0,0:20:43.87,0:20:45.71,ngnl-main,Sh,0000,0000,0000,,Foi uma pergunta idiota.
+Dialogue: 0,0:20:47.83,0:20:49.20,ngnl-main,S,0000,0000,0000,,Ei, Shiro.
+Dialogue: 0,0:20:50.00,0:20:53.39,ngnl-main,S,0000,0000,0000,,Geralmente, numa história, quando\Nalguém fica preso em outro mundo,
+Dialogue: 0,0:20:53.39,0:20:57.23,ngnl-main,,0000,0000,0000,,eles dão o seu melhor para tentar\Nvoltar para casa, né?
+Dialogue: 0,0:21:02.10,0:21:05.49,ngnl-main,S,0000,0000,0000,,Por que alguém tentaria voltar\Npara um mundo daqueles?
+Dialogue: 0,0:21:19.57,0:21:22.96,ngnl-main,Sh,0000,0000,0000,,Eu também acho.
+Dialogue: 0,0:21:26.02,0:21:27.76,ngnl-main,S,0000,0000,0000,,Então está decidido.
+Dialogue: 0,0:21:27.89,0:21:29.42,phone,S,0000,0000,0000,,{\fad(500,1)}Encontre um local para ficar
+Dialogue: 0,0:21:32.86,0:21:35.60,ngnl-main,S,0000,0000,0000,,É hora de jogarmos.
+Dialogue: 0,0:23:17.90,0:23:20.60,ngnl-main,S,0000,0000,0000,,Shiro, estou feliz, como seu irmão,
+Dialogue: 0,0:23:20.60,0:23:23.77,ngnl-main,,0000,0000,0000,,por você me amar tanto,\Nmas me solte um pouco.
+Dialogue: 0,0:23:25.93,0:23:29.37,ngnl-main,S,0000,0000,0000,,Quem está aí? Eu paguei antecipado...
+Dialogue: 0,0:23:35.68,0:23:39.58,ngnl-main,St,0000,0000,0000,,Posso entrar?
+Dialogue: 0,0:23:39.58,0:23:44.59,ngnl-next-ep-title,St,0000,0000,0000,,Desafiante
+Dialogue: 0,0:23:40.36,0:23:42.05,ngnl-previa,Sh,0000,0000,0000,,Você precisa de uma razão para ajudar alguém?
+Dialogue: 0,0:23:42.05,0:23:44.59,ngnl-previa,S,0000,0000,0000,,Além da razão de ser divertido?

@@ -1,0 +1,475 @@
+﻿[Script Info]
+Title: [Erai-raws] Português (Brasil)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: ngnl-main,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0015,0
+Style: ngnl-main-top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0015,0
+Style: ngnl-internal,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,0
+Style: ngnl-overlap,Trebuchet MS,22,&H00BAFCF3,&H000000FF,&H001E0200,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,0
+Style: ngnl-flashback,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H004D0000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,0
+Style: ngnl-ep-title,Times New Roman,16,&H00F9FFFD,&H000000FF,&H004F00D4,&H006400D5,0,0,0,0,100,100,0,0,1,2,0,9,0066,0045,0095,0
+Style: ngnl-next-ep-title,Times New Roman,18,&H00F8FFEB,&H000000FF,&H00C84BD9,&H00A707D3,0,0,0,0,100,100,0,0,1,2,1,3,0066,0054,0090,0
+Style: location,Trebuchet MS,18,&H00E9E4F3,&H000000FF,&H00894EC6,&H00894EC6,-1,0,0,0,100,100,0,0,1,1,1,2,0000,0000,0060,0
+Style: rule,Trebuchet MS,15,&H00FBDFFA,&H000000FF,&H00E37BED,&H0047505D,0,0,0,0,100,100,0,0,1,2,0,9,0010,0110,0030,0
+Style: rumble,Times New Roman,35,&H0046DBE8,&H000000FF,&H001A0DCA,&H00240D49,-1,0,0,0,100,100,0,5,1,4,4,8,0015,0020,0015,0
+Style: mine,Arial,30,&H00FFDD93,&H000000FF,&H00E7B195,&H00CF559B,-1,0,0,0,100,100,0,0,1,2,2,9,0050,0120,0040,0
+Style: games,Trebuchet MS,16,&H00307182,&H000000FF,&H009CD9E7,&H00395E84,0,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0060,0
+Style: mem,Arial,15,&H00EBCEFF,&H000000FF,&H00C862DB,&H0094929C,-1,0,0,0,100,100,0,0,1,2,0,5,0020,0035,0020,0
+Style: analysis,Times New Roman,18,&H00000000,&H000000FF,&H00CEE7EF,&H006F808B,-1,0,0,0,100,100,0,0,1,0,0,7,0050,0050,0100,0
+Style: no-magic,Times New Roman,14,&H004A1F2B,&H000000FF,&H00C1C5B9,&H006F808B,-1,0,0,0,100,100,0,0,1,4,0,6,0020,0050,0020,0
+Style: why,Arial,22,&H00615A53,&H000000FF,&H00E5E5DE,&H00892C7B,-1,0,0,0,100,100,0,12,1,4,0,7,0120,0020,0091,0
+Style: cards,Trebuchet MS,20,&H00C04E31,&H000000FF,&H00818181,&H00CBD197,-1,0,0,0,100,100,0,0,1,0,0,7,0100,0010,0045,0
+Style: video,Trebuchet MS,12,&H00FFFFFF,&H000000FF,&H00E454A0,&H006F808B,0,0,0,0,100,100,0,0,1,4,0,5,0090,0010,0020,0
+Style: day,Arial,20,&H00C3A35D,&H000000FF,&H00F7F6CB,&H008935D9,-1,0,0,0,100,100,0,14,1,2,0,7,0140,0010,0092,0
+Style: hold-o,Times New Roman,14,&H00C5A65A,&H000000FF,&H00F7F6BE,&H00A24C6C,-1,0,0,0,100,100,0,20,1,2,0,6,0000,0030,0015,0
+Style: phone,Trebuchet MS,25,&H00EDCB9D,&H000000FF,&H00F7F9F3,&H00D1FDFF,0,0,0,0,100,100,0,320,1,4,0,5,0030,0030,0000,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:04.85,0:00:07.50,ngnl-main-top,S,0000,0000,0000,,Por que um prédio tão alto assim?
+Dialogue: 0,0:00:05.83,0:00:13.58,location,S,0000,0000,0000,,{\fad(100,400)}Embaixada da Fundação Oriental Elkia
+Dialogue: 0,0:00:07.50,0:00:09.60,ngnl-main-top,J,0000,0000,0000,,É fofo como eles estão desesperadamente
+Dialogue: 0,0:00:09.60,0:00:13.69,ngnl-main-top,,0000,0000,0000,,tentando compensar pelas suas\N fraquezas com um prédio alto.
+Dialogue: 0,0:00:13.93,0:00:18.87,ngnl-main,T,0000,0000,0000,,Aliás, dá pra me dizer por \Nque me trouxeram junto?
+Dialogue: 0,0:00:18.87,0:00:21.61,ngnl-main,T,0000,0000,0000,,A embaixada é território estrangeiro.
+Dialogue: 0,0:00:21.61,0:00:24.37,ngnl-main,S,0000,0000,0000,,Eu sei. E também sei que era \Noriginalmente o nosso castelo.
+Dialogue: 0,0:00:24.37,0:00:26.48,ngnl-main,T,0000,0000,0000,,Você está invadindo o território deles.
+Dialogue: 0,0:00:26.48,0:00:27.60,ngnl-main,S,0000,0000,0000,,Não se preocupe.
+Dialogue: 0,0:00:27.60,0:00:29.17,ngnl-main,S,0000,0000,0000,,Eu marquei hora.
+Dialogue: 0,0:00:29.17,0:00:29.77,ngnl-main,S,0000,0000,0000,,Certo?
+Dialogue: 0,0:00:30.00,0:00:34.18,ngnl-main,I,0000,0000,0000,,Bem-vindos, rei e rainha de \NElkia, Sora-dono e Shiro-dono.
+Dialogue: 0,0:00:34.42,0:00:37.55,ngnl-main,I,0000,0000,0000,,Eu sou o embaixador assistente da Embaixada \Nda Federação Oriental de Elkia,
+Dialogue: 0,0:00:37.55,0:00:39.28,ngnl-main,I,0000,0000,0000,,Hatsuse Ino.
+Dialogue: 0,0:00:39.28,0:00:40.79,ngnl-main,I,0000,0000,0000,,Prazer em conhecê-los.
+Dialogue: 0,0:00:41.44,0:00:42.18,ngnl-main,T,0000,0000,0000,,Quando você...
+Dialogue: 0,0:00:42.18,0:00:42.82,ngnl-main,S,0000,0000,0000,,Esta manhã...
+Dialogue: 0,0:00:43.24,0:00:44.48,ngnl-main,S,0000,0000,0000,,Ele estava me observando
+Dialogue: 0,0:00:44.48,0:00:46.37,ngnl-main,,0000,0000,0000,,na biblioteca essa manhã,\N então fiz um gesto para dizer
+Dialogue: 0,0:00:46.37,0:00:48.13,ngnl-main,,0000,0000,0000,,que eu estava a caminho.
+Dialogue: 0,0:00:48.87,0:00:52.23,ngnl-main,S,0000,0000,0000,,Os sentidos dos {\i1}warbeasts{\i0} são\N tão bons quanto suas visões.
+Dialogue: 0,0:00:52.23,0:00:54.41,ngnl-main,S,0000,0000,0000,,Eles têm ótima visão, fiquei até surpreso.
+Dialogue: 0,0:00:54.41,0:00:56.05,ngnl-main,T,0000,0000,0000,,Não, quer dizer...
+Dialogue: 0,0:00:56.05,0:01:02.31,ngnl-main,I,0000,0000,0000,,Você veio ver Hatsuse Izuna,\N a embaixadora, confere?
+Dialogue: 0,0:01:02.76,0:01:05.61,ngnl-internal,T,0000,0000,0000,,Os {\i1}warbeasts{\i0} conseguem ler mentes!
+Dialogue: 0,0:01:05.61,0:01:07.81,ngnl-internal,T,0000,0000,0000,,Os rumores são verdadeiros!
+Dialogue: 0,0:01:08.34,0:01:10.37,ngnl-main,S,0000,0000,0000,,Que bom que estamos na mesma página!
+Dialogue: 0,0:01:10.37,0:01:11.87,ngnl-main,S,0000,0000,0000,,Certo, leve-me lá.
+Dialogue: 0,0:01:13.32,0:01:16.24,ngnl-main,I,0000,0000,0000,,Muito bem. Por aqui.
+Dialogue: 0,0:01:18.42,0:01:22.62,ngnl-internal,T,0000,0000,0000,,Eu entendo os warbeasts, \Nmas como o Sora...
+Dialogue: 0,0:01:24.82,0:01:26.50,ngnl-flashback,S,0000,0000,0000,,Quando você está blefando\N contra um jogador...
+Dialogue: 0,0:01:30.35,0:01:31.50,ngnl-internal,T,0000,0000,0000,,O jogo...
+Dialogue: 0,0:01:32.09,0:01:34.08,ngnl-internal,,0000,0000,0000,,já começou, né?
+Dialogue: 0,0:03:07.83,0:03:13.37,ngnl-ep-title,T,0000,0000,0000,,{\an1\fad(1500,420)}{\blur2}Final Falso\N{\b1\fs24}Reviver dos Mortos
+Dialogue: 0,0:03:18.34,0:03:19.62,ngnl-main,S,0000,0000,0000,,Ei, Jibril.
+Dialogue: 0,0:03:19.62,0:03:20.50,ngnl-main,J,0000,0000,0000,,Sim?
+Dialogue: 0,0:03:20.50,0:03:22.44,ngnl-main,S,0000,0000,0000,,Você sabe algo sobre isso?
+Dialogue: 0,0:03:22.44,0:03:24.28,ngnl-main,J,0000,0000,0000,,Algum tipo de aparato de exibição...
+Dialogue: 0,0:03:24.61,0:03:28.29,ngnl-main,J,0000,0000,0000,,Mas os {\i1}warbeasts{\i0} não são usuários de magia.
+Dialogue: 0,0:03:28.29,0:03:30.52,ngnl-main,J,0000,0000,0000,,E-Estou interessada!
+Dialogue: 0,0:03:35.67,0:03:37.53,ngnl-main,T,0000,0000,0000,,O-O chão está se movendo!
+Dialogue: 0,0:03:37.72,0:03:41.28,ngnl-main,I,0000,0000,0000,,Sora-dono, eu ficaria feliz se \Nvocê seguisse
+Dialogue: 0,0:03:41.28,0:03:43.77,ngnl-main,,0000,0000,0000,,os procedimentos corretos da próxima vez.
+Dialogue: 0,0:03:44.65,0:03:47.25,ngnl-main,I,0000,0000,0000,,Dado o que aconteceu, há um\N certo número de {\i1}warbeasts{\i0} que
+Dialogue: 0,0:03:47.25,0:03:49.27,ngnl-main,,0000,0000,0000,,têm muito rancor contra Elkia.
+Dialogue: 0,0:03:49.59,0:03:51.50,ngnl-main,I,0000,0000,0000,,Eu não tive tempo de falar com todos eles,
+Dialogue: 0,0:03:51.50,0:03:53.54,ngnl-main,,0000,0000,0000,,então alguns podem ser \Nbem rudes com você.
+Dialogue: 0,0:03:53.54,0:03:57.28,ngnl-main,J,0000,0000,0000,,Mesmo um cão que anda e fala\N ainda é um cachorro, então?
+Dialogue: 0,0:03:58.36,0:04:00.89,ngnl-main,S,0000,0000,0000,,Steph, do que ele está falando?
+Dialogue: 0,0:04:00.89,0:04:03.05,ngnl-main,T,0000,0000,0000,,As guerras de construções...
+Dialogue: 0,0:04:03.54,0:04:05.56,ngnl-main,T,0000,0000,0000,,A embaixada de outro país \Nser maior do que o nosso
+Dialogue: 0,0:04:05.56,0:04:09.71,ngnl-main,,0000,0000,0000,,palácio era ruim para a nossa\N imagem, então fizemos outro.
+Dialogue: 0,0:04:09.71,0:04:11.68,ngnl-main,S,0000,0000,0000,,Ah, você quer dizer o\N castelo em que vivemos.
+Dialogue: 0,0:04:12.37,0:04:15.13,ngnl-main,T,0000,0000,0000,,Depois disso, a Federação \NOriental ficou zangada e
+Dialogue: 0,0:04:15.13,0:04:17.36,ngnl-main,,0000,0000,0000,,começou a construir uma embaixada maior.
+Dialogue: 0,0:04:18.64,0:04:22.41,ngnl-main,T,0000,0000,0000,,Elkia é pior que a Federação Oriental \Nem tecnologia de construção...
+Dialogue: 0,0:04:22.41,0:04:23.75,ngnl-main,J,0000,0000,0000,,Mesmo assim,
+Dialogue: 0,0:04:23.75,0:04:26.31,ngnl-main,,0000,0000,0000,,a ideia dos 14º no rank, {\i1}warbeasts{\i0},
+Dialogue: 0,0:04:26.31,0:04:28.24,ngnl-main,,0000,0000,0000,,subestimando os Imanities,\N em último, é meio...
+Dialogue: 0,0:04:28.24,0:04:30.58,ngnl-main,J,0000,0000,0000,,Ah, eu tenho a frase perfeita.
+Dialogue: 0,0:04:30.88,0:04:33.08,ngnl-main,J,0000,0000,0000,,Um anão chamando o outro de baixinho.
+Dialogue: 0,0:04:33.19,0:04:35.99,ngnl-main,I,0000,0000,0000,,Haha, mas que piada boa.
+Dialogue: 0,0:04:35.99,0:04:40.45,ngnl-main,I,0000,0000,0000,,E bem rude vindo de alguém \Nem sexto no rank.
+Dialogue: 0,0:04:40.45,0:04:42.73,ngnl-main,I,0000,0000,0000,,Então, o que isso a torna?
+Dialogue: 0,0:04:42.73,0:04:45.50,ngnl-main,,0000,0000,0000,,Uma arma quebrada trabalhando para\N macacos que perderam sua pelugem?
+Dialogue: 0,0:04:46.19,0:04:49.73,ngnl-main,S,0000,0000,0000,,A pessoas nesse mundo não se dão bem, né?
+Dialogue: 0,0:04:46.66,0:04:51.25,ngnl-main-top,J(BG),0000,0000,0000,,É legal ver crianças tão arrogantes\N agora que a violência foi proibida.
+Dialogue: 0,0:04:49.73,0:04:54.69,ngnl-main,T,0000,0000,0000,,A grande guerra durou muito tempo, até os 10 \Njuramentos a terminarem repentinamente.
+Dialogue: 0,0:04:51.25,0:04:56.27,ngnl-main-top,T(BG),0000,0000,0000,,Diferente de vocês, velhos, que se\N aposentaram já que só eram bom em matar.
+Dialogue: 0,0:04:54.69,0:04:56.27,ngnl-main,T,0000,0000,0000,,Claro que esses antigos \Nódios ainda continuariam.
+Dialogue: 0,0:05:01.83,0:05:03.82,ngnl-main,I,0000,0000,0000,,Por favor, esperem aqui.
+Dialogue: 0,0:05:11.52,0:05:15.09,ngnl-main,T,0000,0000,0000,,A diferença de sofisticação \Nde nossas culturas é aparente!
+Dialogue: 0,0:05:16.78,0:05:18.24,ngnl-main,J,0000,0000,0000,,Aliás, Mestre,
+Dialogue: 0,0:05:18.24,0:05:20.49,ngnl-main,,0000,0000,0000,,como você contatou os {\i1}warbeasts{\i0}?
+Dialogue: 0,0:05:20.49,0:05:23.36,ngnl-main,S,0000,0000,0000,,Ninguém está falando disso. Se liga.
+Dialogue: 0,0:05:23.36,0:05:24.74,ngnl-main,J,0000,0000,0000,,Desculpa.
+Dialogue: 0,0:05:25.62,0:05:27.91,ngnl-main,J,0000,0000,0000,,Diferente desses monstros que leem mentes...
+Dialogue: 0,0:05:27.91,0:05:29.74,ngnl-main,J,0000,0000,0000,,Eu quero saber!
+Dialogue: 0,0:05:34.57,0:05:35.48,ngnl-main,J,0000,0000,0000,,Hã?
+Dialogue: 0,0:05:36.05,0:05:41.56,ngnl-main,J,0000,0000,0000,,Você não estava o vendo, mas \Ndecidiu que ele havia o visto,
+Dialogue: 0,0:05:41.56,0:05:43.49,ngnl-main,J,0000,0000,0000,,então fez gestos.
+Dialogue: 0,0:05:44.65,0:05:47.60,ngnl-main,T,0000,0000,0000,,Em outras palavras, você blefou \Ncontra alguém que lê mentes?
+Dialogue: 0,0:05:47.60,0:05:49.51,ngnl-main,I,0000,0000,0000,,Desculpa a demora.
+Dialogue: 0,0:05:49.51,0:05:52.48,ngnl-main,I,0000,0000,0000,,Essa é a Embaixadora da\N Federação Oriental em Elkia,
+Dialogue: 0,0:05:53.07,0:05:55.27,ngnl-main,,0000,0000,0000,,Hatuse Izuna!
+Dialogue: 0,0:05:55.27,0:05:56.91,ngnl-main,Both,0000,0000,0000,,King Crimson!
+Dialogue: 0,0:05:57.37,0:05:59.53,ngnl-main,S,0000,0000,0000,,Ei, menininha linda de orelhas de animal.
+Dialogue: 0,0:05:59.53,0:06:01.21,ngnl-main,S,0000,0000,0000,,Por que você não brinca comigo?
+Dialogue: 0,0:06:01.21,0:06:03.37,ngnl-main,S,0000,0000,0000,,Não se preocupe, sou só um tarado.
+Dialogue: 0,0:06:03.75,0:06:06.24,ngnl-main,I,0000,0000,0000,,Por que você está me tocando, \Nseus babacas? Por favor.
+Dialogue: 0,0:06:09.44,0:06:11.79,ngnl-main,Sh,0000,0000,0000,,-50 em pontos de fofura...
+Dialogue: 0,0:06:11.79,0:06:14.12,ngnl-main,I,0000,0000,0000,,Por que pararam? Por favor.
+Dialogue: 0,0:06:14.41,0:06:16.02,ngnl-main,I,0000,0000,0000,,Só fiquei surpresa porque vocês dois,
+Dialogue: 0,0:06:16.02,0:06:17.89,ngnl-main,,0000,0000,0000,,babacas, me tocaram do nada. Por favor.
+Dialogue: 0,0:06:18.21,0:06:20.26,ngnl-main,I,0000,0000,0000,,Podem voltar ao trabalho, poxa. Por favor.
+Dialogue: 0,0:06:23.79,0:06:26.19,ngnl-main,S,0000,0000,0000,,Hm... colocar "por favor" no fim
+Dialogue: 0,0:06:26.19,0:06:28.63,ngnl-main,,0000,0000,0000,,das frases, não as torna educadas.
+Dialogue: 0,0:06:28.96,0:06:30.89,ngnl-main,I,0000,0000,0000,,É mesmo? Por favor.
+Dialogue: 0,0:06:30.89,0:06:33.12,ngnl-main,In,0000,0000,0000,,Por favor, não se zanguem.
+Dialogue: 0,0:06:33.12,0:06:36.64,ngnl-main,In,0000,0000,0000,,Minha neta ainda está \Naprendendo a língua dos Imanities.
+Dialogue: 0,0:06:37.01,0:06:37.91,ngnl-main,In,0000,0000,0000,,E...
+Dialogue: 0,0:06:39.20,0:06:42.83,ngnl-main,In,0000,0000,0000,,Tirem suas mãos sujas de minha \Nneta, seus macacos carecas!
+Dialogue: 0,0:06:42.83,0:06:44.15,ngnl-main,In,0000,0000,0000,,Ou eu vou cortá-los em picadinhos!
+Dialogue: 0,0:06:44.61,0:06:47.70,ngnl-main,In,0000,0000,0000,,Por favor, evitem praticar ações \Nque me façam falar isso.
+Dialogue: 0,0:06:47.70,0:06:49.79,ngnl-main,S,0000,0000,0000,,Entendo, ela puxou a ele.
+Dialogue: 0,0:06:49.79,0:06:52.16,ngnl-main,Sh,0000,0000,0000,,Eu não gosto dele. \N-1000 pontos.
+Dialogue: 0,0:06:52.79,0:06:56.75,ngnl-main,Sh,0000,0000,0000,,Mas a Izuna é fofa! +1050 pontos.
+Dialogue: 0,0:06:56.75,0:06:59.42,ngnl-main,In,0000,0000,0000,,Vocês, macacos sem cabelos,\N são melhores do que o meu avô.
+Dialogue: 0,0:06:59.42,0:07:00.67,ngnl-main,In,0000,0000,0000,,Continuem, por favor.
+Dialogue: 0,0:07:01.15,0:07:03.89,ngnl-main,S,0000,0000,0000,,Certo, mas pare de nos chamar\N de macacos sem cabelo.
+Dialogue: 0,0:07:03.89,0:07:04.95,ngnl-main,S,0000,0000,0000,,Eu sou Sora.
+Dialogue: 0,0:07:04.95,0:07:06.50,ngnl-main,S,0000,0000,0000,,E essa é a Shiro, minha irmã.
+Dialogue: 0,0:07:06.50,0:07:08.67,ngnl-main,Sh,0000,0000,0000,,Oi, Izuna-tan.
+Dialogue: 0,0:07:08.67,0:07:09.83,ngnl-main,I,0000,0000,0000,,Entendido.
+Dialogue: 0,0:07:09.83,0:07:11.52,ngnl-main,I,0000,0000,0000,,Sora, Shiro. Por favor.
+Dialogue: 0,0:07:12.07,0:07:15.17,ngnl-main,In,0000,0000,0000,,Então vamos ouvir o que vocês,\N macacos, têm a dizer.
+Dialogue: 0,0:07:15.17,0:07:18.00,ngnl-main,S,0000,0000,0000,,Se você consegue ler mentes, \Nnão precisa nos ouvir.
+Dialogue: 0,0:07:18.00,0:07:19.52,ngnl-main,I,0000,0000,0000,,Este é um local diplomático.
+Dialogue: 0,0:07:19.52,0:07:21.64,ngnl-main,I,0000,0000,0000,,Um lugar de troca de documentos e palavras.
+Dialogue: 0,0:07:21.64,0:07:23.58,ngnl-main,,0000,0000,0000,,Ou isso é complicado demais\N para vocês macacos?
+Dialogue: 0,0:07:23.58,0:07:26.19,ngnl-main,S,0000,0000,0000,,Não fique zangado só porque somos\N melhores com a sua neta do que você.
+Dialogue: 0,0:07:27.26,0:07:28.35,ngnl-main,Sh,0000,0000,0000,,É vergonhoso.
+Dialogue: 0,0:07:28.35,0:07:32.73,ngnl-main,J,0000,0000,0000,,Mestre, tente não quebrar o \Ncoração frágil dos {\i1}warbeasts{\i0}.
+Dialogue: 0,0:07:32.73,0:07:36.03,ngnl-main,J,0000,0000,0000,,Ele está tão triste que estou com\N vontade de rir, quer dizer, chorar!
+Dialogue: 0,0:07:36.03,0:07:38.60,ngnl-main,T,0000,0000,0000,,Vocês foram educados por animais?
+Dialogue: 0,0:07:40.05,0:07:42.69,ngnl-main,S,0000,0000,0000,,Certo, eu vou falar o \Nque queremos, velhote.
+Dialogue: 0,0:07:43.87,0:07:47.34,ngnl-main,S,0000,0000,0000,,Jogue comigo, apostando\N a calcinha de sua neta.
+Dialogue: 0,0:07:47.34,0:07:49.18,ngnl-main,S,0000,0000,0000,,Eu aposto a da Steph.
+Dialogue: 0,0:07:50.77,0:07:51.45,ngnl-main,T,0000,0000,0000,,O quê?
+Dialogue: 0,0:07:52.44,0:07:54.79,ngnl-main,I,0000,0000,0000,,Se você quer que eu o enrole em um\N tapete e te jogue para fora daqui,
+Dialogue: 0,0:07:54.79,0:07:56.69,ngnl-main,,0000,0000,0000,,é só pedir, seu macaco!
+Dialogue: 0,0:07:57.13,0:07:59.21,ngnl-main,S,0000,0000,0000,,Ou você prefere a da Jibril?
+Dialogue: 0,0:07:59.21,0:08:01.06,ngnl-main,J,0000,0000,0000,,Se é isso que você quer, Mestre...
+Dialogue: 0,0:08:01.06,0:08:07.40,rumble,J,0000,0000,0000,,Ódio
+Dialogue: 0,0:08:01.81,0:08:03.18,ngnl-main,S,0000,0000,0000,,A da Shiro então?
+Dialogue: 0,0:08:03.18,0:08:06.17,ngnl-main,S,0000,0000,0000,,Você quer a calcinha de uma menina de\N 11 anos? Mas que tarado, velhote.
+Dialogue: 0,0:08:06.17,0:08:07.40,ngnl-main,S,0000,0000,0000,,Ou prefere...
+Dialogue: 0,0:08:07.40,0:08:09.38,mine,S,0000,0000,0000,,Não...
+Dialogue: 0,0:08:07.40,0:08:09.40,ngnl-main,S,0000,0000,0000,,N-Não pode ser, as minhas?
+Dialogue: 0,0:08:10.48,0:08:12.46,ngnl-main,S,0000,0000,0000,,Mas eu não sou gay.
+Dialogue: 0,0:08:12.46,0:08:15.09,ngnl-main,Sh,0000,0000,0000,,Nii, eu vou proteger a sua castidade!
+Dialogue: 0,0:08:15.09,0:08:16.67,ngnl-main,S,0000,0000,0000,,Tem certeza, velhote?
+Dialogue: 0,0:08:16.67,0:08:19.41,ngnl-main,S,0000,0000,0000,,Eu diria que entregar a calcinha \Ndela é um bom negócio para você.
+Dialogue: 0,0:08:19.71,0:08:24.42,ngnl-main,I,0000,0000,0000,,Se você não falar por que \Nveio até aqui, então retire-se.
+Dialogue: 0,0:08:24.42,0:08:26.18,ngnl-main,S,0000,0000,0000,,Dá para parar? Você é um ator horrível.
+Dialogue: 0,0:08:28.26,0:08:32.02,ngnl-main,S,0000,0000,0000,,Se você consegue mesmo ler \Npensamentos, aceite o jogo das calcinhas.
+Dialogue: 0,0:08:32.80,0:08:35.42,ngnl-main,S,0000,0000,0000,,Não é das calcinhas que\N você está preocupado,
+Dialogue: 0,0:08:35.42,0:08:40.17,ngnl-main,,0000,0000,0000,,é com a chance de apagar minhas memórias,\N de como todos os seus jogos funcionam.
+Dialogue: 0,0:08:40.17,0:08:41.33,ngnl-main,S,0000,0000,0000,,Aqui, aperte a minha mão.
+Dialogue: 0,0:08:42.95,0:08:44.49,ngnl-main,S,0000,0000,0000,,Você ficou com medo.
+Dialogue: 0,0:08:44.49,0:08:45.67,ngnl-main,S,0000,0000,0000,,Eu sabia.
+Dialogue: 0,0:08:46.09,0:08:47.89,ngnl-main,S,0000,0000,0000,,Leitura a frio.
+Dialogue: 0,0:08:47.89,0:08:49.93,ngnl-main,S,0000,0000,0000,,É um truque barato que\N qualquer um consegue fazer
+Dialogue: 0,0:08:49.93,0:08:52.24,ngnl-main,,0000,0000,0000,,com um pouco de conhecimento e intuição,
+Dialogue: 0,0:08:52.24,0:08:54.28,ngnl-main,S,0000,0000,0000,,mesmo sem os incríveis sentidos \Nnos quais os {\i1}warbeasts{\i0} têm.
+Dialogue: 0,0:08:54.80,0:08:58.05,ngnl-main,S,0000,0000,0000,,E para a sua sorte, essa é\N uma especialidade minha.
+Dialogue: 0,0:08:58.18,0:08:59.28,ngnl-internal,I,0000,0000,0000,,Ele...
+Dialogue: 0,0:09:03.03,0:09:05.79,ngnl-main,S,0000,0000,0000,,Você acabou de confirmar\N que não é um blefe?
+Dialogue: 0,0:09:07.44,0:09:08.43,ngnl-main,S,0000,0000,0000,,Então,
+Dialogue: 0,0:09:08.79,0:09:11.15,ngnl-main,S,0000,0000,0000,,agora que confirmamos que \Nessa coisa de ler mentes
+Dialogue: 0,0:09:11.15,0:09:14.47,ngnl-main,S,0000,0000,0000,,é pura mentira, é hora de fazermos o \Nque estávamos esperando para fazer.
+Dialogue: 0,0:09:15.34,0:09:17.90,ngnl-main,S,0000,0000,0000,,Para cumprir o que viemos fazer...
+Dialogue: 0,0:09:18.35,0:09:21.09,ngnl-main,S,0000,0000,0000,,Nós, Sora e Shiro, designados \Nrepresentantes da Imanity,
+Dialogue: 0,0:09:21.09,0:09:25.37,ngnl-main,,0000,0000,0000,,a raça em 16º no rank, \Ne o reino de Elkia...
+Dialogue: 0,0:09:27.29,0:09:29.91,ngnl-main,Sh,0000,0000,0000,,...abençoamos vocês, a Federação Oriental,
+Dialogue: 0,0:09:29.91,0:09:34.65,ngnl-main,,0000,0000,0000,,com a oportunidade de serem o primeiro passo\N no nosso caminho para a dominação mundial.
+Dialogue: 0,0:09:35.74,0:09:39.79,ngnl-main,Sh,0000,0000,0000,,Nós os desafiamos para\N um jogo entre nações,
+Dialogue: 0,0:09:43.00,0:09:47.03,ngnl-main,Sh,0000,0000,0000,,por tudo que a Federação \NOriental tem neste continente.
+Dialogue: 0,0:09:48.74,0:09:50.67,ngnl-main,T,0000,0000,0000,,Um jogo entre nações?
+Dialogue: 0,0:09:50.97,0:09:53.81,ngnl-main,T,0000,0000,0000,,Estamos atacando a Federação Oriental?
+Dialogue: 0,0:09:54.59,0:09:56.87,ngnl-main,T,0000,0000,0000,,Foi isso o que você disse?
+Dialogue: 0,0:09:57.06,0:09:57.92,ngnl-main,S,0000,0000,0000,,Sim.
+Dialogue: 0,0:09:57.92,0:10:01.23,ngnl-main,S,0000,0000,0000,,Ah, e não vamos mudar o que apostamos. \NAinda são as calcinhas da Steph.
+Dialogue: 0,0:10:02.32,0:10:04.91,ngnl-main,S,0000,0000,0000,,Você devia ter apostado a calcinha\N da Izuna enquanto teve a chance.
+Dialogue: 0,0:10:04.91,0:10:06.04,ngnl-main,,0000,0000,0000,,Que pena.
+Dialogue: 0,0:10:06.04,0:10:07.02,ngnl-main,S,0000,0000,0000,,Desculpe, velhote.
+Dialogue: 0,0:10:08.74,0:10:09.93,ngnl-main,S,0000,0000,0000,,Xeque.
+Dialogue: 0,0:10:09.93,0:10:13.09,ngnl-main,J,0000,0000,0000,,Mestre, o que é isso?
+Dialogue: 0,0:10:13.45,0:10:16.25,ngnl-main,Sh,0000,0000,0000,,Jibril, você ainda não entende?
+Dialogue: 0,0:10:16.63,0:10:19.50,ngnl-main,S,0000,0000,0000,,Temos a Federação Oriental em xeque.
+Dialogue: 0,0:10:19.93,0:10:25.10,ngnl-main,S,0000,0000,0000,,A tecnologia da Federação Oriental\N rapidamente avançou há 50 anos atrás,
+Dialogue: 0,0:10:25.55,0:10:27.89,ngnl-main,,0000,0000,0000,,mas é difícil ser uma civilização\N avançada vivendo em uma ilha.
+Dialogue: 0,0:10:27.89,0:10:30.28,ngnl-main,S,0000,0000,0000,,Eles precisam de muitos \Nrecursos do continente.
+Dialogue: 0,0:10:31.19,0:10:34.86,ngnl-main,S,0000,0000,0000,,Mas, Elven Garde atacou antes de\N conseguirem apoio no continente.
+Dialogue: 0,0:10:34.86,0:10:36.48,ngnl-main,S,0000,0000,0000,,Então a Federação Oriental os seduziu.
+Dialogue: 0,0:10:36.95,0:10:39.81,ngnl-main,S,0000,0000,0000,,Mas ninguém aceitaria em \Njogar um jogo em que
+Dialogue: 0,0:10:39.81,0:10:41.75,ngnl-main,,0000,0000,0000,,a nação mais forte de todas\N perdeu várias vezes,
+Dialogue: 0,0:10:42.37,0:10:44.10,ngnl-main,S,0000,0000,0000,,o que quer dizer que eles nunca\N conseguiriam o continente.
+Dialogue: 0,0:10:44.58,0:10:47.27,ngnl-main,S,0000,0000,0000,,Eles devem só ter perdido \Ndeliberadamente, e pagado o preço.
+Dialogue: 0,0:10:47.27,0:10:49.26,ngnl-main,S,0000,0000,0000,,Por que não fizeram isso?
+Dialogue: 0,0:10:49.94,0:10:52.13,ngnl-main,S,0000,0000,0000,,Vamos responder essas perguntas em turnos.
+Dialogue: 0,0:10:52.66,0:10:54.08,ngnl-main,S,0000,0000,0000,,Questão 1!
+Dialogue: 0,0:10:54.08,0:10:56.47,ngnl-main,S,0000,0000,0000,,Por que eles apagam as memórias do jogo?
+Dialogue: 0,0:10:56.47,0:10:59.29,ngnl-main,Sh,0000,0000,0000,,Porque se não apagarem, não\N vão conseguir vencer sempre.
+Dialogue: 0,0:10:59.29,0:11:00.14,ngnl-main,S,0000,0000,0000,,Correto!
+Dialogue: 0,0:11:00.14,0:11:02.14,ngnl-main,S,0000,0000,0000,,Isso não faz sentido se o objetivo é\N seduzir as pessoas a jogar.
+Dialogue: 0,0:11:02.18,0:11:03.72,mem,S,0000,0000,0000,,{\fad(200,1)}Memórias
+Dialogue: 0,0:11:02.18,0:11:04.45,games,S,0000,0000,0000,,{\fad(200,1)}Jogo: Pedra, Papel ou Tesoura
+Dialogue: 0,0:11:03.19,0:11:05.77,ngnl-main,S,0000,0000,0000,,A razão pela qual eles apagam a\N memória, mesmo não fazendo sentido,
+Dialogue: 0,0:11:04.45,0:11:09.59,games,S,0000,0000,0000,,Jogo: ???
+Dialogue: 0,0:11:05.77,0:11:08.26,ngnl-main,S,0000,0000,0000,,é porque há algo que\N se descobrirem, eles se ferram.
+Dialogue: 0,0:11:08.77,0:11:12.75,ngnl-main,S,0000,0000,0000,,Mas mesmo se você apagar as memórias,\N os resultados da derrota não somem.
+Dialogue: 0,0:11:13.46,0:11:15.04,ngnl-main,S,0000,0000,0000,,Questão 2!
+Dialogue: 0,0:11:15.04,0:11:17.54,ngnl-main,S,0000,0000,0000,,Por que Elven Garde os\N desafiou quatro vezes?
+Dialogue: 0,0:11:17.54,0:11:18.98,ngnl-main,S,0000,0000,0000,,Porque estavam tentando descobrir
+Dialogue: 0,0:11:18.98,0:11:21.09,ngnl-main,,0000,0000,0000,,qual era o jogo, usando os\N resultados de suas derrotas.
+Dialogue: 0,0:11:21.09,0:11:23.97,ngnl-main,S,0000,0000,0000,,Elven Garde é um grande\N país, diferente de Elkia.
+Dialogue: 0,0:11:23.97,0:11:26.50,ngnl-main,S,0000,0000,0000,,Eles estavam preparados para \Nsofrer perdas com a pesquisa.
+Dialogue: 0,0:11:26.54,0:11:30.90,analysis,,0000,0000,0000,,{\fad(200,1)}Resultado: Não lembro, mas perdi uma vez
+Dialogue: 0,0:11:27.35,0:11:31.01,ngnl-main,,0000,0000,0000,,Eles perderam uma vez, então decidiram que \Nera um jogo onde não poderia usar magia.
+Dialogue: 0,0:11:31.05,0:11:35.40,analysis,,0000,0000,0000,,Habilidade Mágica: Elfos > Warbeasts  - Eles são péssimos (rsrs)
+Dialogue: 0,0:11:31.76,0:11:35.76,ngnl-main,,0000,0000,0000,,Essa foi provavelmente a razão \Npela qual um elfo perderia.
+Dialogue: 0,0:11:33.15,0:11:35.45,no-magic,,0000,0000,0000,,{\fad(180,1)}Um jogo em que não se usa magia?
+Dialogue: 0,0:11:35.45,0:11:39.25,analysis,,0000,0000,0000,,{\an6}Carta na manga
+Dialogue: 0,0:11:35.55,0:11:39.17,analysis,,0000,0000,0000,,Eu vou vencer sem magia!
+Dialogue: 0,0:11:35.76,0:11:39.62,ngnl-main,,0000,0000,0000,,O que quer dizer que os desafiaram \Noutra vez, com um plano em mente.
+Dialogue: 0,0:11:39.62,0:11:41.01,ngnl-main,,0000,0000,0000,,E então, eles perderam novamente.
+Dialogue: 0,0:11:41.23,0:11:42.81,ngnl-main,,0000,0000,0000,,E então, na terceira vez.
+Dialogue: 0,0:11:42.81,0:11:45.31,ngnl-main,,0000,0000,0000,,Não sei como, mas eles descobriram o jogo.
+Dialogue: 0,0:11:45.70,0:11:48.72,ngnl-main,,0000,0000,0000,,Eles têm essas incríveis trapaças, que \Naqui chamam de magia, e as usaram
+Dialogue: 0,0:11:48.72,0:11:50.69,ngnl-main,,0000,0000,0000,,para se preparar para a\N quarta e última tentativa.
+Dialogue: 0,0:11:51.08,0:11:53.19,ngnl-main,,0000,0000,0000,,E perderam de qualquer jeito.
+Dialogue: 0,0:11:53.19,0:11:55.08,ngnl-main,I,0000,0000,0000,,Você tem uma imaginação muito fértil.
+Dialogue: 0,0:11:55.08,0:11:58.28,ngnl-main,S,0000,0000,0000,,Mas o processo em que\N eles perderam não importa.
+Dialogue: 0,0:11:59.41,0:12:02.60,ngnl-main,S,0000,0000,0000,,Por que eles pararam \Ndepois de quatro vezes?
+Dialogue: 0,0:12:03.00,0:12:05.60,ngnl-main,S,0000,0000,0000,,Mesmo se eu estiver errado em \Ntodo o resto, não me importo.
+Dialogue: 0,0:12:06.05,0:12:08.11,ngnl-main,S,0000,0000,0000,,Sobre o porquê eles pararam...
+Dialogue: 0,0:12:08.61,0:12:10.54,ngnl-main,S,0000,0000,0000,,Há duas possibilidades...
+Dialogue: 0,0:12:11.00,0:12:14.89,ngnl-main,One,0000,0000,0000,,Eles perceberam que o jogo era \Nfundamentalmente impossível de se vencer.
+Dialogue: 0,0:12:12.73,0:12:17.26,rule,,0000,0000,0000,,{\fad(300,1)}Oitavo:\N Ser pego roubando durante \Num jogo significa \Nderrota instantânea.
+Dialogue: 0,0:12:14.89,0:12:17.88,ngnl-main,Sh,0000,0000,0000,,Então, se eles tivessem exposto isso durante \Num quinto jogo, poderiam ter vencido.
+Dialogue: 0,0:12:18.33,0:12:21.12,ngnl-main,S,0000,0000,0000,,Ou eles descobriram \Ncomo o jogo funciona,
+Dialogue: 0,0:12:21.12,0:12:23.62,ngnl-main,,0000,0000,0000,,mas nunca descobriram por que perderam.
+Dialogue: 0,0:12:23.62,0:12:26.12,ngnl-main,Sh,0000,0000,0000,,Então pararam de desafiá-los.
+Dialogue: 0,0:12:28.63,0:12:29.49,ngnl-main,Sh,0000,0000,0000,,Porém...
+Dialogue: 0,0:12:29.94,0:12:31.48,ngnl-main,Sh,0000,0000,0000,,Hã?
+Dialogue: 0,0:12:31.48,0:12:33.32,ngnl-main,Sh,0000,0000,0000,,Isso não faz sentido.
+Dialogue: 0,0:12:33.37,0:12:37.38,why,S,0000,0000,0000,,{\fad(450,1)}Você entende o jogo, mas\N não sabe por que perdeu?
+Dialogue: 0,0:12:33.65,0:12:37.50,ngnl-main,Sh,0000,0000,0000,,Um jogo que se entende, mas\N não se sabe por que perdeu?
+Dialogue: 0,0:12:37.72,0:12:40.10,ngnl-main,S,0000,0000,0000,,Agora está ficando bom!
+Dialogue: 0,0:12:40.10,0:12:41.47,ngnl-main,S,0000,0000,0000,,Questão 3!
+Dialogue: 0,0:12:41.98,0:12:44.81,ngnl-main,S,0000,0000,0000,,Que tipo de jogo funciona com cada\N uma dessas três diferentes raças,
+Dialogue: 0,0:12:42.19,0:12:44.78,cards,S,0000,0000,0000,,Imanity      {\c&H4EDDF2&}Flügel            {\c&H51AA27&}Elfos
+Dialogue: 0,0:12:44.81,0:12:49.41,ngnl-main,,0000,0000,0000,,mas só a Federação Oriental é \Ntecnologicamente capaz de jogá-los?
+Dialogue: 0,0:12:50.00,0:12:50.98,ngnl-main,S,0000,0000,0000,,A resposta correta é...
+Dialogue: 0,0:12:51.19,0:12:55.46,video,S,0000,0000,0000,,{\fad(780,1)}Vídeo-Game
+Dialogue: 0,0:12:53.08,0:12:55.49,ngnl-main,Sh,0000,0000,0000,,Um vídeo-game em que se possa\N trapacear o quanto quiser.
+Dialogue: 0,0:12:55.65,0:12:57.23,ngnl-main,Both,0000,0000,0000,,Um vídeo-game?
+Dialogue: 0,0:12:57.74,0:12:58.86,ngnl-main,T,0000,0000,0000,,O que é isso?
+Dialogue: 0,0:12:59.33,0:13:00.74,ngnl-main,S,0000,0000,0000,,Vocês não sabem, né?
+Dialogue: 0,0:13:00.74,0:13:03.96,ngnl-main,S,0000,0000,0000,,Mas a Jibril já desafiou a\N Federação Oriental antes.
+Dialogue: 0,0:13:03.96,0:13:06.36,ngnl-main,S,0000,0000,0000,,Como assim, você nunca tinha \Nvisto aquela coisa na entrada?
+Dialogue: 0,0:13:07.07,0:13:08.13,ngnl-main,J,0000,0000,0000,,Hã?
+Dialogue: 0,0:13:08.13,0:13:09.23,ngnl-main,J,0000,0000,0000,,Porque...
+Dialogue: 0,0:13:09.23,0:13:10.95,ngnl-main,S,0000,0000,0000,,...você tinha esquecido.
+Dialogue: 0,0:13:10.95,0:13:12.87,ngnl-main,S,0000,0000,0000,,Já que é uma memória \Nassociada com o jogo.
+Dialogue: 0,0:13:13.98,0:13:15.51,ngnl-main,S,0000,0000,0000,,Bom, mesmo sem isso,
+Dialogue: 0,0:13:16.07,0:13:18.83,ngnl-main,S,0000,0000,0000,,se um Flügel como a Jibril \Nnão sabe sobre eles,
+Dialogue: 0,0:13:18.83,0:13:20.68,ngnl-main,S,0000,0000,0000,,é seguro dizer que o único país no mundo
+Dialogue: 0,0:13:20.68,0:13:22.42,ngnl-main,,0000,0000,0000,,com vídeo-games, é a Federação Oriental.
+Dialogue: 0,0:13:22.42,0:13:24.92,ngnl-main,S,0000,0000,0000,,Por isso eles apagam as memórias. \NPara as pessoas não descobrirem.
+Dialogue: 0,0:13:25.13,0:13:29.17,ngnl-main,S,0000,0000,0000,,Porque em um jogo em que você é o GM,
+Dialogue: 0,0:13:29.17,0:13:31.20,ngnl-main,,0000,0000,0000,,você pode roubar o quanto quiser.
+Dialogue: 0,0:13:31.20,0:13:34.79,ngnl-main,S,0000,0000,0000,,Seus oponentes não têm como descobrir.
+Dialogue: 0,0:13:34.79,0:13:37.73,ngnl-main,S,0000,0000,0000,,Se você não sabe o que é o ciberespaço,\N então a magia não é de nada.
+Dialogue: 0,0:13:38.35,0:13:40.54,ngnl-main,S,0000,0000,0000,,Essa bobeira de ler mentes
+Dialogue: 0,0:13:40.54,0:13:42.16,ngnl-main,,0000,0000,0000,,é o seu jeito de dizer que as suas \Ntrapaças são um sexto sentido,
+Dialogue: 0,0:13:42.16,0:13:43.74,ngnl-main,S,0000,0000,0000,,e impedir que os oponentes \Ninvestiguem mais, não é?
+Dialogue: 0,0:13:44.26,0:13:45.25,ngnl-main,S,0000,0000,0000,,Isso mesmo.
+Dialogue: 0,0:13:45.25,0:13:48.89,ngnl-main,S,0000,0000,0000,,Vocês podem saber quando alguém mente,
+Dialogue: 0,0:13:48.89,0:13:50.94,ngnl-main,S,0000,0000,0000,,mas não sabem ler mentes.
+Dialogue: 0,0:13:52.84,0:13:54.80,ngnl-main,S,0000,0000,0000,,Certo, última pergunta!
+Dialogue: 0,0:13:55.24,0:13:58.22,ngnl-main,S,0000,0000,0000,,Como descobrimos tudo isso?
+Dialogue: 0,0:13:58.46,0:14:02.02,ngnl-main,S,0000,0000,0000,,Essa é sua, velhote.
+Dialogue: 0,0:14:03.22,0:14:05.65,ngnl-main,I,0000,0000,0000,,Não pode ser, o último rei!
+Dialogue: 0,0:14:05.65,0:14:09.07,ngnl-main,I,0000,0000,0000,,Fizemos ele jurar que\N não contaria a ninguém!
+Dialogue: 0,0:14:09.07,0:14:11.46,ngnl-main,I,0000,0000,0000,,Mas ele não sabia que\N não sabíamos ler mentes...
+Dialogue: 0,0:14:11.46,0:14:13.42,ngnl-main,I,0000,0000,0000,,Não, o problema é...
+Dialogue: 0,0:14:13.42,0:14:14.10,ngnl-main,S,0000,0000,0000,,Sim.
+Dialogue: 0,0:14:14.48,0:14:16.17,ngnl-main,S,0000,0000,0000,,Esse não é o problema.
+Dialogue: 0,0:14:17.04,0:14:19.92,ngnl-main,S,0000,0000,0000,,O problema é: o fato de que\N o último rei foi capaz
+Dialogue: 0,0:14:19.92,0:14:22.41,ngnl-main,S,0000,0000,0000,,de contar algo para alguém, prova que \Nvocês não conseguiram ler sua mente.
+Dialogue: 0,0:14:23.43,0:14:26.27,ngnl-main,S,0000,0000,0000,,Sua queda, foi o fato que de ele não\N poderia contar para ninguém
+Dialogue: 0,0:14:26.27,0:14:29.51,ngnl-main,S,0000,0000,0000,,pelo resto da vida, mas isso \Nnão incluía após a sua morte.
+Dialogue: 0,0:14:32.34,0:14:36.12,ngnl-main,S,0000,0000,0000,,Então, já que sabemos sobre o seu jogo...
+Dialogue: 0,0:14:36.35,0:14:38.88,ngnl-main,S,0000,0000,0000,,Se déssemos todas essas\N informações aos elfos,
+Dialogue: 0,0:14:38.88,0:14:43.12,ngnl-main,S,0000,0000,0000,,em pouco tempo você seria colocado em\N uma posição em que teria que jogar,
+Dialogue: 0,0:14:43.72,0:14:44.86,ngnl-main,S,0000,0000,0000,,e perderia.
+Dialogue: 0,0:14:45.35,0:14:48.29,ngnl-main,S,0000,0000,0000,,Você precisa apagar as nossas \Nmemórias, não importa o quanto.
+Dialogue: 0,0:14:48.71,0:14:52.10,ngnl-main,S,0000,0000,0000,,Mas se você aceitar apostar seu\N território pela calcinha de Steph,
+Dialogue: 0,0:14:52.10,0:14:54.87,ngnl-main,S,0000,0000,0000,,isso só confirmaria que as minhas teorias estão completamente corretas.
+Dialogue: 0,0:14:54.87,0:14:56.68,ngnl-main,I,0000,0000,0000,,Sim, então...
+Dialogue: 0,0:14:56.68,0:14:57.88,ngnl-main,S,0000,0000,0000,,O que quer dizer que,
+Dialogue: 0,0:14:58.24,0:15:03.38,ngnl-main,,0000,0000,0000,,a sua única opção é dizer que estou \Ninventando tudo e fugir, certo?
+Dialogue: 0,0:15:04.30,0:15:05.78,ngnl-main,S,0000,0000,0000,,Você achou que te deixaríamos fugir?
+Dialogue: 0,0:15:07.01,0:15:10.69,ngnl-main,S,0000,0000,0000,,Eu vou colocar mais uma carta na mesa.
+Dialogue: 0,0:15:14.81,0:15:16.79,ngnl-main,S,0000,0000,0000,,Eu aposto a Peça de minha raça.
+Dialogue: 0,0:15:19.02,0:15:21.33,ngnl-main,F,0000,0000,0000,,Cramy, isso é...
+Dialogue: 0,0:15:21.67,0:15:26.47,ngnl-main,C,0000,0000,0000,,Fee, já houve algum jogo em que a Peça\N de uma raça inteira foi apostada?
+Dialogue: 0,0:15:26.47,0:15:28.37,ngnl-main,F,0000,0000,0000,,C-Claro que não!
+Dialogue: 0,0:15:28.82,0:15:30.91,ngnl-main,F,0000,0000,0000,,Se você apostá-la e perder,
+Dialogue: 0,0:15:30.91,0:15:34.09,ngnl-main,F,0000,0000,0000,,perde todos os seus direitos como Exceed.
+Dialogue: 0,0:15:34.09,0:15:36.38,ngnl-main,C,0000,0000,0000,,Então os juramentos não são \Nmais aplicados a você,
+Dialogue: 0,0:15:36.38,0:15:38.55,ngnl-main,C,0000,0000,0000,,o que quer dizer que viram animais.
+Dialogue: 0,0:15:39.02,0:15:41.82,ngnl-main,C,0000,0000,0000,,É uma sentença de morte real.
+Dialogue: 0,0:15:42.92,0:15:44.69,ngnl-main,C,0000,0000,0000,,Esses idiotas...
+Dialogue: 0,0:15:45.03,0:15:46.69,ngnl-main,T,0000,0000,0000,,Você está maluco?
+Dialogue: 0,0:15:47.27,0:15:51.26,ngnl-main,S,0000,0000,0000,,Eu já apostei o nosso território \Ninteiro, e a vida de todos nós.
+Dialogue: 0,0:15:51.69,0:15:52.91,ngnl-main,S,0000,0000,0000,,Se você fugir agora,
+Dialogue: 0,0:15:52.91,0:15:56.70,ngnl-main,,0000,0000,0000,,seria como dizer para todo o\N mundo que estou certo, né?
+Dialogue: 0,0:15:57.62,0:16:01.53,ngnl-main,S,0000,0000,0000,,Você previu essa, Sr. Leitor de Mentes?
+Dialogue: 0,0:16:03.23,0:16:04.82,ngnl-main,S,0000,0000,0000,,Xeque-mate.
+Dialogue: 0,0:16:06.59,0:16:09.25,ngnl-main,I,0000,0000,0000,,Você tem mesmo certeza disso?
+Dialogue: 0,0:16:09.82,0:16:15.43,ngnl-main,I,0000,0000,0000,,Mesmo se você estiver correto, \Naté Elven Garde perdeu esse jogo.
+Dialogue: 0,0:16:15.43,0:16:18.02,ngnl-main,I,0000,0000,0000,,Além disso, você está apostando\Na Peça de sua raça.
+Dialogue: 0,0:16:18.02,0:16:20.56,ngnl-main,I,0000,0000,0000,,Você está tentando ser extinto?
+Dialogue: 0,0:16:21.39,0:16:25.71,ngnl-main,S,0000,0000,0000,,Se você tivesse apenas se surpreendido \Nquando consegui me comunicar
+Dialogue: 0,0:16:25.71,0:16:28.27,ngnl-main,,0000,0000,0000,,com você da biblioteca, teria notado.
+Dialogue: 0,0:16:28.70,0:16:32.06,ngnl-main,S,0000,0000,0000,,Notado que não somos deste mundo.
+Dialogue: 0,0:16:33.81,0:16:35.63,ngnl-main,S,0000,0000,0000,,Quando o negócio é vídeo-games,
+Dialogue: 0,0:16:35.63,0:16:38.04,ngnl-main,S,0000,0000,0000,,você pode usar quantos \Nmacros e trapaças quiser.
+Dialogue: 0,0:16:38.45,0:16:42.38,ngnl-main,Sh,0000,0000,0000,,O Kuuhaku não vai perder para nada disso.
+Dialogue: 0,0:16:43.79,0:16:45.64,ngnl-main,S,0000,0000,0000,,Quando viemos aqui...
+Dialogue: 0,0:16:45.64,0:16:48.99,ngnl-main,Sh,0000,0000,0000,,Você pensou que éramos presa fácil?
+Dialogue: 0,0:16:50.05,0:16:53.75,ngnl-main,S,0000,0000,0000,,É a vez de vocês serem\N amaldiçoados, {\i1}warbeasts{\i0}.
+Dialogue: 0,0:16:53.75,0:16:57.63,ngnl-internal,I,0000,0000,0000,,Quem são essas pessoas?
+Dialogue: 0,0:16:58.64,0:17:02.35,ngnl-main,S,0000,0000,0000,,Bom, você não pode concordar em jogar\N um jogo dessa escala sozinho, né?
+Dialogue: 0,0:17:02.35,0:17:03.63,ngnl-main,S,0000,0000,0000,,Nós podemos esperar um dia.
+Dialogue: 0,0:17:03.92,0:17:05.90,ngnl-main,S,0000,0000,0000,,Estamos apostando a Peça de nossa raça.
+Dialogue: 0,0:17:05.90,0:17:08.12,ngnl-main,S,0000,0000,0000,,Todos os Imanities têm \No direito de assistir,
+Dialogue: 0,0:17:08.12,0:17:09.59,ngnl-main,S,0000,0000,0000,,e nós vamos competir com \Nesses quatro jogadores.
+Dialogue: 0,0:17:09.48,0:17:10.68,ngnl-overlap,T,0000,0000,0000,,{\an8}E-Espera!
+Dialogue: 0,0:17:09.59,0:17:10.68,ngnl-main,S,0000,0000,0000,,Não vamos deixá-los recusar.
+Dialogue: 0,0:17:11.22,0:17:13.02,ngnl-main,I,0000,0000,0000,,Eu não sei se entendo. Por favor.
+Dialogue: 0,0:17:13.02,0:17:13.86,ngnl-main,I,0000,0000,0000,,Mas...
+Dialogue: 0,0:17:14.58,0:17:18.98,ngnl-main,,0000,0000,0000,,Vocês estão me desafiando \Npara uma luta, Sora e Shiro?
+Dialogue: 0,0:17:19.32,0:17:21.35,ngnl-main,S,0000,0000,0000,,Uma luta? Até parece.
+Dialogue: 0,0:17:21.35,0:17:23.82,ngnl-main,Sh,0000,0000,0000,,Izuna-tan, vamos jogar um\N joguinho na próxima!
+Dialogue: 0,0:17:24.27,0:17:26.09,ngnl-main,I,0000,0000,0000,,Eu não vou perder.
+Dialogue: 0,0:17:26.56,0:17:28.09,ngnl-main,S,0000,0000,0000,,Desculpa, mas vai sim.
+Dialogue: 0,0:17:28.61,0:17:31.39,ngnl-main,Sh,0000,0000,0000,,O Kuuhaku nunca perde.
+Dialogue: 0,0:17:36.44,0:17:39.29,ngnl-main,Sh,0000,0000,0000,,Até mais, Izuna-tan.
+Dialogue: 0,0:17:42.10,0:17:44.67,ngnl-main,T,0000,0000,0000,,No que vocês estavam pensando?
+Dialogue: 0,0:17:44.67,0:17:46.72,ngnl-main,T,0000,0000,0000,,Vocês sabem o que fizeram?
+Dialogue: 0,0:17:46.72,0:17:48.22,ngnl-main,T,0000,0000,0000,,Como vocês vão explicar isso se perderem?
+Dialogue: 0,0:17:48.22,0:17:49.08,ngnl-main,S,0000,0000,0000,,Explicar?
+Dialogue: 0,0:17:49.08,0:17:51.38,ngnl-main,S,0000,0000,0000,,Se perdermos estamos ferrados. \NNão há explicação.
+Dialogue: 0,0:17:52.56,0:17:56.13,ngnl-main,S,0000,0000,0000,,Se perdermos, é o nosso {\i1}game over{\i0},\N e o de mais de 3 milhões de pessoas.
+Dialogue: 0,0:17:56.13,0:17:58.82,ngnl-main,S,0000,0000,0000,,Se vencermos, conseguimos os \N{\i1}orelhas de fera{\i0} e o seu território.
+Dialogue: 0,0:17:58.82,0:18:00.19,ngnl-main,S,0000,0000,0000,,É tudo ou nada.
+Dialogue: 0,0:18:00.38,0:18:02.42,ngnl-main,S,0000,0000,0000,,Não é emocionante, Shiro!
+Dialogue: 0,0:18:01.67,0:18:03.46,ngnl-overlap,Sh,0000,0000,0000,,É muito!
+Dialogue: 0,0:18:03.81,0:18:05.75,ngnl-main,T,0000,0000,0000,,Vocês são loucos!
+Dialogue: 0,0:18:05.75,0:18:06.96,ngnl-main,S,0000,0000,0000,,Calma, Steph!
+Dialogue: 0,0:18:07.40,0:18:08.53,ngnl-main,S,0000,0000,0000,,É só um jogo.
+Dialogue: 0,0:18:10.02,0:18:11.98,ngnl-internal,T,0000,0000,0000,,Eu sabia! Eu estava errada em confiar
+Dialogue: 0,0:18:11.98,0:18:14.78,ngnl-internal,,0000,0000,0000,,as esperanças de meu avô nesse pessoal!
+Dialogue: 0,0:18:14.78,0:18:17.08,ngnl-main,J,0000,0000,0000,,Então vou te perguntar uma coisa, Dora-chan.
+Dialogue: 0,0:18:17.23,0:18:18.91,ngnl-main,J,0000,0000,0000,,Se os mestres vencerem,
+Dialogue: 0,0:18:18.91,0:18:22.15,ngnl-main,,0000,0000,0000,,todos os {\i1}warbeasts{\i0} do\N planeta terão os seus direitos
+Dialogue: 0,0:18:22.15,0:18:23.58,ngnl-main,,0000,0000,0000,,removidos, e possivelmente mortos.
+Dialogue: 0,0:18:24.06,0:18:26.36,ngnl-main,J,0000,0000,0000,,Quem se responsabilizaria por isso?
+Dialogue: 0,0:18:28.03,0:18:31.52,ngnl-main,J,0000,0000,0000,,Nós matamos e usamos nossos poderes\N por meio de jogos, não violência.
+Dialogue: 0,0:18:31.93,0:18:35.19,ngnl-main,J,0000,0000,0000,,Se você perder é explorado, \Nvira escravo, e é morto.
+Dialogue: 0,0:18:36.05,0:18:38.26,ngnl-main,J,0000,0000,0000,,É isso o que os juramentos significam.
+Dialogue: 0,0:18:39.10,0:18:41.34,ngnl-main,J,0000,0000,0000,,A coragem necessária para arriscar sua vida
+Dialogue: 0,0:18:41.34,0:18:43.34,ngnl-main,,0000,0000,0000,,e a de seu povo, mesmo que por um instante,
+Dialogue: 0,0:18:43.34,0:18:46.96,ngnl-main,,0000,0000,0000,,para uma chance real \Nde matar o seu inimigo...
+Dialogue: 0,0:18:46.96,0:18:49.61,ngnl-main,J,0000,0000,0000,,É disso que precisamos em um rei.
+Dialogue: 0,0:18:50.16,0:18:51.88,ngnl-main,Both,0000,0000,0000,,Hã? Do que você está falando?
+Dialogue: 0,0:18:52.69,0:18:53.50,ngnl-main,Both,0000,0000,0000,,O quê?
+Dialogue: 0,0:18:54.03,0:18:56.81,ngnl-main,S,0000,0000,0000,,Espera, vocês ainda não entenderam?
+Dialogue: 0,0:18:56.81,0:18:59.29,ngnl-main,Sh,0000,0000,0000,,O jeito de vencer nesse mundo.
+Dialogue: 0,0:18:59.29,0:19:01.02,ngnl-main,Both,0000,0000,0000,,Vencer nesse mundo?
+Dialogue: 0,0:19:01.30,0:19:03.98,ngnl-main,S,0000,0000,0000,,Isso explica tudo. \NPor isso Deus estão tão entediado.
+Dialogue: 0,0:19:03.98,0:19:05.52,ngnl-main,Sh,0000,0000,0000,,Coitadinho do Tet.
+Dialogue: 0,0:19:05.91,0:19:09.68,ngnl-main,S,0000,0000,0000,,Não se preocupem, vamos conquistar \Nesse mundo como prometemos.
+Dialogue: 0,0:19:09.68,0:19:11.27,ngnl-main,S,0000,0000,0000,,Todo ele.
+Dialogue: 0,0:19:11.27,0:19:15.10,ngnl-main,S,0000,0000,0000,,E sobre o que vamos fazer caso perdermos...
+Dialogue: 0,0:19:15.10,0:19:18.20,ngnl-main,S,0000,0000,0000,,Eu já falei que não havia a mínima\N chance de perdermos, né?
+Dialogue: 0,0:19:18.52,0:19:19.98,ngnl-main,Sh,0000,0000,0000,,Xeque-mate.
+Dialogue: 0,0:19:23.10,0:19:24.79,ngnl-main,Guys,0000,0000,0000,,Tragam-nos o tolo rei!
+Dialogue: 0,0:19:24.79,0:19:26.88,ngnl-main,Guys,0000,0000,0000,,Ele está nos usando em \Nsua estúpida aposta!
+Dialogue: 0,0:19:26.88,0:19:29.62,ngnl-main,Guys,0000,0000,0000,,Eles estão trabalhando com\N a Federação Oriental!
+Dialogue: 0,0:19:29.62,0:19:31.78,ngnl-main,Guys,0000,0000,0000,,Eu sabia que ia dar merda!
+Dialogue: 0,0:19:31.78,0:19:34.29,ngnl-main,Guys,0000,0000,0000,,Não há como um\N Imanitie vencer de um Elfo!
+Dialogue: 0,0:19:34.52,0:19:37.67,ngnl-main,J,0000,0000,0000,,É incrível como eles se viraram\N rápido contra você.
+Dialogue: 0,0:19:37.67,0:19:39.69,ngnl-main,T,0000,0000,0000,,Eles acabaram de receber \Numa sentença de morte.
+Dialogue: 0,0:19:39.69,0:19:41.08,ngnl-main,,0000,0000,0000,,Óbvio que estão zangados.
+Dialogue: 0,0:19:41.08,0:19:44.56,ngnl-main,T,0000,0000,0000,,É difícil ficar calmo numa hora dessas.
+Dialogue: 0,0:19:45.02,0:19:47.36,ngnl-main,T,0000,0000,0000,,E sobre eles, o que vocês vão fazer?
+Dialogue: 0,0:19:47.36,0:19:48.45,ngnl-main,Sh,0000,0000,0000,,Se eles não estiverem felizes,
+Dialogue: 0,0:19:48.45,0:19:51.00,ngnl-main,,0000,0000,0000,,eles podem tirar a nossa\N posição de representante.
+Dialogue: 0,0:19:50.96,0:19:54.73,day,Sh,0000,0000,0000,,Dia 19
+Dialogue: 0,0:19:50.96,0:19:54.73,hold-o,Sh,0000,0000,0000,,Espere
+Dialogue: 0,0:19:51.44,0:19:54.35,ngnl-main,S,0000,0000,0000,,Eles não têm coragem de nos \Ndesafiar, só estão reclamando.
+Dialogue: 0,0:19:54.35,0:19:55.52,ngnl-main-top,S,0000,0000,0000,,Apenas os ignore.
+Dialogue: 0,0:19:54.73,0:19:58.24,day,Sh,0000,0000,0000,,Dia 19
+Dialogue: 0,0:19:55.52,0:19:57.07,ngnl-main-top,S,0000,0000,0000,,Mais importante, eles estão demorando.
+Dialogue: 0,0:19:57.07,0:19:58.28,ngnl-main-top,S,0000,0000,0000,,Já faz uma semana.
+Dialogue: 0,0:19:59.03,0:20:02.03,ngnl-main,T,0000,0000,0000,,Você está falando do jogo \Ncom a Federação Oriental?
+Dialogue: 0,0:20:02.03,0:20:04.58,ngnl-main,T,0000,0000,0000,,Um continente inteiro está em\N jogo, claro que vai demorar.
+Dialogue: 0,0:20:04.99,0:20:07.34,ngnl-main,S,0000,0000,0000,,Sim. Então, antes disso...
+Dialogue: 0,0:20:07.79,0:20:10.32,ngnl-main,S,0000,0000,0000,,Estou esperando por\N alguém com mais coragem.
+Dialogue: 0,0:20:13.92,0:20:15.65,ngnl-main,S,0000,0000,0000,,Finalmente chegaram.
+Dialogue: 0,0:20:16.49,0:20:18.26,ngnl-main,S,0000,0000,0000,,Vocês me deixaram esperando bastante.
+Dialogue: 0,0:20:20.07,0:20:22.33,ngnl-main,S,0000,0000,0000,,Sim, eu sei o que você quer.
+Dialogue: 0,0:20:22.33,0:20:23.50,ngnl-main,S,0000,0000,0000,,Pode ter qualquer coisa.
+Dialogue: 0,0:20:24.68,0:20:26.67,ngnl-main,S,0000,0000,0000,,Shiro, me escute bem.
+Dialogue: 0,0:20:30.38,0:20:32.44,ngnl-main,S,0000,0000,0000,,Eu acredito em você.
+Dialogue: 0,0:20:33.40,0:20:36.15,ngnl-main,S,0000,0000,0000,,Eu acredito em você também.
+Dialogue: 0,0:20:37.57,0:20:40.79,ngnl-main,S,0000,0000,0000,,Shiro, nós dois vamos sempre ficar\N juntos, seremos sempre um só.
+Dialogue: 0,0:20:41.25,0:20:44.32,ngnl-main,S,0000,0000,0000,,Shiro, estamos ligados por uma promessa.
+Dialogue: 0,0:20:45.17,0:20:49.19,ngnl-main,S,0000,0000,0000,,Shiro, não somos heróis de\N um mangá para meninos.
+Dialogue: 0,0:20:49.72,0:20:53.73,ngnl-main,S,0000,0000,0000,,Shiro, nós sempre somos os vitoriosos,\N antes mesmo de o jogo começar.
+Dialogue: 0,0:20:54.43,0:20:55.40,ngnl-main,Sh,0000,0000,0000,,Nii?
+Dialogue: 0,0:20:55.91,0:20:59.80,ngnl-main,S,0000,0000,0000,,Eu vou buscar a última peça que precisamos \Npara dominar a Federação Oriental.
+Dialogue: 0,0:21:02.27,0:21:03.17,ngnl-main,Sh,0000,0000,0000,,Nii?
+Dialogue: 0,0:21:03.44,0:21:05.48,ngnl-main,Sh,0000,0000,0000,,Nii, espera...
+Dialogue: 0,0:21:08.89,0:21:10.98,ngnl-main,S,0000,0000,0000,,Agora, vamos começar o jogo.
+Dialogue: 0,0:22:49.63,0:22:50.73,ngnl-main,Sh,0000,0000,0000,,Nii?
+Dialogue: 0,0:22:52.09,0:22:53.12,ngnl-main,T,0000,0000,0000,,Shiro?
+Dialogue: 0,0:22:53.12,0:22:55.01,ngnl-main,T,0000,0000,0000,,É manhã... hã?
+Dialogue: 0,0:22:55.01,0:22:56.52,ngnl-main,T,0000,0000,0000,,O que foi, Shiro?
+Dialogue: 0,0:22:57.20,0:23:00.58,ngnl-main,Sh,0000,0000,0000,,Nii... Volte pra mim, Nii.
+Dialogue: 0,0:23:01.01,0:23:03.91,ngnl-main,Sh,0000,0000,0000,,Não me deixe sozinha...
+Dialogue: 0,0:23:04.62,0:23:07.33,ngnl-main,T,0000,0000,0000,,Você tem um irmão?
+Dialogue: 0,0:23:07.76,0:23:09.60,ngnl-main,T,0000,0000,0000,,Eu devo trazê-lo?
+Dialogue: 0,0:23:11.92,0:23:13.16,phone,T,0000,0000,0000,,Número de Contatos
+Dialogue: 0,0:23:13.87,0:23:14.84,ngnl-main,Sh,0000,0000,0000,,Não...
+Dialogue: 0,0:23:17.10,0:23:18.54,ngnl-main,Sh,0000,0000,0000,,Não!
+Dialogue: 0,0:23:18.77,0:23:21.54,ngnl-main,T,0000,0000,0000,,Shiro? O que foi?
+Dialogue: 0,0:23:23.36,0:23:24.74,ngnl-main,Sh,0000,0000,0000,,Steph...
+Dialogue: 0,0:23:25.64,0:23:26.67,ngnl-main,Sh,0000,0000,0000,,Nii...
+Dialogue: 0,0:23:28.08,0:23:31.32,ngnl-main,Sh,0000,0000,0000,,Cadê o Sora?
+Dialogue: 0,0:23:32.16,0:23:33.81,ngnl-main,T,0000,0000,0000,,Sora?
+Dialogue: 0,0:23:35.17,0:23:37.53,ngnl-main,T,0000,0000,0000,,Isso é um nome, né?
+Dialogue: 0,0:23:39.33,0:23:40.60,ngnl-main,T,0000,0000,0000,,Quem é esse?
+Dialogue: 0,0:23:40.95,0:23:45.96,ngnl-next-ep-title,T,0000,0000,0000,,{\blur2}Caminhada pelo Céu\N{\b1\fs24}Método de Dissociação
+Dialogue: 0,0:23:41.52,0:23:43.09,ngnl-main,Preview,0000,0000,0000,,Nii, eu não vou soltar a sua mão,
+Dialogue: 0,0:23:43.09,0:23:46.00,ngnl-main,Preview,0000,0000,0000,,porque eu acho que você levaria \Na minha alma junto com você.
