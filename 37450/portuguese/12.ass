@@ -1,0 +1,448 @@
+﻿[Script Info]
+Title: [Erai-raws] Português (Brasil)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Verdana,22,&H0000FFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,0020,0020,0020,1
+Style: Main,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,1
+Style: Italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: Flashback,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H0049090B,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: EP Title,Trebuchet MS,18,&H00EBEDE3,&H000000FF,&H00242424,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0015,0049,0050,1
+Style: Black Signs,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Preview Title,Trebuchet MS,20,&H00FBFDFD,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0015,0015,0100,1
+Style: DateB,Arial,24,&H00F3F4F3,&H000000FF,&H003D3F35,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0020,1
+Style: Long Signs,Arial,16,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0035,0020,0018,1
+Style: DateCenter,Arial,40,&H00F3F4F3,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0080,1
+Style: Side-Left,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0240,0015,1
+Style: MainUp,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0106,1
+Style: Flashback-Italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H0049090B,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: LyricsT,Trebuchet MS,22,&H00FFFFFF,&H001E1E7B,&H002B1BA2,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,8,0040,0040,0015,1
+Style: LyricsB,Trebuchet MS,22,&H00FFFFFF,&H001E1E7B,&H002B1BA2,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,0040,0040,0015,1
+Style: FlashbackTop,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H0049090B,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:00:00.00,0:00:02.73,Black Signs,,0000,0000,0000,,KAEDE
+Dialogue: 0,0:00:02.98,0:00:06.69,Flashback,,0000,0000,0000,,Kaede, está na hora de acordar.\NO café da manhã já vai ficar pronto.
+Dialogue: 0,0:00:10.19,0:00:11.49,Flashback,,0000,0000,0000,,Q-Quem é você?!
+Dialogue: 0,0:00:11.49,0:00:12.07,Flashback,,0000,0000,0000,,Hã?
+Dialogue: 0,0:00:12.36,0:00:14.45,Flashback,,0000,0000,0000,,Que lugar é este?
+Dialogue: 0,0:00:14.45,0:00:15.78,Flashback,,0000,0000,0000,,Eu...
+Dialogue: 0,0:00:16.16,0:00:17.16,Flashback,,0000,0000,0000,,O que é isto?
+Dialogue: 0,0:00:18.28,0:00:19.12,Flashback,,0000,0000,0000,,Kaede?
+Dialogue: 0,0:01:51.21,0:01:55.26,FlashbackTop,,0000,0000,0000,,Os sintomas da Kaede-san podem ser\Nalguma desordem dissociativa.
+Dialogue: 0,0:01:52.77,0:01:57.74,EP Title,,0000,0000,0000,,{\fad(520,450)}{\blur2}#12 Minha vida é um sonho que nunca acaba
+Dialogue: 0,0:01:55.55,0:01:57.88,FlashbackTop,,0000,0000,0000,,Desordem dissociativa?
+Dialogue: 0,0:01:57.88,0:02:02.26,Flashback,,0000,0000,0000,,Uma doença que faz perder o sentido e\Nconsciência de que você é você mesma.
+Dialogue: 0,0:02:02.85,0:02:05.18,Flashback,,0000,0000,0000,,Como no caso da Kaede-san,
+Dialogue: 0,0:02:05.18,0:02:09.81,Flashback,,0000,0000,0000,,os pacientes apresentam sintomas\Ncomo perda ou lacunas de memória.
+Dialogue: 0,0:02:10.69,0:02:16.24,Flashback,,0000,0000,0000,,No momento, ela não tem a memória de ter\Nvivido com seus pais ou seu irmão mais velho.
+Dialogue: 0,0:02:16.24,0:02:17.44,Flashback,,0000,0000,0000,,Por que algo assim...
+Dialogue: 0,0:02:18.07,0:02:22.32,Flashback,,0000,0000,0000,,Acredito que a causa pode ser\Num estresse extremo ou trauma mental
+Dialogue: 0,0:02:23.53,0:02:28.79,Main,,0000,0000,0000,,A Kaede-chan desenvolveu a Síndrome da\NAdolescência porque pessoas falaram mal dela
+Dialogue: 0,0:02:28.79,0:02:31.00,Main,,0000,0000,0000,,em redes sociais, certo?
+Dialogue: 0,0:02:31.00,0:02:31.83,Main,,0000,0000,0000,,Isso mesmo.
+Dialogue: 0,0:02:32.50,0:02:34.17,Main,,0000,0000,0000,,Isso fazia a Kaede sofrer.
+Dialogue: 0,0:02:33.59,0:02:34.59,Black Signs,,0000,0000,0000,,Morra, Kaede
+Dialogue: 0,0:02:35.05,0:02:42.09,Main,,0000,0000,0000,,Tanto que ela cortou parte de sua memória\Npara escapar dessa sensação sufocante.
+Dialogue: 0,0:02:42.80,0:02:45.18,Main,,0000,0000,0000,,Para se proteger e evitar\Num colapso total.
+Dialogue: 0,0:02:45.60,0:02:47.06,Main,,0000,0000,0000,,Com isso, veio a dissociação...
+Dialogue: 0,0:02:47.60,0:02:51.35,Main,,0000,0000,0000,,Quando a Kaede perdeu a memória,\Neu não sabia como interagir com ela.
+Dialogue: 0,0:02:51.35,0:02:53.44,Main,,0000,0000,0000,,No começo, só sentia hesitação.
+Dialogue: 0,0:02:54.32,0:02:56.73,Flashback,,0000,0000,0000,,Kaede, trouxe um livro pra você.
+Dialogue: 0,0:02:56.73,0:02:59.24,Flashback,,0000,0000,0000,,Da série que você estava\Nansiosa pelo volume novo.
+Dialogue: 0,0:02:59.24,0:03:00.11,Flashback,,0000,0000,0000,,Pegue.
+Dialogue: 0,0:03:00.11,0:03:02.24,Flashback,,0000,0000,0000,,M-Muito obrigada.
+Dialogue: 0,0:03:03.28,0:03:07.20,Flashback,,0000,0000,0000,,E... A Kaede-san gosta deste livro?
+Dialogue: 0,0:03:10.58,0:03:12.58,Flashback-Italics,,0000,0000,0000,,O jeito de falar é diferente.
+Dialogue: 0,0:03:12.58,0:03:14.75,Flashback-Italics,,0000,0000,0000,,Ela segura os palitos com a outra mão.
+Dialogue: 0,0:03:14.75,0:03:17.09,Flashback-Italics,,0000,0000,0000,,A ordem para comer os\Npratos agora é diferente.
+Dialogue: 0,0:03:17.67,0:03:19.67,Flashback-Italics,,0000,0000,0000,,Ela abotoa o pijama a\Npartir do botão de cima.
+Dialogue: 0,0:03:20.01,0:03:21.80,Flashback-Italics,,0000,0000,0000,,O jeito de andar é diferente.
+Dialogue: 0,0:03:21.80,0:03:23.30,Flashback-Italics,,0000,0000,0000,,Ela é diferente da Kaede.
+Dialogue: 0,0:03:23.72,0:03:26.81,Flashback-Italics,,0000,0000,0000,,É diferente... Diferente.\NTudo nela agora é diferente.
+Dialogue: 0,0:03:29.10,0:03:30.02,Flashback,,0000,0000,0000,,Cheguei.
+Dialogue: 0,0:03:30.56,0:03:31.60,Flashback,,0000,0000,0000,,Bem-vindo de volta.
+Dialogue: 0,0:03:35.98,0:03:38.98,Flashback,,0000,0000,0000,,Mãe! A Kaede... Apareceram\Nmais hematomas no corpo dela!
+Dialogue: 0,0:03:40.19,0:03:41.74,Flashback,,0000,0000,0000,,Ah, mesmo?
+Dialogue: 0,0:03:43.49,0:03:45.91,Flashback,,0000,0000,0000,,Está tudo bem, Kaede...
+Dialogue: 0,0:03:47.28,0:03:48.79,Flashback,,0000,0000,0000,,Você está bem, tá?
+Dialogue: 0,0:03:49.20,0:03:52.92,Main,,0000,0000,0000,,Minha mãe não conseguiu aceitar o\Nque estava acontecendo com a Kaede.
+Dialogue: 0,0:03:51.37,0:03:55.42,FlashbackTop,,0000,0000,0000,,Tudo bem, você vai ficar bem, Kaede.
+Dialogue: 0,0:03:53.50,0:03:55.42,Main,,0000,0000,0000,,E ela acabou adoecendo mentalmente.
+Dialogue: 0,0:03:56.04,0:03:57.25,Main,,0000,0000,0000,,Até que eu também...
+Dialogue: 0,0:04:07.10,0:04:11.27,Main,,0000,0000,0000,,No hospital em que fui levado, ninguém\Nacreditava no que eu dizia.
+Dialogue: 0,0:04:12.02,0:04:16.36,Main,,0000,0000,0000,,Por mais que eu tentasse explicar, diziam\Nque era algo subjetivo, algo da cabeça.
+Dialogue: 0,0:04:16.36,0:04:18.27,Main,,0000,0000,0000,,Apenas enxergavam como\Nalgo autoinfligido.
+Dialogue: 0,0:04:19.82,0:04:21.32,Main,,0000,0000,0000,,Não pude fazer nada.
+Dialogue: 0,0:04:22.40,0:04:24.20,Main,,0000,0000,0000,,Não pude fazer nada pela Kaede.
+Dialogue: 0,0:04:25.49,0:04:29.03,Main,,0000,0000,0000,,Depois de me cansar de tudo,\Ncerto dia eu fugi do hospital.
+Dialogue: 0,0:04:29.95,0:04:32.16,Main,,0000,0000,0000,,Foi quando eu a encontrei.
+Dialogue: 0,0:04:33.75,0:04:34.67,Flashback,,0000,0000,0000,,Por acaso sabia que,
+Dialogue: 0,0:04:35.71,0:04:39.38,Flashback,,0000,0000,0000,,na altura dos olhos, a distância\Naté onde se enxerga o horizonte
+Dialogue: 0,0:04:39.38,0:04:41.17,Flashback,,0000,0000,0000,,é de cerca de 4 quilômetros?
+Dialogue: 0,0:04:42.72,0:04:47.30,Main,,0000,0000,0000,,Shouko-san ouviu calada a minha\Nhistória e acreditou em tudo.
+Dialogue: 0,0:04:48.68,0:04:52.10,Main,,0000,0000,0000,,Desde então, comecei a escapar\Ndo hospital de tempos em tempos.
+Dialogue: 0,0:04:53.02,0:04:56.27,Main,,0000,0000,0000,,A Shouko-san sempre estava lá,\Nna Praia de Shichirigahama.
+Dialogue: 0,0:04:58.02,0:05:01.11,Flashback,,0000,0000,0000,,Estava pensando de novo\Nem sua irmã mais nova?
+Dialogue: 0,0:05:01.11,0:05:03.44,Flashback,,0000,0000,0000,,Estava pensando em você, Shouko-san.
+Dialogue: 0,0:05:03.44,0:05:05.95,Flashback,,0000,0000,0000,,Faz sentido.\NEram coisas indecentes, né?
+Dialogue: 0,0:05:05.95,0:05:07.49,Flashback,,0000,0000,0000,,Não é isso.
+Dialogue: 0,0:05:07.49,0:05:10.37,Flashback,,0000,0000,0000,,Estava me perguntando por que\Nvocê acredita no que eu digo.
+Dialogue: 0,0:05:11.45,0:05:15.50,Flashback,,0000,0000,0000,,Sobre os ferimentos da Kaede, minha\Ncicatriz e a Síndrome da Adolescência.
+Dialogue: 0,0:05:16.42,0:05:19.21,Flashback,,0000,0000,0000,,Por mais que eu tentasse,\Nninguém realmente me ouvia a sério.
+Dialogue: 0,0:05:19.84,0:05:22.46,Flashback,,0000,0000,0000,,Ninguém tentou acreditar\Nno que eu vi com meus olhos.
+Dialogue: 0,0:05:24.22,0:05:28.47,Flashback,,0000,0000,0000,,Provavelmente existem tantos mundos\Nquanto pessoas para vê-los.
+Dialogue: 0,0:05:29.35,0:05:34.73,Flashback,,0000,0000,0000,,Assim como o horizonte que você vê pode\Nir bem mais longe do que o que eu enxergo.
+Dialogue: 0,0:05:36.31,0:05:38.48,Flashback,,0000,0000,0000,,O mesmo com esta brisa do mar.
+Dialogue: 0,0:05:38.48,0:05:40.23,Flashback,,0000,0000,0000,,Algumas pessoas a acham agradável,
+Dialogue: 0,0:05:40.86,0:05:44.32,Flashback,,0000,0000,0000,,enquanto outras não gostam,\Npois deixam a pele e o cabelo grudentos.
+Dialogue: 0,0:05:45.15,0:05:47.82,Flashback,,0000,0000,0000,,Acho que a sorte do\Ndestino nos juntou aqui,
+Dialogue: 0,0:05:47.82,0:05:51.41,Flashback,,0000,0000,0000,,então, como uma senpai na vida,\Nte darei um conselho maravilhoso.
+Dialogue: 0,0:05:51.41,0:05:53.91,Flashback,,0000,0000,0000,,É normal chamar de "maravilhoso"\No que a própria pessoa faz?
+Dialogue: 0,0:05:55.62,0:05:59.88,Flashback,,0000,0000,0000,,Eu não tive um grande sonho ou\Ngrandes esperanças na minha vida.
+Dialogue: 0,0:06:01.00,0:06:04.88,Flashback,,0000,0000,0000,,Mesmo assim, encontrei\Num sentindo na vida.
+Dialogue: 0,0:06:06.30,0:06:07.80,Flashback,,0000,0000,0000,,Eu acho que a vida existe
+Dialogue: 0,0:06:08.63,0:06:12.10,Flashback,,0000,0000,0000,,para nos tornarmos mais gentis.
+Dialogue: 0,0:06:12.72,0:06:14.72,Flashback,,0000,0000,0000,,Para nos tornarmos mais gentis?
+Dialogue: 0,0:06:15.39,0:06:22.65,Flashback,,0000,0000,0000,,Vivo todos os dias esperando ser um pouco\Nmais gentil do que a pessoa que fui ontem.
+Dialogue: 0,0:06:32.70,0:06:35.08,Flashback,,0000,0000,0000,,Sabe, Shouko-san...
+Dialogue: 0,0:06:35.08,0:06:35.95,Flashback,,0000,0000,0000,,Que foi?
+Dialogue: 0,0:06:36.79,0:06:40.08,Flashback,,0000,0000,0000,,Tudo bem se eu viver como você?
+Dialogue: 0,0:06:40.67,0:06:42.13,Flashback,,0000,0000,0000,,É claro que sim.
+Dialogue: 0,0:06:42.96,0:06:46.46,Flashback,,0000,0000,0000,,Agora que você conhece a dor de não\Nser compreendido, certamente você
+Dialogue: 0,0:06:46.46,0:06:48.42,Flashback,,0000,0000,0000,,será mais gentil que qualquer um.
+Dialogue: 0,0:06:49.09,0:06:51.59,Flashback,,0000,0000,0000,,Tenho certeza que você\Nserá um apoio para alguém.
+Dialogue: 0,0:06:54.18,0:06:56.06,Main,,0000,0000,0000,,Eram valores que eu não conhecia.
+Dialogue: 0,0:06:56.89,0:06:58.89,Black Signs,,0000,0000,0000,,KAEDE
+Dialogue: 0,0:06:57.93,0:07:02.40,Main,,0000,0000,0000,,Quando recebi alta do hospital, comprei uma\Ncaneta e um caderno no caminho para casa.
+Dialogue: 0,0:07:03.02,0:07:04.06,Flashback,,0000,0000,0000,,O que é isto?
+Dialogue: 0,0:07:04.06,0:07:07.07,Flashback,,0000,0000,0000,,O doutor disse ontem que\Nvocê deve escrever de tudo...
+Dialogue: 0,0:07:07.07,0:07:11.66,Flashback,,0000,0000,0000,,O que aconteceu no dia, o que\Npensou, usando suas palavras.
+Dialogue: 0,0:07:12.24,0:07:13.24,Flashback,,0000,0000,0000,,Está bem...
+Dialogue: 0,0:07:13.24,0:07:14.83,Flashback,,0000,0000,0000,,Primeiro, comece pelo seu nome.
+Dialogue: 0,0:07:14.83,0:07:15.78,Flashback,,0000,0000,0000,,Entendi.
+Dialogue: 0,0:07:16.95,0:07:17.87,Flashback,,0000,0000,0000,,Ah, espere um pouco.
+Dialogue: 0,0:07:18.25,0:07:19.12,Flashback,,0000,0000,0000,,Sim?
+Dialogue: 0,0:07:19.12,0:07:20.66,Flashback,,0000,0000,0000,,Sobre o seu nome...
+Dialogue: 0,0:07:20.66,0:07:23.21,Flashback,,0000,0000,0000,,Está tudo bem, eu consigo\Nescrever certinho.
+Dialogue: 0,0:07:23.50,0:07:27.13,Flashback,,0000,0000,0000,,"Kaede" é escrito com caracteres de "flor"\Nseguido com "bordo" como a árvore, certo?
+Dialogue: 0,0:07:27.71,0:07:29.97,Flashback,,0000,0000,0000,,Vamos escrever "Kaede"\Nusando hiragana.
+Dialogue: 0,0:07:29.97,0:07:30.88,Flashback,,0000,0000,0000,,Em hiragana?
+Dialogue: 0,0:07:31.43,0:07:34.14,Flashback,,0000,0000,0000,,Porque a pessoa que está aqui\Né a "Kaede" de agora.
+Dialogue: 0,0:07:37.01,0:07:38.60,Flashback,,0000,0000,0000,,Desculpa por tudo até agora.
+Dialogue: 0,0:07:41.85,0:07:44.27,Flashback,,0000,0000,0000,,É só você, mano!
+Dialogue: 0,0:07:44.27,0:07:46.65,Flashback,,0000,0000,0000,,Só você que entende a Kaede!
+Dialogue: 0,0:07:56.33,0:07:58.41,Black Signs,,0000,0000,0000,,Azusagawa Kaede
+Dialogue: 0,0:07:57.87,0:07:59.66,Flashback,,0000,0000,0000,,Conto com você para cuidar da Kaede.
+Dialogue: 0,0:07:59.66,0:08:01.54,Flashback,,0000,0000,0000,,E você precisa cuidar da mamãe, pai.
+Dialogue: 0,0:08:01.54,0:08:02.37,Flashback,,0000,0000,0000,,Sim.
+Dialogue: 0,0:08:03.04,0:08:03.87,Flashback,,0000,0000,0000,,Kaede.
+Dialogue: 0,0:08:05.13,0:08:08.21,Flashback,,0000,0000,0000,,Pode ir com calma,\Nnão precisa se forçar.
+Dialogue: 0,0:08:09.09,0:08:11.09,Flashback,,0000,0000,0000,,O papai e a mamãe. \NNós vamos te esperar.
+Dialogue: 0,0:08:14.59,0:08:17.05,Flashback,,0000,0000,0000,,A Kaede tem medo do olhar de todos.
+Dialogue: 0,0:08:18.60,0:08:20.77,Flashback,,0000,0000,0000,,Todos enxergam a "Kaede-san".
+Dialogue: 0,0:08:21.93,0:08:25.86,Main,,0000,0000,0000,,E claro, eu também quero que\Na memória da Kaede volte.
+Dialogue: 0,0:08:25.86,0:08:27.57,Main,,0000,0000,0000,,Quero que ela volte para nós.
+Dialogue: 0,0:08:28.52,0:08:31.94,Main,,0000,0000,0000,,Se isso acontecer,\No que será da Kaede de hoje?
+Dialogue: 0,0:08:34.11,0:08:38.37,Main,,0000,0000,0000,,Essa é toda a história da Kaede.\NMe desculpe por não ter contado até agora.
+Dialogue: 0,0:08:38.83,0:08:41.54,Main,,0000,0000,0000,,Está tudo bem. É pelo bem\Nda Kaede-chan, certo?
+Dialogue: 0,0:08:41.54,0:08:42.83,Main,,0000,0000,0000,,Isso é verdade...
+Dialogue: 0,0:08:43.54,0:08:47.25,Main,,0000,0000,0000,,Mas quando vejo a Kaede\Naos poucos se dando bem com todos,
+Dialogue: 0,0:08:47.25,0:08:48.75,Main,,0000,0000,0000,,não consegui falar sobre isso.
+Dialogue: 0,0:08:49.04,0:08:51.13,Main,,0000,0000,0000,,Senti que as coisas\Npoderiam ficar assim.
+Dialogue: 0,0:08:51.13,0:08:53.55,Main,,0000,0000,0000,,Eu sei. Não estou brava por isso.
+Dialogue: 0,0:08:54.47,0:08:55.34,Main,,0000,0000,0000,,Mesmo assim...
+Dialogue: 0,0:08:56.43,0:08:58.43,Main,,0000,0000,0000,,Queria que me contasse\Nisso um pouco mais cedo.
+Dialogue: 0,0:08:58.43,0:08:59.85,Main,,0000,0000,0000,,Então você está brava...
+Dialogue: 0,0:09:00.56,0:09:03.06,DateB,,0000,0000,0000,,{\a6}17 de novembro
+Dialogue: 0,0:09:01.68,0:09:03.06,Main,,0000,0000,0000,,Bom dia, Kaede.
+Dialogue: 0,0:09:03.35,0:09:05.85,Main,,0000,0000,0000,,B-Bom dia, mano.
+Dialogue: 0,0:09:06.35,0:09:08.44,Main,,0000,0000,0000,,A Kaede talvez não dure\Npor muito mais tempo.
+Dialogue: 0,0:09:08.98,0:09:11.44,Main,,0000,0000,0000,,Está com o corpo todo doendo!
+Dialogue: 0,0:09:11.44,0:09:14.24,Main,,0000,0000,0000,,Brincou o dia todo ontem.\NIsso é dor muscular.
+Dialogue: 0,0:09:15.61,0:09:17.03,Main,,0000,0000,0000,,Não está com febre.
+Dialogue: 0,0:09:21.79,0:09:23.70,Main,,0000,0000,0000,,Vai gravar em Kanazawa?
+Dialogue: 0,0:09:23.70,0:09:26.29,Main,,0000,0000,0000,,De novo não vou poder\Nte ver por um tempo?
+Dialogue: 0,0:09:26.29,0:09:29.59,Main,,0000,0000,0000,,Vamos filmar em um estúdio em\NTóquio até depois de amanhã,
+Dialogue: 0,0:09:29.59,0:09:30.84,Main,,0000,0000,0000,,então continuo em casa.
+Dialogue: 0,0:09:31.46,0:09:32.88,Main,,0000,0000,0000,,Me ligue se precisar.
+Dialogue: 0,0:09:33.13,0:09:34.88,Main,,0000,0000,0000,,Mesmo sem precisar, eu ligo!
+Dialogue: 0,0:09:34.88,0:09:37.38,Main,,0000,0000,0000,,Eu disse isso caso aconteça\Nalgo com a Kaede-chan.
+Dialogue: 0,0:09:38.93,0:09:39.85,Main,,0000,0000,0000,,Cheguei.
+Dialogue: 0,0:09:43.47,0:09:44.64,Main,,0000,0000,0000,,Kaede, cheguei.
+Dialogue: 0,0:09:44.89,0:09:45.73,Main,,0000,0000,0000,,A-Ah!
+Dialogue: 0,0:09:47.02,0:09:48.23,Main,,0000,0000,0000,,O que está fazendo?
+Dialogue: 0,0:09:49.56,0:09:50.40,Main,,0000,0000,0000,,Ai...
+Dialogue: 0,0:09:51.02,0:09:52.69,Main,,0000,0000,0000,,Seja boazinha e fique deitada.
+Dialogue: 0,0:09:52.69,0:09:54.99,Main,,0000,0000,0000,,Ontem consegui chegar até a praia.
+Dialogue: 0,0:09:54.99,0:09:58.61,Main,,0000,0000,0000,,A Kaede não quer que uma dor muscular\Natrapalhe esse bom embalo.
+Dialogue: 0,0:09:58.61,0:10:00.91,Main,,0000,0000,0000,,Kaede quer sair de novo hoje!
+Dialogue: 0,0:10:00.91,0:10:01.70,Main,,0000,0000,0000,,Sério?
+Dialogue: 0,0:10:01.70,0:10:02.45,Main,,0000,0000,0000,,É sério!
+Dialogue: 0,0:10:02.45,0:10:03.91,Main,,0000,0000,0000,,Além de termos uma\Nestreia do uniforme?
+Dialogue: 0,0:10:03.91,0:10:05.33,Main,,0000,0000,0000,,Com estreia do uniforme!
+Dialogue: 0,0:10:05.33,0:10:06.58,Main,,0000,0000,0000,,Comprei pudins.
+Dialogue: 0,0:10:06.58,0:10:07.54,Main,,0000,0000,0000,,Viva!
+Dialogue: 0,0:10:07.54,0:10:08.37,Main,,0000,0000,0000,,Ai...
+Dialogue: 0,0:10:08.83,0:10:10.96,Main,,0000,0000,0000,,P-Por favor, não fique\Nmudando o assunto!
+Dialogue: 0,0:10:11.34,0:10:14.92,Main,,0000,0000,0000,,Está tudo bem, o mundo lá fora\Nnão vai fugir de você, sem pânico.
+Dialogue: 0,0:10:15.71,0:10:17.51,Main,,0000,0000,0000,,A Kaede está bem?
+Dialogue: 0,0:10:17.51,0:10:18.80,Main,,0000,0000,0000,,Você está bem.
+Dialogue: 0,0:10:18.80,0:10:22.39,Main,,0000,0000,0000,,Mas a Kaede não sabe quem é a garota\Nque encontramos ontem na praia...
+Dialogue: 0,0:10:23.18,0:10:25.31,Main,,0000,0000,0000,,É alguém que a "Kaede-san" conhece, né?
+Dialogue: 0,0:10:26.06,0:10:28.52,Main,,0000,0000,0000,,Se você quiser saber, eu digo\Nque tipo de garota ela é.
+Dialogue: 0,0:10:29.10,0:10:32.69,Main,,0000,0000,0000,,A Kaede tem problemas para lidar com\Npessoas que conhecem a "Kaede-san".
+Dialogue: 0,0:10:32.69,0:10:33.94,Main,,0000,0000,0000,,É um problema, mas...
+Dialogue: 0,0:10:34.78,0:10:36.19,Main,,0000,0000,0000,,Também tenho medo de não saber!
+Dialogue: 0,0:10:38.15,0:10:42.03,Main,,0000,0000,0000,,Ela é a Kano Kotomi, uma conhecida\Nde antes do jardim de infância.
+Dialogue: 0,0:10:42.87,0:10:45.41,Main,,0000,0000,0000,,Ela morava no mesmo prédio,\Nno apartamento do andar de baixo.
+Dialogue: 0,0:10:46.75,0:10:49.54,Main,,0000,0000,0000,,Costumava brincar com a\NKaede desde bem pequena.
+Dialogue: 0,0:10:50.54,0:10:53.63,Main,,0000,0000,0000,,Parece que ela foi para a praia\Npensando em reler este livro.
+Dialogue: 0,0:10:51.63,0:10:53.84,Black Signs,,0000,0000,0000,,A Maçã Envenenada\NQue o Príncipe Me Deu
+Dialogue: 0,0:10:54.42,0:10:56.09,Main,,0000,0000,0000,,Disse que é um livro\Nque a Kaede emprestou.
+Dialogue: 0,0:10:59.09,0:11:00.01,Main,,0000,0000,0000,,O que será isto?
+Dialogue: 0,0:11:00.89,0:11:02.60,Main,,0000,0000,0000,,Posso olhar?
+Dialogue: 0,0:11:02.60,0:11:03.43,Main,,0000,0000,0000,,Pode.
+Dialogue: 0,0:11:04.81,0:11:06.64,Black Signs,,0000,0000,0000,,Quero ser sua amiga de novo, Kae-chan.\N— Kotomi
+Dialogue: 0,0:11:08.14,0:11:10.64,Black Signs,,0000,0000,0000,,amiga
+Dialogue: 0,0:11:14.36,0:11:15.19,Main,,0000,0000,0000,,Komi-chan...
+Dialogue: 0,0:11:15.90,0:11:16.82,Main,,0000,0000,0000,,Kaede, você acabou de...
+Dialogue: 0,0:11:18.07,0:11:19.45,Main,,0000,0000,0000,,Kaede! Kaede!
+Dialogue: 0,0:11:23.57,0:11:28.54,Main,,0000,0000,0000,,Para ser sincero, não posso dizer nada\Nconcreto até a Kaede-san acordar.
+Dialogue: 0,0:11:29.25,0:11:34.67,Main,,0000,0000,0000,,No entanto, há a possibilidade de que tenha\Nalguma mudança em sua memória ao acordar.
+Dialogue: 0,0:11:35.21,0:11:36.38,Main,,0000,0000,0000,,Como assim?
+Dialogue: 0,0:11:36.96,0:11:38.59,Black Signs,,0000,0000,0000,,Azusagawa Kaede
+Dialogue: 0,0:11:48.47,0:11:51.81,Main,,0000,0000,0000,,Bem, a Kaede não é do tipo que\Npode ser chamada de princesa...
+Dialogue: 0,0:11:53.77,0:11:54.61,Main,,0000,0000,0000,,Kaede?
+Dialogue: 0,0:11:56.40,0:11:57.23,Main,,0000,0000,0000,,Mano?
+Dialogue: 0,0:11:58.65,0:11:59.49,Main,,0000,0000,0000,,Que lugar é este?
+Dialogue: 0,0:11:59.86,0:12:02.03,Main,,0000,0000,0000,,Você desmaiou e te trouxeram\Naqui em uma ambulância.
+Dialogue: 0,0:12:03.07,0:12:05.62,Main,,0000,0000,0000,,Mano, foi você quem\Ntrocou a roupa da Kaede?
+Dialogue: 0,0:12:05.62,0:12:07.33,Main,,0000,0000,0000,,Não, pode ficar tranquila.
+Dialogue: 0,0:12:07.33,0:12:10.41,Main,,0000,0000,0000,,Foi a enfermeira com a Mai-san.\NA Toyohama também ajudou.
+Dialogue: 0,0:12:10.96,0:12:13.00,Main,,0000,0000,0000,,Não tem problema se fizesse\Nisso também, mano.
+Dialogue: 0,0:12:14.29,0:12:15.83,Main,,0000,0000,0000,,Você é a Kaede... Certo?
+Dialogue: 0,0:12:16.46,0:12:18.25,Main,,0000,0000,0000,,A Kaede é a Kaede, tá?
+Dialogue: 0,0:12:20.34,0:12:22.55,Italics,,0000,0000,0000,,A Kaede recobrou a consciência.
+Dialogue: 0,0:12:22.55,0:12:26.51,Italics,,0000,0000,0000,,Pelo resultado dos exames, não há nada\Nanormal. Ela pode voltar hoje para casa.
+Dialogue: 0,0:12:26.51,0:12:27.81,Main,,0000,0000,0000,,Que alívio.
+Dialogue: 0,0:12:27.81,0:12:28.81,Italics,,0000,0000,0000,,No entanto...
+Dialogue: 0,0:12:28.81,0:12:33.56,Main,,0000,0000,0000,,Esse desmaio talvez indique\Nalgum retorno da memória da "Kaede".
+Dialogue: 0,0:12:33.56,0:12:35.77,Main,,0000,0000,0000,,Se a memória da antiga Kaede voltar,
+Dialogue: 0,0:12:36.44,0:12:40.03,Italics,,0000,0000,0000,,disseram que é possível que\Na memória atual desapareça.
+Dialogue: 0,0:12:40.03,0:12:41.19,Main,,0000,0000,0000,,Ah, não...
+Dialogue: 0,0:12:43.49,0:12:45.11,Black Signs,,0000,0000,0000,,Área de Táxis
+Dialogue: 0,0:12:44.41,0:12:46.74,Main,,0000,0000,0000,,O papai veio?
+Dialogue: 0,0:12:46.74,0:12:48.87,Main,,0000,0000,0000,,Veio. Estava preocupado com você.
+Dialogue: 0,0:12:51.08,0:12:54.04,Main,,0000,0000,0000,,Ei, Kaede, o que mais quer fazer agora?
+Dialogue: 0,0:12:54.04,0:12:55.62,Main,,0000,0000,0000,,Quero comer pudim!
+Dialogue: 0,0:12:55.62,0:12:59.46,Main,,0000,0000,0000,,É para celebrar a alta no hospital.\NPode ser algo maior que isso.
+Dialogue: 0,0:12:59.46,0:13:01.26,Main,,0000,0000,0000,,Quero comer um pudim enorme!
+Dialogue: 0,0:13:01.67,0:13:06.80,Main,,0000,0000,0000,,Bem, poderia comer isso,\Nmas que tal ir ver pandas ou algo assim?
+Dialogue: 0,0:13:08.93,0:13:10.56,Main,,0000,0000,0000,,Pandas estão em segundo lugar.
+Dialogue: 0,0:13:10.56,0:13:11.77,Main,,0000,0000,0000,,E o que é o primeiro?
+Dialogue: 0,0:13:11.77,0:13:12.60,Main,,0000,0000,0000,,O primeiro é...
+Dialogue: 0,0:13:13.68,0:13:15.14,Main,,0000,0000,0000,,Quero ir à escola.
+Dialogue: 0,0:13:17.69,0:13:21.28,DateB,,0000,0000,0000,,19 de novembro
+Dialogue: 0,0:13:18.81,0:13:21.03,Main,,0000,0000,0000,,A Kaede disse que quer ir para a escola.
+Dialogue: 0,0:13:21.53,0:13:22.36,Main,,0000,0000,0000,,Mesmo?
+Dialogue: 0,0:13:23.07,0:13:24.86,Main,,0000,0000,0000,,Quero realizar esse desejo.
+Dialogue: 0,0:13:25.61,0:13:26.61,Main,,0000,0000,0000,,Está bem.
+Dialogue: 0,0:13:26.61,0:13:29.62,Main,,0000,0000,0000,,Amanhã mesmo irei explicar a\Nsituação para a escola dela.
+Dialogue: 0,0:13:33.29,0:13:34.12,Main,,0000,0000,0000,,Sakuta...
+Dialogue: 0,0:13:35.08,0:13:36.79,Main,,0000,0000,0000,,Você está comendo direito?
+Dialogue: 0,0:13:37.17,0:13:38.17,Main,,0000,0000,0000,,Estou.
+Dialogue: 0,0:13:38.17,0:13:39.00,Main,,0000,0000,0000,,Entendi...
+Dialogue: 0,0:13:41.17,0:13:44.17,Main,,0000,0000,0000,,E bem, pode ser quando as\Ncoisas ficarem mais tranquilas...
+Dialogue: 0,0:13:44.17,0:13:45.01,Main,,0000,0000,0000,,Que foi?
+Dialogue: 0,0:13:46.30,0:13:49.64,Main,,0000,0000,0000,,Nos apresente a garota\Ncom que está namorando.
+Dialogue: 0,0:13:50.47,0:13:53.64,Main,,0000,0000,0000,,Ah, bem... Quando ficar\Nmais tranquilo, certo?
+Dialogue: 0,0:13:54.73,0:13:58.69,DateB,,0000,0000,0000,,20 de novembro
+Dialogue: 0,0:13:55.52,0:13:58.69,Main,,0000,0000,0000,,A gravação em Kanazawa vai\Ndurar duas semanas, é isso?
+Dialogue: 0,0:13:58.69,0:14:03.32,Main,,0000,0000,0000,,Sim. Sei que vai sentir saudades por\Nnão me ver, mas te ligo todas as noites.
+Dialogue: 0,0:14:03.82,0:14:06.11,Main,,0000,0000,0000,,Estarei a postos na frente\Ndo telefone, todas as noites!
+Dialogue: 0,0:14:06.11,0:14:07.99,Main,,0000,0000,0000,,Leve a vida mais a sério e estude.
+Dialogue: 0,0:14:11.37,0:14:13.99,Main,,0000,0000,0000,,Sakuta, você não tem medo?
+Dialogue: 0,0:14:15.04,0:14:16.58,Main,,0000,0000,0000,,Quando pensa sobre a Kaede-chan.
+Dialogue: 0,0:14:17.12,0:14:20.63,Main,,0000,0000,0000,,É claro que tenho medo sobre isso.\NSinto que vou molhar as calças agora mesmo.
+Dialogue: 0,0:14:20.63,0:14:22.55,Main,,0000,0000,0000,,Estou fazendo uma pergunta séria.
+Dialogue: 0,0:14:22.55,0:14:26.22,Main,,0000,0000,0000,,Mas o irmão mais velho não pode sujar\Nas calças na frente da irmã, certo?
+Dialogue: 0,0:14:26.88,0:14:29.34,Main,,0000,0000,0000,,Nem molhar, nem borrar...\NNem lamentar.
+Dialogue: 0,0:14:30.76,0:14:32.93,Main,,0000,0000,0000,,Porque eu sou o irmão mais velho.
+Dialogue: 0,0:14:32.93,0:14:35.52,Main,,0000,0000,0000,,Se eu puder fazer algo, quero fazer.
+Dialogue: 0,0:14:37.43,0:14:39.02,Main,,0000,0000,0000,,Mas não há nada agora.
+Dialogue: 0,0:14:40.40,0:14:41.27,Main,,0000,0000,0000,,Desculpa...
+Dialogue: 0,0:14:42.31,0:14:44.65,Main,,0000,0000,0000,,Ah, droga, sou uma idiota!
+Dialogue: 0,0:14:44.65,0:14:47.86,Main,,0000,0000,0000,,Minha irmã não disse nada porque\Nnão tem nada que possa ser feito!
+Dialogue: 0,0:14:47.86,0:14:48.99,Main,,0000,0000,0000,,Desculpa, de verdade!
+Dialogue: 0,0:14:49.57,0:14:52.07,DateB,,0000,0000,0000,,22 de novembro
+Dialogue: 0,0:14:52.45,0:14:54.41,Italics,,0000,0000,0000,,Olá, me chamo Tomobe,\Nsou orientadora escolar.
+Dialogue: 0,0:14:55.62,0:14:59.75,Main,,0000,0000,0000,,No começo, pode apenas fazer uma\Npequena parte do caminho para a escola.
+Dialogue: 0,0:15:00.33,0:15:04.00,Main,,0000,0000,0000,,Na escola, não precisa ir direto para a sala.\NPode ir só na enfermaria.
+Dialogue: 0,0:15:04.00,0:15:07.26,Main,,0000,0000,0000,,S-Se eu for na enfermaria,\Nposso considerar que fui à escola?
+Dialogue: 0,0:15:07.26,0:15:09.26,Main,,0000,0000,0000,,Sim, claro que pode!
+Dialogue: 0,0:15:09.26,0:15:11.55,Main,,0000,0000,0000,,Mas vai ser diferente de\Ntodas as pessoas, né?
+Dialogue: 0,0:15:11.55,0:15:13.18,Main,,0000,0000,0000,,Isso é verdade.
+Dialogue: 0,0:15:13.18,0:15:17.27,Main,,0000,0000,0000,,Só que, por mais que as pessoas pareçam\Niguais, todas na verdade são diferentes.
+Dialogue: 0,0:15:17.27,0:15:20.85,Main,,0000,0000,0000,,Por exemplo, há crianças\Nmais altas e mais baixas.
+Dialogue: 0,0:15:20.85,0:15:23.61,Main,,0000,0000,0000,,Se há crianças boas para correr,\Nhá aquelas que nem tanto.
+Dialogue: 0,0:15:24.32,0:15:26.94,Main,,0000,0000,0000,,Cada pessoa tem seu próprio ritmo.
+Dialogue: 0,0:15:26.94,0:15:30.40,Main,,0000,0000,0000,,É por isso que, se for um\Nresultado pelo seu grande esforço,
+Dialogue: 0,0:15:30.40,0:15:33.12,Main,,0000,0000,0000,,tudo bem considerar que\Nisso conta como "ir à escola".
+Dialogue: 0,0:15:33.12,0:15:36.83,Main,,0000,0000,0000,,E-Então, posso marcar como\N"feito" se ir à enfermaria?
+Dialogue: 0,0:15:36.83,0:15:37.62,Main,,0000,0000,0000,,"Feito"?
+Dialogue: 0,0:15:38.04,0:15:39.37,Main,,0000,0000,0000,,Marcando aqui...
+Dialogue: 0,0:15:39.37,0:15:41.12,Black Signs,,0000,0000,0000,,* Ir para a escola
+Dialogue: 0,0:15:42.12,0:15:43.25,Main,,0000,0000,0000,,Eu acho que tudo bem!
+Dialogue: 0,0:15:43.58,0:15:47.05,Main,,0000,0000,0000,,E-Então a Kaede vai\Ncertamente para a escola!
+Dialogue: 0,0:16:16.03,0:16:17.03,Main,,0000,0000,0000,,Não acredito!
+Dialogue: 0,0:16:17.03,0:16:18.66,Main,,0000,0000,0000,,Mas é verdade!
+Dialogue: 0,0:16:18.66,0:16:20.62,Main,,0000,0000,0000,,O que acha que ela disse depois?
+Dialogue: 0,0:16:20.62,0:16:21.50,Main,,0000,0000,0000,,Hã? O quê?
+Dialogue: 0,0:16:22.16,0:16:25.21,Main,,0000,0000,0000,,Elas não estão rindo de você, Kaede.
+Dialogue: 0,0:16:25.21,0:16:26.46,Main,,0000,0000,0000,,Verdade?
+Dialogue: 0,0:16:26.46,0:16:30.01,Main,,0000,0000,0000,,Se acha que pode arrancar risos das\Npessoas com tanta facilidade, está errada.
+Dialogue: 0,0:16:30.01,0:16:32.47,Main,,0000,0000,0000,,O-O caminho para ser\Ncomediante é bem íngreme, né?
+Dialogue: 0,0:16:34.39,0:16:38.10,Main,,0000,0000,0000,,Já se esforçou bastante hoje.\NVamos pra casa comer pudim?
+Dialogue: 0,0:16:44.90,0:16:47.73,Main,,0000,0000,0000,,A Kaede está determinada a\Nfinalmente ir até a escola!
+Dialogue: 0,0:16:47.73,0:16:48.77,Main,,0000,0000,0000,,Ela vai dar tudo o que pode!
+Dialogue: 0,0:16:48.77,0:16:50.99,Main,,0000,0000,0000,,Não precisa ser tão impaciente, sabe?
+Dialogue: 0,0:16:50.99,0:16:53.32,Main,,0000,0000,0000,,A-A Kaede não está impaciente.
+Dialogue: 0,0:16:53.32,0:16:55.70,Main,,0000,0000,0000,,A Tomobe-san disse que\Npode ir com calma, não foi?
+Dialogue: 0,0:16:58.99,0:16:59.83,Main,,0000,0000,0000,,Kaede?
+Dialogue: 0,0:17:00.24,0:17:02.12,Main,,0000,0000,0000,,Só isso não é o bastante.
+Dialogue: 0,0:17:02.12,0:17:03.04,Main,,0000,0000,0000,,Não é o bastante?
+Dialogue: 0,0:17:08.04,0:17:11.46,Main,,0000,0000,0000,,Kaede, vamos parar de\Npraticar por hoje, tá?
+Dialogue: 0,0:17:13.09,0:17:13.76,Main,,0000,0000,0000,,Kaede!
+Dialogue: 0,0:17:18.26,0:17:19.10,Main,,0000,0000,0000,,Kaede!
+Dialogue: 0,0:17:19.51,0:17:21.02,Main,,0000,0000,0000,,Estou dizendo para não se forçar!
+Dialogue: 0,0:17:21.02,0:17:22.73,Main,,0000,0000,0000,,Mas preciso me forçar!
+Dialogue: 0,0:17:22.73,0:17:25.27,Main,,0000,0000,0000,,A Kaede não tem tempo\Nsobrando para ir com calma!
+Dialogue: 0,0:17:28.06,0:17:30.44,Main,,0000,0000,0000,,Então ela sabia sobre isso?
+Dialogue: 0,0:17:39.45,0:17:42.16,Main,,0000,0000,0000,,Como assim? Isso é um sarro!
+Dialogue: 0,0:17:40.87,0:17:41.70,Top,,0000,0000,0000,,Que malvada!
+Dialogue: 0,0:17:45.29,0:17:46.04,Main,,0000,0000,0000,,Por quê?
+Dialogue: 0,0:17:47.00,0:17:47.75,Main,,0000,0000,0000,,Por que...
+Dialogue: 0,0:17:48.08,0:17:48.92,Main,,0000,0000,0000,,Kaede...
+Dialogue: 0,0:17:51.50,0:17:53.51,Main,,0000,0000,0000,,Por que não me ajudam?
+Dialogue: 0,0:17:53.51,0:17:57.22,Main,,0000,0000,0000,,A Kaede quer ir para a escola,\Nmas essas pernas não se movem!
+Dialogue: 0,0:17:58.01,0:17:58.84,Main,,0000,0000,0000,,{\a6}Kaede.
+Dialogue: 0,0:17:58.51,0:18:00.14,Main,,0000,0000,0000,,A Kaede não vai para casa!
+Dialogue: 0,0:18:00.14,0:18:03.93,Main,,0000,0000,0000,,Não... Vou praticar até\Nconseguir ir para a escola!
+Dialogue: 0,0:18:04.81,0:18:05.64,Main,,0000,0000,0000,,Vou praticar...
+Dialogue: 0,0:18:08.19,0:18:08.98,Main,,0000,0000,0000,,Já entendi.
+Dialogue: 0,0:18:10.15,0:18:12.36,Main,,0000,0000,0000,,Vou fazer com que consiga\Nir para a escola, Kaede.
+Dialogue: 0,0:18:12.82,0:18:14.65,Main,,0000,0000,0000,,Hã? Mesmo?
+Dialogue: 0,0:18:14.65,0:18:15.86,Main,,0000,0000,0000,,É verdade.
+Dialogue: 0,0:18:15.86,0:18:18.99,Main,,0000,0000,0000,,Mas vamos voltar a praticar\Nsó depois de uma pausinha.
+Dialogue: 0,0:18:19.45,0:18:20.57,Main,,0000,0000,0000,,Uma pausa?
+Dialogue: 0,0:18:21.12,0:18:23.41,Main,,0000,0000,0000,,Isso mesmo. No melhor lugar pra isso.
+Dialogue: 0,0:18:29.21,0:18:30.96,Main,,0000,0000,0000,,Tem muita gente aqui.
+Dialogue: 0,0:18:30.96,0:18:34.34,Main,,0000,0000,0000,,Se tiver medo só com essa quantidade\Nde gente, não vai chegar na escola.
+Dialogue: 0,0:18:34.34,0:18:36.01,Main,,0000,0000,0000,,C-Certo, vou me esforçar...
+Dialogue: 0,0:18:39.55,0:18:43.06,Main,,0000,0000,0000,,Mano, ainda não chegamos\Nno "melhor lugar"?
+Dialogue: 0,0:18:43.06,0:18:45.22,Main,,0000,0000,0000,,Não se preocupe, logo estaremos lá.
+Dialogue: 0,0:18:48.39,0:18:50.23,Main,,0000,0000,0000,,Ainda falta muito?
+Dialogue: 0,0:18:50.23,0:18:51.06,Main,,0000,0000,0000,,Quase lá.
+Dialogue: 0,0:18:55.36,0:18:56.57,Main,,0000,0000,0000,,Pronto, chegamos.
+Dialogue: 0,0:19:00.57,0:19:03.74,Main,,0000,0000,0000,,É o zoológico! O zoológico, mano!
+Dialogue: 0,0:19:03.74,0:19:06.20,Main,,0000,0000,0000,,Não disse que é o melhor lugar?
+Dialogue: 0,0:19:07.41,0:19:08.75,Main,,0000,0000,0000,,Fiquem à vontade.
+Dialogue: 0,0:19:09.58,0:19:11.88,Main,,0000,0000,0000,,Sinto o cheiro do\NNasuno antes do banho!
+Dialogue: 0,0:19:11.88,0:19:13.67,Main,,0000,0000,0000,,Isso cheira a animais.
+Dialogue: 0,0:19:14.30,0:19:17.76,Main,,0000,0000,0000,,Ah, pandas! Tem pandas, mano!
+Dialogue: 0,0:19:17.76,0:19:19.26,Main,,0000,0000,0000,,Tem pandas ali!
+Dialogue: 0,0:19:20.26,0:19:22.68,Main,,0000,0000,0000,,Pandas! Pandas estão caminhando!
+Dialogue: 0,0:19:22.68,0:19:24.14,Main,,0000,0000,0000,,Eles estão caminhando, né?
+Dialogue: 0,0:19:24.14,0:19:25.93,Main,,0000,0000,0000,,O panda ali está comendo!
+Dialogue: 0,0:19:25.93,0:19:26.85,Main,,0000,0000,0000,,Ele come!
+Dialogue: 0,0:19:27.27,0:19:28.64,Main,,0000,0000,0000,,Pandas são grandes!
+Dialogue: 0,0:19:28.64,0:19:30.31,Main,,0000,0000,0000,,Não esperava menos\Nde um "panda gigante".
+Dialogue: 0,0:19:30.31,0:19:32.10,Main,,0000,0000,0000,,Ah, ele olhou para cá!
+Dialogue: 0,0:19:33.98,0:19:36.03,Main,,0000,0000,0000,,O panda voltou a comer.
+Dialogue: 0,0:19:36.03,0:19:40.32,Main,,0000,0000,0000,,Na TV disseram que bambu\Nnão é muito nutritivo,
+Dialogue: 0,0:19:40.32,0:19:44.41,Main,,0000,0000,0000,,então o panda precisa passar a maior\Nparte do dia comendo pra sobreviver.
+Dialogue: 0,0:19:44.87,0:19:46.70,Main,,0000,0000,0000,,A vida de panda não é fácil, né?
+Dialogue: 0,0:19:46.95,0:19:49.16,Main,,0000,0000,0000,,Todo mundo faz o melhor\Nque pode pra viver.
+Dialogue: 0,0:20:04.18,0:20:06.06,Main,,0000,0000,0000,,Mano, é o panda-vermelho!
+Dialogue: 0,0:20:06.47,0:20:07.60,Main,,0000,0000,0000,,É vermelho, né?
+Dialogue: 0,0:20:07.60,0:20:08.89,Main,,0000,0000,0000,,É pequeno!
+Dialogue: 0,0:20:08.89,0:20:09.98,Main,,0000,0000,0000,,Bem, é o vermelho, né?
+Dialogue: 0,0:20:10.23,0:20:11.39,Main,,0000,0000,0000,,Mas é fofinho!
+Dialogue: 0,0:20:13.69,0:20:16.02,Main,,0000,0000,0000,,A Kaede prefere mesmo pandas.
+Dialogue: 0,0:20:16.02,0:20:18.19,Main,,0000,0000,0000,,É triste ter que me despedir dos pandas.
+Dialogue: 0,0:20:18.19,0:20:19.78,Main,,0000,0000,0000,,Basta voltar outro dia.
+Dialogue: 0,0:20:19.78,0:20:20.95,Main,,0000,0000,0000,,Mas a Kaede...
+Dialogue: 0,0:20:26.20,0:20:29.08,Main,,0000,0000,0000,,Pegue, é o seu passaporte anual.
+Dialogue: 0,0:20:30.62,0:20:33.58,Main,,0000,0000,0000,,Com isso pode visitar os pandas\Ntodos os dias se quiser.
+Dialogue: 0,0:20:33.79,0:20:37.55,Main,,0000,0000,0000,,Q-Que incrível! Mano,\Nvocê é mesmo um bom mano!
+Dialogue: 0,0:20:37.55,0:20:39.92,Main,,0000,0000,0000,,Quer dizer que posso voltar aqui, né?
+Dialogue: 0,0:20:39.92,0:20:42.01,Main,,0000,0000,0000,,Isso é lógico!
+Dialogue: 0,0:20:42.01,0:20:45.93,Main,,0000,0000,0000,,E comprei o passaporte anual.\NÉ desperdício se não vier várias vezes.
+Dialogue: 0,0:20:47.89,0:20:51.18,Main,,0000,0000,0000,,A Kaede quer vir várias\Nvezes, para valer o dinheiro.
+Dialogue: 0,0:21:04.82,0:21:07.16,Main,,0000,0000,0000,,A Kaede também\Nconseguiu fazer compras!
+Dialogue: 0,0:21:07.16,0:21:08.33,Main,,0000,0000,0000,,Quer que eu carregue?
+Dialogue: 0,0:21:08.33,0:21:11.04,Main,,0000,0000,0000,,A Kaede que comprou o\Npudim, então eu carrego.
+Dialogue: 0,0:21:14.00,0:21:16.42,Main,,0000,0000,0000,,Mano, nossa casa\Né daquele lado, né?
+Dialogue: 0,0:21:16.42,0:21:18.21,Main,,0000,0000,0000,,Para cá tem um atalho.
+Dialogue: 0,0:21:29.31,0:21:31.52,Main,,0000,0000,0000,,Não sabia que tinha um atalho.
+Dialogue: 0,0:21:31.52,0:21:34.14,Main,,0000,0000,0000,,Bem, a Kaede ainda é uma\Namadora nas ruas daqui.
+Dialogue: 0,0:21:34.56,0:21:36.85,Main,,0000,0000,0000,,E você é um veterano?
+Dialogue: 0,0:21:36.85,0:21:38.65,Main,,0000,0000,0000,,Já pode me chamar de profissional.
+Dialogue: 0,0:21:38.65,0:21:39.61,Main,,0000,0000,0000,,Que incrível!
+Dialogue: 0,0:21:44.11,0:21:45.28,Main,,0000,0000,0000,,Mano, aqui é...
+Dialogue: 0,0:21:45.82,0:21:47.24,Main,,0000,0000,0000,,É a escola!
+Dialogue: 0,0:21:47.24,0:21:49.03,Main,,0000,0000,0000,,Já anoiteceu, precisa fazer silêncio.
+Dialogue: 0,0:21:50.24,0:21:51.24,Main,,0000,0000,0000,,Opa.
+Dialogue: 0,0:21:51.24,0:21:53.20,Main,,0000,0000,0000,,Isso não pode, mano!
+Dialogue: 0,0:21:53.20,0:21:54.12,Main,,0000,0000,0000,,Venha.
+Dialogue: 0,0:21:54.12,0:21:54.79,Main,,0000,0000,0000,,Mas...
+Dialogue: 0,0:21:55.08,0:21:56.92,Main,,0000,0000,0000,,Só vamos dar uma espiada.
+Dialogue: 0,0:21:58.13,0:21:59.92,Main,,0000,0000,0000,,S-Só um pouco, tá?
+Dialogue: 0,0:22:04.59,0:22:06.47,Main,,0000,0000,0000,,É o seu primeiro dia na escola.
+Dialogue: 0,0:22:10.26,0:22:11.85,Main,,0000,0000,0000,,Aqui é a turma 3-1.
+Dialogue: 0,0:22:12.39,0:22:14.60,Main,,0000,0000,0000,,Esta é a sala de aula da Kaede?
+Dialogue: 0,0:22:24.44,0:22:25.28,Main,,0000,0000,0000,,Mano.
+Dialogue: 0,0:22:26.78,0:22:29.45,Main,,0000,0000,0000,,Na próxima vez quero vir\Nà escola durante o dia.
+Dialogue: 0,0:22:29.45,0:22:32.28,Main,,0000,0000,0000,,Agora que já conquistou a escola\Ndurante a noite, vai ser fácil pra você.
+Dialogue: 0,0:22:33.91,0:22:37.21,Main,,0000,0000,0000,,Com hoje, posso marcar como "feito"\Ntodos os objetivos no meu caderno.
+Dialogue: 0,0:22:37.58,0:22:39.33,Main,,0000,0000,0000,,Ah, já fez tudo isso?
+Dialogue: 0,0:22:39.75,0:22:42.50,Main,,0000,0000,0000,,Panda, pudim e escola,\Nestá tudo completo.
+Dialogue: 0,0:22:42.50,0:22:44.26,Main,,0000,0000,0000,,Então temos que comemorar.
+Dialogue: 0,0:22:44.26,0:22:45.09,Main,,0000,0000,0000,,Sim!
+Dialogue: 0,0:22:45.09,0:22:48.30,Main,,0000,0000,0000,,Ah, mas ainda vou deixar\Na escola como "quase".
+Dialogue: 0,0:22:48.30,0:22:50.01,Main,,0000,0000,0000,,Não pode considerar como feito?
+Dialogue: 0,0:22:50.01,0:22:52.47,Main,,0000,0000,0000,,Isso vai ser quando\Nvir à escola durante o dia.
+Dialogue: 0,0:22:52.47,0:22:53.31,Main,,0000,0000,0000,,Entendi.
+Dialogue: 0,0:22:54.06,0:22:56.56,Main,,0000,0000,0000,,Agora sinto que vou conseguir!
+Dialogue: 0,0:22:56.56,0:23:00.06,Main,,0000,0000,0000,,A Kaede sente que amanhã vai\Nconseguir vir à escola durante o dia!
+Dialogue: 0,0:23:00.06,0:23:01.27,Main,,0000,0000,0000,,Certeza.
+Dialogue: 0,0:23:01.27,0:23:02.44,Main,,0000,0000,0000,,Estou ansiosa por amanhã!
+Dialogue: 0,0:23:03.23,0:23:04.90,Main,,0000,0000,0000,,Mal consigo esperar!
+Dialogue: 0,0:23:06.53,0:23:09.95,DateB,,0000,0000,0000,,{\fad(500,1)}27 de novembro
+Dialogue: 0,0:23:10.57,0:23:12.62,Main,,0000,0000,0000,,Kaede, já amanheceu.
+Dialogue: 0,0:23:12.62,0:23:13.83,Main,,0000,0000,0000,,Ainda está dormindo?
+Dialogue: 0,0:23:21.25,0:23:23.38,Main,,0000,0000,0000,,Bom dia, mano.
+Dialogue: 0,0:23:23.38,0:23:25.50,Main,,0000,0000,0000,,Hã? É você, certo?
+Dialogue: 0,0:23:27.05,0:23:27.88,Main,,0000,0000,0000,,Sou...
+Dialogue: 0,0:23:28.22,0:23:30.18,Main,,0000,0000,0000,,Ah, minhas pernas estão inchadas!
+Dialogue: 0,0:23:30.18,0:23:32.39,Main,,0000,0000,0000,,Porque ficou correndo\Nno zoológico ontem.
+Dialogue: 0,0:23:32.39,0:23:33.64,Main,,0000,0000,0000,,Zoológico?!
+Dialogue: 0,0:23:33.64,0:23:36.18,Main,,0000,0000,0000,,Eu não fui! O que deu em você?
+Dialogue: 0,0:23:37.60,0:23:39.35,Main,,0000,0000,0000,,Kaede, você...
+Dialogue: 0,0:23:39.89,0:23:42.35,Main,,0000,0000,0000,,Ei, o meu quarto sempre foi assim?
+Dialogue: 0,0:23:43.31,0:23:44.15,Main,,0000,0000,0000,,Você...
+Dialogue: 0,0:23:45.69,0:23:47.36,Main,,0000,0000,0000,,Você é a Kaede?
+Dialogue: 0,0:23:47.90,0:23:51.86,Main,,0000,0000,0000,,É lógico! Que conversa é essa, mano?
+Dialogue: 0,0:24:55.80,0:24:58.47,Main,,0000,0000,0000,,Não esperava menos de\Nvocê, mano. Que escória.
+Dialogue: 0,0:24:57.01,0:25:00.02,Preview Title,,0000,0000,0000,,{\a6}Na próxima\N#13 O amanhecer de uma noite interminável

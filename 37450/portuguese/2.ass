@@ -1,0 +1,475 @@
+﻿[Script Info]
+Title: [Erai-raws] Português (Brasil)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,1
+Style: Italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: Flashback,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H0049090B,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: EP Title,Trebuchet MS,18,&H00EBEDE3,&H000000FF,&H00242424,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0015,0049,0050,1
+Style: Black Signs,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Preview Title,Trebuchet MS,20,&H00FBFDFD,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0015,0015,0100,1
+Style: DateB,Arial,24,&H00F3F4F3,&H000000FF,&H003D3F35,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0020,1
+Style: Long Signs,Arial,16,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0035,0020,0018,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:00:02.45,0:00:04.90,Main,,0000,0000,0000,,Isto não é sobre a\NSíndrome da Adolescência,
+Dialogue: 0,0:00:04.90,0:00:08.49,Main,,0000,0000,0000,,é só uma possível interpretação\Npelo mundo da mecânica quântica.
+Dialogue: 0,0:00:08.49,0:00:10.94,Main,,0000,0000,0000,,Aqui dentro colocamos um gato,
+Dialogue: 0,0:00:11.03,0:00:15.90,Main,,0000,0000,0000,,um material radioativo que talvez\Nemita radiação dentro de uma hora
+Dialogue: 0,0:00:15.90,0:00:21.01,Main,,0000,0000,0000,,e um dispositivo que libera gás venenoso\Nao detectar qualquer radiação.
+Dialogue: 0,0:00:21.01,0:00:24.62,Main,,0000,0000,0000,,Agora fecho a tampa e\Nespero por 30 minutos.
+Dialogue: 0,0:00:26.42,0:00:29.84,Main,,0000,0000,0000,,E aqui está a caixa que\Nesperamos por 30 minutos.
+Dialogue: 0,0:00:29.84,0:00:31.25,Main,,0000,0000,0000,,Isto é um programa culinário?
+Dialogue: 0,0:00:31.25,0:00:34.00,Main,,0000,0000,0000,,O que acha que aconteceu\Ncom o gato aqui dentro?
+Dialogue: 0,0:00:34.00,0:00:36.52,Main,,0000,0000,0000,,Está vivo ou está morto?
+Dialogue: 0,0:00:36.52,0:00:40.24,Main,,0000,0000,0000,,Como o gás pode ser emitido dentro\Nde uma hora, passados 30 minutos...
+Dialogue: 0,0:00:40.24,0:00:42.12,Main,,0000,0000,0000,,É 50% de chance de estar vivo, não?
+Dialogue: 0,0:00:42.25,0:00:45.86,Main,,0000,0000,0000,,Para saber qual é a situação,\Nprecisamos abrir e olhar.
+Dialogue: 0,0:00:45.86,0:00:48.18,Main,,0000,0000,0000,,Ou seja, até abrir a caixa e conferir,
+Dialogue: 0,0:00:48.18,0:00:52.13,Main,,0000,0000,0000,,o gato está metade vivo, metade morto.
+Dialogue: 0,0:00:52.13,0:00:55.00,Main,,0000,0000,0000,,E é o mesmo com as pessoas?
+Dialogue: 0,0:00:55.76,0:01:00.46,Main,,0000,0000,0000,,Para o observador, até que ele\Nolhe, a existência não é certa.
+Dialogue: 0,0:02:31.01,0:02:34.40,DateB,,0000,0000,0000,,{\fad(350,1)}20 de maio
+Dialogue: 0,0:02:34.40,0:02:40.38,EP Title,,0000,0000,0000,,{\fad(520,500)}{\blur2}#2 | No primeiro encontro, distúrbios fazem parte
+Dialogue: 0,0:02:37.48,0:02:40.85,Top,,0000,0000,0000,,Quem vê pensa que\Nsomos namorados, não é?
+Dialogue: 0,0:02:41.04,0:02:42.30,Main,,0000,0000,0000,,Disse algo?
+Dialogue: 0,0:02:42.30,0:02:43.57,Main,,0000,0000,0000,,Não, nada.
+Dialogue: 0,0:02:43.57,0:02:47.62,Main,,0000,0000,0000,,Não se preocupe. \NProvavelmente nem estão me enxergando.
+Dialogue: 0,0:02:49.34,0:02:54.85,Main,,0000,0000,0000,,O que acontece com essa cenoura em\Nsua mão, se as pessoas não te enxergam?
+Dialogue: 0,0:02:55.21,0:02:56.69,Main,,0000,0000,0000,,Parece que não enxergam.
+Dialogue: 0,0:02:58.33,0:02:59.14,Main,,0000,0000,0000,,Viu?
+Dialogue: 0,0:02:59.50,0:03:03.13,Main,,0000,0000,0000,,Talvez não enxergam\Nas coisas que eu toco.
+Dialogue: 0,0:03:03.13,0:03:07.00,Main,,0000,0000,0000,,Então, o que vai acontecer\Nseu eu tocar em você?
+Dialogue: 0,0:03:07.42,0:03:10.89,Main,,0000,0000,0000,,Isso é uma indireta para\Npoder segurar a minha mão?
+Dialogue: 0,0:03:10.89,0:03:13.30,Main,,0000,0000,0000,,Não, é só um experimento.
+Dialogue: 0,0:03:13.64,0:03:15.89,Main,,0000,0000,0000,,Se for só essa a razão, não deixo.
+Dialogue: 0,0:03:16.57,0:03:20.18,Main,,0000,0000,0000,,Na verdade, eu só queria\Npegar na sua mão, Mai-san.
+Dialogue: 0,0:03:20.41,0:03:21.22,Main,,0000,0000,0000,,E depois?
+Dialogue: 0,0:03:22.72,0:03:27.00,Main,,0000,0000,0000,,Por favor, seja a minha primeira, já que\Nnunca peguei na mão de uma garota.
+Dialogue: 0,0:03:28.60,0:03:30.49,Main,,0000,0000,0000,,Isso foi terrível de várias maneiras.
+Dialogue: 0,0:03:30.89,0:03:32.98,Main,,0000,0000,0000,,Bem, considero aprovado.
+Dialogue: 0,0:03:36.20,0:03:39.00,Main,,0000,0000,0000,,Está pensando em coisas\Nindecentes agora, não é?
+Dialogue: 0,0:03:39.08,0:03:42.18,Main,,0000,0000,0000,,Estou pensando em coisas 100 vezes\Nmais indecentes do que imagina.
+Dialogue: 0,0:03:43.84,0:03:47.40,Main,,0000,0000,0000,,Mas a Mai-san é adulta e não\Nse importa com isso, né?
+Dialogue: 0,0:03:47.40,0:03:48.52,Main,,0000,0000,0000,,Pois é.
+Dialogue: 0,0:03:48.52,0:03:53.13,Main,,0000,0000,0000,,Não é nada se um garoto mais novo\Npensa em mim de forma indecente.
+Dialogue: 0,0:03:56.42,0:03:58.86,Main,,0000,0000,0000,,Parece que ainda me enxergam.
+Dialogue: 0,0:03:59.73,0:04:02.54,Main,,0000,0000,0000,,Mal posso esperar para\Nver como é a sua casa.
+Dialogue: 0,0:04:02.54,0:04:04.09,Main,,0000,0000,0000,,Não vou te deixar entrar.
+Dialogue: 0,0:04:04.09,0:04:05.24,Main,,0000,0000,0000,,E moro sozinha.
+Dialogue: 0,0:04:05.24,0:04:06.24,Main,,0000,0000,0000,,Hein?
+Dialogue: 0,0:04:06.24,0:04:08.74,Main,,0000,0000,0000,,Além disso, ainda\Nestamos brigados, certo?
+Dialogue: 0,0:04:08.74,0:04:11.54,Main,,0000,0000,0000,,Foi porque você não é sincera\Ncom você mesma.
+Dialogue: 0,0:04:11.54,0:04:14.45,Main,,0000,0000,0000,,Se quer continuar atuando,\Nque vá em frente.
+Dialogue: 0,0:04:14.45,0:04:18.26,Main,,0000,0000,0000,,Não se intrometa onde não é chamado.\NNem faz ideia do que eu passei.
+Dialogue: 0,0:04:18.26,0:04:23.08,Main,,0000,0000,0000,,Eu sei, a causa foi um ensaio de fotos\Nque tirou na época do 9º ano, certo?
+Dialogue: 0,0:04:23.89,0:04:26.94,Main,,0000,0000,0000,,A condição era de não serem\Nfotos com roupa de banho,
+Dialogue: 0,0:04:26.94,0:04:30.42,Main,,0000,0000,0000,,mas a sua mãe, que era sua empresária,\Nfez um contrato por conta.
+Dialogue: 0,0:04:30.89,0:04:35.22,Main,,0000,0000,0000,,Com isso tiveram uma briga enorme\Ne acabou dando uma pausa na sua carreira,
+Dialogue: 0,0:04:35.22,0:04:37.06,Main,,0000,0000,0000,,como vingança contra sua mãe.
+Dialogue: 0,0:04:37.74,0:04:39.51,Main,,0000,0000,0000,,Mas isso é ridículo.
+Dialogue: 0,0:04:39.51,0:04:40.36,Main,,0000,0000,0000,,Não enche.
+Dialogue: 0,0:04:40.56,0:04:44.26,Main,,0000,0000,0000,,Não faz sentido se junto com isso\Nabriu mão do que queria fazer.
+Dialogue: 0,0:04:45.96,0:04:47.18,Main,,0000,0000,0000,,Fique quieto!
+Dialogue: 0,0:04:47.18,0:04:49.78,Main,,0000,0000,0000,,Eu pensei muito pra decidir!
+Dialogue: 0,0:04:49.78,0:04:52.08,Main,,0000,0000,0000,,Eu ainda era uma criança!
+Dialogue: 0,0:04:52.33,0:04:55.90,Main,,0000,0000,0000,,Mesmo assim, entrei no estúdio\Ne já tinha o biquíni me esperando.
+Dialogue: 0,0:04:56.30,0:04:59.77,Main,,0000,0000,0000,,Disseram que já tinham feito o\Ncontrato, que eu tinha que fazer.
+Dialogue: 0,0:05:00.67,0:05:02.78,Main,,0000,0000,0000,,Tudo que pude fazer\Nfoi forçar um sorriso.
+Dialogue: 0,0:05:04.19,0:05:09.55,Main,,0000,0000,0000,,No final, aquela mulher só pensava\Nem me usar para ganhar dinheiro.
+Dialogue: 0,0:05:11.14,0:05:14.98,Main,,0000,0000,0000,,Nesse caso, é outra razão para\Nvoltar ao mundo artístico.
+Dialogue: 0,0:05:17.98,0:05:19.13,Main,,0000,0000,0000,,Por quê?
+Dialogue: 0,0:05:19.37,0:05:22.01,Main,,0000,0000,0000,,Por que você ainda está\Nincomodada com a situação.
+Dialogue: 0,0:05:23.17,0:05:25.73,Main,,0000,0000,0000,,Se quer fazer isso,\Nnão precisa ficar se segurando.
+Dialogue: 0,0:05:25.73,0:05:27.25,Main,,0000,0000,0000,,Basta fazer.
+Dialogue: 0,0:05:27.25,0:05:29.48,Main,,0000,0000,0000,,Você mesma deve ter percebido isso.
+Dialogue: 0,0:05:32.03,0:05:34.98,Main,,0000,0000,0000,,Quem contou para você\Npor que eu deixei a carreira?
+Dialogue: 0,0:05:34.98,0:05:35.78,Main,,0000,0000,0000,,Hein?
+Dialogue: 0,0:05:37.22,0:05:38.49,Main,,0000,0000,0000,,Não desvie o olhar!
+Dialogue: 0,0:05:38.49,0:05:39.32,Main,,0000,0000,0000,,Ai!
+Dialogue: 0,0:05:39.32,0:05:41.18,Main,,0000,0000,0000,,Durante o incidente com a Kaede,
+Dialogue: 0,0:05:41.18,0:05:44.53,Main,,0000,0000,0000,,uma apresentadora veio fazer\Numa entrevista sobre bullying.
+Dialogue: 0,0:05:44.53,0:05:46.11,Main,,0000,0000,0000,,O nome dela é Nanjo Fumika.
+Dialogue: 0,0:05:46.11,0:05:47.71,Main,,0000,0000,0000,,Ah, ela.
+Dialogue: 0,0:05:47.98,0:05:50.22,Main,,0000,0000,0000,,Ela também já veio atrás de mim.
+Dialogue: 0,0:05:50.22,0:05:54.34,Main,,0000,0000,0000,,Ela se interessa pela Síndrome\Nda Adolescência e está investigando.
+Dialogue: 0,0:05:54.64,0:05:59.44,Main,,0000,0000,0000,,Sakuta-kun, quer dizer que fez uma troca\Npara conseguir informações sobre mim?
+Dialogue: 0,0:05:59.44,0:06:02.84,Main,,0000,0000,0000,,Uma foto... da minha cicatriz no peito.
+Dialogue: 0,0:06:04.43,0:06:05.33,Main,,0000,0000,0000,,Idiota!
+Dialogue: 0,0:06:05.33,0:06:07.33,Main,,0000,0000,0000,,Vão com câmeras na sua casa agora!
+Dialogue: 0,0:06:07.67,0:06:09.42,Main,,0000,0000,0000,,Vão te esperar, te cercar
+Dialogue: 0,0:06:09.42,0:06:12.27,Main,,0000,0000,0000,,e até a sua irmã pode\Npassar por situações difíceis!
+Dialogue: 0,0:06:13.68,0:06:15.89,Main,,0000,0000,0000,,Me dê o contato daquela mulher.
+Dialogue: 0,0:06:15.89,0:06:17.89,Main,,0000,0000,0000,,Mai-san, está sendo mandona demais.
+Dialogue: 0,0:06:17.89,0:06:19.93,Main,,0000,0000,0000,,E você está subestimando demais a TV.
+Dialogue: 0,0:06:22.68,0:06:24.28,Main,,0000,0000,0000,,Desculpe ligar de repente.
+Dialogue: 0,0:06:24.28,0:06:28.08,Main,,0000,0000,0000,,Já nos encontramos antes.\NMe chamo Sakurajima Mai.
+Dialogue: 0,0:06:28.44,0:06:31.96,Main,,0000,0000,0000,,Quanto tempo. Pode falar agora?
+Dialogue: 0,0:06:32.35,0:06:34.23,Main,,0000,0000,0000,,É sobre o caso do Sakuta-kun?
+Dialogue: 0,0:06:34.77,0:06:36.71,Main,,0000,0000,0000,,Qual é a relação entre vocês?
+Dialogue: 0,0:06:36.71,0:06:38.92,Italics,,0000,0000,0000,,Estudamos na mesma escola.
+Dialogue: 0,0:06:39.33,0:06:43.45,Italics,,0000,0000,0000,,Quero que não mostre\Na cicatriz dele na TV.
+Dialogue: 0,0:06:44.71,0:06:47.36,Main,,0000,0000,0000,,Em troca, te dou uma\Ngrande notícia exclusiva.
+Dialogue: 0,0:06:47.36,0:06:48.77,Main,,0000,0000,0000,,E-Ei, Mai-san!
+Dialogue: 0,0:06:50.65,0:06:53.80,Main,,0000,0000,0000,,Vou retomar minha carreira em breve.
+Dialogue: 0,0:06:54.74,0:06:56.65,Main,,0000,0000,0000,,Não vou voltar para a\Nagência da minha mãe.
+Dialogue: 0,0:06:57.13,0:06:59.72,Main,,0000,0000,0000,,Voltarei com um outro escritório.
+Dialogue: 0,0:06:59.72,0:07:04.10,Main,,0000,0000,0000,,Nessa hora, prometo uma entrevista exclusiva\Ncom você e sua empresa, Nanjo-san.
+Dialogue: 0,0:07:05.24,0:07:06.74,Main,,0000,0000,0000,,Me desculpe.
+Dialogue: 0,0:07:06.74,0:07:08.34,Main,,0000,0000,0000,,Por que está pedindo desculpas?
+Dialogue: 0,0:07:08.34,0:07:10.39,Main,,0000,0000,0000,,Mas disse que vai retomar a carreira.
+Dialogue: 0,0:07:10.89,0:07:13.50,Main,,0000,0000,0000,,Acabei pensando exatamente\No que você disse.
+Dialogue: 0,0:07:13.79,0:07:18.65,Main,,0000,0000,0000,,Gostava de trabalhar em novelas e filmes.\NE pensei que continuaria nisso pra sempre.
+Dialogue: 0,0:07:19.41,0:07:21.98,Main,,0000,0000,0000,,Mentindo para mim mesma\Nsobre o que eu queria,
+Dialogue: 0,0:07:21.98,0:07:25.52,Main,,0000,0000,0000,,acho que aconteceu essa coisa estranha,\Nessa Síndrome da Adolescência.
+Dialogue: 0,0:07:25.74,0:07:28.83,Main,,0000,0000,0000,,E eu vim esta noite para te dizer isso.
+Dialogue: 0,0:07:29.83,0:07:32.96,Main,,0000,0000,0000,,E claro, também estava com fome.
+Dialogue: 0,0:07:36.20,0:07:37.41,Main,,0000,0000,0000,,É aqui.
+Dialogue: 0,0:07:37.41,0:07:38.46,Main,,0000,0000,0000,,A minha casa.
+Dialogue: 0,0:07:38.46,0:07:39.43,Main,,0000,0000,0000,,Quê?!
+Dialogue: 0,0:07:39.80,0:07:42.45,Main,,0000,0000,0000,,Mas é bem ao lado da minha!
+Dialogue: 0,0:07:42.67,0:07:44.52,Main,,0000,0000,0000,,Desculpe pelo tapa há pouco.
+Dialogue: 0,0:07:44.52,0:07:46.26,Main,,0000,0000,0000,,E obrigada por carregar isso.
+Dialogue: 0,0:07:48.48,0:07:51.61,Main,,0000,0000,0000,,Ah, sim. Me acompanhe no domingo.
+Dialogue: 0,0:07:52.46,0:07:56.15,Main,,0000,0000,0000,,Quando voltar ao mundo artístico,\Nnão terei tempo para passear.
+Dialogue: 0,0:07:56.35,0:07:58.35,Main,,0000,0000,0000,,Já moro aqui há dois anos,
+Dialogue: 0,0:07:58.35,0:08:00.46,Main,,0000,0000,0000,,mas nem fui até Kamakura ainda.
+Dialogue: 0,0:08:00.46,0:08:01.63,Main,,0000,0000,0000,,Isso é um...
+Dialogue: 0,0:08:01.63,0:08:02.86,Main,,0000,0000,0000,,Não é um encontro.
+Dialogue: 0,0:08:04.18,0:08:07.80,Main,,0000,0000,0000,,Então, nos vemos às 14h30, em frente\Nà bilheteria da estação Enoden Fujisawa.
+Dialogue: 0,0:08:08.13,0:08:10.62,Main,,0000,0000,0000,,Atrase-se um segundo e eu vou embora.
+Dialogue: 0,0:08:12.76,0:08:16.25,Italics,,0000,0000,0000,,No final, não importa o\Nque eu tentasse fazer.
+Dialogue: 0,0:08:16.25,0:08:19.27,Italics,,0000,0000,0000,,Ela mesma decidia tudo sozinha.
+Dialogue: 0,0:08:19.79,0:08:23.77,Main,,0000,0000,0000,,O mundo gira por conta própria, né...
+Dialogue: 0,0:08:27.69,0:08:29.96,Main,,0000,0000,0000,,Mano, o que aconteceu?!
+Dialogue: 0,0:08:30.37,0:08:32.40,Main,,0000,0000,0000,,Ei, não fique me espiando.
+Dialogue: 0,0:08:32.40,0:08:35.54,Main,,0000,0000,0000,,Quero que divida comigo\Nesse seu "yahoo"!
+Dialogue: 0,0:08:37.30,0:08:40.22,DateB,,0000,0000,0000,,{\fad(350,1)}25 de maio
+Dialogue: 0,0:08:44.91,0:08:48.63,Main,,0000,0000,0000,,Homens devem estar preparados\Npara qualquer situação.
+Dialogue: 0,0:08:57.57,0:08:58.66,Main,,0000,0000,0000,,Que foi?
+Dialogue: 0,0:09:02.42,0:09:04.34,Top,,0000,0000,0000,,Não é a mamãe!
+Dialogue: 0,0:09:03.32,0:09:04.64,Main,,0000,0000,0000,,Ela se perdeu?
+Dialogue: 0,0:09:05.61,0:09:08.13,Main,,0000,0000,0000,,O moço vai procurar sua mamãe.
+Dialogue: 0,0:09:08.13,0:09:09.26,Main,,0000,0000,0000,,Não precisa chorar.
+Dialogue: 0,0:09:09.26,0:09:10.49,Main,,0000,0000,0000,,Verdade?
+Dialogue: 0,0:09:10.49,0:09:10.88,Main,,0000,0000,0000,,Sim.
+Dialogue: 0,0:09:10.88,0:09:13.66,Main,,0000,0000,0000,,Morra, pedófilo maldito!!!
+Dialogue: 0,0:09:15.05,0:09:16.32,Main,,0000,0000,0000,,Aproveite para fugir!
+Dialogue: 0,0:09:16.32,0:09:17.63,Main,,0000,0000,0000,,Espera aí!
+Dialogue: 0,0:09:17.63,0:09:19.36,Main,,0000,0000,0000,,Quem está chamando de pedófilo?!
+Dialogue: 0,0:09:19.36,0:09:20.60,Main,,0000,0000,0000,,Vamos, rápido!
+Dialogue: 0,0:09:20.60,0:09:22.33,Main,,0000,0000,0000,,Estou dizendo que não é nada disso!
+Dialogue: 0,0:09:22.33,0:09:23.63,Main,,0000,0000,0000,,Ela está perdida!
+Dialogue: 0,0:09:23.63,0:09:26.43,Main,,0000,0000,0000,,Só ia ajudar a procurar pela mãe dela!
+Dialogue: 0,0:09:30.44,0:09:31.62,Main,,0000,0000,0000,,Ai, que dor.
+Dialogue: 0,0:09:31.62,0:09:33.22,Main,,0000,0000,0000,,Desculpa aí.
+Dialogue: 0,0:09:33.91,0:09:35.76,Main,,0000,0000,0000,,Acho que acabou\Nrasgando em duas partes.
+Dialogue: 0,0:09:35.76,0:09:37.07,Main,,0000,0000,0000,,Hein? Essa não!
+Dialogue: 0,0:09:37.07,0:09:39.15,Main,,0000,0000,0000,,Mas já eram duas partes desde o começo!
+Dialogue: 0,0:09:39.15,0:09:42.41,Main,,0000,0000,0000,,Droga, entendi, já entendi!
+Dialogue: 0,0:09:43.61,0:09:44.41,Main,,0000,0000,0000,,Pode vir!
+Dialogue: 0,0:09:44.92,0:09:47.86,Main,,0000,0000,0000,,Vamos, chute!\NAssim ficamos quites!
+Dialogue: 0,0:09:47.86,0:09:49.36,Main,,0000,0000,0000,,Mas... ficar quites?
+Dialogue: 0,0:09:49.81,0:09:52.85,Main,,0000,0000,0000,,Anda logo! Marquei um\Nencontro com uma amiga!
+Dialogue: 0,0:09:52.85,0:09:54.59,Main,,0000,0000,0000,,Eu também tenho horário marcado...
+Dialogue: 0,0:09:54.59,0:09:55.51,Main,,0000,0000,0000,,Então, anda logo!
+Dialogue: 0,0:09:56.44,0:09:57.78,Main,,0000,0000,0000,,Já entendi!
+Dialogue: 0,0:09:58.84,0:10:01.26,Main,,0000,0000,0000,,Isso dói!!
+Dialogue: 0,0:10:01.26,0:10:03.16,Main,,0000,0000,0000,,Ei, você!
+Dialogue: 0,0:10:03.16,0:10:04.59,Main,,0000,0000,0000,,O que está fazendo?!
+Dialogue: 0,0:10:05.00,0:10:07.05,Main,,0000,0000,0000,,Droga, isso foi o fim.
+Dialogue: 0,0:10:07.05,0:10:08.96,Main,,0000,0000,0000,,Eu que digo isso.
+Dialogue: 0,0:10:09.15,0:10:12.66,Main,,0000,0000,0000,,Você ficou só olhando o celular,\Npor isso o sermão foi mais longo.
+Dialogue: 0,0:10:12.66,0:10:14.91,Main,,0000,0000,0000,,O que posso fazer?\NChegaram mensagens.
+Dialogue: 0,0:10:14.91,0:10:17.85,Main,,0000,0000,0000,,Se não respondesse logo,\Nia perder uma amiga.
+Dialogue: 0,0:10:19.58,0:10:22.09,Main,,0000,0000,0000,,Ah, é mesmo! Eu marquei\Npra nos encontrarmos!
+Dialogue: 0,0:10:22.09,0:10:23.65,Main,,0000,0000,0000,,Essa não, estou atrasado!
+Dialogue: 0,0:10:23.65,0:10:24.38,Main,,0000,0000,0000,,Até mais!
+Dialogue: 0,0:10:34.86,0:10:36.94,Main,,0000,0000,0000,,Bem, isso era o esperado.
+Dialogue: 0,0:10:39.22,0:10:43.45,Main,,0000,0000,0000,,Tem coragem de me fazer esperar\Npor 1 hora e 38 minutos?
+Dialogue: 0,0:10:45.26,0:10:46.27,Main,,0000,0000,0000,,Que foi?
+Dialogue: 0,0:10:46.27,0:10:51.21,Main,,0000,0000,0000,,A Mai-san não é uma garota adorável que iria\Nesperar admiravelmente um homem atrasado.
+Dialogue: 0,0:10:51.21,0:10:53.21,Main,,0000,0000,0000,,Já sei, você é uma impostora!
+Dialogue: 0,0:10:53.47,0:10:57.39,Main,,0000,0000,0000,,Já entendi muito bem\Ncomo você me vê, Sakuta.
+Dialogue: 0,0:10:57.57,0:10:59.22,Main,,0000,0000,0000,,Faltou o "kun".
+Dialogue: 0,0:10:59.22,0:11:01.67,Main,,0000,0000,0000,,Para um Sakuta,\N"Sakuta" mais que basta.
+Dialogue: 0,0:11:03.20,0:11:05.13,Main,,0000,0000,0000,,Já entendi a razão para o atraso,
+Dialogue: 0,0:11:05.13,0:11:06.36,Main,,0000,0000,0000,,mas era só isso?
+Dialogue: 0,0:11:06.36,0:11:07.78,Main,,0000,0000,0000,,É só isso.
+Dialogue: 0,0:11:07.78,0:11:11.73,Main,,0000,0000,0000,,Se estiver mentindo,\Nvai ter que comer pocky pelo nariz.
+Dialogue: 0,0:11:12.54,0:11:13.34,Main,,0000,0000,0000,,Só um?
+Dialogue: 0,0:11:13.34,0:11:14.31,Main,,0000,0000,0000,,A caixa inteira.
+Dialogue: 0,0:11:20.57,0:11:23.97,Main,,0000,0000,0000,,E por que você se importa comigo?
+Dialogue: 0,0:11:23.97,0:11:24.88,Main,,0000,0000,0000,,Hein?
+Dialogue: 0,0:11:25.16,0:11:28.38,Main,,0000,0000,0000,,O normal é não querer se envolver\Ncom uma mulher complicada como eu.
+Dialogue: 0,0:11:28.38,0:11:32.45,Main,,0000,0000,0000,,Você não faz amigos porque\Nfica distorcendo tudo, Mai-san.
+Dialogue: 0,0:11:32.80,0:11:34.67,Main,,0000,0000,0000,,Responda com sinceridade.
+Dialogue: 0,0:11:34.67,0:11:37.31,Main,,0000,0000,0000,,Por que fica querendo me ajudar tanto?
+Dialogue: 0,0:11:37.31,0:11:41.34,Main,,0000,0000,0000,,Estou fazendo de tudo para aproveitar a\Nchance de me aproximar da bela senpai.
+Dialogue: 0,0:11:41.65,0:11:44.43,Main,,0000,0000,0000,,Quem disse para ficar\Ncontando seus pensamentos?
+Dialogue: 0,0:11:44.43,0:11:47.12,Main,,0000,0000,0000,,Foi você que me disse para ser sincero.
+Dialogue: 0,0:11:50.98,0:11:55.25,Main,,0000,0000,0000,,Me incomoda muito te ver com problemas\Ne ninguém ajudar.
+Dialogue: 0,0:11:55.74,0:11:59.05,Main,,0000,0000,0000,,Quando a minha irmã, a Kaede, começou\Na ter a Síndrome da Adolescência,
+Dialogue: 0,0:11:59.05,0:12:01.15,Main,,0000,0000,0000,,ninguém acreditou nela.
+Dialogue: 0,0:12:01.15,0:12:02.27,Main,,0000,0000,0000,,E seus pais?
+Dialogue: 0,0:12:02.49,0:12:04.79,Main,,0000,0000,0000,,Agora moram separados.
+Dialogue: 0,0:12:04.79,0:12:08.75,Main,,0000,0000,0000,,Minha mãe não conseguia lidar\Ncom tudo que aconteceu com a Kaede.
+Dialogue: 0,0:12:09.02,0:12:11.69,Main,,0000,0000,0000,,Mas teve uma pessoa.
+Dialogue: 0,0:12:11.69,0:12:14.00,Main,,0000,0000,0000,,Alguém que ouviu e acreditou.
+Dialogue: 0,0:12:14.31,0:12:18.26,Main,,0000,0000,0000,,Se não tivesse encontrado essa pessoa,\Nacho que não teria superado a situação.
+Dialogue: 0,0:12:18.70,0:12:23.11,Main,,0000,0000,0000,,É por isso que eu queria ser para você\Nalguém como essa pessoa foi para mim.
+Dialogue: 0,0:12:23.45,0:12:24.97,Main,,0000,0000,0000,,É uma mulher, certo?
+Dialogue: 0,0:12:24.97,0:12:25.71,Main,,0000,0000,0000,,Hein?
+Dialogue: 0,0:12:26.47,0:12:27.26,Main,,0000,0000,0000,,Vou descer.
+Dialogue: 0,0:12:27.26,0:12:28.81,Main,,0000,0000,0000,,Hã? E a Kamakura?
+Dialogue: 0,0:12:28.81,0:12:31.75,Main,,0000,0000,0000,,Graças ao seu atraso,\Njá estamos no fim da tarde.
+Dialogue: 0,0:12:32.76,0:12:33.90,Main,,0000,0000,0000,,Espera!
+Dialogue: 0,0:12:43.14,0:12:44.77,Flashback,,0000,0000,0000,,Por acaso sabia que,
+Dialogue: 0,0:12:45.63,0:12:49.24,Flashback,,0000,0000,0000,,na altura dos olhos, a distância\Naté onde se enxerga o horizonte
+Dialogue: 0,0:12:49.24,0:12:51.64,Flashback,,0000,0000,0000,,é de cerca de 4 quilômetros?
+Dialogue: 0,0:12:53.51,0:12:56.10,Flashback,,0000,0000,0000,,Me chamo Makinohara Shouko.
+Dialogue: 0,0:12:56.69,0:12:59.55,Flashback,,0000,0000,0000,,Escreve igual a parada\Nde carros Makinohara,
+Dialogue: 0,0:12:59.55,0:13:01.94,Flashback,,0000,0000,0000,,e Shouko é "a garota que cruza o céu".
+Dialogue: 0,0:13:01.94,0:13:03.87,Flashback,,0000,0000,0000,,E qual o seu nome, garoto?
+Dialogue: 0,0:13:04.70,0:13:07.85,Main,,0000,0000,0000,,Eu a conheci no 9º ano.\NEla estava no 2º ano do ensino médio.
+Dialogue: 0,0:13:08.54,0:13:11.15,Main,,0000,0000,0000,,Usava o uniforme da escola Minegahara.
+Dialogue: 0,0:13:11.15,0:13:15.52,Main,,0000,0000,0000,,Foi para ir atrás dela que fez\No vestibulinho para a Minegahara?
+Dialogue: 0,0:13:16.02,0:13:17.86,Main,,0000,0000,0000,,Bem, foi exatamente isso.
+Dialogue: 0,0:13:17.86,0:13:19.54,Main,,0000,0000,0000,,Mas ela te deu um fora.
+Dialogue: 0,0:13:19.75,0:13:22.12,Main,,0000,0000,0000,,Não, não me declarei pra ela.
+Dialogue: 0,0:13:22.38,0:13:23.51,Main,,0000,0000,0000,,Não a encontrei.
+Dialogue: 0,0:13:24.62,0:13:28.45,Main,,0000,0000,0000,,Essa aluna não existiu\Nna escola Minegahara.
+Dialogue: 0,0:13:28.89,0:13:31.54,Main,,0000,0000,0000,,Também conferi as listas de\Nalunos que já se formaram
+Dialogue: 0,0:13:31.54,0:13:32.77,Main,,0000,0000,0000,,e não estava lá.
+Dialogue: 0,0:13:33.10,0:13:37.11,Main,,0000,0000,0000,,Mas tenho certeza que me encontrei com\Na pessoa chamada Makinohara Shouko.
+Dialogue: 0,0:13:37.11,0:13:39.67,Main,,0000,0000,0000,,E a existência dessa pessoa me salvou.
+Dialogue: 0,0:13:40.06,0:13:42.21,Main,,0000,0000,0000,,Ainda ama essa pessoa?
+Dialogue: 0,0:13:42.54,0:13:43.96,Main,,0000,0000,0000,,Eu a amei muito.
+Dialogue: 0,0:13:43.96,0:13:47.87,Main,,0000,0000,0000,,Você é péssimo por dizer que gosta de\Noutra mulher no meio de um encontro.
+Dialogue: 0,0:13:47.87,0:13:49.51,Main,,0000,0000,0000,,Mas foi você que perguntou.
+Dialogue: 0,0:13:49.78,0:13:52.86,Main,,0000,0000,0000,,E eu disse "amei".\NEssa parte é importante.
+Dialogue: 0,0:13:53.48,0:13:54.65,Main,,0000,0000,0000,,Parece que ela chegou.
+Dialogue: 0,0:13:56.10,0:13:57.74,Main,,0000,0000,0000,,E quem é?
+Dialogue: 0,0:13:57.74,0:13:59.86,Black Signs,,0000,0000,0000,,Enviados\N\NPara: Empresária\N\NSem assunto (20/05/2014)\N\NVenha até a praia de Shichirigahama\Nno dia 25 de maio, às 17h
+Dialogue: 0,0:13:58.70,0:13:59.85,Main,,0000,0000,0000,,Empresária?
+Dialogue: 0,0:13:59.85,0:14:02.01,Main,,0000,0000,0000,,É a sua mãe?!
+Dialogue: 0,0:14:02.01,0:14:04.04,Main,,0000,0000,0000,,É para poder retomar a carreira.
+Dialogue: 0,0:14:04.40,0:14:08.28,Main,,0000,0000,0000,,Preciso falar sobre o\Ncontrato com outra agência.
+Dialogue: 0,0:14:08.56,0:14:10.34,Main,,0000,0000,0000,,Vai ficar tudo bem?
+Dialogue: 0,0:14:10.34,0:14:13.21,Main,,0000,0000,0000,,Acabando isso, continuamos\Nnosso encontro.
+Dialogue: 0,0:14:13.21,0:14:14.47,Main,,0000,0000,0000,,Espere aqui.
+Dialogue: 0,0:14:31.11,0:14:32.28,Main,,0000,0000,0000,,Não pode ser...
+Dialogue: 0,0:14:33.22,0:14:36.78,Main,,0000,0000,0000,,Foi você quem me chamou até este lugar?
+Dialogue: 0,0:14:37.00,0:14:39.03,Main,,0000,0000,0000,,Quem é você? O que quer?
+Dialogue: 0,0:14:42.16,0:14:44.27,Main,,0000,0000,0000,,Me chamo Azusagawa Sakuta.
+Dialogue: 0,0:14:44.27,0:14:46.04,Main,,0000,0000,0000,,Estudo na mesma escola que a Mai-san.
+Dialogue: 0,0:14:46.04,0:14:47.52,Main,,0000,0000,0000,,Estuda com quem?
+Dialogue: 0,0:14:47.52,0:14:48.53,Main,,0000,0000,0000,,Com a Mai-san.
+Dialogue: 0,0:14:49.09,0:14:50.30,Main,,0000,0000,0000,,E quem é essa?
+Dialogue: 0,0:14:50.55,0:14:51.88,Main,,0000,0000,0000,,Quem é?
+Dialogue: 0,0:14:51.88,0:14:53.60,Main,,0000,0000,0000,,É a sua filha!
+Dialogue: 0,0:14:53.91,0:14:57.16,Main,,0000,0000,0000,,O que está dizendo?\NEu não tenho uma filha.
+Dialogue: 0,0:14:57.16,0:14:58.32,Main,,0000,0000,0000,,Pare com essa brincadeira.
+Dialogue: 0,0:14:58.32,0:14:59.71,Main,,0000,0000,0000,,É você que está brincando!
+Dialogue: 0,0:15:00.02,0:15:02.69,Main,,0000,0000,0000,,O e-mail... o que marcou este encontro!
+Dialogue: 0,0:15:02.69,0:15:03.53,Main,,0000,0000,0000,,Fala desse?
+Dialogue: 0,0:15:03.53,0:15:06.66,Main,,0000,0000,0000,,Mas o remetente é desconhecido.
+Dialogue: 0,0:15:03.54,0:15:05.41,Black Signs,,0000,0000,0000,,Remetente: <###>\N\NSem assunto (20/05/2014)\N\NVenha até a praia de Shichirigahama\Nno dia 25 de maio, às 17h
+Dialogue: 0,0:15:05.41,0:15:06.68,Black Signs,,0000,0000,0000,,Recebidos\N\NRemetente: <###>\N\NSem assunto
+Dialogue: 0,0:15:07.71,0:15:11.50,Main,,0000,0000,0000,,Lembro de ter cancelado coisas para\Nreservar isto na minha agenda...
+Dialogue: 0,0:15:12.11,0:15:13.69,Main,,0000,0000,0000,,Mas o que foi isto?
+Dialogue: 0,0:15:13.69,0:15:17.17,Main,,0000,0000,0000,,Essa coisa absurda pode acontecer?\NMesmo sendo a mãe?!
+Dialogue: 0,0:15:17.17,0:15:19.21,Main,,0000,0000,0000,,Como pode esquecer da sua filha?!
+Dialogue: 0,0:15:19.21,0:15:19.93,Main,,0000,0000,0000,,Já chega!
+Dialogue: 0,0:15:19.93,0:15:22.34,Main,,0000,0000,0000,,Por quê? A conversa ainda não acabou!
+Dialogue: 0,0:15:22.34,0:15:23.54,Main,,0000,0000,0000,,Por favor, pare!
+Dialogue: 0,0:15:23.87,0:15:25.89,Main,,0000,0000,0000,,Pare com essa brincadeira de mau gosto!
+Dialogue: 0,0:15:25.89,0:15:27.66,Main,,0000,0000,0000,,Não tenho tempo pra perder.
+Dialogue: 0,0:15:33.54,0:15:35.00,Main,,0000,0000,0000,,Com licença.
+Dialogue: 0,0:15:35.45,0:15:37.21,Main,,0000,0000,0000,,Conhece a Sakurajima Mai?
+Dialogue: 0,0:15:37.45,0:15:39.62,Main,,0000,0000,0000,,Sabe, aquela que fez sucesso\Nem uma novela matinal.
+Dialogue: 0,0:15:39.62,0:15:41.87,Main,,0000,0000,0000,,Hm, não conheço.
+Dialogue: 0,0:15:44.15,0:15:46.29,Italics,,0000,0000,0000,,Tornar-se invisível...
+Dialogue: 0,0:15:46.97,0:15:48.99,Italics,,0000,0000,0000,,E se não for só não ser mais vista,
+Dialogue: 0,0:15:48.99,0:15:52.00,Italics,,0000,0000,0000,,mas também apagada da memória?
+Dialogue: 0,0:15:53.16,0:15:56.01,Main,,0000,0000,0000,,Sakurajima Mai? Quem é essa?
+Dialogue: 0,0:15:57.55,0:15:58.53,Italics,,0000,0000,0000,,Alô?
+Dialogue: 0,0:15:58.81,0:16:01.14,Main,,0000,0000,0000,,Não sabe quem é Sakurajima Mai?
+Dialogue: 0,0:16:01.14,0:16:03.06,Italics,,0000,0000,0000,,Não sei. Quem é?
+Dialogue: 0,0:16:03.06,0:16:04.45,Main,,0000,0000,0000,,E o caso da foto?
+Dialogue: 0,0:16:04.45,0:16:06.93,Main,,0000,0000,0000,,Eu prometi que não vou\Nmostrar na TV, certo?
+Dialogue: 0,0:16:06.93,0:16:08.10,Main,,0000,0000,0000,,Eu lembro disso.
+Dialogue: 0,0:16:08.10,0:16:09.84,Italics,,0000,0000,0000,,E com quem trocou essa promessa?
+Dialogue: 0,0:16:09.84,0:16:12.22,Main,,0000,0000,0000,,É claro que foi com você, Sakuta-kun.
+Dialogue: 0,0:16:14.85,0:16:17.10,Main,,0000,0000,0000,,Obrigada por hoje. Tchau.
+Dialogue: 0,0:16:18.34,0:16:19.03,Main,,0000,0000,0000,,Espera!
+Dialogue: 0,0:16:19.93,0:16:21.59,Main,,0000,0000,0000,,Vamos, Mai-san!
+Dialogue: 0,0:16:21.59,0:16:22.82,Main,,0000,0000,0000,,Para onde?
+Dialogue: 0,0:16:23.19,0:16:25.12,Main,,0000,0000,0000,,Se for para uma cidade bem longe,
+Dialogue: 0,0:16:25.12,0:16:27.96,Main,,0000,0000,0000,,pode haver pessoas que a vejam\Ne lembrem quem é você!
+Dialogue: 0,0:16:27.96,0:16:29.21,Main,,0000,0000,0000,,Vamos conferir isso!
+Dialogue: 0,0:16:30.03,0:16:31.89,Main,,0000,0000,0000,,Do que adianta conferir?
+Dialogue: 0,0:16:32.14,0:16:36.52,Main,,0000,0000,0000,,O que acontece se descobrir que\Nsó você me vê e sabe quem sou?
+Dialogue: 0,0:16:36.99,0:16:40.66,Main,,0000,0000,0000,,Pelo menos durante esse tempo\Neu vou estar ao seu lado.
+Dialogue: 0,0:16:43.30,0:16:45.60,Main,,0000,0000,0000,,Você é abusado para\Nalguém mais novo que eu.
+Dialogue: 0,0:16:45.60,0:16:47.60,Main,,0000,0000,0000,,Temos que aproveitar nosso encontro.
+Dialogue: 0,0:16:49.51,0:16:52.91,Main,,0000,0000,0000,,Tudo bem. Se diz que ainda\Nnão quer se separar de mim...
+Dialogue: 0,0:16:53.60,0:16:56.43,Main,,0000,0000,0000,,...aceito continuar o encontro.
+Dialogue: 0,0:16:57.29,0:16:59.81,Italics,,0000,0000,0000,,Após o sinal, deixe sua mensagem.
+Dialogue: 0,0:16:59.81,0:17:03.97,Black Signs,,0000,0000,0000,,Telefone Público
+Dialogue: 0,0:17:01.35,0:17:03.01,Italics,,0000,0000,0000,,Kaede? Sou eu.
+Dialogue: 0,0:17:04.69,0:17:07.03,Main,,0000,0000,0000,,Alô? O que aconteceu?
+Dialogue: 0,0:17:07.03,0:17:08.93,Italics,,0000,0000,0000,,Desculpa, hoje não volto pra casa.
+Dialogue: 0,0:17:09.41,0:17:11.36,Italics,,0000,0000,0000,,Arranjei um compromisso longe.
+Dialogue: 0,0:17:11.36,0:17:13.54,Main,,0000,0000,0000,,E que compromisso é esse?
+Dialogue: 0,0:17:13.54,0:17:17.49,Italics,,0000,0000,0000,,Lembra de uma moça chamada\NSakurajima Mai que foi em nossa casa?
+Dialogue: 0,0:17:17.49,0:17:19.59,Main,,0000,0000,0000,,Não sei quem é...
+Dialogue: 0,0:17:19.59,0:17:21.34,Italics,,0000,0000,0000,,Se não sabe, tudo bem.
+Dialogue: 0,0:17:21.34,0:17:25.50,Italics,,0000,0000,0000,,Na janta, desculpa, mas coma o lámen\Ninstantâneo que está no armário da cozinha.
+Dialogue: 0,0:17:25.96,0:17:27.36,Italics,,0000,0000,0000,,Depois ligo de novo.
+Dialogue: 0,0:17:29.99,0:17:33.88,Main,,0000,0000,0000,,Diz que é a segunda maior do distrito\Nde Gifu, perdendo só pra cidade de Gifu.
+Dialogue: 0,0:17:34.19,0:17:35.41,Main,,0000,0000,0000,,Do que está falando?
+Dialogue: 0,0:17:35.41,0:17:36.54,Main,,0000,0000,0000,,Da cidade de Ogaki.
+Dialogue: 0,0:17:36.54,0:17:38.35,Main,,0000,0000,0000,,É para onde vai este trem.
+Dialogue: 0,0:17:39.12,0:17:41.46,Main,,0000,0000,0000,,E diz que é rico em água subterrânea.
+Dialogue: 0,0:17:41.46,0:17:44.50,Main,,0000,0000,0000,,É ótimo que seja um lugar\Nonde a água é pura.
+Dialogue: 0,0:17:45.45,0:17:46.88,Main,,0000,0000,0000,,Sakuta...
+Dialogue: 0,0:17:46.88,0:17:47.94,Main,,0000,0000,0000,,Que foi?
+Dialogue: 0,0:17:48.69,0:17:50.93,Main,,0000,0000,0000,,Consegue me enxergar?
+Dialogue: 0,0:17:50.93,0:17:52.32,Main,,0000,0000,0000,,Estou te vendo.
+Dialogue: 0,0:17:52.32,0:17:54.36,Main,,0000,0000,0000,,Ouve minha voz?
+Dialogue: 0,0:17:54.36,0:17:55.46,Main,,0000,0000,0000,,Claramente.
+Dialogue: 0,0:17:55.46,0:17:57.62,Main,,0000,0000,0000,,Lembra quem eu sou?
+Dialogue: 0,0:17:57.62,0:17:59.30,Main,,0000,0000,0000,,É a Sakurajima Mai.
+Dialogue: 0,0:17:59.74,0:18:02.94,Main,,0000,0000,0000,,Está no 3º ano na escola Minegahara,\Ndo distrito de Kanagawa.
+Dialogue: 0,0:18:02.94,0:18:05.33,Main,,0000,0000,0000,,Estreou no mundo\Nartístico como atriz mirim,
+Dialogue: 0,0:18:05.33,0:18:07.24,Main,,0000,0000,0000,,e teve muitas conquistas.
+Dialogue: 0,0:18:07.66,0:18:10.26,Main,,0000,0000,0000,,A personalidade é distorcida,\Nnão é sincera com ela mesma.
+Dialogue: 0,0:18:10.26,0:18:11.28,Main,,0000,0000,0000,,Em qual parte?
+Dialogue: 0,0:18:11.28,0:18:14.54,Main,,0000,0000,0000,,Apesar de estar insegura, esconde isso.
+Dialogue: 0,0:18:16.04,0:18:18.48,Main,,0000,0000,0000,,Eu não disse que pode pegar minha mão.
+Dialogue: 0,0:18:18.48,0:18:20.39,Main,,0000,0000,0000,,Eu quero segurá-la.
+Dialogue: 0,0:18:23.26,0:18:26.89,Main,,0000,0000,0000,,Não tem jeito.\NEntenda como uma ocasião especial.
+Dialogue: 0,0:18:30.21,0:18:32.51,Main,,0000,0000,0000,,Por acaso sabe quem é Sakurajima Mai?
+Dialogue: 0,0:18:32.69,0:18:35.23,Main,,0000,0000,0000,,Ela já fez um comercial de trem-bala.
+Dialogue: 0,0:18:35.23,0:18:38.54,Main,,0000,0000,0000,,Sakurajima? Não lembro de\Numa artista com esse nome.
+Dialogue: 0,0:18:40.24,0:18:41.13,Main,,0000,0000,0000,,Obrigado.
+Dialogue: 0,0:18:43.53,0:18:44.53,Main,,0000,0000,0000,,Que apertado.
+Dialogue: 0,0:18:44.95,0:18:46.59,Main,,0000,0000,0000,,É o esperado.
+Dialogue: 0,0:18:46.59,0:18:48.05,Main,,0000,0000,0000,,Vou tomar banho.
+Dialogue: 0,0:18:50.28,0:18:51.59,Main,,0000,0000,0000,,Não vá espiar.
+Dialogue: 0,0:18:51.81,0:18:56.38,Main,,0000,0000,0000,,Não se preocupe. Consigo imaginar\Nmuita coisa só com o som do chuveiro.
+Dialogue: 0,0:18:59.62,0:19:01.59,Main,,0000,0000,0000,,Acho que para uma\Nmulher adulta e segura
+Dialogue: 0,0:19:01.59,0:19:03.87,Main,,0000,0000,0000,,fazer um garoto mais\Nnovo cair em agonia
+Dialogue: 0,0:19:03.87,0:19:07.35,Main,,0000,0000,0000,,apenas com o som do\Nchuveiro seria algo comum.
+Dialogue: 0,0:19:07.35,0:19:09.96,Main,,0000,0000,0000,,É claro que já sabia disso!
+Dialogue: 0,0:19:09.96,0:19:13.08,Main,,0000,0000,0000,,Em troca, não comece a\Nfazer nada de estranho aí!
+Dialogue: 0,0:19:13.46,0:19:14.55,Main,,0000,0000,0000,,Nada de estranho?
+Dialogue: 0,0:19:15.43,0:19:17.68,Main,,0000,0000,0000,,Idiota! Não quero saber!
+Dialogue: 0,0:19:19.18,0:19:22.22,Main,,0000,0000,0000,,Ela foi tão adorável agora...
+Dialogue: 0,0:19:26.21,0:19:27.16,Italics,,0000,0000,0000,,Alô?
+Dialogue: 0,0:19:27.16,0:19:29.39,Main,,0000,0000,0000,,Ah, Kunimi. Sou eu.
+Dialogue: 0,0:19:29.39,0:19:31.65,Italics,,0000,0000,0000,,Que horas pensa que é agora?
+Dialogue: 0,0:19:31.95,0:19:33.69,Main,,0000,0000,0000,,São 1h16 da manhã.
+Dialogue: 0,0:19:33.69,0:19:35.68,Italics,,0000,0000,0000,,Eu sei disso.
+Dialogue: 0,0:19:36.03,0:19:38.71,Main,,0000,0000,0000,,É uma situação de emergência.\NMe dê uma mão.
+Dialogue: 0,0:19:38.71,0:19:39.90,Italics,,0000,0000,0000,,O que devo fazer?
+Dialogue: 0,0:19:40.39,0:19:42.87,Italics,,0000,0000,0000,,Se lembra da Sakurajima-senpai?
+Dialogue: 0,0:19:42.87,0:19:44.70,Main,,0000,0000,0000,,Hã? Claro que lembro.
+Dialogue: 0,0:19:44.70,0:19:47.09,Main,,0000,0000,0000,,Pois é, não sabe...
+Dialogue: 0,0:19:47.09,0:19:48.37,Main,,0000,0000,0000,,Você se lembra?!
+Dialogue: 0,0:19:48.37,0:19:49.79,Main,,0000,0000,0000,,Falo da Sakurajima-senpai!
+Dialogue: 0,0:19:49.79,0:19:52.01,Italics,,0000,0000,0000,,Estou dizendo que\Né claro que sei quem é.
+Dialogue: 0,0:19:52.62,0:19:55.16,Italics,,0000,0000,0000,,Era só sobre isso? Eu vou dormir.
+Dialogue: 0,0:19:55.16,0:19:58.21,Main,,0000,0000,0000,,Espera! Me passa o número da Futaba.
+Dialogue: 0,0:19:58.86,0:20:01.20,Main,,0000,0000,0000,,Que horas você pensa que é agora?
+Dialogue: 0,0:20:01.53,0:20:03.13,Main,,0000,0000,0000,,São 1h19 da manhã.
+Dialogue: 0,0:20:03.13,0:20:06.26,Italics,,0000,0000,0000,,1h21. Esse seu relógio está atrasado.
+Dialogue: 0,0:20:08.46,0:20:09.94,Italics,,0000,0000,0000,,Já entendi.
+Dialogue: 0,0:20:09.94,0:20:13.72,Italics,,0000,0000,0000,,Então era sobre isso aquela conversa\Nsobre a Síndrome da Adolescência.
+Dialogue: 0,0:20:13.72,0:20:18.68,Main,,0000,0000,0000,,Não sei por que isto acontece. Queria que\Nencontrasse um jeito de resolver isso.
+Dialogue: 0,0:20:18.68,0:20:21.21,Italics,,0000,0000,0000,,Você pede coisas impossíveis, Azusagawa.
+Dialogue: 0,0:20:21.21,0:20:22.47,Main,,0000,0000,0000,,Porque estou desesperado.
+Dialogue: 0,0:20:22.79,0:20:24.92,Main,,0000,0000,0000,,O Kunimi já me disse certa vez.
+Dialogue: 0,0:20:24.92,0:20:30.44,Main,,0000,0000,0000,,O seu ponto forte é saber dizer\N"obrigado", "desculpa" e "me ajude".
+Dialogue: 0,0:20:30.98,0:20:32.37,Main,,0000,0000,0000,,E a escola amanhã?
+Dialogue: 0,0:20:32.37,0:20:34.52,Main,,0000,0000,0000,,A parte da manhã não vai ter jeito.
+Dialogue: 0,0:20:34.52,0:20:35.47,Main,,0000,0000,0000,,Por quê?
+Dialogue: 0,0:20:35.47,0:20:38.34,Italics,,0000,0000,0000,,Pensei aqui que a razão\Npode estar na escola.
+Dialogue: 0,0:20:38.34,0:20:42.31,Italics,,0000,0000,0000,,Pois alguns alunos conseguem\Nenxergar a Mai-senpai.
+Dialogue: 0,0:20:42.73,0:20:43.81,Main,,0000,0000,0000,,É mesmo...
+Dialogue: 0,0:20:43.81,0:20:46.98,Italics,,0000,0000,0000,,Vou pensar mais um pouco,\Nmas não crie expectativas.
+Dialogue: 0,0:20:46.98,0:20:48.00,Main,,0000,0000,0000,,Obrigado.
+Dialogue: 0,0:20:48.00,0:20:51.32,Main,,0000,0000,0000,,Talvez só depois do almoço,\Nmas vou para a escola amanhã.
+Dialogue: 0,0:20:51.32,0:20:53.20,Main,,0000,0000,0000,,Desculpa ligar de madrugada.
+Dialogue: 0,0:20:57.25,0:20:59.30,Main,,0000,0000,0000,,Ela acabou o banho...
+Dialogue: 0,0:20:59.30,0:21:00.90,Main,,0000,0000,0000,,O que faremos com a roupa íntima?
+Dialogue: 0,0:21:01.82,0:21:04.88,Main,,0000,0000,0000,,A roupa de cima tudo bem ser\Na mesma, mas a de baixo, não.
+Dialogue: 0,0:21:07.91,0:21:09.43,Main,,0000,0000,0000,,Que coisa estranha.
+Dialogue: 0,0:21:10.12,0:21:12.45,Main,,0000,0000,0000,,Estar assim, em uma\Ncidade que não conheço.
+Dialogue: 0,0:21:12.45,0:21:15.46,Main,,0000,0000,0000,,Mas não foi a vários lugares a trabalho?
+Dialogue: 0,0:21:15.46,0:21:17.74,Main,,0000,0000,0000,,Nessas horas eu só fui levada até lá.
+Dialogue: 0,0:21:17.74,0:21:19.68,Main,,0000,0000,0000,,Ah, entendo o que diz.
+Dialogue: 0,0:21:19.68,0:21:22.06,Main,,0000,0000,0000,,Mas o que é mais estranho
+Dialogue: 0,0:21:22.06,0:21:25.47,Main,,0000,0000,0000,,é estar andando junto\Ncom um garoto mais novo.
+Dialogue: 0,0:21:25.47,0:21:26.59,Main,,0000,0000,0000,,E eu,
+Dialogue: 0,0:21:26.59,0:21:30.66,Main,,0000,0000,0000,,nunca imaginei poder ir a uma cidade tão\Nlonge junto "daquela" Sakurajima Mai.
+Dialogue: 0,0:21:30.99,0:21:32.14,Main,,0000,0000,0000,,Que honra, hein?
+Dialogue: 0,0:21:32.80,0:21:34.64,Main,,0000,0000,0000,,Nunca vou esquecer.
+Dialogue: 0,0:21:37.44,0:21:39.42,Main,,0000,0000,0000,,Pode ter certeza, não vou esquecer.
+Dialogue: 0,0:21:40.45,0:21:42.25,Main,,0000,0000,0000,,E se esquecer?
+Dialogue: 0,0:21:42.64,0:21:44.83,Main,,0000,0000,0000,,Comerei pocky pelo nariz.
+Dialogue: 0,0:21:48.65,0:21:50.03,Main,,0000,0000,0000,,Que aperto.
+Dialogue: 0,0:21:50.03,0:21:51.75,Main,,0000,0000,0000,,Está dizendo para eu sair?
+Dialogue: 0,0:21:51.75,0:21:54.72,Main,,0000,0000,0000,,Fale algo. Algo divertido.
+Dialogue: 0,0:21:54.72,0:21:56.77,Main,,0000,0000,0000,,Está pedindo coisas difíceis.
+Dialogue: 0,0:21:56.77,0:21:59.22,Main,,0000,0000,0000,,É divertido me colocar em apuros?
+Dialogue: 0,0:21:59.22,0:22:02.95,Main,,0000,0000,0000,,Mas você também se diverte\Ndeixando que eu te atormente.
+Dialogue: 0,0:22:02.95,0:22:05.59,Main,,0000,0000,0000,,Apesar que não creio que exista\Num homem que não fique feliz
+Dialogue: 0,0:22:05.59,0:22:08.40,Main,,0000,0000,0000,,por ser atormentado por\Numa senpai tão bonita...
+Dialogue: 0,0:22:08.40,0:22:10.65,Main,,0000,0000,0000,,Isso é um elogio?
+Dialogue: 0,0:22:10.65,0:22:12.00,Main,,0000,0000,0000,,Um dos grandes.
+Dialogue: 0,0:22:18.37,0:22:20.81,Main,,0000,0000,0000,,Ei, vamos nos beijar?
+Dialogue: 0,0:22:22.79,0:22:25.49,Main,,0000,0000,0000,,Mai-san, isso é frustração sexual?
+Dialogue: 0,0:22:25.95,0:22:27.33,Main,,0000,0000,0000,,Idiota.
+Dialogue: 0,0:22:27.97,0:22:30.41,Main,,0000,0000,0000,,Vamos dormir. Boa noite.
+Dialogue: 0,0:22:34.79,0:22:35.99,Main,,0000,0000,0000,,Ei, Sakuta.
+Dialogue: 0,0:22:35.99,0:22:38.06,Main,,0000,0000,0000,,Não ia dormir?
+Dialogue: 0,0:22:38.69,0:22:43.32,Main,,0000,0000,0000,,O que fará se eu começar a tremer e chorar,\Ndizendo que não quero desaparecer?
+Dialogue: 0,0:22:43.32,0:22:45.39,Main,,0000,0000,0000,,Te abraço pelas costas
+Dialogue: 0,0:22:45.39,0:22:48.34,Main,,0000,0000,0000,,e sussurro dizendo que\Nestá tudo bem, algo assim.
+Dialogue: 0,0:22:48.34,0:22:50.46,Main,,0000,0000,0000,,Então não vou dizer isso.
+Dialogue: 0,0:22:50.76,0:22:52.94,Main,,0000,0000,0000,,Ué, não gostou?
+Dialogue: 0,0:22:52.94,0:22:56.31,Main,,0000,0000,0000,,Parece que vai se aproveitar\Ne passar a mão nos meus seios.
+Dialogue: 0,0:22:56.31,0:23:00.10,Main,,0000,0000,0000,,Já decidi voltar ao mundo artístico.\NNão é hora pra desaparecer.
+Dialogue: 0,0:23:00.50,0:23:01.58,Main,,0000,0000,0000,,Pois é.
+Dialogue: 0,0:23:02.18,0:23:05.14,Main,,0000,0000,0000,,Quero fazer uma novela\Ne aparecer em outro filme.
+Dialogue: 0,0:23:05.14,0:23:06.90,Main,,0000,0000,0000,,Também quero fazer teatro.
+Dialogue: 0,0:23:07.33,0:23:10.42,Main,,0000,0000,0000,,Agora que conheci um garoto mais novo,
+Dialogue: 0,0:23:10.42,0:23:12.87,Main,,0000,0000,0000,,ficou mais divertido de ir para a escola.
+Dialogue: 0,0:23:12.87,0:23:14.84,Main,,0000,0000,0000,,Pode ter certeza, nunca vou esquecer.
+Dialogue: 0,0:23:15.49,0:23:17.22,Main,,0000,0000,0000,,Existe uma "certeza"?
+Dialogue: 0,0:23:17.51,0:23:20.67,Main,,0000,0000,0000,,É por isso que esse beijo pode\Nacontecer quando quiser.
+Dialogue: 0,0:23:20.67,0:23:22.50,Main,,0000,0000,0000,,Mesmo que não seja comigo.
+Dialogue: 0,0:23:22.83,0:23:25.40,Main,,0000,0000,0000,,Acho que pra você isso seria muito fácil.
+Dialogue: 0,0:23:25.40,0:23:26.61,Main,,0000,0000,0000,,Pode fazer de tudo.
+Dialogue: 0,0:23:27.84,0:23:29.29,Main,,0000,0000,0000,,Verdade.
+Dialogue: 0,0:23:29.29,0:23:34.59,Main,,0000,0000,0000,,Mas aquela foi a sua primeira e última\Nchance de roubar meu primeiro beijo.
+Dialogue: 0,0:23:34.59,0:23:37.95,Main,,0000,0000,0000,,Se me avisasse antes, eu teria beijado...
+Dialogue: 0,0:23:39.41,0:23:40.61,Main,,0000,0000,0000,,Não vai ter mais.
+Dialogue: 0,0:23:44.03,0:23:44.87,Main,,0000,0000,0000,,Obrigada.
+Dialogue: 0,0:23:45.67,0:23:48.02,Main,,0000,0000,0000,,Por dizer para eu não desistir.
+Dialogue: 0,0:23:49.06,0:23:50.02,Main,,0000,0000,0000,,Obrigada.
+Dialogue: 0,0:24:56.00,0:24:59.39,Main,,0000,0000,0000,,Esse é o Sakuta, que escória!
+Dialogue: 0,0:24:56.97,0:24:59.97,Preview Title,,0000,0000,0000,,Na próxima\N#3 | Um mundo em que só você não existe
