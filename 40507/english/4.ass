@@ -1,0 +1,289 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top Italic,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:14.55,0:00:15.68,Default,,0000,0000,0000,,Hurry up!
+Dialogue: 0,0:00:22.77,0:00:23.89,Default,,0000,0000,0000,,Stay sharp!
+Dialogue: 0,0:00:29.90,0:00:31.07,Default,,0000,0000,0000,,A woman?!
+Dialogue: 0,0:00:31.07,0:00:32.57,Default,,0000,0000,0000,,Not a dragon?
+Dialogue: 0,0:00:33.24,0:00:34.95,Default,,0000,0000,0000,,Tio!
+Dialogue: 0,0:00:34.95,0:00:36.24,Default,,0000,0000,0000,,Are you all right?
+Dialogue: 0,0:00:36.87,0:00:38.91,Default,,0000,0000,0000,,Tio!
+Dialogue: 0,0:00:40.99,0:00:43.25,Default,,0000,0000,0000,,Kaori...
+Dialogue: 0,0:00:43.25,0:00:48.08,Default,,0000,0000,0000,,Yes, I'm actually quite fine.\NJust a bit tired.
+Dialogue: 0,0:00:51.09,0:00:53.92,Default,,0000,0000,0000,,Tio... What about\NHajime-{\i1}kun {\i0}and the others?
+Dialogue: 0,0:00:53.92,0:00:56.72,Default,,0000,0000,0000,,Why are you alone?
+Dialogue: 0,0:00:56.72,0:00:58.85,Default,,0000,0000,0000,,Calm down, Kaori.
+Dialogue: 0,0:00:58.85,0:01:00.81,Default,,0000,0000,0000,,What about that volcano eruption?!
+Dialogue: 0,0:02:38.11,0:02:40.66,Default,,0000,0000,0000,,So Hajime-{\i1}kun {\i0}is...
+Dialogue: 0,0:02:40.66,0:02:44.74,Default,,0000,0000,0000,,Yes, they should be\Ncatching up with us soon.
+Dialogue: 0,0:02:44.74,0:02:48.58,Default,,0000,0000,0000,,Master was not pessimistic\Nin the slightest.
+Dialogue: 0,0:02:48.58,0:02:51.75,Default,,0000,0000,0000,,I'm sure he had some plan to get out.
+Dialogue: 0,0:02:52.88,0:02:56.76,Default,,0000,0000,0000,,Kaori, I have a message from Master.
+Dialogue: 0,0:02:56.76,0:02:58.51,Default,,0000,0000,0000,,From Hajime-{\i1}kun{\i0}?
+Dialogue: 0,0:02:58.51,0:03:03.05,Default,,0000,0000,0000,,Yes. Well, to Kaori and Myu both,\Nto be exact, but...
+Dialogue: 0,0:03:03.05,0:03:05.93,Default,,0000,0000,0000,,"See you later," he said.
+Dialogue: 0,0:03:07.14,0:03:08.35,Default,,0000,0000,0000,,Kaori?
+Dialogue: 0,0:03:08.35,0:03:12.73,Default,,0000,0000,0000,,Right, yes. Good...\NHe should be all right then.
+Dialogue: 0,0:03:12.73,0:03:15.98,Default,,0000,0000,0000,,Even if the situation\Nseems hopeless to others,
+Dialogue: 0,0:03:15.98,0:03:20.32,Default,,0000,0000,0000,,Master will survive and\Nact like nothing happened.
+Dialogue: 0,0:03:20.32,0:03:22.95,Default,,0000,0000,0000,,That we can believe, without a doubt.
+Dialogue: 0,0:03:22.95,0:03:24.78,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:03:24.78,0:03:27.70,Default,,0000,0000,0000,,Aren't we going to go pick up Papa?
+Dialogue: 0,0:03:27.70,0:03:32.83,Default,,0000,0000,0000,,We need to believe in Papa Hajime\Nand do what we need to do on our side.
+Dialogue: 0,0:03:32.83,0:03:35.46,Default,,0000,0000,0000,,Only then can we go pick him up.
+Dialogue: 0,0:03:35.46,0:03:41.22,Default,,0000,0000,0000,,Oh, but we can't take Myu-{\i1}chan{\i0}\Nto the Grand Gruen Volcano.
+Dialogue: 0,0:03:41.22,0:03:43.89,Default,,0000,0000,0000,,In that case, why don't\Nwe head over to Erisen first
+Dialogue: 0,0:03:43.89,0:03:46.30,Default,,0000,0000,0000,,and reunite Myu with her mother?
+Dialogue: 0,0:03:46.30,0:03:49.27,Default,,0000,0000,0000,,Right! That's what we'll do.
+Dialogue: 0,0:04:10.45,0:04:14.12,Default,,0000,0000,0000,,How many days has it been...?
+Dialogue: 0,0:04:14.12,0:04:17.09,Default,,0000,0000,0000,,Hajime, how are you feeling?
+Dialogue: 0,0:04:17.09,0:04:21.97,Default,,0000,0000,0000,,I'm fine. It'll just take me\Na while longer to fully recover.
+Dialogue: 0,0:04:21.97,0:04:23.97,Default,,0000,0000,0000,,How about you, Yue?
+Dialogue: 0,0:04:23.97,0:04:28.47,Default,,0000,0000,0000,,I'm fine. Shea shared\Nsome of her blood with me.
+Dialogue: 0,0:04:28.47,0:04:31.60,Default,,0000,0000,0000,,Oh, Yue-{\i1}san{\i0}, why are you sitting on me?
+Dialogue: 0,0:04:31.60,0:04:34.10,Default,,0000,0000,0000,,Because there's a Hajime there.
+Dialogue: 0,0:04:36.81,0:04:40.61,Default,,0000,0000,0000,,The poison from the Burning Light\Nis almost gone. That's good.
+Dialogue: 0,0:04:40.61,0:04:42.74,Default,,0000,0000,0000,,I told you, I'm fine.
+Dialogue: 0,0:04:42.74,0:04:45.70,Default,,0000,0000,0000,,But I'm still worried.
+Dialogue: 0,0:04:45.70,0:04:49.66,Default,,0000,0000,0000,,I'm glad we have a chance to rest up,\Nthough the location isn't ideal.
+Dialogue: 0,0:04:49.66,0:04:53.91,Default,,0000,0000,0000,,Yeah, that was a crazy chain of events.
+Dialogue: 0,0:04:53.91,0:04:56.92,Default,,0000,0000,0000,,I don't know if we're\Nreally lucky or really unlucky.
+Dialogue: 0,0:05:11.06,0:05:13.77,Default,,0000,0000,0000,,Hajime-{\i1}san{\i0}! It's close!
+Dialogue: 0,0:05:38.92,0:05:41.50,Default,,0000,0000,0000,,Good, we're safe for now.
+Dialogue: 0,0:05:41.50,0:05:43.59,Default,,0000,0000,0000,,Hajime, look.
+Dialogue: 0,0:05:45.47,0:05:47.68,Default,,0000,0000,0000,,A magic circle.
+Dialogue: 0,0:05:56.52,0:05:59.77,Default,,0000,0000,0000,,This is... a magic that controls space?
+Dialogue: 0,0:05:59.77,0:06:01.90,Default,,0000,0000,0000,,The secret to that instant movement trick.
+Dialogue: 0,0:06:01.90,0:06:05.65,Default,,0000,0000,0000,,Oh, you mean how\Nhe suddenly appeared behind us.
+Dialogue: 0,0:06:12.70,0:06:18.62,Default,,0000,0000,0000,,I sincerely hope that the future of\Nhumankind will be based on free will...
+Dialogue: 0,0:06:18.62,0:06:20.67,Default,,0000,0000,0000,,Naiz Gruen.
+Dialogue: 0,0:06:22.17,0:06:23.71,Default,,0000,0000,0000,,Simple.
+Dialogue: 0,0:06:23.71,0:06:26.26,Default,,0000,0000,0000,,It's like he tidied up his life.
+Dialogue: 0,0:06:26.26,0:06:30.93,Default,,0000,0000,0000,,It doesn't seem like Naiz-{\i1}san {\i0}left\Nanything behind other than the magic.
+Dialogue: 0,0:06:42.90,0:06:46.82,Default,,0000,0000,0000,,So, we got the proof\Nof conquest and the magic.
+Dialogue: 0,0:06:46.82,0:06:48.90,Default,,0000,0000,0000,,Now to get out of here...
+Dialogue: 0,0:06:48.90,0:06:54.78,Default,,0000,0000,0000,,Right, but Spatial Magic is hard\Nto use, we can't use it just yet.
+Dialogue: 0,0:06:54.78,0:06:57.16,Default,,0000,0000,0000,,You do have a plan, right?
+Dialogue: 0,0:06:57.16,0:07:01.67,Default,,0000,0000,0000,,The outside is probably\Ncompletely full of lava by now.
+Dialogue: 0,0:07:01.67,0:07:04.21,Default,,0000,0000,0000,,We'll swim through the lava.
+Dialogue: 0,0:07:04.21,0:07:05.80,Default,,0000,0000,0000,,Hmm?
+Dialogue: 0,0:07:05.80,0:07:07.59,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:07:09.26,0:07:13.14,Default,,0000,0000,0000,,Please don't look at me like that...
+Dialogue: 0,0:07:19.93,0:07:23.81,Default,,0000,0000,0000,,I actually made a ship\Nthat can travel underwater.
+Dialogue: 0,0:07:23.81,0:07:29.90,Default,,0000,0000,0000,,The Sunken Ruins of Melusine is next,\Nand I was sure we'd need one for that.
+Dialogue: 0,0:07:29.90,0:07:35.08,Default,,0000,0000,0000,,I was a bit worried about whether\Nor not it could withstand the lava, but...
+Dialogue: 0,0:07:54.30,0:07:56.89,Default,,0000,0000,0000,,Looks like it'll do fine.
+Dialogue: 0,0:08:03.02,0:08:05.36,Default,,0000,0000,0000,,Huh?! What's going on?!
+Dialogue: 0,0:08:05.36,0:08:07.86,Default,,0000,0000,0000,,Dammit, I lost control.
+Dialogue: 0,0:08:07.86,0:08:09.03,Default,,0000,0000,0000,,If this were an eruption,
+Dialogue: 0,0:08:09.03,0:08:11.57,Default,,0000,0000,0000,,we'd just get tossed outside\Nand all would be good, but...
+Dialogue: 0,0:08:15.20,0:08:19.49,Default,,0000,0000,0000,,Seems like we're getting pushed\Nstraight down... Or no, diagonally down.
+Dialogue: 0,0:08:19.49,0:08:24.96,Default,,0000,0000,0000,,You mean we're going deeper underground?!
+Dialogue: 0,0:08:24.96,0:08:28.17,Default,,0000,0000,0000,,Yue, Shea, I don't think we're\Ngetting out of here very soon.
+Dialogue: 0,0:08:28.17,0:08:30.71,Default,,0000,0000,0000,,Seems like we have to take\Nthis trip to wherever we end up.
+Dialogue: 0,0:08:32.42,0:08:34.26,Default,,0000,0000,0000,,I'll be by your side until the end.
+Dialogue: 0,0:08:34.26,0:08:36.59,Default,,0000,0000,0000,,As long as I can do that,\NI'll have no regrets.
+Dialogue: 0,0:08:36.59,0:08:40.27,Default,,0000,0000,0000,,Literally come hell or high water, huh?
+Dialogue: 0,0:08:40.27,0:08:45.02,Default,,0000,0000,0000,,I'll also follow you two\Nto wherever you might go!
+Dialogue: 0,0:09:16.22,0:09:18.60,Default,,0000,0000,0000,,Dammit, it's out of ammo!
+Dialogue: 0,0:09:18.60,0:09:20.01,Default,,0000,0000,0000,,I got this.
+Dialogue: 0,0:09:31.23,0:09:33.74,Default,,0000,0000,0000,,Yue! Take my blood.
+Dialogue: 0,0:09:33.74,0:09:35.78,Default,,0000,0000,0000,,No, I can still...
+Dialogue: 0,0:09:35.78,0:09:36.61,Default,,0000,0000,0000,,Yue...
+Dialogue: 0,0:09:36.61,0:09:40.37,Default,,0000,0000,0000,,Have you two forgotten about someone?
+Dialogue: 0,0:09:41.58,0:09:43.91,Default,,0000,0000,0000,,Use my blood, please!
+Dialogue: 0,0:10:03.26,0:10:04.43,Default,,0000,0000,0000,,What about Shea?
+Dialogue: 0,0:10:04.43,0:10:09.31,Default,,0000,0000,0000,,She gave me a lot of blood, so I don't\Nthink she'll be getting up anytime soon.
+Dialogue: 0,0:10:09.31,0:10:10.56,Default,,0000,0000,0000,,I see...
+Dialogue: 0,0:10:12.44,0:10:18.41,Default,,0000,0000,0000,,Hmm? Are you awake? How are you?
+Dialogue: 0,0:10:18.41,0:10:23.16,Default,,0000,0000,0000,,Thank you for your totally natural\Nreaction as if nothing happened.
+Dialogue: 0,0:10:23.16,0:10:26.91,Default,,0000,0000,0000,,I am absolutely fine. Oh, indeed I am!
+Dialogue: 0,0:10:26.91,0:10:29.79,Default,,0000,0000,0000,,That's good to hear.
+Dialogue: 0,0:10:29.79,0:10:32.92,Default,,0000,0000,0000,,I wonder where we are?
+Dialogue: 0,0:10:32.92,0:10:34.55,Default,,0000,0000,0000,,Who knows?
+Dialogue: 0,0:10:34.55,0:10:41.05,Default,,0000,0000,0000,,I'd like to run some tests,\Nbut the Treasure Trove is with Tio.
+Dialogue: 0,0:10:41.05,0:10:42.93,Default,,0000,0000,0000,,We travel wherever the wind takes us.
+Dialogue: 0,0:10:42.93,0:10:45.56,Default,,0000,0000,0000,,Doesn't that mean we're lost?
+Dialogue: 0,0:10:46.98,0:10:48.18,Default,,0000,0000,0000,,Hmm?
+Dialogue: 0,0:10:52.61,0:10:55.19,Default,,0000,0000,0000,,Who are you?! Why are you here?!
+Dialogue: 0,0:10:55.19,0:10:56.90,Default,,0000,0000,0000,,What is this thing you're riding?
+Dialogue: 0,0:10:59.82,0:11:02.45,Default,,0000,0000,0000,,You won't get us to lower our guards!
+Dialogue: 0,0:11:02.45,0:11:04.91,Default,,0000,0000,0000,,Is that the trick you\Nused to kidnap the girl?!
+Dialogue: 0,0:11:04.91,0:11:07.79,Default,,0000,0000,0000,,Are you here to\Nsteal more of our children?!
+Dialogue: 0,0:11:09.04,0:11:10.92,Default,,0000,0000,0000,,Are you talking about Myu?
+Dialogue: 0,0:11:10.92,0:11:13.34,Default,,0000,0000,0000,,Oh, in that case, we--
+Dialogue: 0,0:11:13.34,0:11:17.38,Default,,0000,0000,0000,,Silence! Who allowed\Nyou to speak, rabbitman?!
+Dialogue: 0,0:11:23.30,0:11:24.39,Default,,0000,0000,0000,,Nice shot.
+Dialogue: 0,0:11:26.14,0:11:27.56,Default,,0000,0000,0000,,Wait, something just...
+Dialogue: 0,0:11:27.56,0:11:28.39,Default,,0000,0000,0000,,What is it?
+Dialogue: 0,0:11:28.39,0:11:29.43,Default,,0000,0000,0000,,--Papa!
+Dialogue: 0,0:11:29.43,0:11:31.02,Default,,0000,0000,0000,,--What is this?\N--Papa!
+Dialogue: 0,0:11:32.40,0:11:33.27,Default,,0000,0000,0000,,No way.
+Dialogue: 0,0:11:33.27,0:11:35.32,Default,,0000,0000,0000,,Papa!
+Dialogue: 0,0:11:37.48,0:11:38.99,Default,,0000,0000,0000,,Myu?!
+Dialogue: 0,0:11:54.88,0:11:57.38,Default,,0000,0000,0000,,Papa!
+Dialogue: 0,0:11:58.38,0:12:00.05,Default,,0000,0000,0000,,Myu...
+Dialogue: 0,0:12:10.06,0:12:13.10,Default,,0000,0000,0000,,Sorry, Papa...
+Dialogue: 0,0:12:13.10,0:12:16.77,Default,,0000,0000,0000,,Can you promise that you won't do\Nsomething dangerous like that again?
+Dialogue: 0,0:12:16.77,0:12:18.40,Default,,0000,0000,0000,,Yes, I can.
+Dialogue: 0,0:12:18.40,0:12:20.44,Default,,0000,0000,0000,,All right, then I forgive you.
+Dialogue: 0,0:12:20.44,0:12:21.95,Default,,0000,0000,0000,,Papa!
+Dialogue: 0,0:12:23.86,0:12:28.08,Default,,0000,0000,0000,,I'm so glad... I'm so glad!
+Dialogue: 0,0:12:28.08,0:12:33.75,Default,,0000,0000,0000,,Sorry to worry you. But as\Nyou can see, I'm totally fine. So...
+Dialogue: 0,0:12:33.75,0:12:39.13,Default,,0000,0000,0000,,So stop crying. Seeing you cry is...\Nbad, in lots of ways.
+Dialogue: 0,0:12:40.76,0:12:43.13,Default,,0000,0000,0000,,Well, then...
+Dialogue: 0,0:12:44.88,0:12:47.55,Default,,0000,0000,0000,,Just a little while longer...
+Dialogue: 0,0:12:50.31,0:12:51.43,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:12:51.43,0:12:53.64,Default,,0000,0000,0000,,H-Hey! Tio!
+Dialogue: 0,0:12:53.64,0:12:57.77,Default,,0000,0000,0000,,I believed in you!\NI totally believed in you, but...
+Dialogue: 0,0:12:57.77,0:13:01.19,Default,,0000,0000,0000,,But being together with you, it's...
+Dialogue: 0,0:13:01.19,0:13:05.28,Default,,0000,0000,0000,,Please give me some\Nof your time, my master!
+Dialogue: 0,0:13:05.28,0:13:09.41,Default,,0000,0000,0000,,Please, master! Give me a reward!
+Dialogue: 0,0:13:23.34,0:13:27.80,Default,,0000,0000,0000,,{\an8}"Erisen, City on the Sea" {\an}
+Dialogue: 0,0:13:33.85,0:13:35.94,Default,,0000,0000,0000,,Hey, that girl, is that...?
+Dialogue: 0,0:13:35.94,0:13:40.27,Default,,0000,0000,0000,,Yeah, it is. She's Remia's daughter,\Nthe one who got kidnapped.
+Dialogue: 0,0:13:43.94,0:13:47.91,Default,,0000,0000,0000,,I authorize the completion of the mission\Ngiven from the guild branch master.
+Dialogue: 0,0:13:47.91,0:13:51.08,Default,,0000,0000,0000,,Thank you, gold-rank adventurer,\NMr. Nagumo.
+Dialogue: 0,0:13:51.08,0:13:53.50,Default,,0000,0000,0000,,I'm sure you have tons\Nof questions, but for now,
+Dialogue: 0,0:13:53.50,0:13:58.38,Default,,0000,0000,0000,,can we take her to her mother?
+Dialogue: 0,0:13:58.38,0:14:00.13,Default,,0000,0000,0000,,I guess I have no choice.
+Dialogue: 0,0:14:00.13,0:14:04.51,Default,,0000,0000,0000,,The sighting of the dragon out at sea,\Nand that ship-like vehicle...
+Dialogue: 0,0:14:04.51,0:14:07.72,Default,,0000,0000,0000,,As a soldier of the kingdom,\NI cannot ignore those things.
+Dialogue: 0,0:14:07.72,0:14:13.72,Default,,0000,0000,0000,,I'll be staying in Erisen for a while.\NHow about we chat about it next time?
+Dialogue: 0,0:14:13.72,0:14:16.31,Default,,0000,0000,0000,,If there is an opportunity to talk,\Nthen that's fine.
+Dialogue: 0,0:14:16.31,0:14:19.02,Default,,0000,0000,0000,,I'll ask again after you've settled down.
+Dialogue: 0,0:14:19.02,0:14:22.40,Default,,0000,0000,0000,,The talk is over!\NIf you're going to continue to loiter,
+Dialogue: 0,0:14:22.40,0:14:26.61,Default,,0000,0000,0000,,I'll arrest you all for interfering\Nwith a soldier's duties!
+Dialogue: 0,0:14:27.45,0:14:31.41,Default,,0000,0000,0000,,Papa, I'm going home! Mama's waiting!
+Dialogue: 0,0:14:31.41,0:14:32.99,Default,,0000,0000,0000,,I wanna see Mama!
+Dialogue: 0,0:14:32.99,0:14:35.95,Default,,0000,0000,0000,,Yeah, let's hurry and go see her.
+Dialogue: 0,0:14:40.58,0:14:42.79,Default,,0000,0000,0000,,Papa! This way!
+Dialogue: 0,0:14:42.79,0:14:44.34,Default,,0000,0000,0000,,Yeah, yeah.
+Dialogue: 0,0:14:44.34,0:14:45.84,Default,,0000,0000,0000,,Hurry!
+Dialogue: 0,0:14:49.05,0:14:51.68,Default,,0000,0000,0000,,Remia, calm down!\NYou can't go with that leg!
+Dialogue: 0,0:14:51.68,0:14:55.52,Default,,0000,0000,0000,,Come on, Remia!\NWe'll bring Myu back, we promise!
+Dialogue: 0,0:14:55.52,0:15:00.31,Default,,0000,0000,0000,,No! If Myu is back, I have to go get her!
+Dialogue: 0,0:15:00.31,0:15:02.31,Default,,0000,0000,0000,,Mama!
+Dialogue: 0,0:15:02.31,0:15:03.86,Default,,0000,0000,0000,,Myu?! Myu!
+Dialogue: 0,0:15:03.86,0:15:05.90,Default,,0000,0000,0000,,Mama!
+Dialogue: 0,0:15:07.78,0:15:12.57,Default,,0000,0000,0000,,I'm sorry... I'm so sorry\NI couldn't protect you, Myu...
+Dialogue: 0,0:15:12.57,0:15:18.46,Default,,0000,0000,0000,,It's fine, Mama.\NMyu is right here. So, it's fine.
+Dialogue: 0,0:15:20.92,0:15:22.17,Default,,0000,0000,0000,,Myu...
+Dialogue: 0,0:15:23.54,0:15:25.55,Default,,0000,0000,0000,,I'm so glad!
+Dialogue: 0,0:15:25.55,0:15:26.55,Default,,0000,0000,0000,,Mama!
+Dialogue: 0,0:15:26.55,0:15:30.93,Default,,0000,0000,0000,,Your leg! What happened?\NAre you hurt? Does it hurt?!
+Dialogue: 0,0:15:30.93,0:15:35.22,Default,,0000,0000,0000,,Papa! Help Mama! Mama's leg hurts!
+Dialogue: 0,0:15:35.22,0:15:37.85,Default,,0000,0000,0000,,--What?! Myu, what did you just say?
+Dialogue: 0,0:15:37.85,0:15:39.56,Default,,0000,0000,0000,,--Papa! Hurry!\N--What?! Myu, what did you just say?
+Dialogue: 0,0:15:39.56,0:15:43.86,Default,,0000,0000,0000,,Oh? Oh? Did you really say Papa?
+Dialogue: 0,0:15:43.86,0:15:46.36,Default,,0000,0000,0000,,P-Papa?! Does she mean me?!
+Dialogue: 0,0:15:46.36,0:15:49.11,Default,,0000,0000,0000,,No way! It has to be me!
+Dialogue: 0,0:15:49.11,0:15:50.74,Default,,0000,0000,0000,,No, she's talking about me!
+Dialogue: 0,0:15:50.74,0:15:52.99,Default,,0000,0000,0000,,Papa, Mama is...
+Dialogue: 0,0:15:52.99,0:15:57.04,Default,,0000,0000,0000,,Don't worry, Myu. She'll be fine.
+Dialogue: 0,0:15:57.04,0:16:00.08,Default,,0000,0000,0000,,So don't be worried.
+Dialogue: 0,0:16:00.08,0:16:01.92,Default,,0000,0000,0000,,Yes...
+Dialogue: 0,0:16:03.79,0:16:06.75,Default,,0000,0000,0000,,Sorry about this, excuse me.
+Dialogue: 0,0:16:06.75,0:16:08.30,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:16:09.76,0:16:10.97,Default,,0000,0000,0000,,Oh?
+Dialogue: 0,0:16:15.85,0:16:19.31,Default,,0000,0000,0000,,Remia is getting re-married?\NIt can't be...
+Dialogue: 0,0:16:19.31,0:16:23.52,Default,,0000,0000,0000,,Remia is finally seeing\Nsomeone again? That's great!
+Dialogue: 0,0:16:23.52,0:16:28.98,Default,,0000,0000,0000,,I see. So, you got hurt by\Nthe guys who kidnapped Myu...
+Dialogue: 0,0:16:28.98,0:16:31.03,Default,,0000,0000,0000,,How is she, Kaori?
+Dialogue: 0,0:16:31.03,0:16:35.53,Default,,0000,0000,0000,,Good, she'll be fine.\NI can heal this properly.
+Dialogue: 0,0:16:35.53,0:16:42.04,Default,,0000,0000,0000,,I'd like to spend a few days and take some\Ntime with her to avoid any side effects.
+Dialogue: 0,0:16:42.04,0:16:44.50,Default,,0000,0000,0000,,It might be a bit\Nuncomfortable until then,
+Dialogue: 0,0:16:44.50,0:16:48.04,Default,,0000,0000,0000,,but I will heal this, please rest assured.
+Dialogue: 0,0:16:48.04,0:16:53.63,Default,,0000,0000,0000,,Oh my, oh my. I was told\Nnobody could fix this wound.
+Dialogue: 0,0:16:53.63,0:16:55.80,Default,,0000,0000,0000,,I don't know how to thank you...
+Dialogue: 0,0:16:56.93,0:17:02.48,Default,,0000,0000,0000,,So, um, how did you meet Myu?
+Dialogue: 0,0:17:02.48,0:17:04.77,Default,,0000,0000,0000,,And also...
+Dialogue: 0,0:17:04.77,0:17:08.65,Default,,0000,0000,0000,,...why does Myu call you Papa?
+Dialogue: 0,0:17:10.28,0:17:12.86,Default,,0000,0000,0000,,It's a long story but...
+Dialogue: 0,0:17:15.16,0:17:19.83,Default,,0000,0000,0000,,It's thanks to you that I was\Nable to reunite with my daughter.
+Dialogue: 0,0:17:19.83,0:17:23.00,Default,,0000,0000,0000,,I will repay this debt,\Neven it takes the rest of my life.
+Dialogue: 0,0:17:23.00,0:17:27.17,Default,,0000,0000,0000,,Don't worry about it.\NYou're Myu-{\i1}chan{\i0}'s mother, after all.
+Dialogue: 0,0:17:27.17,0:17:29.04,Default,,0000,0000,0000,,Right.
+Dialogue: 0,0:17:29.04,0:17:31.25,Default,,0000,0000,0000,,Don't worry about it.
+Dialogue: 0,0:17:33.05,0:17:36.59,Default,,0000,0000,0000,,I heard you're planning on\Nstaying in town for a while.
+Dialogue: 0,0:17:36.59,0:17:41.22,Default,,0000,0000,0000,,In that case, please stay in this house.\NMyu would like that, too.
+Dialogue: 0,0:17:41.22,0:17:47.65,Default,,0000,0000,0000,,No, we're fine.\NThere was a good inn near the pier.
+Dialogue: 0,0:17:47.65,0:17:49.98,Default,,0000,0000,0000,,I want to run maintenance\Non the ship, too.
+Dialogue: 0,0:17:49.98,0:17:54.82,Default,,0000,0000,0000,,Oh my, is Papa distancing himself\Nfrom his daughter? That's not right.
+Dialogue: 0,0:17:56.65,0:17:59.45,Default,,0000,0000,0000,,Papa... are you going away?
+Dialogue: 0,0:17:59.45,0:18:00.62,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:00.62,0:18:03.50,Default,,0000,0000,0000,,I understand that you'll\Nhave to leave at some point.
+Dialogue: 0,0:18:03.50,0:18:09.67,Default,,0000,0000,0000,,That's why, while you're here,\NI want you to be her Papa.
+Dialogue: 0,0:18:11.54,0:18:14.09,Default,,0000,0000,0000,,That said, we don't have\Nto limit it to the day you leave.
+Dialogue: 0,0:18:14.09,0:18:16.68,Default,,0000,0000,0000,,You can be her Papa forever,
+Dialogue: 0,0:18:16.68,0:18:19.93,Default,,0000,0000,0000,,since after all, I do intend\Nto repay you with my life...
+Dialogue: 0,0:18:19.93,0:18:23.06,Default,,0000,0000,0000,,Please don't make jokes like that...
+Dialogue: 0,0:18:23.06,0:18:26.14,Default,,0000,0000,0000,,I can feel the temperature drop\Nfrom all the cold stares.
+Dialogue: 0,0:18:26.14,0:18:29.73,Default,,0000,0000,0000,,Oh my, you sure are\Npopular with the ladies.
+Dialogue: 0,0:18:29.73,0:18:34.15,Default,,0000,0000,0000,,But it's been five years\Nsince I lost my husband...
+Dialogue: 0,0:18:34.15,0:18:35.94,Default,,0000,0000,0000,,Myu, you want a Papa, too, don't you?
+Dialogue: 0,0:18:35.94,0:18:38.91,Default,,0000,0000,0000,,Huh? Papa is Papa.
+Dialogue: 0,0:18:39.86,0:18:42.58,Default,,0000,0000,0000,,Did you hear that? Papa.
+Dialogue: 0,0:18:43.24,0:18:45.95,Default,,0000,0000,0000,,Hey, emergency meeting!
+Dialogue: 0,0:18:45.95,0:18:47.66,Default,,0000,0000,0000,,This one's going to be rough!
+Dialogue: 0,0:18:56.80,0:19:02.10,Default,,0000,0000,0000,,She did say she was going to\Nreport to the king first...
+Dialogue: 0,0:19:09.60,0:19:12.65,Default,,0000,0000,0000,,Sensei! Long time no see!
+Dialogue: 0,0:19:12.65,0:19:15.94,Default,,0000,0000,0000,,What?! Yaegashi-{\i1}san{\i0}?!
+Dialogue: 0,0:19:17.44,0:19:20.03,Default,,0000,0000,0000,,I'm sorry about Shimizu-{\i1}kun{\i0}.
+Dialogue: 0,0:19:20.03,0:19:25.04,Default,,0000,0000,0000,,But still, I'm glad you survived, Sensei.
+Dialogue: 0,0:19:25.04,0:19:27.83,Default,,0000,0000,0000,,We really have to thank Nagumo-{\i1}kun{\i0}.
+Dialogue: 0,0:19:29.41,0:19:35.09,Default,,0000,0000,0000,,He went to save you and the others.\NAnd he saved a little girl, too...
+Dialogue: 0,0:19:35.09,0:19:36.21,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:19:36.21,0:19:40.84,Default,,0000,0000,0000,,Perhaps he's remembering\Nhis previous self.
+Dialogue: 0,0:19:40.84,0:19:44.68,Default,,0000,0000,0000,,Either that, or he's still changed,\Nbut ever-growing.
+Dialogue: 0,0:19:44.68,0:19:47.06,Default,,0000,0000,0000,,What a reliable person.
+Dialogue: 0,0:19:51.64,0:19:53.40,Default,,0000,0000,0000,,Ahem!
+Dialogue: 0,0:19:53.40,0:19:58.53,Default,,0000,0000,0000,,Sensei? You told me earlier that you\Nwere saved from a dangerous situation,
+Dialogue: 0,0:19:58.53,0:20:00.11,Default,,0000,0000,0000,,but how exactly?
+Dialogue: 0,0:20:00.11,0:20:01.20,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:20:01.20,0:20:04.24,Default,,0000,0000,0000,,I mean, since you said you almost died,
+Dialogue: 0,0:20:04.24,0:20:07.66,Default,,0000,0000,0000,,it makes me curious\Nabout how you recovered...
+Dialogue: 0,0:20:07.66,0:20:11.75,Default,,0000,0000,0000,,W-W-W-Well, about that...
+Dialogue: 0,0:20:12.87,0:20:16.38,Default,,0000,0000,0000,,Sensei, did something happen\Nbetween you and Nagumo-{\i1}kun{\i0}?
+Dialogue: 0,0:20:16.38,0:20:19.55,Default,,0000,0000,0000,,No! I mean, what do\Nyou mean by "something"?
+Dialogue: 0,0:20:19.55,0:20:22.72,Default,,0000,0000,0000,,He and I are a typical student\Nand teacher! Ain't no doubt!
+Dialogue: 0,0:20:22.72,0:20:26.76,Default,,0000,0000,0000,,Sensei, please calm down.\NYou're speaking nonsense.
+Dialogue: 0,0:20:28.60,0:20:32.35,Default,,0000,0000,0000,,Nagumo-{\i1}kun{\i0}, what did you do to Ai-{\i1}chan{\i0}...?
+Dialogue: 0,0:20:33.35,0:20:39.07,Default,,0000,0000,0000,,Sensei, what happened when\Nyou made the report to the king?
+Dialogue: 0,0:20:39.07,0:20:43.86,Default,,0000,0000,0000,,Nagumo-{\i1}kun {\i0}has officially\Nbeen branded a heretic.
+Dialogue: 0,0:20:43.86,0:20:47.99,Default,,0000,0000,0000,,Why?! That's far too thoughtless!
+Dialogue: 0,0:20:47.99,0:20:53.37,Default,,0000,0000,0000,,I agree completely. Even though he's a\Nstrong force that won't obey the church,
+Dialogue: 0,0:20:53.37,0:20:57.92,Default,,0000,0000,0000,,he did save the town of Ur after all.
+Dialogue: 0,0:20:57.92,0:21:03.13,Default,,0000,0000,0000,,But still, no matter how much\NI objected, they didn't listen.
+Dialogue: 0,0:21:03.13,0:21:07.35,Default,,0000,0000,0000,,They're not supposed to be\Nable to ignore my objections...
+Dialogue: 0,0:21:07.35,0:21:10.14,Default,,0000,0000,0000,,If they're branding Nagumo-{\i1}kun {\i0}a heretic,
+Dialogue: 0,0:21:10.14,0:21:14.19,Default,,0000,0000,0000,,doesn't that mean they're denying\Nthe Goddess of Fertility, too?
+Dialogue: 0,0:21:15.10,0:21:17.56,Default,,0000,0000,0000,,Clearly, there's something wrong.
+Dialogue: 0,0:21:17.56,0:21:24.53,Default,,0000,0000,0000,,Come to think of it, the king and other\Nofficials seemed... somewhat odd.
+Dialogue: 0,0:21:24.53,0:21:29.49,Default,,0000,0000,0000,,That's concerning. What are they thinking?
+Dialogue: 0,0:21:29.49,0:21:34.71,Default,,0000,0000,0000,,Nagumo-{\i1}kun {\i0}is so strong.\NWho will they send after him?
+Dialogue: 0,0:21:34.71,0:21:41.71,Default,,0000,0000,0000,,Yaegashi-{\i1}san{\i0}. There's something\Nthat Nagumo-{\i1}kun {\i0}revealed to me.
+Dialogue: 0,0:21:41.71,0:21:43.05,Default,,0000,0000,0000,,Revealed?
+Dialogue: 0,0:21:43.05,0:21:46.68,Default,,0000,0000,0000,,Yes. About the god that\Nthe church is worshipping
+Dialogue: 0,0:21:46.68,0:21:49.05,Default,,0000,0000,0000,,and what Nagumo-{\i1}kun{\i0}'s goal is.
+Dialogue: 0,0:21:49.05,0:21:54.64,Default,,0000,0000,0000,,I don't have any proof,\Nbut it's important...
+Dialogue: 0,0:21:57.60,0:22:02.36,Default,,0000,0000,0000,,I'd like to talk to you all\Nabout this as soon as possible.
+Dialogue: 0,0:23:36.12,0:23:39.00,Default,,0000,0000,0000,,{\an8}Next episode,\N"Memories from the Bottom of the Sea." {\an}

@@ -1,0 +1,252 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top Italic,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:11.42,0:00:13.22,Default,,0000,0000,0000,,What's going on, at this hour?
+Dialogue: 0,0:00:13.22,0:00:16.97,Default,,0000,0000,0000,,I-I'm sorry...\NWe just couldn't fall asleep.
+Dialogue: 0,0:00:16.97,0:00:21.98,Default,,0000,0000,0000,,Looks like you haven't\Nfound the guards yet.
+Dialogue: 0,0:00:23.81,0:00:26.90,Default,,0000,0000,0000,,We were looking all day today, but...
+Dialogue: 0,0:00:26.90,0:00:29.94,Default,,0000,0000,0000,,...I wonder if the captain\Nlearned anything?
+Dialogue: 0,0:00:31.19,0:00:33.40,Default,,0000,0000,0000,,Hey, guys...
+Dialogue: 0,0:00:33.40,0:00:36.53,Default,,0000,0000,0000,,The captain is okay, right?
+Dialogue: 0,0:02:17.34,0:02:22.93,Default,,0000,0000,0000,,Dammit, that was supposed to be fatal;\Nhow did you avoid it?
+Dialogue: 0,0:02:22.93,0:02:25.43,Default,,0000,0000,0000,,Daisuke, what are you...?!
+Dialogue: 0,0:02:27.06,0:02:28.23,Default,,0000,0000,0000,,Blitz Hammer!
+Dialogue: 0,0:02:46.62,0:02:49.16,Default,,0000,0000,0000,,They knew of our intentions.
+Dialogue: 0,0:03:07.64,0:03:09.89,Default,,0000,0000,0000,,Blow away, Wind Wall!
+Dialogue: 0,0:03:26.12,0:03:28.45,Default,,0000,0000,0000,,And you call yourself vice-captain?
+Dialogue: 0,0:03:29.79,0:03:31.54,Default,,0000,0000,0000,,Take a nap!
+Dialogue: 0,0:03:42.47,0:03:47.76,Default,,0000,0000,0000,,Dammit. All that effort to get\Nthe vice-captain for nothing.
+Dialogue: 0,0:03:47.76,0:03:52.31,Default,,0000,0000,0000,,I thought you were a human\Nfrom this world, not a monster!
+Dialogue: 0,0:03:52.31,0:03:55.81,Default,,0000,0000,0000,,I'm unworthy of your praise.
+Dialogue: 0,0:03:55.81,0:03:59.19,Default,,0000,0000,0000,,I just have more experience...
+Dialogue: 0,0:03:59.19,0:04:01.82,Default,,0000,0000,0000,,...in human-to-human combat.
+Dialogue: 0,0:04:05.57,0:04:08.16,Default,,0000,0000,0000,,Why are you gloating?
+Dialogue: 0,0:04:08.79,0:04:11.62,Default,,0000,0000,0000,,Daisuke, you're...
+Dialogue: 0,0:04:17.88,0:04:19.71,Default,,0000,0000,0000,,It's useless!
+Dialogue: 0,0:04:19.71,0:04:22.97,Default,,0000,0000,0000,,Not even death can stop them!
+Dialogue: 0,0:04:22.97,0:04:25.34,Default,,0000,0000,0000,,What?! What do you...?
+Dialogue: 0,0:04:31.77,0:04:38.31,Default,,0000,0000,0000,,Why? Why is nobody coming to help,\Nafter all this commotion?
+Dialogue: 0,0:04:38.31,0:04:43.65,Default,,0000,0000,0000,,Just give up and die already,\NCaptain Meld.
+Dialogue: 0,0:04:50.45,0:04:51.79,Default,,0000,0000,0000,,No.
+Dialogue: 0,0:04:51.79,0:04:54.50,Default,,0000,0000,0000,,I'll take the coward's way out.
+Dialogue: 0,0:04:54.50,0:04:56.17,Default,,0000,0000,0000,,What?! Hey!
+Dialogue: 0,0:04:59.46,0:05:01.67,Default,,0000,0000,0000,,Paint the world in crimson...
+Dialogue: 0,0:05:25.99,0:05:30.16,Default,,0000,0000,0000,,The matter with the king,\Nthe issue with the knights,
+Dialogue: 0,0:05:30.16,0:05:36.33,Default,,0000,0000,0000,,everything they do is half-baked.\NThey are mere humans, after all.
+Dialogue: 0,0:05:36.33,0:05:38.58,Default,,0000,0000,0000,,I suppose I must lend a hand.
+Dialogue: 0,0:05:48.64,0:05:50.30,Default,,0000,0000,0000,,My god...
+Dialogue: 0,0:05:50.30,0:05:56.43,Default,,0000,0000,0000,,Yes. This is what Lord Ehit wishes.
+Dialogue: 0,0:05:56.43,0:06:00.06,Default,,0000,0000,0000,,I guess I can't say,\N"I'm counting on you."
+Dialogue: 0,0:06:00.06,0:06:02.40,Default,,0000,0000,0000,,That's your enemy.
+Dialogue: 0,0:06:02.40,0:06:06.61,Default,,0000,0000,0000,,Do your worst, knock them out!
+Dialogue: 0,0:06:16.08,0:06:21.00,Default,,0000,0000,0000,,Well, well. I suppose I should be\Nimpressed, Captain.
+Dialogue: 0,0:06:21.00,0:06:25.30,Default,,0000,0000,0000,,Quite clever.\NThis could have been dangerous.
+Dialogue: 0,0:06:25.30,0:06:26.84,Default,,0000,0000,0000,,What are you talking about?
+Dialogue: 0,0:06:26.84,0:06:32.68,Default,,0000,0000,0000,,Doesn't matter, how are you?\NYou took quite a beating.
+Dialogue: 0,0:06:32.68,0:06:35.18,Default,,0000,0000,0000,,This is nothing.
+Dialogue: 0,0:06:35.18,0:06:36.18,Default,,0000,0000,0000,,And her?
+Dialogue: 0,0:06:36.18,0:06:38.85,Default,,0000,0000,0000,,She's gone. Said we're half-baked.
+Dialogue: 0,0:06:38.85,0:06:44.73,Default,,0000,0000,0000,,I see. In my defense,\Nher intervention was part of my plan.
+Dialogue: 0,0:06:44.73,0:06:49.20,Default,,0000,0000,0000,,It does seem like I have god's blessing.
+Dialogue: 0,0:06:49.20,0:06:53.58,Default,,0000,0000,0000,,How mean can this god be?
+Dialogue: 0,0:06:53.58,0:06:56.70,Default,,0000,0000,0000,,At any rate, we got rid\Nof the biggest obstacle.
+Dialogue: 0,0:06:56.70,0:07:01.00,Default,,0000,0000,0000,,Now all we need is to\Nstay under Yaegashi's radar.
+Dialogue: 0,0:07:01.00,0:07:06.80,Default,,0000,0000,0000,,That's right. The king and\Nthe chancellor have lost their minds.
+Dialogue: 0,0:07:06.80,0:07:09.63,Default,,0000,0000,0000,,The Church was never an obstacle.
+Dialogue: 0,0:07:09.63,0:07:11.13,Default,,0000,0000,0000,,Yeah...
+Dialogue: 0,0:07:11.13,0:07:17.10,Default,,0000,0000,0000,,Now that the captain is out\Nof the picture, nothing can stop us.
+Dialogue: 0,0:07:20.19,0:07:23.81,Default,,0000,0000,0000,,All right, let's speed this up.
+Dialogue: 0,0:07:23.81,0:07:29.65,Default,,0000,0000,0000,,Like a rolling stone,\Nwe keep tumbling towards...
+Dialogue: 0,0:07:29.65,0:07:32.74,Default,,0000,0000,0000,,The future that I desire...
+Dialogue: 0,0:07:45.25,0:07:48.42,Default,,0000,0000,0000,,Can you show me the seashell\Nthat Myu gave you?
+Dialogue: 0,0:07:48.42,0:07:51.17,Default,,0000,0000,0000,,Sure, but...
+Dialogue: 0,0:07:51.17,0:07:52.63,Default,,0000,0000,0000,,What are you going to do with it?
+Dialogue: 0,0:07:52.63,0:07:54.51,Default,,0000,0000,0000,,You'll see.
+Dialogue: 0,0:07:55.18,0:07:57.35,Default,,0000,0000,0000,,Huh? Hajime-{\i1}san{\i0}...
+Dialogue: 0,0:07:59.89,0:08:03.31,Default,,0000,0000,0000,,Are those people under attack?
+Dialogue: 0,0:08:04.81,0:08:10.53,Default,,0000,0000,0000,,Looks like bandits. Around 40 of them.
+Dialogue: 0,0:08:10.53,0:08:15.07,Default,,0000,0000,0000,,Facing, I guess, 15 guards.
+Dialogue: 0,0:08:16.62,0:08:19.74,Default,,0000,0000,0000,,I'm impressed that they're holding\Ntheir ground while being so outnumbered.
+Dialogue: 0,0:08:19.74,0:08:23.16,Default,,0000,0000,0000,,Yes. That barrier isn't bad at all.
+Dialogue: 0,0:08:23.16,0:08:26.96,Default,,0000,0000,0000,,I see. They need to break\Nthat down to get through.
+Dialogue: 0,0:08:26.96,0:08:30.51,Default,,0000,0000,0000,,The bandits can't do anything if the\Nguards shoot magic through the barrier.
+Dialogue: 0,0:08:30.51,0:08:33.68,Default,,0000,0000,0000,,So why aren't the bandits retreating?
+Dialogue: 0,0:08:33.68,0:08:38.47,Default,,0000,0000,0000,,Nobody native to this world would be able\Nto maintain that huge barrier for long.
+Dialogue: 0,0:08:38.47,0:08:42.77,Default,,0000,0000,0000,,It might take a while, but\Nthe bandits just have to wait it out.
+Dialogue: 0,0:08:52.49,0:08:56.95,Default,,0000,0000,0000,,Hajime-{\i1}kun{\i0}, please!\NHelp them! There could be--
+Dialogue: 0,0:09:01.24,0:09:03.41,Default,,0000,0000,0000,,Thank you, Hajime-{\i1}kun{\i0}!
+Dialogue: 0,0:09:03.41,0:09:06.17,Default,,0000,0000,0000,,If you see a criminal, step on the gas...
+Dialogue: 0,0:09:06.17,0:09:08.38,Default,,0000,0000,0000,,That's what they teach\Nat driving school, right?
+Dialogue: 0,0:09:08.38,0:09:11.67,Default,,0000,0000,0000,,No way! Stop making up crazy rules!
+Dialogue: 0,0:09:15.43,0:09:16.51,Default,,0000,0000,0000,,What the...?!
+Dialogue: 0,0:09:23.18,0:09:27.15,Default,,0000,0000,0000,,If I'm going to do it, I'll show no mercy.
+Dialogue: 0,0:09:27.15,0:09:31.27,Default,,0000,0000,0000,,I will kill every last one of them.\NYou understand that, right, Kaori?
+Dialogue: 0,0:09:31.27,0:09:32.90,Default,,0000,0000,0000,,Yes, I do.
+Dialogue: 0,0:09:32.90,0:09:35.24,Default,,0000,0000,0000,,Then go. I won't let them interfere.
+Dialogue: 0,0:09:35.24,0:09:36.45,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:09:41.83,0:09:43.45,Default,,0000,0000,0000,,You stupid whore!
+Dialogue: 0,0:09:58.18,0:09:59.97,Default,,0000,0000,0000,,Kaori!
+Dialogue: 0,0:10:03.43,0:10:06.35,Default,,0000,0000,0000,,I knew it! It's you, Lily!
+Dialogue: 0,0:10:09.19,0:10:12.11,Default,,0000,0000,0000,,I thought I recognized that barrier.
+Dialogue: 0,0:10:12.11,0:10:17.07,Default,,0000,0000,0000,,I had no idea why you would be\Nout here, so I wasn't sure.
+Dialogue: 0,0:10:17.07,0:10:22.62,Default,,0000,0000,0000,,It seems like lady luck\Nhasn't abandoned me yet.
+Dialogue: 0,0:10:25.95,0:10:29.62,Default,,0000,0000,0000,,Kaori, are you done healing?
+Dialogue: 0,0:10:34.13,0:10:38.13,Default,,0000,0000,0000,,You're Nagumo-{\i1}san{\i0}, aren't you?\NLong time no see.
+Dialogue: 0,0:10:38.13,0:10:41.72,Default,,0000,0000,0000,,Shizuku and the others\Ntold me about your survival.
+Dialogue: 0,0:10:41.72,0:10:44.64,Default,,0000,0000,0000,,I'm so glad you're safe...
+Dialogue: 0,0:10:44.64,0:10:48.81,Default,,0000,0000,0000,,Kaori was in shambles\Nthe whole time you were gone.
+Dialogue: 0,0:10:48.81,0:10:51.73,Default,,0000,0000,0000,,Come on! This is not the time for that!
+Dialogue: 0,0:10:53.73,0:10:57.36,Default,,0000,0000,0000,,I also heard about Kaori's\Nonce-in-a-lifetime romantic pledge.
+Dialogue: 0,0:10:57.36,0:11:00.95,Default,,0000,0000,0000,,Please do fill me in on the details later.
+Dialogue: 0,0:11:00.95,0:11:04.45,Default,,0000,0000,0000,,But anyway, who are you?
+Dialogue: 0,0:11:04.45,0:11:05.83,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:11:08.08,0:11:09.41,Default,,0000,0000,0000,,Hajime-{\i1}kun{\i0}!
+Dialogue: 0,0:11:09.41,0:11:11.83,Default,,0000,0000,0000,,She's the princess! The princess!
+Dialogue: 0,0:11:11.83,0:11:14.42,Default,,0000,0000,0000,,Princess Liliana of\Nthe Kingdom of Heiligh!
+Dialogue: 0,0:11:14.42,0:11:15.59,Default,,0000,0000,0000,,Don't you remember?!
+Dialogue: 0,0:11:15.59,0:11:17.09,Default,,0000,0000,0000,,Huh? Oh, right.
+Dialogue: 0,0:11:17.09,0:11:21.38,Default,,0000,0000,0000,,I didn't know getting\Nforgotten could hurt so much...
+Dialogue: 0,0:11:21.38,0:11:25.31,Default,,0000,0000,0000,,Lily, don't cry!\NHajime-{\i1}kun {\i0}is the weird one here!
+Dialogue: 0,0:11:25.31,0:11:28.02,Default,,0000,0000,0000,,A normal person would\Nnever forget you, Lily!
+Dialogue: 0,0:11:28.02,0:11:32.10,Default,,0000,0000,0000,,Hey, am I being verbally abused right now?
+Dialogue: 0,0:11:33.69,0:11:38.03,Default,,0000,0000,0000,,So, what is the princess doing out here?
+Dialogue: 0,0:11:43.41,0:11:45.66,Default,,0000,0000,0000,,Lily...?
+Dialogue: 0,0:11:45.66,0:11:49.58,Default,,0000,0000,0000,,Aiko-{\i1}san {\i0}was... kidnapped.
+Dialogue: 0,0:12:05.01,0:12:10.43,Default,,0000,0000,0000,,For a while now, I've felt that something\Nwas wrong with the people at the castle.
+Dialogue: 0,0:12:10.43,0:12:16.94,Default,,0000,0000,0000,,Father's support of the Holy Church\Nwas growing more radical each day,
+Dialogue: 0,0:12:16.94,0:12:19.98,Default,,0000,0000,0000,,and his worship of Lord Ehit\Nwas nothing short of feverish.
+Dialogue: 0,0:12:19.98,0:12:25.62,Default,,0000,0000,0000,,At first, I just thought he was just\Ntrying to deepen his bond with the Church.
+Dialogue: 0,0:12:25.62,0:12:28.99,Default,,0000,0000,0000,,But I still couldn't help but feel\Nthat something was wrong.
+Dialogue: 0,0:12:28.99,0:12:33.58,Default,,0000,0000,0000,,It was then that knights and\Nsoldiers began to appear lethargic,
+Dialogue: 0,0:12:33.58,0:12:37.00,Default,,0000,0000,0000,,as if suffering from some disease.
+Dialogue: 0,0:12:38.46,0:12:42.13,Default,,0000,0000,0000,,The branding of Nagumo-{\i1}san{\i0}\Nas a heretic was also suspicious.
+Dialogue: 0,0:12:42.13,0:12:45.76,Default,,0000,0000,0000,,Your efforts at the town of Ur and\Nthe Great Orcus Labyrinth were ignored,
+Dialogue: 0,0:12:45.76,0:12:49.97,Default,,0000,0000,0000,,as well as Aiko-{\i1}san{\i0}'s\Nobjection and arguments.
+Dialogue: 0,0:12:49.97,0:12:53.64,Default,,0000,0000,0000,,Of course,\NI objected to my father as well.
+Dialogue: 0,0:12:53.64,0:13:00.15,Default,,0000,0000,0000,,But he was determined to brand Nagumo-{\i1}san{\i0}\Nthe enemy of god, no matter what.
+Dialogue: 0,0:13:00.15,0:13:05.61,Default,,0000,0000,0000,,Father began to look at me\Nas if he was looking at an enemy.
+Dialogue: 0,0:13:05.61,0:13:10.87,Default,,0000,0000,0000,,I grew afraid, so I went\Nto Aiko-{\i1}san {\i0}to discuss the matter.
+Dialogue: 0,0:13:11.79,0:13:17.17,Default,,0000,0000,0000,,But Aiko-{\i1}san {\i0}was kidnapped\Nby a nun from the Divine Mountain.
+Dialogue: 0,0:13:17.17,0:13:22.30,Default,,0000,0000,0000,,I thought that the nun was\Nthe mastermind behind this
+Dialogue: 0,0:13:22.30,0:13:25.76,Default,,0000,0000,0000,,or connected to the\Nmastermind in some way.
+Dialogue: 0,0:13:25.76,0:13:32.10,Default,,0000,0000,0000,,I had to tell someone. But it's natural to\Nassume that the castle is being watched.
+Dialogue: 0,0:13:32.10,0:13:35.56,Default,,0000,0000,0000,,So I had to find someone who could help.
+Dialogue: 0,0:13:35.56,0:13:40.65,Default,,0000,0000,0000,,The first people I thought of\Nwere you two, Kaori and Nagumo-{\i1}san{\i0}.
+Dialogue: 0,0:13:40.65,0:13:44.19,Default,,0000,0000,0000,,Shizuku told me\Nthat you had travelled west.
+Dialogue: 0,0:13:44.19,0:13:46.40,Default,,0000,0000,0000,,The rest you already know.
+Dialogue: 0,0:13:46.40,0:13:51.24,Default,,0000,0000,0000,,I thought I would start\Nby asking Duke Zengen for help,
+Dialogue: 0,0:13:51.24,0:13:54.83,Default,,0000,0000,0000,,so I asked a caravan to let me ride along.
+Dialogue: 0,0:13:54.83,0:13:59.08,Default,,0000,0000,0000,,I never thought\NI'd run into you along the way.
+Dialogue: 0,0:13:59.08,0:14:04.13,Default,,0000,0000,0000,,A while ago, I would have\Nsaid that this was god's blessing.
+Dialogue: 0,0:14:04.13,0:14:08.72,Default,,0000,0000,0000,,But right now,\NI am afraid of the Church...
+Dialogue: 0,0:14:09.76,0:14:12.64,Default,,0000,0000,0000,,What is going on?
+Dialogue: 0,0:14:14.22,0:14:15.77,Default,,0000,0000,0000,,Lily...
+Dialogue: 0,0:14:24.36,0:14:28.41,Default,,0000,0000,0000,,I suppose, for starters,\NI have to go save our teacher.
+Dialogue: 0,0:14:28.41,0:14:30.12,Default,,0000,0000,0000,,Would you do that?!
+Dialogue: 0,0:14:30.12,0:14:33.70,Default,,0000,0000,0000,,Don't get the wrong idea,\Nit's not for the kingdom.
+Dialogue: 0,0:14:33.70,0:14:35.79,Default,,0000,0000,0000,,I'm doing this for her.
+Dialogue: 0,0:14:35.79,0:14:37.87,Default,,0000,0000,0000,,For Aiko-{\i1}san{\i0}...
+Dialogue: 0,0:14:37.87,0:14:43.42,Default,,0000,0000,0000,,I'm the reason she got kidnapped.\NI can't just leave her to suffer.
+Dialogue: 0,0:14:44.59,0:14:50.34,Default,,0000,0000,0000,,That said, if the cause of all of this got\Nin the way of my rescue operation,
+Dialogue: 0,0:14:50.34,0:14:54.47,Default,,0000,0000,0000,,I'd have no choice but to beat them up,\Nwhomever it turned out to be.
+Dialogue: 0,0:14:54.47,0:14:58.14,Default,,0000,0000,0000,,Then all I can do is hope\Nthat's what'll happen.
+Dialogue: 0,0:14:58.14,0:15:01.15,Default,,0000,0000,0000,,Thank you, Nagumo-{\i1}san{\i0}.
+Dialogue: 0,0:15:02.23,0:15:06.94,Default,,0000,0000,0000,,The Divine Mountain that she was\Ntaken to is one of the Great Labyrinths.
+Dialogue: 0,0:15:06.94,0:15:10.74,Default,,0000,0000,0000,,I wonder what kind of\NGod's Age magic I can get there?
+Dialogue: 0,0:15:10.74,0:15:13.53,Default,,0000,0000,0000,,Hajime, you're so awesome.
+Dialogue: 0,0:15:13.53,0:15:16.54,Default,,0000,0000,0000,,Hajime-{\i1}san {\i0}is making that face again.
+Dialogue: 0,0:15:16.54,0:15:19.33,Default,,0000,0000,0000,,It makes my heart throb!
+Dialogue: 0,0:15:19.33,0:15:23.50,Default,,0000,0000,0000,,Hmm. Master, having such\Na vicious look on your face...
+Dialogue: 0,0:15:23.50,0:15:25.17,Default,,0000,0000,0000,,It makes me wet!
+Dialogue: 0,0:16:10.55,0:16:16.64,Default,,0000,0000,0000,,What are my students trying to do...?\NWhat could it be?
+Dialogue: 0,0:16:16.64,0:16:22.94,Default,,0000,0000,0000,,Eliminating the "Irregular"...\NIrregular? Irregular...
+Dialogue: 0,0:16:32.74,0:16:34.32,Default,,0000,0000,0000,,Nagumo-{\i1}kun{\i0}.
+Dialogue: 0,0:16:34.32,0:16:36.24,Default,,0000,0000,0000,,Yeah, what is it, Sensei?
+Dialogue: 0,0:16:36.24,0:16:37.70,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:16:38.95,0:16:40.37,Default,,0000,0000,0000,,Over here.
+Dialogue: 0,0:16:40.37,0:16:43.50,Default,,0000,0000,0000,,Huh? What?!
+Dialogue: 0,0:16:43.50,0:16:45.29,Default,,0000,0000,0000,,Nagumo-{\i1}kun{\i0}, is that you?! What?!
+Dialogue: 0,0:16:45.29,0:16:47.92,Default,,0000,0000,0000,,This is the top floor; this is\Nthe Divine Mountain, what?!
+Dialogue: 0,0:16:47.92,0:16:51.34,Default,,0000,0000,0000,,Yeah, so, um, calm down, Sensei.
+Dialogue: 0,0:16:51.34,0:16:55.68,Default,,0000,0000,0000,,I'm almost done checking for traps.
+Dialogue: 0,0:17:09.44,0:17:14.86,Default,,0000,0000,0000,,Why are you so surprised?\NYou noticed that I was coming, right?
+Dialogue: 0,0:17:14.86,0:17:17.70,Default,,0000,0000,0000,,Even though I thought I had\Ncompletely masked my presence...
+Dialogue: 0,0:17:17.70,0:17:20.12,Default,,0000,0000,0000,,Noticed? What? Huh?
+Dialogue: 0,0:17:20.12,0:17:24.66,Default,,0000,0000,0000,,Well, you did call out my name.\NYou must have detected me.
+Dialogue: 0,0:17:24.66,0:17:27.92,Default,,0000,0000,0000,,What?! Well, anyway, why are you here?
+Dialogue: 0,0:17:27.92,0:17:29.59,Default,,0000,0000,0000,,To rescue you, of course.
+Dialogue: 0,0:17:29.59,0:17:34.92,Default,,0000,0000,0000,,--Y-You came here for me?\N- Nagumo-{\i1}kun{\i0}? For me?
+Dialogue: 0,0:17:34.92,0:17:38.64,Default,,0000,0000,0000,,--She's not already brainwashed\Nor something, is she?\N--Y-You came here for me?\NNagumo-{\i1}kun{\i0}? For me?
+Dialogue: 0,0:17:42.27,0:17:47.90,Default,,0000,0000,0000,,What? No! You can't!\NSo sudden! I'm your teacher...
+Dialogue: 0,0:17:49.98,0:17:52.78,Default,,0000,0000,0000,,I'm just trying to take this off.
+Dialogue: 0,0:17:53.61,0:17:56.07,Default,,0000,0000,0000,,Having your magic power\Nsealed away is bad, right?
+Dialogue: 0,0:17:56.07,0:17:58.74,Default,,0000,0000,0000,,Or is there a reason\Nyou need to keep this?
+Dialogue: 0,0:17:58.74,0:18:02.41,Default,,0000,0000,0000,,Oh, right, I see...
+Dialogue: 0,0:18:02.41,0:18:04.54,Default,,0000,0000,0000,,What did you think I was...?
+Dialogue: 0,0:18:08.04,0:18:11.88,Default,,0000,0000,0000,,I'm sorry, it's nothing...
+Dialogue: 0,0:18:19.18,0:18:25.48,Default,,0000,0000,0000,,How did you know I was being\Nheld here? Nobody else knew...
+Dialogue: 0,0:18:25.48,0:18:27.19,Default,,0000,0000,0000,,The princess told me.
+Dialogue: 0,0:18:27.19,0:18:30.11,Default,,0000,0000,0000,,The princess? Princess Liliana?
+Dialogue: 0,0:18:30.11,0:18:33.36,Default,,0000,0000,0000,,She saw you get kidnapped.
+Dialogue: 0,0:18:34.44,0:18:37.82,Default,,0000,0000,0000,,She figured the entire castle\Nwas under surveillance,
+Dialogue: 0,0:18:37.82,0:18:41.20,Default,,0000,0000,0000,,so she couldn't tell\NAmanogawa and the others.
+Dialogue: 0,0:18:41.20,0:18:44.54,Default,,0000,0000,0000,,She decided to leave\Nthe capital all alone.
+Dialogue: 0,0:18:44.54,0:18:46.66,Default,,0000,0000,0000,,To find help.
+Dialogue: 0,0:18:48.21,0:18:54.55,Default,,0000,0000,0000,,Liliana-{\i1}san {\i0}did that?\NAnd Nagumo-{\i1}kun{\i0}, you responded.
+Dialogue: 0,0:18:54.55,0:18:59.47,Default,,0000,0000,0000,,Yeah. It does seem like I'm at least\Npartly responsible for this situation.
+Dialogue: 0,0:18:59.47,0:19:02.22,Default,,0000,0000,0000,,I'm sure I'm the last person\Nyou wanted to see, but...
+Dialogue: 0,0:19:02.22,0:19:06.81,Default,,0000,0000,0000,,Well, I hope you'll put up with me\Nuntil the others join.
+Dialogue: 0,0:19:20.07,0:19:23.95,Default,,0000,0000,0000,,You're definitely not\Nthe last person I wanted to see.
+Dialogue: 0,0:19:23.95,0:19:28.91,Default,,0000,0000,0000,,It's true, I haven't completely gotten\Nover what happened with Shimizu-{\i1}kun{\i0}.
+Dialogue: 0,0:19:28.91,0:19:33.84,Default,,0000,0000,0000,,I might never get over that.
+Dialogue: 0,0:19:33.84,0:19:40.34,Default,,0000,0000,0000,,But still, I think I understand what\Nyou felt when you pulled that trigger.
+Dialogue: 0,0:19:40.34,0:19:42.39,Default,,0000,0000,0000,,Sensei...
+Dialogue: 0,0:19:42.39,0:19:47.02,Default,,0000,0000,0000,,I wasn't able to say this properly\Nback then, so let me say it now.
+Dialogue: 0,0:19:48.06,0:19:50.52,Default,,0000,0000,0000,,Thank you for saving me.
+Dialogue: 0,0:19:51.81,0:19:56.82,Default,,0000,0000,0000,,I'm sorry I made you pull that trigger.
+Dialogue: 0,0:20:03.78,0:20:06.95,Default,,0000,0000,0000,,I'm just doing what I want.
+Dialogue: 0,0:20:06.95,0:20:10.54,Default,,0000,0000,0000,,I accept your gratitude\Nbut reject your apology.
+Dialogue: 0,0:20:11.71,0:20:13.58,Default,,0000,0000,0000,,Anyway, let's get going.
+Dialogue: 0,0:20:13.58,0:20:16.63,Default,,0000,0000,0000,,Nagumo-{\i1}kun{\i0}, please be careful.
+Dialogue: 0,0:20:16.63,0:20:20.26,Default,,0000,0000,0000,,The Church adamantly\Nbranded you a heretic.
+Dialogue: 0,0:20:20.26,0:20:23.72,Default,,0000,0000,0000,,Also, the person\Nwho kidnapped me might be--
+Dialogue: 0,0:20:23.72,0:20:27.43,Default,,0000,0000,0000,,I know. Whatever the case may be,\Nonce I get you back to safety,
+Dialogue: 0,0:20:27.43,0:20:30.48,Default,,0000,0000,0000,,I have to take care of\Nmy own business here,
+Dialogue: 0,0:20:30.48,0:20:34.15,Default,,0000,0000,0000,,and in order to do that, I probably\Nneed to take on the Church anyway.
+Dialogue: 0,0:20:34.15,0:20:37.94,Default,,0000,0000,0000,,I see, so you're ready for this.
+Dialogue: 0,0:20:37.94,0:20:39.53,Default,,0000,0000,0000,,I am.
+Dialogue: 0,0:20:45.99,0:20:48.66,Default,,0000,0000,0000,,Dammit, what is this timing...
+Dialogue: 0,0:20:48.66,0:20:51.87,Default,,0000,0000,0000,,Or rather, this might\Nactually work out in our favor.
+Dialogue: 0,0:20:51.87,0:20:53.62,Default,,0000,0000,0000,,Did something happen?
+Dialogue: 0,0:20:53.62,0:20:55.46,Default,,0000,0000,0000,,The Demons are attacking.
+Dialogue: 0,0:20:55.46,0:20:58.84,Default,,0000,0000,0000,,What we just heard was the barrier\Nsurrounding the capital being shattered.
+Dialogue: 0,0:20:58.84,0:21:00.67,Default,,0000,0000,0000,,The Demons are attacking?!
+Dialogue: 0,0:21:00.67,0:21:04.93,Default,,0000,0000,0000,,Yes, the Heiligh Kingdom is being invaded.
+Dialogue: 0,0:21:04.93,0:21:06.18,Default,,0000,0000,0000,,It can't be...
+Dialogue: 0,0:21:06.18,0:21:07.97,Default,,0000,0000,0000,,Taken completely by surprise.
+Dialogue: 0,0:21:07.97,0:21:09.89,Default,,0000,0000,0000,,Th-That's terrible...
+Dialogue: 0,0:21:09.89,0:21:14.44,Default,,0000,0000,0000,,Sensei, regroup with Amanogawa and\Nthe others first. We'll talk more later.
+Dialogue: 0,0:21:14.44,0:21:16.31,Default,,0000,0000,0000,,Y-Yes.
+Dialogue: 0,0:21:32.41,0:21:35.42,Default,,0000,0000,0000,,Disintegration...?
+Dialogue: 0,0:21:35.42,0:21:37.17,Default,,0000,0000,0000,,Precisely.
+Dialogue: 0,0:21:47.26,0:21:51.06,Default,,0000,0000,0000,,Irregular, my name is Noint.
+Dialogue: 0,0:21:51.06,0:21:56.94,Default,,0000,0000,0000,,As god's apostle, I will remove the\Nunneeded pieces from the god's board.
+Dialogue: 0,0:23:36.08,0:23:38.58,Default,,0000,0000,0000,,Next episode, "Invasion of the Capital."

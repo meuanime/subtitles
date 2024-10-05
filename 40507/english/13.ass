@@ -1,0 +1,309 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top Italic,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:49.27,0:01:50.48,Default,,0000,0000,0000,,Hajime-{\i1}kun{\i0}!
+Dialogue: 0,0:01:57.86,0:02:00.16,Default,,0000,0000,0000,,Kaori is so caring.
+Dialogue: 0,0:02:00.16,0:02:04.29,Default,,0000,0000,0000,,It seems she simply can't look away\Nwhen it comes to illness and injury.
+Dialogue: 0,0:02:04.29,0:02:06.50,Default,,0000,0000,0000,,I'm so impressed, Kaori-{\i1}san{\i0}!
+Dialogue: 0,0:02:06.50,0:02:08.87,Default,,0000,0000,0000,,Big Sister Kaori is so nice!
+Dialogue: 0,0:02:12.42,0:02:14.55,Default,,0000,0000,0000,,She's a healer. It's natural.
+Dialogue: 0,0:02:14.55,0:02:20.26,Default,,0000,0000,0000,,Oh, if only I could\Nuse magic like Kaori-{\i1}san{\i0}!
+Dialogue: 0,0:02:22.72,0:02:24.76,Default,,0000,0000,0000,,Wh-What?
+Dialogue: 0,0:02:29.44,0:02:30.98,Default,,0000,0000,0000,,Tips on how to use magic?
+Dialogue: 0,0:02:30.98,0:02:35.36,Default,,0000,0000,0000,,Yes. If I get tips from Yue-{\i1}san{\i0}, a genius,
+Dialogue: 0,0:02:35.36,0:02:39.90,Default,,0000,0000,0000,,even I, a person with\Nzero aptitude for magic,
+Dialogue: 0,0:02:39.90,0:02:43.16,Default,,0000,0000,0000,,might be able to use a magic or two!
+Dialogue: 0,0:02:44.03,0:02:48.58,Default,,0000,0000,0000,,Sure. Fine. I'll teach you. The more cards\Nwe have up our sleeves, the better.
+Dialogue: 0,0:02:48.58,0:02:54.79,Default,,0000,0000,0000,,Wow, really?! I'm so glad,\NYue-{\i1}san{\i0}! Thank you!
+Dialogue: 0,0:02:54.79,0:02:58.13,Default,,0000,0000,0000,,I'm finally going to make my magic debut!
+Dialogue: 0,0:02:58.13,0:03:02.80,Default,,0000,0000,0000,,Yue teaching magic?\NThat sounds interesting.
+Dialogue: 0,0:03:02.80,0:03:05.26,Default,,0000,0000,0000,,Yue, may I listen in?
+Dialogue: 0,0:03:05.26,0:03:06.68,Default,,0000,0000,0000,,Myu too!
+Dialogue: 0,0:03:06.68,0:03:11.90,Default,,0000,0000,0000,,I don't mind.\NMe, teaching a dragonborn...
+Dialogue: 0,0:03:11.90,0:03:14.06,Default,,0000,0000,0000,,It's an emotional moment.
+Dialogue: 0,0:03:14.06,0:03:16.57,Default,,0000,0000,0000,,Won't you join us, Master?
+Dialogue: 0,0:03:16.57,0:03:18.07,Default,,0000,0000,0000,,I'll pass.
+Dialogue: 0,0:03:18.07,0:03:19.57,Default,,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:03:19.57,0:03:27.49,Default,,0000,0000,0000,,Hajime-{\i1}san{\i0}, are you afraid\Nyou won't be able to perform?
+Dialogue: 0,0:03:27.49,0:03:29.91,Default,,0000,0000,0000,,No, that's not it.
+Dialogue: 0,0:03:29.91,0:03:33.50,Default,,0000,0000,0000,,Then let's take the lesson together!
+Dialogue: 0,0:03:33.50,0:03:34.92,Default,,0000,0000,0000,,Papa too!
+Dialogue: 0,0:03:34.92,0:03:39.80,Default,,0000,0000,0000,,I'll pass. In fact,\NI'd recommend you all pass as well.
+Dialogue: 0,0:03:41.01,0:03:43.51,Default,,0000,0000,0000,,I'm saying this to help you. Don't do it.
+Dialogue: 0,0:03:43.51,0:03:47.64,Default,,0000,0000,0000,,That's terrible, Hajime.\NYou think I'm useless?
+Dialogue: 0,0:03:47.64,0:03:50.52,Default,,0000,0000,0000,,Not everyone can be good at everything.
+Dialogue: 0,0:03:50.52,0:03:56.86,Default,,0000,0000,0000,,What? Hajime-{\i1}san{\i0}, there can't be anyone\Nmore suited to teaching magic than Yue.
+Dialogue: 0,0:03:57.61,0:04:03.86,Default,,0000,0000,0000,,I've lived a long life, but I've never\Nseen anyone with such high skills.
+Dialogue: 0,0:04:03.86,0:04:06.49,Default,,0000,0000,0000,,I think Yue is the\Nbest teacher there could be.
+Dialogue: 0,0:04:07.62,0:04:08.91,Default,,0000,0000,0000,,Papa!
+Dialogue: 0,0:04:08.91,0:04:10.58,Default,,0000,0000,0000,,Hajime!
+Dialogue: 0,0:04:13.42,0:04:15.58,Default,,0000,0000,0000,,I warned you.
+Dialogue: 0,0:04:22.13,0:04:27.30,Default,,0000,0000,0000,,So this is where you go, "gyum"
+Dialogue: 0,0:04:27.30,0:04:29.97,Default,,0000,0000,0000,,with the magic, and it goes, "rum rum"!
+Dialogue: 0,0:04:29.97,0:04:35.23,Default,,0000,0000,0000,,Now all you have to do is do\Nthe "grr," and, soy! That's all.
+Dialogue: 0,0:04:38.06,0:04:40.11,Default,,0000,0000,0000,,See, so simple.
+Dialogue: 0,0:04:40.11,0:04:42.07,Default,,0000,0000,0000,,I see. I don't see.
+Dialogue: 0,0:04:42.90,0:04:44.53,Default,,0000,0000,0000,,What's "gyum"?
+Dialogue: 0,0:04:44.53,0:04:46.66,Default,,0000,0000,0000,,What do you mean by "rum rum"?
+Dialogue: 0,0:04:46.66,0:04:51.66,Default,,0000,0000,0000,,That's where the magic power\Ngoes from a "squeeze" state
+Dialogue: 0,0:04:51.66,0:04:55.17,Default,,0000,0000,0000,,to a "shoop" state,
+Dialogue: 0,0:04:55.17,0:05:00.55,Default,,0000,0000,0000,,which necessarily means\Nthat it will go "kwah" next.
+Dialogue: 0,0:05:00.55,0:05:06.22,Default,,0000,0000,0000,,That makes no sense! How much\Nmeaning are you putting into "gyum"?!
+Dialogue: 0,0:05:07.93,0:05:12.27,Default,,0000,0000,0000,,Please teach us in a\Nlanguage we understand!
+Dialogue: 0,0:05:12.27,0:05:13.43,Default,,0000,0000,0000,,Myu!
+Dialogue: 0,0:05:13.43,0:05:15.02,Default,,0000,0000,0000,,Hmm.
+Dialogue: 0,0:05:15.02,0:05:20.90,Default,,0000,0000,0000,,Yue, we would like an explanation\Nthat's more theoretical.
+Dialogue: 0,0:05:22.36,0:05:28.57,Default,,0000,0000,0000,,The "gyum" state is the state where\Nthe magic acceleration ratio is 2.25 times
+Dialogue: 0,0:05:28.57,0:05:32.45,Default,,0000,0000,0000,,the flat state, which can fluctuate\Nbetween 2.25 and 2.277 depending
+Dialogue: 0,0:05:32.45,0:05:35.41,Default,,0000,0000,0000,,on the attribute and element of the magic.
+Dialogue: 0,0:05:35.41,0:05:39.92,Default,,0000,0000,0000,,By applying a resistance\Nto this at a factor of 3.95,
+Dialogue: 0,0:05:39.92,0:05:42.59,Default,,0000,0000,0000,,you can almost automatically\Nachieve the final values for the
+Dialogue: 0,0:05:42.59,0:05:44.34,Default,,0000,0000,0000,,focus ratio and the\Nfluctuation post-liberation...
+Dialogue: 0,0:05:44.34,0:05:46.59,Default,,0000,0000,0000,,In human language, please!
+Dialogue: 0,0:05:48.30,0:05:50.55,Default,,0000,0000,0000,,That's why I gave you\Na simple explanation,
+Dialogue: 0,0:05:50.55,0:05:53.39,Default,,0000,0000,0000,,to let you grasp it naturally.
+Dialogue: 0,0:05:53.39,0:05:55.77,Default,,0000,0000,0000,,Why don't you understand?
+Dialogue: 0,0:05:55.77,0:05:56.89,Default,,0000,0000,0000,,Myu...
+Dialogue: 0,0:06:01.77,0:06:04.78,Default,,0000,0000,0000,,A-Am I just stupid?
+Dialogue: 0,0:06:04.78,0:06:09.11,Default,,0000,0000,0000,,Am I a shameful idiot,\Nthinking I'm good at magic
+Dialogue: 0,0:06:09.11,0:06:11.95,Default,,0000,0000,0000,,even though I don't even\Nunderstand the basics?
+Dialogue: 0,0:06:11.95,0:06:14.37,Default,,0000,0000,0000,,Big Sister Tio, are you all right?
+Dialogue: 0,0:06:15.70,0:06:19.46,Default,,0000,0000,0000,,Tio-{\i1}san{\i0}'s pride is already\Nclose to being destroyed!
+Dialogue: 0,0:06:19.46,0:06:24.80,Default,,0000,0000,0000,,Only practice makes perfect. Don't worry,\Ndo as I say, and you'll be fine.
+Dialogue: 0,0:06:24.80,0:06:28.38,Default,,0000,0000,0000,,Get up. Now get up. Hurry and get up.
+Dialogue: 0,0:06:28.38,0:06:31.09,Default,,0000,0000,0000,,Come on, repeat after me.
+Dialogue: 0,0:06:31.09,0:06:34.76,Default,,0000,0000,0000,,Gyum! Bar bar bar! Soy!
+Dialogue: 0,0:06:34.76,0:06:38.18,Default,,0000,0000,0000,,It's different from what you said before!
+Dialogue: 0,0:06:38.18,0:06:42.90,Default,,0000,0000,0000,,Come on, show me your gyum!\NHurry up with the gyum! Come on, come on!
+Dialogue: 0,0:06:42.90,0:06:44.48,Default,,0000,0000,0000,,Now!
+Dialogue: 0,0:06:44.48,0:06:45.61,Default,,0000,0000,0000,,And gyum!
+Dialogue: 0,0:06:45.61,0:06:47.07,Default,,0000,0000,0000,,Gyum?
+Dialogue: 0,0:06:49.03,0:06:53.87,Default,,0000,0000,0000,,--G-Gyum...\N--G-Gyum...
+Dialogue: 0,0:06:54.62,0:06:55.49,Default,,0000,0000,0000,,Gyum!
+Dialogue: 0,0:06:55.49,0:06:57.20,Default,,0000,0000,0000,,Then, rum rum!
+Dialogue: 0,0:06:57.20,0:07:00.21,Default,,0000,0000,0000,,--Rum rum.\N--Rum rum.
+Dialogue: 0,0:07:00.21,0:07:03.13,Default,,0000,0000,0000,,And now with emotion, soy!
+Dialogue: 0,0:07:03.13,0:07:06.42,Default,,0000,0000,0000,,--Soy!\N--Soy!
+Dialogue: 0,0:07:06.42,0:07:09.05,Default,,0000,0000,0000,,That's why I said don't do it.
+Dialogue: 0,0:07:09.05,0:07:12.80,Default,,0000,0000,0000,,I speak from experience\Nwhen I give these warnings.
+Dialogue: 0,0:07:14.93,0:07:18.27,Default,,0000,0000,0000,,Shea, Tio, stand up. Come on, get up.
+Dialogue: 0,0:07:18.27,0:07:22.19,Default,,0000,0000,0000,,I've finished healing! What's going on?
+Dialogue: 0,0:07:22.19,0:07:24.61,Default,,0000,0000,0000,,Nothing to do with you.
+Dialogue: 0,0:07:24.61,0:07:28.86,Default,,0000,0000,0000,,Yue-{\i1}san {\i0}was teaching us\Nhow to use magic...
+Dialogue: 0,0:07:28.86,0:07:32.41,Default,,0000,0000,0000,,What?! Hey, I want to learn, too!
+Dialogue: 0,0:07:32.41,0:07:36.87,Default,,0000,0000,0000,,Kaori-{\i1}san{\i0}, I have to warn you.\NPlease don't.
+Dialogue: 0,0:07:36.87,0:07:38.58,Default,,0000,0000,0000,,Huh? Why?
+Dialogue: 0,0:07:38.58,0:07:40.91,Default,,0000,0000,0000,,The reason is...
+Dialogue: 0,0:07:40.91,0:07:45.29,Default,,0000,0000,0000,,...Yue-{\i1}san {\i0}has zero talent in teaching!
+Dialogue: 0,0:07:46.09,0:07:48.71,Default,,0000,0000,0000,,Also, she's a genius when it\Ncomes to shattering a person's will!
+Dialogue: 0,0:07:52.59,0:07:58.26,Default,,0000,0000,0000,,Kaori, if you want to learn, ask Tio.\NShe's a good teacher.
+Dialogue: 0,0:08:00.64,0:08:02.19,Default,,0000,0000,0000,,Idiot.
+Dialogue: 0,0:08:04.06,0:08:06.06,Default,,0000,0000,0000,,Yue-{\i1}sensei{\i0}!
+Dialogue: 0,0:08:06.06,0:08:07.32,Default,,0000,0000,0000,,Perish, Kaori.
+Dialogue: 0,0:08:07.32,0:08:12.57,Default,,0000,0000,0000,,Aww, don't be so mean. That's why\Npeople say you have no teaching talent
+Dialogue: 0,0:08:12.57,0:08:16.70,Default,,0000,0000,0000,,and you're a genius when it comes\Nto shattering a person's will.
+Dialogue: 0,0:08:16.70,0:08:22.87,Default,,0000,0000,0000,,Try teaching me. Oh, I know! Teach me\Nthat one defense magic, "Herem"!
+Dialogue: 0,0:08:22.87,0:08:24.50,Default,,0000,0000,0000,,Please? Please?
+Dialogue: 0,0:08:25.63,0:08:28.75,Default,,0000,0000,0000,,You're just going to say it makes\Nno sense and laugh at me...
+Dialogue: 0,0:08:30.26,0:08:32.42,Default,,0000,0000,0000,,First, you grab.
+Dialogue: 0,0:08:32.42,0:08:38.81,Default,,0000,0000,0000,,Then you wiggle wiggle,\Nthen it'll go shoop, so finally, soy.
+Dialogue: 0,0:08:40.22,0:08:42.39,Default,,0000,0000,0000,,Let's see...
+Dialogue: 0,0:08:42.39,0:08:46.86,Default,,0000,0000,0000,,Grab... Wiggle wiggle...
+Dialogue: 0,0:08:46.86,0:08:50.53,Default,,0000,0000,0000,,Oh, it went shoop! Then, soy!
+Dialogue: 0,0:08:54.15,0:08:56.61,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:08:58.12,0:09:00.74,Default,,0000,0000,0000,,Big Sister Kaori, you're awesome!
+Dialogue: 0,0:09:00.74,0:09:06.21,Default,,0000,0000,0000,,Yue isn't a bad teacher.\NI got the hang of it super fast.
+Dialogue: 0,0:09:06.21,0:09:09.38,Default,,0000,0000,0000,,R-Really?! You got it?!
+Dialogue: 0,0:09:09.38,0:09:10.71,Default,,0000,0000,0000,,Of course!
+Dialogue: 0,0:09:10.71,0:09:16.34,Default,,0000,0000,0000,,Grab, wiggle wiggle, shoop, and soy!
+Dialogue: 0,0:09:17.72,0:09:20.39,Default,,0000,0000,0000,,--Precisely!\N--Precisely!
+Dialogue: 0,0:09:20.39,0:09:23.56,Default,,0000,0000,0000,,Come on! Shea, Tio, stand up!
+Dialogue: 0,0:09:23.56,0:09:25.44,Default,,0000,0000,0000,,Stand up!
+Dialogue: 0,0:09:27.48,0:09:29.61,Default,,0000,0000,0000,,Repeat after me!
+Dialogue: 0,0:09:29.61,0:09:32.98,Default,,0000,0000,0000,,Grab, wiggle wiggle, shoop, and soy!
+Dialogue: 0,0:09:32.98,0:09:36.95,Default,,0000,0000,0000,,Come on, repeat it! Grab! Grab! Come on!
+Dialogue: 0,0:09:36.95,0:09:38.20,Default,,0000,0000,0000,,Grab!
+Dialogue: 0,0:09:38.57,0:09:40.62,Default,,0000,0000,0000,,G-Grab...
+Dialogue: 0,0:09:40.62,0:09:41.70,Default,,0000,0000,0000,,Grab!
+Dialogue: 0,0:09:45.33,0:09:49.96,Default,,0000,0000,0000,,Grab! Wiggle wiggle! Shoop and soy!
+Dialogue: 0,0:09:49.96,0:09:54.38,Default,,0000,0000,0000,,Soy, soy, soy!
+Dialogue: 0,0:09:54.38,0:09:59.05,Default,,0000,0000,0000,,M-Myu, let's not do that right now.
+Dialogue: 0,0:10:02.35,0:10:06.48,Default,,0000,0000,0000,,This town sure is active.
+Dialogue: 0,0:10:06.48,0:10:10.73,Default,,0000,0000,0000,,So many clothes!\NI've never seen anything like this!
+Dialogue: 0,0:10:10.73,0:10:16.24,Default,,0000,0000,0000,,This town specializes in dyed textiles.\NThe citizens wear colorful outfits, too.
+Dialogue: 0,0:10:16.24,0:10:18.86,Default,,0000,0000,0000,,Yes. The craftsmen seem very skilled, too.
+Dialogue: 0,0:10:18.86,0:10:21.07,Default,,0000,0000,0000,,Yes, it's very impressive.
+Dialogue: 0,0:10:21.07,0:10:22.91,Default,,0000,0000,0000,,I'm glad we took this detour.
+Dialogue: 0,0:10:23.62,0:10:24.74,Default,,0000,0000,0000,,Hey, Myu.
+Dialogue: 0,0:10:24.74,0:10:25.75,Default,,0000,0000,0000,,Myu?
+Dialogue: 0,0:10:25.75,0:10:30.71,Default,,0000,0000,0000,,What kind of clothes\Ndo merfolk usually wear?
+Dialogue: 0,0:10:30.71,0:10:32.38,Default,,0000,0000,0000,,We mostly take them off!
+Dialogue: 0,0:10:32.38,0:10:35.34,Default,,0000,0000,0000,,What?! Nudists?!
+Dialogue: 0,0:10:35.34,0:10:37.05,Default,,0000,0000,0000,,Oh?
+Dialogue: 0,0:10:37.05,0:10:39.59,Default,,0000,0000,0000,,--That's quite bold.\N--Oh, nudists...
+Dialogue: 0,0:10:39.59,0:10:42.93,Default,,0000,0000,0000,,I might not be able to live in Erisen...
+Dialogue: 0,0:10:42.93,0:10:46.06,Default,,0000,0000,0000,,All right, Hajime, so should\Nyou and I live in Erisen with Myu?
+Dialogue: 0,0:10:46.06,0:10:47.64,Default,,0000,0000,0000,,Just the three of us?
+Dialogue: 0,0:10:47.64,0:10:51.48,Default,,0000,0000,0000,,Wh-What?! I'll live with you!
+Dialogue: 0,0:10:51.48,0:10:52.77,Default,,0000,0000,0000,,Me too!
+Dialogue: 0,0:10:52.77,0:10:54.44,Default,,0000,0000,0000,,Me also!
+Dialogue: 0,0:10:54.44,0:10:56.23,Default,,0000,0000,0000,,You guys...
+Dialogue: 0,0:10:57.07,0:10:58.36,Default,,0000,0000,0000,,Wow!
+Dialogue: 0,0:11:02.20,0:11:05.33,Default,,0000,0000,0000,,Myu, is there anything here that you want?
+Dialogue: 0,0:11:05.33,0:11:06.33,Default,,0000,0000,0000,,Papa?
+Dialogue: 0,0:11:06.33,0:11:10.33,Default,,0000,0000,0000,,Since we're here, I'll buy you one,\Nif you have a favorite.
+Dialogue: 0,0:11:10.33,0:11:11.62,Default,,0000,0000,0000,,Really?!
+Dialogue: 0,0:11:13.25,0:11:14.59,Default,,0000,0000,0000,,Wow!
+Dialogue: 0,0:11:14.59,0:11:16.76,Default,,0000,0000,0000,,Pick whatever you want.
+Dialogue: 0,0:11:16.76,0:11:20.01,Default,,0000,0000,0000,,Umm, hmm...
+Dialogue: 0,0:11:20.97,0:11:23.64,Default,,0000,0000,0000,,Y-You all can buy your own!
+Dialogue: 0,0:11:23.64,0:11:26.39,Default,,0000,0000,0000,,Hajime, that's not the issue.
+Dialogue: 0,0:11:27.81,0:11:29.89,Default,,0000,0000,0000,,What is it, Myu?
+Dialogue: 0,0:11:29.89,0:11:34.31,Default,,0000,0000,0000,,I want Big Sister Yue's clothes!\NI want to try them!
+Dialogue: 0,0:11:34.31,0:11:35.77,Default,,0000,0000,0000,,Mine?
+Dialogue: 0,0:11:35.77,0:11:37.15,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:11:37.15,0:11:41.07,Default,,0000,0000,0000,,But Myu, there are so many\Ncuter outfits out there.
+Dialogue: 0,0:11:41.07,0:11:45.62,Default,,0000,0000,0000,,You know, Big Sister Yue\Nis the coolest big sister!
+Dialogue: 0,0:11:45.62,0:11:47.12,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:11:47.12,0:11:53.46,Default,,0000,0000,0000,,When you use magic, when you're\Nfighting next to Papa, you're so cool!
+Dialogue: 0,0:11:53.46,0:11:55.88,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:11:55.88,0:11:59.92,Default,,0000,0000,0000,,I'm Papa's daughter, but I'm weak.
+Dialogue: 0,0:11:59.92,0:12:06.60,Default,,0000,0000,0000,,So I want to be like Big Sister Yue,\Nso I can be a little bit stronger!
+Dialogue: 0,0:12:06.60,0:12:09.14,Default,,0000,0000,0000,,Myu...
+Dialogue: 0,0:12:09.14,0:12:12.48,Default,,0000,0000,0000,,M-Myu is such an angel, I can't hold back.
+Dialogue: 0,0:12:13.98,0:12:20.03,Default,,0000,0000,0000,,Myu-{\i1}chan{\i0}! Aren't I cool?! I can pulverize\Nany enemy with a single blow!
+Dialogue: 0,0:12:20.03,0:12:23.28,Default,,0000,0000,0000,,I mass produce meat chunks!
+Dialogue: 0,0:12:23.28,0:12:27.66,Default,,0000,0000,0000,,Myu-{\i1}chan{\i0}! Big Sister Kaori is also\Nreally good at binding enemies!
+Dialogue: 0,0:12:27.66,0:12:30.70,Default,,0000,0000,0000,,Wanna see my rapid-fire\NBinding Blades of Light?!
+Dialogue: 0,0:12:31.50,0:12:38.29,Default,,0000,0000,0000,,I'll show you my breath attack!\NYour eyes will twinkle at my coolness!
+Dialogue: 0,0:12:43.51,0:12:45.80,Default,,0000,0000,0000,,Big sisters...
+Dialogue: 0,0:12:45.80,0:12:51.85,Default,,0000,0000,0000,,Big Sister Shea, you're not cool.\NYou're more like... Sloppy.
+Dialogue: 0,0:12:53.06,0:12:57.90,Default,,0000,0000,0000,,Big Sister Kaori is... Um... A bit weak.
+Dialogue: 0,0:12:57.90,0:12:59.36,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:12:59.36,0:13:02.86,Default,,0000,0000,0000,,Big Sister Tio, you're okay.
+Dialogue: 0,0:13:02.86,0:13:05.61,Default,,0000,0000,0000,,What does that mean?!
+Dialogue: 0,0:13:08.28,0:13:12.04,Default,,0000,0000,0000,,Oh no, that's totally over the line.
+Dialogue: 0,0:13:12.04,0:13:16.21,Default,,0000,0000,0000,,Yue? What kind of attitude is that? Hmm?
+Dialogue: 0,0:13:17.63,0:13:22.80,Default,,0000,0000,0000,,It seems like someone needs to learn\Nwhat it means to cross a dragon.
+Dialogue: 0,0:13:27.93,0:13:33.56,Default,,0000,0000,0000,,I think all of your clothes are great,
+Dialogue: 0,0:13:33.56,0:13:36.31,Default,,0000,0000,0000,,Big Sisters Shea, Tio and Kaori!
+Dialogue: 0,0:13:37.27,0:13:39.86,Default,,0000,0000,0000,,So, um...
+Dialogue: 0,0:13:39.86,0:13:43.82,Default,,0000,0000,0000,,Yes! Let's trade clothes!
+Dialogue: 0,0:13:43.82,0:13:45.49,Default,,0000,0000,0000,,Trade clothes?
+Dialogue: 0,0:13:45.49,0:13:49.70,Default,,0000,0000,0000,,That's right! If we trade clothes,\Nwe can all wear each other's clothes!
+Dialogue: 0,0:13:49.70,0:13:52.20,Default,,0000,0000,0000,,It'll be fun!
+Dialogue: 0,0:13:53.91,0:13:58.00,Default,,0000,0000,0000,,Why not go along with Myu's suggestion?
+Dialogue: 0,0:13:58.00,0:14:01.42,Default,,0000,0000,0000,,Draw straws or something\Nand pick randomly.
+Dialogue: 0,0:14:01.42,0:14:02.84,Default,,0000,0000,0000,,--Hajime.\N--Hajime-{\i1}san{\i0}.\N--Hajime-{\i1}kun{\i0}.\N--Master.
+Dialogue: 0,0:14:02.84,0:14:08.76,Default,,0000,0000,0000,,I'm sure you can get a quick size\Nadjustment done anywhere in this town.
+Dialogue: 0,0:14:10.35,0:14:12.39,Default,,0000,0000,0000,,It's decided!
+Dialogue: 0,0:14:17.69,0:14:20.23,Default,,0000,0000,0000,,Papa! Look, look!
+Dialogue: 0,0:14:20.23,0:14:21.86,Default,,0000,0000,0000,,Oh?
+Dialogue: 0,0:14:27.11,0:14:31.28,Default,,0000,0000,0000,,That's good, Myu.\NYou look a bit more adult.
+Dialogue: 0,0:14:32.58,0:14:35.50,Default,,0000,0000,0000,,Myu, you can't open so suddenly.
+Dialogue: 0,0:14:49.18,0:14:51.30,Default,,0000,0000,0000,,Big Sister Yue, you're so pretty!
+Dialogue: 0,0:14:51.30,0:14:52.76,Default,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:14:56.39,0:15:02.31,Default,,0000,0000,0000,,I've never worn anything like\Nthis before. This is a new feeling.
+Dialogue: 0,0:15:05.11,0:15:11.20,Default,,0000,0000,0000,,Kaori-{\i1}san{\i0}'s outfit has so many layers,\Nit's hard to move around in this.
+Dialogue: 0,0:15:11.20,0:15:13.95,Default,,0000,0000,0000,,You look good, Tio.
+Dialogue: 0,0:15:16.16,0:15:18.41,Default,,0000,0000,0000,,And you too, Shea.
+Dialogue: 0,0:15:18.41,0:15:20.58,Default,,0000,0000,0000,,Thank you!
+Dialogue: 0,0:15:20.58,0:15:24.00,Default,,0000,0000,0000,,Big Sisters Tio and Shea, so cute!
+Dialogue: 0,0:15:26.96,0:15:29.17,Default,,0000,0000,0000,,What about Kaori? Where is she?
+Dialogue: 0,0:15:29.17,0:15:31.43,Default,,0000,0000,0000,,I'll drag her out.
+Dialogue: 0,0:15:32.39,0:15:33.51,Default,,0000,0000,0000,,Yue?
+Dialogue: 0,0:15:34.72,0:15:39.39,Default,,0000,0000,0000,,No! Shea's outfit is impossible!\NThere's not enough clothing!
+Dialogue: 0,0:15:39.39,0:15:41.69,Default,,0000,0000,0000,,Don't be like that! Don't be like that!
+Dialogue: 0,0:15:41.69,0:15:44.40,Default,,0000,0000,0000,,I can't! I can't!
+Dialogue: 0,0:15:44.40,0:15:46.82,Default,,0000,0000,0000,,Don't be like that!
+Dialogue: 0,0:15:58.58,0:16:03.96,Default,,0000,0000,0000,,This is too revealing...\NHajime-{\i1}kun{\i0}, please don't stare...
+Dialogue: 0,0:16:28.44,0:16:32.28,Default,,0000,0000,0000,,A merfolk girl curled up like a kitten,\Nthe cuteness is off the charts...
+Dialogue: 0,0:16:32.28,0:16:34.49,Default,,0000,0000,0000,,Let's pet her.
+Dialogue: 0,0:16:36.95,0:16:43.83,Default,,0000,0000,0000,,I shall pet her using my extreme petting\Nskills, taking care not to wake her!
+Dialogue: 0,0:16:47.75,0:16:51.51,Default,,0000,0000,0000,,Oh, I couldn't hold it in.
+Dialogue: 0,0:16:52.22,0:16:56.55,Default,,0000,0000,0000,,What a terrifying skill...\NThis one is good.
+Dialogue: 0,0:16:59.47,0:17:02.93,Default,,0000,0000,0000,,Yue-{\i1}san{\i0}, your face is in a mess.
+Dialogue: 0,0:17:02.93,0:17:05.02,Default,,0000,0000,0000,,You've gone too soft,\Nyou've basically melted.
+Dialogue: 0,0:17:05.02,0:17:07.94,Default,,0000,0000,0000,,You look a bit like a dangerous pervert.
+Dialogue: 0,0:17:07.94,0:17:12.36,Default,,0000,0000,0000,,An actual pervert called me a dangerous\Npervert... The shame is unbearable.
+Dialogue: 0,0:17:14.40,0:17:19.12,Default,,0000,0000,0000,,So priceless. Priceless to the max.
+Dialogue: 0,0:17:19.12,0:17:25.12,Default,,0000,0000,0000,,Hajime occasionally uses\Nstrange wording. To the max? What?
+Dialogue: 0,0:17:26.58,0:17:29.34,Default,,0000,0000,0000,,Well, anyway...
+Dialogue: 0,0:17:29.34,0:17:33.51,Default,,0000,0000,0000,,She did say yesterday that\NI'm the coolest big sister today, but...
+Dialogue: 0,0:17:33.51,0:17:39.60,Default,,0000,0000,0000,,I have one gripe. She won't call me mama.
+Dialogue: 0,0:17:39.60,0:17:40.51,Default,,0000,0000,0000,,Why?
+Dialogue: 0,0:17:40.51,0:17:43.18,Default,,0000,0000,0000,,Why not, Myu?!
+Dialogue: 0,0:17:43.18,0:17:49.19,Default,,0000,0000,0000,,I suppose, for Myu, her real mother\Nis her mama. That's fine. But...
+Dialogue: 0,0:17:49.19,0:17:55.53,Default,,0000,0000,0000,,But Yue-{\i1}san {\i0}thinks you can\Nhave more than one mama!
+Dialogue: 0,0:17:55.53,0:17:59.57,Default,,0000,0000,0000,,--In fact, having two mamas,\Nthat's a great deal!\N--Haha, mama and mama.
+Dialogue: 0,0:17:59.57,0:18:04.37,Default,,0000,0000,0000,,Um, Yue-{\i1}san{\i0}, this isn't\Na buy-one-get-one-free deal.
+Dialogue: 0,0:18:04.37,0:18:07.87,Default,,0000,0000,0000,,Your inner voice is leaking a whole lot.
+Dialogue: 0,0:18:07.87,0:18:09.71,Default,,0000,0000,0000,,You woke Myu-{\i1}chan{\i0}.
+Dialogue: 0,0:18:10.79,0:18:13.25,Default,,0000,0000,0000,,What...?!
+Dialogue: 0,0:18:15.47,0:18:16.55,Default,,0000,0000,0000,,Myu.
+Dialogue: 0,0:18:16.55,0:18:18.97,Default,,0000,0000,0000,,Y-Yes.
+Dialogue: 0,0:18:18.97,0:18:25.18,Default,,0000,0000,0000,,Don't worry. Big Sister Yue\Nis quite satisfactory. Like, a lot.
+Dialogue: 0,0:18:27.35,0:18:32.86,Default,,0000,0000,0000,,This is unbearable. This ranks in\Nthe worst three moments of my life.
+Dialogue: 0,0:18:32.86,0:18:34.98,Default,,0000,0000,0000,,I want to find an abyss and hide in it.
+Dialogue: 0,0:18:35.86,0:18:41.87,Default,,0000,0000,0000,,I think this is what mama would do.
+Dialogue: 0,0:18:41.87,0:18:42.91,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:42.91,0:18:45.50,Default,,0000,0000,0000,,Big Sister Yue, I love you.
+Dialogue: 0,0:18:46.96,0:18:52.29,Default,,0000,0000,0000,,You're so strong and\Ncool and pretty and nice.
+Dialogue: 0,0:18:52.29,0:18:54.42,Default,,0000,0000,0000,,M-Myu...
+Dialogue: 0,0:18:54.42,0:18:57.92,Default,,0000,0000,0000,,What is this?
+Dialogue: 0,0:18:57.92,0:19:01.85,Default,,0000,0000,0000,,This comfort, it's like\Nbeing held by a mother!
+Dialogue: 0,0:19:01.85,0:19:06.14,Default,,0000,0000,0000,,Oh, my energy is being drained...
+Dialogue: 0,0:19:06.14,0:19:11.73,Default,,0000,0000,0000,,If I had a mama like Big Sister Yue,\Nit would be awesome.
+Dialogue: 0,0:19:11.73,0:19:17.32,Default,,0000,0000,0000,,But I already have a mama,\Nand she is my only mama.
+Dialogue: 0,0:19:18.65,0:19:22.32,Default,,0000,0000,0000,,But I don't have a big sister, so...
+Dialogue: 0,0:19:26.58,0:19:29.87,Default,,0000,0000,0000,,Yes. Yue-{\i1}san {\i0}will be your big sister.
+Dialogue: 0,0:19:32.75,0:19:35.05,Default,,0000,0000,0000,,I am your big sister.
+Dialogue: 0,0:19:35.67,0:19:39.17,Default,,0000,0000,0000,,Thank you, Big Sister Yue.
+Dialogue: 0,0:19:39.88,0:19:45.14,Default,,0000,0000,0000,,Oh, Myu is petting me.\NWhat a healing experience!
+Dialogue: 0,0:19:45.14,0:19:47.52,Default,,0000,0000,0000,,Glory to the big sister!
+Dialogue: 0,0:19:47.52,0:19:49.77,Default,,0000,0000,0000,,She melted Yue?!
+Dialogue: 0,0:19:49.77,0:19:52.56,Default,,0000,0000,0000,,Myu-{\i1}chan{\i0}, her talents are terrifying.
+Dialogue: 0,0:19:52.56,0:19:57.86,Default,,0000,0000,0000,,I feel a motherly presence from Myu?\NAnd did Yue regress to an infantile state?
+Dialogue: 0,0:19:59.03,0:20:04.78,Default,,0000,0000,0000,,Impossible. The phenomenon\Nhappened between Myu and Yue.
+Dialogue: 0,0:20:04.78,0:20:08.50,Default,,0000,0000,0000,,Do you know about this, Master?!
+Dialogue: 0,0:20:08.50,0:20:11.58,Default,,0000,0000,0000,,Let me explain.\NIn my world, this is called
+Dialogue: 0,0:20:11.58,0:20:14.17,Default,,0000,0000,0000,,"feeling the Babumi and going Ogya."
+Dialogue: 0,0:20:14.17,0:20:15.79,Default,,0000,0000,0000,,What does that mean?
+Dialogue: 0,0:20:15.79,0:20:19.92,Default,,0000,0000,0000,,What happened to Yue and Myu-{\i1}chan{\i0}?!
+Dialogue: 0,0:20:19.92,0:20:25.80,Default,,0000,0000,0000,,To put bluntly, Myu's motherly nature\Nand kindness is making Yue
+Dialogue: 0,0:20:25.80,0:20:29.39,Default,,0000,0000,0000,,want to cuddle up like a baby!
+Dialogue: 0,0:20:31.60,0:20:35.23,Default,,0000,0000,0000,,So priceless... So endlessly priceless!
+Dialogue: 0,0:20:35.23,0:20:38.02,Default,,0000,0000,0000,,Reversing the roles, also priceless!
+Dialogue: 0,0:20:38.02,0:20:42.86,Default,,0000,0000,0000,,--I am observing our master's breakdown.\N--Priceless... Priceless... So priceless!
+Dialogue: 0,0:20:42.86,0:20:49.37,Default,,0000,0000,0000,,--I guess Hajime-{\i1}san {\i0}does have\Nthe tendency to lose control around Yue.\N--Priceless... Priceless... So priceless!
+Dialogue: 0,0:20:49.37,0:20:53.75,Default,,0000,0000,0000,,Yue goes from a full-on motherly\Npresence to infantile regression.
+Dialogue: 0,0:20:53.75,0:20:59.92,Default,,0000,0000,0000,,In turn, Myu-{\i1}chan {\i0}has\Na full-on motherly presence...
+Dialogue: 0,0:20:59.92,0:21:05.64,Default,,0000,0000,0000,,I see. Not even Master could\Nwithstand this destructive force.
+Dialogue: 0,0:21:06.93,0:21:12.35,Default,,0000,0000,0000,,I accept the logic behind being a big\Nsister, but motherhood is still enticing.
+Dialogue: 0,0:21:12.35,0:21:15.06,Default,,0000,0000,0000,,If I can't be Myu's mama...
+Dialogue: 0,0:21:17.90,0:21:22.53,Default,,0000,0000,0000,,I'd like to circle back on the\Nidea of having my own baby...
+Dialogue: 0,0:21:22.53,0:21:24.45,Default,,0000,0000,0000,,The journey still continues.
+Dialogue: 0,0:21:24.45,0:21:31.45,Default,,0000,0000,0000,,I can't assault... I mean, start my happy\Nfamily plan with Hajime right now.
+Dialogue: 0,0:21:31.45,0:21:33.91,Default,,0000,0000,0000,,I have enough self-control\Nto understand that.
+Dialogue: 0,0:21:33.91,0:21:40.42,Default,,0000,0000,0000,,But then, I can't keep bothering\NMyu like this. Hmm...
+Dialogue: 0,0:21:41.05,0:21:42.26,Default,,0000,0000,0000,,Hajime.
+Dialogue: 0,0:21:44.76,0:21:46.05,Default,,0000,0000,0000,,You want to go Ogya?
+Dialogue: 0,0:21:51.10,0:21:55.98,Default,,0000,0000,0000,,You want me to be the baby?!\NThat's not how I roll!
