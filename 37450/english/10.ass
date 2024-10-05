@@ -1,0 +1,421 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0020,0
+Style: Title,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0030,0030,0060,0
+Style: Title2,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0030,0030,0060,0
+Style: Next Title,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0020,0040,0120,0
+Style: RightSign,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0300,0020,0080,0
+Style: LeftSign,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0120,0400,0040,0
+Style: EpNum,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0050,0400,0250,0
+Style: LowerLeft,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0060,0360,0060,0
+Style: LowerRight,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0400,0020,0020,0
+Style: MidLow,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0110,0
+Style: MidR,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,9,0420,0040,0120,0
+Style: MidL,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0040,0420,0120,0
+Style: MidC,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0200,0200,0120,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:00:04.35,0:00:07.23,Default,NTP,0000,0000,0000,,{\i1}Well then, Maiko-chan,\Nshall we go home together?{\i0}
+Dialogue: 0,0:00:09.82,0:00:10.65,Default,NTP,0000,0000,0000,,{\i1}Okay!{\i0}
+Dialogue: 0,0:00:12.24,0:00:13.74,Default,NTP,0000,0000,0000,,This is Big Sister...
+Dialogue: 0,0:00:14.41,0:00:17.58,Default,NTP,0000,0000,0000,,If I try hard enough,\Nmaybe I can meet her someday.
+Dialogue: 0,0:00:35.09,0:00:38.43,Default,NTP,0000,0000,0000,,Sheesh, they should hurry and make up.
+Dialogue: 0,0:02:09.98,0:02:10.86,Default,NTP,0000,0000,0000,,I'm home.
+Dialogue: 0,0:02:11.81,0:02:13.23,Default,NTP,0000,0000,0000,,You're late.
+Dialogue: 0,0:02:13.23,0:02:16.65,Default,NTP,0000,0000,0000,,I was cooking, doing laundry\Nand cleaning over there.
+Dialogue: 0,0:02:19.11,0:02:19.99,Default,NTP,0000,0000,0000,,That's it?
+Dialogue: 0,0:02:21.41,0:02:27.25,Default,NTP,0000,0000,0000,,For today, my honest feelings are that\Nyou guys should hurry and make up.
+Dialogue: 0,0:02:27.25,0:02:28.08,Default,NTP,0000,0000,0000,,I see...
+Dialogue: 0,0:02:29.29,0:02:30.46,Default,NTP,0000,0000,0000,,I'm turning in.
+Dialogue: 0,0:02:30.46,0:02:34.04,Default,NTP,0000,0000,0000,,Eh? No rewards for going over\Nto check on how she was doing?
+Dialogue: 0,0:02:34.55,0:02:37.21,Default,NTP,0000,0000,0000,,I have an early morning meeting\Nto prepare for the gig tomorrow.
+Dialogue: 0,0:02:38.97,0:02:41.47,Default,NTP,0000,0000,0000,,SEPTEMBER 8th
+Dialogue: 0,0:02:46.18,0:02:47.73,Default,NTP,0000,0000,0000,,{\i1}Oh no, I left my window open.{\i0}
+Dialogue: 0,0:02:52.31,0:02:55.27,Default,NTP,0000,0000,0000,,{\i1}Care to try being dead, too?{\i0}
+Dialogue: 0,0:02:56.78,0:02:58.78,Default,NTP,0000,0000,0000,,No, that's not the smile you want!
+Dialogue: 0,0:02:58.78,0:03:02.24,Default,NTP,0000,0000,0000,,If you're going to study up on Mai-san,\Nmake it something a bit more exhilarating.
+Dialogue: 0,0:03:02.99,0:03:05.20,Default,NTP,0000,0000,0000,,Oh, what should I do?
+Dialogue: 0,0:03:05.20,0:03:07.45,Default,NTP,0000,0000,0000,,The retake for the commercial is tomorrow!
+Dialogue: 0,0:03:07.45,0:03:09.46,Default,NTP,0000,0000,0000,,I haven't grasped anything yet!
+Dialogue: 0,0:03:09.46,0:03:11.58,Default,NTP,0000,0000,0000,,Things probably won't change\Ngoing into tomorrow, anyway.
+Dialogue: 0,0:03:11.58,0:03:13.75,Default,NTP,0000,0000,0000,,Y-You don't have to be so blunt!
+Dialogue: 0,0:03:13.75,0:03:16.59,Default,NTP,0000,0000,0000,,Maybe you don't have to try\Ndoing things you can't do.
+Dialogue: 0,0:03:17.59,0:03:20.84,Default,NTP,0000,0000,0000,,Just be mediocre. You're being too greedy.
+Dialogue: 0,0:03:21.59,0:03:23.18,Default,NTP,0000,0000,0000,,What, going home already?
+Dialogue: 0,0:03:23.18,0:03:25.72,Default,NTP,0000,0000,0000,,If I'm home late, Mai-san gets in a bad mood.
+Dialogue: 0,0:03:26.60,0:03:27.43,Default,NTP,0000,0000,0000,,Hold on!
+Dialogue: 0,0:03:28.56,0:03:29.93,Default,NTP,0000,0000,0000,,Y-You know...
+Dialogue: 0,0:03:30.43,0:03:34.31,Default,NTP,0000,0000,0000,,I want to take my time with a bath...
+Dialogue: 0,0:03:34.31,0:03:36.27,Default,NTP,0000,0000,0000,,...so can you stay until I'm out?
+Dialogue: 0,0:03:36.27,0:03:40.61,Default,NTP,0000,0000,0000,,Huh? I don't see why I have to stay.\NI don't flippin' get it.
+Dialogue: 0,0:03:40.61,0:03:46.87,Default,NTP,0000,0000,0000,,Wh-When I'm bathing by myself,\NI sometimes have a bad feeling...
+Dialogue: 0,0:03:47.16,0:03:48.70,Default,NTP,0000,0000,0000,,So you're just scared.
+Dialogue: 0,0:03:48.70,0:03:51.75,Default,NTP,0000,0000,0000,,You jumped at that bath scene earlier, too!
+Dialogue: 0,0:03:51.75,0:03:53.62,Default,NTP,0000,0000,0000,,I'm okay if I can bathe with you.
+Dialogue: 0,0:03:53.62,0:03:56.54,Default,NTP,0000,0000,0000,,Y-You'd have to ask Big Sister about that...
+Dialogue: 0,0:03:56.54,0:03:58.59,Default,NTP,0000,0000,0000,,All right, let me call Mai-san.
+Dialogue: 0,0:03:58.59,0:04:01.72,Default,NTP,0000,0000,0000,,N-Never mind! Die!\NSeriously, die!
+Dialogue: 0,0:04:02.76,0:04:03.63,Default,NTP,0000,0000,0000,,I'm home!
+Dialogue: 0,0:04:04.97,0:04:07.30,Default,NTP,0000,0000,0000,,W-Welcome back, Big Brother.
+Dialogue: 0,0:04:08.76,0:04:10.93,Default,NTP,0000,0000,0000,,Y-You're home early.
+Dialogue: 0,0:04:11.31,0:04:13.48,Default,NTP,0000,0000,0000,,Is that a new game?
+Dialogue: 0,0:04:13.48,0:04:16.94,Default,NTP,0000,0000,0000,,I-If you think Kaede is playing games\Nall the time, you're seriously mistaken.
+Dialogue: 0,0:04:16.94,0:04:19.65,Default,NTP,0000,0000,0000,,Kaede has a lot of things on her mind, too.
+Dialogue: 0,0:04:19.65,0:04:21.61,Default,NTP,0000,0000,0000,,What are you thinking of\Nto end up like that?
+Dialogue: 0,0:04:23.20,0:04:25.32,Default,NTP,0000,0000,0000,,Big Brother, you promise not to laugh?
+Dialogue: 0,0:04:26.20,0:04:27.32,Default,NTP,0000,0000,0000,,I won't laugh.
+Dialogue: 0,0:04:31.95,0:04:33.16,Default,NTP,0000,0000,0000,,What do you think?
+Dialogue: 0,0:04:34.50,0:04:36.38,Default,NTP,0000,0000,0000,,It smells like the closet.
+Dialogue: 0,0:04:36.38,0:04:37.84,Default,NTP,0000,0000,0000,,That's it?
+Dialogue: 0,0:04:37.84,0:04:40.71,Default,NTP,0000,0000,0000,,Hmm... You kinda look\Nlike a middle school student.
+Dialogue: 0,0:04:40.71,0:04:44.47,Default,NTP,0000,0000,0000,,K-Kaede is a bona-fide middle school student!
+Dialogue: 0,0:04:44.47,0:04:48.60,Default,NTP,0000,0000,0000,,I think it's almost time for Kaede.\NAlmost time to put in some effort.
+Dialogue: 0,0:04:52.43,0:04:54.39,Default,NTP,0000,0000,0000,,Don't overdo it.
+Dialogue: 0,0:04:54.39,0:04:59.48,Default,NTP,0000,0000,0000,,Since Big Brother keeps bringing\None new girl after another,
+Dialogue: 0,0:04:59.48,0:05:02.23,Default,NTP,0000,0000,0000,,Kaede feels she needs to shape up soon.
+Dialogue: 0,0:05:03.03,0:05:03.90,Default,NTP,0000,0000,0000,,I'm home!
+Dialogue: 0,0:05:04.40,0:05:06.45,Default,NTP,0000,0000,0000,,Welcome back, Nodoka-san.
+Dialogue: 0,0:05:06.45,0:05:07.91,Default,NTP,0000,0000,0000,,Your uniform?
+Dialogue: 0,0:05:07.91,0:05:09.66,Default,NTP,0000,0000,0000,,It's great! So cute!
+Dialogue: 0,0:05:09.66,0:05:11.08,Default,NTP,0000,0000,0000,,Really!?
+Dialogue: 0,0:05:11.08,0:05:12.20,Default,NTP,0000,0000,0000,,Yup.
+Dialogue: 0,0:05:12.20,0:05:13.95,Default,NTP,0000,0000,0000,,Oh, I have a souvenir.
+Dialogue: 0,0:05:13.95,0:05:15.21,Default,NTP,0000,0000,0000,,Thank you so much!
+Dialogue: 0,0:05:17.46,0:05:19.75,Default,NTP,0000,0000,0000,,Oh, it's slightly better pudding!
+Dialogue: 0,0:05:19.75,0:05:23.63,Default,NTP,0000,0000,0000,,That's right. I got this, too.\NTickets for the gig at the end of the month.
+Dialogue: 0,0:05:23.63,0:05:25.17,Default,NTP,0000,0000,0000,,Give one to Nodoka, too.
+Dialogue: 0,0:05:25.17,0:05:27.13,Default,NTP,0000,0000,0000,,You can give it to her yourself...
+Dialogue: 0,0:05:27.13,0:05:29.97,Default,NTP,0000,0000,0000,,There's one for you too,\Nso come see the show together.
+Dialogue: 0,0:05:29.97,0:05:32.18,Default,NTP,0000,0000,0000,,I sent one to Nodoka's mom, too.
+Dialogue: 0,0:05:32.68,0:05:35.18,Default,NTP,0000,0000,0000,,SEPTEMBER 19th
+Dialogue: 0,0:05:34.10,0:05:34.93,Default,NTP,0000,0000,0000,,{\a6}Ready...
+Dialogue: 0,0:05:35.43,0:05:36.31,Default,NTP,0000,0000,0000,,Start!
+Dialogue: 0,0:05:41.94,0:05:43.32,Default,NTP,0000,0000,0000,,Yes! Okay!
+Dialogue: 0,0:05:43.32,0:05:44.94,Default,NTP,0000,0000,0000,,That's a wrap!
+Dialogue: 0,0:05:44.94,0:05:46.61,Default,NTP,0000,0000,0000,,Thank you very much.
+Dialogue: 0,0:05:53.54,0:05:55.29,Default,NTP,0000,0000,0000,,Good thing that went well.
+Dialogue: 0,0:05:55.29,0:05:59.00,Default,NTP,0000,0000,0000,,That didn't go well at all.\NTwelve takes? You've got to be kidding!
+Dialogue: 0,0:06:01.75,0:06:05.05,Default,NTP,0000,0000,0000,,It really is impossible for me\Nto be like Big Sister.
+Dialogue: 0,0:06:05.92,0:06:10.34,Default,NTP,0000,0000,0000,,I seriously can't think about living\Nunder this much pressure every day.
+Dialogue: 0,0:06:10.34,0:06:14.18,Default,NTP,0000,0000,0000,,Totally impossible. Oh man, what should I do?
+Dialogue: 0,0:06:14.18,0:06:17.14,Default,NTP,0000,0000,0000,,Worry about that once you're\Nactually that popular.
+Dialogue: 0,0:06:17.14,0:06:19.56,Default,NTP,0000,0000,0000,,That's not what I'm talking about.
+Dialogue: 0,0:06:21.31,0:06:25.53,Default,NTP,0000,0000,0000,,What about you?\NDo you want to be like Mai-san?
+Dialogue: 0,0:06:25.53,0:06:29.36,Default,NTP,0000,0000,0000,,I'm not sure.\NI think I wanted to in the past.
+Dialogue: 0,0:06:29.36,0:06:30.28,Default,NTP,0000,0000,0000,,And now?
+Dialogue: 0,0:06:36.75,0:06:37.41,Default,NTP,0000,0000,0000,,Answer.
+Dialogue: 0,0:06:39.50,0:06:40.37,Default,NTP,0000,0000,0000,,{\i1}Hello?{\i0}
+Dialogue: 0,0:06:40.37,0:06:41.83,Default,NTP,0000,0000,0000,,Why are you answering, Sakuta?
+Dialogue: 0,0:06:42.38,0:06:45.13,Default,NTP,0000,0000,0000,,{\i1}Well, I needed to tell you something,\Nso it's all right.{\i0}
+Dialogue: 0,0:06:45.13,0:06:45.84,Default,NTP,0000,0000,0000,,Me?
+Dialogue: 0,0:06:46.30,0:06:49.05,Default,NTP,0000,0000,0000,,Your dad called a few minutes ago.
+Dialogue: 0,0:06:49.05,0:06:51.68,Default,NTP,0000,0000,0000,,I didn't answer, but when\Nthe answering machine picked up,
+Dialogue: 0,0:06:52.22,0:06:54.60,Default,NTP,0000,0000,0000,,{\i1}he asked if you could see him\Ntwo nights from now.{\i0}
+Dialogue: 0,0:06:54.60,0:06:56.81,Default,NTP,0000,0000,0000,,Got it. Thank you so much.
+Dialogue: 0,0:06:57.31,0:07:00.19,Default,NTP,0000,0000,0000,,Oh, and the commercial shoot ended well.
+Dialogue: 0,0:07:00.19,0:07:01.77,Default,NTP,0000,0000,0000,,Though she had like thirteen takes.
+Dialogue: 0,0:07:01.77,0:07:02.69,Default,NTP,0000,0000,0000,,{\i1}Twelve!{\i0}
+Dialogue: 0,0:07:02.69,0:07:05.90,Default,NTP,0000,0000,0000,,I see. Tell Nodoka she did a good job.
+Dialogue: 0,0:07:05.90,0:07:06.57,Default,NTP,0000,0000,0000,,See you.
+Dialogue: 0,0:07:10.95,0:07:13.78,Default,NTP,0000,0000,0000,,That's right. Mai-san told me to give you this.
+Dialogue: 0,0:07:14.16,0:07:16.04,Default,NTP,0000,0000,0000,,The ticket for the gig at the end of the month.
+Dialogue: 0,0:07:18.45,0:07:24.59,Default,NTP,0000,0000,0000,,I still remember when I first met Big Sister\Nat an audition, back when I was a kid.
+Dialogue: 0,0:07:21.17,0:07:25.29,Default,NTP,0000,0000,0000,,{\a6}Audition Area - historical drama "Kokonoe"
+Dialogue: 0,0:07:25.96,0:07:28.51,Default,NTP,0000,0000,0000,,{\i1}I was just thinking\Nhow I wanted a little sister!{\i0}
+Dialogue: 0,0:07:31.18,0:07:33.39,Default,NTP,0000,0000,0000,,I was so happy...
+Dialogue: 0,0:07:33.39,0:07:35.89,Default,NTP,0000,0000,0000,,Big Sister was just so awesome.
+Dialogue: 0,0:07:36.35,0:07:39.60,Default,NTP,0000,0000,0000,,Well, Mai-san is still awesome as always.
+Dialogue: 0,0:07:39.60,0:07:43.85,Default,NTP,0000,0000,0000,,But recalling it now,\NI think Big Sister was bewildered.
+Dialogue: 0,0:07:43.85,0:07:46.73,Default,NTP,0000,0000,0000,,But, she was still Big Sister...
+Dialogue: 0,0:07:50.19,0:07:54.57,Default,NTP,0000,0000,0000,,I know I can't be like Big Sister,\Nbut I'll continue my work as a pop idol.
+Dialogue: 0,0:07:54.57,0:07:58.37,Default,NTP,0000,0000,0000,,The gigs are fun,\Nand I have fans that cheer for me.
+Dialogue: 0,0:07:58.37,0:07:59.29,Default,NTP,0000,0000,0000,,I see.
+Dialogue: 0,0:07:59.29,0:08:00.25,Default,NTP,0000,0000,0000,,Yeah...
+Dialogue: 0,0:08:00.58,0:08:04.46,Default,NTP,0000,0000,0000,,So I'll first work hard on getting a song\Nwhere I'm the main singer.
+Dialogue: 0,0:08:04.46,0:08:07.38,Default,NTP,0000,0000,0000,,That way, Mother may be\Nmore understanding of me.
+Dialogue: 0,0:08:09.88,0:08:12.63,Default,NTP,0000,0000,0000,,Hey, what do you think about your parents?
+Dialogue: 0,0:08:13.13,0:08:15.55,Default,NTP,0000,0000,0000,,Do you know of the situation\Nregarding my family?
+Dialogue: 0,0:08:15.55,0:08:18.56,Default,NTP,0000,0000,0000,,Yeah. I've heard most of it from Big Sister.
+Dialogue: 0,0:08:19.43,0:08:22.31,Default,NTP,0000,0000,0000,,Your little sister developed Puberty Syndrome,
+Dialogue: 0,0:08:22.31,0:08:25.98,Default,NTP,0000,0000,0000,,your mother was hospitalized\Nbecause she couldn't accept that fact,
+Dialogue: 0,0:08:25.98,0:08:28.32,Default,NTP,0000,0000,0000,,and your father had to stay by her side...
+Dialogue: 0,0:08:28.32,0:08:30.40,Default,NTP,0000,0000,0000,,Well, that's about it.
+Dialogue: 0,0:08:31.36,0:08:36.53,Default,NTP,0000,0000,0000,,In the end, they left everything\Nabout Kaede to me, and now we live apart.
+Dialogue: 0,0:08:37.24,0:08:40.45,Default,NTP,0000,0000,0000,,And? How do you feel about your parents?
+Dialogue: 0,0:08:40.83,0:08:42.08,Default,NTP,0000,0000,0000,,They're my parents.
+Dialogue: 0,0:08:42.08,0:08:45.46,Default,NTP,0000,0000,0000,,Huh? What's up with that?\NSurely, you have other feelings.
+Dialogue: 0,0:08:45.46,0:08:48.96,Default,NTP,0000,0000,0000,,Like you love them, hate them,\Nthey piss you off or are annoying...
+Dialogue: 0,0:08:48.96,0:08:50.67,Default,NTP,0000,0000,0000,,Well, all of the above?
+Dialogue: 0,0:08:53.17,0:08:54.13,Default,NTP,0000,0000,0000,,No grudges?
+Dialogue: 0,0:08:54.47,0:08:55.55,Default,NTP,0000,0000,0000,,Not really.
+Dialogue: 0,0:08:55.55,0:08:56.76,Default,NTP,0000,0000,0000,,Why?
+Dialogue: 0,0:08:56.76,0:08:58.22,Default,NTP,0000,0000,0000,,Probably because they're my parents.
+Dialogue: 0,0:09:05.77,0:09:07.02,Default,NTP,0000,0000,0000,,Something wrong?
+Dialogue: 0,0:09:07.02,0:09:07.86,Default,NTP,0000,0000,0000,,Mother...
+Dialogue: 0,0:09:08.86,0:09:12.48,Default,NTP,0000,0000,0000,,Where is Nodoka?\NThis is an important time for her.
+Dialogue: 0,0:09:12.48,0:09:13.49,Default,NTP,0000,0000,0000,,Please return her!
+Dialogue: 0,0:09:14.57,0:09:17.11,Default,NTP,0000,0000,0000,,Sorry, I don't understand...
+Dialogue: 0,0:09:17.11,0:09:18.99,Default,NTP,0000,0000,0000,,She's at your place, isn't she?
+Dialogue: 0,0:09:18.99,0:09:20.20,Default,NTP,0000,0000,0000,,No, she is not.
+Dialogue: 0,0:09:20.49,0:09:21.66,Default,NTP,0000,0000,0000,,Don't lie to me!
+Dialogue: 0,0:09:22.29,0:09:25.83,Default,NTP,0000,0000,0000,,She really isn't here.\NWould you like to come in and see for yourself?
+Dialogue: 0,0:09:27.96,0:09:29.29,Default,NTP,0000,0000,0000,,No, that's fine.
+Dialogue: 0,0:09:29.29,0:09:32.92,Default,NTP,0000,0000,0000,,If you hear from Nodoka,\Nplease tell her to hurry back home.
+Dialogue: 0,0:09:36.84,0:09:38.93,Default,NTP,0000,0000,0000,,{\a6}SEPTEMBER 21st
+Dialogue: 0,0:09:43.85,0:09:45.52,Default,NTP,0000,0000,0000,,It's been a while.
+Dialogue: 0,0:09:45.52,0:09:46.35,Default,NTP,0000,0000,0000,,Perhaps.
+Dialogue: 0,0:09:48.85,0:09:49.69,Default,NTP,0000,0000,0000,,How's Mom?
+Dialogue: 0,0:09:49.98,0:09:51.15,Default,NTP,0000,0000,0000,,Getting better.
+Dialogue: 0,0:09:51.57,0:09:53.19,Default,NTP,0000,0000,0000,,I see. That's good.
+Dialogue: 0,0:09:54.86,0:09:55.69,Default,NTP,0000,0000,0000,,- Oh—\N- Ka—
+Dialogue: 0,0:09:57.15,0:09:59.41,Default,NTP,0000,0000,0000,,H-How's Kaede doing?
+Dialogue: 0,0:09:59.41,0:10:01.91,Default,NTP,0000,0000,0000,,She was wearing her uniform\Nwhen I came home the other day.
+Dialogue: 0,0:10:02.70,0:10:08.87,Default,NTP,0000,0000,0000,,It's still hard for her to go outside, but I think\Nshe feels that she can't stay like this forever.
+Dialogue: 0,0:10:09.58,0:10:10.42,Default,NTP,0000,0000,0000,,I see...
+Dialogue: 0,0:10:12.04,0:10:13.05,Default,NTP,0000,0000,0000,,You know...
+Dialogue: 0,0:10:13.05,0:10:13.96,Default,NTP,0000,0000,0000,,What is it?
+Dialogue: 0,0:10:14.46,0:10:16.05,Default,NTP,0000,0000,0000,,How does it feel to be a parent?
+Dialogue: 0,0:10:16.05,0:10:18.01,Default,NTP,0000,0000,0000,,You can't possibly have a kid—
+Dialogue: 0,0:10:18.01,0:10:20.93,Default,NTP,0000,0000,0000,,No, not that!\NI haven't done that stuff yet!
+Dialogue: 0,0:10:20.93,0:10:23.31,Default,NTP,0000,0000,0000,,That's not what I wanted to ask.
+Dialogue: 0,0:10:24.93,0:10:26.60,Default,NTP,0000,0000,0000,,I see, not yet...
+Dialogue: 0,0:10:27.81,0:10:32.15,Default,NTP,0000,0000,0000,,Well, you can find out what it feels like\Nonce you've become a parent.
+Dialogue: 0,0:10:32.44,0:10:34.11,Default,NTP,0000,0000,0000,,Will I be one someday?
+Dialogue: 0,0:10:35.32,0:10:40.32,Default,NTP,0000,0000,0000,,Honestly, your mother and I were in turmoil\Nwhen you were born.
+Dialogue: 0,0:10:40.32,0:10:43.41,Default,NTP,0000,0000,0000,,It was a first time for everything,\Nwhich made us feel uneasy...
+Dialogue: 0,0:10:43.78,0:10:47.54,Default,NTP,0000,0000,0000,,One time, when I was changing your diapers,\Nmy head so hazy from utter fatigue,
+Dialogue: 0,0:10:47.54,0:10:49.46,Default,NTP,0000,0000,0000,,I feel asleep before finishing.
+Dialogue: 0,0:10:49.87,0:10:52.79,Default,NTP,0000,0000,0000,,If you're going to tell me anything,\Ncan you make it something more decent?
+Dialogue: 0,0:10:53.25,0:10:55.50,Default,NTP,0000,0000,0000,,{\a6}SEPTEMBER 30th
+Dialogue: 0,0:10:57.92,0:11:00.51,Default,NTP,0000,0000,0000,,Amazing. You're pretty popular.
+Dialogue: 0,0:11:00.89,0:11:04.01,Default,NTP,0000,0000,0000,,For now, it's all we can do\Nto fill up a place of this size.
+Dialogue: 0,0:11:04.01,0:11:06.39,Default,NTP,0000,0000,0000,,So your mother is somewhere in the crowd?
+Dialogue: 0,0:11:07.02,0:11:08.73,Default,NTP,0000,0000,0000,,Somewhere towards the front, I think.
+Dialogue: 0,0:11:54.56,0:11:55.40,Default,NTP,0000,0000,0000,,Good evening!
+Dialogue: 0,0:11:56.27,0:11:57.90,Default,NTP,0000,0000,0000,,We're Sweet Bullet!
+Dialogue: 0,0:11:58.28,0:12:00.44,Default,NTP,0000,0000,0000,,{\a6}Well, it's finally started.
+Dialogue: 0,0:11:58.28,0:12:01.86,Default,NTP,0000,0000,0000,,Toyohama, were you "Doka-chan"?\NShould I go along with it?
+Dialogue: 0,0:12:00.44,0:12:02.86,Default,NTP,0000,0000,0000,,{\a6}Wait, Zukki, aren't you sweating a ton?
+Dialogue: 0,0:12:01.86,0:12:02.91,Default,NTP,0000,0000,0000,,You don't have to!
+Dialogue: 0,0:12:03.11,0:12:05.20,Default,NTP,0000,0000,0000,,Eh? Idols don't sweat.
+Dialogue: 0,0:12:05.20,0:12:06.58,Default,NTP,0000,0000,0000,,No, you are. Quite a bit.
+Dialogue: 0,0:12:06.58,0:12:10.79,Default,NTP,0000,0000,0000,,You always say how even your panties\Nare drenched after a gig.
+Dialogue: 0,0:12:10.79,0:12:13.08,Default,NTP,0000,0000,0000,,I-Idols don't wear panties!
+Dialogue: 0,0:12:13.08,0:12:15.17,Default,NTP,0000,0000,0000,,Eh? You're not wearing panties?
+Dialogue: 0,0:12:16.04,0:12:19.67,Default,NTP,0000,0000,0000,,Oh no, no, that's not what I wanted to say.\NI wanted to say, idols never sweat!
+Dialogue: 0,0:12:19.67,0:12:20.80,Default,NTP,0000,0000,0000,,Then, what's that?
+Dialogue: 0,0:12:20.80,0:12:23.80,Default,NTP,0000,0000,0000,,This is, well...\NSome kind of strange juice!
+Dialogue: 0,0:12:24.05,0:12:28.81,Default,NTP,0000,0000,0000,,If we keep this up, she might say\Nsomething fatal to a pop idol's career.
+Dialogue: 0,0:12:30.22,0:12:32.89,Default,NTP,0000,0000,0000,,Okay, on to the next song, "BABY"!
+Dialogue: 0,0:12:34.85,0:12:39.57,Default,NTP,0000,0000,0000,,I WANNA KISS YOU, LOVE ME BABY!
+Dialogue: 0,0:12:40.78,0:12:45.45,Default,NTP,0000,0000,0000,,I WANNA KISS YOU, LOVE ME BABY!
+Dialogue: 0,0:12:52.04,0:12:53.29,Default,NTP,0000,0000,0000,,Yeah, yeah!
+Dialogue: 0,0:12:53.29,0:12:54.71,Default,NTP,0000,0000,0000,,{\a5}Today's Set List\N1. Sweet Bullet\N2. BABY
+Dialogue: 0,0:12:59.21,0:13:00.38,Default,NTP,0000,0000,0000,,You know,
+Dialogue: 0,0:12:59.21,0:13:00.38,Default,NTP,0000,0000,0000,,{\a6}Nee, watashi
+Dialogue: 0,0:13:00.38,0:13:04.55,Default,NTP,0000,0000,0000,,My brain has been in a traffic jam all day long
+Dialogue: 0,0:13:00.38,0:13:04.55,Default,NTP,0000,0000,0000,,{\a6}Asa kara shikou kairo ga daijuutai desu
+Dialogue: 0,0:13:04.55,0:13:10.43,Default,NTP,0000,0000,0000,,I won't look so flat and exhausted like before
+Dialogue: 0,0:13:04.55,0:13:10.43,Default,NTP,0000,0000,0000,,{\a6}Mae mitai ni kino nuketa kao nante shinaiwa
+Dialogue: 0,0:13:11.06,0:13:15.85,Default,NTP,0000,0000,0000,,Calculating to pretend that it's just a coincidence
+Dialogue: 0,0:13:11.06,0:13:15.85,Default,NTP,0000,0000,0000,,{\a6}Guuzen wo yosoou tame no keisan wo shite
+Dialogue: 0,0:13:16.52,0:13:18.65,Default,NTP,0000,0000,0000,,Words to approach you with\Nare what I desperately--
+Dialogue: 0,0:13:16.52,0:13:18.65,Default,NTP,0000,0000,0000,,{\a6}Kimi ni kakeru kotoba hisshi--
+Dialogue: 0,0:13:19.36,0:13:21.82,Default,NTP,0000,0000,0000,,am searching for
+Dialogue: 0,0:13:19.36,0:13:21.82,Default,NTP,0000,0000,0000,,{\a6}Sagashiteru
+Dialogue: 0,0:13:23.07,0:13:27.78,Default,NTP,0000,0000,0000,,Confidence that I can speak well
+Dialogue: 0,0:13:23.07,0:13:27.78,Default,NTP,0000,0000,0000,,{\a6}Jouzu ni hanaseru jishin nante
+Dialogue: 0,0:13:29.03,0:13:33.25,Default,NTP,0000,0000,0000,,is something I don't have one bit of
+Dialogue: 0,0:13:29.03,0:13:33.25,Default,NTP,0000,0000,0000,,{\a6}Koreppochi mo nai kuse nine
+Dialogue: 0,0:13:34.37,0:13:37.33,Default,NTP,0000,0000,0000,,For you, KISS YOU, LOVE ME BABY
+Dialogue: 0,0:13:34.37,0:13:37.33,Default,NTP,0000,0000,0000,,{\a6}Kimi ni KISS YOU, LOVE ME BABY
+Dialogue: 0,0:13:37.33,0:13:40.38,Default,NTP,0000,0000,0000,,This story's just begun
+Dialogue: 0,0:13:37.33,0:13:40.38,Default,NTP,0000,0000,0000,,{\a6}Hajimatta bakari no STORY
+Dialogue: 0,0:13:40.38,0:13:42.38,Default,NTP,0000,0000,0000,,Big Sister is amazing...
+Dialogue: 0,0:13:40.38,0:13:43.59,Default,NTP,0000,0000,0000,,{\a6}- Yoshuu mo nanimo dekite naikedo\N- I haven't beenn able to study in advance at all
+Dialogue: 0,0:13:44.22,0:13:46.72,Default,NTP,0000,0000,0000,,And now, the usual event\Nfor Sweet Bullet...
+Dialogue: 0,0:13:46.97,0:13:49.85,Default,NTP,0000,0000,0000,,Announcing the featured member\Nfor the next single!
+Dialogue: 0,0:13:50.30,0:13:51.72,Default,NTP,0000,0000,0000,,Clap, clap, clap!
+Dialogue: 0,0:13:53.27,0:13:57.65,Default,NTP,0000,0000,0000,,Wait, since I'm the one announcing it,\Nthat means I'm out of the running!
+Dialogue: 0,0:13:58.02,0:14:00.65,Default,NTP,0000,0000,0000,,Maybe it's a surprise and\Nyou're announcing yourself, Zukki!
+Dialogue: 0,0:14:01.48,0:14:02.73,Default,NTP,0000,0000,0000,,Well, here goes!
+Dialogue: 0,0:14:04.07,0:14:05.15,Default,NTP,0000,0000,0000,,Announcing!
+Dialogue: 0,0:14:07.11,0:14:09.24,Default,NTP,0000,0000,0000,,The featured member of our next single...
+Dialogue: 0,0:14:11.99,0:14:13.29,Default,NTP,0000,0000,0000,,...is Doka-chan!
+Dialogue: 0,0:14:16.62,0:14:17.46,Default,NTP,0000,0000,0000,,Grats!
+Dialogue: 0,0:14:18.58,0:14:19.42,Default,NTP,0000,0000,0000,,Thank you!
+Dialogue: 0,0:14:20.00,0:14:22.88,Default,NTP,0000,0000,0000,,I'll do my best to not lose\Nto everyone else, including Zukki!
+Dialogue: 0,0:14:32.26,0:14:34.56,Default,NTP,0000,0000,0000,,Man, that was fun.
+Dialogue: 0,0:14:34.56,0:14:38.48,Default,NTP,0000,0000,0000,,I can kinda see why some people\Nget totally obsessed with pop idols.
+Dialogue: 0,0:14:40.77,0:14:42.27,Default,NTP,0000,0000,0000,,What are they waiting for?
+Dialogue: 0,0:14:43.32,0:14:44.15,Default,NTP,0000,0000,0000,,That.
+Dialogue: 0,0:14:47.70,0:14:50.03,Default,NTP,0000,0000,0000,,Good for you. Good for you.
+Dialogue: 0,0:14:50.78,0:14:54.03,Default,NTP,0000,0000,0000,,I'm so happy for you.\NYou really tried so hard.
+Dialogue: 0,0:15:01.33,0:15:04.30,Default,NTP,0000,0000,0000,,Mother was smiling...
+Dialogue: 0,0:15:04.30,0:15:06.67,Default,NTP,0000,0000,0000,,It's normal to smile sometimes.
+Dialogue: 0,0:15:06.67,0:15:10.26,Default,NTP,0000,0000,0000,,No way. She's never looked like that\Nin front of me.
+Dialogue: 0,0:15:11.26,0:15:14.22,Default,NTP,0000,0000,0000,,So in the end, it's all about Big Sister.
+Dialogue: 0,0:15:15.39,0:15:18.64,Default,NTP,0000,0000,0000,,So Mother thinks Big Sister is better after all...
+Dialogue: 0,0:15:24.40,0:15:25.98,Default,NTP,0000,0000,0000,,I don't want to go home.
+Dialogue: 0,0:15:26.94,0:15:29.03,Default,NTP,0000,0000,0000,,I want to go to the beach.
+Dialogue: 0,0:15:32.20,0:15:34.45,Default,NTP,0000,0000,0000,,All right. Just for a bit.
+Dialogue: 0,0:15:47.55,0:15:48.38,Default,NTP,0000,0000,0000,,Hey!
+Dialogue: 0,0:15:53.59,0:15:54.43,Default,NTP,0000,0000,0000,,Hold on!
+Dialogue: 0,0:15:54.43,0:15:55.76,Default,NTP,0000,0000,0000,,Let go!
+Dialogue: 0,0:15:55.76,0:15:58.18,Default,NTP,0000,0000,0000,,Nobody really needs me at all!
+Dialogue: 0,0:15:58.18,0:15:58.81,Default,NTP,0000,0000,0000,,Toyohama!
+Dialogue: 0,0:16:00.56,0:16:01.56,Default,NTP,0000,0000,0000,,What the hell are you doing?
+Dialogue: 0,0:16:01.56,0:16:02.85,Default,NTP,0000,0000,0000,,I've had enough of this!
+Dialogue: 0,0:16:02.85,0:16:04.10,Default,NTP,0000,0000,0000,,No way you've had enough!
+Dialogue: 0,0:16:04.10,0:16:05.94,Default,NTP,0000,0000,0000,,Let go! Let go of me, you idiot!
+Dialogue: 0,0:16:05.94,0:16:07.07,Default,NTP,0000,0000,0000,,Who's the idiot here!?
+Dialogue: 0,0:16:07.07,0:16:08.61,Default,NTP,0000,0000,0000,,This has nothing to do with you!
+Dialogue: 0,0:16:08.90,0:16:11.78,Default,NTP,0000,0000,0000,,Then don't test me so unfairly!
+Dialogue: 0,0:16:11.78,0:16:14.03,Default,NTP,0000,0000,0000,,Don't go into the ocean assuming\Nsomeone will save you, idiot!
+Dialogue: 0,0:16:14.99,0:16:16.03,Default,NTP,0000,0000,0000,,Shut up!
+Dialogue: 0,0:16:16.03,0:16:18.16,Default,NTP,0000,0000,0000,,All you care about is Big Sister!
+Dialogue: 0,0:16:18.37,0:16:21.54,Default,NTP,0000,0000,0000,,That's right! If something happened to you,\NMai-san will be sad!
+Dialogue: 0,0:16:21.54,0:16:22.58,Default,NTP,0000,0000,0000,,That's a lie!
+Dialogue: 0,0:16:22.58,0:16:24.00,Default,NTP,0000,0000,0000,,It's not a lie!
+Dialogue: 0,0:16:24.00,0:16:26.71,Default,NTP,0000,0000,0000,,If something happened to you,\NI know Mai-san will be sad!
+Dialogue: 0,0:16:26.71,0:16:28.67,Default,NTP,0000,0000,0000,,She said she hated me!
+Dialogue: 0,0:16:28.67,0:16:30.05,Default,NTP,0000,0000,0000,,And that was the lie!
+Dialogue: 0,0:16:33.84,0:16:35.01,Default,NTP,0000,0000,0000,,Do you have proof?
+Dialogue: 0,0:16:36.51,0:16:38.72,Default,NTP,0000,0000,0000,,Fine. I'll show you.
+Dialogue: 0,0:16:43.52,0:16:47.19,Default,NTP,0000,0000,0000,,You shouldn't do that.\NSwimming is prohibited in this area.
+Dialogue: 0,0:16:53.49,0:16:54.36,Default,NTP,0000,0000,0000,,What is this?
+Dialogue: 0,0:16:54.82,0:16:56.12,Default,NTP,0000,0000,0000,,You'll see when you open it.
+Dialogue: 0,0:16:56.12,0:16:56.99,Default,NTP,0000,0000,0000,,Annoying.
+Dialogue: 0,0:17:02.33,0:17:05.33,Default,NTP,0000,0000,0000,,These are... all letters I wrote.
+Dialogue: 0,0:17:05.33,0:17:06.33,Default,NTP,0000,0000,0000,,Why?
+Dialogue: 0,0:17:06.83,0:17:11.09,Default,NTP,0000,0000,0000,,I don't get it... Why... Why?
+Dialogue: 0,0:17:11.09,0:17:13.76,Default,NTP,0000,0000,0000,,Obviously, because she was happy\Nto receive them.
+Dialogue: 0,0:17:14.59,0:17:17.18,Default,NTP,0000,0000,0000,,She kept all the letters from you\Nsafe and sound.
+Dialogue: 0,0:17:18.05,0:17:20.68,Default,NTP,0000,0000,0000,,There's no way she hates you\Nif she's done this.
+Dialogue: 0,0:17:20.93,0:17:25.69,Default,NTP,0000,0000,0000,,But I'm not... her real little sister!
+Dialogue: 0,0:17:25.69,0:17:26.90,Default,NTP,0000,0000,0000,,What's that about?
+Dialogue: 0,0:17:29.36,0:17:31.11,Default,NTP,0000,0000,0000,,Back when I wrote these,
+Dialogue: 0,0:17:31.11,0:17:35.45,Default,NTP,0000,0000,0000,,I didn't know that Big Sister and I\Nhad different mothers, and what that meant...
+Dialogue: 0,0:17:36.20,0:17:39.12,Default,NTP,0000,0000,0000,,So, after I figured it out,\NI always felt uneasy...
+Dialogue: 0,0:17:40.03,0:17:45.33,Default,NTP,0000,0000,0000,,When I thought that I was being a nuisance\Nto Big Sister, I couldn't write letters anymore!
+Dialogue: 0,0:17:47.17,0:17:50.46,Default,NTP,0000,0000,0000,,Or so she says.\NMai-san, how did you really feel?
+Dialogue: 0,0:17:53.84,0:17:56.55,Default,NTP,0000,0000,0000,,Don't look through people's treasures\Nwithout permission.
+Dialogue: 0,0:17:57.34,0:17:58.18,Default,NTP,0000,0000,0000,,Why...
+Dialogue: 0,0:18:00.68,0:18:01.51,Default,NTP,0000,0000,0000,,Big Sister...
+Dialogue: 0,0:18:02.60,0:18:06.69,Default,NTP,0000,0000,0000,,All I remember from back then is\Nhow dizzy I felt from how busy I was.
+Dialogue: 0,0:18:07.69,0:18:12.53,Default,NTP,0000,0000,0000,,All I did after going home was sleep, and didn't\Nhave time to watch the shows I appeared in.
+Dialogue: 0,0:18:13.61,0:18:19.99,Default,NTP,0000,0000,0000,,So many people complimented me,\Nbut all I thought was, "Who are these people?"
+Dialogue: 0,0:18:21.03,0:18:22.83,Default,NTP,0000,0000,0000,,But you were different, Nodoka.
+Dialogue: 0,0:18:23.91,0:18:27.50,Default,NTP,0000,0000,0000,,Honestly, I was bewildered when you\Nwere introduced as my little sister...
+Dialogue: 0,0:18:28.21,0:18:33.17,Default,NTP,0000,0000,0000,,But you always gave me letters saying,\N"You were awesome!" or "You're amazing!"
+Dialogue: 0,0:18:34.26,0:18:36.09,Default,NTP,0000,0000,0000,,And it gave me courage each time.
+Dialogue: 0,0:18:37.01,0:18:40.39,Default,NTP,0000,0000,0000,,I felt that I could keep working hard\Nas long as it made you happy.
+Dialogue: 0,0:18:41.10,0:18:43.85,Default,NTP,0000,0000,0000,,And thanks to that, I came to like my job.
+Dialogue: 0,0:18:44.68,0:18:46.10,Default,NTP,0000,0000,0000,,So, Nodoka...
+Dialogue: 0,0:18:46.60,0:18:47.48,Default,NTP,0000,0000,0000,,Thank you.
+Dialogue: 0,0:18:49.40,0:18:52.23,Default,NTP,0000,0000,0000,,Thank you for being my little sister.
+Dialogue: 0,0:18:55.23,0:18:56.07,Default,NTP,0000,0000,0000,,Big Sister...
+Dialogue: 0,0:18:57.74,0:18:59.91,Default,NTP,0000,0000,0000,,Not fair! You're not fair, Big Sister!
+Dialogue: 0,0:18:59.91,0:19:02.58,Default,NTP,0000,0000,0000,,Saying that after everything's\Nsaid and done... It's too late!
+Dialogue: 0,0:19:03.78,0:19:05.87,Default,NTP,0000,0000,0000,,I tried to do my best, too....
+Dialogue: 0,0:19:06.79,0:19:10.08,Default,NTP,0000,0000,0000,,But why do you get a featured song before me?
+Dialogue: 0,0:19:10.08,0:19:12.59,Default,NTP,0000,0000,0000,,Why are you being complimented\Nby my mother!?
+Dialogue: 0,0:19:13.46,0:19:14.71,Default,NTP,0000,0000,0000,,Because I practiced.
+Dialogue: 0,0:19:15.46,0:19:17.38,Default,NTP,0000,0000,0000,,I practiced bit by bit every day.
+Dialogue: 0,0:19:17.38,0:19:18.97,Default,NTP,0000,0000,0000,,That's what I mean!
+Dialogue: 0,0:19:18.97,0:19:21.68,Default,NTP,0000,0000,0000,,No matter how hard it is,\Nyou do what you need to properly!
+Dialogue: 0,0:19:21.68,0:19:25.31,Default,NTP,0000,0000,0000,,It's your fault if you can't do it!\NI hate how you're awesome like that!
+Dialogue: 0,0:19:28.73,0:19:31.02,Default,NTP,0000,0000,0000,,Ouch! Why me!?
+Dialogue: 0,0:19:31.02,0:19:34.94,Default,NTP,0000,0000,0000,,Sorry. She sounded like a spoiled brat,\Nso my anger flared up.
+Dialogue: 0,0:19:34.94,0:19:37.57,Default,NTP,0000,0000,0000,,Then you slapped the wrong person, right?
+Dialogue: 0,0:19:37.57,0:19:39.82,Default,NTP,0000,0000,0000,,She has a fashion magazine\Nphoto shoot tomorrow, right?
+Dialogue: 0,0:19:39.82,0:19:41.61,Default,NTP,0000,0000,0000,,What'll she do if she's scarred because of me?
+Dialogue: 0,0:19:42.20,0:19:43.78,Default,NTP,0000,0000,0000,,Stuff like that, too...
+Dialogue: 0,0:19:44.62,0:19:48.04,Default,NTP,0000,0000,0000,,Your professionalism is too strong!\NI can't even compete!
+Dialogue: 0,0:19:48.95,0:19:51.33,Default,NTP,0000,0000,0000,,I can't even compete...
+Dialogue: 0,0:19:56.05,0:19:56.88,Default,NTP,0000,0000,0000,,Nodoka.
+Dialogue: 0,0:19:58.67,0:20:02.43,Default,NTP,0000,0000,0000,,You know how your mother was\Nin the line of high-fives after the gig, right?
+Dialogue: 0,0:20:03.89,0:20:07.77,Default,NTP,0000,0000,0000,,Her hand was trembling on her turn,\Nand she held my hand.
+Dialogue: 0,0:20:09.31,0:20:11.44,Default,NTP,0000,0000,0000,,I think she felt really uneasy until now.
+Dialogue: 0,0:20:12.14,0:20:12.98,Default,NTP,0000,0000,0000,,Uneasy?
+Dialogue: 0,0:20:13.56,0:20:17.02,Default,NTP,0000,0000,0000,,Seeing you do everything\Nto meet her expectations,
+Dialogue: 0,0:20:17.69,0:20:22.15,Default,NTP,0000,0000,0000,,she was uneasy about whether or not\Nyou were truly happy this whole time
+Dialogue: 0,0:20:22.15,0:20:25.41,Default,NTP,0000,0000,0000,,But I don't know anything about that.\NI haven't heard a thing.
+Dialogue: 0,0:20:25.70,0:20:30.16,Default,NTP,0000,0000,0000,,Like parents would be able to tell their child\Nabout how uneasy they feel about raising them.
+Dialogue: 0,0:20:31.12,0:20:35.13,Default,NTP,0000,0000,0000,,But I... I...
+Dialogue: 0,0:20:35.13,0:20:39.09,Default,NTP,0000,0000,0000,,I just wanted my mother to be happy\Nsince she was always mad, you see?
+Dialogue: 0,0:20:39.09,0:20:43.30,Default,NTP,0000,0000,0000,,She always talked about you,\Nso I wanted her to compliment me for once!
+Dialogue: 0,0:20:43.30,0:20:45.51,Default,NTP,0000,0000,0000,,I wanted my mother to smile at me!
+Dialogue: 0,0:20:47.64,0:20:51.81,Default,NTP,0000,0000,0000,,Then, from now on, make her happy\Nwith something you choose for yourself, Nodoka.
+Dialogue: 0,0:20:52.64,0:20:55.06,Default,NTP,0000,0000,0000,,Not something she tells you to do.
+Dialogue: 0,0:20:57.36,0:21:00.11,Default,NTP,0000,0000,0000,,Yup... Yup...
+Dialogue: 0,0:21:03.78,0:21:08.24,Default,NTP,0000,0000,0000,,Sorry... I'm sorry, mother...
+Dialogue: 0,0:21:19.88,0:21:21.34,Default,NTP,0000,0000,0000,,You know, Big Sister...
+Dialogue: 0,0:21:21.96,0:21:22.80,Default,NTP,0000,0000,0000,,What?
+Dialogue: 0,0:21:23.30,0:21:26.80,Default,NTP,0000,0000,0000,,I don't have to be exactly like you, do I?
+Dialogue: 0,0:21:27.85,0:21:30.06,Default,NTP,0000,0000,0000,,You can if you want to be.
+Dialogue: 0,0:21:30.72,0:21:31.81,Default,NTP,0000,0000,0000,,I don't.
+Dialogue: 0,0:21:40.52,0:21:41.36,Default,NTP,0000,0000,0000,,Huh?
+Dialogue: 0,0:21:41.36,0:21:42.94,Default,NTP,0000,0000,0000,,Eh? What?
+Dialogue: 0,0:21:42.94,0:21:44.36,Default,NTP,0000,0000,0000,,We're back?
+Dialogue: 0,0:21:44.36,0:21:46.53,Default,NTP,0000,0000,0000,,I think so...
+Dialogue: 0,0:21:47.24,0:21:50.16,Default,NTP,0000,0000,0000,,We're back! We're back to normal, Big Sister!
+Dialogue: 0,0:21:50.16,0:21:52.37,Default,NTP,0000,0000,0000,,Nodoka! I'm so glad!
+Dialogue: 0,0:21:56.79,0:21:59.75,Default,NTP,0000,0000,0000,,Now, I can be all lovey-dovey with Mai-san...
+Dialogue: 0,0:21:59.75,0:22:01.59,Default,NTP,0000,0000,0000,,Big Sister!
+Dialogue: 0,0:22:01.59,0:22:02.80,Default,NTP,0000,0000,0000,,Oh, don't cry...
+Dialogue: 0,0:22:02.80,0:22:04.22,Default,NTP,0000,0000,0000,,But...
+Dialogue: 0,0:22:06.68,0:22:09.68,Default,NTP,0000,0000,0000,,In the end, I wonder what this was all about.
+Dialogue: 0,0:22:10.10,0:22:13.06,Default,NTP,0000,0000,0000,,First of all, it wasn't their personas\Nthat had swapped, right?
+Dialogue: 0,0:22:13.31,0:22:17.39,Default,NTP,0000,0000,0000,,I guess so. You could say it was only\Ntheir appearances that swapped.
+Dialogue: 0,0:22:17.39,0:22:22.48,Default,NTP,0000,0000,0000,,The little sister's consciousness, thinking\N"I want to be like Big Sister" or "I have to be like her,"
+Dialogue: 0,0:22:22.48,0:22:25.86,Default,NTP,0000,0000,0000,,probably changed her appearance\Ninto that of Mai Sakurajima.
+Dialogue: 0,0:22:26.28,0:22:29.07,Default,NTP,0000,0000,0000,,Probably, but what kind of reasoning is that?
+Dialogue: 0,0:22:29.53,0:22:34.04,Default,NTP,0000,0000,0000,,As for the principle, it's probably adequate\Nto assume it's a type of quantum teleportation.
+Dialogue: 0,0:22:32.16,0:22:34.87,Default,NTP,0000,0000,0000,,{\a6}Quantum Mechanics Stories that\NEven Gorillas Can Understand
+Dialogue: 0,0:22:36.37,0:22:38.37,Default,NTP,0000,0000,0000,,Gorillas are smart, aren't they?
+Dialogue: 0,0:22:38.37,0:22:39.21,Default,NTP,0000,0000,0000,,In other words...
+Dialogue: 0,0:22:39.46,0:22:44.34,Default,NTP,0000,0000,0000,,Sakurajima-senpai's little sister took the blueprint\Nfor her big sister's physical body for her own,
+Dialogue: 0,0:22:44.34,0:22:50.09,Default,NTP,0000,0000,0000,,and gained the guise of our senpai\Nby observing it for herself. That's what I think.
+Dialogue: 0,0:22:50.09,0:22:53.47,Default,NTP,0000,0000,0000,,Then, why did Mai-san\Nlook like Toyohama as well?
+Dialogue: 0,0:22:53.47,0:23:00.56,Default,NTP,0000,0000,0000,,Is it possible to think that she may have\Nbeen slightly jealous of her little sister, too?
+Dialogue: 0,0:23:45.40,0:23:46.90,Default,NTP,0000,0000,0000,,{\i1}It's unlocked. Come in.{\i0}
+Dialogue: 0,0:23:47.40,0:23:48.99,Default,NTP,0000,0000,0000,,Excuse me!
+Dialogue: 0,0:23:50.32,0:23:52.16,Default,NTP,0000,0000,0000,,Why are you here, Toyohama?
+Dialogue: 0,0:23:52.16,0:23:54.20,Default,NTP,0000,0000,0000,,I'm going to live here, too.
+Dialogue: 0,0:23:54.20,0:23:56.83,Default,NTP,0000,0000,0000,,I thought you mended fences with your mom.
+Dialogue: 0,0:23:56.83,0:23:58.70,Default,NTP,0000,0000,0000,,I had another fight soon after.
+Dialogue: 0,0:23:58.70,0:24:01.08,Default,NTP,0000,0000,0000,,I mean, she was so annoying,\Ntelling me to do this and that, you know?
+Dialogue: 0,0:24:01.08,0:24:02.83,Default,NTP,0000,0000,0000,,Don't "you know" me!
+Dialogue: 0,0:24:02.83,0:24:04.42,Default,NTP,0000,0000,0000,,Are you okay with this, Mai-san?
+Dialogue: 0,0:24:04.42,0:24:06.80,Default,NTP,0000,0000,0000,,Oh, sorry. It's a call from my agency.
+Dialogue: 0,0:24:07.30,0:24:08.84,Default,NTP,0000,0000,0000,,Hello. Thanks for the hard work.
+Dialogue: 0,0:24:09.59,0:24:14.05,Default,NTP,0000,0000,0000,,When I talked to Big Sister about it, she asked,\N"Do you want to live at my place for a while?"
+Dialogue: 0,0:24:14.89,0:24:17.26,Default,NTP,0000,0000,0000,,And, well... Thank you.
+Dialogue: 0,0:24:18.18,0:24:20.94,Default,NTP,0000,0000,0000,,Big Sister said I should give a proper thanks!
+Dialogue: 0,0:24:20.94,0:24:24.81,Default,NTP,0000,0000,0000,,I troubled you in many ways...\NAnd you saved me...
+Dialogue: 0,0:24:24.81,0:24:26.19,Default,NTP,0000,0000,0000,,Don't worry about it.
+Dialogue: 0,0:24:26.19,0:24:29.90,Default,NTP,0000,0000,0000,,I just wanted to be lovey-dovey\Nwith Mai-san as soon as possible.
+Dialogue: 0,0:24:32.53,0:24:34.53,Default,NTP,0000,0000,0000,,I think I understand it a bit now.
+Dialogue: 0,0:24:34.53,0:24:35.49,Default,NTP,0000,0000,0000,,Huh?
+Dialogue: 0,0:24:35.49,0:24:37.79,Default,NTP,0000,0000,0000,,Why Big Sister chose you, Sakuta.
+Dialogue: 0,0:24:39.91,0:24:42.16,Default,NTP,0000,0000,0000,,I am terribly sorry about that.
+Dialogue: 0,0:24:42.16,0:24:44.12,Default,NTP,0000,0000,0000,,Yes, I realize I'll be troubling you.
+Dialogue: 0,0:24:44.63,0:24:45.50,Default,NTP,0000,0000,0000,,Yes...
+Dialogue: 0,0:24:46.04,0:24:47.21,Default,NTP,0000,0000,0000,,Is something wrong?
+Dialogue: 0,0:24:47.71,0:24:49.84,Default,NTP,0000,0000,0000,,I think we've got a slight problem now...
+Dialogue: 0,0:24:50.55,0:24:55.01,Default,NTP,0000,0000,0000,,Showbiz news\NShocking Scandal for Mai Sakurajima!\NIs that her boyfriend walking next to her!?
+Dialogue: 0,0:24:55.76,0:24:58.22,Default,NTP,0000,0000,0000,,Nothing less from you, Sakuta-kun.\NWhat a rascal.
+Dialogue: 0,0:24:57.01,0:25:00.02,Default,NTP,0000,0000,0000,,{\a6}Next Time\N#11 The Kaede Quest

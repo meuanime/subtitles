@@ -1,0 +1,373 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0020,0
+Style: Title,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0030,0030,0060,0
+Style: Title2,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0030,0030,0060,0
+Style: Next Title,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0020,0040,0120,0
+Style: RightSign,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0300,0020,0080,0
+Style: LeftSign,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0120,0400,0040,0
+Style: EpNum,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0050,0400,0250,0
+Style: LowerLeft,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0060,0360,0060,0
+Style: LowerRight,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0400,0020,0020,0
+Style: MidLow,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0110,0
+Style: MidR,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,9,0420,0040,0120,0
+Style: MidL,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0040,0420,0120,0
+Style: MidC,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0200,0200,0120,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:01:33.98,0:01:36.36,Default,NTP,0000,0000,0000,,I heard. I spoke to Sakuta\Non the phone last night.
+Dialogue: 0,0:01:33.98,0:01:36.36,Default,NTP,0000,0000,0000,,{\a6}Kaede was able to go to school at night!
+Dialogue: 0,0:01:36.36,0:01:38.49,Default,NTP,0000,0000,0000,,He said she was going to school\Nduring the day today.
+Dialogue: 0,0:01:39.53,0:01:41.28,Default,NTP,0000,0000,0000,,He should still be home...
+Dialogue: 0,0:01:41.70,0:01:42.91,Default,NTP,0000,0000,0000,,{\an8}SAKUTA
+Dialogue: 0,0:01:49.75,0:01:51.13,Default,NTP,0000,0000,0000,,{\i1}What's wrong, Sakuta?{\i0}
+Dialogue: 0,0:01:51.13,0:01:53.55,Default,NTP,0000,0000,0000,,I think Kaede's gotten her memories back.
+Dialogue: 0,0:01:53.55,0:01:54.55,Default,NTP,0000,0000,0000,,{\i1}Really?{\i0}
+Dialogue: 0,0:01:54.55,0:01:57.05,Default,NTP,0000,0000,0000,,I wouldn't make a mistake about that.
+Dialogue: 0,0:01:57.05,0:01:57.88,Default,NTP,0000,0000,0000,,{\i1}Right...{\i0}
+Dialogue: 0,0:01:58.47,0:02:02.01,Default,NTP,0000,0000,0000,,I plan on having her checked out\Nat the hospital now. Can you come?
+Dialogue: 0,0:02:02.01,0:02:02.85,Default,NTP,0000,0000,0000,,{\i1}Sure thing.{\i0}
+Dialogue: 0,0:02:05.14,0:02:09.19,Default,NTP,0000,0000,0000,,She appears to have no recollection\Nof the time when she had amnesia.
+Dialogue: 0,0:02:10.06,0:02:13.36,Default,NTP,0000,0000,0000,,For now, she can't quite\Nunderstand the situation.
+Dialogue: 0,0:02:13.36,0:02:17.57,Default,NTP,0000,0000,0000,,But in time, she should start to hesitate\Nabout the gaps in her memory.
+Dialogue: 0,0:02:18.57,0:02:21.41,Default,NTP,0000,0000,0000,,Until things settle down,\Nit'd be better to keep her here for observation.
+Dialogue: 0,0:02:22.16,0:02:23.66,Default,NTP,0000,0000,0000,,We are counting on you.
+Dialogue: 0,0:02:26.12,0:02:29.87,Default,NTP,0000,0000,0000,,I don't think there's anything wrong with me...
+Dialogue: 0,0:02:29.87,0:02:31.50,Default,NTP,0000,0000,0000,,You really are Kaede...
+Dialogue: 0,0:02:34.00,0:02:35.50,Default,NTP,0000,0000,0000,,What's wrong, Dad?
+Dialogue: 0,0:02:36.38,0:02:37.92,Default,NTP,0000,0000,0000,,No, this is...
+Dialogue: 0,0:02:38.76,0:02:40.93,Default,NTP,0000,0000,0000,,You're kinda making ME embarrassed...
+Dialogue: 0,0:02:42.34,0:02:43.18,Default,NTP,0000,0000,0000,,Right...
+Dialogue: 0,0:02:43.55,0:02:45.64,Default,NTP,0000,0000,0000,,It's nothing to cry over, really.
+Dialogue: 0,0:02:47.18,0:02:48.39,Default,NTP,0000,0000,0000,,Where are you going?
+Dialogue: 0,0:02:48.89,0:02:50.10,Default,NTP,0000,0000,0000,,Bathroom for a bit.
+Dialogue: 0,0:03:16.80,0:03:19.13,Default,NTP,0000,0000,0000,,Weren't you going to go see pandas again!?
+Dialogue: 0,0:03:20.47,0:03:23.22,Default,NTP,0000,0000,0000,,You said you'd get your money's worth\Nfrom the annual pass!
+Dialogue: 0,0:03:25.01,0:03:27.14,Default,NTP,0000,0000,0000,,You said you could go to school tomorrow...
+Dialogue: 0,0:03:27.60,0:03:29.68,Default,NTP,0000,0000,0000,,You said you could...
+Dialogue: 0,0:03:31.06,0:03:33.44,Default,NTP,0000,0000,0000,,Kaede said that to me!
+Dialogue: 0,0:03:39.82,0:03:42.45,Default,NTP,0000,0000,0000,,Gimme a break... Gimme a break!
+Dialogue: 0,0:03:43.03,0:03:44.28,Default,NTP,0000,0000,0000,,Give me a break!
+Dialogue: 0,0:03:44.28,0:03:47.33,Default,NTP,0000,0000,0000,,What the hell is this!?\NWhat the hell is all this!?
+Dialogue: 0,0:03:51.37,0:03:53.33,Default,NTP,0000,0000,0000,,You'll be all right, Sakuta-kun.
+Dialogue: 0,0:03:55.71,0:03:56.59,Default,NTP,0000,0000,0000,,Shoko-san...
+Dialogue: 0,0:03:57.38,0:03:59.42,Default,NTP,0000,0000,0000,,Yes, it's me, Shoko-san.
+Dialogue: 0,0:03:59.42,0:04:01.80,Default,NTP,0000,0000,0000,,Since I've arrived,\Neverything will be all right.
+Dialogue: 0,0:04:08.72,0:04:11.93,Default,NTP,0000,0000,0000,,I'm opening the door.\NIt's only an accident if you're still changing.
+Dialogue: 0,0:04:16.23,0:04:18.61,Default,NTP,0000,0000,0000,,It will be a while before the bath is hot.
+Dialogue: 0,0:04:19.28,0:04:21.65,Default,NTP,0000,0000,0000,,If you stay like that, you'll catch a cold.
+Dialogue: 0,0:04:24.32,0:04:26.12,Default,NTP,0000,0000,0000,,Here. Hands up, like banzai.
+Dialogue: 0,0:04:34.17,0:04:36.83,Default,NTP,0000,0000,0000,,You're fine. It looks like the blood has clotted.
+Dialogue: 0,0:04:38.42,0:04:40.96,Default,NTP,0000,0000,0000,,Do you want me to take your pants\Nand underwear off, too?
+Dialogue: 0,0:04:41.84,0:04:43.22,Default,NTP,0000,0000,0000,,I'll do it myself.
+Dialogue: 0,0:04:46.59,0:04:48.30,Default,NTP,0000,0000,0000,,I'll leave your change of clothes here.
+Dialogue: 0,0:04:49.18,0:04:50.01,Default,NTP,0000,0000,0000,,Shoko-san.
+Dialogue: 0,0:04:50.47,0:04:51.39,Default,NTP,0000,0000,0000,,What is it?
+Dialogue: 0,0:04:52.10,0:04:55.35,Default,NTP,0000,0000,0000,,I... couldn't do anything.
+Dialogue: 0,0:04:55.94,0:04:57.61,Default,NTP,0000,0000,0000,,I don't think that's the case.
+Dialogue: 0,0:04:58.23,0:05:00.44,Default,NTP,0000,0000,0000,,You put up a valiant effort.
+Dialogue: 0,0:05:01.15,0:05:03.28,Default,NTP,0000,0000,0000,,What would you know about this, Shoko-san...
+Dialogue: 0,0:05:04.24,0:05:08.20,Default,NTP,0000,0000,0000,,"I could have done more for Kaede."
+Dialogue: 0,0:05:09.07,0:05:12.66,Default,NTP,0000,0000,0000,,I can understand how\Nyou regret things like that, Sakuta-kun.
+Dialogue: 0,0:05:13.37,0:05:15.46,Default,NTP,0000,0000,0000,,Shoko-san can see through it all.
+Dialogue: 0,0:05:16.62,0:05:19.75,Default,NTP,0000,0000,0000,,Did Kaede hold a grudge against you?
+Dialogue: 0,0:05:21.30,0:05:24.13,Default,NTP,0000,0000,0000,,She loved you all along, didn't she?
+Dialogue: 0,0:05:25.34,0:05:28.05,Default,NTP,0000,0000,0000,,I could have done even more.
+Dialogue: 0,0:05:29.05,0:05:31.85,Default,NTP,0000,0000,0000,,You can do so at your next opportunity.
+Dialogue: 0,0:05:32.72,0:05:34.64,Default,NTP,0000,0000,0000,,There is no "next" for Kaede.
+Dialogue: 0,0:05:35.64,0:05:39.77,Default,NTP,0000,0000,0000,,With you like that, Sakuta-kun,\NI feel sorry for Kaede.
+Dialogue: 0,0:05:40.94,0:05:44.65,Default,NTP,0000,0000,0000,,This time around, she tried so hard\Nso you wouldn't have any regrets.
+Dialogue: 0,0:05:45.90,0:05:53.04,Default,NTP,0000,0000,0000,,Kaede tried desperately to tell you\Nthat having you at her side was her happiness.
+Dialogue: 0,0:05:53.95,0:05:58.29,Default,NTP,0000,0000,0000,,If her feelings weren't reaching you,\Nthen I feel sorry for her.
+Dialogue: 0,0:06:04.13,0:06:08.05,Default,NTP,0000,0000,0000,,"November 5th. I've decided to\Nstart writing a diary from today on."
+Dialogue: 0,0:06:09.01,0:06:12.97,Default,NTP,0000,0000,0000,,"This is Kaede's diary.\NBig Brother gave me my name."
+Dialogue: 0,0:06:14.27,0:06:17.27,Default,NTP,0000,0000,0000,,"Big Brother bought this notebook\Nand pen for me, too."
+Dialogue: 0,0:06:18.19,0:06:23.61,Default,NTP,0000,0000,0000,,"Kaede has a father, a mother, and a big brother.\NBut, she doesn't really get it."
+Dialogue: 0,0:06:24.69,0:06:26.49,Default,NTP,0000,0000,0000,,"They say that Kaede has no memory."
+Dialogue: 0,0:06:27.28,0:06:31.12,Default,NTP,0000,0000,0000,,"The doctor said that it's amnesia\Nstemming from dissociative disorder."
+Dialogue: 0,0:06:31.82,0:06:32.74,Default,NTP,0000,0000,0000,,"It sounds complicated."
+Dialogue: 0,0:06:33.95,0:06:36.62,Default,NTP,0000,0000,0000,,"Until recently, they say Kaede wasn't Kaede."
+Dialogue: 0,0:06:37.62,0:06:40.62,Default,NTP,0000,0000,0000,,"They told me that 'Kaede-san'\Nwas who Kaede used to be."
+Dialogue: 0,0:06:41.13,0:06:43.50,Default,NTP,0000,0000,0000,,{\i1}But, Kaede knows nothing\Nabout this "Kaede-san".{\i0}
+Dialogue: 0,0:06:44.80,0:06:48.30,Default,NTP,0000,0000,0000,,{\i1}She's never met this person.\NIt really is complicated.{\i0}
+Dialogue: 0,0:06:50.13,0:06:54.60,Default,NTP,0000,0000,0000,,{\i1}December 10th.\NMother and Father look awfully pained.{\i0}
+Dialogue: 0,0:06:55.39,0:06:59.19,Default,NTP,0000,0000,0000,,{\i1}Father spoke to the doctor the entire time.{\i0}
+Dialogue: 0,0:06:59.19,0:07:02.73,Default,NTP,0000,0000,0000,,{\i1}Over and over, hee kept asking the doctor,\N"When will she be better?"{\i0}
+Dialogue: 0,0:07:03.69,0:07:06.11,Default,NTP,0000,0000,0000,,{\i1}Does Kaede have an illness?{\i0}
+Dialogue: 0,0:07:07.49,0:07:11.20,Default,NTP,0000,0000,0000,,{\i1}If Kaede-san's memories return,\Nwhat will happen to Kaede?{\i0}
+Dialogue: 0,0:07:11.99,0:07:14.16,Default,NTP,0000,0000,0000,,{\i1}Where will Kaede go?{\i0}
+Dialogue: 0,0:07:15.12,0:07:18.62,Default,NTP,0000,0000,0000,,{\i1}Thinking about it made her scared,\Nand she cried.{\i0}
+Dialogue: 0,0:07:20.04,0:07:23.33,Default,NTP,0000,0000,0000,,{\i1}March 7th.\NIt's decided that Kaede will be moving.{\i0}
+Dialogue: 0,0:07:24.25,0:07:28.76,Default,NTP,0000,0000,0000,,{\i1}Big Brother said that Kaede can choose\Nwhich things she wants to bring with her.{\i0}
+Dialogue: 0,0:07:29.63,0:07:32.76,Default,NTP,0000,0000,0000,,{\i1}She is a bit uneasy of all the things\Nthat are in Kaede-san's room.{\i0}
+Dialogue: 0,0:07:33.93,0:07:36.81,Default,NTP,0000,0000,0000,,{\i1}She decided to bring the bookshelf\Nand books, at the least.{\i0}
+Dialogue: 0,0:07:37.72,0:07:40.14,Default,NTP,0000,0000,0000,,{\i1}Kaede-san has collected a lot of books.{\i0}
+Dialogue: 0,0:07:41.27,0:07:43.19,Default,NTP,0000,0000,0000,,{\i1}Nasuno will be moving with us.{\i0}
+Dialogue: 0,0:07:43.98,0:07:46.11,Default,NTP,0000,0000,0000,,{\i1}We have arrived at our new home.{\i0}
+Dialogue: 0,0:07:46.11,0:07:50.28,Default,NTP,0000,0000,0000,,{\i1}Someday, when Kaede is all healed,\NKaede-san is sure to return.{\i0}
+Dialogue: 0,0:07:50.95,0:07:56.62,Default,NTP,0000,0000,0000,,{\i1}So, in this new home, for the sake\Nof Big Brother who let Kaede be Kaede,{\i0}
+Dialogue: 0,0:07:53.70,0:07:59.70,Default,NTP,0000,0000,0000,,{\a6}KAEDE AZUSAGAWA
+Dialogue: 0,0:07:56.62,0:07:59.29,Default,NTP,0000,0000,0000,,{\i1}she will do her best\Nto be a good little sister.{\i0}
+Dialogue: 0,0:08:00.16,0:08:02.83,Default,NTP,0000,0000,0000,,{\i1}Big Brother is entering high school this spring.{\i0}
+Dialogue: 0,0:08:03.37,0:08:05.75,Default,NTP,0000,0000,0000,,{\i1}He will be attending Minegahara High School.{\i0}
+Dialogue: 0,0:08:07.09,0:08:09.21,Default,NTP,0000,0000,0000,,{\i1}Big Brother has started a part-time job.{\i0}
+Dialogue: 0,0:08:10.13,0:08:12.13,Default,NTP,0000,0000,0000,,{\i1}He will be coming home late from now on.{\i0}
+Dialogue: 0,0:08:12.88,0:08:16.68,Default,NTP,0000,0000,0000,,{\i1}It feels a bit lonely, but she must\Ntry hard staying home with Nasuno.{\i0}
+Dialogue: 0,0:08:17.93,0:08:22.39,Default,NTP,0000,0000,0000,,{\i1}Big Brother bought a panda DVD\Nwith his first paycheck.{\i0}
+Dialogue: 0,0:08:23.02,0:08:25.40,Default,NTP,0000,0000,0000,,{\i1}Pandas are wonderful.\NThey have a healing effect.{\i0}
+Dialogue: 0,0:08:26.44,0:08:29.73,Default,NTP,0000,0000,0000,,{\i1}Can you believe it?\NBig Brother has a new girlfriend!{\i0}
+Dialogue: 0,0:08:29.73,0:08:31.69,Default,NTP,0000,0000,0000,,{\i1}Impossible! But it's true!{\i0}
+Dialogue: 0,0:08:32.32,0:08:34.49,Default,NTP,0000,0000,0000,,{\i1}Mai-san is a wonderful person.{\i0}
+Dialogue: 0,0:08:34.49,0:08:36.70,Default,NTP,0000,0000,0000,,{\i1}She is a popular person,\Nwho even appears on TV.{\i0}
+Dialogue: 0,0:08:37.32,0:08:38.99,Default,NTP,0000,0000,0000,,{\i1}August 2nd.{\i0}
+Dialogue: 0,0:08:38.99,0:08:41.95,Default,NTP,0000,0000,0000,,{\i1}Big Brother's friend will be\Nstaying with us starting today.{\i0}
+Dialogue: 0,0:08:41.95,0:08:43.79,Default,NTP,0000,0000,0000,,{\i1}Her name is Rio Futaba.{\i0}
+Dialogue: 0,0:08:43.79,0:08:45.21,Default,NTP,0000,0000,0000,,{\i1}September 2nd.{\i0}
+Dialogue: 0,0:08:45.21,0:08:47.67,Default,NTP,0000,0000,0000,,{\i1}Big Brother has become a delinquent.{\i0}
+Dialogue: 0,0:08:47.67,0:08:51.67,Default,NTP,0000,0000,0000,,{\i1}But not exactly. Nodoka-san turned out\Nto be Mai-san's little sister.{\i0}
+Dialogue: 0,0:08:52.46,0:08:54.34,Default,NTP,0000,0000,0000,,"There is something that even Kaede knows."
+Dialogue: 0,0:08:55.22,0:08:57.26,Default,NTP,0000,0000,0000,,"Big Brother has always been regretting."
+Dialogue: 0,0:08:58.18,0:09:00.72,Default,NTP,0000,0000,0000,,"When Kaede was bullied and felt pain,
+Dialogue: 0,0:09:00.72,0:09:03.48,Default,NTP,0000,0000,0000,,he regretted being unable\Nto do anything to help her."
+Dialogue: 0,0:09:05.19,0:09:09.90,Default,NTP,0000,0000,0000,,"Kaede can tell.\NIf Kaede were to disappear like this,
+Dialogue: 0,0:09:09.90,0:09:14.07,Default,NTP,0000,0000,0000,,she's sure that Big Brother will regret it again\Nand will say, 'I couldn't do anything for her.'"
+Dialogue: 0,0:09:15.49,0:09:16.32,Default,NTP,0000,0000,0000,,"So..."
+Dialogue: 0,0:09:17.11,0:09:20.83,Default,NTP,0000,0000,0000,,{\i1}So, Kaede decided to set goals.{\i0}
+Dialogue: 0,0:09:20.83,0:09:23.12,Default,NTP,0000,0000,0000,,{\i1}They're goals to achieve with Big Brother.{\i0}
+Dialogue: 0,0:09:24.12,0:09:29.17,Default,NTP,0000,0000,0000,,{\i1}Even after Kaede is gone,\Nshe doesn't want Big Brother to have regrets.{\i0}
+Dialogue: 0,0:09:29.17,0:09:33.51,Default,NTP,0000,0000,0000,,{\i1}Kaede wants him to hold his head high,\Nknowing he granted many of her dreams.{\i0}
+Dialogue: 0,0:09:34.26,0:09:35.97,Default,NTP,0000,0000,0000,,{\i1}Instead of sad ones,{\i0}
+Dialogue: 0,0:09:35.97,0:09:40.97,Default,NTP,0000,0000,0000,,{\i1}she'd like to leave behind memories\Nthat are fun, happy, and make you smile.{\i0}
+Dialogue: 0,0:09:41.93,0:09:48.31,Default,NTP,0000,0000,0000,,{\i1}Even after she's gone, Kaede will be happy\Nif Big Brother smiles when he remembers her.{\i0}
+Dialogue: 0,0:09:49.10,0:09:51.40,Default,NTP,0000,0000,0000,,{\i1}That's why Kaede will try her best.{\i0}
+Dialogue: 0,0:09:52.36,0:09:56.40,Default,NTP,0000,0000,0000,,{\i1}Kaede doesn't think\Nthere'ss much time left for her.{\i0}
+Dialogue: 0,0:09:57.32,0:10:01.58,Default,NTP,0000,0000,0000,,{\i1}Please, just a little longer...\NGive Kaede some time.{\i0}
+Dialogue: 0,0:10:03.45,0:10:07.04,Default,NTP,0000,0000,0000,,{\i1}Thanks to Big Brother,\NKaede was able to circle so many things.{\i0}
+Dialogue: 0,0:10:07.75,0:10:10.88,Default,NTP,0000,0000,0000,,{\i1}She was able to step outside,\Nafter being scared of it for so long.{\i0}
+Dialogue: 0,0:10:10.88,0:10:11.88,Default,NTP,0000,0000,0000,,{\i1}That deserves a flowery circle.{\i0}
+Dialogue: 0,0:10:12.50,0:10:14.76,Default,NTP,0000,0000,0000,,{\i1}She was able to visit Mai-san's place, too.{\i0}
+Dialogue: 0,0:10:15.42,0:10:17.01,Default,NTP,0000,0000,0000,,{\i1}She was able to ride the train, too.{\i0}
+Dialogue: 0,0:10:17.47,0:10:19.13,Default,NTP,0000,0000,0000,,{\i1}She had fun at the beach, too.{\i0}
+Dialogue: 0,0:10:19.64,0:10:21.22,Default,NTP,0000,0000,0000,,{\i1}She was even able to see the pandas.{\i0}
+Dialogue: 0,0:10:21.80,0:10:25.47,Default,NTP,0000,0000,0000,,{\i1}It was sort of cheating,\Nbut she was able to go to school, too.{\i0}
+Dialogue: 0,0:10:25.47,0:10:27.35,Default,NTP,0000,0000,0000,,{\i1}They're all thanks to Big Brother.{\i0}
+Dialogue: 0,0:10:27.94,0:10:31.27,Default,NTP,0000,0000,0000,,{\i1}Big Brother has given Kaede\Nso much happiness.{\i0}
+Dialogue: 0,0:10:32.06,0:10:35.19,Default,NTP,0000,0000,0000,,{\i1}Kaede is fortunate that she was\NBig Brother's little sister.{\i0}
+Dialogue: 0,0:10:35.73,0:10:38.99,Default,NTP,0000,0000,0000,,{\i1}She loves him now, has always loved him,\Nand will always love him.{\i0}
+Dialogue: 0,0:10:39.86,0:10:42.37,Default,NTP,0000,0000,0000,,{\i1}Tomorrow, she will head to school\Nduring the day.{\i0}
+Dialogue: 0,0:10:45.49,0:10:47.12,Default,NTP,0000,0000,0000,,You don't have to hold it back.
+Dialogue: 0,0:10:47.37,0:10:49.16,Default,NTP,0000,0000,0000,,I shouldn't be crying!
+Dialogue: 0,0:10:49.87,0:10:53.84,Default,NTP,0000,0000,0000,,If I cry here,\NI'll be betraying Kaede's feelings!
+Dialogue: 0,0:10:53.84,0:10:58.01,Default,NTP,0000,0000,0000,,Kaede tried so hard,\Nwhat right do I have to ruin it all!?
+Dialogue: 0,0:10:59.05,0:11:04.39,Default,NTP,0000,0000,0000,,That sadness is another precious thing\Nthat Kaede has given you.
+Dialogue: 0,0:11:05.14,0:11:08.56,Default,NTP,0000,0000,0000,,That shows exactly how big Kaede's existence was.
+Dialogue: 0,0:11:10.85,0:11:12.98,Default,NTP,0000,0000,0000,,Sakuta-kun, you are the big brother...
+Dialogue: 0,0:11:13.36,0:11:15.32,Default,NTP,0000,0000,0000,,You must accept it all.
+Dialogue: 0,0:11:35.25,0:11:38.46,Default,NTP,0000,0000,0000,,{\a6}NOVEMBER 28th
+Dialogue: 0,0:11:50.10,0:11:52.35,Default,NTP,0000,0000,0000,,It looks like Sakuta-kun is all right now,\Nso Shoko-san will be going home.
+Dialogue: 0,0:12:01.70,0:12:03.03,Default,NTP,0000,0000,0000,,I look like crap...
+Dialogue: 0,0:12:32.39,0:12:34.65,Default,NTP,0000,0000,0000,,{\i1}You have one message.{\i0}
+Dialogue: 0,0:12:35.23,0:12:39.48,Default,NTP,0000,0000,0000,,{\i1}November 27th, 10:05PM.{\i0}
+Dialogue: 0,0:12:40.19,0:12:43.32,Default,NTP,0000,0000,0000,,{\i1}It's me. Was Kaede able to go to school?{\i0}
+Dialogue: 0,0:12:43.32,0:12:45.28,Default,NTP,0000,0000,0000,,{\i1}I don't care how late. Give me a call.{\i0}
+Dialogue: 0,0:12:50.87,0:12:51.70,Default,NTP,0000,0000,0000,,Sakuta?
+Dialogue: 0,0:12:52.20,0:12:53.62,Default,NTP,0000,0000,0000,,{\i1}Good morning, Mai-san.{\i0}
+Dialogue: 0,0:12:54.50,0:12:56.29,Default,NTP,0000,0000,0000,,{\i1}Sorry about yesterday.{\i0}
+Dialogue: 0,0:12:56.29,0:13:00.13,Default,NTP,0000,0000,0000,,{\i1}So much happened before I went to sleep,\NI didn't notice you called.{\i0}
+Dialogue: 0,0:13:00.55,0:13:01.76,Default,NTP,0000,0000,0000,,Oh, that's fine.
+Dialogue: 0,0:13:02.38,0:13:05.59,Default,NTP,0000,0000,0000,,What about Kaede?\NWas she able to go to school during the day?
+Dialogue: 0,0:13:06.34,0:13:09.39,Default,NTP,0000,0000,0000,,{\i1}No, she couldn't go to school.{\i0}
+Dialogue: 0,0:13:09.39,0:13:13.10,Default,NTP,0000,0000,0000,,{\i1}She's in the hospital now.\NShe has regained her old memories.{\i0}
+Dialogue: 0,0:13:14.60,0:13:18.19,Default,NTP,0000,0000,0000,,{\i1}But, she doesn't seem to remember anything\Nabout the past two years.{\i0}
+Dialogue: 0,0:13:19.23,0:13:23.07,Default,NTP,0000,0000,0000,,{\i1}Looks like I'll have to\Nreintroduce you to her, Mai-san.{\i0}
+Dialogue: 0,0:13:23.86,0:13:24.70,Default,NTP,0000,0000,0000,,Sakuta...
+Dialogue: 0,0:13:25.03,0:13:26.74,Default,NTP,0000,0000,0000,,Oh, but there's nothing to worry.
+Dialogue: 0,0:13:27.32,0:13:29.53,Default,NTP,0000,0000,0000,,She's fine physically,
+Dialogue: 0,0:13:29.53,0:13:32.79,Default,NTP,0000,0000,0000,,and she's in the hospital\Nfor checkup and monitoring.
+Dialogue: 0,0:13:33.75,0:13:35.54,Default,NTP,0000,0000,0000,,{\i1}And are you all right, Sakuta?{\i0}
+Dialogue: 0,0:13:36.04,0:13:38.67,Default,NTP,0000,0000,0000,,I was slightly confused myself yesterday,
+Dialogue: 0,0:13:39.29,0:13:41.17,Default,NTP,0000,0000,0000,,{\i1}I was slightly confused myself yesterday,\Nbut I've calmed down a bit by morning.{\i0}
+Dialogue: 0,0:13:42.30,0:13:44.38,Default,NTP,0000,0000,0000,,Mai-san, are you all ready now?
+Dialogue: 0,0:13:45.01,0:13:48.14,Default,NTP,0000,0000,0000,,Sorry, looks like my ride's here.\NI have to go now.
+Dialogue: 0,0:13:48.14,0:13:50.93,Default,NTP,0000,0000,0000,,{\i1}Okay. We'll talk more later tonight, then.{\i0}
+Dialogue: 0,0:13:51.68,0:13:53.43,Default,NTP,0000,0000,0000,,{\i1}Please do your best with the filming.{\i0}
+Dialogue: 0,0:13:53.43,0:13:55.10,Default,NTP,0000,0000,0000,,Okay. Later, then.
+Dialogue: 0,0:14:03.32,0:14:07.40,Default,NTP,0000,0000,0000,,What happened yesterday?\NYou went to the bathroom and never came back.
+Dialogue: 0,0:14:07.40,0:14:11.16,Default,NTP,0000,0000,0000,,I had terrible diarrhea,\Nand became friends with the toilet.
+Dialogue: 0,0:14:11.16,0:14:13.08,Default,NTP,0000,0000,0000,,Sheesh, so gross.
+Dialogue: 0,0:14:13.08,0:14:15.41,Default,NTP,0000,0000,0000,,Anyways, Kaede, do you like pandas?
+Dialogue: 0,0:14:15.41,0:14:17.16,Default,NTP,0000,0000,0000,,What's this so suddenly?
+Dialogue: 0,0:14:17.16,0:14:18.42,Default,NTP,0000,0000,0000,,You like them?
+Dialogue: 0,0:14:18.42,0:14:19.96,Default,NTP,0000,0000,0000,,I don't hate them.
+Dialogue: 0,0:14:19.96,0:14:22.13,Default,NTP,0000,0000,0000,,Well then, let's go see them\Nonce you're discharged.
+Dialogue: 0,0:14:22.80,0:14:25.80,Default,NTP,0000,0000,0000,,That's fine, but you're not making any sense.
+Dialogue: 0,0:14:25.80,0:14:28.72,Default,NTP,0000,0000,0000,,I want to go see them. Bear with me.
+Dialogue: 0,0:14:28.72,0:14:33.85,Default,NTP,0000,0000,0000,,Instead of your sister, shouldn't you\Nfind a girlfriend and go with her?
+Dialogue: 0,0:14:33.85,0:14:35.31,Default,NTP,0000,0000,0000,,I already have a girlfriend.
+Dialogue: 0,0:14:35.31,0:14:36.23,Default,NTP,0000,0000,0000,,No way!
+Dialogue: 0,0:14:36.23,0:14:38.48,Default,NTP,0000,0000,0000,,I'll introduce you sometime, so brace yourself!
+Dialogue: 0,0:14:41.02,0:14:42.52,Default,NTP,0000,0000,0000,,Okay, actual take now!
+Dialogue: 0,0:14:42.90,0:14:43.73,Default,NTP,0000,0000,0000,,Take!
+Dialogue: 0,0:14:45.78,0:14:47.15,Default,NTP,0000,0000,0000,,Are you all right?
+Dialogue: 0,0:14:47.15,0:14:48.24,Default,NTP,0000,0000,0000,,Huh?
+Dialogue: 0,0:14:48.24,0:14:50.03,Default,NTP,0000,0000,0000,,I figured something happened\Nwith you and your boyfriend.
+Dialogue: 0,0:14:50.74,0:14:51.95,Default,NTP,0000,0000,0000,,I'm all right.
+Dialogue: 0,0:14:53.20,0:14:57.37,Default,NTP,0000,0000,0000,,{\i1}In the end, Shoko-san has completely\Ndisappeared after that night.{\i0}
+Dialogue: 0,0:14:58.04,0:15:00.29,Default,NTP,0000,0000,0000,,{\a6}SHOKO MAKINOHARA
+Dialogue: 0,0:14:58.58,0:15:02.00,Default,NTP,0000,0000,0000,,{\i1}My calls to the middle-school Makinohara\Nhaven't gone through, either.{\i0}
+Dialogue: 0,0:15:03.21,0:15:06.30,Default,NTP,0000,0000,0000,,{\i1}So, what exactly was Shoko-san's\Nexistence all about?{\i0}
+Dialogue: 0,0:15:07.72,0:15:13.10,Default,NTP,0000,0000,0000,,Maybe "the older Shoko Makinohara"\Nnever existed to begin with?
+Dialogue: 0,0:15:13.10,0:15:15.56,Default,NTP,0000,0000,0000,,No, that's just impossible.
+Dialogue: 0,0:15:15.56,0:15:22.94,Default,NTP,0000,0000,0000,,But in reality, both two years ago and now,\Nonly you saw Shoko Makinohara.
+Dialogue: 0,0:15:22.94,0:15:25.48,Default,NTP,0000,0000,0000,,Nobody else was able to observe her, right?
+Dialogue: 0,0:15:25.48,0:15:27.32,Default,NTP,0000,0000,0000,,This talk about observation again?
+Dialogue: 0,0:15:27.82,0:15:30.70,Default,NTP,0000,0000,0000,,Or, we can think even more simply.
+Dialogue: 0,0:15:30.70,0:15:35.83,Default,NTP,0000,0000,0000,,She was merely an illusion you created.\NThe fantasy of a rascal.
+Dialogue: 0,0:15:36.54,0:15:39.04,Default,NTP,0000,0000,0000,,DECEMBER 1st
+Dialogue: 0,0:15:44.59,0:15:46.05,Default,NTP,0000,0000,0000,,Is this also a fantasy?
+Dialogue: 0,0:15:47.30,0:15:49.55,Default,NTP,0000,0000,0000,,You're done filming the movie already?
+Dialogue: 0,0:15:49.55,0:15:55.05,Default,NTP,0000,0000,0000,,For today. I'm going back to Kanazawa\Non the first bullet train tomorrow morning.
+Dialogue: 0,0:15:56.47,0:15:58.35,Default,NTP,0000,0000,0000,,What? You're not happy?
+Dialogue: 0,0:15:58.35,0:16:00.89,Default,NTP,0000,0000,0000,,Of course I'm terribly,\Ntremendously happy about this.
+Dialogue: 0,0:16:01.19,0:16:02.73,Default,NTP,0000,0000,0000,,Oh, I'll make some tea.
+Dialogue: 0,0:16:02.73,0:16:06.19,Default,NTP,0000,0000,0000,,I'll make the tea,\Nso you go put some clothes on.
+Dialogue: 0,0:16:06.19,0:16:07.44,Default,NTP,0000,0000,0000,,You'll catch a cold.
+Dialogue: 0,0:16:07.44,0:16:08.28,Default,NTP,0000,0000,0000,,Okay.
+Dialogue: 0,0:16:17.12,0:16:19.45,Default,NTP,0000,0000,0000,,But I really was surprised.
+Dialogue: 0,0:16:19.45,0:16:22.25,Default,NTP,0000,0000,0000,,If you were coming back,\Nyou could have dropped me a line...
+Dialogue: 0,0:16:23.37,0:16:24.21,Default,NTP,0000,0000,0000,,Mai-san!
+Dialogue: 0,0:16:25.00,0:16:26.79,Default,NTP,0000,0000,0000,,What is the meaning of this?
+Dialogue: 0,0:16:26.79,0:16:30.26,Default,NTP,0000,0000,0000,,Th-That's, um...
+Dialogue: 0,0:16:30.26,0:16:34.89,Default,NTP,0000,0000,0000,,On the day Kaede's memory returned,\NShoko-san suddenly reappeared.
+Dialogue: 0,0:16:34.89,0:16:39.39,Default,NTP,0000,0000,0000,,And she came over to our place,\Nand cheered me up because I was depressed.
+Dialogue: 0,0:16:40.02,0:16:43.10,Default,NTP,0000,0000,0000,,I found that letter\Nwhen I woke up the next morning.
+Dialogue: 0,0:16:43.10,0:16:46.52,Default,NTP,0000,0000,0000,,Oh, but Shoko-san didn't\Nspend the night at our place...
+Dialogue: 0,0:16:46.52,0:16:49.61,Default,NTP,0000,0000,0000,,No, wait, I fell asleep\Nbefore I realized what was going on,
+Dialogue: 0,0:16:49.61,0:16:52.90,Default,NTP,0000,0000,0000,,so I don't exactly know\Nwhen Shoko-san left, either.
+Dialogue: 0,0:16:52.90,0:16:56.62,Default,NTP,0000,0000,0000,,Oh, but it's nothing, really!\NRest assured, nothing suspicious happened...
+Dialogue: 0,0:16:58.53,0:17:02.08,Default,NTP,0000,0000,0000,,That night, I really cried myself to sleep...
+Dialogue: 0,0:17:02.08,0:17:02.83,Default,NTP,0000,0000,0000,,Enough.
+Dialogue: 0,0:17:04.58,0:17:07.08,Default,NTP,0000,0000,0000,,If you're all right, then all is well.
+Dialogue: 0,0:17:07.08,0:17:08.42,Default,NTP,0000,0000,0000,,Mai-san...
+Dialogue: 0,0:17:08.42,0:17:09.92,Default,NTP,0000,0000,0000,,But, I'm sorry.
+Dialogue: 0,0:17:09.92,0:17:11.30,Default,NTP,0000,0000,0000,,I'm still going to go back today.
+Dialogue: 0,0:17:11.30,0:17:13.59,Default,NTP,0000,0000,0000,,Eh? Wait, go back?
+Dialogue: 0,0:17:13.59,0:17:16.30,Default,NTP,0000,0000,0000,,To Kanazawa. The bullet trains are still running.
+Dialogue: 0,0:17:19.35,0:17:20.85,Default,NTP,0000,0000,0000,,Hold on a second, Mai-san!
+Dialogue: 0,0:17:23.48,0:17:24.31,Default,NTP,0000,0000,0000,,Mai-san...
+Dialogue: 0,0:17:28.19,0:17:30.44,Default,NTP,0000,0000,0000,,I can't do stuff like that for a while, okay?
+Dialogue: 0,0:17:32.11,0:17:33.49,Default,NTP,0000,0000,0000,,I'm sorry, Mai-san...
+Dialogue: 0,0:17:34.28,0:17:38.12,Default,NTP,0000,0000,0000,,I'm not dating you\Nto hear those kinds of words, Sakuta.
+Dialogue: 0,0:17:42.75,0:17:44.50,Default,NTP,0000,0000,0000,,December 2nd
+Dialogue: 0,0:17:44.79,0:17:47.42,Default,NTP,0000,0000,0000,,What's wrong, Sakuta?\NYour eyes are dead.
+Dialogue: 0,0:17:47.42,0:17:49.25,Default,NTP,0000,0000,0000,,They're the same as usual.
+Dialogue: 0,0:17:49.25,0:17:51.05,Default,NTP,0000,0000,0000,,No, today they look especially dead.
+Dialogue: 0,0:17:51.46,0:17:54.80,Default,NTP,0000,0000,0000,,Senpai, if you're not feeling well,\Nwouldn't it be better to just go home?
+Dialogue: 0,0:17:55.42,0:17:56.59,Default,NTP,0000,0000,0000,,No, I'm fine.
+Dialogue: 0,0:17:57.22,0:17:58.51,Default,NTP,0000,0000,0000,,Welcome...
+Dialogue: 0,0:17:59.68,0:18:02.01,Default,NTP,0000,0000,0000,,Argh! Senpai, whacha doin dere?
+Dialogue: 0,0:18:04.31,0:18:06.56,Default,NTP,0000,0000,0000,,What, you were waiting outside?
+Dialogue: 0,0:18:06.56,0:18:08.27,Default,NTP,0000,0000,0000,,We need to talk.
+Dialogue: 0,0:18:08.90,0:18:13.82,Default,NTP,0000,0000,0000,,Make it for another day.\NI'm hungry, and have stuff I need to think about.
+Dialogue: 0,0:18:13.82,0:18:16.61,Default,NTP,0000,0000,0000,,All you need to think about is Big Sister.
+Dialogue: 0,0:18:16.61,0:18:18.99,Default,NTP,0000,0000,0000,,Let me tell you that "stuff" is about Mai-san.
+Dialogue: 0,0:18:19.70,0:18:22.45,Default,NTP,0000,0000,0000,,Big Sister went out of her way\Nto come back from Kanazawa.
+Dialogue: 0,0:18:22.45,0:18:25.58,Default,NTP,0000,0000,0000,,I'm telling you, Mai-san had a\Nmisunderstanding about Shoko-san.
+Dialogue: 0,0:18:25.58,0:18:28.33,Default,NTP,0000,0000,0000,,Huh? Do you seriously think that was it?
+Dialogue: 0,0:18:28.33,0:18:30.71,Default,NTP,0000,0000,0000,,Big Sister does have faith in you, Sakuta.
+Dialogue: 0,0:18:31.29,0:18:32.29,Default,NTP,0000,0000,0000,,If so...
+Dialogue: 0,0:18:32.29,0:18:34.84,Default,NTP,0000,0000,0000,,She came back because\Nshe was worried about you.
+Dialogue: 0,0:18:34.84,0:18:38.80,Default,NTP,0000,0000,0000,,You've had a rough time lately\Nwith all the stuff about Kaede,
+Dialogue: 0,0:18:38.80,0:18:42.26,Default,NTP,0000,0000,0000,,so she was trying to cheer you up\Nby being at your side, even only for a while.
+Dialogue: 0,0:18:42.26,0:18:44.77,Default,NTP,0000,0000,0000,,Plus, today is her birthday to boot.
+Dialogue: 0,0:18:45.35,0:18:46.18,Default,NTP,0000,0000,0000,,Birthday?
+Dialogue: 0,0:18:46.60,0:18:48.73,Default,NTP,0000,0000,0000,,See? December 2nd!
+Dialogue: 0,0:18:48.73,0:18:51.36,Default,NTP,0000,0000,0000,,Wait, how can you not even know\Nwhen her birthday is?
+Dialogue: 0,0:18:52.23,0:18:54.19,Default,NTP,0000,0000,0000,,Toyohama, lend me your phone.
+Dialogue: 0,0:18:54.19,0:18:56.99,Default,NTP,0000,0000,0000,,Huh? Big Sister is still on-site for the shoot today.
+Dialogue: 0,0:18:56.99,0:18:58.20,Default,NTP,0000,0000,0000,,Just give me the phone.
+Dialogue: 0,0:18:58.65,0:18:59.86,Default,NTP,0000,0000,0000,,What are you doing?
+Dialogue: 0,0:18:59.86,0:19:00.87,Default,NTP,0000,0000,0000,,I still have time...
+Dialogue: 0,0:19:01.28,0:19:03.58,Default,NTP,0000,0000,0000,,If I head out to Omiya, and catch a bullet train.
+Dialogue: 0,0:19:03.58,0:19:05.24,Default,NTP,0000,0000,0000,,- You're serious?\N- Of course.
+Dialogue: 0,0:19:06.37,0:19:07.87,Default,NTP,0000,0000,0000,,Call me when you get there.
+Dialogue: 0,0:19:08.25,0:19:10.67,Default,NTP,0000,0000,0000,,I'll casually ask Big Sister where she is for you!
+Dialogue: 0,0:19:45.95,0:19:47.45,Default,NTP,0000,0000,0000,,Why are you here, Sakuta?
+Dialogue: 0,0:19:56.00,0:19:59.80,Default,NTP,0000,0000,0000,,Nodoka was pretty persistent\Nin contacting me, so I figured...
+Dialogue: 0,0:19:59.80,0:20:01.88,Default,NTP,0000,0000,0000,,She said she'd be casual.
+Dialogue: 0,0:20:02.68,0:20:05.22,Default,NTP,0000,0000,0000,,It must have cost you\Nto come all the way here.
+Dialogue: 0,0:20:05.22,0:20:06.39,Default,NTP,0000,0000,0000,,Well, a little bit...
+Dialogue: 0,0:20:07.39,0:20:08.72,Default,NTP,0000,0000,0000,,And the train fare back?
+Dialogue: 0,0:20:09.39,0:20:12.31,Default,NTP,0000,0000,0000,,I might make it back\Nif I don't hop on a bullet train.
+Dialogue: 0,0:20:14.19,0:20:17.53,Default,NTP,0000,0000,0000,,Ryoko-san, I'm terribly sorry about this...
+Dialogue: 0,0:20:17.53,0:20:21.49,Default,NTP,0000,0000,0000,,Can you see if there are any rooms open\Nin the hotel the staff are staying at?
+Dialogue: 0,0:20:21.49,0:20:22.53,Default,NTP,0000,0000,0000,,I'll check for you.
+Dialogue: 0,0:20:24.70,0:20:25.53,Default,NTP,0000,0000,0000,,And?
+Dialogue: 0,0:20:26.20,0:20:27.20,Default,NTP,0000,0000,0000,,Well...
+Dialogue: 0,0:20:29.16,0:20:32.25,Default,NTP,0000,0000,0000,,For starters, happy birthday.
+Dialogue: 0,0:20:34.04,0:20:35.46,Default,NTP,0000,0000,0000,,You're late in saying that.
+Dialogue: 0,0:20:36.29,0:20:38.71,Default,NTP,0000,0000,0000,,You only have 15 minutes for your date.
+Dialogue: 0,0:20:38.71,0:20:42.01,Default,NTP,0000,0000,0000,,And, please get properly cheered up\Nby your boyfriend.
+Dialogue: 0,0:20:42.26,0:20:46.01,Default,NTP,0000,0000,0000,,H-Hold on, Ryoko-san,\Ndon't say weird stuff like that.
+Dialogue: 0,0:20:46.01,0:20:49.01,Default,NTP,0000,0000,0000,,Come on, why are you smirking?\NLet's get going.
+Dialogue: 0,0:20:53.77,0:20:56.23,Default,NTP,0000,0000,0000,,So you were feeling down...
+Dialogue: 0,0:20:56.23,0:20:58.69,Default,NTP,0000,0000,0000,,You seem to be in good spirits.
+Dialogue: 0,0:20:58.69,0:21:01.40,Default,NTP,0000,0000,0000,,I was depressed all day myself, you know.
+Dialogue: 0,0:21:03.36,0:21:05.16,Default,NTP,0000,0000,0000,,Anyways, it's a bit cold...
+Dialogue: 0,0:21:10.87,0:21:14.04,Default,NTP,0000,0000,0000,,Didn't you say you couldn't do stuff\Nlike this for a while?
+Dialogue: 0,0:21:14.04,0:21:15.54,Default,NTP,0000,0000,0000,,It's fine since it's cold.
+Dialogue: 0,0:21:16.58,0:21:17.79,Default,NTP,0000,0000,0000,,Hurray for winter.
+Dialogue: 0,0:21:19.50,0:21:22.01,Default,NTP,0000,0000,0000,,Um... I really am sorry for everything.
+Dialogue: 0,0:21:22.84,0:21:24.09,Default,NTP,0000,0000,0000,,It's fine now, really.
+Dialogue: 0,0:21:24.09,0:21:27.34,Default,NTP,0000,0000,0000,,It's not fine. Let me apologize properly.
+Dialogue: 0,0:21:27.34,0:21:31.14,Default,NTP,0000,0000,0000,,You were worried about me and rushed back\Nall the way from Kanazawa.
+Dialogue: 0,0:21:32.64,0:21:34.52,Default,NTP,0000,0000,0000,,I should properly apologize myself.
+Dialogue: 0,0:21:35.31,0:21:39.19,Default,NTP,0000,0000,0000,,I should be honest, since you\Ncame all the way out here to see me.
+Dialogue: 0,0:21:41.40,0:21:44.70,Default,NTP,0000,0000,0000,,I knew you needed someone to support you.
+Dialogue: 0,0:21:45.70,0:21:48.82,Default,NTP,0000,0000,0000,,It was just a slight shock\Nthat I wasn't that person.
+Dialogue: 0,0:21:49.66,0:21:51.29,Default,NTP,0000,0000,0000,,I think that's why yesterday...
+Dialogue: 0,0:21:51.29,0:21:55.66,Default,NTP,0000,0000,0000,,No, the day before yesterday now,\NI said what I said.
+Dialogue: 0,0:21:57.79,0:21:58.63,Default,NTP,0000,0000,0000,,Sakuta...
+Dialogue: 0,0:22:00.96,0:22:05.51,Default,NTP,0000,0000,0000,,I'm sorry I couldn't be there for you\Nin your greatest time of need.
+Dialogue: 0,0:22:06.22,0:22:10.60,Default,NTP,0000,0000,0000,,Just you being here with me\Nalways makes me feel happy.
+Dialogue: 0,0:22:11.18,0:22:13.97,Default,NTP,0000,0000,0000,,But that means I'm not doing anything at all.
+Dialogue: 0,0:22:13.97,0:22:16.60,Default,NTP,0000,0000,0000,,And I think that's an amazing thing, you know?
+Dialogue: 0,0:22:18.10,0:22:21.07,Default,NTP,0000,0000,0000,,I want to be someone like that\Nfor you as well, Mai-san.
+Dialogue: 0,0:22:22.86,0:22:23.57,Default,NTP,0000,0000,0000,,Sakuta...
+Dialogue: 0,0:22:24.19,0:22:25.11,Default,NTP,0000,0000,0000,,What is it?
+Dialogue: 0,0:22:25.40,0:22:26.49,Default,NTP,0000,0000,0000,,Close your eyes.
+Dialogue: 0,0:22:36.75,0:22:37.58,Default,NTP,0000,0000,0000,,Sakuta...
+Dialogue: 0,0:22:45.09,0:22:46.09,Default,NTP,0000,0000,0000,,Owwww!
+Dialogue: 0,0:22:46.09,0:22:48.84,Default,NTP,0000,0000,0000,,That hurts, Mai-san! Wait, why!?
+Dialogue: 0,0:22:48.84,0:22:52.68,Default,NTP,0000,0000,0000,,I mean, this is the best reward\NI can give you, right?
+Dialogue: 0,0:23:59.62,0:24:00.50,Default,NTP,0000,0000,0000,,You know what?
+Dialogue: 0,0:24:02.92,0:24:04.38,Default,NTP,0000,0000,0000,,Thank you, Big Brother.
+Dialogue: 0,0:24:05.13,0:24:07.88,Default,NTP,0000,0000,0000,,No, I'm the one that has to thank you.
+Dialogue: 0,0:24:08.55,0:24:10.26,Default,NTP,0000,0000,0000,,Why are you thanking me?
+Dialogue: 0,0:24:12.05,0:24:16.14,Default,NTP,0000,0000,0000,,By the way, Kano said she wanted to\Ndrop by sometime. What do you want to do?
+Dialogue: 0,0:24:16.68,0:24:17.97,Default,NTP,0000,0000,0000,,Komi-chan did?
+Dialogue: 0,0:24:17.97,0:24:18.68,Default,NTP,0000,0000,0000,,Yeah.
+Dialogue: 0,0:24:20.10,0:24:21.60,Default,NTP,0000,0000,0000,,I want to see her.
+Dialogue: 0,0:24:21.60,0:24:25.81,Default,NTP,0000,0000,0000,,Then, I'll let her know you do.\NAnything else you want to do?
+Dialogue: 0,0:24:25.81,0:24:27.02,Default,NTP,0000,0000,0000,,Let's see...
+Dialogue: 0,0:24:28.40,0:24:29.69,Default,NTP,0000,0000,0000,,I want to go to school.
+Dialogue: 0,0:24:31.40,0:24:32.99,Default,NTP,0000,0000,0000,,I want to be able to go.
+Dialogue: 0,0:24:33.49,0:24:34.99,Default,NTP,0000,0000,0000,,You're not afraid anymore?
+Dialogue: 0,0:24:35.57,0:24:38.29,Default,NTP,0000,0000,0000,,I think I'll be all right. I mean...
+Dialogue: 0,0:24:40.33,0:24:42.00,Default,NTP,0000,0000,0000,,I'm not alone anymore.
+Dialogue: 0,0:24:46.42,0:24:47.34,Default,NTP,0000,0000,0000,,Shall we go?
+Dialogue: 0,0:24:47.84,0:24:48.67,Default,NTP,0000,0000,0000,,Yup!
+Dialogue: 0,0:24:55.89,0:24:58.26,Default,NTP,0000,0000,0000,,Nothing less from myself.\NSuch a rascal.
+Dialogue: 0,0:24:57.01,0:24:59.39,Default,NTP,0000,0000,0000,,{\a6}THANK YOU FOR WATCHING!

@@ -1,0 +1,462 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0020,0
+Style: Title,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0030,0030,0060,0
+Style: Title2,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0030,0030,0060,0
+Style: Next Title,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0020,0040,0120,0
+Style: RightSign,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0300,0020,0080,0
+Style: LeftSign,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0120,0400,0040,0
+Style: EpNum,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0050,0400,0250,0
+Style: LowerLeft,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0060,0360,0060,0
+Style: LowerRight,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0400,0020,0020,0
+Style: MidLow,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0110,0
+Style: MidR,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,9,0420,0040,0120,0
+Style: MidL,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0040,0420,0120,0
+Style: MidC,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0200,0200,0120,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:00:23.12,0:00:24.00,Default,NTP,0000,0000,0000,,Poop.
+Dialogue: 0,0:00:24.42,0:00:25.92,Default,NTP,0000,0000,0000,,Shouting he's a virgin.
+Dialogue: 0,0:00:39.26,0:00:41.27,Default,NTP,0000,0000,0000,,{\a6}FINAL EXAMS
+Dialogue: 0,0:00:41.64,0:00:46.65,Default,NTP,0000,0000,0000,,{\i1}This is no longer the air of,\N"more than a senpai, but not quite dating."{\i0}
+Dialogue: 0,0:00:47.56,0:00:51.19,Default,NTP,0000,0000,0000,,{\i1}Would people really believe this\Nnaturally fizzing out over summer break?{\i0}
+Dialogue: 0,0:02:21.99,0:02:24.49,Default,NTP,0000,0000,0000,,{\a6}JULY 10th
+Dialogue: 0,0:02:25.49,0:02:29.33,Default,NTP,0000,0000,0000,,Hey! Don't look away.\NWe're studying for exams.
+Dialogue: 0,0:02:29.33,0:02:32.33,Default,NTP,0000,0000,0000,,I'm fine as long as I can avoid flunking.
+Dialogue: 0,0:02:32.88,0:02:35.59,Default,NTP,0000,0000,0000,,Are you properly thinking\Nof what career to pursue?
+Dialogue: 0,0:02:35.80,0:02:37.88,Default,NTP,0000,0000,0000,,I wish to marry Mai-san someday.
+Dialogue: 0,0:02:40.89,0:02:42.97,Default,NTP,0000,0000,0000,,I'm thinking about going to college.
+Dialogue: 0,0:02:43.68,0:02:44.72,Default,NTP,0000,0000,0000,,What about you?
+Dialogue: 0,0:02:44.72,0:02:46.14,Default,NTP,0000,0000,0000,,Planning on university.
+Dialogue: 0,0:02:46.14,0:02:48.31,Default,NTP,0000,0000,0000,,So you're not focusing on work?
+Dialogue: 0,0:02:48.31,0:02:50.60,Default,NTP,0000,0000,0000,,I can still attend school while working.
+Dialogue: 0,0:02:50.60,0:02:53.06,Default,NTP,0000,0000,0000,,I'm considering a public university\Nin Yokohama.
+Dialogue: 0,0:02:53.06,0:02:54.73,Default,NTP,0000,0000,0000,,Well, you do have good grades.
+Dialogue: 0,0:02:55.02,0:02:57.90,Default,NTP,0000,0000,0000,,And you want to go\Nto the same university as me, right?
+Dialogue: 0,0:02:57.90,0:02:59.11,Default,NTP,0000,0000,0000,,If possible.
+Dialogue: 0,0:02:59.57,0:03:01.49,Default,NTP,0000,0000,0000,,Then you want to study well, right?
+Dialogue: 0,0:03:01.91,0:03:03.20,Default,NTP,0000,0000,0000,,Well, I guess...
+Dialogue: 0,0:03:03.70,0:03:05.87,Default,NTP,0000,0000,0000,,What? You sound half-hearted.
+Dialogue: 0,0:03:05.87,0:03:10.29,Default,NTP,0000,0000,0000,,There's the issue of basic academics,\Nso I can't really motivate myself.
+Dialogue: 0,0:03:10.66,0:03:13.83,Default,NTP,0000,0000,0000,,Then what if I told you\NI'll be tutoring in a bunny girl outfit?
+Dialogue: 0,0:03:13.83,0:03:15.50,Default,NTP,0000,0000,0000,,I'd get motivated in various ways!
+Dialogue: 0,0:03:23.76,0:03:24.51,Default,NTP,0000,0000,0000,,What?
+Dialogue: 0,0:03:24.76,0:03:27.89,Default,NTP,0000,0000,0000,,I didn't think you'd really wear that outfit.
+Dialogue: 0,0:03:27.89,0:03:30.06,Default,NTP,0000,0000,0000,,Look at the textbook and not me.
+Dialogue: 0,0:03:30.06,0:03:31.81,Default,NTP,0000,0000,0000,,What's wrong with you, Mai-san?
+Dialogue: 0,0:03:31.81,0:03:32.56,Default,NTP,0000,0000,0000,,Me?
+Dialogue: 0,0:03:32.77,0:03:35.40,Default,NTP,0000,0000,0000,,You're not getting upset with me.\NWhat happened?
+Dialogue: 0,0:03:35.40,0:03:39.69,Default,NTP,0000,0000,0000,,Nothing in particular. I just thought\Ngiving you a carrot every so often was better.
+Dialogue: 0,0:03:39.69,0:03:40.65,Default,NTP,0000,0000,0000,,Why?
+Dialogue: 0,0:03:40.65,0:03:43.95,Default,NTP,0000,0000,0000,,I didn't think you'd go so far\Nas to get in a fight for that girl's sake.
+Dialogue: 0,0:03:44.45,0:03:47.03,Default,NTP,0000,0000,0000,,By chance, were you watching\Nthat thing on Monday?
+Dialogue: 0,0:03:47.03,0:03:48.16,Default,NTP,0000,0000,0000,,From the middle.
+Dialogue: 0,0:03:48.49,0:03:51.08,Default,NTP,0000,0000,0000,,Oh, right. You should wash your shoes.
+Dialogue: 0,0:03:51.08,0:03:53.46,Default,NTP,0000,0000,0000,,The bit about stepping on poop?\NThat was a lie.
+Dialogue: 0,0:03:53.46,0:03:55.29,Default,NTP,0000,0000,0000,,Oh really? How boring.
+Dialogue: 0,0:03:55.29,0:03:57.63,Default,NTP,0000,0000,0000,,So basically, you wanted me\Nto give you some attention?
+Dialogue: 0,0:03:57.63,0:03:58.80,Default,NTP,0000,0000,0000,,I'll punch you.
+Dialogue: 0,0:03:58.80,0:03:59.96,Default,NTP,0000,0000,0000,,Not the face, please!
+Dialogue: 0,0:04:01.30,0:04:03.76,Default,NTP,0000,0000,0000,,Hurry up and humor me.
+Dialogue: 0,0:04:04.30,0:04:05.34,Default,NTP,0000,0000,0000,,Mai-san.
+Dialogue: 0,0:04:05.34,0:04:06.18,Default,NTP,0000,0000,0000,,What?
+Dialogue: 0,0:04:06.55,0:04:07.43,Default,NTP,0000,0000,0000,,I love you.
+Dialogue: 0,0:04:07.85,0:04:09.01,Default,NTP,0000,0000,0000,,{\a6}OUCH!
+Dialogue: 0,0:04:08.35,0:04:10.47,Default,NTP,0000,0000,0000,,Don't openly cheat.
+Dialogue: 0,0:04:10.47,0:04:12.81,Default,NTP,0000,0000,0000,,For now, you're that first-year's\Nboyfriend, aren't you?
+Dialogue: 0,0:04:18.23,0:04:19.82,Default,NTP,0000,0000,0000,,Do well on exams?
+Dialogue: 0,0:04:20.36,0:04:22.15,Default,NTP,0000,0000,0000,,Not really. What about you, Senpai?
+Dialogue: 0,0:04:22.36,0:04:23.24,Default,NTP,0000,0000,0000,,Totally—
+Dialogue: 0,0:04:23.24,0:04:23.95,Default,NTP,0000,0000,0000,,You did well?
+Dialogue: 0,0:04:23.95,0:04:25.20,Default,NTP,0000,0000,0000,,Failed.
+Dialogue: 0,0:04:25.20,0:04:27.28,Default,NTP,0000,0000,0000,,Well then, you're in my camp.
+Dialogue: 0,0:04:31.04,0:04:33.96,Default,NTP,0000,0000,0000,,I promised to go to the beach\Nwith Rena and the others.
+Dialogue: 0,0:04:33.96,0:04:36.58,Default,NTP,0000,0000,0000,,But I only have the school swimsuit.
+Dialogue: 0,0:04:36.58,0:04:38.42,Default,NTP,0000,0000,0000,,Why not wear your middle school one?
+Dialogue: 0,0:04:38.42,0:04:39.75,Default,NTP,0000,0000,0000,,Why should I go back to that?
+Dialogue: 0,0:04:40.13,0:04:42.17,Default,NTP,0000,0000,0000,,Oh, how about this one?
+Dialogue: 0,0:04:42.51,0:04:45.80,Default,NTP,0000,0000,0000,,I'm not interested\Nin rejoicing over tons of padding.
+Dialogue: 0,0:04:46.18,0:04:48.30,Default,NTP,0000,0000,0000,,This isn't to appease you, Senpai.
+Dialogue: 0,0:04:48.30,0:04:50.31,Default,NTP,0000,0000,0000,,With swimsuits like that,
+Dialogue: 0,0:04:50.31,0:04:52.68,Default,NTP,0000,0000,0000,,you should consider them\Nonce you're that big.
+Dialogue: 0,0:04:52.68,0:04:54.77,Default,NTP,0000,0000,0000,,I'll never be able to in this lifetime!
+Dialogue: 0,0:04:55.23,0:04:59.94,Default,NTP,0000,0000,0000,,You know, if you keep being rude like that,\NSakurajima-senpai will hate you.
+Dialogue: 0,0:04:59.94,0:05:02.65,Default,NTP,0000,0000,0000,,She's sure to punch me if I say that.
+Dialogue: 0,0:05:02.65,0:05:03.90,Default,NTP,0000,0000,0000,,You sound happy, somehow.
+Dialogue: 0,0:05:04.74,0:05:07.66,Default,NTP,0000,0000,0000,,Do you go to the beach\Nwith Sakurajima-senpai?
+Dialogue: 0,0:05:07.66,0:05:09.07,Default,NTP,0000,0000,0000,,Who knows...
+Dialogue: 0,0:05:09.07,0:05:11.87,Default,NTP,0000,0000,0000,,Mai-san is in show-biz,\Nso we might not be able to do stuff like that.
+Dialogue: 0,0:05:12.24,0:05:17.33,Default,NTP,0000,0000,0000,,I'll help you out, Senpai,\Nso things go well with Sakurajima-senpai.
+Dialogue: 0,0:05:17.33,0:05:20.46,Default,NTP,0000,0000,0000,,And whose fault is it\Nthat my relationship is distanced now?
+Dialogue: 0,0:05:21.34,0:05:23.38,Default,NTP,0000,0000,0000,,Th-That's why I'll cheer you on.
+Dialogue: 0,0:05:23.38,0:05:26.05,Default,NTP,0000,0000,0000,,Yeah, yeah.\NI appreciate the sentiment.
+Dialogue: 0,0:05:27.97,0:05:28.72,Default,NTP,0000,0000,0000,,Hey, Koga...
+Dialogue: 0,0:05:29.01,0:05:30.14,Default,NTP,0000,0000,0000,,What?
+Dialogue: 0,0:05:30.14,0:05:32.77,Default,NTP,0000,0000,0000,,Shouldn't we be thinking about\Nhow we're going to break up?
+Dialogue: 0,0:05:32.97,0:05:34.56,Default,NTP,0000,0000,0000,,Yeah, I know.
+Dialogue: 0,0:05:34.56,0:05:37.60,Default,NTP,0000,0000,0000,,I've already thought about how\NI'm going to dump you, so don't worry.
+Dialogue: 0,0:05:37.60,0:05:39.40,Default,NTP,0000,0000,0000,,Wait, I'm the one being dumped?
+Dialogue: 0,0:05:39.77,0:05:43.78,Default,NTP,0000,0000,0000,,I thought of a scenario where you never\Ngot over Sakurajima-senpai in the end,
+Dialogue: 0,0:05:43.78,0:05:46.15,Default,NTP,0000,0000,0000,,and I dump you after realizing that.
+Dialogue: 0,0:05:46.32,0:05:47.82,Default,NTP,0000,0000,0000,,That's strangely realistic.
+Dialogue: 0,0:05:47.82,0:05:51.45,Default,NTP,0000,0000,0000,,And I end it by slapping you and saying,\N"I don't know you anymore, Senpai!"
+Dialogue: 0,0:05:51.45,0:05:53.20,Default,NTP,0000,0000,0000,,You're not really going through\Nwith that, right?
+Dialogue: 0,0:05:53.20,0:05:54.66,Default,NTP,0000,0000,0000,,It's important to be realistic.
+Dialogue: 0,0:05:54.66,0:05:55.87,Default,NTP,0000,0000,0000,,So you are...
+Dialogue: 0,0:05:56.08,0:05:58.46,Default,NTP,0000,0000,0000,,Keep your schedule open\Nafter the term-end ceremony.
+Dialogue: 0,0:05:58.46,0:06:01.17,Default,NTP,0000,0000,0000,,I'm planning to have the argument\Non the way back from our beach date.
+Dialogue: 0,0:06:01.59,0:06:03.59,Default,NTP,0000,0000,0000,,JULY 18th
+Dialogue: 0,0:06:04.05,0:06:05.88,Default,NTP,0000,0000,0000,,Big Brother, it's morning.
+Dialogue: 0,0:06:09.47,0:06:10.85,Default,NTP,0000,0000,0000,,Morning, Kaede.
+Dialogue: 0,0:06:11.47,0:06:12.76,Default,NTP,0000,0000,0000,,Good morning.
+Dialogue: 0,0:06:14.56,0:06:16.68,Default,NTP,0000,0000,0000,,{\a6}Today is Friday, July 18th.
+Dialogue: 0,0:06:15.68,0:06:17.18,Default,NTP,0000,0000,0000,,Summer break is starting tomorrow.
+Dialogue: 0,0:06:17.77,0:06:20.02,Default,NTP,0000,0000,0000,,What do you think is symbolic of summer?
+Dialogue: 0,0:06:20.02,0:06:21.31,Default,NTP,0000,0000,0000,,A watermelon.
+Dialogue: 0,0:06:21.31,0:06:23.15,Default,NTP,0000,0000,0000,,Then I'll go get one next time.
+Dialogue: 0,0:06:23.15,0:06:24.65,Default,NTP,0000,0000,0000,,I want a round one.
+Dialogue: 0,0:06:27.90,0:06:29.95,Default,NTP,0000,0000,0000,,Sakuta, what're your plans\Nfor the summer?
+Dialogue: 0,0:06:29.95,0:06:30.95,Default,NTP,0000,0000,0000,,Work.
+Dialogue: 0,0:06:30.95,0:06:32.70,Default,NTP,0000,0000,0000,,You do have Koga, too.
+Dialogue: 0,0:06:32.70,0:06:33.58,Default,NTP,0000,0000,0000,,What about you?
+Dialogue: 0,0:06:33.58,0:06:35.79,Default,NTP,0000,0000,0000,,Work, team stuff, dates.
+Dialogue: 0,0:06:36.16,0:06:37.62,Default,NTP,0000,0000,0000,,You master of adolescence!
+Dialogue: 0,0:06:37.62,0:06:39.54,Default,NTP,0000,0000,0000,,I could say the same of you!
+Dialogue: 0,0:06:39.79,0:06:45.09,Default,NTP,0000,0000,0000,,{\a6}{\i1}So starting tomorrow,\Nyou will have a long summer break.{\i0}
+Dialogue: 0,0:06:45.09,0:06:48.26,Default,NTP,0000,0000,0000,,{\a6}{\i1}In the meantime,\NI have a couple favors to ask of you.{\i0}
+Dialogue: 0,0:06:48.26,0:06:49.76,Default,NTP,0000,0000,0000,,{\i1}At last, our final date.{\i0}
+Dialogue: 0,0:06:51.01,0:06:54.60,Default,NTP,0000,0000,0000,,{\i1}Our lie to the entire student body\Nwill end today.{\i0}
+Dialogue: 0,0:06:58.85,0:07:01.35,Default,NTP,0000,0000,0000,,Oh, you got here first, Senpai.
+Dialogue: 0,0:07:05.86,0:07:08.61,Default,NTP,0000,0000,0000,,I changed into my swimsuit\Nin the school locker room.
+Dialogue: 0,0:07:09.65,0:07:11.53,Default,NTP,0000,0000,0000,,You have a lewd look in your eyes.
+Dialogue: 0,0:07:11.53,0:07:12.45,Default,NTP,0000,0000,0000,,I know.
+Dialogue: 0,0:07:12.70,0:07:14.62,Default,NTP,0000,0000,0000,,That means don't stare!
+Dialogue: 0,0:07:34.89,0:07:36.39,Default,NTP,0000,0000,0000,,All right, let's swim!
+Dialogue: 0,0:07:36.39,0:07:38.06,Default,NTP,0000,0000,0000,,Eh? No feedback to give?
+Dialogue: 0,0:07:38.06,0:07:40.48,Default,NTP,0000,0000,0000,,You didn't want me to stare, right?
+Dialogue: 0,0:07:40.48,0:07:42.48,Default,NTP,0000,0000,0000,,Well, I do think you're cute.
+Dialogue: 0,0:07:42.48,0:07:44.23,Default,NTP,0000,0000,0000,,D-Don't say that I'm cute!
+Dialogue: 0,0:07:44.23,0:07:46.40,Default,NTP,0000,0000,0000,,Then what do you want me to say?
+Dialogue: 0,0:07:46.82,0:07:49.28,Default,NTP,0000,0000,0000,,C-Cute, I guess...
+Dialogue: 0,0:07:49.28,0:07:51.61,Default,NTP,0000,0000,0000,,Are you emotionally unstable?
+Dialogue: 0,0:07:51.61,0:07:53.78,Default,NTP,0000,0000,0000,,This is just how girls' minds work!
+Dialogue: 0,0:07:53.78,0:07:55.24,Default,NTP,0000,0000,0000,,I don't flippin' get it.
+Dialogue: 0,0:07:55.24,0:07:57.58,Default,NTP,0000,0000,0000,,You're so irritating, Senpai!
+Dialogue: 0,0:07:57.58,0:08:01.33,Default,NTP,0000,0000,0000,,Since I'm irritating,\NI'll just go eat some grilled corn.
+Dialogue: 0,0:08:01.91,0:08:03.08,Default,NTP,0000,0000,0000,,I'll go, too!
+Dialogue: 0,0:08:18.56,0:08:21.31,Default,NTP,0000,0000,0000,,It's a race to see which castle\Ncan stand up to the waves better.
+Dialogue: 0,0:08:21.31,0:08:23.35,Default,NTP,0000,0000,0000,,Loser buys winner shaved ice.
+Dialogue: 0,0:08:27.27,0:08:28.65,Default,NTP,0000,0000,0000,,Your butt saved you.
+Dialogue: 0,0:08:28.65,0:08:30.15,Default,NTP,0000,0000,0000,,Sh-Shut up!
+Dialogue: 0,0:08:40.41,0:08:41.29,Default,NTP,0000,0000,0000,,You know, Senpai...
+Dialogue: 0,0:08:42.04,0:08:43.37,Default,NTP,0000,0000,0000,,Hungry again?
+Dialogue: 0,0:08:44.50,0:08:45.88,Default,NTP,0000,0000,0000,,Thanks for everything up to today.
+Dialogue: 0,0:08:47.46,0:08:48.29,Default,NTP,0000,0000,0000,,Here.
+Dialogue: 0,0:08:49.63,0:08:50.80,Default,NTP,0000,0000,0000,,Let's shake hands.
+Dialogue: 0,0:08:50.80,0:08:51.63,Default,NTP,0000,0000,0000,,Why?
+Dialogue: 0,0:08:52.01,0:08:52.92,Default,NTP,0000,0000,0000,,To say goodbye.
+Dialogue: 0,0:08:59.47,0:09:03.56,Default,NTP,0000,0000,0000,,In the end, you were still in love\Nwith Sakurajima-senpai.
+Dialogue: 0,0:09:03.56,0:09:06.10,Default,NTP,0000,0000,0000,,So I got fed up and dumped you.
+Dialogue: 0,0:09:06.73,0:09:08.52,Default,NTP,0000,0000,0000,,You don't have to slap me?
+Dialogue: 0,0:09:08.81,0:09:11.23,Default,NTP,0000,0000,0000,,I'll just say that I did.
+Dialogue: 0,0:09:11.23,0:09:14.45,Default,NTP,0000,0000,0000,,If I slapped you now,\NI'd be a really ungrateful person.
+Dialogue: 0,0:09:15.03,0:09:16.49,Default,NTP,0000,0000,0000,,I see...
+Dialogue: 0,0:09:16.49,0:09:19.03,Default,NTP,0000,0000,0000,,Well then, good job.
+Dialogue: 0,0:09:19.03,0:09:19.87,Default,NTP,0000,0000,0000,,Yeah.
+Dialogue: 0,0:09:21.12,0:09:22.91,Default,NTP,0000,0000,0000,,Have a good summer break.
+Dialogue: 0,0:09:22.91,0:09:26.83,Default,NTP,0000,0000,0000,,I hope you get to go out\Nwith Sakurajima-senpai.
+Dialogue: 0,0:09:27.96,0:09:30.04,Default,NTP,0000,0000,0000,,Well, I'll take my time with that.
+Dialogue: 0,0:09:36.68,0:09:38.26,Default,NTP,0000,0000,0000,,Big Brother, it's morning.
+Dialogue: 0,0:09:40.30,0:09:41.93,Default,NTP,0000,0000,0000,,You know, Kaede...
+Dialogue: 0,0:09:41.93,0:09:43.10,Default,NTP,0000,0000,0000,,Yes?
+Dialogue: 0,0:09:43.10,0:09:46.48,Default,NTP,0000,0000,0000,,There's something called summer break\Nin this world.
+Dialogue: 0,0:09:46.73,0:09:49.61,Default,NTP,0000,0000,0000,,But summer break doesn't start\Nuntil tomorrow, right?
+Dialogue: 0,0:09:49.61,0:09:51.19,Default,NTP,0000,0000,0000,,No, it's today.
+Dialogue: 0,0:09:51.19,0:09:52.36,Default,NTP,0000,0000,0000,,No, it's tomorrow.
+Dialogue: 0,0:09:58.99,0:09:59.87,Default,NTP,0000,0000,0000,,Big Brother?
+Dialogue: 0,0:10:01.16,0:10:03.37,Default,NTP,0000,0000,0000,,{\a6}Kaede, do you want to eat some watermelon?
+Dialogue: 0,0:10:03.37,0:10:05.29,Default,NTP,0000,0000,0000,,{\a6}Eh? I do want some.
+Dialogue: 0,0:10:05.29,0:10:07.16,Default,NTP,0000,0000,0000,,{\a6}Then I'll go buy a round one next time.
+Dialogue: 0,0:10:05.29,0:10:07.83,Default,NTP,0000,0000,0000,,JULY 18th (2nd TIME)
+Dialogue: 0,0:10:09.75,0:10:11.34,Default,NTP,0000,0000,0000,,Oh, it's this app?
+Dialogue: 0,0:10:11.34,0:10:12.88,Default,NTP,0000,0000,0000,,- Yeah, this one.\N- Let me see.
+Dialogue: 0,0:10:12.88,0:10:13.71,Default,NTP,0000,0000,0000,,Tomoe...
+Dialogue: 0,0:10:15.84,0:10:18.09,Default,NTP,0000,0000,0000,,You trouble me when you suddenly come\Nto the classroom.
+Dialogue: 0,0:10:18.09,0:10:20.93,Default,NTP,0000,0000,0000,,I feel kinda bad,\Nbut there's nothing I can do.
+Dialogue: 0,0:10:20.93,0:10:22.68,Default,NTP,0000,0000,0000,,Did something bad happen to you?
+Dialogue: 0,0:10:22.68,0:10:23.47,Default,NTP,0000,0000,0000,,Why?
+Dialogue: 0,0:10:23.47,0:10:26.35,Default,NTP,0000,0000,0000,,Why, you ask? Are we looping again?
+Dialogue: 0,0:10:26.35,0:10:27.18,Default,NTP,0000,0000,0000,,Huh?
+Dialogue: 0,0:10:27.18,0:10:28.94,Default,NTP,0000,0000,0000,,This is the second "today," right?
+Dialogue: 0,0:10:28.94,0:10:29.85,Default,NTP,0000,0000,0000,,No...
+Dialogue: 0,0:10:29.85,0:10:32.27,Default,NTP,0000,0000,0000,,Hold on. This is the first time for you?
+Dialogue: 0,0:10:32.57,0:10:33.40,Default,NTP,0000,0000,0000,,Yeah.
+Dialogue: 0,0:10:35.28,0:10:38.15,Default,NTP,0000,0000,0000,,All right. Forget what I said for now.
+Dialogue: 0,0:10:38.15,0:10:39.53,Default,NTP,0000,0000,0000,,And after school?
+Dialogue: 0,0:10:39.53,0:10:41.99,Default,NTP,0000,0000,0000,,We'll go as planned. See you later.
+Dialogue: 0,0:10:43.78,0:10:44.91,Default,NTP,0000,0000,0000,,What do you think?
+Dialogue: 0,0:10:44.91,0:10:47.41,Default,NTP,0000,0000,0000,,{\a6}Azusagawa, is your head all right?
+Dialogue: 0,0:10:47.79,0:10:49.12,Default,NTP,0000,0000,0000,,{\a6}What do you mean by that?
+Dialogue: 0,0:10:49.37,0:10:52.46,Default,NTP,0000,0000,0000,,{\a6}Because you just asked a question\Nthat even a grade schooler would know.
+Dialogue: 0,0:10:54.17,0:10:57.51,Default,NTP,0000,0000,0000,,If it's what you think,\Nand that first-year...
+Dialogue: 0,0:10:57.51,0:10:58.80,Default,NTP,0000,0000,0000,,Tomoe Koga?
+Dialogue: 0,0:10:58.80,0:11:02.43,Default,NTP,0000,0000,0000,,If that girl is the Laplace's Demon,\Nthen the answer is quite simple.
+Dialogue: 0,0:11:02.43,0:11:03.72,Default,NTP,0000,0000,0000,,Is it simple?
+Dialogue: 0,0:11:03.72,0:11:08.98,Default,NTP,0000,0000,0000,,There's likely a crucial difference\Nbetween July 18th and July 19th?
+Dialogue: 0,0:11:09.31,0:11:13.23,Default,NTP,0000,0000,0000,,Like the relationship with you\Nchanges or something.
+Dialogue: 0,0:11:14.69,0:11:17.23,Default,NTP,0000,0000,0000,,Actually, you have an idea why, don't you?
+Dialogue: 0,0:11:17.23,0:11:18.36,Default,NTP,0000,0000,0000,,Why what?
+Dialogue: 0,0:11:18.82,0:11:21.61,Default,NTP,0000,0000,0000,,Why she started rolling the dice again.
+Dialogue: 0,0:11:23.03,0:11:28.16,Default,NTP,0000,0000,0000,,But in this case, Koga isn't aware\Nthat this is the second time.
+Dialogue: 0,0:11:28.62,0:11:31.37,Default,NTP,0000,0000,0000,,If so, then perhaps you're\Nthe demon, Azusagawa.
+Dialogue: 0,0:11:31.37,0:11:32.50,Default,NTP,0000,0000,0000,,I am not.
+Dialogue: 0,0:11:32.88,0:11:35.50,Default,NTP,0000,0000,0000,,{\a6}Then there's only one possibility...
+Dialogue: 0,0:11:35.92,0:11:36.80,Default,NTP,0000,0000,0000,,One, huh...
+Dialogue: 0,0:11:37.21,0:11:38.01,Default,NTP,0000,0000,0000,,Yup.
+Dialogue: 0,0:11:38.51,0:11:40.01,Default,NTP,0000,0000,0000,,She must be lying.
+Dialogue: 0,0:11:44.55,0:11:47.06,Default,NTP,0000,0000,0000,,Oh, you got here first, Senpai.
+Dialogue: 0,0:11:51.73,0:11:54.27,Default,NTP,0000,0000,0000,,I changed into my swimsuit\Nin the school locker room.
+Dialogue: 0,0:11:55.36,0:11:57.23,Default,NTP,0000,0000,0000,,You have a lewd look in your eyes.
+Dialogue: 0,0:12:16.00,0:12:17.38,Default,NTP,0000,0000,0000,,Thanks for everything up to today.
+Dialogue: 0,0:12:20.88,0:12:23.38,Default,NTP,0000,0000,0000,,JULY 18th (3rd TIME)
+Dialogue: 0,0:12:26.64,0:12:28.14,Default,NTP,0000,0000,0000,,All right, let's swim!
+Dialogue: 0,0:12:28.14,0:12:29.85,Default,NTP,0000,0000,0000,,Eh? No feedback to give?
+Dialogue: 0,0:12:39.73,0:12:41.11,Default,NTP,0000,0000,0000,,Thanks for everything up to today.
+Dialogue: 0,0:12:44.15,0:12:45.82,Default,NTP,0000,0000,0000,,Big Brother, it's morning.
+Dialogue: 0,0:12:50.91,0:12:52.91,Default,NTP,0000,0000,0000,,JULY 18th (4th TIME)
+Dialogue: 0,0:12:56.13,0:12:57.33,Default,NTP,0000,0000,0000,,You know, Kunimi...
+Dialogue: 0,0:12:58.34,0:12:59.96,Default,NTP,0000,0000,0000,,You have a girlfriend, right?
+Dialogue: 0,0:12:59.96,0:13:01.26,Default,NTP,0000,0000,0000,,Thankfully, yes.
+Dialogue: 0,0:13:02.13,0:13:05.76,Default,NTP,0000,0000,0000,,What if there was another girl\Nwho was in love with you?
+Dialogue: 0,0:13:07.14,0:13:10.26,Default,NTP,0000,0000,0000,,What would you do if you realized\Nthat girl had feelings for you?
+Dialogue: 0,0:13:10.72,0:13:12.52,Default,NTP,0000,0000,0000,,Who are we talking about?
+Dialogue: 0,0:13:12.52,0:13:14.14,Default,NTP,0000,0000,0000,,It's just a hypothetical.
+Dialogue: 0,0:13:14.56,0:13:16.19,Default,NTP,0000,0000,0000,,Hypothetical, huh?
+Dialogue: 0,0:13:17.15,0:13:19.65,Default,NTP,0000,0000,0000,,Does the girl realize that I already know?
+Dialogue: 0,0:13:19.65,0:13:21.53,Default,NTP,0000,0000,0000,,For now, she hasn't caught on.
+Dialogue: 0,0:13:21.53,0:13:22.69,Default,NTP,0000,0000,0000,,For now, huh?
+Dialogue: 0,0:13:24.20,0:13:29.95,Default,NTP,0000,0000,0000,,I have reservations about forcing out\Nfeelings that she's keeping in her heart.
+Dialogue: 0,0:13:30.87,0:13:34.41,Default,NTP,0000,0000,0000,,I feel that's being too self-conscious.\NLike, who do I think I am?
+Dialogue: 0,0:13:35.12,0:13:37.54,Default,NTP,0000,0000,0000,,But keeping status quo is good, either.
+Dialogue: 0,0:13:38.33,0:13:40.00,Default,NTP,0000,0000,0000,,What's the right thing to do here?
+Dialogue: 0,0:13:40.00,0:13:41.75,Default,NTP,0000,0000,0000,,I'm the one asking you.
+Dialogue: 0,0:13:42.46,0:13:47.76,Default,NTP,0000,0000,0000,,{\a6}{\i1}So starting tomorrow,\Nyou will have a long summer break.{\i0}
+Dialogue: 0,0:13:47.76,0:13:50.93,Default,NTP,0000,0000,0000,,{\a6}{\i1}In the meantime,\NI have a couple favors to ask of you.{\i0}
+Dialogue: 0,0:13:51.64,0:13:54.02,Default,NTP,0000,0000,0000,,{\a6}{\i1}One is to please be mindful of your health.{\i0}
+Dialogue: 0,0:13:52.06,0:13:53.56,Default,NTP,0000,0000,0000,,{\i1}Koga is lying.{\i0}
+Dialogue: 0,0:13:58.35,0:14:00.61,Default,NTP,0000,0000,0000,,Senpai? The beach is this way.
+Dialogue: 0,0:14:01.19,0:14:03.48,Default,NTP,0000,0000,0000,,This is the fourth "today" for me.
+Dialogue: 0,0:14:03.48,0:14:05.49,Default,NTP,0000,0000,0000,,So you're bored of the beach?
+Dialogue: 0,0:14:05.49,0:14:07.53,Default,NTP,0000,0000,0000,,Thank goodness you can take hints.
+Dialogue: 0,0:14:08.66,0:14:10.16,Default,NTP,0000,0000,0000,,We're going to Enoshima?
+Dialogue: 0,0:14:10.16,0:14:12.41,Default,NTP,0000,0000,0000,,We weren't able to go there\Non our first date, remember?
+Dialogue: 0,0:14:38.73,0:14:40.60,Default,NTP,0000,0000,0000,,Man, my legs are so sore!
+Dialogue: 0,0:14:40.60,0:14:42.19,Default,NTP,0000,0000,0000,,You're still a first-year.
+Dialogue: 0,0:14:42.19,0:14:43.69,Default,NTP,0000,0000,0000,,What's with that logic?
+Dialogue: 0,0:14:48.49,0:14:50.16,Default,NTP,0000,0000,0000,,Hey, these votive tablets\Nare for good relationships.
+Dialogue: 0,0:14:50.70,0:14:51.78,Default,NTP,0000,0000,0000,,Should we fill one out?
+Dialogue: 0,0:14:51.78,0:14:53.87,Default,NTP,0000,0000,0000,,Eh? You're going to lie to the gods?
+Dialogue: 0,0:14:54.87,0:14:57.37,Default,NTP,0000,0000,0000,,S-Senpai, that's pretty sinful.
+Dialogue: 0,0:14:57.37,0:15:01.79,Default,NTP,0000,0000,0000,,When we decided to deceive everyone,\Nyou were prepared to go to hell.
+Dialogue: 0,0:15:02.46,0:15:03.34,Default,NTP,0000,0000,0000,,Come on.
+Dialogue: 0,0:15:09.09,0:15:10.89,Default,NTP,0000,0000,0000,,I'm fine with it, but...
+Dialogue: 0,0:15:11.51,0:15:13.22,Default,NTP,0000,0000,0000,,girlfriend: Tomoe Koga
+Dialogue: 0,0:15:15.06,0:15:15.93,Default,NTP,0000,0000,0000,,Hold on, Senpai!
+Dialogue: 0,0:15:16.56,0:15:20.48,Default,NTP,0000,0000,0000,,If you mix a lie in with everyone's\Nreal wishes, you'll damn yourself!
+Dialogue: 0,0:15:20.48,0:15:21.98,Default,NTP,0000,0000,0000,,I'll take it home!
+Dialogue: 0,0:15:22.23,0:15:25.19,Default,NTP,0000,0000,0000,,I'm the only one lying, so it's all right.
+Dialogue: 0,0:15:29.28,0:15:30.24,Default,NTP,0000,0000,0000,,Senpai...
+Dialogue: 0,0:15:31.20,0:15:32.41,Default,NTP,0000,0000,0000,,What you did...
+Dialogue: 0,0:15:33.66,0:15:34.83,Default,NTP,0000,0000,0000,,...no, nothing.
+Dialogue: 0,0:15:36.20,0:15:39.50,Default,NTP,0000,0000,0000,,Hey, why don't we go to the beach now?
+Dialogue: 0,0:15:39.50,0:15:41.46,Default,NTP,0000,0000,0000,,I'm wearing a swimsuit, after all.
+Dialogue: 0,0:15:43.21,0:15:44.38,Default,NTP,0000,0000,0000,,Senpai?
+Dialogue: 0,0:15:44.38,0:15:46.80,Default,NTP,0000,0000,0000,,Koga, enough with the lies.
+Dialogue: 0,0:15:46.80,0:15:49.55,Default,NTP,0000,0000,0000,,Eh? Oh, right.\NToday's the last day.
+Dialogue: 0,0:15:49.55,0:15:50.67,Default,NTP,0000,0000,0000,,That's not it...
+Dialogue: 0,0:15:51.47,0:15:53.34,Default,NTP,0000,0000,0000,,You look kinda scary right now?
+Dialogue: 0,0:15:54.51,0:15:56.06,Default,NTP,0000,0000,0000,,What? Something wrong?
+Dialogue: 0,0:15:56.89,0:15:58.89,Default,NTP,0000,0000,0000,,You really thought I wouldn't notice?
+Dialogue: 0,0:15:58.89,0:16:00.85,Default,NTP,0000,0000,0000,,What are you talking about?
+Dialogue: 0,0:16:01.35,0:16:04.40,Default,NTP,0000,0000,0000,,Even if it was just a lie,\NI was your boyfriend for about three weeks.
+Dialogue: 0,0:16:05.65,0:16:08.69,Default,NTP,0000,0000,0000,,I'm the type that can take hints,\Nbut chooses not to.
+Dialogue: 0,0:16:11.53,0:16:13.49,Default,NTP,0000,0000,0000,,If you don't want to say it, I will.
+Dialogue: 0,0:16:14.62,0:16:18.99,Default,NTP,0000,0000,0000,,No matter how many times you roll your dice,\Npeople's feelings don't change.
+Dialogue: 0,0:16:18.99,0:16:22.58,Default,NTP,0000,0000,0000,,Lies will never become reality,\Nand the truth will never become lies.
+Dialogue: 0,0:16:25.21,0:16:26.84,Default,NTP,0000,0000,0000,,Even after a hundred times?
+Dialogue: 0,0:16:26.84,0:16:27.50,Default,NTP,0000,0000,0000,,Yeah...
+Dialogue: 0,0:16:28.13,0:16:29.63,Default,NTP,0000,0000,0000,,A thousand times?
+Dialogue: 0,0:16:29.63,0:16:30.59,Default,NTP,0000,0000,0000,,That's right.
+Dialogue: 0,0:16:30.59,0:16:31.88,Default,NTP,0000,0000,0000,,Ten thousand times?
+Dialogue: 0,0:16:31.88,0:16:34.22,Default,NTP,0000,0000,0000,,Do it a hundred million times,\Nit still won't change.
+Dialogue: 0,0:16:34.22,0:16:36.01,Default,NTP,0000,0000,0000,,The person I love is Mai-san.
+Dialogue: 0,0:16:36.68,0:16:40.35,Default,NTP,0000,0000,0000,,Even if we do the same thing over and over,\Nyour feelings will remain in stasis.
+Dialogue: 0,0:16:48.44,0:16:50.19,Default,NTP,0000,0000,0000,,You're a liar, Senpai.
+Dialogue: 0,0:16:50.86,0:16:52.07,Default,NTP,0000,0000,0000,,Feelings do change.
+Dialogue: 0,0:16:53.07,0:16:55.87,Default,NTP,0000,0000,0000,,They build up the more you repeat them.
+Dialogue: 0,0:16:55.87,0:16:57.62,Default,NTP,0000,0000,0000,,They've built up for me.
+Dialogue: 0,0:16:59.03,0:17:02.66,Default,NTP,0000,0000,0000,,I decided to forget it all,\Nbut I couldn't...
+Dialogue: 0,0:17:03.37,0:17:06.04,Default,NTP,0000,0000,0000,,I thought I'd forget it this time for sure,\Nbut I couldn't.
+Dialogue: 0,0:17:06.79,0:17:09.55,Default,NTP,0000,0000,0000,,I wanted to say goodbye to these feelings.
+Dialogue: 0,0:17:11.17,0:17:14.76,Default,NTP,0000,0000,0000,,I was going to have\Nmy last fun date with you today.
+Dialogue: 0,0:17:15.63,0:17:18.60,Default,NTP,0000,0000,0000,,I have to end this fake relationship\Nwith a smile.
+Dialogue: 0,0:17:19.35,0:17:23.27,Default,NTP,0000,0000,0000,,And you're going to hit it off\Nwith Sakurajima-senpai.
+Dialogue: 0,0:17:23.27,0:17:28.56,Default,NTP,0000,0000,0000,,So in the second term, I'll be cheeky\Nand poke fun at you, like "good for you!"
+Dialogue: 0,0:17:29.57,0:17:31.65,Default,NTP,0000,0000,0000,,And I'm going to become your friend.
+Dialogue: 0,0:17:32.36,0:17:36.36,Default,NTP,0000,0000,0000,,Good friends who talk about anything.\NAn older friend who can spoil me a little bit.
+Dialogue: 0,0:17:37.24,0:17:43.75,Default,NTP,0000,0000,0000,,Everything up to today will be something\Nto talk about, like "pretending to date was fun."
+Dialogue: 0,0:17:43.75,0:17:46.12,Default,NTP,0000,0000,0000,,And we'll be good friends forever!
+Dialogue: 0,0:17:47.04,0:17:48.25,Default,NTP,0000,0000,0000,,We're going to...
+Dialogue: 0,0:17:49.71,0:17:51.80,Default,NTP,0000,0000,0000,,That's all I wish for.
+Dialogue: 0,0:17:52.46,0:17:54.84,Default,NTP,0000,0000,0000,,It's not like I wanted anything special.
+Dialogue: 0,0:17:55.47,0:17:56.97,Default,NTP,0000,0000,0000,,I wasn't being selfish.
+Dialogue: 0,0:17:57.51,0:17:59.64,Default,NTP,0000,0000,0000,,And I'm not troubling anyone else!
+Dialogue: 0,0:18:00.89,0:18:01.72,Default,NTP,0000,0000,0000,,But why...
+Dialogue: 0,0:18:02.60,0:18:03.43,Default,NTP,0000,0000,0000,,Why...
+Dialogue: 0,0:18:04.77,0:18:06.85,Default,NTP,0000,0000,0000,,Why won't tomorrow come for me!?
+Dialogue: 0,0:18:07.06,0:18:10.73,Default,NTP,0000,0000,0000,,Why is it my feelings grow from the last day\Neach time I wake up in the morning!?
+Dialogue: 0,0:18:11.23,0:18:13.03,Default,NTP,0000,0000,0000,,It's too cruel...
+Dialogue: 0,0:18:13.03,0:18:15.40,Default,NTP,0000,0000,0000,,I decided none of it really happened...
+Dialogue: 0,0:18:15.40,0:18:16.90,Default,NTP,0000,0000,0000,,You don't have to do that.
+Dialogue: 0,0:18:16.90,0:18:18.49,Default,NTP,0000,0000,0000,,I have to do it!
+Dialogue: 0,0:18:18.49,0:18:21.70,Default,NTP,0000,0000,0000,,After all, you're in love\Nwith Sakurajima-senpai!
+Dialogue: 0,0:18:21.70,0:18:23.33,Default,NTP,0000,0000,0000,,I'd just inconvenience you, right?
+Dialogue: 0,0:18:23.74,0:18:26.08,Default,NTP,0000,0000,0000,,You don't have feelings like this\Ntowards a friend.
+Dialogue: 0,0:18:26.50,0:18:28.58,Default,NTP,0000,0000,0000,,This emotion doesn't exist among friends!
+Dialogue: 0,0:18:28.79,0:18:30.92,Default,NTP,0000,0000,0000,,Did I ever say I was inconvenienced?
+Dialogue: 0,0:18:32.17,0:18:33.38,Default,NTP,0000,0000,0000,,You're horrible...
+Dialogue: 0,0:18:34.26,0:18:36.80,Default,NTP,0000,0000,0000,,I hate you, Senpai. I hate you!
+Dialogue: 0,0:18:36.80,0:18:40.18,Default,NTP,0000,0000,0000,,It's all your fault!\NYou were too nice to me!
+Dialogue: 0,0:18:40.34,0:18:44.68,Default,NTP,0000,0000,0000,,That's right.\NSo you don't need to be considerate of me.
+Dialogue: 0,0:18:44.68,0:18:47.89,Default,NTP,0000,0000,0000,,I hate myself like this! This isn't me at all!
+Dialogue: 0,0:18:47.89,0:18:50.44,Default,NTP,0000,0000,0000,,No, it's you. It's a part of you.
+Dialogue: 0,0:18:50.44,0:18:55.44,Default,NTP,0000,0000,0000,,No! This isn't me!\NI want summer break to come!
+Dialogue: 0,0:18:55.44,0:18:58.53,Default,NTP,0000,0000,0000,,I want to hurry and be friends with you,\Nto have fun and laugh!
+Dialogue: 0,0:18:58.53,0:18:59.91,Default,NTP,0000,0000,0000,,That's all I want!
+Dialogue: 0,0:19:00.20,0:19:02.12,Default,NTP,0000,0000,0000,,Stop lying to yourself already.
+Dialogue: 0,0:19:04.58,0:19:07.20,Default,NTP,0000,0000,0000,,You're a high-school girl\Nwho fights for justice, right?
+Dialogue: 0,0:19:07.20,0:19:08.91,Default,NTP,0000,0000,0000,,There's nothing you can't do.
+Dialogue: 0,0:19:09.12,0:19:10.58,Default,NTP,0000,0000,0000,,Unfair...
+Dialogue: 0,0:19:10.58,0:19:12.42,Default,NTP,0000,0000,0000,,It's unfair to put it that way!
+Dialogue: 0,0:19:13.29,0:19:16.09,Default,NTP,0000,0000,0000,,So you don't have to hold back anymore.
+Dialogue: 0,0:19:19.13,0:19:21.01,Default,NTP,0000,0000,0000,,Senpai, you idiot! Idiot!
+Dialogue: 0,0:19:21.01,0:19:23.51,Default,NTP,0000,0000,0000,,I hate you! I hate you...
+Dialogue: 0,0:19:23.51,0:19:25.51,Default,NTP,0000,0000,0000,,But... But...
+Dialogue: 0,0:19:27.27,0:19:28.10,Default,NTP,0000,0000,0000,,Love...
+Dialogue: 0,0:19:29.56,0:19:31.35,Default,NTP,0000,0000,0000,,I'm in love with you...
+Dialogue: 0,0:19:33.86,0:19:37.23,Default,NTP,0000,0000,0000,,I LOVE YOU!
+Dialogue: 0,0:19:41.07,0:19:43.24,Default,NTP,0000,0000,0000,,Koga, you tried really hard there.
+Dialogue: 0,0:19:45.16,0:19:46.54,Default,NTP,0000,0000,0000,,You gave it your best.
+Dialogue: 0,0:20:02.43,0:20:04.47,Default,NTP,0000,0000,0000,,{\a6}{\i1}The Japanese team has done it!{\i0}
+Dialogue: 0,0:20:05.10,0:20:08.47,Default,NTP,0000,0000,0000,,{\i1}Good morning, it's Friday, June 27th.{\i0}
+Dialogue: 0,0:20:09.06,0:20:11.48,Default,NTP,0000,0000,0000,,{\a6}{\i1}Let's talk about that soccer!{\i0}
+Dialogue: 0,0:20:10.56,0:20:12.35,Default,NTP,0000,0000,0000,,She really is amazing.
+Dialogue: 0,0:20:11.77,0:20:14.56,Default,NTP,0000,0000,0000,,{\a6}{\i1}Now, Miyama-san,\Nwere you watching last night?{\i0}
+Dialogue: 0,0:20:13.85,0:20:17.32,Default,NTP,0000,0000,0000,,So everything from the very beginning\Nwas just one huge simulation of the future...
+Dialogue: 0,0:20:14.56,0:20:18.07,Default,NTP,0000,0000,0000,,{\a6}{\i1}Of course! I was watching together\Nat home with my family.{\i0}
+Dialogue: 0,0:20:18.07,0:20:19.94,Default,NTP,0000,0000,0000,,{\a6}{\i1}I couldn't help but shout\Nthe moment that goal landed!{\i0}
+Dialogue: 0,0:20:21.20,0:20:22.70,Default,NTP,0000,0000,0000,,Um, Mai-san...
+Dialogue: 0,0:20:22.70,0:20:23.53,Default,NTP,0000,0000,0000,,What?
+Dialogue: 0,0:20:23.86,0:20:26.16,Default,NTP,0000,0000,0000,,I love you. I want you to go out with me.
+Dialogue: 0,0:20:27.95,0:20:32.50,Default,NTP,0000,0000,0000,,When I hear the same thing for an entire month,\NI stop feeling anything. My heart doesn't race.
+Dialogue: 0,0:20:32.79,0:20:37.42,Default,NTP,0000,0000,0000,,I see. I've been denied. I guess I'll have to\Nlook for a new romance, then.
+Dialogue: 0,0:20:37.42,0:20:38.30,Default,NTP,0000,0000,0000,,Huh? Wait...
+Dialogue: 0,0:20:38.59,0:20:40.67,Default,NTP,0000,0000,0000,,Thank you for everything up until now.
+Dialogue: 0,0:20:41.01,0:20:43.26,Default,NTP,0000,0000,0000,,I-I didn't exactly say no!
+Dialogue: 0,0:20:43.26,0:20:44.97,Default,NTP,0000,0000,0000,,Why are you trying to give up?
+Dialogue: 0,0:20:45.14,0:20:46.64,Default,NTP,0000,0000,0000,,Then, will you?
+Dialogue: 0,0:20:48.60,0:20:50.60,Default,NTP,0000,0000,0000,,This is so cheeky of you, Sakuta.
+Dialogue: 0,0:20:51.14,0:20:51.93,Default,NTP,0000,0000,0000,,Will you?
+Dialogue: 0,0:20:53.23,0:20:54.06,Default,NTP,0000,0000,0000,,Sure.
+Dialogue: 0,0:20:54.60,0:20:55.48,Default,NTP,0000,0000,0000,,I will.
+Dialogue: 0,0:20:57.82,0:21:00.99,Default,NTP,0000,0000,0000,,So, Mai-san, how do you feel about me?
+Dialogue: 0,0:21:00.99,0:21:03.32,Default,NTP,0000,0000,0000,,How I feel? That's...
+Dialogue: 0,0:21:03.32,0:21:04.24,Default,NTP,0000,0000,0000,,That's?
+Dialogue: 0,0:21:04.24,0:21:05.66,Default,NTP,0000,0000,0000,,That doesn't matter, right?
+Dialogue: 0,0:21:05.66,0:21:07.70,Default,NTP,0000,0000,0000,,It does because it's not all right.
+Dialogue: 0,0:21:08.91,0:21:10.45,Default,NTP,0000,0000,0000,,You really want me to tell you?
+Dialogue: 0,0:21:10.45,0:21:11.29,Default,NTP,0000,0000,0000,,Yes.
+Dialogue: 0,0:21:12.16,0:21:13.00,Default,NTP,0000,0000,0000,,Oh!
+Dialogue: 0,0:21:20.30,0:21:21.63,Default,NTP,0000,0000,0000,,You understand now, yes?
+Dialogue: 0,0:21:23.76,0:21:25.89,Default,NTP,0000,0000,0000,,I wish it was mouth-to-mouth.
+Dialogue: 0,0:21:27.72,0:21:28.93,Default,NTP,0000,0000,0000,,Don't get carried away.
+Dialogue: 0,0:21:28.93,0:21:29.64,Default,NTP,0000,0000,0000,,Ow.
+Dialogue: 0,0:21:32.85,0:21:36.44,Default,NTP,0000,0000,0000,,Sorry, but I can't go out\Nwith you, Maesawa-senpai.
+Dialogue: 0,0:21:37.06,0:21:39.19,Default,NTP,0000,0000,0000,,You don't have a boyfriend now, right?
+Dialogue: 0,0:21:39.19,0:21:40.02,Default,NTP,0000,0000,0000,,I don't.
+Dialogue: 0,0:21:40.02,0:21:41.69,Default,NTP,0000,0000,0000,,Then, do you like someone?
+Dialogue: 0,0:21:41.90,0:21:46.28,Default,NTP,0000,0000,0000,,Yes. He's so primitive that he doesn't have\Na smartphone in this day and age.
+Dialogue: 0,0:21:48.62,0:21:50.12,Default,NTP,0000,0000,0000,,Who are you calling primitive?
+Dialogue: 0,0:21:51.08,0:21:53.87,Default,NTP,0000,0000,0000,,I didn't say I was talking about you, Senpai.
+Dialogue: 0,0:21:53.87,0:21:56.08,Default,NTP,0000,0000,0000,,Also, I'm holding you responsible, okay?
+Dialogue: 0,0:21:56.08,0:21:56.92,Default,NTP,0000,0000,0000,,Responsible?
+Dialogue: 0,0:21:57.25,0:22:01.34,Default,NTP,0000,0000,0000,,Rena-chan will hate me because of this,\Nand I won't have a place in my class.
+Dialogue: 0,0:22:01.34,0:22:03.80,Default,NTP,0000,0000,0000,,And why am I being\Nheld responsible for that?
+Dialogue: 0,0:22:03.80,0:22:05.55,Default,NTP,0000,0000,0000,,I mean, it's your fault.
+Dialogue: 0,0:22:05.55,0:22:06.84,Default,NTP,0000,0000,0000,,Let me hear the reason.
+Dialogue: 0,0:22:07.22,0:22:09.30,Default,NTP,0000,0000,0000,,You made me into an adult.
+Dialogue: 0,0:22:09.76,0:22:11.14,Default,NTP,0000,0000,0000,,That sounds pretty lewd.
+Dialogue: 0,0:22:11.14,0:22:14.93,Default,NTP,0000,0000,0000,,You know damn well what's going on,\Nbut you always say stuff like that.
+Dialogue: 0,0:22:14.93,0:22:15.89,Default,NTP,0000,0000,0000,,Hiding your shame?
+Dialogue: 0,0:22:16.27,0:22:19.81,Default,NTP,0000,0000,0000,,Well, no matter what happens,\NI'll stay your friend.
+Dialogue: 0,0:22:19.81,0:22:21.65,Default,NTP,0000,0000,0000,,So you'll never be alone.
+Dialogue: 0,0:22:21.98,0:22:25.03,Default,NTP,0000,0000,0000,,I'm the one letting you be a close friend.
+Dialogue: 0,0:22:27.24,0:22:31.66,Default,NTP,0000,0000,0000,,From then to summer break,\Nit was a series of surprises.
+Dialogue: 0,0:22:32.66,0:22:36.16,Default,NTP,0000,0000,0000,,The days I experienced with Koga\Nbecame reality.
+Dialogue: 0,0:22:36.96,0:22:39.92,Default,NTP,0000,0000,0000,,Koga began working with me\Nas the new employee.
+Dialogue: 0,0:22:39.92,0:22:45.09,Default,NTP,0000,0000,0000,,Mai-san gave Kaede clothes she used at work,\Nthen went off to Kagoshima for more work.
+Dialogue: 0,0:22:45.42,0:22:49.01,Default,NTP,0000,0000,0000,,Upon her return, she tutored me\Nin her bunny girl outfit.
+Dialogue: 0,0:22:49.64,0:22:52.39,Default,NTP,0000,0000,0000,,What I saw on the final exams\Nwas exactly the same, too.
+Dialogue: 0,0:22:53.22,0:22:54.06,Default,NTP,0000,0000,0000,,I see...
+Dialogue: 0,0:22:54.72,0:22:58.69,Default,NTP,0000,0000,0000,,The girl that desperately tried to take hints\Nto blend into the people around her,
+Dialogue: 0,0:22:58.69,0:23:01.98,Default,NTP,0000,0000,0000,,became able to read the future\Nbefore she knew it.
+Dialogue: 0,0:23:04.23,0:23:07.57,Default,NTP,0000,0000,0000,,But, of the 7 billion people in this world,
+Dialogue: 0,0:23:07.57,0:23:09.95,Default,NTP,0000,0000,0000,,why was I the only one\Nwho got sucked into that phenomenon?
+Dialogue: 0,0:23:10.87,0:23:12.66,Default,NTP,0000,0000,0000,,Quantum entanglement, perhaps?
+Dialogue: 0,0:23:12.66,0:23:14.49,Default,NTP,0000,0000,0000,,Quantum entanglement? What's that?
+Dialogue: 0,0:23:15.16,0:23:19.67,Default,NTP,0000,0000,0000,,A strange phenomenon where two particles\Nin separate places don't need any intermediation,
+Dialogue: 0,0:23:19.67,0:23:23.67,Default,NTP,0000,0000,0000,,to instantly share information and move.
+Dialogue: 0,0:23:23.67,0:23:28.01,Default,NTP,0000,0000,0000,,So you're saying that Koga and I synchronized\Nbecause we were entangled?
+Dialogue: 0,0:23:28.26,0:23:29.09,Default,NTP,0000,0000,0000,,Right.
+Dialogue: 0,0:23:29.09,0:23:30.89,Default,NTP,0000,0000,0000,,But how'd we become entangled?
+Dialogue: 0,0:23:31.39,0:23:35.60,Default,NTP,0000,0000,0000,,Quantum entanglement occurs\Nafter two particles collide.
+Dialogue: 0,0:23:35.60,0:23:39.77,Default,NTP,0000,0000,0000,,Did you and the first-year\Ndeliver some sort of impact to each other?
+Dialogue: 0,0:23:40.69,0:23:41.27,Default,NTP,0000,0000,0000,,Oh...
+Dialogue: 0,0:23:41.69,0:23:43.15,Default,NTP,0000,0000,0000,,We kicked each other's butts.
+Dialogue: 0,0:23:47.86,0:23:48.69,Default,NTP,0000,0000,0000,,Azusagawa...
+Dialogue: 0,0:23:50.15,0:23:52.74,Default,NTP,0000,0000,0000,,{\a6}I wish to perform a reenactment experiment.\NShow me your butt.
+Dialogue: 0,0:23:52.74,0:23:53.57,Default,NTP,0000,0000,0000,,{\a6}I refuse.
+Dialogue: 0,0:23:53.99,0:23:56.08,Default,NTP,0000,0000,0000,,Shut up and show it, you rascal.
+Dialogue: 0,0:23:59.37,0:24:02.75,Default,NTP,0000,0000,0000,,I look forward to seeing you in an apron.
+Dialogue: 0,0:24:02.75,0:24:05.46,Default,NTP,0000,0000,0000,,I don't wear aprons when I cook.
+Dialogue: 0,0:24:05.46,0:24:06.30,Default,NTP,0000,0000,0000,,Huh!?
+Dialogue: 0,0:24:07.05,0:24:08.88,Default,NTP,0000,0000,0000,,All right, I get it.
+Dialogue: 0,0:24:08.88,0:24:11.01,Default,NTP,0000,0000,0000,,Maybe you could wear nothing\Nunder the apron, too.
+Dialogue: 0,0:24:11.01,0:24:12.76,Default,NTP,0000,0000,0000,,Maybe I'll lace the food with laxatives.
+Dialogue: 0,0:24:12.76,0:24:13.97,Default,NTP,0000,0000,0000,,That was a joke.
+Dialogue: 0,0:24:13.97,0:24:15.47,Default,NTP,0000,0000,0000,,You were serious about it.
+Dialogue: 0,0:24:19.52,0:24:20.43,Default,NTP,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:24:22.02,0:24:22.94,Default,NTP,0000,0000,0000,,The little one...
+Dialogue: 0,0:24:28.03,0:24:29.74,Default,NTP,0000,0000,0000,,Mai-san, can you take the umbrella?
+Dialogue: 0,0:24:29.74,0:24:30.57,Default,NTP,0000,0000,0000,,Sure.
+Dialogue: 0,0:24:32.40,0:24:34.57,Default,NTP,0000,0000,0000,,I'll take it back to my place for now.
+Dialogue: 0,0:24:34.57,0:24:38.37,Default,NTP,0000,0000,0000,,Oh, but I want to adopt that little one.
+Dialogue: 0,0:24:38.37,0:24:42.79,Default,NTP,0000,0000,0000,,Then contact me later.\NI'll give you our phone number.
+Dialogue: 0,0:24:42.79,0:24:44.79,Default,NTP,0000,0000,0000,,I'm Sakuta Azusagawa.
+Dialogue: 0,0:24:44.79,0:24:47.50,Default,NTP,0000,0000,0000,,Azusagawa is spelled like\Nthe Azusagawa Rest Area,
+Dialogue: 0,0:24:47.50,0:24:49.30,Default,NTP,0000,0000,0000,,and Sakuta is spelled "blooming Taro."
+Dialogue: 0,0:24:49.30,0:24:52.59,Default,NTP,0000,0000,0000,,My name is Shoko Makinohara.
+Dialogue: 0,0:24:55.68,0:24:58.64,Default,NTP,0000,0000,0000,,Nothing less from you, Azusagawa.\NWhat a rascal.
+Dialogue: 0,0:24:57.01,0:25:00.02,Default,NTP,0000,0000,0000,,{\a6}Next Time\N#7 Adolescence Paradox
