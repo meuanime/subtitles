@@ -1,0 +1,278 @@
+﻿[Script Info]
+Title: [Erai-raws] Português (Brasil)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Arifureta-Main,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: Arifureta-Main-Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,0
+Style: Arifureta-Italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: Arifureta-Italics-Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,0
+Style: Arifureta-Flashback,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: Arifureta-Flashback-Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,0,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,1
+Style: Arifureta-Flashback-Italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,-1,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: Arifureta-Flashback-Italics-Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,-1,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,1
+Style: Arifureta-Flashback-Inside,Trebuchet MS,22,&H00CCCCCC,&H000000FF,&H00400000,&H00400000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: ArifuretaFlashback-Inside-Italics,Trebuchet MS,22,&H00CCCCCC,&H000000FF,&H00400000,&H00400000,-1,-1,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: Arifureta-OP,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1,1,2,0040,0040,0015,0
+Style: Arifureta-Frase,Times New Roman,12,&H00FFFFFF,&H000000FF,&H00171717,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,0005,0005,0015,0
+Style: Arifureta-EpTitle,Times New Roman,18,&H00FFFFFF,&H000000FF,&H00171717,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0005,0005,0015,0
+Style: Arifureta-ED,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1,1,2,0040,0040,0015,0
+Style: Arifureta-NextEpTitle,Times New Roman,18,&H00FFFFFF,&H000000FF,&H00171717,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0005,0005,0015,0
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0015,0
+Style: Signs,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0020,0020,0015,0
+Style: Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0015,0
+Style: Arifureta-Italics - Copy,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0100,0040,0015,0
+Style: Biblioteca,Times New Roman,18,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0005,0005,0015,0
+Style: Quarto,Times New Roman,18,&H0040484C,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0005,0005,0015,0
+Style: Passo Rápido,Times New Roman,30,&H00FFFFFB,&H000000FF,&H00A4D257,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0005,0005,0015,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:35.03,0:00:39.95,Arifureta-OP,,0000,0000,0000,,No silêncio e bem longe do céu
+Dialogue: 0,0:00:40.87,0:00:46.00,Arifureta-OP,,0000,0000,0000,,Vivendo nesta escuridão\NCheia de conflito
+Dialogue: 0,0:00:46.79,0:00:52.17,Arifureta-OP,,0000,0000,0000,,Antes de perder o fogo\NPreciso encontrar o que preciso
+Dialogue: 0,0:00:52.30,0:00:57.68,Arifureta-OP,,0000,0000,0000,,O tempo todo\NVou travar uma luta até sair
+Dialogue: 0,0:00:57.80,0:01:01.31,Arifureta-OP,,0000,0000,0000,,Para onde vamos pela vida?
+Dialogue: 0,0:01:01.43,0:01:05.35,Arifureta-OP,,0000,0000,0000,,Retomando o foco mais uma vez
+Dialogue: 0,0:01:05.48,0:01:10.23,Arifureta-OP,,0000,0000,0000,,Conheço o meu mundo profundamente
+Dialogue: 0,0:01:10.36,0:01:14.11,Arifureta-OP,,0000,0000,0000,,Veja como ele se preenche\NVou destruir
+Dialogue: 0,0:01:14.24,0:01:18.45,Arifureta-OP,,0000,0000,0000,,Diga qual é o meu destino\NVeja o fogo dentro de mim
+Dialogue: 0,0:01:18.57,0:01:22.45,Arifureta-OP,,0000,0000,0000,,Tudo novo, dor\NMostre a minha força
+Dialogue: 0,0:01:22.58,0:01:27.87,Arifureta-OP,,0000,0000,0000,,Sentindo a crueldade\NAinda vou derrubar você
+Dialogue: 0,0:01:28.00,0:01:33.71,Arifureta-OP,,0000,0000,0000,,É inútil tentar segurar o meu poder\NVenha e atinja o chão
+Dialogue: 0,0:01:33.84,0:01:39.59,Arifureta-OP,,0000,0000,0000,,Continue e siga através do calor
+Dialogue: 0,0:01:39.72,0:01:45.35,Arifureta-OP,,0000,0000,0000,,Observando a escuridão\NDispare para o céu
+Dialogue: 0,0:01:45.52,0:01:49.23,Arifureta-OP,,0000,0000,0000,,Escondendo-se dentro da sua força\NVou destruir
+Dialogue: 0,0:01:49.35,0:01:51.94,Arifureta-OP,,0000,0000,0000,,Diga qual é o meu destino
+Dialogue: 0,0:01:53.00,0:01:58.01,Arifureta-Frase,,0000,0000,0000,,{\move(345.8,316.6,323.4,316.6,29,4992)}ARIFURETA\NDo comum ao mais forte do mundo
+Dialogue: 0,0:01:53.00,0:01:58.01,Arifureta-EpTitle,,0000,0000,0000,,{\move(331,151.6,318.2,152.4,29,4992)}Episódio 01:\N{\fs22\b1}O Monstro do Abismo
+Dialogue: 0,0:02:00.16,0:02:01.45,Arifureta-Italics,,0000,0000,0000,,Estou vivo?
+Dialogue: 0,0:02:01.99,0:02:05.00,Arifureta-Italics,,0000,0000,0000,,Ou já morri?
+Dialogue: 0,0:02:06.54,0:02:09.04,Arifureta-Italics,,0000,0000,0000,,Está escuro demais para enxergar.
+Dialogue: 0,0:02:12.13,0:02:14.25,Arifureta-Italics,,0000,0000,0000,,Acho que não morri ainda.
+Dialogue: 0,0:02:16.09,0:02:17.72,Arifureta-Main,,0000,0000,0000,,Onde estou?
+Dialogue: 0,0:02:18.26,0:02:20.89,Arifureta-Main,,0000,0000,0000,,Eu caí no fundo do\NGrande Labirinto de Orcus.
+Dialogue: 0,0:02:21.47,0:02:26.39,Arifureta-Main,,0000,0000,0000,,Não pode ser tão fundo a ponto\Nde ninguém ter caído aqui.
+Dialogue: 0,0:02:26.98,0:02:30.02,Arifureta-Main,,0000,0000,0000,,De qualquer modo, quero voltar\Nlogo aos níveis superiores.
+Dialogue: 0,0:02:30.15,0:02:31.81,Arifureta-Main,,0000,0000,0000,,Preciso encontrar a escada.
+Dialogue: 0,0:02:33.77,0:02:37.24,Arifureta-Main,,0000,0000,0000,,Enorme! Este piso é totalmente\Ndiferente dos outros.
+Dialogue: 0,0:02:40.41,0:02:43.49,Arifureta-Main,,0000,0000,0000,,Um coelho? Aqui embaixo?
+Dialogue: 0,0:02:43.99,0:02:47.20,Arifureta-Main,,0000,0000,0000,,Pensei que os monstros no\Nsubterrâneo fossem mais fortes.
+Dialogue: 0,0:02:58.88,0:03:02.05,Arifureta-Italics,,0000,0000,0000,,Droga!\NEsse coelho é muito forte!
+Dialogue: 0,0:03:05.64,0:03:06.77,Arifureta-Italics,,0000,0000,0000,,Ele me viu!
+Dialogue: 0,0:03:46.60,0:03:50.23,Arifureta-Italics,,0000,0000,0000,,Um comendo o outro?\NEra só uma presa para o predador.
+Dialogue: 0,0:03:50.52,0:03:51.52,Arifureta-Italics,,0000,0000,0000,,Assim como eu...
+Dialogue: 0,0:04:19.38,0:04:20.76,Arifureta-Main,,0000,0000,0000,,Meu braço!
+Dialogue: 0,0:04:26.05,0:04:28.01,Arifureta-Main,,0000,0000,0000,,Comeu o meu braço!
+Dialogue: 0,0:04:34.73,0:04:35.90,Arifureta-Main,,0000,0000,0000,,Transmutação!
+Dialogue: 0,0:04:37.73,0:04:38.82,Arifureta-Main,,0000,0000,0000,,Transmutação.
+Dialogue: 0,0:04:42.69,0:04:45.36,Arifureta-Main,,0000,0000,0000,,Transmutação, Transmutação!
+Dialogue: 0,0:04:45.49,0:04:49.24,Arifureta-Main,,0000,0000,0000,,Transmutação, Transmutação!
+Dialogue: 0,0:04:53.33,0:04:55.79,Arifureta-Main,,0000,0000,0000,,Vá embora! Vá embora!
+Dialogue: 0,0:05:04.26,0:05:07.47,Arifureta-Italics,,0000,0000,0000,,Droga! Não para de sangrar.
+Dialogue: 0,0:05:08.09,0:05:09.85,Arifureta-Italics,,0000,0000,0000,,Vou desmaiar.
+Dialogue: 0,0:05:16.39,0:05:18.69,Arifureta-Italics,,0000,0000,0000,,O meu braço está doendo.
+Dialogue: 0,0:05:21.61,0:05:24.24,Arifureta-Main,,0000,0000,0000,,Esse é o Cristal Sagrado?
+Dialogue: 0,0:05:25.15,0:05:29.12,Arifureta-Main,,0000,0000,0000,,Uma pedra mitológica formada\Npela cristalização do mana
+Dialogue: 0,0:05:29.24,0:05:30.70,Arifureta-Main,,0000,0000,0000,,ao longo dos milênios.
+Dialogue: 0,0:05:30.97,0:05:34.98,Biblioteca,,0000,0000,0000,,{\pos(324.571,278.714)}Biblioteca Real do Reino Heiligh - 10 dias antes
+Dialogue: 0,0:05:34.91,0:05:39.29,Arifureta-Flashback-Italics,,0000,0000,0000,,"O mana saturado se transforma em\Nlíquido e começa a fluir da pedra.
+Dialogue: 0,0:05:39.63,0:05:41.63,Arifureta-Flashback-Italics,,0000,0000,0000,,Esse fluido é a Água Sagrada.
+Dialogue: 0,0:05:41.75,0:05:45.05,Arifureta-Flashback-Italics,,0000,0000,0000,,Pode curar qualquer ferimento\Ne remover qualquer maldição."
+Dialogue: 0,0:05:47.51,0:05:52.43,Arifureta-Flashback-Italics,,0000,0000,0000,,Para ajudar meus colegas de classe,\Ncoletei informações na Biblioteca Real,
+Dialogue: 0,0:05:52.93,0:05:57.94,Arifureta-Flashback-Italics,,0000,0000,0000,,mas se eu não puder lutar,\Nnão conseguirei sair nem sobreviver.
+Dialogue: 0,0:06:02.94,0:06:05.32,Arifureta-Italics,,0000,0000,0000,,Não posso lutar com essa coisa!
+Dialogue: 0,0:06:05.78,0:06:07.78,Arifureta-Italics,,0000,0000,0000,,É mais forte que um Behemoth!
+Dialogue: 0,0:06:08.57,0:06:10.78,Arifureta-Italics,,0000,0000,0000,,Eu não deveria ter\Nentrado no labirinto.
+Dialogue: 0,0:06:11.74,0:06:13.24,Arifureta-Italics,,0000,0000,0000,,Alguém me ajude!
+Dialogue: 0,0:06:13.51,0:06:17.52,Biblioteca,,0000,0000,0000,,{\pos(323.429,298.143)}Grande Labirinto de Orcus - Entrada - 7 dias antes
+Dialogue: 0,0:06:17.96,0:06:20.92,Arifureta-Flashback,,0000,0000,0000,,Ouçam!\NTodos se ajudam no labirinto.
+Dialogue: 0,0:06:21.42,0:06:24.96,Arifureta-Flashback,,0000,0000,0000,,— Haja o que houver. Entenderam?\N—  Sim!
+Dialogue: 0,0:06:25.03,0:06:28.74,Biblioteca,,0000,0000,0000,,{\fad(1,936)\pos(181.714,345)\fs15}Grande Labirinto de Orcus - 20º piso
+Dialogue: 0,0:06:37.77,0:06:39.02,Arifureta-Flashback,,0000,0000,0000,,Eu protegerei a todos.
+Dialogue: 0,0:06:39.85,0:06:42.27,Arifureta-Flashback,,0000,0000,0000,,Obrigado, Amanogawa.
+Dialogue: 0,0:06:42.81,0:06:47.78,Arifureta-Flashback,,0000,0000,0000,,Por que está com uma espada?\NIsso é totalmente inútil.
+Dialogue: 0,0:06:49.03,0:06:50.53,Arifureta-Flashback,,0000,0000,0000,,Você está bem, Nagumo?
+Dialogue: 0,0:06:51.41,0:06:52.41,Arifureta-Flashback,,0000,0000,0000,,Sim.
+Dialogue: 0,0:06:56.41,0:06:58.91,Arifureta-Flashback,,0000,0000,0000,,Precisa se esforçar mais, Nagumo.
+Dialogue: 0,0:06:59.58,0:07:03.59,Arifureta-Flashback,,0000,0000,0000,,No seu lugar, eu usaria o tempo livre\Npara treinar e ficar mais forte.
+Dialogue: 0,0:07:07.13,0:07:10.18,Arifureta-Flashback,,0000,0000,0000,,O que é aquilo? É tão brilhante!
+Dialogue: 0,0:07:11.59,0:07:12.72,Arifureta-Flashback,,0000,0000,0000,,Aquilo é...
+Dialogue: 0,0:07:13.68,0:07:18.81,Arifureta-Flashback,,0000,0000,0000,,É um cristal radiante.\NNão se vê muitos grandes assim.
+Dialogue: 0,0:07:19.85,0:07:22.94,Arifureta-Flashback,,0000,0000,0000,,Parece uma pedra popular\Nem anéis de noivado.
+Dialogue: 0,0:07:23.40,0:07:24.77,Arifureta-Flashback,,0000,0000,0000,,Tão bonito!
+Dialogue: 0,0:07:25.23,0:07:28.11,Arifureta-Flashback,,0000,0000,0000,,Bem, então eu vou levá-lo!
+Dialogue: 0,0:07:28.32,0:07:32.32,Arifureta-Flashback,,0000,0000,0000,,Não faça isso sozinho!\NAinda nem vimos se é seguro!
+Dialogue: 0,0:08:01.29,0:08:03.79,Biblioteca,,0000,0000,0000,,{\pos(315.428,319.857)}Grande Labirinto de Orcus - 65º piso
+Dialogue: 0,0:08:03.81,0:08:06.52,Arifureta-Flashback,,0000,0000,0000,,É uma armadilha. Recuar!
+Dialogue: 0,0:08:06.73,0:08:08.36,Arifureta-Flashback,,0000,0000,0000,,Corram para as escadas!
+Dialogue: 0,0:08:14.41,0:08:15.78,Arifureta-Flashback,,0000,0000,0000,,Obrigado, Shizuku!
+Dialogue: 0,0:08:16.32,0:08:17.41,Arifureta-Flashback,,0000,0000,0000,,Pessoal!
+Dialogue: 0,0:08:20.16,0:08:24.46,Arifureta-Flashback,,0000,0000,0000,,Andem logo! Não vou deixar\Nvocês morrerem aqui!
+Dialogue: 0,0:08:28.09,0:08:32.63,Arifureta-Flashback,,0000,0000,0000,,Deus, proteja seus filhos amados\Ndaqueles que querem o mal deles.
+Dialogue: 0,0:08:32.76,0:08:35.93,Arifureta-Flashback,,0000,0000,0000,,Faça deste um solo sagrado que\Naterroriza nossos inimigos!
+Dialogue: 0,0:08:36.22,0:08:37.43,Arifureta-Flashback,,0000,0000,0000,,Solo Sagrado!
+Dialogue: 0,0:08:56.45,0:08:57.78,Arifureta-Flashback,,0000,0000,0000,,Corra, Kaori!
+Dialogue: 0,0:08:59.37,0:09:00.66,Arifureta-Flashback,,0000,0000,0000,,Transmutação?
+Dialogue: 0,0:09:02.41,0:09:04.79,Arifureta-Flashback,,0000,0000,0000,,—  Nagumo!\N— Corra! É sua chance!
+Dialogue: 0,0:09:07.96,0:09:10.42,Arifureta-Flashback,,0000,0000,0000,,— Tudo bem, garoto?\N— Capitão Meld,
+Dialogue: 0,0:09:10.55,0:09:15.13,Arifureta-Flashback,,0000,0000,0000,,isso não vai atrasá-lo muito tempo!\NLeve a Shirasaki em segurança!
+Dialogue: 0,0:09:18.18,0:09:19.18,Arifureta-Flashback,,0000,0000,0000,,Depressa!
+Dialogue: 0,0:09:19.30,0:09:22.27,Arifureta-Flashback,,0000,0000,0000,,Salvaremos você, eu juro!\NAguente firme!
+Dialogue: 0,0:09:28.81,0:09:32.19,Arifureta-Flashback,,0000,0000,0000,,— Não vai aguentar.\N— Saia daí, garoto! Daremos cobertura!
+Dialogue: 0,0:09:32.69,0:09:34.44,Arifureta-Flashback,,0000,0000,0000,,— Todos prontos?\N— Sim!
+Dialogue: 0,0:09:38.32,0:09:40.58,Arifureta-Flashback,,0000,0000,0000,,— Corra, garoto! Rápido!\N— Entendi!
+Dialogue: 0,0:09:44.04,0:09:48.58,Arifureta-Main,,0000,0000,0000,,Por quê? Por quê?
+Dialogue: 0,0:09:48.83,0:09:51.71,Arifureta-Main,,0000,0000,0000,,Morra logo! Morra!
+Dialogue: 0,0:09:51.84,0:09:54.13,Arifureta-Main,,0000,0000,0000,,Não quero morrer. Morra!
+Dialogue: 0,0:09:54.26,0:09:56.88,Arifureta-Main,,0000,0000,0000,,Não quero morrer. Morra!
+Dialogue: 0,0:09:57.01,0:09:59.26,Arifureta-Main,,0000,0000,0000,,Não quero... Morra!
+Dialogue: 0,0:09:59.39,0:10:00.55,Arifureta-Main,,0000,0000,0000,,Eu não quero!
+Dialogue: 0,0:10:01.05,0:10:06.35,Arifureta-Main,,0000,0000,0000,,Droga! Meu braço esquerdo dói muito!\NFoi mordido, mas ainda dói!
+Dialogue: 0,0:10:10.81,0:10:13.48,Arifureta-Main,,0000,0000,0000,,De quem é a culpa?\NQuem é culpado?
+Dialogue: 0,0:10:13.82,0:10:17.90,Arifureta-Main,,0000,0000,0000,,Quem? Quem fez isso?\NQuem? Droga!
+Dialogue: 0,0:10:18.95,0:10:20.57,Arifureta-Flashback,,0000,0000,0000,,Salvaremos você, eu juro!
+Dialogue: 0,0:10:21.07,0:10:22.16,Arifureta-Flashback,,0000,0000,0000,,Fogo!
+Dialogue: 0,0:10:26.54,0:10:28.33,Arifureta-Flashback,,0000,0000,0000,,Segunda rajada! Fogo!
+Dialogue: 0,0:10:33.46,0:10:35.01,Arifureta-Flashback,,0000,0000,0000,,Aguente firme, Nagumo!
+Dialogue: 0,0:10:38.55,0:10:40.30,Arifureta-Flashback-Italics,,0000,0000,0000,,Por que está vindo para cá?
+Dialogue: 0,0:10:50.77,0:10:55.15,Arifureta-Italics,,0000,0000,0000,,Não me lembro de ninguém\Nque quisesse a minha morte.
+Dialogue: 0,0:10:56.69,0:11:01.11,Arifureta-Italics,,0000,0000,0000,,Mas eu era o alvo.\NTentaram me matar.
+Dialogue: 0,0:11:01.11,0:11:02.37,Arifureta-Italics,,0000,0000,0000,,Quem fez isso?
+Dialogue: 0,0:11:03.95,0:11:05.08,Arifureta-Italics,,0000,0000,0000,,Foi ele!
+Dialogue: 0,0:11:08.83,0:11:09.96,Arifureta-Italics,,0000,0000,0000,,Mas por quê?
+Dialogue: 0,0:11:11.37,0:11:13.46,Arifureta-Italics,,0000,0000,0000,,Acho que não importa mais.
+Dialogue: 0,0:11:29.02,0:11:30.89,Arifureta-Main,,0000,0000,0000,,— Garoto!\N— Corra!
+Dialogue: 0,0:11:31.14,0:11:33.06,Arifureta-Main,,0000,0000,0000,,— O quê?\N— O que houve?
+Dialogue: 0,0:11:36.86,0:11:38.32,Arifureta-Main,,0000,0000,0000,,— Nagumo!\N— Não!
+Dialogue: 0,0:11:38.44,0:11:39.65,Arifureta-Main,,0000,0000,0000,,Mas o Nagumo...
+Dialogue: 0,0:11:49.75,0:11:51.41,Arifureta-Main,,0000,0000,0000,,Não!
+Dialogue: 0,0:11:54.44,0:12:00.90,Biblioteca,,0000,0000,0000,,{\fad(941,931)\pos(151,347)\c&H8B9298&}9 dias antes
+Dialogue: 0,0:11:57.84,0:12:00.76,Arifureta-Flashback,,0000,0000,0000,,Shirasaki? Já é tarde.\NO que houve?
+Dialogue: 0,0:12:01.42,0:12:05.89,Arifureta-Flashback,,0000,0000,0000,,Não vá treinar conosco amanhã\Nno Grande Labirinto de Orcus.
+Dialogue: 0,0:12:01.45,0:12:05.41,Quarto,,0000,0000,0000,,{\fad(980,978)\pos(187,345)}Reino Heiligh - Quarto de hospede do castelo
+Dialogue: 0,0:12:06.60,0:12:09.52,Arifureta-Flashback,,0000,0000,0000,,Por favor. Eu tive um pesadelo.
+Dialogue: 0,0:12:10.02,0:12:12.60,Arifureta-Flashback,,0000,0000,0000,,— Algo vai acontecer com você.\N— Espere um minuto.
+Dialogue: 0,0:12:13.69,0:12:17.57,Arifureta-Flashback,,0000,0000,0000,,Estávamos em um lugar escuro.\NQuando chamei você, não respondeu.
+Dialogue: 0,0:12:18.32,0:12:20.40,Arifureta-Flashback,,0000,0000,0000,,Corri, mas não pude alcançá-lo.
+Dialogue: 0,0:12:22.11,0:12:23.24,Arifureta-Flashback,,0000,0000,0000,,E aí...
+Dialogue: 0,0:12:23.78,0:12:24.86,Arifureta-Flashback,,0000,0000,0000,,E aí?
+Dialogue: 0,0:12:25.57,0:12:26.95,Arifureta-Flashback,,0000,0000,0000,,Você desapareceu.
+Dialogue: 0,0:12:29.37,0:12:30.45,Arifureta-Flashback,,0000,0000,0000,,Bem...
+Dialogue: 0,0:12:32.08,0:12:34.37,Arifureta-Flashback,,0000,0000,0000,,Então, você vai me proteger?
+Dialogue: 0,0:12:36.08,0:12:40.92,Arifureta-Flashback,,0000,0000,0000,,Minha obrigação sinérgica é comum\Ne não é adequada para lutar.
+Dialogue: 0,0:12:41.34,0:12:43.43,Arifureta-Flashback,,0000,0000,0000,,Você não é sacerdotisa, Shirasaki?
+Dialogue: 0,0:12:44.13,0:12:48.93,Arifureta-Flashback,,0000,0000,0000,,Se eu ficar muito ferido,\Npoderá me curar com seus poderes.
+Dialogue: 0,0:12:53.64,0:12:57.44,Arifureta-Flashback,,0000,0000,0000,,Tudo bem.\NPrometo protegê-lo, Nagumo.
+Dialogue: 0,0:12:58.94,0:13:00.94,Arifureta-Flashback-Italics,,0000,0000,0000,,Não!
+Dialogue: 0,0:13:02.07,0:13:04.65,Arifureta-Italics,,0000,0000,0000,,Ninguém vai me salvar.
+Dialogue: 0,0:13:05.28,0:13:07.03,Arifureta-Italics,,0000,0000,0000,,O que devo fazer?
+Dialogue: 0,0:13:10.29,0:13:13.20,Arifureta-Italics,,0000,0000,0000,,Por que estou sofrendo assim?
+Dialogue: 0,0:13:13.87,0:13:17.58,Arifureta-Italics,,0000,0000,0000,,O que eu fiz? Por que\Nisso está acontecendo?
+Dialogue: 0,0:13:18.29,0:13:21.30,Arifureta-Italics,,0000,0000,0000,,Vim parar aqui depois\Nde uma reviravolta.
+Dialogue: 0,0:13:22.17,0:13:24.34,Arifureta-Italics,,0000,0000,0000,,Meus colegas de classe me traíram.
+Dialogue: 0,0:13:26.01,0:13:28.72,Arifureta-Italics,,0000,0000,0000,,E os inimigos são muito fortes.
+Dialogue: 0,0:13:31.51,0:13:35.85,Arifureta-Italics,,0000,0000,0000,,O que eu quero neste abismo\Nde desespero e desesperança?
+Dialogue: 0,0:13:37.48,0:13:40.44,Arifureta-Italics,,0000,0000,0000,,Quero sobreviver e voltar para casa.
+Dialogue: 0,0:13:40.82,0:13:43.53,Arifureta-Italics,,0000,0000,0000,,Tudo no meu caminho é meu inimigo.
+Dialogue: 0,0:13:44.65,0:13:50.66,Arifureta-Main,,0000,0000,0000,,Certo. Se alguém me atrapalhar\Nou me obrigar a cometer um erro,
+Dialogue: 0,0:13:52.12,0:13:53.24,Arifureta-Main,,0000,0000,0000,,vai morrer!
+Dialogue: 0,0:13:55.62,0:13:58.38,Arifureta-Main,,0000,0000,0000,,Estou com sede e com fome.
+Dialogue: 0,0:14:04.76,0:14:08.59,Arifureta-Main,,0000,0000,0000,,Droga! Não importa se eu\Ntiver que comer um monstro.
+Dialogue: 0,0:14:08.80,0:14:10.10,Arifureta-Main,,0000,0000,0000,,Eu vou comer!
+Dialogue: 0,0:14:33.08,0:14:37.41,Arifureta-Main,,0000,0000,0000,,Cale-se! Estou com raiva,\Nporque estou faminto!
+Dialogue: 0,0:14:39.29,0:14:42.13,Arifureta-Main,,0000,0000,0000,,Cale-se e seja a minha refeição!
+Dialogue: 0,0:14:44.50,0:14:47.51,Arifureta-Main,,0000,0000,0000,,Monstros fortes são\Nmuito resilientes.
+Dialogue: 0,0:14:52.39,0:14:54.76,Arifureta-Main,,0000,0000,0000,,É mais nojento do que eu imaginava.
+Dialogue: 0,0:15:01.31,0:15:05.73,Arifureta-Main,,0000,0000,0000,,O que é isso? Parece que algo\Nestá me devorando por dentro.
+Dialogue: 0,0:15:19.25,0:15:23.08,Arifureta-Main,,0000,0000,0000,,E não para!\NO que está acontecendo?
+Dialogue: 0,0:15:24.34,0:15:27.51,Arifureta-Main,,0000,0000,0000,,Comer carne de monstro vai me matar?
+Dialogue: 0,0:15:44.27,0:15:47.11,Arifureta-Italics,,0000,0000,0000,,Sem essa Água Sagrada,\Neu estaria perdido.
+Dialogue: 0,0:15:47.61,0:15:50.78,Arifureta-Italics,,0000,0000,0000,,Eu teria morrido enquanto a\Ncarne do monstro me consumia.
+Dialogue: 0,0:15:52.86,0:15:55.41,Arifureta-Italics,,0000,0000,0000,,Pela primeira vez, não sinto dor.
+Dialogue: 0,0:15:56.37,0:15:58.33,Arifureta-Italics,,0000,0000,0000,,Pelo contrário. Sinto-me leve.
+Dialogue: 0,0:15:59.54,0:16:02.71,Arifureta-Italics,,0000,0000,0000,,O que aconteceu com o meu corpo?
+Dialogue: 0,0:16:07.30,0:16:09.80,Arifureta-Main,,0000,0000,0000,,Droga! Pareço um monstro.
+Dialogue: 0,0:16:11.51,0:16:13.93,Arifureta-Main,,0000,0000,0000,,É melhor eu olhar a Placa de Status.
+Dialogue: 0,0:16:18.06,0:16:20.98,Arifureta-Main-Top,,0000,0000,0000,,Comer carne de monstro\Naumentou os meus níveis?
+Dialogue: 0,0:16:21.39,0:16:23.35,Arifureta-Main-Top,,0000,0000,0000,,E ganhei novas habilidades.
+Dialogue: 0,0:16:24.19,0:16:25.81,Arifureta-Main,,0000,0000,0000,,Manipulação de Mana?
+Dialogue: 0,0:16:25.94,0:16:29.11,Arifureta-Main,,0000,0000,0000,,Deve ser exatamente isso.\NPosso manipular o mana.
+Dialogue: 0,0:16:30.57,0:16:32.99,Arifureta-Main-Top,,0000,0000,0000,,Nem preciso vocalizar o feitiço!
+Dialogue: 0,0:16:33.66,0:16:38.66,Arifureta-Main-Top,,0000,0000,0000,,Devo ter adquirido essas habilidades\Ndepois de comer a carne de monstro.
+Dialogue: 0,0:16:41.00,0:16:44.08,Arifureta-Main,,0000,0000,0000,,Campo de Raio? Esse poder...
+Dialogue: 0,0:16:44.62,0:16:46.46,Arifureta-Main,,0000,0000,0000,,Consegui!
+Dialogue: 0,0:16:47.25,0:16:49.71,Arifureta-Main,,0000,0000,0000,,A cor do mana está ficando vermelha.
+Dialogue: 0,0:16:51.51,0:16:54.34,Arifureta-Main,,0000,0000,0000,,Não posso lançar como fez\No lobo de duas caudas,
+Dialogue: 0,0:16:55.05,0:16:58.14,Arifureta-Main,,0000,0000,0000,,mas posso controlar a\Nvoltagem e a amperagem.
+Dialogue: 0,0:17:02.06,0:17:05.85,Arifureta-Main,,0000,0000,0000,,O cheiro é horrível,\Nmas é melhor do que comer cru.
+Dialogue: 0,0:17:07.90,0:17:11.23,Arifureta-Main,,0000,0000,0000,,Também preciso de\Nalgum tipo de arma.
+Dialogue: 0,0:17:14.32,0:17:17.95,Arifureta-Main,,0000,0000,0000,,Só de pegar, já sei que tipo de pedra é.
+Dialogue: 0,0:17:18.37,0:17:21.08,Arifureta-Main,,0000,0000,0000,,Posso fazer uma arma,\Nse eu souber usar isso.
+Dialogue: 0,0:17:23.04,0:17:26.67,Arifureta-Main,,0000,0000,0000,,Pedra Taur: pedra dura e preta.
+Dialogue: 0,0:17:26.79,0:17:29.13,Arifureta-Main,,0000,0000,0000,,Rigidez oito. Resistência oito.
+Dialogue: 0,0:17:29.63,0:17:32.80,Arifureta-Main,,0000,0000,0000,,Suporta peso e calor,\Nmas não resiste ao frio.
+Dialogue: 0,0:17:33.13,0:17:37.68,Arifureta-Main,,0000,0000,0000,,Enfraquece quando congelada.\NAquecida, retoma suas propriedades.
+Dialogue: 0,0:17:40.26,0:17:41.35,Arifureta-Main,,0000,0000,0000,,Incrível.
+Dialogue: 0,0:17:42.27,0:17:44.93,Arifureta-Main,,0000,0000,0000,,Rocha Explosiva: pedra inflamável.
+Dialogue: 0,0:17:45.39,0:17:49.27,Arifureta-Main,,0000,0000,0000,,Pode explodir quando exposta à\Npressão e calor em local fechado.
+Dialogue: 0,0:17:49.81,0:17:51.27,Arifureta-Main,,0000,0000,0000,,Simplificando, pólvora.
+Dialogue: 0,0:17:51.86,0:17:54.15,Arifureta-Main,,0000,0000,0000,,Dependendo do volume e da pressão,
+Dialogue: 0,0:17:54.28,0:17:57.66,Arifureta-Main,,0000,0000,0000,,sua explosão é comparável aos\Nmais poderosos feitiços de fogo.
+Dialogue: 0,0:17:58.78,0:18:00.74,Arifureta-Main,,0000,0000,0000,,Já tenho as balas.
+Dialogue: 0,0:18:07.79,0:18:13.59,Arifureta-Main,,0000,0000,0000,,Um revólver para seis disparos e\Nbalas feitas da resistente Pedra Taur.
+Dialogue: 0,0:18:14.01,0:18:17.55,Arifureta-Main,,0000,0000,0000,,Dentro de cada bala,\Ntem pólvora de Pedra Explosiva.
+Dialogue: 0,0:18:18.59,0:18:20.68,Arifureta-Main,,0000,0000,0000,,E adicionando o Campo de Raio...
+Dialogue: 0,0:18:41.32,0:18:43.74,Arifureta-Main,,0000,0000,0000,,Precisará de um bom nome.
+Dialogue: 0,0:18:44.87,0:18:48.29,Arifureta-Main,,0000,0000,0000,,Já sei! Vai se chamar "Donner".
+Dialogue: 0,0:18:59.68,0:19:01.64,Arifureta-Main,,0000,0000,0000,,Mais fácil, impossível.
+Dialogue: 0,0:19:02.05,0:19:04.64,Arifureta-Main,,0000,0000,0000,,Vou verificar meu status.
+Dialogue: 0,0:19:05.64,0:19:09.81,Arifureta-Main,,0000,0000,0000,,Ótimo. Os números subiram.\NSempre que eu comer um monstro novo,
+Dialogue: 0,0:19:09.94,0:19:12.02,Arifureta-Main,,0000,0000,0000,,o meu desempenho vai melhorar muito.
+Dialogue: 0,0:19:12.40,0:19:15.82,Arifureta-Main,,0000,0000,0000,,E essas novas habilidades\Ntalvez me ajudem a encontrar a saída.
+Dialogue: 0,0:19:16.50,0:19:20.59,Passo Rápido,,0000,0000,0000,,{\fad(1365,1)\blur2\fs40\pos(326,62)}Passo Rápido
+Dialogue: 0,0:19:17.15,0:19:19.90,Arifureta-Main,,0000,0000,0000,,Passo Rápido. Foi assim\Nque ele se teletransportou.
+Dialogue: 0,0:19:22.84,0:19:26.60,Passo Rápido,,0000,0000,0000,,{\fad(905,1)\blur2\fs40\pos(326,62)}Aerodinâmica
+Dialogue: 0,0:19:22.91,0:19:26.41,Arifureta-Main,,0000,0000,0000,,Aerodinâmica. Foi quando\Nele se deslocou pelo ar.
+Dialogue: 0,0:19:29.21,0:19:34.09,Arifureta-Main,,0000,0000,0000,,Preciso retribuir o favor\Nao meu monstro favorito.
+Dialogue: 0,0:19:45.22,0:19:47.14,Arifureta-Main,,0000,0000,0000,,Ei! Há quanto tempo!
+Dialogue: 0,0:19:47.77,0:19:49.73,Arifureta-Main,,0000,0000,0000,,O meu braço estava saboroso?
+Dialogue: 0,0:19:51.06,0:19:54.19,Arifureta-Main,,0000,0000,0000,,É assim que eu gosto!\NHora da revanche!
+Dialogue: 0,0:19:54.31,0:19:55.98,Arifureta-Main,,0000,0000,0000,,Vai morrer e ser devorado!
+Dialogue: 0,0:20:00.15,0:20:01.24,Arifureta-Main,,0000,0000,0000,,Passo Rápido!
+Dialogue: 0,0:20:03.53,0:20:05.49,Arifureta-Main,,0000,0000,0000,,Isso mesmo! Sou seu inimigo!
+Dialogue: 0,0:20:05.78,0:20:08.16,Arifureta-Main,,0000,0000,0000,,Não sou uma presa\Nfraca para você caçar!
+Dialogue: 0,0:20:10.25,0:20:11.25,Arifureta-Main,,0000,0000,0000,,Aerodinâmica!
+Dialogue: 0,0:20:16.84,0:20:18.09,Arifureta-Main,,0000,0000,0000,,Droga!
+Dialogue: 0,0:20:20.76,0:20:23.84,Arifureta-Main,,0000,0000,0000,,Estou orgulhoso desta criação!\NOlhe bem para ela!
+Dialogue: 0,0:20:38.57,0:20:40.32,Arifureta-Main,,0000,0000,0000,,Que carne horrível!
+Dialogue: 0,0:20:40.65,0:20:44.70,Arifureta-Main,,0000,0000,0000,,Mas, por algum motivo, o gosto é\Nmelhor do que qualquer outra coisa.
+Dialogue: 0,0:20:53.75,0:20:54.79,Arifureta-Main,,0000,0000,0000,,Campo de Raio!
+Dialogue: 0,0:21:15.23,0:21:18.48,Arifureta-Main,,0000,0000,0000,,Vou para casa. Vou sobreviver\Ne voltar para casa.
+Dialogue: 0,0:21:19.32,0:21:24.40,Arifureta-Main,,0000,0000,0000,,Não importa quem ficar\Nno meu caminho ou o quê.
+Dialogue: 0,0:21:25.70,0:21:28.58,Arifureta-Main,,0000,0000,0000,,Vou matar todos eles.
+Dialogue: 0,0:21:59.36,0:22:04.99,Arifureta-ED,,0000,0000,0000,,Bom dia, boa noite\NTodas essas coisas simples
+Dialogue: 0,0:22:05.11,0:22:10.08,Arifureta-ED,,0000,0000,0000,,São fantásticas e adoráveis
+Dialogue: 0,0:22:10.20,0:22:14.75,Arifureta-ED,,0000,0000,0000,,Porque finalmente conheci você
+Dialogue: 0,0:22:14.87,0:22:21.13,Arifureta-ED,,0000,0000,0000,,Tudo é tão especial\NObrigada mais uma vez
+Dialogue: 0,0:22:24.42,0:22:29.68,Arifureta-ED,,0000,0000,0000,,Não pensei que eu fosse tão solitária
+Dialogue: 0,0:22:29.80,0:22:34.85,Arifureta-ED,,0000,0000,0000,,Sim, até você me encontrar
+Dialogue: 0,0:22:34.97,0:22:40.36,Arifureta-ED,,0000,0000,0000,,Eu não tinha medo de nada
+Dialogue: 0,0:22:40.48,0:22:45.78,Arifureta-ED,,0000,0000,0000,,Até eu pensar em um mundo sem você
+Dialogue: 0,0:22:45.90,0:22:51.78,Arifureta-ED,,0000,0000,0000,,Acredita nisso?\NSinto sua falta, gosto tanto de você
+Dialogue: 0,0:22:52.78,0:22:58.46,Arifureta-ED,,0000,0000,0000,,Eu amo você, não se esqueça
+Dialogue: 0,0:22:58.58,0:23:03.25,Arifureta-ED,,0000,0000,0000,,Brilhe como a primeira estrela da noite
+Dialogue: 0,0:23:03.80,0:23:09.38,Arifureta-ED,,0000,0000,0000,,E fique mais perto de mim\NDo que qualquer outra pessoa
+Dialogue: 0,0:23:09.51,0:23:14.81,Arifureta-ED,,0000,0000,0000,,Nunca vou deixar você partir
+Dialogue: 0,0:23:14.93,0:23:20.19,Arifureta-ED,,0000,0000,0000,,Nunca vou largar a sua mão
+Dialogue: 0,0:23:20.31,0:23:27.24,Arifureta-ED,,0000,0000,0000,,Fique ao meu lado e brilhe
+Dialogue: 0,0:23:29.07,0:23:36.06,Arifureta-NextEpTitle,,0000,0000,0000,,{\move(52,23,54,57,4,6969)}Episódio 02:\N{\fs22\b1}A Caixa de Pandora
+Dialogue: 0,0:23:30.99,0:23:33.66,Arifureta-Italics - Copy,,0000,0000,0000,,"Arifureta: Do comum ao\Nmais forte do mundo."
