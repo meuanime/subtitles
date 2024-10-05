@@ -1,0 +1,386 @@
+﻿[Script Info]
+Title: [Erai-raws] Português (Brasil)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0015,0
+Style: Signs,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0020,0020,0015,0
+Style: Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0015,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:17.18,0:00:18.18,Signs,,0000,0000,0000,,{\an8}SENPAI (RANZINZA){\an}
+Dialogue: 0,0:00:18.26,0:00:19.35,Default,,0000,0000,0000,,Nossa!{\an}
+Dialogue: 0,0:00:21.18,0:00:23.89,Default,,0000,0000,0000,,Boa tarde! E aí, Senpai?
+Dialogue: 0,0:00:24.31,0:00:26.31,Default,,0000,0000,0000,,- Bem...\N- Senpai?
+Dialogue: 0,0:00:27.40,0:00:30.73,Default,,0000,0000,0000,,- É meio do nada, desculpe, Uzaki.\N- Do nada o quê?
+Dialogue: 0,0:00:32.03,0:00:35.91,Default,,0000,0000,0000,,Por favor, esteja comigo.\NPreciso de você.
+Dialogue: 0,0:00:36.32,0:00:37.53,Default,,0000,0000,0000,,Como é?
+Dialogue: 0,0:00:45.67,0:00:52.17,Signs,,0000,0000,0000,,{\an8}UZAKI-CHAN WANTS TO HANG OUT!{\an}
+Dialogue: 0,0:02:08.42,0:02:13.21,Signs,,0000,0000,0000,,EPISÓDIO 7: QUERO PASSEAR\NEM UM CAFÉ E PUB!
+Dialogue: 0,0:02:14.38,0:02:18.55,Default,,0000,0000,0000,,Por favor, esteja comigo.\NPreciso de você.
+Dialogue: 0,0:02:18.68,0:02:20.22,Default,,0000,0000,0000,,Senpai...
+Dialogue: 0,0:02:23.30,0:02:25.10,Default,,0000,0000,0000,,Ah... oi.
+Dialogue: 0,0:02:26.22,0:02:27.85,Default,,0000,0000,0000,,Oi, você.
+Dialogue: 0,0:02:27.93,0:02:29.60,Default,,0000,0000,0000,,Desculpe, sei que foi do nada.
+Dialogue: 0,0:02:30.06,0:02:31.90,Default,,0000,0000,0000,,Tudo bem.
+Dialogue: 0,0:02:32.27,0:02:35.69,Default,,0000,0000,0000,,Pediu para que eu ficasse\Ncom você. No telefone.
+Dialogue: 0,0:02:36.57,0:02:38.95,Default,,0000,0000,0000,,Sobre isso...
+Dialogue: 0,0:02:44.78,0:02:45.79,Default,,0000,0000,0000,,Como é?
+Dialogue: 0,0:02:45.87,0:02:49.25,Default,,0000,0000,0000,,Não consigo entrar sozinho!
+Dialogue: 0,0:02:49.41,0:02:51.42,Default,,0000,0000,0000,,Venha comigo ao café dos gatos!
+Dialogue: 0,0:02:53.04,0:02:55.42,Default,,0000,0000,0000,,Graças a Deus você veio! É sério!
+Dialogue: 0,0:02:55.88,0:02:59.88,Default,,0000,0000,0000,,Mal posso esperar!\NÉ minha primeira vez, estou tão nervoso!
+Dialogue: 0,0:03:04.60,0:03:09.35,Default,,0000,0000,0000,,Ai! O que é isso! Pare!\NJá chega! Isso dói!
+Dialogue: 0,0:03:10.35,0:03:14.11,Default,,0000,0000,0000,,Dois? Tirem os sapatos e entrem.
+Dialogue: 0,0:03:22.91,0:03:24.57,Default,,0000,0000,0000,,Uau, gatos!
+Dialogue: 0,0:03:24.91,0:03:26.24,Default,,0000,0000,0000,,Eles têm gatos, Uzaki!
+Dialogue: 0,0:03:26.33,0:03:28.37,Default,,0000,0000,0000,,Sim. Eles têm gatos mesmo.
+Dialogue: 0,0:03:28.75,0:03:31.00,Default,,0000,0000,0000,,Óbvio. Somos um café de gatos.
+Dialogue: 0,0:03:33.17,0:03:35.54,Default,,0000,0000,0000,,Posso encostar neles, não posso?
+Dialogue: 0,0:03:35.63,0:03:38.42,Default,,0000,0000,0000,,Vá com calma, Senpai.\NEstá com aqueles olhos assustadores.
+Dialogue: 0,0:03:39.34,0:03:43.34,Default,,0000,0000,0000,,Se os gatos aceitarem,\Nvá em frente e os acaricie gentilmente.
+Dialogue: 0,0:03:43.59,0:03:44.80,Default,,0000,0000,0000,,Entendi.
+Dialogue: 0,0:03:45.64,0:03:48.85,Default,,0000,0000,0000,,Faça como te ensinei: de baixo.
+Dialogue: 0,0:03:48.93,0:03:50.18,Default,,0000,0000,0000,,Certo.
+Dialogue: 0,0:03:52.14,0:03:54.27,Default,,0000,0000,0000,,Nossa...
+Dialogue: 0,0:03:54.77,0:03:57.23,Default,,0000,0000,0000,,Agora é sua chance!\NGatos gostam de carinho
+Dialogue: 0,0:03:57.32,0:03:59.32,Default,,0000,0000,0000,,sob o queixo ou atrás das orelhas.
+Dialogue: 0,0:03:59.44,0:04:00.49,Default,,0000,0000,0000,,Tudo bem.
+Dialogue: 0,0:04:10.70,0:04:13.83,Default,,0000,0000,0000,,Uzaki, olhe! Um gato no meu colo!
+Dialogue: 0,0:04:14.08,0:04:15.92,Default,,0000,0000,0000,,Sim, sim. Que bom para você.
+Dialogue: 0,0:04:16.00,0:04:18.29,Default,,0000,0000,0000,,Mas não fale muito alto,\Nou ele vai fugir.
+Dialogue: 0,0:04:21.05,0:04:23.26,Default,,0000,0000,0000,,Nossa. Que esquisito.
+Dialogue: 0,0:04:24.09,0:04:27.26,Default,,0000,0000,0000,,Ele não fica empolgado\Nassim perto de humanos.
+Dialogue: 0,0:04:27.55,0:04:31.52,Default,,0000,0000,0000,,Toda essa aura ranzinza deve\Nreprimir algumas coisas.
+Dialogue: 0,0:04:31.60,0:04:33.06,Default,,0000,0000,0000,,Gatinho, gatinho...
+Dialogue: 0,0:04:33.60,0:04:36.94,Default,,0000,0000,0000,,Tão esquisito que nem ligo\Npara a forma totalmente falsa
+Dialogue: 0,0:04:37.02,0:04:39.32,Default,,0000,0000,0000,,como ele me fez vir até aqui.
+Dialogue: 0,0:04:41.82,0:04:44.11,Default,,0000,0000,0000,,Ele está feliz demais da conta.
+Dialogue: 0,0:04:45.36,0:04:48.03,Default,,0000,0000,0000,,Uzaki, qual é a desse sorrisão?
+Dialogue: 0,0:04:48.37,0:04:52.00,Default,,0000,0000,0000,,Acho esquisito você ser ranzinza\Ne gostar de coisas fofinhas.
+Dialogue: 0,0:04:52.33,0:04:53.33,Default,,0000,0000,0000,,Como é? Babaca.
+Dialogue: 0,0:04:53.46,0:04:54.96,Default,,0000,0000,0000,,Opa, minha fachada caiu.
+Dialogue: 0,0:04:55.08,0:04:56.12,Default,,0000,0000,0000,,Sua...
+Dialogue: 0,0:04:56.71,0:04:59.67,Default,,0000,0000,0000,,Também é esquisito que\Nvocê esteja falando baixo
+Dialogue: 0,0:04:59.75,0:05:01.30,Default,,0000,0000,0000,,para não assustar os gatos.
+Dialogue: 0,0:05:01.38,0:05:02.38,Default,,0000,0000,0000,,Previsível!
+Dialogue: 0,0:05:02.46,0:05:04.84,Default,,0000,0000,0000,,Sua fachada caiu de novo.
+Dialogue: 0,0:05:08.05,0:05:12.39,Default,,0000,0000,0000,,Estou mesmo feliz que tenha vindo.\NEstava dando meia-volta na entrada.
+Dialogue: 0,0:05:12.47,0:05:13.68,Default,,0000,0000,0000,,Está exagerando.
+Dialogue: 0,0:05:14.10,0:05:16.19,Default,,0000,0000,0000,,Tenho que te recompensar.
+Dialogue: 0,0:05:16.27,0:05:17.27,Default,,0000,0000,0000,,Me recompensar?
+Dialogue: 0,0:05:17.35,0:05:19.06,Default,,0000,0000,0000,,É. Faz ideia de como?
+Dialogue: 0,0:05:19.15,0:05:21.94,Default,,0000,0000,0000,,Bem, vejamos...
+Dialogue: 0,0:05:23.19,0:05:26.61,Default,,0000,0000,0000,,Bem, meu aniversário está chegando.
+Dialogue: 0,0:05:26.99,0:05:31.70,Default,,0000,0000,0000,,Vou fazer 20 anos,\Nentão gostaria de algo meio especial.
+Dialogue: 0,0:05:31.79,0:05:34.37,Default,,0000,0000,0000,,- Então...\N- Me desculpe, Uzaki.
+Dialogue: 0,0:05:34.75,0:05:35.75,Default,,0000,0000,0000,,Como é?
+Dialogue: 0,0:05:37.46,0:05:40.17,Default,,0000,0000,0000,,- Na verdade...\N- O quê?
+Dialogue: 0,0:05:41.25,0:05:45.76,Default,,0000,0000,0000,,Minhas pernas estão tão dormentes\Nque não processei nada do que disse.
+Dialogue: 0,0:05:46.09,0:05:49.64,Default,,0000,0000,0000,,- Pode repetir?\N- Então largue o gato!
+Dialogue: 0,0:05:49.80,0:05:50.89,Default,,0000,0000,0000,,Sem chance!
+Dialogue: 0,0:05:51.35,0:05:53.35,Default,,0000,0000,0000,,Se não consegue conversar,
+Dialogue: 0,0:05:53.43,0:05:55.14,Default,,0000,0000,0000,,vamos tirar ele daqui.
+Dialogue: 0,0:05:55.23,0:05:58.52,Default,,0000,0000,0000,,Mas ele finalmente veio no\Nmeu colo! Só um pouquinho?
+Dialogue: 0,0:05:58.60,0:06:01.44,Default,,0000,0000,0000,,Descruze as pernas e se alongue.
+Dialogue: 0,0:06:01.69,0:06:05.32,Default,,0000,0000,0000,,Não é simples assim. Ai, ai, ai...
+Dialogue: 0,0:06:06.36,0:06:07.65,Default,,0000,0000,0000,,Opa!
+Dialogue: 0,0:06:11.16,0:06:13.03,Default,,0000,0000,0000,,Cutuca!
+Dialogue: 0,0:06:13.62,0:06:15.45,Default,,0000,0000,0000,,Pare! Que raios foi isso? Idiota!
+Dialogue: 0,0:06:15.62,0:06:21.13,Default,,0000,0000,0000,,Você estava tão aberto,\Nestava praticamente pedindo!
+Dialogue: 0,0:06:24.38,0:06:28.05,Default,,0000,0000,0000,,Até parece! Todo mundo fica\Nassim com as pernas dormentes!
+Dialogue: 0,0:06:28.13,0:06:32.43,Default,,0000,0000,0000,,Fale baixo, vai\Nassustar os gatinhos!
+Dialogue: 0,0:06:36.89,0:06:38.27,Default,,0000,0000,0000,,Cutuca!
+Dialogue: 0,0:06:38.64,0:06:40.90,Default,,0000,0000,0000,,Cutucãozinho!
+Dialogue: 0,0:06:40.98,0:06:43.31,Default,,0000,0000,0000,,Cutuca, cutuca, cutuca!
+Dialogue: 0,0:06:43.69,0:06:45.03,Default,,0000,0000,0000,,Cutuca, cutuca, cutuca!
+Dialogue: 0,0:06:47.86,0:06:50.07,Default,,0000,0000,0000,,O que foi? Isso é muito divertido!
+Dialogue: 0,0:06:50.61,0:06:52.49,Default,,0000,0000,0000,,Acho que despertou algo em mim!
+Dialogue: 0,0:06:54.49,0:06:57.29,Default,,0000,0000,0000,,Uzaki... por favor... o tio...
+Dialogue: 0,0:06:57.54,0:07:00.37,Default,,0000,0000,0000,,Como é? Não estou te ouvindo!
+Dialogue: 0,0:07:01.12,0:07:04.25,Default,,0000,0000,0000,,De que cor é o seu sangue?
+Dialogue: 0,0:07:04.84,0:07:08.30,Default,,0000,0000,0000,,Façam essas gracinhas entre\Nquatro paredes, por favor.
+Dialogue: 0,0:07:08.38,0:07:09.67,Default,,0000,0000,0000,,"Gracinhas"?
+Dialogue: 0,0:07:11.93,0:07:14.05,Default,,0000,0000,0000,,Que divertido!
+Dialogue: 0,0:07:14.30,0:07:16.56,Default,,0000,0000,0000,,Não foi legal, Senpai?
+Dialogue: 0,0:07:16.85,0:07:20.60,Default,,0000,0000,0000,,A primeira metade sim.\NAí fomos expulsos por sua culpa!
+Dialogue: 0,0:07:20.69,0:07:23.31,Default,,0000,0000,0000,,Droga. Da próxima, vou sozinho.
+Dialogue: 0,0:07:23.40,0:07:25.65,Default,,0000,0000,0000,,Provavelmente não dá\Npara voltar para lá.
+Dialogue: 0,0:07:26.23,0:07:27.57,Default,,0000,0000,0000,,Culpa de quem, isso?
+Dialogue: 0,0:07:27.65,0:07:32.57,Default,,0000,0000,0000,,Mas cafés de gatos são ótimos.\NCheios de gatinhos amigáveis!
+Dialogue: 0,0:07:32.86,0:07:35.70,Default,,0000,0000,0000,,Não é? Estavam tão\Nacostumados com as pessoas.
+Dialogue: 0,0:07:35.78,0:07:38.04,Default,,0000,0000,0000,,É o Modo Muito Fácil.
+Dialogue: 0,0:07:38.37,0:07:40.91,Default,,0000,0000,0000,,"Comunicação ridícula.\NNível cinco? Que pena."
+Dialogue: 0,0:07:41.33,0:07:43.83,Default,,0000,0000,0000,,E ainda gostaram de você!
+Dialogue: 0,0:07:43.92,0:07:45.84,Default,,0000,0000,0000,,Estava obrigando eles por acaso?
+Dialogue: 0,0:07:46.29,0:07:50.51,Default,,0000,0000,0000,,Tenho gatos, mas às vezes é bom\Ninteragir com gatos diferentes.
+Dialogue: 0,0:07:50.59,0:07:52.38,Default,,0000,0000,0000,,Deve ser legal.
+Dialogue: 0,0:07:53.26,0:07:57.06,Default,,0000,0000,0000,,É isso que homens casados\Nsentem quando vão aos cabarés?
+Dialogue: 0,0:07:57.14,0:08:00.39,Default,,0000,0000,0000,,Sei lá! Que analogia horrível.
+Dialogue: 0,0:08:01.64,0:08:03.56,Default,,0000,0000,0000,,Te vejo mais tarde, Senpai!
+Dialogue: 0,0:08:03.77,0:08:07.44,Default,,0000,0000,0000,,Sim. Te devo uma por hoje,\Nentão pense bem nisso, beleza?
+Dialogue: 0,0:08:07.52,0:08:11.28,Default,,0000,0000,0000,,- Já pensei muito bem nisso.\N- E aí?
+Dialogue: 0,0:08:11.36,0:08:16.66,Default,,0000,0000,0000,,Como disse antes, meu aniversário\Nestá chegando. Dia sete de agosto!
+Dialogue: 0,0:08:16.74,0:08:19.24,Default,,0000,0000,0000,,Expectativas altas, Senpai!
+Dialogue: 0,0:08:21.83,0:08:23.42,Default,,0000,0000,0000,,O aniversário dela...
+Dialogue: 0,0:08:23.54,0:08:24.71,Signs,,0000,0000,0000,,CAFÉ ÁSIA
+Dialogue: 0,0:08:24.79,0:08:25.92,Default,,0000,0000,0000,,Por isso...
+Dialogue: 0,0:08:26.21,0:08:29.25,Default,,0000,0000,0000,,ela disse que está com\Nas expectativas altas.
+Dialogue: 0,0:08:29.80,0:08:31.80,Default,,0000,0000,0000,,Está em apuros.
+Dialogue: 0,0:08:31.88,0:08:34.34,Default,,0000,0000,0000,,Parece mesmo ser ruim\Nnesse tipo de coisa.
+Dialogue: 0,0:08:34.43,0:08:35.43,Default,,0000,0000,0000,,Certo.
+Dialogue: 0,0:08:35.51,0:08:38.35,Default,,0000,0000,0000,,Previu que o Sakurai\Nseria ruim nisso,
+Dialogue: 0,0:08:38.43,0:08:41.93,Default,,0000,0000,0000,,e soltou um "expectativas altas"...
+Dialogue: 0,0:08:42.35,0:08:44.02,Default,,0000,0000,0000,,Ela é uma baita estrategista.
+Dialogue: 0,0:08:44.39,0:08:47.44,Default,,0000,0000,0000,,Mas isso vem da cabecinha\Nde uma menina gamada
+Dialogue: 0,0:08:47.52,0:08:50.32,Default,,0000,0000,0000,,que quer que alguém\Nfique em cima dela.
+Dialogue: 0,0:08:50.40,0:08:53.28,Default,,0000,0000,0000,,Talvez não seja algo\Nconsciente para a Hana.
+Dialogue: 0,0:08:53.36,0:08:54.99,Default,,0000,0000,0000,,Bem, seja como for...
+Dialogue: 0,0:08:55.28,0:08:57.28,Default,,0000,0000,0000,,Vamos adorar!
+Dialogue: 0,0:08:57.70,0:08:58.70,Default,,0000,0000,0000,,O que é isso?
+Dialogue: 0,0:08:58.78,0:08:59.95,Default,,0000,0000,0000,,Nada.
+Dialogue: 0,0:09:00.70,0:09:02.83,Default,,0000,0000,0000,,Tem alguma ideia?
+Dialogue: 0,0:09:03.04,0:09:05.17,Default,,0000,0000,0000,,Estive pensando...
+Dialogue: 0,0:09:06.29,0:09:07.75,Default,,0000,0000,0000,,Uzaki...
+Dialogue: 0,0:09:08.00,0:09:12.80,Default,,0000,0000,0000,,Flores, pois é o significado do meu nome?\NEntão você é ruim de trocadilho também!
+Dialogue: 0,0:09:13.01,0:09:14.51,Default,,0000,0000,0000,,Uzaki...
+Dialogue: 0,0:09:14.59,0:09:16.55,Default,,0000,0000,0000,,É do tamanho errado!
+Dialogue: 0,0:09:16.63,0:09:21.56,Default,,0000,0000,0000,,E só gostosos conseguem dar um\Npresente assim sem problemas.
+Dialogue: 0,0:09:22.10,0:09:23.60,Default,,0000,0000,0000,,Uzaki...
+Dialogue: 0,0:09:23.89,0:09:26.27,Default,,0000,0000,0000,,Não poderia ser um\Nvale-presente do uTunes?
+Dialogue: 0,0:09:26.35,0:09:28.23,Default,,0000,0000,0000,,Quero os bônus de eventos!
+Dialogue: 0,0:09:28.90,0:09:32.11,Default,,0000,0000,0000,,Qualquer coisa que eu\Nder parece um fracasso.
+Dialogue: 0,0:09:32.23,0:09:34.32,Default,,0000,0000,0000,,Está ficando complicado!
+Dialogue: 0,0:09:34.78,0:09:35.95,Default,,0000,0000,0000,,Na verdade...
+Dialogue: 0,0:09:38.24,0:09:41.08,Default,,0000,0000,0000,,Ele tem mesmo um olho para flores.
+Dialogue: 0,0:09:44.00,0:09:46.21,Default,,0000,0000,0000,,Um anel de compromisso!
+Dialogue: 0,0:09:48.29,0:09:53.59,Default,,0000,0000,0000,,Tem multiplayer! Vou jogar com você,\NSenpai solitário!
+Dialogue: 0,0:09:54.59,0:09:56.42,Default,,0000,0000,0000,,Parece verídico.
+Dialogue: 0,0:09:56.55,0:10:00.51,Default,,0000,0000,0000,,Ela ficaria feliz com qualquer\Ncoisa vinda do Sakurai.
+Dialogue: 0,0:10:01.64,0:10:04.43,Default,,0000,0000,0000,,Pensei demais sobre isso,\Nestou tão confuso.
+Dialogue: 0,0:10:04.81,0:10:07.81,Default,,0000,0000,0000,,Então por que não\Nsegue sua intuição?
+Dialogue: 0,0:10:07.89,0:10:09.02,Default,,0000,0000,0000,,Minha intuição?
+Dialogue: 0,0:10:09.10,0:10:12.77,Default,,0000,0000,0000,,Dê a primeira coisa que pensou quando\Nouviu "presente de aniversário".
+Dialogue: 0,0:10:13.53,0:10:15.94,Default,,0000,0000,0000,,A primeira coisa...
+Dialogue: 0,0:10:18.78,0:10:20.66,Signs,,0000,0000,0000,,{\an8}DIA SETE DE AGOSTO{\an}
+Dialogue: 0,0:10:21.16,0:10:23.83,Default,,0000,0000,0000,,Ainda não faço ideia.
+Dialogue: 0,0:10:24.20,0:10:26.91,Default,,0000,0000,0000,,Mas preciso escolher algo hoje.
+Dialogue: 0,0:10:29.87,0:10:31.75,Signs,,0000,0000,0000,,{\an8}USAKI (IDIOTA){\an}
+Dialogue: 0,0:10:32.25,0:10:33.75,Default,,0000,0000,0000,,E aí, Uzaki?
+Dialogue: 0,0:10:33.84,0:10:36.88,Default,,0000,0000,0000,,- Bem...\N- Como é?
+Dialogue: 0,0:10:37.92,0:10:40.14,Default,,0000,0000,0000,,É meio do nada, Senpai.
+Dialogue: 0,0:10:40.59,0:10:41.72,Default,,0000,0000,0000,,O que é do nada?
+Dialogue: 0,0:10:41.89,0:10:45.97,Default,,0000,0000,0000,,Por favor, esteja comigo!\NPreciso de você.
+Dialogue: 0,0:10:47.14,0:10:48.39,Default,,0000,0000,0000,,Como é?
+Dialogue: 0,0:10:53.19,0:10:55.40,Default,,0000,0000,0000,,Quero que fique comigo!
+Dialogue: 0,0:10:55.48,0:10:58.11,Default,,0000,0000,0000,,Qual é a da Uzaki, mesmo?
+Dialogue: 0,0:10:58.19,0:10:59.20,Default,,0000,0000,0000,,Nossa!
+Dialogue: 0,0:11:01.24,0:11:02.24,Signs,,0000,0000,0000,,BAR
+Dialogue: 0,0:11:02.32,0:11:05.08,Default,,0000,0000,0000,,- Senpai!\N- Oi.
+Dialogue: 0,0:11:05.29,0:11:08.46,Default,,0000,0000,0000,,- Desculpe jogar isso no seu colo.\N- Tudo bem.
+Dialogue: 0,0:11:09.00,0:11:14.04,Default,,0000,0000,0000,,Bem, no telefone...\NDisse que queria que eu ficasse com você.
+Dialogue: 0,0:11:15.34,0:11:16.96,Default,,0000,0000,0000,,Sobre isso...
+Dialogue: 0,0:11:18.67,0:11:23.22,Default,,0000,0000,0000,,Não conseguia entrar sozinha!\NVenha comigo, Senpai!
+Dialogue: 0,0:11:23.76,0:11:25.56,Default,,0000,0000,0000,,Um... bar?
+Dialogue: 0,0:11:25.93,0:11:28.22,Default,,0000,0000,0000,,Por sua conta! Por favor?
+Dialogue: 0,0:11:28.52,0:11:31.10,Default,,0000,0000,0000,,- Pelo quê?\N- Te falei, não se lembra?
+Dialogue: 0,0:11:31.19,0:11:32.65,Default,,0000,0000,0000,,Meu vigésimo aniversário!
+Dialogue: 0,0:11:33.10,0:11:35.61,Default,,0000,0000,0000,,Estou com expectativas\Naltas, sabe...
+Dialogue: 0,0:11:35.82,0:11:37.82,Default,,0000,0000,0000,,pela sua carteira!
+Dialogue: 0,0:11:39.19,0:11:43.16,Default,,0000,0000,0000,,Então estava de olho em\Nvir no bar o tempo todo?
+Dialogue: 0,0:11:43.49,0:11:44.49,Default,,0000,0000,0000,,Isso aí!
+Dialogue: 0,0:11:45.87,0:11:49.37,Default,,0000,0000,0000,,Como é? O que foi?\NVamos entrar logo!
+Dialogue: 0,0:11:52.33,0:11:53.71,Default,,0000,0000,0000,,Oi?
+Dialogue: 0,0:11:56.92,0:11:58.55,Default,,0000,0000,0000,,Tem certeza disso?
+Dialogue: 0,0:11:58.96,0:12:01.76,Default,,0000,0000,0000,,Comemorar seus 20 anos em um bar?
+Dialogue: 0,0:12:02.22,0:12:05.72,Default,,0000,0000,0000,,Com certeza! Queria\Nexperimentar bebidas com você.
+Dialogue: 0,0:12:06.64,0:12:09.06,Default,,0000,0000,0000,,Beber é divertido, não é?
+Dialogue: 0,0:12:09.14,0:12:12.44,Default,,0000,0000,0000,,Depende de quem bebe,\Ndas circunstâncias...
+Dialogue: 0,0:12:12.77,0:12:14.48,Default,,0000,0000,0000,,Não há garantias.
+Dialogue: 0,0:12:15.40,0:12:19.53,Default,,0000,0000,0000,,Se não é divertido,\Npode fazer algo para que seja!
+Dialogue: 0,0:12:19.61,0:12:21.65,Default,,0000,0000,0000,,Agora você está viajando.
+Dialogue: 0,0:12:21.99,0:12:24.07,Default,,0000,0000,0000,,Vamos só curtir, está bem?
+Dialogue: 0,0:12:24.91,0:12:26.99,Default,,0000,0000,0000,,Beleza... Pronta?
+Dialogue: 0,0:12:29.58,0:12:30.75,Default,,0000,0000,0000,,Saúde!
+Dialogue: 0,0:12:34.00,0:12:36.00,Default,,0000,0000,0000,,Beleza, lá vai!
+Dialogue: 0,0:12:36.46,0:12:38.17,Default,,0000,0000,0000,,Vá, beba!
+Dialogue: 0,0:12:39.71,0:12:40.88,Default,,0000,0000,0000,,Que tal?
+Dialogue: 0,0:12:43.13,0:12:46.39,Default,,0000,0000,0000,,É tipo um refrigerante,\Nmas ao mesmo tempo... não.
+Dialogue: 0,0:12:46.97,0:12:49.35,Default,,0000,0000,0000,,O gosto é bom?
+Dialogue: 0,0:12:49.51,0:12:53.52,Default,,0000,0000,0000,,Dá uma queimação na garganta,\Nbem lá no fundo.
+Dialogue: 0,0:12:53.60,0:12:55.31,Default,,0000,0000,0000,,É, o álcool faz isso mesmo.
+Dialogue: 0,0:12:55.48,0:12:58.69,Default,,0000,0000,0000,,- E como é a cerveja?\N- Quer experimentar?
+Dialogue: 0,0:12:59.07,0:13:00.19,Default,,0000,0000,0000,,Quero.
+Dialogue: 0,0:13:01.82,0:13:03.32,Default,,0000,0000,0000,,Desculpem a demora!
+Dialogue: 0,0:13:03.49,0:13:04.86,Default,,0000,0000,0000,,Aproveitem!
+Dialogue: 0,0:13:05.82,0:13:07.12,Default,,0000,0000,0000,,Experimente.
+Dialogue: 0,0:13:08.70,0:13:09.91,Default,,0000,0000,0000,,Nossa!
+Dialogue: 0,0:13:10.41,0:13:11.79,Default,,0000,0000,0000,,Está bem?
+Dialogue: 0,0:13:12.58,0:13:17.29,Default,,0000,0000,0000,,Então cerveja é isso!\NAmarga, porém mais que isso.
+Dialogue: 0,0:13:17.92,0:13:21.13,Default,,0000,0000,0000,,Por isso combina tanto com\Nfrituras e comida salgada!
+Dialogue: 0,0:13:21.59,0:13:23.72,Default,,0000,0000,0000,,Beleza, então...
+Dialogue: 0,0:13:24.47,0:13:25.55,Default,,0000,0000,0000,,Suculento!
+Dialogue: 0,0:13:26.22,0:13:27.93,Default,,0000,0000,0000,,Agora tome um gole de cerveja.
+Dialogue: 0,0:13:32.14,0:13:33.81,Default,,0000,0000,0000,,Viu? Não é uma delícia?
+Dialogue: 0,0:13:33.89,0:13:35.64,Default,,0000,0000,0000,,Ficam incríveis juntos!
+Dialogue: 0,0:13:35.73,0:13:39.19,Default,,0000,0000,0000,,A cerveja rebate a gordura\Ndo frango e dá um sabor novo
+Dialogue: 0,0:13:39.27,0:13:40.48,Default,,0000,0000,0000,,a cada mordida!
+Dialogue: 0,0:13:42.40,0:13:44.94,Default,,0000,0000,0000,,Entornou o caneco mesmo.\NQual o veredito?
+Dialogue: 0,0:13:45.03,0:13:49.57,Default,,0000,0000,0000,,É ótimo! Então você\Nbebe enquanto come?
+Dialogue: 0,0:13:49.95,0:13:52.91,Default,,0000,0000,0000,,Há quem só beba, sem comer junto.
+Dialogue: 0,0:13:53.12,0:13:55.50,Default,,0000,0000,0000,,O que importa é aproveitar.
+Dialogue: 0,0:13:56.87,0:14:01.00,Default,,0000,0000,0000,,Sendo assim, como você sugeriu,\Nvou fazer isso!
+Dialogue: 0,0:14:01.09,0:14:02.80,Default,,0000,0000,0000,,Isso aí, vá em frente!
+Dialogue: 0,0:14:07.43,0:14:09.34,Default,,0000,0000,0000,,Ei! Está pedindo quanta coisa?
+Dialogue: 0,0:14:09.43,0:14:11.72,Default,,0000,0000,0000,,Sua carteira já era!
+Dialogue: 0,0:14:11.81,0:14:13.97,Default,,0000,0000,0000,,Cale a boca! Cancele! Cancele isso!
+Dialogue: 0,0:14:15.64,0:14:17.02,Default,,0000,0000,0000,,Que dor!
+Dialogue: 0,0:14:17.10,0:14:18.35,Default,,0000,0000,0000,,Com licença...
+Dialogue: 0,0:14:18.44,0:14:19.90,Default,,0000,0000,0000,,sem gracinhas, por favor.
+Dialogue: 0,0:14:21.40,0:14:23.32,Default,,0000,0000,0000,,Desculpe.
+Dialogue: 0,0:14:25.65,0:14:28.07,Default,,0000,0000,0000,,Quieta. Sem gracinhas, ou...
+Dialogue: 0,0:14:28.41,0:14:29.61,Default,,0000,0000,0000,,Eita! Apimentado!
+Dialogue: 0,0:14:29.74,0:14:32.12,Signs,,0000,0000,0000,,{\an8}SURPRESSA DE BOLINHAS\NSÓ UMA É APIMENTADA! 8 POR ¥550{\an}
+Dialogue: 0,0:14:32.20,0:14:34.70,Default,,0000,0000,0000,,O que é isso?\NSó uma delas é super apimentada.{\an}
+Dialogue: 0,0:14:34.83,0:14:35.95,Default,,0000,0000,0000,,Cerveja! Cerveja!
+Dialogue: 0,0:14:36.04,0:14:37.08,Default,,0000,0000,0000,,Vazio?
+Dialogue: 0,0:14:37.16,0:14:40.71,Default,,0000,0000,0000,,Também não tem água! Uzaki,\Numa bebida! Qualquer coisa!
+Dialogue: 0,0:14:40.96,0:14:43.55,Default,,0000,0000,0000,,Só um segundo,\Nestá bem? Estou olhando.
+Dialogue: 0,0:14:43.63,0:14:45.05,Default,,0000,0000,0000,,Não dá para esperar!
+Dialogue: 0,0:14:45.13,0:14:49.43,Default,,0000,0000,0000,,Aposto que consigo fazer isso aqui!\NFarei para você qualquer dia desses!
+Dialogue: 0,0:14:49.51,0:14:52.80,Default,,0000,0000,0000,,Misericórdia, ande logo!
+Dialogue: 0,0:14:56.98,0:14:58.73,Default,,0000,0000,0000,,Achei que já era para mim...
+Dialogue: 0,0:14:59.31,0:15:02.48,Default,,0000,0000,0000,,Ei, isso é bom!\NAcho que gosto de licor de yuzu.
+Dialogue: 0,0:15:02.56,0:15:04.15,Default,,0000,0000,0000,,Bom para você.
+Dialogue: 0,0:15:07.24,0:15:08.90,Default,,0000,0000,0000,,Mais uma rodada!
+Dialogue: 0,0:15:09.07,0:15:10.32,Default,,0000,0000,0000,,Espere aí!
+Dialogue: 0,0:15:10.61,0:15:13.74,Default,,0000,0000,0000,,- O que foi?\N- Você está mesmo entornando o caneco.
+Dialogue: 0,0:15:14.03,0:15:16.45,Default,,0000,0000,0000,,Vá com calma, é a sua primeira vez.
+Dialogue: 0,0:15:17.12,0:15:18.12,Default,,0000,0000,0000,,Com licença.
+Dialogue: 0,0:15:18.37,0:15:20.58,Default,,0000,0000,0000,,- Seu licor de yuzu.\N- Muito obrigada!
+Dialogue: 0,0:15:22.25,0:15:23.50,Default,,0000,0000,0000,,Isso é rápido demais!
+Dialogue: 0,0:15:24.38,0:15:25.92,Default,,0000,0000,0000,,Mas eu estou ótima!
+Dialogue: 0,0:15:26.09,0:15:28.76,Default,,0000,0000,0000,,Ótima? Essa foi a\Nbebida número qual?
+Dialogue: 0,0:15:28.84,0:15:29.84,Default,,0000,0000,0000,,Boa pergunta.
+Dialogue: 0,0:15:29.97,0:15:31.26,Default,,0000,0000,0000,,É mesmo?
+Dialogue: 0,0:15:31.72,0:15:34.76,Default,,0000,0000,0000,,Bem, tanto faz.\NBeba um pouco de água, também.
+Dialogue: 0,0:15:38.14,0:15:41.10,Default,,0000,0000,0000,,Talvez eu seja resistente!
+Dialogue: 0,0:15:41.23,0:15:43.65,Default,,0000,0000,0000,,Olhe, só vá com calma, está bem?
+Dialogue: 0,0:15:44.06,0:15:45.77,Default,,0000,0000,0000,,Desculpe a demora! Licor de yuzu.
+Dialogue: 0,0:15:45.86,0:15:47.94,Default,,0000,0000,0000,,- Obrigado.\N- Isso!
+Dialogue: 0,0:15:49.86,0:15:51.78,Default,,0000,0000,0000,,Muito obrigada!
+Dialogue: 0,0:15:55.12,0:15:56.66,Default,,0000,0000,0000,,Opa, opa, opa!
+Dialogue: 0,0:15:56.83,0:16:00.00,Default,,0000,0000,0000,,Está bem, Senpai?\NVocê está todo molenga!
+Dialogue: 0,0:16:00.08,0:16:02.25,Default,,0000,0000,0000,,Você é quem está molenga aqui.
+Dialogue: 0,0:16:02.92,0:16:06.84,Default,,0000,0000,0000,,Ela começou bem, mas o\Nresultado foi o que eu esperava.
+Dialogue: 0,0:16:06.92,0:16:11.59,Default,,0000,0000,0000,,Anotei o quanto você bebeu.\NBeba menos que isso na próxima, está bem?
+Dialogue: 0,0:16:11.84,0:16:14.97,Default,,0000,0000,0000,,Senpai, você ficou alto de repente!
+Dialogue: 0,0:16:15.05,0:16:18.01,Default,,0000,0000,0000,,Isso é um poste!\NAnde direito, está bem?
+Dialogue: 0,0:16:18.10,0:16:21.43,Default,,0000,0000,0000,,Vamos, Senpai, me carregue!
+Dialogue: 0,0:16:21.94,0:16:24.23,Default,,0000,0000,0000,,Me solte!
+Dialogue: 0,0:16:24.31,0:16:27.36,Default,,0000,0000,0000,,Cavalinho! Costelinhas...
+Dialogue: 0,0:16:27.44,0:16:30.15,Default,,0000,0000,0000,,Pare! Suas partes estão\Nesfregando em mim!
+Dialogue: 0,0:16:30.24,0:16:32.82,Default,,0000,0000,0000,,Minhas partes? Como assim?
+Dialogue: 0,0:16:33.11,0:16:35.12,Default,,0000,0000,0000,,O que está esfregando onde?
+Dialogue: 0,0:16:35.20,0:16:37.53,Default,,0000,0000,0000,,Céus, ela é uma bêbada\Nirritante mesmo!
+Dialogue: 0,0:16:38.28,0:16:39.45,Default,,0000,0000,0000,,Amassadinho...
+Dialogue: 0,0:16:39.54,0:16:41.20,Default,,0000,0000,0000,,Vou passar meu cheirinho...
+Dialogue: 0,0:16:41.58,0:16:43.87,Default,,0000,0000,0000,,Ela não pode ir para casa sozinha.
+Dialogue: 0,0:16:44.67,0:16:46.84,Default,,0000,0000,0000,,De pé. Vou te levar para casa.
+Dialogue: 0,0:16:47.00,0:16:49.55,Default,,0000,0000,0000,,Não vou para casa!
+Dialogue: 0,0:16:49.63,0:16:51.80,Default,,0000,0000,0000,,Vamos beber na sua casa, Senpai!
+Dialogue: 0,0:16:51.88,0:16:54.13,Default,,0000,0000,0000,,Beber mais? Vá para\Ncasa dormir, besta!
+Dialogue: 0,0:16:54.22,0:16:56.76,Default,,0000,0000,0000,,E fique de pé!\NDá para ver sua calcinha!
+Dialogue: 0,0:16:56.85,0:16:59.14,Default,,0000,0000,0000,,Quem é besta aqui?
+Dialogue: 0,0:16:59.56,0:17:02.43,Default,,0000,0000,0000,,Senpai, sabe que horas são?
+Dialogue: 0,0:17:02.93,0:17:05.56,Default,,0000,0000,0000,,- Como é?\N- Credo! Já é tarde assim?
+Dialogue: 0,0:17:05.77,0:17:10.15,Default,,0000,0000,0000,,Que pena! Sem trens! Seu besta!
+Dialogue: 0,0:17:10.61,0:17:12.99,Default,,0000,0000,0000,,Você é a besta, não tem como voltar.
+Dialogue: 0,0:17:13.28,0:17:14.74,Default,,0000,0000,0000,,Podemos pedir um táxi.
+Dialogue: 0,0:17:16.95,0:17:20.04,Default,,0000,0000,0000,,A bebedeira da Uzaki acabou\Ncom a minha carteira!
+Dialogue: 0,0:17:20.12,0:17:21.62,Default,,0000,0000,0000,,O caixa 24h deve funcionar.
+Dialogue: 0,0:17:21.91,0:17:24.21,Default,,0000,0000,0000,,Mas tem taxa de saque...
+Dialogue: 0,0:17:24.29,0:17:27.21,Default,,0000,0000,0000,,e os táxis vão cobrar\Na mais porque é tarde.
+Dialogue: 0,0:17:27.29,0:17:29.42,Default,,0000,0000,0000,,Deixar ela dormir lá em casa? Nunca!
+Dialogue: 0,0:17:29.50,0:17:32.01,Default,,0000,0000,0000,,Não consigo pensar bêbado assim!
+Dialogue: 0,0:17:32.09,0:17:33.92,Default,,0000,0000,0000,,Que dilema!
+Dialogue: 0,0:17:34.80,0:17:39.14,Default,,0000,0000,0000,,Não abandonaria sua caloura\Nlonge de casa assim, não é?
+Dialogue: 0,0:17:40.56,0:17:43.81,Default,,0000,0000,0000,,Não é possível que isso foi\Ncalculado desde o início!
+Dialogue: 0,0:17:49.52,0:17:51.44,Default,,0000,0000,0000,,Nem ligo mais.
+Dialogue: 0,0:17:51.52,0:17:53.78,Default,,0000,0000,0000,,Vamos ao mercadinho. Quero água.
+Dialogue: 0,0:17:53.86,0:17:57.70,Default,,0000,0000,0000,,Sim! E álcool! Quero que confiram\Nminha idade! Fiz 20 anos!
+Dialogue: 0,0:17:57.99,0:17:59.41,Default,,0000,0000,0000,,O que quiser.
+Dialogue: 0,0:18:00.41,0:18:03.41,Default,,0000,0000,0000,,Só alertando,\Ntenho só um colchonete.
+Dialogue: 0,0:18:04.41,0:18:05.58,Default,,0000,0000,0000,,Quer dormir juntos?
+Dialogue: 0,0:18:05.66,0:18:07.87,Default,,0000,0000,0000,,Vou dividir! Cada um com uma parte!
+Dialogue: 0,0:18:12.59,0:18:15.88,Default,,0000,0000,0000,,Senpai... Ô, Senpai...
+Dialogue: 0,0:18:16.63,0:18:19.30,Default,,0000,0000,0000,,Vê se não dorme, viu?
+Dialogue: 0,0:18:19.68,0:18:23.01,Default,,0000,0000,0000,,Por favor, me deixe dormir.\NSão três da manhã!
+Dialogue: 0,0:18:23.43,0:18:25.23,Default,,0000,0000,0000,,Vamos jogar um jogo.
+Dialogue: 0,0:18:25.31,0:18:27.64,Default,,0000,0000,0000,,Sem chance. Você joga sujo.
+Dialogue: 0,0:18:27.89,0:18:29.35,Default,,0000,0000,0000,,Poxa...
+Dialogue: 0,0:18:30.69,0:18:32.02,Default,,0000,0000,0000,,Ainda está bebendo?
+Dialogue: 0,0:18:32.15,0:18:33.15,Default,,0000,0000,0000,,Claro!
+Dialogue: 0,0:18:33.23,0:18:38.99,Default,,0000,0000,0000,,Sinceramente, ela precisa aprender\Nsobre os horrores do álcool.
+Dialogue: 0,0:18:40.37,0:18:42.24,Default,,0000,0000,0000,,Que gostoso...
+Dialogue: 0,0:18:42.53,0:18:45.50,Default,,0000,0000,0000,,De manhã, ela aprenderá.
+Dialogue: 0,0:18:46.12,0:18:49.00,Default,,0000,0000,0000,,Essa não... Estou com sono.
+Dialogue: 0,0:18:49.08,0:18:51.84,Default,,0000,0000,0000,,- Beleza. Vou dormir aqui, então.\N- Isso aí!
+Dialogue: 0,0:18:51.92,0:18:56.05,Default,,0000,0000,0000,,Sem códigos dessa vez, vamos jogar!
+Dialogue: 0,0:18:56.13,0:18:58.76,Default,,0000,0000,0000,,Senpai? Ei, Senpai!
+Dialogue: 0,0:18:58.84,0:19:00.34,Default,,0000,0000,0000,,Silêncio.
+Dialogue: 0,0:19:00.64,0:19:03.26,Default,,0000,0000,0000,,Senpai, está dormindo mesmo?
+Dialogue: 0,0:19:04.76,0:19:06.14,Default,,0000,0000,0000,,Muito bem.
+Dialogue: 0,0:19:06.39,0:19:09.06,Default,,0000,0000,0000,,Deixa sua caloura de\Nlado e só... dorme?
+Dialogue: 0,0:19:09.14,0:19:10.52,Default,,0000,0000,0000,,É só ignorar ela.
+Dialogue: 0,0:19:13.31,0:19:15.15,Default,,0000,0000,0000,,Talvez ele acorde com um beijo.
+Dialogue: 0,0:19:28.50,0:19:31.00,Default,,0000,0000,0000,,Sabia que estava fingindo!
+Dialogue: 0,0:19:31.08,0:19:33.17,Default,,0000,0000,0000,,Não fique tão apavorado.
+Dialogue: 0,0:19:33.42,0:19:36.09,Default,,0000,0000,0000,,Foi só uma pegadinha!
+Dialogue: 0,0:19:37.76,0:19:40.84,Default,,0000,0000,0000,,Você ficou bem alarmado, Senpai.
+Dialogue: 0,0:19:41.18,0:19:43.35,Default,,0000,0000,0000,,Nunca te beijaram?
+Dialogue: 0,0:19:45.14,0:19:47.64,Default,,0000,0000,0000,,Não! Cale a boca! Vá dormir, idiota!
+Dialogue: 0,0:19:52.81,0:19:54.44,Default,,0000,0000,0000,,Hora de dormir...
+Dialogue: 0,0:20:03.07,0:20:05.20,Default,,0000,0000,0000,,Eca...
+Dialogue: 0,0:20:05.66,0:20:08.33,Default,,0000,0000,0000,,Minha cabeça dói...\NMe sinto péssima...
+Dialogue: 0,0:20:08.62,0:20:11.79,Default,,0000,0000,0000,,Se chama ressaca. A vida vai\Nser péssima por umas horas.
+Dialogue: 0,0:20:12.12,0:20:13.71,Default,,0000,0000,0000,,Odeio isso!
+Dialogue: 0,0:20:13.79,0:20:16.21,Default,,0000,0000,0000,,Por que você está bem?
+Dialogue: 0,0:20:16.29,0:20:19.55,Default,,0000,0000,0000,,Adultos bebem com\Nmoderação para evitar isso.
+Dialogue: 0,0:20:19.67,0:20:22.09,Default,,0000,0000,0000,,Moderação, o que é...
+Dialogue: 0,0:20:22.22,0:20:26.55,Default,,0000,0000,0000,,Não se preocupe.\NTodo mundo já deu P.T.
+Dialogue: 0,0:20:26.68,0:20:30.27,Default,,0000,0000,0000,,Melhor assim do que em\Nalguma festa esquisita.
+Dialogue: 0,0:20:30.43,0:20:31.77,Default,,0000,0000,0000,,Não tem nada de melhor!
+Dialogue: 0,0:20:32.39,0:20:35.02,Default,,0000,0000,0000,,Você encontrou seu\Nlimite logo de cara.
+Dialogue: 0,0:20:36.23,0:20:37.90,Default,,0000,0000,0000,,Ele entrou no modo palestrinha.
+Dialogue: 0,0:20:38.19,0:20:40.82,Default,,0000,0000,0000,,Você também não bebeu muita água.
+Dialogue: 0,0:20:41.03,0:20:43.41,Default,,0000,0000,0000,,É preciso água para\Nmetabolizar álcool.
+Dialogue: 0,0:20:43.49,0:20:46.32,Default,,0000,0000,0000,,Alterne álcool com água\Ne você ficará bem.
+Dialogue: 0,0:20:46.66,0:20:50.00,Default,,0000,0000,0000,,Até meio-dia, vai estar melhor.\NSó precisa encarar.
+Dialogue: 0,0:20:51.50,0:20:52.71,Default,,0000,0000,0000,,Está ouvindo?
+Dialogue: 0,0:20:54.29,0:20:56.38,Default,,0000,0000,0000,,Nossa, ela está péssima.
+Dialogue: 0,0:21:03.47,0:21:05.89,Default,,0000,0000,0000,,Quanto maior o mico, melhor a lição.
+Dialogue: 0,0:21:05.97,0:21:08.72,Default,,0000,0000,0000,,Da próxima, beba tanta\Nágua quanto álcool.
+Dialogue: 0,0:21:09.18,0:21:12.43,Default,,0000,0000,0000,,Tudo bem. Nunca mais eu vou beber.
+Dialogue: 0,0:21:14.85,0:21:19.19,Default,,0000,0000,0000,,É o melhor. Mas todo mundo\Ncom ressaca diz isso.
+Dialogue: 0,0:21:19.65,0:21:22.82,Default,,0000,0000,0000,,Nunca mais. Nunquinha.
+Dialogue: 0,0:21:23.82,0:21:27.41,Default,,0000,0000,0000,,Vou no mercado. Aguente firme aí.
+Dialogue: 0,0:21:27.49,0:21:28.87,Default,,0000,0000,0000,,Descanse.
+Dialogue: 0,0:21:31.16,0:21:32.62,Default,,0000,0000,0000,,Senpai?
+Dialogue: 0,0:21:33.41,0:21:34.50,Default,,0000,0000,0000,,O quê?
+Dialogue: 0,0:21:35.71,0:21:41.59,Default,,0000,0000,0000,,Muito obrigada por\Nter ido ao bar comigo.
+Dialogue: 0,0:21:42.46,0:21:44.01,Default,,0000,0000,0000,,Foi divertido.
+Dialogue: 0,0:21:46.18,0:21:47.97,Default,,0000,0000,0000,,Fico feliz que tenha gostado.
+Dialogue: 0,0:21:48.26,0:21:52.68,Default,,0000,0000,0000,,Quase esqueci.\NVocê tem 20 anos agora, Uzaki.
+Dialogue: 0,0:21:58.10,0:21:59.77,Default,,0000,0000,0000,,Feliz aniversário.
+Dialogue: 0,0:23:39.37,0:23:41.54,Signs,,0000,0000,0000,,NO EPISÓDIO 8: QUERO VER\NFOGOS DE ARTIFÍCIO JUNTINHOS
+Dialogue: 0,0:23:41.62,0:23:44.00,Default,,0000,0000,0000,,- Algo está acontecendo!\N- Sak!

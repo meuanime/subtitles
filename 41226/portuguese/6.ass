@@ -1,0 +1,344 @@
+﻿[Script Info]
+Title: [Erai-raws] Português (Brasil)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0015,0
+Style: Signs,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0020,0020,0015,0
+Style: Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0015,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:16.01,0:00:18.60,Default,,0000,0000,0000,,Olhe, Senpai, é o mar!
+Dialogue: 0,0:00:18.93,0:00:20.56,Default,,0000,0000,0000,,Óbvio que é.
+Dialogue: 0,0:00:20.64,0:00:22.02,Default,,0000,0000,0000,,Não é?
+Dialogue: 0,0:00:23.39,0:00:26.10,Default,,0000,0000,0000,,Mar! Mar! Mar!
+Dialogue: 0,0:00:26.77,0:00:28.52,Default,,0000,0000,0000,,Que calor...
+Dialogue: 0,0:00:29.48,0:00:32.44,Signs,,0000,0000,0000,,{\an8}CELEIRO DA PRAIA\NPIÑATAS DE MELANCIA - 2 MIL IENES{\an}
+Dialogue: 0,0:00:33.90,0:00:35.45,Default,,0000,0000,0000,,Legal.
+Dialogue: 0,0:00:37.24,0:00:40.87,Default,,0000,0000,0000,,A praia no verão faz\Ntodos se abrirem.
+Dialogue: 0,0:00:41.62,0:00:44.25,Default,,0000,0000,0000,,O que esses quatro\Nestão fazendo ali?
+Dialogue: 0,0:00:44.33,0:00:47.67,Default,,0000,0000,0000,,Tudo começou numa\Ntarde uma semana antes,
+Dialogue: 0,0:00:47.75,0:00:50.17,Default,,0000,0000,0000,,bem aqui, neste café.
+Dialogue: 0,0:00:50.63,0:00:54.13,Default,,0000,0000,0000,,Beleza, pessoal, aqui vai\NUzaki-chan Wants to Hang Out!
+Dialogue: 0,0:00:54.22,0:00:57.05,Default,,0000,0000,0000,,Em suas marcas... Já!
+Dialogue: 0,0:01:04.64,0:01:11.19,Signs,,0000,0000,0000,,{\an8}"UZAKI - CHAN WANTS TO HANG OUT!"{\an}
+Dialogue: 0,0:02:27.39,0:02:31.90,Signs,,0000,0000,0000,,EPISÓDIO 6: VERÃO! A PRAIA!\NQUERO TESTAR MINHA CORAGEM!
+Dialogue: 0,0:02:36.23,0:02:38.19,Default,,0000,0000,0000,,Então,
+Dialogue: 0,0:02:38.61,0:02:41.61,Default,,0000,0000,0000,,essa é nossa nova\Nfuncionária, Hana Uzaki.
+Dialogue: 0,0:02:42.03,0:02:43.91,Default,,0000,0000,0000,,Feliz por fazer parte da equipe!
+Dialogue: 0,0:02:44.33,0:02:45.83,Default,,0000,0000,0000,,Qual é a pegadinha?
+Dialogue: 0,0:02:45.91,0:02:49.50,Default,,0000,0000,0000,,Estava empolgada que eu ia me\Ndemitir para ter um pouco de paz!
+Dialogue: 0,0:02:49.96,0:02:54.21,Default,,0000,0000,0000,,Não seja chato. Vamos nos divertir!
+Dialogue: 0,0:02:55.30,0:02:59.01,Default,,0000,0000,0000,,Apesar de que estou aqui para\Nver sua cara de chatonildo.
+Dialogue: 0,0:02:59.22,0:03:00.26,Default,,0000,0000,0000,,Cacete!
+Dialogue: 0,0:03:00.34,0:03:03.93,Default,,0000,0000,0000,,Com as férias de verão logo ali,\Nqueria uma grana extra.
+Dialogue: 0,0:03:04.30,0:03:07.10,Default,,0000,0000,0000,,Perguntei ao dono\Ne ele me aprovou de cara!{\an}
+Dialogue: 0,0:03:07.43,0:03:10.73,Default,,0000,0000,0000,,Achei que seria divertido,\Nentão decidi contratar ela.{\an}
+Dialogue: 0,0:03:10.89,0:03:12.69,Default,,0000,0000,0000,,Você a contratou por isso?{\an}
+Dialogue: 0,0:03:13.27,0:03:15.98,Default,,0000,0000,0000,,Bem, Sakurai,\Nvocê pode não gostar da Hana,
+Dialogue: 0,0:03:16.07,0:03:20.53,Default,,0000,0000,0000,,mas ela é quem veio até\Nmim atrás de emprego.
+Dialogue: 0,0:03:20.99,0:03:24.24,Default,,0000,0000,0000,,Seria errado da sua parte\Ntentar impedir ela, não?
+Dialogue: 0,0:03:25.33,0:03:26.66,Default,,0000,0000,0000,,Mas...
+Dialogue: 0,0:03:27.16,0:03:33.79,Default,,0000,0000,0000,,Mostre para ela como as coisas são aqui.\NÉ ensinando que se aprende.
+Dialogue: 0,0:03:33.88,0:03:35.63,Default,,0000,0000,0000,,Tudo bem.
+Dialogue: 0,0:03:36.04,0:03:40.42,Default,,0000,0000,0000,,Tem certeza, Senpai?\NAcha que pode me ensinar?
+Dialogue: 0,0:03:40.67,0:03:42.01,Default,,0000,0000,0000,,Escute aqui, sua...
+Dialogue: 0,0:03:43.47,0:03:46.60,Default,,0000,0000,0000,,Quando um cliente entrar,\Nleve ele até uma mesa.
+Dialogue: 0,0:03:48.52,0:03:52.73,Default,,0000,0000,0000,,Clientes frequentes vão para o lugar\Nde preferência antes que os leve.
+Dialogue: 0,0:03:53.40,0:03:54.56,Default,,0000,0000,0000,,Cliente de mentirinha!
+Dialogue: 0,0:03:54.73,0:03:56.73,Default,,0000,0000,0000,,Aqui: água com gelo e guardanapo.
+Dialogue: 0,0:03:56.82,0:03:59.61,Default,,0000,0000,0000,,É a primeira coisa que\Nlevamos para cada cliente.
+Dialogue: 0,0:04:00.61,0:04:03.53,Default,,0000,0000,0000,,Quando ver que se\Nsentaram, leve isto.
+Dialogue: 0,0:04:06.20,0:04:09.41,Default,,0000,0000,0000,,Por favor, avise quando\Nestiver pronta para pedir.
+Dialogue: 0,0:04:09.49,0:04:12.50,Default,,0000,0000,0000,,Por favor, avise quando\Nestiver pronta para pedir.
+Dialogue: 0,0:04:13.46,0:04:17.92,Default,,0000,0000,0000,,Cuidado para não apressar ou\Npressionar um cliente lendo o menu.
+Dialogue: 0,0:04:18.38,0:04:20.05,Default,,0000,0000,0000,,Aí, você anota o pedido.
+Dialogue: 0,0:04:20.55,0:04:23.30,Default,,0000,0000,0000,,Geralmente é assim. Depois...
+Dialogue: 0,0:04:23.43,0:04:24.47,Default,,0000,0000,0000,,Senpai!
+Dialogue: 0,0:04:24.68,0:04:26.09,Default,,0000,0000,0000,,O que foi?
+Dialogue: 0,0:04:26.59,0:04:27.89,Default,,0000,0000,0000,,Cadê as piadas?
+Dialogue: 0,0:04:28.10,0:04:30.56,Default,,0000,0000,0000,,Não tem piada! O que esperava?
+Dialogue: 0,0:04:30.72,0:04:34.89,Default,,0000,0000,0000,,Essa firula demora muito!\NTem que mandar uma piada ou outra.
+Dialogue: 0,0:04:34.98,0:04:38.23,Default,,0000,0000,0000,,Que firula? Isso não é um esquete!
+Dialogue: 0,0:04:39.40,0:04:40.40,Default,,0000,0000,0000,,Que sério!
+Dialogue: 0,0:04:40.48,0:04:43.82,Default,,0000,0000,0000,,Claro que sou sério! Está sendo paga,\Ntem que levar a sério!
+Dialogue: 0,0:04:45.07,0:04:47.82,Default,,0000,0000,0000,,- Que sério!\N- O café é seu, Sr. Chefe!
+Dialogue: 0,0:04:48.16,0:04:51.79,Default,,0000,0000,0000,,Já estávamos treinando\Nela antes de você chegar.
+Dialogue: 0,0:04:51.95,0:04:54.91,Default,,0000,0000,0000,,Essa aqui estava doida\Npara te estressar!
+Dialogue: 0,0:04:55.00,0:04:56.54,Default,,0000,0000,0000,,Que raios foi isso?
+Dialogue: 0,0:04:58.71,0:05:00.34,Default,,0000,0000,0000,,Muito obrigada!
+Dialogue: 0,0:05:02.63,0:05:05.76,Default,,0000,0000,0000,,Vai a algum lugar\Nnas férias de verão?
+Dialogue: 0,0:05:06.18,0:05:08.05,Default,,0000,0000,0000,,Nenhum lugar em específico.
+Dialogue: 0,0:05:08.30,0:05:11.93,Default,,0000,0000,0000,,Estou empolgado para um jogo,\Nquero ficar entocado em casa.
+Dialogue: 0,0:05:12.06,0:05:13.27,Default,,0000,0000,0000,,O que?
+Dialogue: 0,0:05:13.77,0:05:16.10,Default,,0000,0000,0000,,Você faz isso o ano todo!
+Dialogue: 0,0:05:16.19,0:05:18.65,Default,,0000,0000,0000,,Vai gastar suas preciosas\Nférias com jogos?
+Dialogue: 0,0:05:19.36,0:05:22.57,Default,,0000,0000,0000,,Cara... Vai ser o\Nmelhor verão de todos!
+Dialogue: 0,0:05:22.94,0:05:26.32,Default,,0000,0000,0000,,Esse eremita não tem jeito mesmo.
+Dialogue: 0,0:05:26.40,0:05:28.03,Default,,0000,0000,0000,,Tenho que fazer algo!
+Dialogue: 0,0:05:28.62,0:05:32.41,Default,,0000,0000,0000,,Então vamos à praia! Ou a um clube!
+Dialogue: 0,0:05:32.83,0:05:33.83,Default,,0000,0000,0000,,Como?
+Dialogue: 0,0:05:35.00,0:05:36.83,Default,,0000,0000,0000,,Fechado então!
+Dialogue: 0,0:05:36.92,0:05:40.42,Default,,0000,0000,0000,,Você não nada desde o fim\Ndo ensino médio, não é?
+Dialogue: 0,0:05:41.13,0:05:43.09,Default,,0000,0000,0000,,Agora que mencionou... não.
+Dialogue: 0,0:05:43.71,0:05:44.71,Default,,0000,0000,0000,,Oi!
+Dialogue: 0,0:05:45.59,0:05:47.80,Default,,0000,0000,0000,,Soube que estavam trabalhando\Njuntos, vim conferir.
+Dialogue: 0,0:05:47.88,0:05:48.89,Default,,0000,0000,0000,,- Como é?\N- Nossa!
+Dialogue: 0,0:05:50.97,0:05:53.10,Default,,0000,0000,0000,,Esse papo parece bacana!
+Dialogue: 0,0:05:59.65,0:06:01.56,Default,,0000,0000,0000,,Que calor...
+Dialogue: 0,0:06:01.65,0:06:03.23,Default,,0000,0000,0000,,Oi, Ami!
+Dialogue: 0,0:06:04.86,0:06:06.78,Default,,0000,0000,0000,,Aqui!
+Dialogue: 0,0:06:07.82,0:06:09.82,Default,,0000,0000,0000,,Oi, Hana!
+Dialogue: 0,0:06:09.91,0:06:12.99,Default,,0000,0000,0000,,Aqui, aqui! Venha para cá!
+Dialogue: 0,0:06:32.43,0:06:36.10,Default,,0000,0000,0000,,Que visão horrível.\NEssas coisas são como armas.
+Dialogue: 0,0:06:36.47,0:06:40.94,Default,,0000,0000,0000,,Alugamos um guarda-sol e colocamos\Numa toalha de praia! Venha!
+Dialogue: 0,0:06:41.94,0:06:43.44,Default,,0000,0000,0000,,Obrigada!
+Dialogue: 0,0:06:44.36,0:06:46.65,Default,,0000,0000,0000,,Queria que o chefe\Npudesse ter vindo.
+Dialogue: 0,0:06:46.99,0:06:49.03,Default,,0000,0000,0000,,Não depois de travar as costas.
+Dialogue: 0,0:06:49.99,0:06:51.78,Default,,0000,0000,0000,,Ai, ai, ai, ai, ai...
+Dialogue: 0,0:06:53.12,0:06:57.66,Default,,0000,0000,0000,,O Sakaki? Ele veio mais cedo,\Ndisse que ia verificar nossa hospedagem.
+Dialogue: 0,0:06:58.29,0:06:59.58,Default,,0000,0000,0000,,Certo.
+Dialogue: 0,0:07:01.12,0:07:02.75,Default,,0000,0000,0000,,Transporte e hospedagem é comigo.
+Dialogue: 0,0:07:03.08,0:07:05.21,Default,,0000,0000,0000,,Certeza, Itsuhito?
+Dialogue: 0,0:07:05.34,0:07:07.96,Default,,0000,0000,0000,,Que beleza! Vamos todos juntos!
+Dialogue: 0,0:07:08.05,0:07:11.13,Default,,0000,0000,0000,,- Praia! Praia! Praia!\N- Ei! Onde é que você...
+Dialogue: 0,0:07:11.30,0:07:14.60,Default,,0000,0000,0000,,Sei como se sente,\Nmas sabe, são eles.
+Dialogue: 0,0:07:15.22,0:07:17.06,Default,,0000,0000,0000,,Consegue largar eles\Nde consciência limpa?
+Dialogue: 0,0:07:17.35,0:07:19.43,Default,,0000,0000,0000,,Só os dois, sem arrependimentos?
+Dialogue: 0,0:07:22.35,0:07:25.61,Default,,0000,0000,0000,,Agora sobrou para mim,\Nvou ter que vigiar eles.
+Dialogue: 0,0:07:26.11,0:07:30.82,Default,,0000,0000,0000,,Cadê o Sakurai? Não estava com você?
+Dialogue: 0,0:07:30.90,0:07:33.28,Default,,0000,0000,0000,,Senpai? Ele está...
+Dialogue: 0,0:07:34.07,0:07:35.08,Default,,0000,0000,0000,,Ali!
+Dialogue: 0,0:07:35.16,0:07:38.04,Default,,0000,0000,0000,,Que longe! Como ele foi parar lá?
+Dialogue: 0,0:07:38.12,0:07:39.50,Signs,,0000,0000,0000,,{\an8}NÃO TENTEM ISSO EM CASA{\an}
+Dialogue: 0,0:07:39.70,0:07:41.83,Default,,0000,0000,0000,,Ele se empolgou muito vendo a água,
+Dialogue: 0,0:07:41.92,0:07:45.59,Default,,0000,0000,0000,,foi correndo nadar como se\Nnão aguentasse ficar longe!
+Dialogue: 0,0:07:45.67,0:07:48.80,Default,,0000,0000,0000,,Aquele otário faz de\Ntudo para ficar sozinho.
+Dialogue: 0,0:07:51.34,0:07:53.39,Default,,0000,0000,0000,,Nunca nadei no mar antes,
+Dialogue: 0,0:07:53.76,0:07:56.26,Default,,0000,0000,0000,,é diferente da piscina,\Ncom as ondas.
+Dialogue: 0,0:07:56.72,0:07:57.85,Default,,0000,0000,0000,,E é divertido!
+Dialogue: 0,0:07:57.93,0:07:59.31,Default,,0000,0000,0000,,Precisava disso tudo?
+Dialogue: 0,0:07:59.81,0:08:05.06,Default,,0000,0000,0000,,Sakurai, você não precisa de óculos,\Nmuito menos de touca na praia!
+Dialogue: 0,0:08:05.15,0:08:07.19,Default,,0000,0000,0000,,Você não é um salva-vidas!
+Dialogue: 0,0:08:07.48,0:08:08.94,Default,,0000,0000,0000,,É mesmo?
+Dialogue: 0,0:08:09.03,0:08:11.40,Default,,0000,0000,0000,,Viu? É como eu falei.
+Dialogue: 0,0:08:11.57,0:08:14.82,Default,,0000,0000,0000,,O visual de natação afasta\Nas pessoas, então troque.
+Dialogue: 0,0:08:15.45,0:08:19.49,Default,,0000,0000,0000,,Olhe, estamos aqui para nos divertir!\NÉ nosso momento de folga!
+Dialogue: 0,0:08:19.83,0:08:21.29,Default,,0000,0000,0000,,Esqueça do clube de natação!
+Dialogue: 0,0:08:22.33,0:08:24.21,Default,,0000,0000,0000,,Ela está super incomodada.
+Dialogue: 0,0:08:24.67,0:08:28.55,Default,,0000,0000,0000,,Por que deixou a Hana\Ne foi nadar sozinho?
+Dialogue: 0,0:08:28.71,0:08:29.88,Default,,0000,0000,0000,,Como é?
+Dialogue: 0,0:08:31.59,0:08:36.14,Default,,0000,0000,0000,,Se você está sozinho,\Na Hana também está.
+Dialogue: 0,0:08:36.30,0:08:38.39,Default,,0000,0000,0000,,E se alguém der em cima dela?
+Dialogue: 0,0:08:38.47,0:08:39.47,Default,,0000,0000,0000,,Oi?
+Dialogue: 0,0:08:40.43,0:08:43.73,Default,,0000,0000,0000,,Pode se responsabilizar\Nse algo acontecer?
+Dialogue: 0,0:08:44.69,0:08:47.52,Default,,0000,0000,0000,,O cara com quem ela veio\Ntem que cuidar dela!
+Dialogue: 0,0:08:47.69,0:08:50.15,Default,,0000,0000,0000,,- Entendeu? Diga algo!\N- Sim, senhora.
+Dialogue: 0,0:08:50.69,0:08:52.90,Default,,0000,0000,0000,,Pode começar elogiando o biquíni.
+Dialogue: 0,0:08:53.03,0:08:55.82,Default,,0000,0000,0000,,Não vai ser fácil,\Nmas é o que merece por fugir.
+Dialogue: 0,0:08:56.16,0:08:58.37,Default,,0000,0000,0000,,Bom... está bem.
+Dialogue: 0,0:08:58.91,0:09:00.04,Default,,0000,0000,0000,,Vejamos...
+Dialogue: 0,0:09:00.12,0:09:02.95,Default,,0000,0000,0000,,Você está linda nesse\Nbiquíni. Maravilhosa.
+Dialogue: 0,0:09:03.33,0:09:05.96,Default,,0000,0000,0000,,O azul-claro combina\Ncom o seu estilo,
+Dialogue: 0,0:09:06.33,0:09:07.54,Default,,0000,0000,0000,,e, bem...
+Dialogue: 0,0:09:09.04,0:09:10.30,Default,,0000,0000,0000,,O meu biquíni não!
+Dialogue: 0,0:09:15.80,0:09:20.76,Default,,0000,0000,0000,,Que choque! Me olhando assim\Npara valer, tão de perto...
+Dialogue: 0,0:09:20.85,0:09:21.89,Default,,0000,0000,0000,,Otário.
+Dialogue: 0,0:09:22.43,0:09:23.81,Default,,0000,0000,0000,,Ei, Uzaki...
+Dialogue: 0,0:09:23.98,0:09:27.48,Default,,0000,0000,0000,,O que foi, Senpai?\NO golfinho está quase pronto.
+Dialogue: 0,0:09:35.82,0:09:38.24,Default,,0000,0000,0000,,Caramba! Ele disse algo?
+Dialogue: 0,0:09:38.91,0:09:42.99,Default,,0000,0000,0000,,Oi? Nada! Não disse nada!
+Dialogue: 0,0:09:43.70,0:09:45.71,Default,,0000,0000,0000,,Disfarçando a vergonha, não é?
+Dialogue: 0,0:09:49.38,0:09:51.59,Default,,0000,0000,0000,,Aquilo já basta?
+Dialogue: 0,0:09:52.09,0:09:53.80,Default,,0000,0000,0000,,Bom trabalho. Muito bem.
+Dialogue: 0,0:09:53.96,0:09:57.01,Default,,0000,0000,0000,,Continuo meio desconfiado.
+Dialogue: 0,0:09:57.88,0:10:01.47,Default,,0000,0000,0000,,Ei! Estão se divertindo?\NTrouxe um lanche!
+Dialogue: 0,0:10:01.93,0:10:03.14,Default,,0000,0000,0000,,Obrigado.
+Dialogue: 0,0:10:03.22,0:10:04.60,Default,,0000,0000,0000,,Uma melancia!
+Dialogue: 0,0:10:04.97,0:10:06.94,Default,,0000,0000,0000,,Mas vamos usar isso.
+Dialogue: 0,0:10:07.02,0:10:08.19,Default,,0000,0000,0000,,Um taco?
+Dialogue: 0,0:10:08.27,0:10:10.27,Default,,0000,0000,0000,,Isso mesmo! Chegou a hora da...
+Dialogue: 0,0:10:10.77,0:10:13.27,Default,,0000,0000,0000,,atração à beira-mar:\Npiñata de melancia.
+Dialogue: 0,0:10:15.78,0:10:17.45,Default,,0000,0000,0000,,Por que eu?
+Dialogue: 0,0:10:17.65,0:10:20.82,Default,,0000,0000,0000,,Você nunca fez isso!\NEstamos fazendo memórias, Sak!
+Dialogue: 0,0:10:21.24,0:10:23.08,Default,,0000,0000,0000,,Beleza, está vendado.
+Dialogue: 0,0:10:23.54,0:10:27.50,Default,,0000,0000,0000,,Já que insistem. Podem vir,\Nde qualquer lado!
+Dialogue: 0,0:10:28.29,0:10:31.50,Default,,0000,0000,0000,,É mais divertido orientar a pessoa.
+Dialogue: 0,0:10:32.84,0:10:34.92,Default,,0000,0000,0000,,Ou desorientar.
+Dialogue: 0,0:10:36.63,0:10:40.89,Default,,0000,0000,0000,,Primeiro, vamos pegar ele de\Nsurpresa e jogar ele no mar!
+Dialogue: 0,0:10:44.14,0:10:45.81,Default,,0000,0000,0000,,Isso primeiro?
+Dialogue: 0,0:10:46.02,0:10:48.14,Default,,0000,0000,0000,,Que tipos de jogos você joga?
+Dialogue: 0,0:10:49.31,0:10:51.15,Default,,0000,0000,0000,,Uzaki, vá ali com o Sak.
+Dialogue: 0,0:10:51.23,0:10:52.23,Default,,0000,0000,0000,,Entendido!
+Dialogue: 0,0:10:52.31,0:10:55.57,Default,,0000,0000,0000,,Esperem, posso filmar\Nisso no celular?
+Dialogue: 0,0:10:56.07,0:10:59.36,Default,,0000,0000,0000,,Ei! Consigo ouvir tudo o que dizem!
+Dialogue: 0,0:10:59.99,0:11:01.61,Default,,0000,0000,0000,,Vá em frente então, Sak!
+Dialogue: 0,0:11:03.49,0:11:06.75,Default,,0000,0000,0000,,Senpai, você é uma presa fácil.
+Dialogue: 0,0:11:06.83,0:11:08.66,Default,,0000,0000,0000,,Você me paga.
+Dialogue: 0,0:11:08.75,0:11:11.04,Default,,0000,0000,0000,,- Tudo bem, lá vai...\N- Certo!
+Dialogue: 0,0:11:11.12,0:11:14.59,Default,,0000,0000,0000,,De perto: cima, baixo,\Nesquerda, direita, B!
+Dialogue: 0,0:11:16.05,0:11:19.13,Default,,0000,0000,0000,,É assim que você começa? Pirou?
+Dialogue: 0,0:11:19.47,0:11:24.14,Top,,0000,0000,0000,,Baixo, cima, baixo, B, sudeste,\Nnoroeste, B, cima, noroeste, A!{\an}
+Dialogue: 0,0:11:24.39,0:11:28.02,Default,,0000,0000,0000,,Por que está me passando\Ncódigos de especiais em jogos?
+Dialogue: 0,0:11:28.10,0:11:30.02,Default,,0000,0000,0000,,Sério, pare de graça!
+Dialogue: 0,0:11:30.23,0:11:31.48,Default,,0000,0000,0000,,- Direita, direita, cima, esquerda, B!\N- Ela está com tudo.
+Dialogue: 0,0:11:31.94,0:11:33.56,Default,,0000,0000,0000,,- Esquerda, baixo, direita, cima, A, B!\N- Não temos que fazer nada.
+Dialogue: 0,0:11:33.65,0:11:37.69,Default,,0000,0000,0000,,- Isso é que é talento.\N- Isso não faz o menor sentido!
+Dialogue: 0,0:11:38.49,0:11:40.24,Default,,0000,0000,0000,,Droga...
+Dialogue: 0,0:11:40.32,0:11:43.24,Default,,0000,0000,0000,,- Comece andando para a frente.\N- Um pouco para a direita!
+Dialogue: 0,0:11:43.32,0:11:44.70,Signs,,0000,0000,0000,,VERDADE\NVERDADE
+Dialogue: 0,0:11:44.78,0:11:45.78,Default,,0000,0000,0000,,Senpai, Senpai!
+Dialogue: 0,0:11:45.87,0:11:46.91,Signs,,0000,0000,0000,,NÃO É UMA OPÇÃO
+Dialogue: 0,0:11:46.99,0:11:49.12,Default,,0000,0000,0000,,Cima, X, baixo, B, L, Y, R, A!
+Dialogue: 0,0:11:49.20,0:11:50.87,Default,,0000,0000,0000,,Cale a boca, Uzaki!
+Dialogue: 0,0:11:55.04,0:11:56.38,Default,,0000,0000,0000,,Essa não!
+Dialogue: 0,0:11:58.17,0:12:00.30,Default,,0000,0000,0000,,Opa...
+Dialogue: 0,0:12:00.38,0:12:01.38,Default,,0000,0000,0000,,O que?
+Dialogue: 0,0:12:06.76,0:12:08.97,Default,,0000,0000,0000,,O que é isso? Uma água-viva?
+Dialogue: 0,0:12:14.48,0:12:18.40,Default,,0000,0000,0000,,Não é possível!\NIsso é conveniente demais!
+Dialogue: 0,0:12:18.90,0:12:22.99,Default,,0000,0000,0000,,Me digam para onde ir!\NCadê aquele melão?
+Dialogue: 0,0:12:24.07,0:12:26.41,Default,,0000,0000,0000,,Não está pegando ele agora?
+Dialogue: 0,0:12:26.83,0:12:27.83,Default,,0000,0000,0000,,Como é?
+Dialogue: 0,0:12:32.54,0:12:35.83,Default,,0000,0000,0000,,Pode se mover primeiro, por favor?
+Dialogue: 0,0:12:39.00,0:12:40.92,Default,,0000,0000,0000,,Já chegamos?
+Dialogue: 0,0:12:41.34,0:12:43.72,Default,,0000,0000,0000,,Relaxe. É logo ali na frente.
+Dialogue: 0,0:12:45.55,0:12:47.76,Default,,0000,0000,0000,,Por que a cara emburrada?
+Dialogue: 0,0:12:47.85,0:12:50.43,Default,,0000,0000,0000,,Nada. Não estou emburrada.
+Dialogue: 0,0:12:51.64,0:12:52.81,Default,,0000,0000,0000,,É mesmo?
+Dialogue: 0,0:12:53.44,0:12:55.52,Default,,0000,0000,0000,,Claro que isso ia acontecer.
+Dialogue: 0,0:12:56.31,0:12:59.77,Default,,0000,0000,0000,,Deixem para lá!\NCadê aquela bendita melancia?
+Dialogue: 0,0:13:03.15,0:13:06.03,Default,,0000,0000,0000,,Então aquilo era mesmo a melancia.
+Dialogue: 0,0:13:24.38,0:13:26.59,Default,,0000,0000,0000,,Ele é mesmo um otário.
+Dialogue: 0,0:13:28.43,0:13:29.55,Default,,0000,0000,0000,,Chegamos!
+Dialogue: 0,0:13:32.18,0:13:34.48,Default,,0000,0000,0000,,Quando disse que cuidaria\Nda hospedagem...
+Dialogue: 0,0:13:34.73,0:13:36.77,Default,,0000,0000,0000,,É a sua casa de verão?
+Dialogue: 0,0:13:38.19,0:13:41.19,Default,,0000,0000,0000,,Podem entrar. Escolham\No quarto que quiserem!
+Dialogue: 0,0:13:41.82,0:13:44.24,Default,,0000,0000,0000,,Não sabia que era rico, Sakaki.
+Dialogue: 0,0:13:44.49,0:13:48.11,Default,,0000,0000,0000,,Sabia que tinha uma casa de verão,\Nmas é a primeira vez que vejo.
+Dialogue: 0,0:13:48.78,0:13:50.95,Default,,0000,0000,0000,,Te chamei ano passado,\Nvocê não veio!
+Dialogue: 0,0:13:51.37,0:13:53.91,Default,,0000,0000,0000,,E meus pais é que são ricos, não eu.
+Dialogue: 0,0:13:55.96,0:13:57.96,Default,,0000,0000,0000,,Nossa! Veja só, Senpai!
+Dialogue: 0,0:13:58.04,0:14:00.67,Default,,0000,0000,0000,,Interruptor de rico!
+Dialogue: 0,0:14:00.75,0:14:02.17,Default,,0000,0000,0000,,Nossa! É mesmo!
+Dialogue: 0,0:14:02.25,0:14:05.92,Default,,0000,0000,0000,,- Nossa! O interfone tem câmera!\N- Sério?
+Dialogue: 0,0:14:06.22,0:14:09.80,Default,,0000,0000,0000,,- Nossa! Maçaneta de clique!\N- Incrível!
+Dialogue: 0,0:14:11.72,0:14:14.31,Default,,0000,0000,0000,,Qual o seu parâmetro\Npara "rico" mesmo?
+Dialogue: 0,0:14:15.35,0:14:19.56,Default,,0000,0000,0000,,Peguem o que quiserem na geladeira.\NEstoquei para hoje.
+Dialogue: 0,0:14:20.15,0:14:21.15,Default,,0000,0000,0000,,Caramba...
+Dialogue: 0,0:14:21.23,0:14:23.02,Default,,0000,0000,0000,,Olhe, Senpai, carne!
+Dialogue: 0,0:14:23.53,0:14:25.15,Default,,0000,0000,0000,,Gosta de carne, não é?
+Dialogue: 0,0:14:25.28,0:14:28.86,Default,,0000,0000,0000,,Claro que gosto! É carne!
+Dialogue: 0,0:14:36.71,0:14:39.92,Default,,0000,0000,0000,,Delícia! Churrascos são o máximo!
+Dialogue: 0,0:14:40.46,0:14:41.96,Default,,0000,0000,0000,,O que vamos fazer depois?
+Dialogue: 0,0:14:42.04,0:14:45.05,Default,,0000,0000,0000,,- Eu trouxe um jogo!\N- Eu também.
+Dialogue: 0,0:14:45.13,0:14:47.01,Default,,0000,0000,0000,,Então fechou!
+Dialogue: 0,0:14:47.09,0:14:50.09,Default,,0000,0000,0000,,Vocês podem fazer\Nisso a qualquer hora!
+Dialogue: 0,0:14:50.55,0:14:54.14,Default,,0000,0000,0000,,São as férias de verão!\NVamos dormir fora de casa! E de noite!
+Dialogue: 0,0:14:55.06,0:14:57.56,Default,,0000,0000,0000,,Isso pede uma certa atividade...
+Dialogue: 0,0:15:00.02,0:15:01.52,Default,,0000,0000,0000,,Às colinas!
+Dialogue: 0,0:15:06.74,0:15:10.11,Default,,0000,0000,0000,,Bem, fizemos o que pediu\Ne te seguimos até aqui...
+Dialogue: 0,0:15:10.53,0:15:12.32,Default,,0000,0000,0000,,Tem algo lá em cima?
+Dialogue: 0,0:15:12.41,0:15:14.24,Default,,0000,0000,0000,,Está escuro para caramba.
+Dialogue: 0,0:15:14.33,0:15:16.29,Default,,0000,0000,0000,,Vamos fazer uma fogueira?
+Dialogue: 0,0:15:17.04,0:15:21.12,Default,,0000,0000,0000,,Claro, é meio clichê,\Nmas não é verão sem...
+Dialogue: 0,0:15:21.88,0:15:23.96,Default,,0000,0000,0000,,Um teste de coragem! Vamos nessa!
+Dialogue: 0,0:15:28.51,0:15:32.26,Default,,0000,0000,0000,,- Estou fora.\N- Tem uma clareira logo ali.
+Dialogue: 0,0:15:32.55,0:15:34.18,Default,,0000,0000,0000,,Não ligo! Estou fora!
+Dialogue: 0,0:15:34.55,0:15:37.64,Default,,0000,0000,0000,,O que foi, Sak?\NNão curte essas coisas?
+Dialogue: 0,0:15:39.89,0:15:44.48,Default,,0000,0000,0000,,Não vejo filmes nem\Njogo coisas de terror.
+Dialogue: 0,0:15:45.90,0:15:47.44,Default,,0000,0000,0000,,Sabe por quê?
+Dialogue: 0,0:15:48.86,0:15:50.36,Default,,0000,0000,0000,,Porque são assustadores!
+Dialogue: 0,0:15:50.61,0:15:52.49,Default,,0000,0000,0000,,Fez pose para falar isso?
+Dialogue: 0,0:15:52.74,0:15:55.49,Default,,0000,0000,0000,,Ele está desesperado\Npara evitar perigo.
+Dialogue: 0,0:15:56.28,0:15:58.66,Default,,0000,0000,0000,,Tudo bem! Me desculpe!
+Dialogue: 0,0:15:58.75,0:16:02.33,Default,,0000,0000,0000,,Não sabia que era um problema\Npara você. Peço desculpas.
+Dialogue: 0,0:16:03.00,0:16:06.04,Default,,0000,0000,0000,,Mas ainda que honestidade\Nseja ótima e tal,
+Dialogue: 0,0:16:06.38,0:16:09.76,Default,,0000,0000,0000,,talvez anunciar sua fraqueza\Nnão tenha sido uma boa ideia.
+Dialogue: 0,0:16:12.80,0:16:15.80,Default,,0000,0000,0000,,Ora essa...
+Dialogue: 0,0:16:16.85,0:16:20.43,Default,,0000,0000,0000,,Não aguenta um sustinho, Senpai?
+Dialogue: 0,0:16:23.65,0:16:26.65,Default,,0000,0000,0000,,Olhe só, eu nem imaginava!
+Dialogue: 0,0:16:28.94,0:16:32.28,Default,,0000,0000,0000,,Pare com isso, Uzaki.\NFoi minha culpa.
+Dialogue: 0,0:16:33.07,0:16:35.07,Default,,0000,0000,0000,,Não é cedo demais para desistir?
+Dialogue: 0,0:16:35.41,0:16:37.83,Default,,0000,0000,0000,,Ele realmente não\Naguenta nem um sustinho.
+Dialogue: 0,0:16:38.16,0:16:39.74,Default,,0000,0000,0000,,- Perdeu!\N- Não!
+Dialogue: 0,0:16:39.83,0:16:42.33,Default,,0000,0000,0000,,Isso! Peguei seu celular!
+Dialogue: 0,0:16:42.41,0:16:45.92,Default,,0000,0000,0000,,Hora de jogar tudo no ventilador,\Npara todos verem!
+Dialogue: 0,0:16:46.00,0:16:48.04,Default,,0000,0000,0000,,Não! Me devolva! É sério!
+Dialogue: 0,0:16:48.17,0:16:51.09,Default,,0000,0000,0000,,Vai ter que me pegar primeiro!
+Dialogue: 0,0:16:51.17,0:16:52.84,Default,,0000,0000,0000,,Que inferno!
+Dialogue: 0,0:16:52.97,0:16:56.80,Default,,0000,0000,0000,,Que rápido você é,\NSenpai! Chega de avançar!
+Dialogue: 0,0:16:56.89,0:16:57.89,Default,,0000,0000,0000,,Espere aí! Ei!
+Dialogue: 0,0:16:57.97,0:16:59.43,Default,,0000,0000,0000,,Era esse o plano?
+Dialogue: 0,0:17:00.89,0:17:03.73,Default,,0000,0000,0000,,Achei que iríamos juntos.
+Dialogue: 0,0:17:04.77,0:17:09.27,Default,,0000,0000,0000,,E imaginei que seria o contrário.
+Dialogue: 0,0:17:09.94,0:17:13.36,Default,,0000,0000,0000,,Senpai, estou tão apavorada!
+Dialogue: 0,0:17:13.78,0:17:15.03,Default,,0000,0000,0000,,Boa garota.
+Dialogue: 0,0:17:16.03,0:17:18.74,Default,,0000,0000,0000,,Pois bem. Vamos atrás deles?
+Dialogue: 0,0:17:23.62,0:17:25.58,Default,,0000,0000,0000,,- Aquele dia...\N- Pois não?
+Dialogue: 0,0:17:26.33,0:17:31.05,Default,,0000,0000,0000,,Você mandou eu não me meter,\Nsó observar eles.
+Dialogue: 0,0:17:31.71,0:17:32.96,Default,,0000,0000,0000,,Isso mesmo.
+Dialogue: 0,0:17:34.55,0:17:38.26,Default,,0000,0000,0000,,Então pensei em criar as\Ncondições ideais em vez disso.
+Dialogue: 0,0:17:39.22,0:17:42.60,Default,,0000,0000,0000,,Condições para que eles se\Ntornem algo de interessante.
+Dialogue: 0,0:17:43.85,0:17:47.23,Default,,0000,0000,0000,,Sabia. Imaginei que\Nfosse isso mesmo.
+Dialogue: 0,0:17:48.10,0:17:51.90,Default,,0000,0000,0000,,Mas quando cada passo que\Neles dão é tão inesperado...
+Dialogue: 0,0:17:52.90,0:17:55.74,Default,,0000,0000,0000,,As coisas não dão tão certo.
+Dialogue: 0,0:17:56.32,0:17:58.70,Default,,0000,0000,0000,,Mas por quê?
+Dialogue: 0,0:17:58.78,0:18:02.04,Default,,0000,0000,0000,,- Como é?\N- Por que se esforçar tanto?
+Dialogue: 0,0:18:02.33,0:18:04.83,Default,,0000,0000,0000,,Por quê? Vejamos...
+Dialogue: 0,0:18:06.79,0:18:09.08,Default,,0000,0000,0000,,Sak é um cara ótimo,
+Dialogue: 0,0:18:09.75,0:18:14.26,Default,,0000,0000,0000,,mas muito sério, e sem jeito,\Ne péssimo em fazer amizades,
+Dialogue: 0,0:18:14.71,0:18:16.30,Default,,0000,0000,0000,,e solitário...
+Dialogue: 0,0:18:16.93,0:18:19.59,Default,,0000,0000,0000,,Sei que não é da minha conta,
+Dialogue: 0,0:18:20.18,0:18:24.14,Default,,0000,0000,0000,,mas queria que a vida dele na\Nfaculdade fosse mais divertida.
+Dialogue: 0,0:18:26.18,0:18:29.90,Default,,0000,0000,0000,,Se não for, é meio que um\Ndesperdício, não acha?
+Dialogue: 0,0:18:37.70,0:18:40.74,Default,,0000,0000,0000,,Isso, e tenho outros motivos.
+Dialogue: 0,0:18:41.78,0:18:44.24,Default,,0000,0000,0000,,Outros motivos, não é?
+Dialogue: 0,0:18:44.37,0:18:45.58,Default,,0000,0000,0000,,Ali estão eles.
+Dialogue: 0,0:18:45.95,0:18:47.08,Default,,0000,0000,0000,,Oi?
+Dialogue: 0,0:18:47.33,0:18:50.21,Default,,0000,0000,0000,,Sinto muito, Senpai.\NPor favor, me perdoe!
+Dialogue: 0,0:18:50.29,0:18:52.09,Default,,0000,0000,0000,,Eu me empolguei.
+Dialogue: 0,0:18:52.38,0:18:55.01,Default,,0000,0000,0000,,Sakaki e Ami estão aqui, viu?
+Dialogue: 0,0:18:55.09,0:18:57.72,Default,,0000,0000,0000,,Vamos todos voltar e\Ntomar sorvete, certo?
+Dialogue: 0,0:18:58.88,0:19:00.64,Default,,0000,0000,0000,,Não consigo andar.
+Dialogue: 0,0:19:01.01,0:19:02.39,Default,,0000,0000,0000,,Que voz fraca a dele!
+Dialogue: 0,0:19:03.10,0:19:06.31,Default,,0000,0000,0000,,É isso, estou cancelando.\NVamos voltar.
+Dialogue: 0,0:19:06.68,0:19:09.60,Default,,0000,0000,0000,,Podemos voltar e jogar algo, Senpai.
+Dialogue: 0,0:19:10.65,0:19:11.77,Default,,0000,0000,0000,,Jogar uns jogos...
+Dialogue: 0,0:19:12.36,0:19:13.77,Default,,0000,0000,0000,,Tão fraquinha!
+Dialogue: 0,0:19:18.45,0:19:22.82,Default,,0000,0000,0000,,Isso! Veja só, Senpai! Novo recorde!
+Dialogue: 0,0:19:28.04,0:19:30.87,Default,,0000,0000,0000,,Você disse que iria jogar!
+Dialogue: 0,0:19:41.01,0:19:44.47,Default,,0000,0000,0000,,Sakaki e Ami dormiram também...
+Dialogue: 0,0:19:45.01,0:19:48.31,Default,,0000,0000,0000,,Bem, tivemos um dia\Nmuito agitado hoje.
+Dialogue: 0,0:19:48.85,0:19:51.27,Default,,0000,0000,0000,,Todo mundo já capotou.
+Dialogue: 0,0:19:52.40,0:19:56.90,Default,,0000,0000,0000,,Ainda assim, ver o rostinho\Ndele dormindo me deixa agitada!
+Dialogue: 0,0:19:57.48,0:20:00.03,Default,,0000,0000,0000,,É sua culpa por abaixar a guarda!
+Dialogue: 0,0:20:03.07,0:20:06.20,Default,,0000,0000,0000,,Senpai! O que está fazendo?
+Dialogue: 0,0:20:09.04,0:20:11.12,Default,,0000,0000,0000,,Ele está dormindo?
+Dialogue: 0,0:20:11.83,0:20:16.13,Default,,0000,0000,0000,,Então ele dorme agarradinho?\NNão imaginava.
+Dialogue: 0,0:20:16.34,0:20:17.59,Default,,0000,0000,0000,,Caramba, que susto.
+Dialogue: 0,0:20:22.22,0:20:26.10,Default,,0000,0000,0000,,Nossa, Senpai!\NNão está acordado, ou está?
+Dialogue: 0,0:20:29.89,0:20:31.23,Default,,0000,0000,0000,,Está dormindo como uma pedra.
+Dialogue: 0,0:20:32.27,0:20:34.90,Default,,0000,0000,0000,,Não faria isso se\Nestivesse acordado, acho.
+Dialogue: 0,0:20:37.36,0:20:41.49,Default,,0000,0000,0000,,Eu quem cutuquei a onça com\Nvara curta e a deixei exausta.
+Dialogue: 0,0:20:41.90,0:20:44.95,Default,,0000,0000,0000,,Talvez tudo bem ficar\Nassim só um pouquinho.
+Dialogue: 0,0:20:46.62,0:20:49.83,Default,,0000,0000,0000,,Só por hoje... Só por hoje.
+Dialogue: 0,0:21:19.36,0:21:21.15,Default,,0000,0000,0000,,Nossa!
+Dialogue: 0,0:21:22.49,0:21:25.95,Default,,0000,0000,0000,,Acabei dormindo na sala\Nde estar, não foi?
+Dialogue: 0,0:21:28.99,0:21:33.16,Default,,0000,0000,0000,,Mas nossa, sinto que tive\Numa noite de sono incrível!
+Dialogue: 0,0:21:33.62,0:21:37.92,Default,,0000,0000,0000,,Talvez seja bom investir\Nem travesseiros de corpo.
+Dialogue: 0,0:21:38.71,0:21:40.42,Default,,0000,0000,0000,,Por que diz isso?
+Dialogue: 0,0:21:40.80,0:21:42.38,Default,,0000,0000,0000,,Por nada não!
+Dialogue: 0,0:21:48.26,0:21:51.77,Default,,0000,0000,0000,,Sinto que deixamos algo\Nmuito importante passar.
+Dialogue: 0,0:21:52.43,0:21:55.27,Default,,0000,0000,0000,,Da próxima, vou juntar\Nesses dois, com certeza!
+Dialogue: 0,0:21:56.06,0:22:00.90,Default,,0000,0000,0000,,E aposto a alma de Kakyoin\Nque você vai falhar de novo!
+Dialogue: 0,0:23:39.25,0:23:41.58,Signs,,0000,0000,0000,,NO EPISÓDIO 7: QUERO PASSEAR\NEM UM CAFÉ E PUB!
+Dialogue: 0,0:23:41.67,0:23:43.34,Default,,0000,0000,0000,,Hana Uzaki está se tornando adulta!

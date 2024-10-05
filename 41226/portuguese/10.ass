@@ -1,0 +1,377 @@
+﻿[Script Info]
+Title: [Erai-raws] Português (Brasil)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0015,0
+Style: Signs,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0020,0020,0015,0
+Style: Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0015,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:06.33,0:00:07.63,Default,,0000,0000,0000,,Vamos logo!
+Dialogue: 0,0:00:07.75,0:00:09.80,Default,,0000,0000,0000,,Aonde vamos primeiro?
+Dialogue: 0,0:00:07.75,0:00:09.80,Signs,,0000,0000,0000,,AEROPORTO DE TOTTORI
+Dialogue: 0,0:00:09.88,0:00:11.46,Default,,0000,0000,0000,,Vamos ver.
+Dialogue: 0,0:00:11.80,0:00:13.43,Default,,0000,0000,0000,,Estamos em Tottori, então...
+Dialogue: 0,0:00:13.88,0:00:16.01,Default,,0000,0000,0000,,Não temos Starbucks, apenas Sandbox!
+Dialogue: 0,0:00:16.30,0:00:18.14,Default,,0000,0000,0000,,Temos muitos caranguejos,\Nmas pouca verba.
+Dialogue: 0,0:00:18.22,0:00:19.64,Default,,0000,0000,0000,,Bem-vindos à cidade de Tottori!
+Dialogue: 0,0:00:20.81,0:00:23.10,Default,,0000,0000,0000,,Qual é o problema\Ndaquele cara, Senpai?
+Dialogue: 0,0:00:23.18,0:00:26.27,Default,,0000,0000,0000,,Você não sabe, idiota? Ele é...
+Dialogue: 0,0:00:26.35,0:00:30.53,Default,,0000,0000,0000,,Sem 7-Elevens?\NAinda assim é um paraíso!
+Dialogue: 0,0:00:32.65,0:00:34.86,Default,,0000,0000,0000,,Ele é um cara bem-sucedido.
+Dialogue: 0,0:00:35.61,0:00:37.95,Default,,0000,0000,0000,,Deveríamos ir às dunas\Nde areia primeiro.
+Dialogue: 0,0:00:38.37,0:00:41.41,Default,,0000,0000,0000,,Diz aqui que podemos voar de\Nparapente ou andar de sandboard.
+Dialogue: 0,0:00:41.49,0:00:43.33,Default,,0000,0000,0000,,Você gosta mais de aventura, não é?
+Dialogue: 0,0:00:43.41,0:00:44.41,Default,,0000,0000,0000,,Sim.
+Dialogue: 0,0:00:44.50,0:00:46.88,Default,,0000,0000,0000,,Atividades pra fazer sozinho,\Npelo que entendo..
+Dialogue: 0,0:00:46.96,0:00:49.67,Default,,0000,0000,0000,,Estou vendo que vai ficar\Nsó aqui em Tottori também.
+Dialogue: 0,0:00:49.75,0:00:52.84,Default,,0000,0000,0000,,Você nunca sabe a hora\Nde fechar essa boca.
+Dialogue: 0,0:00:52.92,0:00:54.72,Default,,0000,0000,0000,,Como vamos chegar lá?
+Dialogue: 0,0:00:54.80,0:00:57.30,Default,,0000,0000,0000,,Vamos pegar um ônibus ou algo assim.
+Dialogue: 0,0:01:07.10,0:01:08.73,Default,,0000,0000,0000,,- Oi!\N- E aí?
+Dialogue: 0,0:01:09.23,0:01:11.32,Default,,0000,0000,0000,,- Itsuhito!\N- Ami!
+Dialogue: 0,0:01:19.57,0:01:26.12,Signs,,0000,0000,0000,,{\an8}UZAKI-CHAN WANTS TO HANG OUT!{\an}
+Dialogue: 0,0:02:42.49,0:02:44.74,Signs,,0000,0000,0000,,EPISÓDIO 10: DIVERSÃO EM TOTTORI!
+Dialogue: 0,0:02:44.83,0:02:47.00,Default,,0000,0000,0000,,Vocês dois vieram.
+Dialogue: 0,0:02:47.33,0:02:50.83,Default,,0000,0000,0000,,O papai me deu umas férias.
+Dialogue: 0,0:02:50.92,0:02:53.71,Default,,0000,0000,0000,,Estava pensando em fazer uma viagem,\Naí ela me sugeriu
+Dialogue: 0,0:02:53.79,0:02:57.21,Default,,0000,0000,0000,,de encontrarmos vocês aqui.
+Dialogue: 0,0:02:57.71,0:03:02.22,Default,,0000,0000,0000,,Me sinto mal, vocês alugaram um\Ncarro para nos levar e tudo mais.
+Dialogue: 0,0:03:02.34,0:03:03.80,Default,,0000,0000,0000,,Não tem problema.
+Dialogue: 0,0:03:03.89,0:03:05.97,Default,,0000,0000,0000,,Você é tão atencioso, Sakaki!
+Dialogue: 0,0:03:06.06,0:03:08.98,Default,,0000,0000,0000,,Sua personalidade é meio esquisita,\Nmas com certeza é atencioso.
+Dialogue: 0,0:03:09.06,0:03:10.85,Default,,0000,0000,0000,,Mas essa sua personalidade...
+Dialogue: 0,0:03:10.94,0:03:13.06,Default,,0000,0000,0000,,Por favor, chega de elogios.
+Dialogue: 0,0:03:13.15,0:03:15.15,Default,,0000,0000,0000,,Ela não estava te elogiando.
+Dialogue: 0,0:03:16.02,0:03:19.36,Default,,0000,0000,0000,,Com toda certeza é mais\Nconveniente viajar de carro.
+Dialogue: 0,0:03:20.45,0:03:22.07,Default,,0000,0000,0000,,É muito maior do que eu imaginava.
+Dialogue: 0,0:03:22.20,0:03:25.99,Default,,0000,0000,0000,,Pois é! Alugar um carro é essencial\Npra poder andar com maior liberdade.
+Dialogue: 0,0:03:26.08,0:03:27.79,Default,,0000,0000,0000,,Falou como um viajante experiente.
+Dialogue: 0,0:03:28.29,0:03:29.33,Default,,0000,0000,0000,,Você me conhece.
+Dialogue: 0,0:03:29.70,0:03:33.92,Default,,0000,0000,0000,,Essa é nossa história.\NMas viemos aqui com outro objetivo.
+Dialogue: 0,0:03:34.00,0:03:37.88,Default,,0000,0000,0000,,É isso mesmo, Hana e\NSakurai viajando sozinhos...
+Dialogue: 0,0:03:38.21,0:03:42.43,Default,,0000,0000,0000,,Mesmo achando o relacionamento deles\Nintocável, não consegui ficar de fora.
+Dialogue: 0,0:03:42.88,0:03:45.43,Default,,0000,0000,0000,,Estamos sempre observando deles.
+Dialogue: 0,0:03:45.51,0:03:48.31,Default,,0000,0000,0000,,Temos o dever de acompanhar\Nessa viajem até o fim.
+Dialogue: 0,0:03:48.39,0:03:51.06,Default,,0000,0000,0000,,E vamos poder acompanhar\Nde perto. Que maravilha!
+Dialogue: 0,0:03:51.14,0:03:53.35,Default,,0000,0000,0000,,Sem mencionar a viagem até Tottori.
+Dialogue: 0,0:03:53.73,0:03:56.15,Default,,0000,0000,0000,,Total coincidência,\Nmas ainda assim divertido.
+Dialogue: 0,0:03:57.19,0:04:00.44,Default,,0000,0000,0000,,Esses dois ainda não conhecem\Na verdadeira Tottori!
+Dialogue: 0,0:04:01.24,0:04:02.45,Default,,0000,0000,0000,,Olha, uma loja 7-Eleven.
+Dialogue: 0,0:04:02.53,0:04:05.03,Default,,0000,0000,0000,,Então eles de fato têm\Nessas lojas por aqui.
+Dialogue: 0,0:04:05.45,0:04:07.87,Signs,,0000,0000,0000,,PARQUE NACIONAL\NDE DUNAS DE AREIA DE TOTTORI
+Dialogue: 0,0:04:15.79,0:04:18.21,Default,,0000,0000,0000,,Olhando de perto realmente\Nparece espetacular.
+Dialogue: 0,0:04:18.50,0:04:21.09,Default,,0000,0000,0000,,Não é mesmo? Que vista!
+Dialogue: 0,0:04:21.17,0:04:24.59,Default,,0000,0000,0000,,As dunas de areia de Tottori\Nmedem 2,4km de norte a sul
+Dialogue: 0,0:04:24.68,0:04:26.76,Default,,0000,0000,0000,,e 16km de leste a oeste.
+Dialogue: 0,0:04:26.85,0:04:31.60,Default,,0000,0000,0000,,São as maiores dunas de\Nareia acessíveis do Japão.
+Dialogue: 0,0:04:31.93,0:04:33.56,Default,,0000,0000,0000,,A duna em frente é chamada
+Dialogue: 0,0:04:33.64,0:04:36.94,Default,,0000,0000,0000,,de Costas do Cavalo e tem\Ncerca de 50m de altura.
+Dialogue: 0,0:04:37.23,0:04:40.53,Default,,0000,0000,0000,,É bem popular.\NVocê pode ver todas as dunas
+Dialogue: 0,0:04:40.61,0:04:43.61,Default,,0000,0000,0000,,e contemplar o Mar\Ndo Japão lá do alto.
+Dialogue: 0,0:04:43.70,0:04:45.53,Default,,0000,0000,0000,,Nossa, que legal!
+Dialogue: 0,0:04:47.03,0:04:50.41,Default,,0000,0000,0000,,Certo, Senpai. Vamos\Napostar corrida até o mar.
+Dialogue: 0,0:04:50.49,0:04:51.83,Default,,0000,0000,0000,,Fechado.
+Dialogue: 0,0:04:52.62,0:04:55.42,Default,,0000,0000,0000,,Se eu ganhar, você me\Npaga um sorvete de pera!
+Dialogue: 0,0:04:55.75,0:04:59.21,Default,,0000,0000,0000,,E se eu ganhar,\Nvocê me paga um sorvete de café.
+Dialogue: 0,0:04:59.29,0:05:00.67,Default,,0000,0000,0000,,Vamos nessa.
+Dialogue: 0,0:05:01.13,0:05:02.34,Default,,0000,0000,0000,,Prepara...
+Dialogue: 0,0:05:02.42,0:05:03.42,Default,,0000,0000,0000,,Vai!
+Dialogue: 0,0:05:09.35,0:05:14.52,Default,,0000,0000,0000,,A areia está segurando meus pés.\NIsso é bem difícil!
+Dialogue: 0,0:05:14.60,0:05:15.85,Default,,0000,0000,0000,,E aí!
+Dialogue: 0,0:05:15.94,0:05:18.77,Default,,0000,0000,0000,,O quê? Ei! O que é isso?
+Dialogue: 0,0:05:19.27,0:05:23.90,Default,,0000,0000,0000,,Uma prancha de sandboard.\NEu reservei uma.
+Dialogue: 0,0:05:23.99,0:05:25.20,Default,,0000,0000,0000,,Isso não é justo!
+Dialogue: 0,0:05:25.28,0:05:29.24,Default,,0000,0000,0000,,Toda competição começa\Nantes da largada.
+Dialogue: 0,0:05:29.37,0:05:30.91,Default,,0000,0000,0000,,Encontro você do outro lado!
+Dialogue: 0,0:05:30.99,0:05:32.58,Default,,0000,0000,0000,,Droga!
+Dialogue: 0,0:05:34.75,0:05:38.00,Default,,0000,0000,0000,,Você nunca vai me alcançar, Senpai.
+Dialogue: 0,0:05:40.04,0:05:42.80,Default,,0000,0000,0000,,Espera aí!
+Dialogue: 0,0:05:54.39,0:05:56.02,Default,,0000,0000,0000,,Eu ganhei.
+Dialogue: 0,0:05:58.19,0:06:03.61,Default,,0000,0000,0000,,Uma competição com\Nesse lindo cenário.
+Dialogue: 0,0:06:04.03,0:06:06.15,Default,,0000,0000,0000,,Você não tem coração?
+Dialogue: 0,0:06:06.57,0:06:10.70,Default,,0000,0000,0000,,Admiro sua audácia,\Nse fazendo de vítima só porque perdeu.
+Dialogue: 0,0:06:11.62,0:06:12.99,Default,,0000,0000,0000,,Ainda assim...
+Dialogue: 0,0:06:13.49,0:06:18.25,Default,,0000,0000,0000,,Isso aqui é realmente lindo.\NFaz nossa corrida parecer insignificante.
+Dialogue: 0,0:06:19.04,0:06:20.42,Default,,0000,0000,0000,,Então não te devo nada?
+Dialogue: 0,0:06:20.50,0:06:21.71,Default,,0000,0000,0000,,Sim, você deve.
+Dialogue: 0,0:06:25.84,0:06:27.13,Default,,0000,0000,0000,,Com licença!
+Dialogue: 0,0:06:28.01,0:06:29.72,Default,,0000,0000,0000,,Pode tirar uma foto nossa?
+Dialogue: 0,0:06:30.30,0:06:31.51,Default,,0000,0000,0000,,Claro.
+Dialogue: 0,0:06:31.85,0:06:33.35,Default,,0000,0000,0000,,Obrigada!
+Dialogue: 0,0:06:34.47,0:06:36.56,Default,,0000,0000,0000,,Tottori!
+Dialogue: 0,0:06:40.44,0:06:42.19,Default,,0000,0000,0000,,Muito obrigado.
+Dialogue: 0,0:06:42.52,0:06:45.36,Default,,0000,0000,0000,,Você ficou ótimo na foto.
+Dialogue: 0,0:06:45.44,0:06:48.24,Default,,0000,0000,0000,,Você está muito fofa, Miho-Miho.
+Dialogue: 0,0:06:49.70,0:06:51.16,Default,,0000,0000,0000,,Vamos?
+Dialogue: 0,0:06:52.32,0:06:54.03,Default,,0000,0000,0000,,Não consigo andar.
+Dialogue: 0,0:06:54.41,0:06:56.41,Default,,0000,0000,0000,,Está bem.
+Dialogue: 0,0:06:57.45,0:07:00.08,Default,,0000,0000,0000,,Ainda me sobraram forças.
+Dialogue: 0,0:07:08.92,0:07:10.55,Default,,0000,0000,0000,,É tão redondo.
+Dialogue: 0,0:07:10.68,0:07:14.39,Default,,0000,0000,0000,,Este é o prédio circular\Nmais antigo do Japão.
+Dialogue: 0,0:07:14.47,0:07:16.43,Default,,0000,0000,0000,,Costumava ser uma escola primária.
+Dialogue: 0,0:07:16.97,0:07:19.98,Default,,0000,0000,0000,,Agora dilapidado, seria demolido,\Nmas muitos cidadãos queriam preservá-lo,
+Dialogue: 0,0:07:20.39,0:07:24.06,Default,,0000,0000,0000,,então incitaram as\Nautoridades a agirem.
+Dialogue: 0,0:07:24.48,0:07:27.78,Default,,0000,0000,0000,,E agora o prédio virou um museu!
+Dialogue: 0,0:07:28.23,0:07:31.65,Default,,0000,0000,0000,,Há várias especialidades\Nlocais em exposição.
+Dialogue: 0,0:07:31.99,0:07:33.74,Default,,0000,0000,0000,,Especialidades locais?
+Dialogue: 0,0:07:34.16,0:07:35.83,Default,,0000,0000,0000,,Como a pera-nashi?
+Dialogue: 0,0:07:35.91,0:07:37.99,Default,,0000,0000,0000,,Ou os caranguejos-das-neves\Nde Matsuba.
+Dialogue: 0,0:07:49.59,0:07:50.97,Default,,0000,0000,0000,,Estatuetas!
+Dialogue: 0,0:07:51.30,0:07:52.72,Default,,0000,0000,0000,,E Nendoroids também.
+Dialogue: 0,0:07:52.80,0:07:56.68,Default,,0000,0000,0000,,Tottori é a cidade do mangá,\No berço de muitos artistas do nicho.
+Dialogue: 0,0:07:57.14,0:08:00.31,Default,,0000,0000,0000,,E também, é lar de uma\Nfábrica de estatuetas!
+Dialogue: 0,0:08:00.85,0:08:05.11,Default,,0000,0000,0000,,Em outras palavras, mangás e estatuetas\Nsão especialidades locais de Tottori.
+Dialogue: 0,0:08:06.27,0:08:08.36,Default,,0000,0000,0000,,Já posso sentir a\Nempolgação começar.
+Dialogue: 0,0:08:08.44,0:08:10.44,Default,,0000,0000,0000,,Realmente tem um "quê" irresistível.
+Dialogue: 0,0:08:10.90,0:08:12.99,Default,,0000,0000,0000,,Esses são incríveis!
+Dialogue: 0,0:08:13.07,0:08:15.45,Default,,0000,0000,0000,,Senpai, compre estes\Npra mim de lembrança.
+Dialogue: 0,0:08:15.91,0:08:17.49,Default,,0000,0000,0000,,Quatro estatuetas?
+Dialogue: 0,0:08:17.58,0:08:21.00,Default,,0000,0000,0000,,Parecem ser quatro irmãs.\NQuero o conjunto completo.
+Dialogue: 0,0:08:21.54,0:08:24.58,Default,,0000,0000,0000,,Versões diferentes. O dobro ou nada.
+Dialogue: 0,0:08:24.67,0:08:26.50,Default,,0000,0000,0000,,Dobro nada!
+Dialogue: 0,0:08:27.96,0:08:29.96,Default,,0000,0000,0000,,Tottori.
+Dialogue: 0,0:08:35.14,0:08:36.26,Default,,0000,0000,0000,,Uma lebre.
+Dialogue: 0,0:08:36.55,0:08:38.97,Default,,0000,0000,0000,,E aquele tal de Himiko.
+Dialogue: 0,0:08:39.06,0:08:41.18,Default,,0000,0000,0000,,Ōkuninushi-no-Mikoto.
+Dialogue: 0,0:08:41.60,0:08:43.31,Default,,0000,0000,0000,,Também conhecido como\NŌnamuji-no-Kami.
+Dialogue: 0,0:08:43.94,0:08:47.44,Default,,0000,0000,0000,,Ōkuninushi-no-Mikoto, famoso pela\Nlenda da "lebre branca de Inaba".
+Dialogue: 0,0:08:47.52,0:08:49.94,Default,,0000,0000,0000,,Foi consagrado aqui no\NSantuário de Hakuto.
+Dialogue: 0,0:08:51.61,0:08:57.53,Default,,0000,0000,0000,,Como a divindade curou uma lebre,\Ncujo pelo fora arrancado por um tubarão,
+Dialogue: 0,0:08:57.62,0:09:02.12,Default,,0000,0000,0000,,o santuário é venerado pelos benefícios\Nàqueles com doenças de pele e ferimentos.
+Dialogue: 0,0:09:05.29,0:09:07.88,Default,,0000,0000,0000,,Senpai, olha!\NBolo em formato de coelho.
+Dialogue: 0,0:09:08.25,0:09:10.42,Default,,0000,0000,0000,,Nossa, parecem deliciosos.
+Dialogue: 0,0:09:11.71,0:09:13.80,Default,,0000,0000,0000,,Uzaki, quem é esse?
+Dialogue: 0,0:09:13.88,0:09:15.47,Default,,0000,0000,0000,,O balconista da loja.
+Dialogue: 0,0:09:15.55,0:09:17.39,Default,,0000,0000,0000,,Se importaria de pagar, por favor?
+Dialogue: 0,0:09:17.76,0:09:19.68,Default,,0000,0000,0000,,Muito agradecida, Senpai!
+Dialogue: 0,0:09:19.76,0:09:21.26,Default,,0000,0000,0000,,Agora é por minha conta?
+Dialogue: 0,0:09:24.48,0:09:27.10,Default,,0000,0000,0000,,Macio e suculento, tão delicioso.
+Dialogue: 0,0:09:27.19,0:09:29.11,Default,,0000,0000,0000,,Que bom pra você.
+Dialogue: 0,0:09:29.19,0:09:31.94,Default,,0000,0000,0000,,Não fique tão bravo. Toma!
+Dialogue: 0,0:09:32.03,0:09:34.07,Default,,0000,0000,0000,,Tem o suficiente pra você também.
+Dialogue: 0,0:09:34.82,0:09:36.78,Default,,0000,0000,0000,,Está bem, vou comer.
+Dialogue: 0,0:09:37.11,0:09:39.37,Default,,0000,0000,0000,,"Ah, ele vai me devorar!"
+Dialogue: 0,0:09:41.87,0:09:44.41,Default,,0000,0000,0000,,"Maldito sejam, humanos!"
+Dialogue: 0,0:09:46.50,0:09:47.50,Default,,0000,0000,0000,,"Não!
+Dialogue: 0,0:09:47.58,0:09:50.42,Default,,0000,0000,0000,,Para com isso!\NNão consigo comer assim.
+Dialogue: 0,0:09:50.92,0:09:52.17,Default,,0000,0000,0000,,Você não vai comer isso?
+Dialogue: 0,0:09:52.84,0:09:55.59,Default,,0000,0000,0000,,Bom, então não ligue se eu comer.
+Dialogue: 0,0:09:55.88,0:09:57.80,Default,,0000,0000,0000,,Comeu a metade numa mordida só!
+Dialogue: 0,0:10:00.39,0:10:02.35,Default,,0000,0000,0000,,Mais uma mordida.
+Dialogue: 0,0:10:02.89,0:10:04.02,Default,,0000,0000,0000,,Até parece!
+Dialogue: 0,0:10:07.19,0:10:08.19,Default,,0000,0000,0000,,Deu mole!
+Dialogue: 0,0:10:09.85,0:10:11.65,Default,,0000,0000,0000,,A distração é o pior inimigo.
+Dialogue: 0,0:10:12.11,0:10:13.40,Default,,0000,0000,0000,,Escute isso...
+Dialogue: 0,0:10:13.48,0:10:14.94,Default,,0000,0000,0000,,Não é delicioso?
+Dialogue: 0,0:10:15.03,0:10:16.70,Default,,0000,0000,0000,,Com certeza.
+Dialogue: 0,0:10:18.45,0:10:19.86,Default,,0000,0000,0000,,Está bem, abra a boca.
+Dialogue: 0,0:10:22.16,0:10:24.41,Default,,0000,0000,0000,,Você comeu a metade!
+Dialogue: 0,0:10:29.00,0:10:32.54,Default,,0000,0000,0000,,Precisa tomar cuidado,\Nantes de sair fazendo tudo com vontade!
+Dialogue: 0,0:10:33.42,0:10:34.55,Default,,0000,0000,0000,,É mesmo...
+Dialogue: 0,0:10:35.09,0:10:36.17,Default,,0000,0000,0000,,Para de olhar!
+Dialogue: 0,0:10:41.34,0:10:42.47,Default,,0000,0000,0000,,Então é isso?
+Dialogue: 0,0:10:42.85,0:10:47.85,Default,,0000,0000,0000,,Sim, logo eles devem descobrir\Na verdade sobre Tottori.
+Dialogue: 0,0:10:53.61,0:10:56.07,Default,,0000,0000,0000,,Que nossa viagem\Nacabe sem problemas.
+Dialogue: 0,0:10:56.15,0:10:58.74,Default,,0000,0000,0000,,Que a solidão do Senpai seja curada.
+Dialogue: 0,0:10:59.11,0:11:00.74,Default,,0000,0000,0000,,Não sou solitário.
+Dialogue: 0,0:11:01.16,0:11:05.49,Default,,0000,0000,0000,,Olha, eles têm bilhetes da sorte,\NSenpai! Vamos ver quem ganha.
+Dialogue: 0,0:11:05.58,0:11:07.79,Default,,0000,0000,0000,,Não é uma competição.
+Dialogue: 0,0:11:07.87,0:11:09.21,Default,,0000,0000,0000,,Mas vamos lá.
+Dialogue: 0,0:11:09.71,0:11:11.25,Default,,0000,0000,0000,,Sorte Mediana,
+Dialogue: 0,0:11:09.71,0:11:11.25,Signs,,0000,0000,0000,,NÚMERO 11: SORTE MEDIANA
+Dialogue: 0,0:11:11.33,0:11:12.79,Default,,0000,0000,0000,,esse tem que ser o vencedor.
+Dialogue: 0,0:11:15.84,0:11:17.55,Signs,,0000,0000,0000,,NÚMERO 18: SORTE GRANDE
+Dialogue: 0,0:11:17.63,0:11:22.01,Default,,0000,0000,0000,,Boa tentativa.\NO meu é "Sorte Grande".
+Dialogue: 0,0:11:22.68,0:11:24.47,Default,,0000,0000,0000,,Acho que ganhei.
+Dialogue: 0,0:11:24.60,0:11:30.48,Default,,0000,0000,0000,,Qual a sensação de se gabar da\Nsorte mediana e depois perder, hein?
+Dialogue: 0,0:11:31.44,0:11:32.98,Default,,0000,0000,0000,,Não sei o que dizer.
+Dialogue: 0,0:11:33.94,0:11:36.19,Default,,0000,0000,0000,,Então agora vamos\Nver o que diz aqui.
+Dialogue: 0,0:11:36.73,0:11:40.53,Default,,0000,0000,0000,,"Hobby: é bom em jogos. Personalidade:\Ncombina com um solitário.
+Dialogue: 0,0:11:40.95,0:11:43.62,Default,,0000,0000,0000,,Idade: que seja um ano mais velho.
+Dialogue: 0,0:11:43.70,0:11:46.20,Default,,0000,0000,0000,,Localização: bem na sua frente".
+Dialogue: 0,0:11:47.16,0:11:48.16,Default,,0000,0000,0000,,O quê?
+Dialogue: 0,0:11:51.16,0:11:53.38,Default,,0000,0000,0000,,Que tipo de bilhetes\Nda sorte são esses?
+Dialogue: 0,0:11:53.75,0:11:54.83,Default,,0000,0000,0000,,O quê?
+Dialogue: 0,0:12:00.38,0:12:02.72,Default,,0000,0000,0000,,Não me diga que este templo é...
+Dialogue: 0,0:12:04.26,0:12:07.47,Default,,0000,0000,0000,,"Santuário Hakuto,\Ncasais", pesquisar.
+Dialogue: 0,0:12:08.89,0:12:11.69,Default,,0000,0000,0000,,Parece que finalmente descobriram.
+Dialogue: 0,0:12:12.39,0:12:15.02,Default,,0000,0000,0000,,Você descobriu a verdade\Nsobre o Santuário Hakuto.
+Dialogue: 0,0:12:15.48,0:12:17.73,Default,,0000,0000,0000,,A verdade sobre a própria Tottori.
+Dialogue: 0,0:12:18.02,0:12:19.57,Default,,0000,0000,0000,,Vocês sabiam?
+Dialogue: 0,0:12:19.90,0:12:21.95,Default,,0000,0000,0000,,Não fizemos toda\Naquela turnê por nada.
+Dialogue: 0,0:12:22.03,0:12:27.78,Default,,0000,0000,0000,,Aquele mito associou Hakuto Jinja à\Ncurar doenças de pele e ferimentos.
+Dialogue: 0,0:12:28.33,0:12:30.45,Default,,0000,0000,0000,,Mas era só um disfarce.
+Dialogue: 0,0:12:31.12,0:12:35.29,Default,,0000,0000,0000,,Aquela mesma lebre arranjou um casamento\Nentre Ōkuninushi-no-Mikoto e Yagamihime.
+Dialogue: 0,0:12:35.38,0:12:38.04,Default,,0000,0000,0000,,Portanto, é a primeira\Nhistória de amor do Japão.
+Dialogue: 0,0:12:38.13,0:12:41.55,Default,,0000,0000,0000,,Hakuto é um santuário do amor,\Nque concorre com o Santuário de Izumo!
+Dialogue: 0,0:12:42.01,0:12:44.80,Default,,0000,0000,0000,,E Tottori é a casa de\Nmais dois lugares,
+Dialogue: 0,0:12:44.88,0:12:49.06,Default,,0000,0000,0000,,ambos verdadeiras mecas para os amantes,\Nno mesmo nível do Santuário de Hakuto.
+Dialogue: 0,0:12:49.14,0:12:50.68,Default,,0000,0000,0000,,Entendeu o que eu disse?
+Dialogue: 0,0:12:52.73,0:12:54.02,Default,,0000,0000,0000,,Não acredito...
+Dialogue: 0,0:12:54.52,0:12:59.15,Default,,0000,0000,0000,,Dizer que os turistas de Tottori\Nsão somente casais apaixonados
+Dialogue: 0,0:12:59.23,0:13:00.44,Default,,0000,0000,0000,,não é um exagero!
+Dialogue: 0,0:13:00.57,0:13:02.03,Signs,,0000,0000,0000,,É UM EXAGERO
+Dialogue: 0,0:13:02.11,0:13:04.70,Default,,0000,0000,0000,,Este é o lugar que vocês,\Ncomo um casal, vieram visitar.
+Dialogue: 0,0:13:04.78,0:13:08.53,Default,,0000,0000,0000,,É assim que todos os\Noutros veem vocês aqui.
+Dialogue: 0,0:13:09.58,0:13:11.54,Default,,0000,0000,0000,,"Não estou muito pesada,\Nnão é, amor?"
+Dialogue: 0,0:13:12.12,0:13:16.04,Default,,0000,0000,0000,,"Você é mais leve que um besouro das\Ndunas de Tottori, minha querida!"
+Dialogue: 0,0:13:16.71,0:13:19.50,Default,,0000,0000,0000,,"Vamos ter muitas lembranças da\Nnossa viagem juntos, meu amor!"
+Dialogue: 0,0:13:20.38,0:13:23.26,Default,,0000,0000,0000,,"Vou levar tudo da prateleira!"
+Dialogue: 0,0:13:23.67,0:13:27.09,Default,,0000,0000,0000,,"Querido, prove primeiro as orelhas,\Nfica mais gostoso assim."
+Dialogue: 0,0:13:27.43,0:13:30.35,Default,,0000,0000,0000,,"Sou o tipo de cara que gosta\Ndo rabo primeiro, meu docinho."
+Dialogue: 0,0:13:30.72,0:13:32.39,Default,,0000,0000,0000,,Só podem estar de brincadeira!
+Dialogue: 0,0:13:32.47,0:13:35.52,Default,,0000,0000,0000,,Mas as pessoas pensaram mesmo\Nque vocês eram um casal.
+Dialogue: 0,0:13:36.39,0:13:39.27,Default,,0000,0000,0000,,Sak e Hana, namoradinhos!
+Dialogue: 0,0:13:39.36,0:13:41.07,Default,,0000,0000,0000,,- Seu idiota...\N- Beija, beija!
+Dialogue: 0,0:13:41.15,0:13:45.40,Default,,0000,0000,0000,,Do que está falando?\NEu e o Senpai de amorzinho?
+Dialogue: 0,0:13:45.49,0:13:46.78,Default,,0000,0000,0000,,Até parece.
+Dialogue: 0,0:13:47.24,0:13:48.99,Default,,0000,0000,0000,,Abre o jogo.
+Dialogue: 0,0:13:49.07,0:13:52.74,Default,,0000,0000,0000,,Por que tudo pra você\Ntem a ver com amor?
+Dialogue: 0,0:13:52.83,0:13:55.58,Default,,0000,0000,0000,,Você só pensa nisso?\NPor acaso é algum fanático por amor?
+Dialogue: 0,0:13:56.12,0:13:58.21,Default,,0000,0000,0000,,Você não tem jeito.
+Dialogue: 0,0:14:02.92,0:14:08.72,Default,,0000,0000,0000,,Com 1.700m de altura, Daisen é a\Nmontanha mais alta da região de Chugoku.
+Dialogue: 0,0:14:09.30,0:14:14.93,Default,,0000,0000,0000,,Um destino para todas as estações,\Ncom as cores do outono, e neve no inverno.
+Dialogue: 0,0:14:15.39,0:14:17.48,Default,,0000,0000,0000,,É mais um lugar para\Ncasais apaixonados.
+Dialogue: 0,0:14:17.56,0:14:19.02,Default,,0000,0000,0000,,De novo não.
+Dialogue: 0,0:14:19.10,0:14:21.52,Default,,0000,0000,0000,,Isso não tem nada a ver com a gente.
+Dialogue: 0,0:14:22.27,0:14:23.94,Default,,0000,0000,0000,,Vamos, Senpai. O nosso chegou.
+Dialogue: 0,0:14:27.70,0:14:29.95,Default,,0000,0000,0000,,Um banco para casal. Que maravilha!
+Dialogue: 0,0:14:30.03,0:14:32.28,Default,,0000,0000,0000,,Eles devem estar mesmo apaixonados.
+Dialogue: 0,0:14:32.37,0:14:35.20,Default,,0000,0000,0000,,Sak e Hana, namoradinhos!
+Dialogue: 0,0:14:38.21,0:14:39.33,Default,,0000,0000,0000,,Pode ir na frente.
+Dialogue: 0,0:14:40.29,0:14:43.04,Default,,0000,0000,0000,,- Ele joga no outro time, entendi!\N- O quê?
+Dialogue: 0,0:14:43.13,0:14:44.80,Default,,0000,0000,0000,,Que "outro time"?
+Dialogue: 0,0:14:44.92,0:14:46.67,Default,,0000,0000,0000,,Está me colocando nisso também?
+Dialogue: 0,0:14:57.93,0:15:01.81,Default,,0000,0000,0000,,Só queria curtir a\Nminha viagem em Tottori.
+Dialogue: 0,0:15:01.90,0:15:04.02,Default,,0000,0000,0000,,Não é assim quando estou com a...
+Dialogue: 0,0:15:13.32,0:15:14.41,Default,,0000,0000,0000,,Uzaki!
+Dialogue: 0,0:15:14.49,0:15:15.49,Default,,0000,0000,0000,,O quê?
+Dialogue: 0,0:15:15.83,0:15:18.66,Default,,0000,0000,0000,,Viemos aqui em Tottori\Npara nos divertir.
+Dialogue: 0,0:15:18.75,0:15:21.88,Default,,0000,0000,0000,,Visitar as dunas,\Ncomer as comidas típicas
+Dialogue: 0,0:15:21.96,0:15:25.25,Default,,0000,0000,0000,,e nos divertir com todas aquelas\Ncoisas de Conan e Kitaro.
+Dialogue: 0,0:15:25.63,0:15:26.71,Default,,0000,0000,0000,,Não é?
+Dialogue: 0,0:15:26.80,0:15:28.76,Default,,0000,0000,0000,,Bem... sim.
+Dialogue: 0,0:15:28.84,0:15:32.43,Default,,0000,0000,0000,,Certo! Então vamos esquecer\Nos outros e aproveitar!
+Dialogue: 0,0:15:33.05,0:15:34.18,Default,,0000,0000,0000,,Senpai...
+Dialogue: 0,0:15:34.55,0:15:36.06,Default,,0000,0000,0000,,Vamos mostrar a eles!
+Dialogue: 0,0:15:36.89,0:15:38.31,Default,,0000,0000,0000,,Pode apostar!
+Dialogue: 0,0:15:42.60,0:15:44.90,Default,,0000,0000,0000,,Droga, Tottori,\Npor que não colabora?
+Dialogue: 0,0:15:44.98,0:15:47.53,Default,,0000,0000,0000,,Tottori!
+Dialogue: 0,0:15:53.53,0:15:57.79,Default,,0000,0000,0000,,Com 850 anos de história,
+Dialogue: 0,0:15:57.87,0:16:00.33,Default,,0000,0000,0000,,Misasa tem as melhores\Nfontes termais do mundo.
+Dialogue: 0,0:16:00.41,0:16:03.92,Default,,0000,0000,0000,,É a terra de muitos tipos de\Ntratamentos com fontes termais.
+Dialogue: 0,0:16:04.42,0:16:09.05,Default,,0000,0000,0000,,Dizem que qualquer doença será curada\Ndepois de passar três manhãs aqui,
+Dialogue: 0,0:16:09.13,0:16:10.76,Default,,0000,0000,0000,,nestas águas termais.
+Dialogue: 0,0:16:10.84,0:16:15.64,Default,,0000,0000,0000,,Por isso, o nome é escrito com\Nos caracteres "três" e "manhã".
+Dialogue: 0,0:16:16.43,0:16:17.64,Default,,0000,0000,0000,,Até mais tarde.
+Dialogue: 0,0:16:17.72,0:16:18.77,Default,,0000,0000,0000,,Até.
+Dialogue: 0,0:16:24.40,0:16:25.86,Default,,0000,0000,0000,,Estou tão cansada.
+Dialogue: 0,0:16:25.94,0:16:28.23,Default,,0000,0000,0000,,Fizemos muitas coisas hoje.
+Dialogue: 0,0:16:28.57,0:16:33.07,Default,,0000,0000,0000,,Vai mesmo ficar comigo, sendo que agora\Npode dividir o quarto com Sakurai?
+Dialogue: 0,0:16:35.91,0:16:37.83,Default,,0000,0000,0000,,Estou brincando.
+Dialogue: 0,0:16:38.74,0:16:41.75,Default,,0000,0000,0000,,O que pensa que está fazendo?\NEra a sua chance.
+Dialogue: 0,0:16:41.83,0:16:45.04,Default,,0000,0000,0000,,Eu te disse, não é bem assim.
+Dialogue: 0,0:16:45.75,0:16:46.75,Default,,0000,0000,0000,,Ei!
+Dialogue: 0,0:16:47.88,0:16:49.71,Default,,0000,0000,0000,,Mas vai ser.
+Dialogue: 0,0:16:50.55,0:16:52.22,Default,,0000,0000,0000,,Itsuhito...
+Dialogue: 0,0:16:52.80,0:16:56.26,Default,,0000,0000,0000,,Olha, você está errado, está bem?
+Dialogue: 0,0:16:56.34,0:16:59.10,Default,,0000,0000,0000,,Senpai, vamos tomar banho na sauna.
+Dialogue: 0,0:17:06.86,0:17:08.52,Default,,0000,0000,0000,,Não faça isso!
+Dialogue: 0,0:17:09.73,0:17:15.61,Default,,0000,0000,0000,,Na Fonte Termal Misasa, as águas são para\Nbanho, para beber e inspirar o vapor.
+Dialogue: 0,0:17:15.99,0:17:20.62,Default,,0000,0000,0000,,Inalar a névoa do banho de\Nvapor cura tudo o que aflige
+Dialogue: 0,0:17:20.70,0:17:22.12,Default,,0000,0000,0000,,de dentro pra fora.
+Dialogue: 0,0:17:22.45,0:17:26.37,Default,,0000,0000,0000,,Aposto que vai curar sua cara\Nmalvada se você inalar o suficiente.
+Dialogue: 0,0:17:26.46,0:17:30.34,Default,,0000,0000,0000,,É melhor eu começar a respirar então,\Nnão é? Ei, isso foi rude.
+Dialogue: 0,0:17:30.42,0:17:33.09,Default,,0000,0000,0000,,Seu lado indiferente\Nestá de volta, Sakurai.
+Dialogue: 0,0:17:33.17,0:17:35.72,Default,,0000,0000,0000,,Está tão quente,\Nque é o máximo que ele consegue.
+Dialogue: 0,0:17:37.89,0:17:39.80,Default,,0000,0000,0000,,Nossa, você está suando muito.
+Dialogue: 0,0:17:39.89,0:17:41.93,Default,,0000,0000,0000,,É um suor infinito.
+Dialogue: 0,0:17:43.64,0:17:46.35,Default,,0000,0000,0000,,Posso pegar sua toalha, Senpai?
+Dialogue: 0,0:17:46.44,0:17:48.81,Default,,0000,0000,0000,,Está suando tanto assim?
+Dialogue: 0,0:17:48.90,0:17:52.53,Default,,0000,0000,0000,,Estou derretendo. A toalha...
+Dialogue: 0,0:17:57.16,0:17:59.66,Default,,0000,0000,0000,,Senpai, você está todo\Nmolhado e grudento.
+Dialogue: 0,0:17:59.74,0:18:02.33,Default,,0000,0000,0000,,Isso é culpa sua,\Nsai de cima de mim!
+Dialogue: 0,0:18:05.41,0:18:06.54,Default,,0000,0000,0000,,Isso faz cócegas.
+Dialogue: 0,0:18:06.62,0:18:10.00,Default,,0000,0000,0000,,Desculpe, mas vai ter que aguentar.
+Dialogue: 0,0:18:10.13,0:18:11.96,Default,,0000,0000,0000,,Não, aí não!
+Dialogue: 0,0:18:12.34,0:18:15.67,Default,,0000,0000,0000,,Por favor, deixem pra\Nfazer isso no quarto!
+Dialogue: 0,0:18:16.68,0:18:17.80,Default,,0000,0000,0000,,O quê?
+Dialogue: 0,0:18:25.81,0:18:27.89,Default,,0000,0000,0000,,Que delícia.
+Dialogue: 0,0:18:27.98,0:18:30.02,Default,,0000,0000,0000,,Ainda mais depois de suar tanto.
+Dialogue: 0,0:18:30.11,0:18:35.32,Default,,0000,0000,0000,,Eu estava encharcada.\NO Senpai não quis me dar a toalha dele.
+Dialogue: 0,0:18:35.40,0:18:37.53,Default,,0000,0000,0000,,Ele é tão insensível.
+Dialogue: 0,0:18:37.61,0:18:39.66,Default,,0000,0000,0000,,Está chamando quem de insensível?
+Dialogue: 0,0:18:39.91,0:18:43.08,Default,,0000,0000,0000,,Está nos espiando? Seu pervertido.
+Dialogue: 0,0:18:43.16,0:18:44.62,Default,,0000,0000,0000,,Cala a boca.
+Dialogue: 0,0:18:44.70,0:18:50.46,Default,,0000,0000,0000,,Todo aquele suor deveria ter\Nlimpado a maldade de dentro de você.
+Dialogue: 0,0:18:50.92,0:18:53.34,Default,,0000,0000,0000,,Agora seja mais boazinha.
+Dialogue: 0,0:18:53.75,0:18:55.46,Default,,0000,0000,0000,,"Maldade"?
+Dialogue: 0,0:18:55.92,0:18:59.43,Default,,0000,0000,0000,,Você que é o solitário introvertido,\Ncom cara de vilão.
+Dialogue: 0,0:18:59.80,0:19:04.14,Default,,0000,0000,0000,,Se ao menos você tivesse eliminado\Nno suor toda a sua chatice também...
+Dialogue: 0,0:19:04.22,0:19:06.47,Default,,0000,0000,0000,,Mesmo nessas águas termais,\Neles não param de implicar.
+Dialogue: 0,0:19:06.56,0:19:08.56,Default,,0000,0000,0000,,Que conversa nada sexy.
+Dialogue: 0,0:19:10.77,0:19:11.98,Default,,0000,0000,0000,,Está bem!
+Dialogue: 0,0:19:12.52,0:19:14.44,Default,,0000,0000,0000,,Vamos ver qual de nós é pior.
+Dialogue: 0,0:19:14.52,0:19:16.69,Default,,0000,0000,0000,,Demorou!
+Dialogue: 0,0:19:24.20,0:19:25.29,Default,,0000,0000,0000,,Te peguei.
+Dialogue: 0,0:19:38.97,0:19:40.80,Default,,0000,0000,0000,,Elas não querem entrar.
+Dialogue: 0,0:19:43.47,0:19:47.10,Default,,0000,0000,0000,,Agora peguei o jeito. Posso ganhar.
+Dialogue: 0,0:19:48.93,0:19:52.19,Default,,0000,0000,0000,,Pode colocar essas bolas\Nextras nessa caixa, Senpai.
+Dialogue: 0,0:19:52.27,0:19:54.11,Default,,0000,0000,0000,,Obrigado.
+Dialogue: 0,0:19:54.19,0:19:55.52,Default,,0000,0000,0000,,Claro.
+Dialogue: 0,0:19:55.86,0:19:57.40,Default,,0000,0000,0000,,Agora chega.
+Dialogue: 0,0:19:57.48,0:19:58.90,Default,,0000,0000,0000,,Ei!
+Dialogue: 0,0:20:03.53,0:20:05.70,Default,,0000,0000,0000,,Vamos logo, Senpai!
+Dialogue: 0,0:20:05.78,0:20:07.79,Default,,0000,0000,0000,,Espere por mim.
+Dialogue: 0,0:20:08.08,0:20:10.58,Default,,0000,0000,0000,,Anda logo ou você vai perder.
+Dialogue: 0,0:20:11.00,0:20:12.50,Default,,0000,0000,0000,,Isso é tirania!
+Dialogue: 0,0:20:13.75,0:20:15.79,Default,,0000,0000,0000,,Nada mudou, mesmo\Ndepois daquilo tudo.
+Dialogue: 0,0:20:16.13,0:20:20.47,Default,,0000,0000,0000,,Tudo bem, eles continuam\Ninteressantes do mesmo jeito.
+Dialogue: 0,0:20:21.97,0:20:23.80,Default,,0000,0000,0000,,Será mesmo?
+Dialogue: 0,0:20:24.43,0:20:26.81,Default,,0000,0000,0000,,Um sapo. Pra que serve isso?
+Dialogue: 0,0:20:26.89,0:20:28.47,Default,,0000,0000,0000,,Também queria saber.
+Dialogue: 0,0:20:30.14,0:20:31.14,Signs,,0000,0000,0000,,SAPO KAJIKA CASAMENTEIRO
+Dialogue: 0,0:20:31.23,0:20:33.19,Default,,0000,0000,0000,,Um sapo Kajika casamenteiro?
+Dialogue: 0,0:20:33.27,0:20:35.69,Default,,0000,0000,0000,,"Esfregue o sapo para ter\No casamento dos sonhos."
+Dialogue: 0,0:20:38.90,0:20:41.19,Default,,0000,0000,0000,,Você tinha razão.
+Dialogue: 0,0:20:41.28,0:20:42.53,Default,,0000,0000,0000,,Eu não disse?
+Dialogue: 0,0:20:43.15,0:20:45.12,Default,,0000,0000,0000,,Ainda bem que acabamos de ver isso.
+Dialogue: 0,0:20:49.62,0:20:50.62,Signs,,0000,0000,0000,,ESTRADA SHIGERU MIZUKI
+Dialogue: 0,0:20:50.70,0:20:52.58,Default,,0000,0000,0000,,Temos que completar o\Npasseio com esse lugar.
+Dialogue: 0,0:20:53.87,0:20:56.63,Default,,0000,0000,0000,,Senpai, olha só esses youkai!
+Dialogue: 0,0:20:56.71,0:20:59.50,Default,,0000,0000,0000,,Conheço alguns, mas tem outros\Nque eu nunca tinha visto.
+Dialogue: 0,0:21:01.05,0:21:04.01,Default,,0000,0000,0000,,Há 177 estátuas de\Nbronze de youkais,
+Dialogue: 0,0:21:04.09,0:21:08.76,Default,,0000,0000,0000,,ao longo de 800m dessa rua,\Nque leva à estação Sakaiminato.
+Dialogue: 0,0:21:09.35,0:21:12.14,Default,,0000,0000,0000,,Nossa, 177 estátuas? Incrível!
+Dialogue: 0,0:21:12.52,0:21:14.27,Default,,0000,0000,0000,,O que é isso, Senpai?
+Dialogue: 0,0:21:14.35,0:21:15.94,Default,,0000,0000,0000,,Um dragão?
+Dialogue: 0,0:21:16.31,0:21:19.61,Default,,0000,0000,0000,,Vamos ver... não! É um shiro-uneri.
+Dialogue: 0,0:21:19.69,0:21:21.94,Default,,0000,0000,0000,,Shiro-uneri?
+Dialogue: 0,0:21:22.03,0:21:24.11,Default,,0000,0000,0000,,Próximo. O que é isso?
+Dialogue: 0,0:21:24.20,0:21:25.36,Default,,0000,0000,0000,,Um lagostim?
+Dialogue: 0,0:21:25.45,0:21:27.91,Default,,0000,0000,0000,,É um amikiri.
+Dialogue: 0,0:21:27.99,0:21:30.24,Default,,0000,0000,0000,,Esses são difíceis. Qual o próximo?
+Dialogue: 0,0:21:30.33,0:21:32.66,Default,,0000,0000,0000,,- Bem aqui!\N- Um Yeti!
+Dialogue: 0,0:21:32.75,0:21:37.54,Default,,0000,0000,0000,,Que coisa é essa de Yeti?\NIsso nem é japonês, nossa!
+Dialogue: 0,0:21:38.63,0:21:41.42,Default,,0000,0000,0000,,Droga. Tenta adivinhar o próximo.
+Dialogue: 0,0:21:41.50,0:21:43.05,Default,,0000,0000,0000,,Espera, isso é um...
+Dialogue: 0,0:21:43.13,0:21:45.38,Default,,0000,0000,0000,,É um Rokuro-Kubi!
+Dialogue: 0,0:21:45.47,0:21:47.01,Default,,0000,0000,0000,,Eu sabia esse!
+Dialogue: 0,0:21:49.22,0:21:50.68,Default,,0000,0000,0000,,Vamos!
+Dialogue: 0,0:21:49.22,0:21:50.68,Signs,,0000,0000,0000,,MUSEU SHIGERU MIZUKI
+Dialogue: 0,0:21:54.39,0:21:55.77,Default,,0000,0000,0000,,É aqui mesmo.
+Dialogue: 0,0:21:55.85,0:21:58.56,Default,,0000,0000,0000,,O Museu Shigeru Mizuki é imperdível.
+Dialogue: 0,0:21:59.27,0:22:01.07,Signs,,0000,0000,0000,,MUSEU SHIGERU MIZUKI
+Dialogue: 0,0:23:39.12,0:23:40.58,Signs,,0000,0000,0000,,EPISÓDIO 11: SAKURAI QUER DIVERSÃO TAMBÉM?
+Dialogue: 0,0:23:40.67,0:23:43.17,Default,,0000,0000,0000,,Olha só, ao menos uma\Nvez meu nome apareceu.
