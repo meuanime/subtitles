@@ -1,0 +1,380 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:06.33,0:00:07.71,Default,,0000,0000,0000,,Let's get going!
+Dialogue: 0,0:00:07.71,0:00:11.67,On Top,,0000,0000,0000,,"Tottori Sand Dunes Conan Airport"
+Dialogue: 0,0:00:07.96,0:00:09.88,Default,,0000,0000,0000,,Where to first?
+Dialogue: 0,0:00:09.88,0:00:11.80,Default,,0000,0000,0000,,Well, let's see.
+Dialogue: 0,0:00:11.80,0:00:13.72,Default,,0000,0000,0000,,We're in Tottori, so...
+Dialogue: 0,0:00:13.72,0:00:16.22,Default,,0000,0000,0000,,No Starbucks, just Sandbox!
+Dialogue: 0,0:00:16.22,0:00:18.22,Default,,0000,0000,0000,,Crab rich, cash poor!
+Dialogue: 0,0:00:18.22,0:00:20.39,Default,,0000,0000,0000,,Welcome to Tottori Prefecture!
+Dialogue: 0,0:00:20.39,0:00:23.31,Default,,0000,0000,0000,,What's with that guy, Senpai?
+Dialogue: 0,0:00:23.31,0:00:26.44,Default,,0000,0000,0000,,Don't you know, dummy? Why, he's...
+Dialogue: 0,0:00:26.44,0:00:31.07,Default,,0000,0000,0000,,No 7-Elevens? Still heaven!\NNo 7-Elevens? Still heaven!
+Dialogue: 0,0:00:32.65,0:00:35.66,Default,,0000,0000,0000,,He's a big shot.
+Dialogue: 0,0:00:35.66,0:00:38.37,Default,,0000,0000,0000,,We should probably hit the sand dunes first.
+Dialogue: 0,0:00:38.37,0:00:41.54,Default,,0000,0000,0000,,Says here we can paraglide--or go sandboarding!
+Dialogue: 0,0:00:41.54,0:00:43.62,Default,,0000,0000,0000,,You like the more active stuff, huh?
+Dialogue: 0,0:00:43.62,0:00:44.58,Default,,0000,0000,0000,,Oh, yeah.
+Dialogue: 0,0:00:44.58,0:00:49.67,Default,,0000,0000,0000,,All solo activities, I notice.\NYou're going full loner here in Tottori, too!
+Dialogue: 0,0:00:49.67,0:00:52.92,Default,,0000,0000,0000,,And {\i1}you {\i0}still don't know when to zip it.
+Dialogue: 0,0:00:52.92,0:00:54.80,Default,,0000,0000,0000,,So how are we gonna get there?
+Dialogue: 0,0:00:54.80,0:00:57.80,Default,,0000,0000,0000,,We'll take a bus or something.
+Dialogue: 0,0:01:07.06,0:01:08.19,Default,,0000,0000,0000,,Yoohoo!
+Dialogue: 0,0:01:08.19,0:01:09.23,Default,,0000,0000,0000,,Yo!
+Dialogue: 0,0:01:09.23,0:01:10.27,Default,,0000,0000,0000,,Itsuhito!
+Dialogue: 0,0:01:10.27,0:01:11.69,Default,,0000,0000,0000,,Ami!
+Dialogue: 0,0:01:19.57,0:01:26.12,On Top,,0000,0000,0000,,"Uzaki-{\i1}chan {\i0}Wants to Hang Out!"
+Dialogue: 0,0:02:42.57,0:02:47.00,On Top,,0000,0000,0000,,"Episode 10: I Want to Hang Out in Tottori!"
+Dialogue: 0,0:02:44.91,0:02:47.00,Default,,0000,0000,0000,,So you're both here, too!
+Dialogue: 0,0:02:47.33,0:02:51.04,Default,,0000,0000,0000,,Dad gave me a summer break. And then...
+Dialogue: 0,0:02:51.04,0:02:53.71,Default,,0000,0000,0000,,I was thinking of taking\Na trip when she ran into me
+Dialogue: 0,0:02:53.71,0:02:57.84,Default,,0000,0000,0000,,and suggested meeting up with you two here.
+Dialogue: 0,0:02:57.84,0:03:02.43,Default,,0000,0000,0000,,Huh! I feel bad, you guys renting a car and all.
+Dialogue: 0,0:03:02.43,0:03:03.89,Default,,0000,0000,0000,,Nah, it's totally fine.
+Dialogue: 0,0:03:03.89,0:03:06.06,Default,,0000,0000,0000,,You're so thoughtful, Sakaki!
+Dialogue: 0,0:03:06.06,0:03:09.06,Default,,0000,0000,0000,,Your personality's a little iffy,\Nbut you sure are thoughtful!
+Dialogue: 0,0:03:09.06,0:03:10.94,Default,,0000,0000,0000,,That personality, though...
+Dialogue: 0,0:03:10.94,0:03:13.15,Default,,0000,0000,0000,,Please, enough with the compliments!
+Dialogue: 0,0:03:13.15,0:03:15.90,Default,,0000,0000,0000,,Those weren't compliments.
+Dialogue: 0,0:03:15.90,0:03:20.20,Default,,0000,0000,0000,,It's definitely more convenient\Nto travel by car. See?
+Dialogue: 0,0:03:20.20,0:03:22.20,Default,,0000,0000,0000,,It's a lot {\i1}broader {\i0}than I imagined.
+Dialogue: 0,0:03:22.20,0:03:26.08,Default,,0000,0000,0000,,Right? A rental car is a must\Nif you want real freedom.
+Dialogue: 0,0:03:26.08,0:03:28.29,Default,,0000,0000,0000,,Spoken like a seasoned traveler.
+Dialogue: 0,0:03:28.29,0:03:29.70,Default,,0000,0000,0000,,You know me!
+Dialogue: 0,0:03:29.70,0:03:34.13,Default,,0000,0000,0000,,So went our story.\NBut our trip here serves another purpose.
+Dialogue: 0,0:03:34.13,0:03:38.21,Default,,0000,0000,0000,,That's right: Hana and Sakurai,\Nvacationing alone together...
+Dialogue: 0,0:03:38.21,0:03:42.88,Default,,0000,0000,0000,,I view their relationship as hands-off,\Nand even {\i1}I {\i0}couldn't stay away!
+Dialogue: 0,0:03:42.88,0:03:45.55,Default,,0000,0000,0000,,We've been watching over them thus far.
+Dialogue: 0,0:03:45.55,0:03:48.56,Default,,0000,0000,0000,,We have a duty to see\Nthis trip through to its end!
+Dialogue: 0,0:03:48.56,0:03:51.27,Default,,0000,0000,0000,,And we get front-row seats! What a treat!
+Dialogue: 0,0:03:51.27,0:03:53.77,Default,,0000,0000,0000,,Not to mention a trip to Tottori.
+Dialogue: 0,0:03:53.77,0:03:57.19,Default,,0000,0000,0000,,Pure happenstance, but amusing nonetheless.
+Dialogue: 0,0:03:57.19,0:04:01.28,Default,,0000,0000,0000,,These two still don't know the {\i1}real {\i0}Tottori!
+Dialogue: 0,0:04:01.28,0:04:02.53,Default,,0000,0000,0000,,Hey, a 7-Eleven!
+Dialogue: 0,0:04:02.53,0:04:05.37,Default,,0000,0000,0000,,Hey, yeah! So they {\i1}do {\i0}have them.
+Dialogue: 0,0:04:05.45,0:04:07.91,On Top,,0000,0000,0000,,"Tottori Sand Dunes National Park"
+Dialogue: 0,0:04:15.88,0:04:18.38,Default,,0000,0000,0000,,When you see them in person,\Nthey really are spectacular.
+Dialogue: 0,0:04:18.38,0:04:21.34,Default,,0000,0000,0000,,Aren't they? What a sight!
+Dialogue: 0,0:04:21.34,0:04:24.68,Default,,0000,0000,0000,,The Tottori Sand Dunes\Nmeasure 2.4 km north to south
+Dialogue: 0,0:04:24.68,0:04:26.85,Default,,0000,0000,0000,,and 16 km east to west.
+Dialogue: 0,0:04:26.85,0:04:31.93,Default,,0000,0000,0000,,They're the largest\Naccessible sand dunes in Japan.
+Dialogue: 0,0:04:31.93,0:04:37.23,Default,,0000,0000,0000,,The dune in front there is called\Nthe Horse's Back; it's about 50 meters high.
+Dialogue: 0,0:04:37.23,0:04:40.57,Default,,0000,0000,0000,,It's quite popular:\Nyou can see the entirety of the dunes
+Dialogue: 0,0:04:40.57,0:04:43.70,Default,,0000,0000,0000,,and take in views of\Nthe Japan Sea from its peak.
+Dialogue: 0,0:04:43.70,0:04:45.99,Default,,0000,0000,0000,,Wow, nice!
+Dialogue: 0,0:04:47.03,0:04:50.58,Default,,0000,0000,0000,,All right, Senpai! Race you to the ocean!
+Dialogue: 0,0:04:50.58,0:04:52.62,Default,,0000,0000,0000,,You're on!
+Dialogue: 0,0:04:52.62,0:04:55.75,Default,,0000,0000,0000,,If I win, you owe me a {\i1}nashi {\i0}pear ice cream!
+Dialogue: 0,0:04:55.75,0:04:59.29,Default,,0000,0000,0000,,And if {\i1}I {\i0}win, {\i1}you {\i0}owe {\i1}me{\i0}\Na sand-dune coffee ice cream!
+Dialogue: 0,0:04:59.29,0:05:01.13,Default,,0000,0000,0000,,Okay, here goes.
+Dialogue: 0,0:05:01.13,0:05:02.51,Default,,0000,0000,0000,,Get set...
+Dialogue: 0,0:05:02.51,0:05:03.76,Default,,0000,0000,0000,,Go!
+Dialogue: 0,0:05:09.43,0:05:14.60,Default,,0000,0000,0000,,The sand's really grabbing my feet.\NThis is {\i1}tough{\i0}!
+Dialogue: 0,0:05:14.60,0:05:15.94,Default,,0000,0000,0000,,Hey, hey!
+Dialogue: 0,0:05:15.94,0:05:16.90,Default,,0000,0000,0000,,Wha--
+Dialogue: 0,0:05:16.90,0:05:19.15,Default,,0000,0000,0000,,Hey! What is {\i1}that{\i0}?
+Dialogue: 0,0:05:19.15,0:05:23.99,Default,,0000,0000,0000,,A sandboard, just like you were\Ntalking about! I reserved one!
+Dialogue: 0,0:05:23.99,0:05:25.28,Default,,0000,0000,0000,,That's not fair!
+Dialogue: 0,0:05:25.28,0:05:29.32,Default,,0000,0000,0000,,Ha! A contest begins well before it starts!
+Dialogue: 0,0:05:29.32,0:05:31.12,Default,,0000,0000,0000,,Catch you on the flip side!
+Dialogue: 0,0:05:31.12,0:05:32.79,Default,,0000,0000,0000,,Dammit!
+Dialogue: 0,0:05:34.75,0:05:38.54,Default,,0000,0000,0000,,You'll never catch up to me, Sen... pai?
+Dialogue: 0,0:05:40.04,0:05:43.17,Default,,0000,0000,0000,,Hold it right there!
+Dialogue: 0,0:05:54.39,0:05:56.43,Default,,0000,0000,0000,,I win.
+Dialogue: 0,0:05:58.19,0:06:04.07,Default,,0000,0000,0000,,A competition...\Nagainst this... beautiful backdrop...
+Dialogue: 0,0:06:04.07,0:06:06.70,Default,,0000,0000,0000,,Have you no {\i1}soul{\i0}?
+Dialogue: 0,0:06:06.70,0:06:11.78,Default,,0000,0000,0000,,I admire your nerve, whining\Nabout losing under the circumstances.
+Dialogue: 0,0:06:11.78,0:06:13.49,Default,,0000,0000,0000,,Still...
+Dialogue: 0,0:06:13.49,0:06:19.04,Default,,0000,0000,0000,,It really is beautiful.\NMakes our race seem like small potatoes.
+Dialogue: 0,0:06:19.04,0:06:20.50,Default,,0000,0000,0000,,So I don't owe you?
+Dialogue: 0,0:06:20.50,0:06:22.13,Default,,0000,0000,0000,,No--you do.
+Dialogue: 0,0:06:25.84,0:06:28.05,Default,,0000,0000,0000,,Excuse me!
+Dialogue: 0,0:06:28.05,0:06:30.30,Default,,0000,0000,0000,,Could you please take our picture?
+Dialogue: 0,0:06:30.30,0:06:31.85,Default,,0000,0000,0000,,Oh, sure.
+Dialogue: 0,0:06:31.85,0:06:34.47,Default,,0000,0000,0000,,Thank you!
+Dialogue: 0,0:06:34.47,0:06:37.06,Default,,0000,0000,0000,,Tottori!
+Dialogue: 0,0:06:40.40,0:06:42.52,Default,,0000,0000,0000,,Thank you very much!
+Dialogue: 0,0:06:42.52,0:06:45.44,Default,,0000,0000,0000,,Oh, Atsy-pie, you look {\i1}so cool {\i0}in that shot!
+Dialogue: 0,0:06:45.44,0:06:49.70,Default,,0000,0000,0000,,And {\i1}you {\i0}are just {\i1}too cute{\i0}, Miho-Miho!
+Dialogue: 0,0:06:49.70,0:06:52.32,Default,,0000,0000,0000,,Sh-Shall we?
+Dialogue: 0,0:06:52.32,0:06:54.41,Default,,0000,0000,0000,,I can't walk...
+Dialogue: 0,0:06:54.41,0:06:56.54,Default,,0000,0000,0000,,Oh, all right.
+Dialogue: 0,0:06:57.54,0:07:00.29,Default,,0000,0000,0000,,I still have some strength left.
+Dialogue: 0,0:07:08.92,0:07:10.80,Default,,0000,0000,0000,,It's so round!
+Dialogue: 0,0:07:10.80,0:07:16.97,Default,,0000,0000,0000,,This is Japan's oldest circular school building,\Noriginally a primary school.
+Dialogue: 0,0:07:16.97,0:07:20.14,Default,,0000,0000,0000,,Now dilapidated, it was due to be torn down,
+Dialogue: 0,0:07:20.14,0:07:24.36,Default,,0000,0000,0000,,but the many citizens who wanted it\Nto remain spurred officials into action,
+Dialogue: 0,0:07:24.36,0:07:28.36,Default,,0000,0000,0000,,and the building was reborn as a museum!
+Dialogue: 0,0:07:28.36,0:07:31.99,Default,,0000,0000,0000,,Now it has various local specialties on display.
+Dialogue: 0,0:07:31.99,0:07:34.16,Default,,0000,0000,0000,,Regional specialties, eh?
+Dialogue: 0,0:07:34.16,0:07:35.91,Default,,0000,0000,0000,,Like {\i1}nashi {\i0}pears?
+Dialogue: 0,0:07:35.91,0:07:38.24,Default,,0000,0000,0000,,Can't forget Matsuba snow crabs...
+Dialogue: 0,0:07:49.59,0:07:51.30,Default,,0000,0000,0000,,Figurines!
+Dialogue: 0,0:07:51.30,0:07:52.97,Default,,0000,0000,0000,,And Nendoroids, too!
+Dialogue: 0,0:07:52.97,0:07:57.18,Default,,0000,0000,0000,,Tottori is the Manga Prefecture,\Nthe birthplace of many manga artists--
+Dialogue: 0,0:07:57.18,0:08:00.85,Default,,0000,0000,0000,,and home to a figurine factory as well!
+Dialogue: 0,0:08:00.85,0:08:06.27,Default,,0000,0000,0000,,In other words, manga and figurines\Nare indeed local Tottori specialties!
+Dialogue: 0,0:08:06.27,0:08:08.44,Default,,0000,0000,0000,,I'm starting to get that feeling, yes.
+Dialogue: 0,0:08:08.44,0:08:11.07,Default,,0000,0000,0000,,Really packs an irresistible punch.
+Dialogue: 0,0:08:11.07,0:08:13.07,Default,,0000,0000,0000,,Oh, these are adorable!
+Dialogue: 0,0:08:13.07,0:08:15.91,Default,,0000,0000,0000,,Senpai, buy these for me as a souvenir!
+Dialogue: 0,0:08:15.91,0:08:17.70,Default,,0000,0000,0000,,{\i1}Four {\i0}of them?
+Dialogue: 0,0:08:17.70,0:08:21.54,Default,,0000,0000,0000,,They look like four sisters--and\NI want the full set!
+Dialogue: 0,0:08:21.54,0:08:24.67,Default,,0000,0000,0000,,Oh! Different versions! Double or nothing!
+Dialogue: 0,0:08:24.67,0:08:26.96,Default,,0000,0000,0000,,Double--{\i1}nothing{\i0}!
+Dialogue: 0,0:08:27.96,0:08:30.17,Default,,0000,0000,0000,,Tottori!
+Dialogue: 0,0:08:35.14,0:08:36.55,Default,,0000,0000,0000,,A rabbit!
+Dialogue: 0,0:08:36.55,0:08:39.18,Default,,0000,0000,0000,,And that "Mistress Himiko!" person.
+Dialogue: 0,0:08:39.18,0:08:41.64,Default,,0000,0000,0000,,Ōkuninushi-no-Mikoto.
+Dialogue: 0,0:08:41.64,0:08:43.94,Default,,0000,0000,0000,,Also known as Ōnamuji-no-Kami.
+Dialogue: 0,0:08:43.94,0:08:47.52,Default,,0000,0000,0000,,Ōkuninushi-no-Mikoto,\Nfamously of "The White Hare of Inaba,"
+Dialogue: 0,0:08:47.52,0:08:50.48,Default,,0000,0000,0000,,in enshrined here at Hakuto Shrine.
+Dialogue: 0,0:08:51.69,0:08:57.70,Default,,0000,0000,0000,,Because the deity healed a hare\Nwhose fur had been torn off by a shark,
+Dialogue: 0,0:08:57.70,0:09:02.33,Default,,0000,0000,0000,,the shrine is revered for its benefits\Nto those with skin diseases and injuries.
+Dialogue: 0,0:09:05.29,0:09:08.25,Default,,0000,0000,0000,,Senpai, look! Rabbit cakes!
+Dialogue: 0,0:09:08.25,0:09:10.67,Default,,0000,0000,0000,,Wow, those look tasty!
+Dialogue: 0,0:09:11.71,0:09:14.01,Default,,0000,0000,0000,,Er, Uzaki? Who's this?
+Dialogue: 0,0:09:14.01,0:09:15.63,Default,,0000,0000,0000,,The shop clerk.
+Dialogue: 0,0:09:15.63,0:09:17.76,Default,,0000,0000,0000,,Would you mind paying, please?
+Dialogue: 0,0:09:17.76,0:09:19.76,Default,,0000,0000,0000,,Much obliged, Senpai!
+Dialogue: 0,0:09:19.76,0:09:21.81,Default,,0000,0000,0000,,Now it's {\i1}my {\i0}treat?!
+Dialogue: 0,0:09:24.48,0:09:27.15,Default,,0000,0000,0000,,Soft and chewy and oh so delish!
+Dialogue: 0,0:09:27.15,0:09:29.19,Default,,0000,0000,0000,,Good for you.
+Dialogue: 0,0:09:29.19,0:09:32.03,Default,,0000,0000,0000,,Oh, don't be so angry. Here!
+Dialogue: 0,0:09:32.03,0:09:34.82,Default,,0000,0000,0000,,There's enough for you, too.
+Dialogue: 0,0:09:34.82,0:09:37.11,Default,,0000,0000,0000,,All right. Here goes.
+Dialogue: 0,0:09:37.11,0:09:40.20,Default,,0000,0000,0000,,Ack! He's gonna gobble me up!
+Dialogue: 0,0:09:41.87,0:09:44.87,Default,,0000,0000,0000,,Ugh! Curse you humans!
+Dialogue: 0,0:09:46.62,0:09:47.71,Default,,0000,0000,0000,,Nooo!
+Dialogue: 0,0:09:47.71,0:09:50.92,Default,,0000,0000,0000,,Will you shut up? I can't eat like this!
+Dialogue: 0,0:09:50.92,0:09:53.00,Default,,0000,0000,0000,,You're not gonna eat that?
+Dialogue: 0,0:09:53.00,0:09:55.92,Default,,0000,0000,0000,,Well! Don't mind if I do!
+Dialogue: 0,0:09:55.92,0:09:58.26,Default,,0000,0000,0000,,Half! In one bite!
+Dialogue: 0,0:09:58.26,0:10:02.89,Default,,0000,0000,0000,,Mmm-mmm-{\i1}mmm{\i0}! One more bite!
+Dialogue: 0,0:10:02.89,0:10:04.97,Default,,0000,0000,0000,,As if!
+Dialogue: 0,0:10:07.10,0:10:08.52,Default,,0000,0000,0000,,You're wide open!
+Dialogue: 0,0:10:09.85,0:10:12.27,Default,,0000,0000,0000,,Inattention is the greatest foe.
+Dialogue: 0,0:10:12.27,0:10:13.48,Default,,0000,0000,0000,,Look here...
+Dialogue: 0,0:10:13.48,0:10:15.03,Default,,0000,0000,0000,,Isn't it just so delicious?
+Dialogue: 0,0:10:15.03,0:10:17.11,Default,,0000,0000,0000,,Mmm, it sure is!
+Dialogue: 0,0:10:18.41,0:10:20.16,Default,,0000,0000,0000,,Okay: say "ah"!
+Dialogue: 0,0:10:22.24,0:10:24.83,Default,,0000,0000,0000,,Aw, you ate half of it!
+Dialogue: 0,0:10:29.04,0:10:33.42,Default,,0000,0000,0000,,You have to {\i1}notice {\i0}these things\N{\i1}before {\i0}you go off on a roll!
+Dialogue: 0,0:10:33.42,0:10:35.09,Default,,0000,0000,0000,,Right...
+Dialogue: 0,0:10:35.09,0:10:36.46,Default,,0000,0000,0000,,Quit looking at my mouth!
+Dialogue: 0,0:10:41.34,0:10:42.89,Default,,0000,0000,0000,,Is this it?
+Dialogue: 0,0:10:42.89,0:10:48.35,Default,,0000,0000,0000,,Yes. Any minute now and they\Nshould tweak to the truth about Tottori.
+Dialogue: 0,0:10:53.61,0:10:56.23,Default,,0000,0000,0000,,May our travels end without a hitch.
+Dialogue: 0,0:10:56.23,0:10:59.07,Default,,0000,0000,0000,,May Senpai's loner ways be healed.
+Dialogue: 0,0:10:59.07,0:11:01.16,Default,,0000,0000,0000,,I'm not a loner!
+Dialogue: 0,0:11:01.16,0:11:05.58,Default,,0000,0000,0000,,Hey, they have fortunes, Senpai!\NLet's see who wins!
+Dialogue: 0,0:11:05.58,0:11:07.87,Default,,0000,0000,0000,,It's not a competition.
+Dialogue: 0,0:11:07.87,0:11:09.71,Default,,0000,0000,0000,,But sure.
+Dialogue: 0,0:11:09.71,0:11:12.79,On Top,,0000,0000,0000,,"Number 11" "Middling Luck"
+Dialogue: 0,0:11:10.33,0:11:13.13,Default,,0000,0000,0000,,Ha! "Middling Luck"--this {\i1}has {\i0}to be a winner!
+Dialogue: 0,0:11:15.84,0:11:17.55,On Top,,0000,0000,0000,,"Number 18" "Great Luck"
+Dialogue: 0,0:11:17.71,0:11:22.68,Default,,0000,0000,0000,,Nice try! Mine is "Great Luck"--"Great Luck"!
+Dialogue: 0,0:11:22.68,0:11:24.76,Default,,0000,0000,0000,,Looks like I win!
+Dialogue: 0,0:11:24.76,0:11:31.44,Default,,0000,0000,0000,,How's it feel to be all smug about\Nmiddling luck and then {\i1}lose{\i0}, huh? Huh?
+Dialogue: 0,0:11:31.44,0:11:33.94,Default,,0000,0000,0000,,I have no words.
+Dialogue: 0,0:11:33.94,0:11:36.73,Default,,0000,0000,0000,,Now then! What's it say?
+Dialogue: 0,0:11:36.73,0:11:40.95,Default,,0000,0000,0000,,"Hobbies: A gamer is best.\NPersonality: Preferably a loner.
+Dialogue: 0,0:11:40.95,0:11:43.70,Default,,0000,0000,0000,,Age: One year older.
+Dialogue: 0,0:11:43.70,0:11:47.33,Default,,0000,0000,0000,,Direction: Right in front of"...
+Dialogue: 0,0:11:47.33,0:11:48.66,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:11:51.25,0:11:53.75,Default,,0000,0000,0000,,What kind of fortunes {\i1}are {\i0}these?!
+Dialogue: 0,0:11:53.75,0:11:55.09,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:12:00.38,0:12:03.30,Default,,0000,0000,0000,,Don't tell me... is this shrine...
+Dialogue: 0,0:12:04.26,0:12:07.85,Default,,0000,0000,0000,,"Hakuto Shrine couples." "Search."
+Dialogue: 0,0:12:08.97,0:12:12.39,Default,,0000,0000,0000,,Hmph. It seems you've finally arrived.
+Dialogue: 0,0:12:12.39,0:12:15.48,Default,,0000,0000,0000,,You've reached the truth of Hakuto Shrine--
+Dialogue: 0,0:12:15.48,0:12:18.02,Default,,0000,0000,0000,,indeed, that of Tottori itself.
+Dialogue: 0,0:12:18.02,0:12:19.86,Default,,0000,0000,0000,,You {\i1}knew{\i0}?
+Dialogue: 0,0:12:19.86,0:12:22.03,Default,,0000,0000,0000,,We didn't do all that touring for nothing.
+Dialogue: 0,0:12:22.03,0:12:28.33,Default,,0000,0000,0000,,That myth has linked Hakuto Jinja\Nto healing skin conditions and injuries.
+Dialogue: 0,0:12:28.33,0:12:31.16,Default,,0000,0000,0000,,But {\i1}that {\i0}is just a cover!
+Dialogue: 0,0:12:31.16,0:12:35.46,Default,,0000,0000,0000,,That same hare arranged a match between\NŌkuninushi-no-Mikoto and Yagamihime.
+Dialogue: 0,0:12:35.46,0:12:38.09,Default,,0000,0000,0000,,And based on this, Japan's first love story,
+Dialogue: 0,0:12:38.09,0:12:42.13,Default,,0000,0000,0000,,Hakuto is a {\i1}matchmaking{\i0}\Nshrine--rivaling the shrine at Izumo!
+Dialogue: 0,0:12:42.13,0:12:44.88,Default,,0000,0000,0000,,And Tottori is home to two {\i1}more {\i0}sites,
+Dialogue: 0,0:12:44.88,0:12:49.22,Default,,0000,0000,0000,,both veritable meccas for lovers\Non a par with Hakuto Shrine here.
+Dialogue: 0,0:12:49.22,0:12:51.39,Default,,0000,0000,0000,,Do you see what I'm saying?
+Dialogue: 0,0:12:52.60,0:12:54.52,Default,,0000,0000,0000,,No way...
+Dialogue: 0,0:12:54.52,0:12:59.40,Default,,0000,0000,0000,,That's right: to say that\N"Tottori tourists" equals "couples in love"
+Dialogue: 0,0:12:59.40,0:13:00.53,Default,,0000,0000,0000,,is no exaggeration!
+Dialogue: 0,0:13:00.53,0:13:02.03,On Top,,0000,0000,0000,,"It's an exaggeration"
+Dialogue: 0,0:13:02.28,0:13:04.86,Default,,0000,0000,0000,,That's where you two,\Na man and a woman, came to visit.
+Dialogue: 0,0:13:04.86,0:13:09.58,Default,,0000,0000,0000,,And {\i1}this {\i0}is how everyone else saw you!
+Dialogue: 0,0:13:09.58,0:13:12.04,Default,,0000,0000,0000,,"I'm not too heavy, am I, darling?"
+Dialogue: 0,0:13:12.04,0:13:16.79,Default,,0000,0000,0000,,"You're lighter than\Na Tottori dune beetle, my honey!"
+Dialogue: 0,0:13:16.79,0:13:19.71,Default,,0000,0000,0000,,"Mementos of my Tottori trip with you, darling!"
+Dialogue: 0,0:13:20.38,0:13:23.67,Default,,0000,0000,0000,,"I'll take everything on the shelf!"
+Dialogue: 0,0:13:23.67,0:13:27.14,Default,,0000,0000,0000,,"Oh, darling, rabbit cakes\Ntaste best ears first."
+Dialogue: 0,0:13:27.14,0:13:30.72,Default,,0000,0000,0000,,"I'm a tail-first kind of guy, my honey!"
+Dialogue: 0,0:13:30.72,0:13:32.60,Default,,0000,0000,0000,,You have {\i1}got {\i0}to be {\i1}kidding {\i0}me!
+Dialogue: 0,0:13:32.60,0:13:36.39,Default,,0000,0000,0000,,But people totally did think you were a couple.
+Dialogue: 0,0:13:36.39,0:13:39.36,Default,,0000,0000,0000,,Ha ha! Sak and Hana, sittin' in a tree!
+Dialogue: 0,0:13:39.36,0:13:41.15,Default,,0000,0000,0000,,Damn you...
+Dialogue: 0,0:13:39.36,0:13:41.15,On Top,,0000,0000,0000,,K-I-S-S-I-N-G!
+Dialogue: 0,0:13:41.15,0:13:47.24,Default,,0000,0000,0000,,What are you {\i1}talking {\i0}about?\NMe and Senpai, all lovey-dovey? Yeah, right!
+Dialogue: 0,0:13:47.24,0:13:49.07,Default,,0000,0000,0000,,Oh, come off it already!
+Dialogue: 0,0:13:49.07,0:13:52.83,Default,,0000,0000,0000,,Why does everything have\Nto be about love with you, anyway?
+Dialogue: 0,0:13:52.83,0:13:56.12,Default,,0000,0000,0000,,Is that all there is?\NAre you some kind of love fiend?
+Dialogue: 0,0:13:56.12,0:13:58.46,Default,,0000,0000,0000,,You really are hopeless.
+Dialogue: 0,0:14:02.92,0:14:09.30,Default,,0000,0000,0000,,At 1,700 meters tall, Daisen is the\Nhighest mountain in the Chugoku region.
+Dialogue: 0,0:14:09.30,0:14:15.39,Default,,0000,0000,0000,,It's a destination for all seasons with\Nautumn color and snowy winter landscapes.
+Dialogue: 0,0:14:15.39,0:14:17.73,Default,,0000,0000,0000,,And it's another spot for lovers.
+Dialogue: 0,0:14:17.73,0:14:19.23,Default,,0000,0000,0000,,Not that again...
+Dialogue: 0,0:14:19.23,0:14:22.27,Default,,0000,0000,0000,,That has nothing to do with us!
+Dialogue: 0,0:14:22.27,0:14:24.44,Default,,0000,0000,0000,,C'mon, Senpai. Here's the lift.
+Dialogue: 0,0:14:27.70,0:14:30.03,Default,,0000,0000,0000,,A couple's seat! Isn't that wonderful?
+Dialogue: 0,0:14:30.03,0:14:32.37,Default,,0000,0000,0000,,They must be really in love!
+Dialogue: 0,0:14:32.37,0:14:35.79,Default,,0000,0000,0000,,Sak and Hana, sittin' in a tree!
+Dialogue: 0,0:14:38.16,0:14:39.83,Default,,0000,0000,0000,,Please, go ahead.
+Dialogue: 0,0:14:40.29,0:14:42.21,Default,,0000,0000,0000,,Oh! You must play for the other team!
+Dialogue: 0,0:14:42.21,0:14:43.21,Default,,0000,0000,0000,,Oho!
+Dialogue: 0,0:14:43.21,0:14:44.92,Default,,0000,0000,0000,,{\i1}What {\i0}"other team"?!
+Dialogue: 0,0:14:44.92,0:14:47.17,Default,,0000,0000,0000,,You're dragging {\i1}me {\i0}into this?
+Dialogue: 0,0:14:57.89,0:15:01.90,Default,,0000,0000,0000,,I just want to enjoy my Tottori trip!
+Dialogue: 0,0:15:01.90,0:15:04.61,Default,,0000,0000,0000,,It really isn't like that with--
+Dialogue: 0,0:15:13.45,0:15:14.49,Default,,0000,0000,0000,,Uzaki!
+Dialogue: 0,0:15:14.49,0:15:15.74,Default,,0000,0000,0000,,Eeyeah?!
+Dialogue: 0,0:15:15.74,0:15:18.91,Default,,0000,0000,0000,,We came here to hang out in Tottori--that's all.
+Dialogue: 0,0:15:18.91,0:15:21.96,Default,,0000,0000,0000,,To visit the dunes, eat {\i1}nashi {\i0}and Matsuba crabs,
+Dialogue: 0,0:15:21.96,0:15:25.63,Default,,0000,0000,0000,,and have fun with all\Nthe {\i1}Conan {\i0}and {\i1}Kitaro {\i0}stuff!
+Dialogue: 0,0:15:25.63,0:15:26.92,Default,,0000,0000,0000,,Right?
+Dialogue: 0,0:15:26.92,0:15:28.88,Default,,0000,0000,0000,,Uh... yeah.
+Dialogue: 0,0:15:28.88,0:15:33.05,Default,,0000,0000,0000,,All right! So let's forget\Nthe others and enjoy ourselves!
+Dialogue: 0,0:15:33.05,0:15:34.47,Default,,0000,0000,0000,,Senpai...
+Dialogue: 0,0:15:34.47,0:15:36.89,Default,,0000,0000,0000,,We'll show {\i1}them{\i0}!
+Dialogue: 0,0:15:36.89,0:15:38.68,Default,,0000,0000,0000,,Right on!
+Dialogue: 0,0:15:42.65,0:15:44.98,Default,,0000,0000,0000,,Dammit, Tottori, read the {\i1}room{\i0}!
+Dialogue: 0,0:15:44.98,0:15:47.65,Default,,0000,0000,0000,,Tottori!
+Dialogue: 0,0:15:53.70,0:15:57.83,On Top,,0000,0000,0000,,"Towels used with permission\Nfor filming purposes"
+Dialogue: 0,0:15:53.70,0:16:00.54,Default,,0000,0000,0000,,With 850 years of history,\NMisasa is a world-class radium hot spring
+Dialogue: 0,0:16:00.54,0:16:04.42,Default,,0000,0000,0000,,and home to many types of hot-spring treatments.
+Dialogue: 0,0:16:04.42,0:16:10.84,Default,,0000,0000,0000,,It's said that any malady will be cured\Nafter your third morning at this hot spring,
+Dialogue: 0,0:16:10.84,0:16:15.91,Default,,0000,0000,0000,,hence the name: written with\Nthe characters "three" and "morning."
+Dialogue: 0,0:16:16.43,0:16:17.72,Default,,0000,0000,0000,,See you later.
+Dialogue: 0,0:16:17.72,0:16:19.43,Default,,0000,0000,0000,,Yep.
+Dialogue: 0,0:16:24.23,0:16:25.94,Default,,0000,0000,0000,,Phew, I'm beat.
+Dialogue: 0,0:16:25.94,0:16:28.48,Default,,0000,0000,0000,,We did a ton of running around today.
+Dialogue: 0,0:16:28.48,0:16:33.70,Default,,0000,0000,0000,,Are you sure about this? After finally\Ngetting to share a room with Sakurai?
+Dialogue: 0,0:16:35.87,0:16:38.83,Default,,0000,0000,0000,,Just kidding.
+Dialogue: 0,0:16:38.83,0:16:41.83,Default,,0000,0000,0000,,What are you doing? That was your chance!
+Dialogue: 0,0:16:41.83,0:16:45.79,Default,,0000,0000,0000,,I told you, it's not like that.
+Dialogue: 0,0:16:45.79,0:16:47.88,Default,,0000,0000,0000,,Hey.
+Dialogue: 0,0:16:47.88,0:16:50.55,Default,,0000,0000,0000,,It {\i1}will {\i0}be.
+Dialogue: 0,0:16:50.55,0:16:52.72,Default,,0000,0000,0000,,Itsuhito...
+Dialogue: 0,0:16:52.72,0:16:56.43,Default,,0000,0000,0000,,Look, you're wrong, okay?
+Dialogue: 0,0:16:56.43,0:16:59.76,Default,,0000,0000,0000,,Senpai! Let's go to the steam bath--
+Dialogue: 0,0:17:06.90,0:17:08.86,Default,,0000,0000,0000,,Don't you dare!
+Dialogue: 0,0:17:09.77,0:17:16.07,Default,,0000,0000,0000,,At Misasa Hot Spring, the waters are\Nfor soaking, drinking, and breathing in.
+Dialogue: 0,0:17:16.07,0:17:22.37,Default,,0000,0000,0000,,Inhaling the mist at this steam bath\Nwill cure what ails you from the inside out.
+Dialogue: 0,0:17:22.37,0:17:26.46,Default,,0000,0000,0000,,I bet it'll heal your mean face\Nif you inhale enough of it.
+Dialogue: 0,0:17:26.46,0:17:28.96,Default,,0000,0000,0000,,Really? I better get breathing, then.
+Dialogue: 0,0:17:28.96,0:17:30.59,Default,,0000,0000,0000,,Hey. Rude.
+Dialogue: 0,0:17:30.59,0:17:33.42,Default,,0000,0000,0000,,Pretty half-hearted comeback there, Sakurai.
+Dialogue: 0,0:17:33.42,0:17:36.34,Default,,0000,0000,0000,,It's so hot, that's all he can manage.
+Dialogue: 0,0:17:37.80,0:17:39.89,Default,,0000,0000,0000,,Wow, you're sweating buckets.
+Dialogue: 0,0:17:39.89,0:17:43.56,Default,,0000,0000,0000,,It's never-ending.
+Dialogue: 0,0:17:43.56,0:17:46.52,Default,,0000,0000,0000,,Can I have your towel, Senpai?
+Dialogue: 0,0:17:46.52,0:17:48.90,Default,,0000,0000,0000,,Just how sweaty {\i1}are {\i0}you?
+Dialogue: 0,0:17:48.90,0:17:53.44,Default,,0000,0000,0000,,It's pouring out of me. Your towel...
+Dialogue: 0,0:17:57.16,0:17:59.74,Default,,0000,0000,0000,,Senpai, you're all damp and sticky!
+Dialogue: 0,0:17:59.74,0:18:02.66,Default,,0000,0000,0000,,That's {\i1}your {\i0}fault! Get off me!
+Dialogue: 0,0:18:05.41,0:18:06.62,Default,,0000,0000,0000,,That tickles!
+Dialogue: 0,0:18:06.62,0:18:10.21,Default,,0000,0000,0000,,Sorry--you're going to have to deal with it!
+Dialogue: 0,0:18:10.21,0:18:12.56,Default,,0000,0000,0000,,Yow! Not there!
+Dialogue: 0,0:18:12.56,0:18:15.76,Default,,0000,0000,0000,,Please! Save that for\Nthe privacy of your room!
+Dialogue: 0,0:18:16.68,0:18:18.13,Default,,0000,0000,0000,,Eh?
+Dialogue: 0,0:18:25.85,0:18:27.98,Default,,0000,0000,0000,,Ah, this feels great!
+Dialogue: 0,0:18:27.98,0:18:30.06,Default,,0000,0000,0000,,Especially after sweating so much.
+Dialogue: 0,0:18:30.06,0:18:35.40,Default,,0000,0000,0000,,I was soaking wet!\NSenpai wouldn't give me his towel.
+Dialogue: 0,0:18:35.40,0:18:37.61,Default,,0000,0000,0000,,He is {\i1}so {\i0}inconsiderate!
+Dialogue: 0,0:18:37.61,0:18:39.91,Default,,0000,0000,0000,,Who are you calling inconsiderate?
+Dialogue: 0,0:18:39.91,0:18:43.28,Default,,0000,0000,0000,,Are you eavesdropping on us? Pervert!
+Dialogue: 0,0:18:43.28,0:18:44.79,Default,,0000,0000,0000,,Oh, shut up.
+Dialogue: 0,0:18:44.79,0:18:50.92,Default,,0000,0000,0000,,All that sweating must have\Nflushed the badness out of you.
+Dialogue: 0,0:18:50.92,0:18:53.67,Default,,0000,0000,0000,,Now go live an orderly life.
+Dialogue: 0,0:18:53.67,0:18:55.96,Default,,0000,0000,0000,,"Badness"? What "badness"?
+Dialogue: 0,0:18:55.96,0:18:59.80,Default,,0000,0000,0000,,{\i1}You're {\i0}the villain-faced loner introvert!
+Dialogue: 0,0:18:59.80,0:19:04.22,Default,,0000,0000,0000,,If only you'd sweated\Nout your annoyingness, too.
+Dialogue: 0,0:19:04.22,0:19:06.56,Default,,0000,0000,0000,,And at a hot spring, no less.
+Dialogue: 0,0:19:06.56,0:19:09.10,Default,,0000,0000,0000,,What an unsexy conversation.
+Dialogue: 0,0:19:10.69,0:19:12.56,Default,,0000,0000,0000,,All right--fine!
+Dialogue: 0,0:19:12.56,0:19:14.69,Default,,0000,0000,0000,,Let's see which one of us is worse!
+Dialogue: 0,0:19:14.69,0:19:17.03,Default,,0000,0000,0000,,Oh, you are {\i1}on{\i0}!
+Dialogue: 0,0:19:24.37,0:19:26.04,Default,,0000,0000,0000,,Gotcha.
+Dialogue: 0,0:19:39.01,0:19:41.34,Default,,0000,0000,0000,,They're just not going in...
+Dialogue: 0,0:19:43.39,0:19:48.10,Default,,0000,0000,0000,,All right: I've got the hang of it.\NI can win this.
+Dialogue: 0,0:19:48.85,0:19:52.40,Default,,0000,0000,0000,,You can put those\Nextra balls in this box, Senpai.
+Dialogue: 0,0:19:52.40,0:19:54.31,Default,,0000,0000,0000,,Hey, thanks.
+Dialogue: 0,0:19:54.31,0:19:55.94,Default,,0000,0000,0000,,Sure thing.
+Dialogue: 0,0:19:55.94,0:19:57.57,Default,,0000,0000,0000,,Now then...
+Dialogue: 0,0:19:57.57,0:19:58.44,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:19:58.44,0:20:00.40,Default,,0000,0000,0000,,Tch.
+Dialogue: 0,0:20:03.53,0:20:05.78,Default,,0000,0000,0000,,Hurry up, Senpai!
+Dialogue: 0,0:20:05.78,0:20:07.99,Default,,0000,0000,0000,,Wait up, will you?
+Dialogue: 0,0:20:07.99,0:20:11.00,Default,,0000,0000,0000,,Make it snappy or you're gonna lose!
+Dialogue: 0,0:20:11.00,0:20:12.87,Default,,0000,0000,0000,,This is tyranny!
+Dialogue: 0,0:20:13.75,0:20:16.13,Default,,0000,0000,0000,,So nothing changed, after all that.
+Dialogue: 0,0:20:16.13,0:20:20.92,Default,,0000,0000,0000,,That's all right.\NThey're tasty enough just as they are.
+Dialogue: 0,0:20:22.05,0:20:24.43,Default,,0000,0000,0000,,Are they, though?
+Dialogue: 0,0:20:24.43,0:20:26.89,Default,,0000,0000,0000,,A frog! What's this for?
+Dialogue: 0,0:20:26.89,0:20:29.02,Default,,0000,0000,0000,,What, indeed?
+Dialogue: 0,0:20:30.14,0:20:35.73,OS,,0000,0000,0000,,"Matchmaking: The {\i1}Kajika {\i0}Frog"\N"Rub this beloved matchmaking {\i1}kajika {\i0}frog\Nto make your dream match come true."
+Dialogue: 0,0:20:30.93,0:20:33.23,Default,,0000,0000,0000,,A matchmaking {\i1}kajika {\i0}frog?
+Dialogue: 0,0:20:33.23,0:20:36.52,Default,,0000,0000,0000,,"Rub to make your dream match come true."
+Dialogue: 0,0:20:38.90,0:20:41.28,Default,,0000,0000,0000,,I guess they {\i1}are {\i0}pretty tasty.
+Dialogue: 0,0:20:41.28,0:20:43.15,Default,,0000,0000,0000,,Right?
+Dialogue: 0,0:20:43.15,0:20:45.57,Default,,0000,0000,0000,,Thanks for the feast.
+Dialogue: 0,0:20:49.62,0:20:52.58,On Top,,0000,0000,0000,,"Mizuki Shigeru Road"
+Dialogue: 0,0:20:50.83,0:20:53.04,Default,,0000,0000,0000,,We {\i1}have {\i0}to finish with this place!
+Dialogue: 0,0:20:54.00,0:20:56.79,Default,,0000,0000,0000,,Check out all these {\i1}yōkai{\i0}, Senpai!
+Dialogue: 0,0:20:56.79,0:20:59.75,Default,,0000,0000,0000,,There are some I know and some I've never seen.
+Dialogue: 0,0:21:01.05,0:21:04.09,Default,,0000,0000,0000,,There are 177 bronze statues of {\i1}yōkai{\i0}
+Dialogue: 0,0:21:04.09,0:21:09.35,Default,,0000,0000,0000,,over 800 meters of this street,\Nwhich leads to Sakaiminato Station.
+Dialogue: 0,0:21:09.35,0:21:12.56,Default,,0000,0000,0000,,177 of them? Amazing!
+Dialogue: 0,0:21:12.56,0:21:14.35,Default,,0000,0000,0000,,What's this, Senpai?
+Dialogue: 0,0:21:14.35,0:21:16.27,Default,,0000,0000,0000,,A dragon?
+Dialogue: 0,0:21:16.27,0:21:19.69,Default,,0000,0000,0000,,Let's see... Nope! It's a {\i1}shiro-uneri{\i0}!
+Dialogue: 0,0:21:19.69,0:21:21.94,Default,,0000,0000,0000,,{\i1}Shiro... uneri{\i0}?
+Dialogue: 0,0:21:21.94,0:21:24.20,Default,,0000,0000,0000,,Okay, next! What's this?
+Dialogue: 0,0:21:24.20,0:21:25.45,Default,,0000,0000,0000,,A crayfish?
+Dialogue: 0,0:21:25.45,0:21:27.99,Default,,0000,0000,0000,,Bzzt! An {\i1}amikiri{\i0}!
+Dialogue: 0,0:21:27.99,0:21:30.20,Default,,0000,0000,0000,,These are tough. What's the next one?
+Dialogue: 0,0:21:30.20,0:21:31.87,Default,,0000,0000,0000,,Right here!
+Dialogue: 0,0:21:31.87,0:21:32.75,Default,,0000,0000,0000,,A yeti!
+Dialogue: 0,0:21:32.75,0:21:38.63,Default,,0000,0000,0000,,{\i1}Keukegen{\i0}! What's this "yeti" stuff?\NThat's not even Japanese--whoa!
+Dialogue: 0,0:21:38.63,0:21:41.50,Default,,0000,0000,0000,,Dammit. You try this next one. Here.
+Dialogue: 0,0:21:41.50,0:21:43.13,Default,,0000,0000,0000,,Wait: this is--aw!
+Dialogue: 0,0:21:43.13,0:21:45.47,Default,,0000,0000,0000,,{\i1}Rokuro-Kubi{\i0}! It's {\i1}Rokuro-Kubi{\i0}!
+Dialogue: 0,0:21:45.47,0:21:47.51,Default,,0000,0000,0000,,{\i1}I {\i0}knew {\i1}that {\i0}one!
+Dialogue: 0,0:21:49.22,0:21:50.68,Default,,0000,0000,0000,,Okay, moving on!
+Dialogue: 0,0:21:49.22,0:21:50.68,On Top,,0000,0000,0000,,"Mizuki Shigeru Museum"
+Dialogue: 0,0:21:54.10,0:22:01.07,On Top,,0000,0000,0000,,"Mizuki Shigeru Museum"
+Dialogue: 0,0:21:54.52,0:21:55.85,Default,,0000,0000,0000,,Yep, this is the place.
+Dialogue: 0,0:21:55.85,0:21:59.27,Default,,0000,0000,0000,,The Mizuki Shigeru Museum is a must-see.
+Dialogue: 0,0:22:03.53,0:22:08.28,On Top,,0000,0000,0000,,"Mizuki Shigeru Road"
+Dialogue: 0,0:23:39.41,0:23:44.11,On Top,,0000,0000,0000,,"Episode 11: Does Sakurai\NWant to Hang Out, Too?"
+Dialogue: 0,0:23:40.52,0:23:42.91,Default,,0000,0000,0000,,

@@ -1,0 +1,387 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:39.08,0:00:42.70,Default,,0000,0000,0000,,Now there's a sight\Nthat makes it feel like spring.
+Dialogue: 0,0:00:42.70,0:00:45.67,On Top,,0000,0000,0000,,"Shinichi Sakurai, 19 - College Sophomore"
+Dialogue: 0,0:00:48.84,0:00:51.50,Default,,0000,0000,0000,,Sakurai-{\i1}senpai{\i0}!
+Dialogue: 0,0:00:51.50,0:00:52.88,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:01:04.81,0:01:07.73,Default,,0000,0000,0000,,Uzaki... right?
+Dialogue: 0,0:01:13.32,0:01:15.86,Default,,0000,0000,0000,,Hana Uzaki! I'll be your junior again here.
+Dialogue: 0,0:01:15.86,0:01:19.57,On Top,,0000,0000,0000,,"Hana Uzaki, 18 - College Freshman"
+Dialogue: 0,0:01:17.36,0:01:19.57,Default,,0000,0000,0000,,Here's to a great year!
+Dialogue: 0,0:01:28.08,0:01:31.88,Default,,0000,0000,0000,,Huh? You don't swim here in college?
+Dialogue: 0,0:01:31.88,0:01:35.76,Default,,0000,0000,0000,,Nope. They don't even have a swim club.
+Dialogue: 0,0:01:35.76,0:01:38.26,Default,,0000,0000,0000,,And you worked so hard at it in high school...
+Dialogue: 0,0:01:38.26,0:01:42.56,Default,,0000,0000,0000,,Ah, there's plenty of stuff to do in college.
+Dialogue: 0,0:01:42.56,0:01:44.35,Default,,0000,0000,0000,,Senpai...
+Dialogue: 0,0:01:44.35,0:01:47.52,Default,,0000,0000,0000,,Y-Yep, there sure is.
+Dialogue: 0,0:01:47.52,0:01:49.85,Default,,0000,0000,0000,,Or so I thought.
+Dialogue: 0,0:01:49.85,0:01:52.86,On Top,,0000,0000,0000,,"Spring"
+Dialogue: 0,0:01:51.56,0:01:52.86,Default,,0000,0000,0000,,Oh, Senpai!
+Dialogue: 0,0:01:55.78,0:01:56.99,Default,,0000,0000,0000,,What the...
+Dialogue: 0,0:01:57.36,0:02:00.37,On Top,,0000,0000,0000,,"Summer"
+Dialogue: 0,0:02:01.87,0:02:02.87,Default,,0000,0000,0000,,What in the...
+Dialogue: 0,0:02:02.87,0:02:05.37,On Top,,0000,0000,0000,,"Autumn"
+Dialogue: 0,0:02:06.33,0:02:07.87,Default,,0000,0000,0000,,What in the what?
+Dialogue: 0,0:02:07.87,0:02:10.38,On Top,,0000,0000,0000,,"Winter"
+Dialogue: 0,0:02:10.96,0:02:12.88,Default,,0000,0000,0000,,{\i1}What {\i0}in the {\i1}what{\i0}?!
+Dialogue: 0,0:02:13.38,0:02:14.92,On Top,,0000,0000,0000,,"Spring"
+Dialogue: 0,0:02:14.92,0:02:16.88,On Top,,0000,0000,0000,,"Again" "Spring"
+Dialogue: 0,0:02:20.26,0:02:25.10,Default,,0000,0000,0000,,I kinda thought this year\Nwould turn out like that...
+Dialogue: 0,0:02:29.06,0:02:34.40,On Top,,0000,0000,0000,,"Shinichi Sakurai, 20 - College Junior"
+Dialogue: 0,0:02:31.73,0:02:35.36,Default,,0000,0000,0000,,Senpai!
+Dialogue: 0,0:02:35.36,0:02:38.28,Default,,0000,0000,0000,,Whoops! Overshot you!
+Dialogue: 0,0:02:42.66,0:02:45.49,Default,,0000,0000,0000,,Uzaki... right?
+Dialogue: 0,0:02:45.49,0:02:50.02,Default,,0000,0000,0000,,All alone again today, huh?\NI guess I'll have to hang out with you!
+Dialogue: 0,0:02:47.33,0:02:54.04,On Top,,0000,0000,0000,,"Hana Uzaki, 19 - College Sophomore"
+Dialogue: 0,0:02:50.02,0:02:54.02,Default,,0000,0000,0000,,Your college loner lifestyle ends today!
+Dialogue: 0,0:03:01.63,0:03:08.18,On Top,,0000,0000,0000,,"Uzaki-{\i1}chan {\i0}Wants to Hang Out!"
+Dialogue: 0,0:04:24.47,0:04:28.51,On Top,,0000,0000,0000,,"Episode 1: Uzaki-{\i1}chan {\i0}Wants to Hang Out!"
+Dialogue: 0,0:04:29.43,0:04:30.81,Default,,0000,0000,0000,,What's for lunch?
+Dialogue: 0,0:04:30.81,0:04:33.54,Default,,0000,0000,0000,,Mmm... the dining hall, I guess.
+Dialogue: 0,0:04:33.02,0:04:36.02,OS,,0000,0000,0000,,"Lecture Overview"\N"New Location"\N"Canceled"
+Dialogue: 0,0:04:33.54,0:04:36.00,Default,,0000,0000,0000,,Hey, can we come, too?
+Dialogue: 0,0:04:36.69,0:04:41.61,Default,,0000,0000,0000,,Canceled, huh? Now my afternoon is wide open.
+Dialogue: 0,0:04:41.61,0:04:43.90,Default,,0000,0000,0000,,Senpai!
+Dialogue: 0,0:04:44.78,0:04:47.70,Default,,0000,0000,0000,,No work today, either. What to do...
+Dialogue: 0,0:04:49.12,0:04:50.58,Default,,0000,0000,0000,,Eek!
+Dialogue: 0,0:04:50.58,0:04:52.08,Default,,0000,0000,0000,,That {\i1}glare{\i0}!
+Dialogue: 0,0:04:52.08,0:04:53.54,Default,,0000,0000,0000,,S-Scary...
+Dialogue: 0,0:04:53.54,0:04:56.54,On Top,,0000,0000,0000,,"Super Huge"
+Dialogue: 0,0:04:53.81,0:04:56.52,Default,,0000,0000,0000,,Senpai!
+Dialogue: 0,0:04:57.04,0:05:00.42,Default,,0000,0000,0000,,Maybe I'll just bum around on my own for once.
+Dialogue: 0,0:05:00.42,0:05:05.54,Default,,0000,0000,0000,,Can't get any quiet time once {\i1}she {\i0}horns on in.
+Dialogue: 0,0:05:03.51,0:05:06.51,On Top,,0000,0000,0000,,Senpai, Senpai, Senpai, Senpai!
+Dialogue: 0,0:05:07.72,0:05:11.39,Default,,0000,0000,0000,,It's like I always tell you:\Nquit yelling so {\i1}lou{\i0}--
+Dialogue: 0,0:05:13.77,0:05:16.64,Default,,0000,0000,0000,,I kept calling you,\Nbut you just weren't hearing me!
+Dialogue: 0,0:05:16.64,0:05:18.73,Default,,0000,0000,0000,,So! Where ya headed, Senpai?
+Dialogue: 0,0:05:18.73,0:05:21.48,Default,,0000,0000,0000,,What the hell are you doing, Uzaki, you idiot?!
+Dialogue: 0,0:05:21.48,0:05:24.11,Default,,0000,0000,0000,,Oh, going out for lunch today?
+Dialogue: 0,0:05:24.11,0:05:28.20,Default,,0000,0000,0000,,Aw, too bad. My friends and I already ate.
+Dialogue: 0,0:05:28.20,0:05:32.49,Default,,0000,0000,0000,,But if you insist, I could watch {\i1}you {\i0}eat.
+Dialogue: 0,0:05:32.49,0:05:37.04,Default,,0000,0000,0000,,I've got no classes this afternoon.\NI'm just going for a stroll.
+Dialogue: 0,0:05:37.04,0:05:38.42,Default,,0000,0000,0000,,Later.
+Dialogue: 0,0:05:44.92,0:05:48.39,Default,,0000,0000,0000,,Uzaki... why are you following me?
+Dialogue: 0,0:05:48.39,0:05:50.10,Default,,0000,0000,0000,,Yikes, that face!
+Dialogue: 0,0:05:50.10,0:05:55.43,Default,,0000,0000,0000,,As it turns out,\NI'm suddenly free this afternoon, too.
+Dialogue: 0,0:05:55.43,0:05:58.65,Default,,0000,0000,0000,,Given half the chance,\NI know you'll do the old loner thing.
+Dialogue: 0,0:05:58.65,0:06:01.65,Default,,0000,0000,0000,,And two has gotta be {\i1}way {\i0}more fun than one!
+Dialogue: 0,0:06:01.65,0:06:03.48,Default,,0000,0000,0000,,Mind your own business.
+Dialogue: 0,0:06:03.48,0:06:08.03,Default,,0000,0000,0000,,Besides, I've told you a million times\Nthat I find quiet time alone more relaxing.
+Dialogue: 0,0:06:08.03,0:06:11.07,Default,,0000,0000,0000,,Here we go again. Being a loner is no fun!
+Dialogue: 0,0:06:11.07,0:06:12.37,Default,,0000,0000,0000,,Stop calling me that.
+Dialogue: 0,0:06:12.37,0:06:16.62,Default,,0000,0000,0000,,That's right: you're not\Na loner--'cause {\i1}I'm {\i0}with you!
+Dialogue: 0,0:06:16.62,0:06:21.00,Default,,0000,0000,0000,,Quit tagging along, you damn pest!
+Dialogue: 0,0:06:21.00,0:06:21.92,Default,,0000,0000,0000,,Feeling self-conscious?
+Dialogue: 0,0:06:21.92,0:06:23.38,Default,,0000,0000,0000,,I am not!
+Dialogue: 0,0:06:24.55,0:06:26.59,Default,,0000,0000,0000,,So where are we going?
+Dialogue: 0,0:06:26.59,0:06:27.47,Default,,0000,0000,0000,,Not telling.
+Dialogue: 0,0:06:27.47,0:06:28.88,Default,,0000,0000,0000,,Karaoke? Bowling?
+Dialogue: 0,0:06:28.88,0:06:29.84,Default,,0000,0000,0000,,Not telling.
+Dialogue: 0,0:06:29.84,0:06:31.72,Default,,0000,0000,0000,,Aw, tell me!
+Dialogue: 0,0:06:31.72,0:06:32.64,Default,,0000,0000,0000,,No.
+Dialogue: 0,0:06:32.64,0:06:36.06,Default,,0000,0000,0000,,Ugh! Why are you being so cold today?
+Dialogue: 0,0:06:36.06,0:06:37.43,Default,,0000,0000,0000,,It's my mood.
+Dialogue: 0,0:06:37.43,0:06:39.31,Default,,0000,0000,0000,,Your {\i1}mood{\i0}?!
+Dialogue: 0,0:06:40.65,0:06:44.82,Default,,0000,0000,0000,,What's the deal? You hung out with me before!
+Dialogue: 0,0:06:44.82,0:06:45.69,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:06:45.69,0:06:47.94,Default,,0000,0000,0000,,Treating me according to your moods...
+Dialogue: 0,0:06:47.94,0:06:53.32,Default,,0000,0000,0000,,Isn't it sooo convenient that you get\Nwith me only when you feel like it?!
+Dialogue: 0,0:06:53.32,0:06:56.33,Default,,0000,0000,0000,,Watch your phrasing when there's people around!
+Dialogue: 0,0:06:57.87,0:06:58.87,Default,,0000,0000,0000,,Enemy of womankind.
+Dialogue: 0,0:06:58.87,0:06:59.91,Default,,0000,0000,0000,,Utter trash.
+Dialogue: 0,0:06:59.91,0:07:01.62,Default,,0000,0000,0000,,Scum.
+Dialogue: 0,0:07:05.00,0:07:07.63,Default,,0000,0000,0000,,Okay, fine! Come along, then!
+Dialogue: 0,0:07:07.63,0:07:09.22,Default,,0000,0000,0000,,Hooray!
+Dialogue: 0,0:07:12.93,0:07:16.68,Default,,0000,0000,0000,,Hey, once we're done, let's get some food, huh?
+Dialogue: 0,0:07:16.68,0:07:19.39,Default,,0000,0000,0000,,I'll gladly go with you to dinner!
+Dialogue: 0,0:07:19.39,0:07:20.98,Default,,0000,0000,0000,,I'm not paying.
+Dialogue: 0,0:07:20.98,0:07:22.60,Default,,0000,0000,0000,,Aw, cheapskate.
+Dialogue: 0,0:07:22.60,0:07:24.77,Default,,0000,0000,0000,,Are you trying to sponge off me?
+Dialogue: 0,0:07:27.94,0:07:31.91,Default,,0000,0000,0000,,Wait, were you going to see\Na movie by yourself today?
+Dialogue: 0,0:07:31.91,0:07:33.78,Default,,0000,0000,0000,,Huh? That's right.
+Dialogue: 0,0:07:36.20,0:07:38.29,Default,,0000,0000,0000,,Solo movies!
+Dialogue: 0,0:07:38.29,0:07:39.45,Default,,0000,0000,0000,,What's so funny?
+Dialogue: 0,0:07:39.45,0:07:41.16,Default,,0000,0000,0000,,Solo movies!
+Dialogue: 0,0:07:42.92,0:07:48.88,Default,,0000,0000,0000,,That's a prime loner move, right up there\Nwith solo BBQ and solo sushi-go-round!
+Dialogue: 0,0:07:50.34,0:07:52.38,Default,,0000,0000,0000,,Shut up for once, would you?
+Dialogue: 0,0:07:52.38,0:07:55.01,Default,,0000,0000,0000,,You're going to make enemies\Nin all sorts of places.
+Dialogue: 0,0:07:55.01,0:07:57.93,Default,,0000,0000,0000,,At least talk a little more quietly!
+Dialogue: 0,0:07:57.93,0:08:01.06,Default,,0000,0000,0000,,Listen, this is the "people are people" era.
+Dialogue: 0,0:08:01.06,0:08:05.48,Default,,0000,0000,0000,,We all want to find time in our busy days\Nto see the movies we want the {\i1}way {\i0}we want.
+Dialogue: 0,0:08:05.48,0:08:06.61,Default,,0000,0000,0000,,Uh-huh, uh-huh.
+Dialogue: 0,0:08:06.61,0:08:10.32,Default,,0000,0000,0000,,Shouldn't we all spend\Nour leisure time however we please?
+Dialogue: 0,0:08:10.32,0:08:13.28,Default,,0000,0000,0000,,Don't laugh at other people's hobbies\Njudged by your standards.
+Dialogue: 0,0:08:13.28,0:08:14.82,Default,,0000,0000,0000,,Uh-huh, uh-huh.
+Dialogue: 0,0:08:14.82,0:08:21.29,Default,,0000,0000,0000,,Plenty of people watch movies as a hobby.\NThey don't declare when and with whom.
+Dialogue: 0,0:08:21.29,0:08:22.66,Default,,0000,0000,0000,,That's how it is.
+Dialogue: 0,0:08:22.66,0:08:25.54,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:08:25.54,0:08:27.29,Default,,0000,0000,0000,,Spoken like a true loner!
+Dialogue: 0,0:08:27.29,0:08:30.71,Default,,0000,0000,0000,,Can I wallop her--just once?
+Dialogue: 0,0:08:30.71,0:08:34.84,Default,,0000,0000,0000,,Anyone can go to the movies\Nalone whenever they feel like it.
+Dialogue: 0,0:08:34.84,0:08:38.30,Default,,0000,0000,0000,,The scheduling alone is a hassle\Nwith more people in the mix.
+Dialogue: 0,0:08:38.30,0:08:40.22,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:08:40.22,0:08:45.52,Default,,0000,0000,0000,,But you can't loudly talk spoilers with\Nyour friends afterward when you go alone!
+Dialogue: 0,0:08:45.52,0:08:51.61,Default,,0000,0000,0000,,That's like one of the worst possible\Nthings you can do as a human being!
+Dialogue: 0,0:08:51.61,0:08:54.82,Default,,0000,0000,0000,,It's okay. I get it.
+Dialogue: 0,0:08:54.82,0:08:59.66,Default,,0000,0000,0000,,You're determined to soldier\Non alone despite your loneliness.
+Dialogue: 0,0:08:59.66,0:09:02.08,Default,,0000,0000,0000,,Don't give me that affectionate look!
+Dialogue: 0,0:09:02.08,0:09:05.00,Default,,0000,0000,0000,,Honestly. I knew I shouldn't have brought you.
+Dialogue: 0,0:09:05.00,0:09:09.34,Default,,0000,0000,0000,,I was planning to follow you\Nall sneaky-like anyway.
+Dialogue: 0,0:09:11.21,0:09:15.43,Default,,0000,0000,0000,,What's your deal? Is that your idea of fun?
+Dialogue: 0,0:09:15.43,0:09:17.01,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:09:17.01,0:09:22.52,Default,,0000,0000,0000,,It'd be funny if I spotted you going\Ninto some weird store or something!
+Dialogue: 0,0:09:22.52,0:09:27.10,Default,,0000,0000,0000,,I know I'd laugh myself silly\Nif I saw you buying dirty DVDs!
+Dialogue: 0,0:09:28.33,0:09:31.21,Default,,0000,0000,0000,,Ow! Ow! Ow, ow, ow!
+Dialogue: 0,0:09:30.40,0:09:34.57,On Top,,0000,0000,0000,,"Pulling the nose upward is fairly painful"
+Dialogue: 0,0:09:31.21,0:09:34.97,Default,,0000,0000,0000,,Senpai, I--Senpai--Senpai! Uncle! Uncle! Uncle!
+Dialogue: 0,0:09:34.99,0:09:37.36,Default,,0000,0000,0000,,College students are {\i1}adults{\i0}!
+Dialogue: 0,0:09:37.36,0:09:41.16,Default,,0000,0000,0000,,No mocking people's hobbies\Nor digging into their private lives!
+Dialogue: 0,0:09:41.16,0:09:43.79,Default,,0000,0000,0000,,Sorry! I'm sorry!
+Dialogue: 0,0:09:43.79,0:09:44.83,Default,,0000,0000,0000,,Sheesh.
+Dialogue: 0,0:09:44.83,0:09:49.67,Default,,0000,0000,0000,,I haven't even been able to pick\Na movie with you all up in my business.
+Dialogue: 0,0:09:50.59,0:09:53.09,Default,,0000,0000,0000,,You came without a movie in mind?
+Dialogue: 0,0:09:53.09,0:09:55.55,Default,,0000,0000,0000,,It was a last-minute thing.
+Dialogue: 0,0:09:55.55,0:09:59.55,Default,,0000,0000,0000,,Besides, choosing at the theater\Nis one of the thrills of solo movies.
+Dialogue: 0,0:10:01.81,0:10:03.89,Default,,0000,0000,0000,,Oh, is it, now?
+Dialogue: 0,0:10:14.23,0:10:15.28,Default,,0000,0000,0000,,Uzaki.
+Dialogue: 0,0:10:15.28,0:10:16.44,Default,,0000,0000,0000,,Yes?
+Dialogue: 0,0:10:16.44,0:10:18.57,Default,,0000,0000,0000,,If there's something you want to see, I'll pay.
+Dialogue: 0,0:10:18.57,0:10:21.32,Default,,0000,0000,0000,,Huh? Really? What about your solo movie?
+Dialogue: 0,0:10:21.32,0:10:24.74,Default,,0000,0000,0000,,It's not like I {\i1}have {\i0}to go solo.
+Dialogue: 0,0:10:24.74,0:10:28.04,Default,,0000,0000,0000,,And with you here,\NI can watch something different.
+Dialogue: 0,0:10:28.04,0:10:31.21,Default,,0000,0000,0000,,I figure my points will cover the two of us.
+Dialogue: 0,0:10:31.21,0:10:36.72,Default,,0000,0000,0000,,Seriously?! Well, if you say\Nso--I'll let you treat me! Thanks!
+Dialogue: 0,0:10:36.72,0:10:38.80,Default,,0000,0000,0000,,Let's see...
+Dialogue: 0,0:10:38.80,0:10:43.93,Default,,0000,0000,0000,,This one! What a bargain:\Nheroes as far as the eye can see!
+Dialogue: 0,0:10:43.93,0:10:48.81,Default,,0000,0000,0000,,Ooh, that's a great one. I saw it once,\Nbut I was thinking about seeing it again.
+Dialogue: 0,0:10:48.81,0:10:51.69,Default,,0000,0000,0000,,Huh!
+Dialogue: 0,0:10:51.69,0:10:54.36,Default,,0000,0000,0000,,Two college students, please.\NI'll use my points.
+Dialogue: 0,0:10:54.36,0:10:57.07,Default,,0000,0000,0000,,Certainly. One moment.
+Dialogue: 0,0:10:57.07,0:11:01.78,Default,,0000,0000,0000,,She has her moments,\Nbut she's still so smackable.
+Dialogue: 0,0:11:01.78,0:11:05.37,Default,,0000,0000,0000,,She seems happy.\NI guess I can do this much for her.
+Dialogue: 0,0:11:08.20,0:11:09.87,Default,,0000,0000,0000,,By the way, Senpai...
+Dialogue: 0,0:11:12.13,0:11:16.21,Default,,0000,0000,0000,,You've seen enough solo movies\Nto pay for someone else's ticket!
+Dialogue: 0,0:11:16.21,0:11:19.09,Default,,0000,0000,0000,,That's a turn-off, all right!
+Dialogue: 0,0:11:20.88,0:11:24.80,Default,,0000,0000,0000,,You would say that {\i1}after {\i0}I've paid, dammit!
+Dialogue: 0,0:11:24.80,0:11:27.14,Default,,0000,0000,0000,,You're, like, a pro-level loner!
+Dialogue: 0,0:11:27.14,0:11:28.79,Default,,0000,0000,0000,,Huh? Uh, wait--Senpai?
+Dialogue: 0,0:11:28.79,0:11:31.52,Default,,0000,0000,0000,,Kidding! Sorry! I'm sorry! Yow! Stop! Stop!
+Dialogue: 0,0:11:31.52,0:11:34.98,Default,,0000,0000,0000,,Will that couple {\i1}ever {\i0}shut up?!
+Dialogue: 0,0:11:38.74,0:11:40.90,Default,,0000,0000,0000,,That was great!
+Dialogue: 0,0:11:40.90,0:11:43.11,Default,,0000,0000,0000,,Yeah. A good film's always worth a rewatch.
+Dialogue: 0,0:11:43.11,0:11:47.45,Default,,0000,0000,0000,,All those points you banked\Nby going to the movies alone--gone!
+Dialogue: 0,0:11:47.45,0:11:49.45,Default,,0000,0000,0000,,That's your standard for "great"?!
+Dialogue: 0,0:11:49.45,0:11:52.79,Default,,0000,0000,0000,,So much for being nice.
+Dialogue: 0,0:11:52.79,0:11:57.67,Default,,0000,0000,0000,,Hey, can we stop by the electronics store?\NI need new earbuds.
+Dialogue: 0,0:11:57.67,0:11:59.55,Default,,0000,0000,0000,,Yeah, sure.
+Dialogue: 0,0:12:00.55,0:12:02.88,Default,,0000,0000,0000,,See, it's that kind of thing.
+Dialogue: 0,0:12:02.88,0:12:04.01,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:12:07.06,0:12:10.52,Default,,0000,0000,0000,,What is it about this shop that makes me think,
+Dialogue: 0,0:12:10.52,0:12:13.65,Default,,0000,0000,0000,,"Since I'm here, I should buy something"?
+Dialogue: 0,0:12:13.65,0:12:15.36,Default,,0000,0000,0000,,Hey, nice.
+Dialogue: 0,0:12:15.36,0:12:17.44,Default,,0000,0000,0000,,Senpai!
+Dialogue: 0,0:12:17.44,0:12:18.53,Default,,0000,0000,0000,,Yeah?
+Dialogue: 0,0:12:18.53,0:12:20.78,Default,,0000,0000,0000,,Over here! This way!
+Dialogue: 0,0:12:22.15,0:12:23.99,Default,,0000,0000,0000,,What about your earbuds?
+Dialogue: 0,0:12:23.99,0:12:26.95,Default,,0000,0000,0000,,C'mon, the next seat's open!
+Dialogue: 0,0:12:26.95,0:12:29.16,Default,,0000,0000,0000,,Will you {\i1}listen{\i0}?
+Dialogue: 0,0:12:29.16,0:12:31.50,Default,,0000,0000,0000,,Ah, might not be so bad after a movie.
+Dialogue: 0,0:12:31.50,0:12:35.33,Default,,0000,0000,0000,,That's right! It's great. It works!
+Dialogue: 0,0:12:36.96,0:12:38.80,Default,,0000,0000,0000,,Oh, this is nice. Real nice.
+Dialogue: 0,0:12:38.80,0:12:40.17,Default,,0000,0000,0000,,Right?
+Dialogue: 0,0:12:40.17,0:12:43.05,Default,,0000,0000,0000,,Though with me, it's always\Nmy shoulders more than my back.
+Dialogue: 0,0:12:43.05,0:12:43.55,On Top,,0000,0000,0000,,"LO"
+Dialogue: 0,0:12:43.53,0:12:44.61,Default,,0000,0000,0000,,Shoulders?
+Dialogue: 0,0:12:43.55,0:12:44.30,On Top,,0000,0000,0000,,"HI"
+Dialogue: 0,0:12:46.72,0:12:48.81,Default,,0000,0000,0000,,Wha--where did {\i1}that {\i0}come from?
+Dialogue: 0,0:12:48.81,0:12:58.06,On Top,,0000,0000,0000,,"She's just sitting in a massage chair"
+Dialogue: 0,0:12:48.91,0:12:54.75,Default,,0000,0000,0000,,Oh, sorry... I can't help\Nbut make noise during a massage...
+Dialogue: 0,0:12:54.77,0:12:58.44,Default,,0000,0000,0000,,My, uh, my shoulders have always been tight--
+Dialogue: 0,0:12:58.44,0:13:02.57,Default,,0000,0000,0000,,Well, um... i-if you keep on doing that...
+Dialogue: 0,0:13:02.57,0:13:08.58,On Top,,0000,0000,0000,,"She's just sitting in a massage chair"
+Dialogue: 0,0:13:04.20,0:13:07.70,Default,,0000,0000,0000,,I would buy this in a second\Nif I had the money...
+Dialogue: 0,0:13:07.70,0:13:13.56,Default,,0000,0000,0000,,It... It just... It feels sooo good...
+Dialogue: 0,0:13:10.58,0:13:13.58,On Top,,0000,0000,0000,,"Seriously, she's just sitting\Nin a massage chair"
+Dialogue: 0,0:13:15.58,0:13:18.59,On Top,,0000,0000,0000,,"Look, she {\i1}really is {\i0}just\Nsitting in a massage chair"
+Dialogue: 0,0:13:18.92,0:13:21.63,Default,,0000,0000,0000,,Let's go, shall we?!
+Dialogue: 0,0:13:21.63,0:13:24.01,Default,,0000,0000,0000,,That wasn't even five minutes!
+Dialogue: 0,0:13:24.01,0:13:28.22,Default,,0000,0000,0000,,Shut up! Save... Save that for home!
+Dialogue: 0,0:13:28.22,0:13:29.89,Default,,0000,0000,0000,,Save what?
+Dialogue: 0,0:13:31.16,0:13:36.58,Default,,0000,0000,0000,,Jeez, this dummy... making all\Nthose weird noises in a public place...
+Dialogue: 0,0:13:35.04,0:13:37.45,On Top,,0000,0000,0000,,Hey, Senpai!
+Dialogue: 0,0:13:36.58,0:13:38.33,Default,,0000,0000,0000,,What now?
+Dialogue: 0,0:13:38.36,0:13:46.61,Default,,0000,0000,0000,,Ten minutes of standing on this,\Nand it's like getting a full workout!
+Dialogue: 0,0:13:46.61,0:13:51.83,Default,,0000,0000,0000,,Well? You try!
+Dialogue: 0,0:13:53.04,0:13:57.00,Default,,0000,0000,0000,,Oh, my God! You're such an {\i1}idiot{\i0}!
+Dialogue: 0,0:13:57.00,0:13:58.50,On Top,,0000,0000,0000,,"Innocent"
+Dialogue: 0,0:13:59.38,0:14:02.42,Default,,0000,0000,0000,,Whoa! Check it out!
+Dialogue: 0,0:14:02.42,0:14:04.26,Default,,0000,0000,0000,,What is it this time?
+Dialogue: 0,0:14:04.26,0:14:13.64,On Top,,0000,0000,0000,,"VR Experience Booth"
+Dialogue: 0,0:14:04.57,0:14:07.11,Default,,0000,0000,0000,,Look: it's VR! VR!
+Dialogue: 0,0:14:07.11,0:14:09.57,Default,,0000,0000,0000,,Huh! So this is virtual reality...
+Dialogue: 0,0:14:09.57,0:14:11.53,Default,,0000,0000,0000,,Would you like to try?
+Dialogue: 0,0:14:11.53,0:14:13.63,Default,,0000,0000,0000,,Yes! I sure would!
+Dialogue: 0,0:14:21.27,0:14:27.28,Default,,0000,0000,0000,,My view goes with me when I turn!\NVR is amazing! This is really cool, Senpai!
+Dialogue: 0,0:14:27.28,0:14:30.45,Default,,0000,0000,0000,,Okay, okay. Just keep your voice down.
+Dialogue: 0,0:14:31.87,0:14:34.24,Default,,0000,0000,0000,,My weapon! No! Not this one!\NAmmo! I'm outta ammo!
+Dialogue: 0,0:14:34.24,0:14:36.25,Default,,0000,0000,0000,,Hey, is there anyone behind you?
+Dialogue: 0,0:14:36.25,0:14:38.21,Default,,0000,0000,0000,,Huh? Behind me?!
+Dialogue: 0,0:14:38.21,0:14:40.21,Default,,0000,0000,0000,,Here they come! Look at 'em all!
+Dialogue: 0,0:14:42.38,0:14:44.55,Default,,0000,0000,0000,,Your reactions are the best.
+Dialogue: 0,0:14:44.55,0:14:47.30,Default,,0000,0000,0000,,They should put you in a commer--
+Dialogue: 0,0:14:51.14,0:14:54.76,Default,,0000,0000,0000,,They got me! Wow, VR is awesome!
+Dialogue: 0,0:14:54.76,0:14:56.60,Default,,0000,0000,0000,,Er, are you all right?
+Dialogue: 0,0:14:56.60,0:14:58.64,Default,,0000,0000,0000,,I'm fine.
+Dialogue: 0,0:15:00.65,0:15:02.73,Default,,0000,0000,0000,,What is it, Senpai?
+Dialogue: 0,0:15:02.73,0:15:05.32,Default,,0000,0000,0000,,Um, would your boyfriend like a turn?
+Dialogue: 0,0:15:05.32,0:15:07.19,Default,,0000,0000,0000,,I'm not her boyfriend.
+Dialogue: 0,0:15:07.19,0:15:09.74,Default,,0000,0000,0000,,But... okay.
+Dialogue: 0,0:15:11.99,0:15:14.37,Default,,0000,0000,0000,,Something not so dangerous.
+Dialogue: 0,0:15:17.83,0:15:20.50,Default,,0000,0000,0000,,These ocean graphics are something else!
+Dialogue: 0,0:15:20.50,0:15:25.30,Default,,0000,0000,0000,,Hey, you look like a regular person with\Nthose goggles. They hide your bad-guy face!
+Dialogue: 0,0:15:25.30,0:15:27.55,Default,,0000,0000,0000,,Shut it, dimwit.
+Dialogue: 0,0:15:27.55,0:15:29.72,Default,,0000,0000,0000,,Whoa! That's huge! A giant shark!
+Dialogue: 0,0:15:29.72,0:15:31.38,Default,,0000,0000,0000,,Wait, is it coming this way?
+Dialogue: 0,0:15:31.38,0:15:33.18,Default,,0000,0000,0000,,Huh? Is it?!
+Dialogue: 0,0:15:33.18,0:15:38.02,Default,,0000,0000,0000,,I-It's biting me! It's totally biting me! Yow!
+Dialogue: 0,0:15:38.02,0:15:39.85,Default,,0000,0000,0000,,You're way too scared!
+Dialogue: 0,0:15:39.85,0:15:42.35,Default,,0000,0000,0000,,You're one to talk!
+Dialogue: 0,0:15:42.35,0:15:43.61,Default,,0000,0000,0000,,Let me go! Hey!
+Dialogue: 0,0:15:43.61,0:15:49.19,Default,,0000,0000,0000,,I'm gonna get this disgraceful display\Non video and tease you about it later!
+Dialogue: 0,0:15:49.19,0:15:52.03,Default,,0000,0000,0000,,Uh, miss? Don't get too close to the player...
+Dialogue: 0,0:15:52.03,0:15:54.07,Default,,0000,0000,0000,,Just so {\i1}huge{\i0}!
+Dialogue: 0,0:15:54.07,0:15:56.74,Default,,0000,0000,0000,,Hmm? What's this?
+Dialogue: 0,0:15:56.74,0:15:58.83,Default,,0000,0000,0000,,A jellyfish? Octopus? Sunfish?!
+Dialogue: 0,0:15:58.83,0:16:01.58,Default,,0000,0000,0000,,It's so big. And soft! And kind of frightening!
+Dialogue: 0,0:16:05.09,0:16:08.25,Default,,0000,0000,0000,,I never thought much of VR, but it's amazing!
+Dialogue: 0,0:16:08.25,0:16:11.55,Default,,0000,0000,0000,,So powerful--and it even reproduces touch!
+Dialogue: 0,0:16:11.55,0:16:12.84,Default,,0000,0000,0000,,Are you all right?
+Dialogue: 0,0:16:12.84,0:16:16.22,Default,,0000,0000,0000,,Yeah, it's okay. I'm fine.
+Dialogue: 0,0:16:26.98,0:16:30.36,Default,,0000,0000,0000,,You said that VR made you want\Nto do something physical--
+Dialogue: 0,0:16:30.36,0:16:33.36,Default,,0000,0000,0000,,now you're swinging that bat all excited\Nand racking up a pile of strikes!
+Dialogue: 0,0:16:33.36,0:16:34.61,Default,,0000,0000,0000,,Focus!
+Dialogue: 0,0:16:34.61,0:16:36.20,Default,,0000,0000,0000,,Will you {\i1}shut up{\i0}?
+Dialogue: 0,0:16:36.20,0:16:40.33,Default,,0000,0000,0000,,Here comes the next one! You can do it!\NKnock it out of the park! Home run!
+Dialogue: 0,0:16:40.33,0:16:42.79,Default,,0000,0000,0000,,That's {\i1}enough {\i0}out of--
+Dialogue: 0,0:16:44.37,0:16:46.88,Default,,0000,0000,0000,,That {\i1}so {\i0}didn't fly straight!
+Dialogue: 0,0:16:48.80,0:16:49.80,Default,,0000,0000,0000,,Dammit.
+Dialogue: 0,0:16:49.80,0:16:53.22,Default,,0000,0000,0000,,You said you did this before.\NYou totally didn't!
+Dialogue: 0,0:16:53.22,0:16:55.93,Default,,0000,0000,0000,,You really tick me off, dammit.
+Dialogue: 0,0:16:55.93,0:16:58.76,Default,,0000,0000,0000,,I played for {\i1}one year {\i0}in junior high.
+Dialogue: 0,0:16:58.76,0:17:01.10,Default,,0000,0000,0000,,Ooh! I wanna try, too!
+Dialogue: 0,0:17:01.10,0:17:03.27,Default,,0000,0000,0000,,Here's my card. There's still some on there.
+Dialogue: 0,0:17:03.27,0:17:04.73,Default,,0000,0000,0000,,Thanks!
+Dialogue: 0,0:17:06.06,0:17:09.11,Default,,0000,0000,0000,,Don't stand too close or the ball will hit you.
+Dialogue: 0,0:17:09.11,0:17:10.15,Default,,0000,0000,0000,,Got it!
+Dialogue: 0,0:17:10.15,0:17:12.65,Default,,0000,0000,0000,,If I hit a home run, dinner's on you!
+Dialogue: 0,0:17:12.65,0:17:14.78,Default,,0000,0000,0000,,Eyes forward! You want to get hurt?
+Dialogue: 0,0:17:14.78,0:17:18.37,Default,,0000,0000,0000,,Okay... plant the feet...
+Dialogue: 0,0:17:18.37,0:17:20.58,Default,,0000,0000,0000,,Swivel the hips...
+Dialogue: 0,0:17:22.91,0:17:25.96,Default,,0000,0000,0000,,Like the real deal.
+Dialogue: 0,0:17:25.96,0:17:28.00,Default,,0000,0000,0000,,Huh? Wait--did--
+Dialogue: 0,0:17:30.13,0:17:32.13,Default,,0000,0000,0000,,Did you stretch?
+Dialogue: 0,0:17:33.97,0:17:40.64,Default,,0000,0000,0000,,Oh.
+Dialogue: 0,0:17:40.64,0:17:43.87,On Top,,0000,0000,0000,,It... It hurts...
+Dialogue: 0,0:17:40.64,0:17:45.52,Default,,0000,0000,0000,,Are you {\i1}nuts{\i0},\Nwhipping out a full swing like that?!
+Dialogue: 0,0:17:45.52,0:17:47.31,Default,,0000,0000,0000,,Lay down this instant!
+Dialogue: 0,0:17:47.31,0:17:48.98,Default,,0000,0000,0000,,I heard a pop...
+Dialogue: 0,0:17:48.98,0:17:50.48,Default,,0000,0000,0000,,Yeah, I'll say!
+Dialogue: 0,0:17:50.48,0:17:55.03,Default,,0000,0000,0000,,I copied you... and look where it got me...
+Dialogue: 0,0:17:55.03,0:17:58.24,Default,,0000,0000,0000,,A novice can't just start\Nputting their hips into a swing!
+Dialogue: 0,0:17:58.24,0:18:00.62,Default,,0000,0000,0000,,Of {\i1}course {\i0}you're gonna hurt yourself, dummy!
+Dialogue: 0,0:18:00.62,0:18:04.16,Default,,0000,0000,0000,,This pain is all your fault...
+Dialogue: 0,0:18:04.16,0:18:06.33,Default,,0000,0000,0000,,How so?!
+Dialogue: 0,0:18:07.42,0:18:11.67,Default,,0000,0000,0000,,Just go home and get some sleep.\NAnd see a doctor tomorrow.
+Dialogue: 0,0:18:11.67,0:18:15.01,Default,,0000,0000,0000,,A doctor, you say?
+Dialogue: 0,0:18:15.01,0:18:16.47,Default,,0000,0000,0000,,Let's get dinner!
+Dialogue: 0,0:18:16.47,0:18:18.89,Default,,0000,0000,0000,,Do you ever give up?!
+Dialogue: 0,0:18:19.93,0:18:23.43,On Top,,0000,0000,0000,,"Taneda Ramen"
+Dialogue: 0,0:18:21.53,0:18:23.41,Default,,0000,0000,0000,,Let's eat!
+Dialogue: 0,0:18:23.85,0:18:29.69,Default,,0000,0000,0000,,You can walk fine on your own,\Nso it's probably nothing serious.
+Dialogue: 0,0:18:29.69,0:18:32.73,Default,,0000,0000,0000,,If it still hurts tomorrow, see a doctor.
+Dialogue: 0,0:18:32.73,0:18:35.74,Default,,0000,0000,0000,,And you really should head\Nhome now and go to sleep.
+Dialogue: 0,0:18:35.74,0:18:38.03,Default,,0000,0000,0000,,I'll be fine.
+Dialogue: 0,0:18:38.03,0:18:39.74,Default,,0000,0000,0000,,Yummy yum yum.
+Dialogue: 0,0:18:39.74,0:18:42.20,Default,,0000,0000,0000,,You don't get a lot of exercise, do you?
+Dialogue: 0,0:18:42.20,0:18:45.83,Default,,0000,0000,0000,,That injury is proof\Nyou haven't been very active.
+Dialogue: 0,0:18:46.83,0:18:49.96,Default,,0000,0000,0000,,What did you expect? I'm just starting out!
+Dialogue: 0,0:18:49.96,0:18:55.67,Default,,0000,0000,0000,,Beginners need to warm up, at least.\NBack injuries are a big deal.
+Dialogue: 0,0:18:56.38,0:18:58.09,Default,,0000,0000,0000,,Fine.
+Dialogue: 0,0:18:58.09,0:19:00.01,Default,,0000,0000,0000,,You realize that would never have happened
+Dialogue: 0,0:19:00.01,0:19:02.97,Default,,0000,0000,0000,,if you hadn't elbowed\Nyour way into tagging alo--
+Dialogue: 0,0:19:02.97,0:19:06.22,Default,,0000,0000,0000,,Huh? My chicken...
+Dialogue: 0,0:19:06.22,0:19:07.48,Default,,0000,0000,0000,,Hey.
+Dialogue: 0,0:19:07.48,0:19:09.23,Default,,0000,0000,0000,,Why are {\i1}you {\i0}eating it?
+Dialogue: 0,0:19:09.23,0:19:11.27,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:19:11.27,0:19:13.23,Default,,0000,0000,0000,,Did you eat them {\i1}all{\i0}?!
+Dialogue: 0,0:19:13.23,0:19:15.32,Default,,0000,0000,0000,,Eh?
+Dialogue: 0,0:19:15.32,0:19:17.61,Default,,0000,0000,0000,,W-We're not sharing?
+Dialogue: 0,0:19:17.61,0:19:22.28,Default,,0000,0000,0000,,We are {\i1}not{\i0}, you idiot! And how is\Nit sharing when {\i1}you {\i0}eat them {\i1}all{\i0}?!
+Dialogue: 0,0:19:25.70,0:19:27.75,Default,,0000,0000,0000,,Keep it!
+Dialogue: 0,0:19:29.16,0:19:32.75,Default,,0000,0000,0000,,Temper, temper! Your poor girlfriend!
+Dialogue: 0,0:19:32.75,0:19:34.79,Default,,0000,0000,0000,,She's not my girlfriend...
+Dialogue: 0,0:19:34.79,0:19:37.63,Default,,0000,0000,0000,,Another order of chicken, please.
+Dialogue: 0,0:19:37.63,0:19:38.76,Default,,0000,0000,0000,,Coming right up!
+Dialogue: 0,0:19:38.76,0:19:44.26,Default,,0000,0000,0000,,Your chicken's so good,\Nmy chopsticks just kept going!
+Dialogue: 0,0:19:44.26,0:19:45.81,Default,,0000,0000,0000,,Good one, miss!
+Dialogue: 0,0:19:45.81,0:19:48.43,Default,,0000,0000,0000,,Talk about a sunny personality.
+Dialogue: 0,0:19:48.43,0:19:51.19,Default,,0000,0000,0000,,Here you go--on the house. Eat up!
+Dialogue: 0,0:19:51.19,0:19:52.56,Default,,0000,0000,0000,,Wow! Are you sure?
+Dialogue: 0,0:19:52.56,0:19:54.52,Default,,0000,0000,0000,,Oh, no, we couldn't!
+Dialogue: 0,0:19:55.44,0:19:57.28,Default,,0000,0000,0000,,Go on--it's fine!
+Dialogue: 0,0:20:00.45,0:20:01.61,Default,,0000,0000,0000,,Delish!
+Dialogue: 0,0:20:01.61,0:20:04.91,Default,,0000,0000,0000,,Honestly.
+Dialogue: 0,0:20:04.91,0:20:08.87,Default,,0000,0000,0000,,It's rude not to accept this kindness, Senpai!
+Dialogue: 0,0:20:08.87,0:20:11.96,Default,,0000,0000,0000,,Oh, uh... I guess you're right.
+Dialogue: 0,0:20:11.96,0:20:13.88,Default,,0000,0000,0000,,Okay, don't mind if I--
+Dialogue: 0,0:20:15.88,0:20:18.00,Default,,0000,0000,0000,,Why do you eat {\i1}everything{\i0}?!
+Dialogue: 0,0:20:18.00,0:20:20.38,Default,,0000,0000,0000,,Sorry! I didn't mean to!
+Dialogue: 0,0:20:20.38,0:20:23.22,Default,,0000,0000,0000,,Here's your chicken.
+Dialogue: 0,0:20:26.72,0:20:28.26,Default,,0000,0000,0000,,{\i1}Again{\i0}?!
+Dialogue: 0,0:20:38.23,0:20:40.82,Default,,0000,0000,0000,,Senpai!
+Dialogue: 0,0:20:40.82,0:20:42.45,Default,,0000,0000,0000,,Good morning!
+Dialogue: 0,0:20:42.45,0:20:43.61,Default,,0000,0000,0000,,Hey.
+Dialogue: 0,0:20:44.20,0:20:46.49,Default,,0000,0000,0000,,I had fun yesterday!
+Dialogue: 0,0:20:46.49,0:20:49.66,Default,,0000,0000,0000,,What? All you did was hurt your back.
+Dialogue: 0,0:20:49.66,0:20:54.58,Default,,0000,0000,0000,,Huh? C'mon, it was fun going for\Na whole day without being a loner, right?
+Dialogue: 0,0:20:54.58,0:20:59.00,Default,,0000,0000,0000,,I made it clear from the very beginning\Nthat I intended to spend the day alone.
+Dialogue: 0,0:20:59.00,0:21:01.88,Default,,0000,0000,0000,,Oh, look at you, pretending you're not happy.
+Dialogue: 0,0:21:01.88,0:21:03.59,Default,,0000,0000,0000,,Watch it.
+Dialogue: 0,0:21:03.59,0:21:09.47,Default,,0000,0000,0000,,I've never been to a batting cage with\Nmy girlfriends before, either. That was new!
+Dialogue: 0,0:21:09.47,0:21:14.35,Default,,0000,0000,0000,,Teach me how to swing, okay?\NNext time I wanna really send it flying!
+Dialogue: 0,0:21:14.35,0:21:16.81,Default,,0000,0000,0000,,Hey, how 'bout we go again today?
+Dialogue: 0,0:21:16.81,0:21:18.69,Default,,0000,0000,0000,,I have work.
+Dialogue: 0,0:21:18.69,0:21:22.28,Default,,0000,0000,0000,,Aw. Next time, then!
+Dialogue: 0,0:21:22.28,0:21:25.20,Default,,0000,0000,0000,,"Next time," huh?
+Dialogue: 0,0:21:25.20,0:21:31.87,Default,,0000,0000,0000,,This idiot really doesn't let a\Nlittle pain get in the way of having fun.
+Dialogue: 0,0:21:31.87,0:21:35.17,Default,,0000,0000,0000,,I don't know when she got like this...
+Dialogue: 0,0:21:38.63,0:21:41.71,Default,,0000,0000,0000,,Like this? Or like this?
+Dialogue: 0,0:21:41.71,0:21:46.34,Default,,0000,0000,0000,,Well, I won't be bored.\NI can put up with her a little, I guess.
+Dialogue: 0,0:21:46.34,0:21:48.89,Default,,0000,0000,0000,,Yeah, next time.
+Dialogue: 0,0:21:48.89,0:21:50.35,Default,,0000,0000,0000,,Uh, Senpai?
+Dialogue: 0,0:21:50.35,0:21:51.51,Default,,0000,0000,0000,,Hmm?
+Dialogue: 0,0:21:51.51,0:21:55.56,Default,,0000,0000,0000,,After that {\i1}thing {\i0}we did yesterday?\NMy back still hurts!
+Dialogue: 0,0:21:55.56,0:21:57.40,Default,,0000,0000,0000,,It's all your fault, you know.
+Dialogue: 0,0:21:57.40,0:21:59.94,Default,,0000,0000,0000,,{\i1}Phrasing{\i0}!
+Dialogue: 0,0:21:59.94,0:22:05.03,Default,,0000,0000,0000,,It even hurts to walk!\NCarry me! C'mon--it's {\i1}your {\i0}fault!
+Dialogue: 0,0:22:05.01,0:22:07.89,Default,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:23:39.29,0:23:43.93,On Top,,0000,0000,0000,,"Episode 2: The Café Owner Wants a Glimpse!"
+Dialogue: 0,0:23:39.79,0:23:42.05,Default,,0000,0000,0000,,

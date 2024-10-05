@@ -1,0 +1,394 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.59,0:00:11.80,Default,,0000,0000,0000,,Slow jazz at a moderate volume.
+Dialogue: 0,0:00:11.80,0:00:15.34,Default,,0000,0000,0000,,Not-too-bright lighting.
+Dialogue: 0,0:00:15.34,0:00:19.18,Default,,0000,0000,0000,,And the calming aroma of coffee.
+Dialogue: 0,0:00:19.18,0:00:23.60,Default,,0000,0000,0000,,Providing a space where\Ncustomers can feel at ease:
+Dialogue: 0,0:00:23.60,0:00:28.57,Default,,0000,0000,0000,,That's been my business policy\Never since this place opened.
+Dialogue: 0,0:00:28.57,0:00:32.36,Default,,0000,0000,0000,,A customer's coming up to pay, Sakurai.
+Dialogue: 0,0:00:32.36,0:00:34.07,Default,,0000,0000,0000,,Would you mind?
+Dialogue: 0,0:00:38.20,0:00:42.25,Default,,0000,0000,0000,,Wow. You picked up on that so quickly.
+Dialogue: 0,0:00:42.25,0:00:46.29,Default,,0000,0000,0000,,Mmm. Once you've been doing this\Nfor ten years, you'll see it, too.
+Dialogue: 0,0:00:48.27,0:00:52.94,Default,,0000,0000,0000,,Sakurai started working here last year.\NHe's pretty good.
+Dialogue: 0,0:00:51.11,0:00:52.44,On Top,,0000,0000,0000,,Thank you very much.
+Dialogue: 0,0:00:54.09,0:00:58.47,Default,,0000,0000,0000,,His face may look a little scary,\Nbut he's attentive.
+Dialogue: 0,0:00:58.47,0:01:01.81,Default,,0000,0000,0000,,Sakurai understands my business policy here,
+Dialogue: 0,0:01:01.81,0:01:06.35,Default,,0000,0000,0000,,and whatever may happen,\Nhe handles it with poise.
+Dialogue: 0,0:01:06.35,0:01:09.52,Default,,0000,0000,0000,,Never, {\i1}ever {\i0}making a fuss or--
+Dialogue: 0,0:01:11.65,0:01:13.40,Default,,0000,0000,0000,,Senpai!
+Dialogue: 0,0:01:13.40,0:01:17.49,Default,,0000,0000,0000,,I've never heard Sakurai shout like that.
+Dialogue: 0,0:01:17.49,0:01:22.08,Default,,0000,0000,0000,,So {\i1}this {\i0}is where you work!\NIt's super close to school, huh?
+Dialogue: 0,0:01:22.08,0:01:24.04,Default,,0000,0000,0000,,Niiice!
+Dialogue: 0,0:01:24.04,0:01:26.00,Default,,0000,0000,0000,,A close friend, perhaps?
+Dialogue: 0,0:01:26.00,0:01:28.25,Default,,0000,0000,0000,,Why didn't you tell me?
+Dialogue: 0,0:01:28.25,0:01:31.71,Default,,0000,0000,0000,,I was just on my way back from\Nmy friend's place--she lives near campus--
+Dialogue: 0,0:01:31.71,0:01:34.84,Default,,0000,0000,0000,,when I got hungry and figured\NI could go for a little something, so--
+Dialogue: 0,0:01:34.84,0:01:35.80,Default,,0000,0000,0000,,Get out!
+Dialogue: 0,0:01:35.80,0:01:37.09,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:01:38.26,0:01:40.47,Default,,0000,0000,0000,,Or maybe an enemy.
+Dialogue: 0,0:01:48.60,0:01:55.15,On Top,,0000,0000,0000,,"Uzaki-{\i1}chan {\i0}Wants to Hang Out!"
+Dialogue: 0,0:03:11.48,0:03:15.98,On Top,,0000,0000,0000,,"Episode 2: The Café Owner Wants a Glimpse!"
+Dialogue: 0,0:03:14.13,0:03:16.17,Default,,0000,0000,0000,,This may be where I work part-time,
+Dialogue: 0,0:03:16.19,0:03:19.36,Default,,0000,0000,0000,,but it's also a place to relax. So {\i1}leave{\i0}!
+Dialogue: 0,0:03:19.36,0:03:21.15,Default,,0000,0000,0000,,Hey, what gives?
+Dialogue: 0,0:03:21.15,0:03:25.33,Default,,0000,0000,0000,,Let {\i1}me {\i0}relax, too! I'm hungry!
+Dialogue: 0,0:03:25.33,0:03:27.04,Default,,0000,0000,0000,,There are other places to eat.
+Dialogue: 0,0:03:27.04,0:03:28.45,Default,,0000,0000,0000,,Wow, how cold can you get?
+Dialogue: 0,0:03:28.45,0:03:31.58,Default,,0000,0000,0000,,Come on, let me eat, will ya?!
+Dialogue: 0,0:03:31.58,0:03:33.63,Default,,0000,0000,0000,,You clash with the vibe here.
+Dialogue: 0,0:03:33.63,0:03:34.83,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:03:34.83,0:03:36.96,Default,,0000,0000,0000,,That's awful! This is discrimination!
+Dialogue: 0,0:03:36.96,0:03:39.13,Default,,0000,0000,0000,,No wonder you're such a loner.
+Dialogue: 0,0:03:39.13,0:03:41.34,Default,,0000,0000,0000,,That has nothing to do with it!
+Dialogue: 0,0:03:41.34,0:03:45.51,Default,,0000,0000,0000,,Mmm... I seem to have missed\Nmy window for standing up.
+Dialogue: 0,0:03:45.51,0:03:48.01,Default,,0000,0000,0000,,Oh! Are you the owner?
+Dialogue: 0,0:03:48.01,0:03:51.56,Default,,0000,0000,0000,,I'm Hana Uzaki!\NSenpai here is always such a big help!
+Dialogue: 0,0:03:51.56,0:03:53.81,Default,,0000,0000,0000,,Who even {\i1}are {\i0}you to me?
+Dialogue: 0,0:03:53.81,0:03:55.56,Default,,0000,0000,0000,,Whatcha doing?
+Dialogue: 0,0:03:55.56,0:03:59.15,Default,,0000,0000,0000,,Oh, uh, just checking our stock.
+Dialogue: 0,0:03:59.15,0:04:02.15,Default,,0000,0000,0000,,I see... So he's your senior.
+Dialogue: 0,0:04:05.62,0:04:08.66,Default,,0000,0000,0000,,Then you're in elem--er, middle school?
+Dialogue: 0,0:04:08.66,0:04:10.50,Default,,0000,0000,0000,,I'm in {\i1}college{\i0}!
+Dialogue: 0,0:04:10.50,0:04:12.75,Default,,0000,0000,0000,,We go to the same college--\Nshe's in the year after me.
+Dialogue: 0,0:04:12.75,0:04:16.33,Default,,0000,0000,0000,,You were totally going to say\N"elementary school" just now, weren't you?!
+Dialogue: 0,0:04:17.17,0:04:19.50,Default,,0000,0000,0000,,Because you're so short.
+Dialogue: 0,0:04:19.50,0:04:22.47,Default,,0000,0000,0000,,Shut up! Just shut your mouth!
+Dialogue: 0,0:04:22.47,0:04:25.14,Default,,0000,0000,0000,,I... I was {\i1}wrong{\i0}?
+Dialogue: 0,0:04:25.14,0:04:27.26,Default,,0000,0000,0000,,It looks like he's in shock.
+Dialogue: 0,0:04:28.22,0:04:31.93,Default,,0000,0000,0000,,He's not usually like this...
+Dialogue: 0,0:04:31.93,0:04:37.86,Default,,0000,0000,0000,,All these years I've spent in the\Ncafé business, refining my eye for people...
+Dialogue: 0,0:04:37.86,0:04:40.44,Default,,0000,0000,0000,,...and I was wrong?!
+Dialogue: 0,0:04:41.36,0:04:43.65,Default,,0000,0000,0000,,Oh!
+Dialogue: 0,0:04:43.65,0:04:46.03,Default,,0000,0000,0000,,In college... You're an adult.
+Dialogue: 0,0:04:46.03,0:04:48.49,Default,,0000,0000,0000,,Huh? Yeah, that's right. I'm an adult.
+Dialogue: 0,0:04:48.49,0:04:53.54,Default,,0000,0000,0000,,My impression of the owner sure has changed\Ndrastically over these last few minutes.
+Dialogue: 0,0:04:56.17,0:04:59.46,Default,,0000,0000,0000,,I'm sure this spot will do.
+Dialogue: 0,0:04:59.46,0:05:01.05,Default,,0000,0000,0000,,Go on, sit.
+Dialogue: 0,0:05:05.59,0:05:06.89,Default,,0000,0000,0000,,What do you want?
+Dialogue: 0,0:05:06.89,0:05:11.68,Default,,0000,0000,0000,,Hey, Senpai, where'd this attitude come from?
+Dialogue: 0,0:05:11.68,0:05:12.52,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:05:12.52,0:05:16.94,Default,,0000,0000,0000,,I'm a customer now, you know. A customer!
+Dialogue: 0,0:05:16.94,0:05:20.69,Default,,0000,0000,0000,,I find it hard to believe this\Nis how you {\i1}always {\i0}act at work.
+Dialogue: 0,0:05:20.69,0:05:24.32,Default,,0000,0000,0000,,Do you even know how to wait on people properly?
+Dialogue: 0,0:05:24.32,0:05:29.12,Default,,0000,0000,0000,,Wait on people properly? What, people like {\i1}you{\i0}?
+Dialogue: 0,0:05:29.12,0:05:33.20,Default,,0000,0000,0000,,'Scuse me, sir!\NThis employee has a bad attitude!
+Dialogue: 0,0:05:33.20,0:05:35.83,Default,,0000,0000,0000,,You oughta give him a pay cut!
+Dialogue: 0,0:05:35.83,0:05:39.21,Default,,0000,0000,0000,,Shut up! If you're not going to order, leave!
+Dialogue: 0,0:05:40.88,0:05:44.55,Default,,0000,0000,0000,,These two are funny!\NI think I'll watch them for a while.
+Dialogue: 0,0:05:44.55,0:05:50.01,Default,,0000,0000,0000,,You've gotta take your work seriously\Nno matter who you're serving.
+Dialogue: 0,0:05:50.01,0:05:52.01,Default,,0000,0000,0000,,That's called being a pro!
+Dialogue: 0,0:05:52.01,0:05:55.81,Default,,0000,0000,0000,,Sure, but if I {\i1}did {\i0}take it seriously,\Nyou'd just make fun of me!
+Dialogue: 0,0:05:55.81,0:05:58.06,Default,,0000,0000,0000,,No, I wouldn't!
+Dialogue: 0,0:06:00.40,0:06:05.32,Default,,0000,0000,0000,,To be honest, it's embarrassing\Nwhen people I know see me working.
+Dialogue: 0,0:06:05.32,0:06:10.12,Default,,0000,0000,0000,,But it's so close to campus.\NHaven't any of your other friends come here?
+Dialogue: 0,0:06:10.12,0:06:13.08,Default,,0000,0000,0000,,Did you give them the same attitude?
+Dialogue: 0,0:06:13.08,0:06:14.41,Default,,0000,0000,0000,,Oh!
+Dialogue: 0,0:06:14.41,0:06:18.92,Default,,0000,0000,0000,,Silly. The only one\Nwho gets {\i1}this {\i0}attitude is {\i1}you{\i0}.
+Dialogue: 0,0:06:18.92,0:06:20.83,Default,,0000,0000,0000,,You're special.
+Dialogue: 0,0:06:22.29,0:06:25.96,Default,,0000,0000,0000,,Got it? Then drink a soda\Nor something and get lost, dumdum.
+Dialogue: 0,0:06:25.96,0:06:30.39,Default,,0000,0000,0000,,See, badmouthing me with that\Nposed expression really ticks me off!
+Dialogue: 0,0:06:30.39,0:06:34.60,Default,,0000,0000,0000,,Now, now, Sakurai. Since she's here and all,\Nshow her what you can do.
+Dialogue: 0,0:06:34.60,0:06:37.68,Default,,0000,0000,0000,,He's always so great with customers.
+Dialogue: 0,0:06:37.68,0:06:38.56,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:06:38.56,0:06:39.98,Default,,0000,0000,0000,,That's right!
+Dialogue: 0,0:06:39.98,0:06:43.31,Default,,0000,0000,0000,,I'd like to order one serving\Nof excellent customer service!
+Dialogue: 0,0:06:43.31,0:06:46.74,Default,,0000,0000,0000,,Now start over,\Nbeginning with the glass of water!
+Dialogue: 0,0:06:46.74,0:06:50.20,Default,,0000,0000,0000,,She is {\i1}infuriating{\i0}.
+Dialogue: 0,0:07:02.63,0:07:06.09,Default,,0000,0000,0000,,May I have your order, please?
+Dialogue: 0,0:07:06.09,0:07:08.55,Default,,0000,0000,0000,,Nope! Nuh-uh! No can do!
+Dialogue: 0,0:07:08.55,0:07:12.30,Default,,0000,0000,0000,,That villainous mug? Gone without a trace?
+Dialogue: 0,0:07:15.72,0:07:17.52,Default,,0000,0000,0000,,This is too much, Senpai!
+Dialogue: 0,0:07:17.52,0:07:20.48,Default,,0000,0000,0000,,You know how easy it is to laugh\Nwhen you're not supposed to!
+Dialogue: 0,0:07:20.48,0:07:23.65,Default,,0000,0000,0000,,Ugh! I {\i1}knew {\i0}this would happen, dammit!
+Dialogue: 0,0:07:23.65,0:07:26.40,Default,,0000,0000,0000,,I'm sorry! I won't laugh anymore!
+Dialogue: 0,0:07:26.40,0:07:28.68,Default,,0000,0000,0000,,Please let me eat something!
+Dialogue: 0,0:07:27.43,0:07:28.67,Default,,0000,0000,0000,,Can it!
+Dialogue: 0,0:07:29.24,0:07:32.74,Default,,0000,0000,0000,,You can call it a day, Sakurai.
+Dialogue: 0,0:07:32.74,0:07:35.45,Default,,0000,0000,0000,,It's getting dark. Walk her home.
+Dialogue: 0,0:07:35.45,0:07:39.70,Default,,0000,0000,0000,,You're laughing, too, aren't you?!\NYou are {\i1}definitely {\i0}laughing!
+Dialogue: 0,0:07:41.08,0:07:44.79,Default,,0000,0000,0000,,Thanks for today.
+Dialogue: 0,0:07:44.79,0:07:48.92,Default,,0000,0000,0000,,I'm positively starving. Let's stop somewhere!
+Dialogue: 0,0:07:48.92,0:07:51.51,Default,,0000,0000,0000,,Go straight home and eat there.
+Dialogue: 0,0:07:51.51,0:07:56.05,Default,,0000,0000,0000,,Aw! Then at least let me order\Nsomething at the café next time.
+Dialogue: 0,0:07:56.05,0:07:59.47,Default,,0000,0000,0000,,Sure. Come by again when I'm not there.
+Dialogue: 0,0:07:59.47,0:08:03.77,Default,,0000,0000,0000,,What?! I promise I won't laugh next time!
+Dialogue: 0,0:08:03.77,0:08:07.07,Default,,0000,0000,0000,,Even when I see your smile--
+Dialogue: 0,0:08:07.07,0:08:08.73,Default,,0000,0000,0000,,Why, you...
+Dialogue: 0,0:08:08.73,0:08:11.40,Default,,0000,0000,0000,,That's a nice café, though.
+Dialogue: 0,0:08:12.32,0:08:13.66,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:08:13.66,0:08:16.03,Default,,0000,0000,0000,,Quiet, just stylish enough...
+Dialogue: 0,0:08:17.28,0:08:21.37,Default,,0000,0000,0000,,Uh-huh. It really is a nice place.
+Dialogue: 0,0:08:21.37,0:08:24.42,Default,,0000,0000,0000,,I like the feel of it, the atmosphere.
+Dialogue: 0,0:08:24.42,0:08:26.25,Default,,0000,0000,0000,,Hey, I know!
+Dialogue: 0,0:08:27.38,0:08:30.30,Default,,0000,0000,0000,,Maybe I'll get a part-time job there, too!
+Dialogue: 0,0:08:30.30,0:08:32.88,Default,,0000,0000,0000,,You know--with you!
+Dialogue: 0,0:08:32.88,0:08:33.68,Default,,0000,0000,0000,,Sure.
+Dialogue: 0,0:08:33.68,0:08:36.76,Default,,0000,0000,0000,,Wouldn't that be a {\i1}blast{\i0}?
+Dialogue: 0,0:08:36.76,0:08:39.14,Default,,0000,0000,0000,,Mmm-hmm.
+Dialogue: 0,0:08:40.14,0:08:41.47,Default,,0000,0000,0000,,Stop that.
+Dialogue: 0,0:08:41.47,0:08:43.27,Default,,0000,0000,0000,,Stop {\i1}what{\i0}?
+Dialogue: 0,0:08:50.90,0:08:54.70,Default,,0000,0000,0000,,Why do I crack open brand-new\Ngames in the middle of the night?
+Dialogue: 0,0:09:11.17,0:09:16.09,Default,,0000,0000,0000,,A little senpai-teasing\Nwill get me through the day!
+Dialogue: 0,0:09:16.09,0:09:17.39,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:09:17.39,0:09:22.22,Default,,0000,0000,0000,,Ow! Ow, ow! Whoa! I just wanted to pet you...
+Dialogue: 0,0:09:22.22,0:09:25.44,Default,,0000,0000,0000,,Aren't {\i1}you {\i0}energetic, you little--
+Dialogue: 0,0:09:25.44,0:09:28.56,Default,,0000,0000,0000,,Ow! Hey, that hurts!
+Dialogue: 0,0:09:28.56,0:09:30.11,Default,,0000,0000,0000,,C'mon, now--
+Dialogue: 0,0:09:31.07,0:09:31.47,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:09:31.47,0:09:32.29,Default,,0000,0000,0000,,Gross.
+Dialogue: 0,0:09:32.90,0:09:35.86,Default,,0000,0000,0000,,What are you doing so early\Nin the morning, Senpai?
+Dialogue: 0,0:09:35.86,0:09:37.53,Default,,0000,0000,0000,,That's creepy.
+Dialogue: 0,0:09:37.53,0:09:39.53,Default,,0000,0000,0000,,Oh, Uzaki.
+Dialogue: 0,0:09:39.53,0:09:44.87,Default,,0000,0000,0000,,I found this stray cat. It's not running away,\Nso I thought I could pet it.
+Dialogue: 0,0:09:44.87,0:09:47.54,Default,,0000,0000,0000,,Huh! Must be used to people.
+Dialogue: 0,0:09:47.54,0:09:52.30,Default,,0000,0000,0000,,It won't let me pet it,\Nthough--it keeps scratching me.
+Dialogue: 0,0:09:52.30,0:09:54.71,Default,,0000,0000,0000,,Then what are you so happy about?
+Dialogue: 0,0:09:54.71,0:09:57.43,Default,,0000,0000,0000,,I mean... it's cute.
+Dialogue: 0,0:09:57.43,0:09:59.43,Default,,0000,0000,0000,,Gross.
+Dialogue: 0,0:09:59.43,0:10:04.68,Default,,0000,0000,0000,,Well, be that as it may... I'd say you're\Na rank beginner when it comes to animals.
+Dialogue: 0,0:10:04.68,0:10:07.06,Default,,0000,0000,0000,,Uh... yeah.
+Dialogue: 0,0:10:07.06,0:10:09.02,Default,,0000,0000,0000,,Bring your hand up from under.
+Dialogue: 0,0:10:10.36,0:10:16.74,Default,,0000,0000,0000,,Cats are afraid of bigger beasties\Nreaching their hands down from overhead.
+Dialogue: 0,0:10:16.74,0:10:18.78,Default,,0000,0000,0000,,True enough.
+Dialogue: 0,0:10:18.78,0:10:21.16,Default,,0000,0000,0000,,Try bringing your hand up\Nfrom below and waiting.
+Dialogue: 0,0:10:21.16,0:10:24.20,Default,,0000,0000,0000,,There you go. Good kitty. Good kitty.
+Dialogue: 0,0:10:24.20,0:10:26.41,Default,,0000,0000,0000,,Whoa!
+Dialogue: 0,0:10:26.41,0:10:29.83,Default,,0000,0000,0000,,See? It's easy when they're used to people.
+Dialogue: 0,0:10:30.50,0:10:32.63,Default,,0000,0000,0000,,Nice...
+Dialogue: 0,0:10:32.63,0:10:38.30,Default,,0000,0000,0000,,It might belong to a family in the neighborhood\Nor maybe someone's just feeding it.
+Dialogue: 0,0:10:38.30,0:10:40.59,Default,,0000,0000,0000,,You sure know a lot about cats.
+Dialogue: 0,0:10:40.59,0:10:43.97,Default,,0000,0000,0000,,We have cats at home. Two of them!
+Dialogue: 0,0:10:43.97,0:10:45.81,Default,,0000,0000,0000,,Wow, really?
+Dialogue: 0,0:10:45.81,0:10:49.02,Default,,0000,0000,0000,,Want to come by and meet them?
+Dialogue: 0,0:10:49.02,0:10:50.77,Default,,0000,0000,0000,,Mmm...
+Dialogue: 0,0:10:50.77,0:10:56.15,Default,,0000,0000,0000,,I'd like to pet those cats,\Nbut a guy going to a girl's house alone?
+Dialogue: 0,0:10:58.82,0:11:00.36,Default,,0000,0000,0000,,Oh!
+Dialogue: 0,0:11:03.83,0:11:05.74,Default,,0000,0000,0000,,It ran away.
+Dialogue: 0,0:11:05.74,0:11:11.08,Default,,0000,0000,0000,,The sound of those brakes must have spooked it.\NCats hate high-pitched noises.
+Dialogue: 0,0:11:11.08,0:11:15.84,Default,,0000,0000,0000,,It probably lives around\Nhere--you'll see it again.
+Dialogue: 0,0:11:15.84,0:11:18.09,Default,,0000,0000,0000,,Okay, Senpai, let's get to class!
+Dialogue: 0,0:11:18.09,0:11:19.38,Default,,0000,0000,0000,,Whoa!
+Dialogue: 0,0:11:20.26,0:11:23.43,Default,,0000,0000,0000,,I wanted to pet it... just once...
+Dialogue: 0,0:11:23.43,0:11:25.31,Default,,0000,0000,0000,,You're really bummed out!
+Dialogue: 0,0:11:25.31,0:11:27.18,Default,,0000,0000,0000,,Nah. I'm fine.
+Dialogue: 0,0:11:27.18,0:11:30.56,Default,,0000,0000,0000,,I love dogs and cats both,
+Dialogue: 0,0:11:30.56,0:11:33.48,Default,,0000,0000,0000,,but pets aren't allowed at\Nmy parents' place or where I live now.
+Dialogue: 0,0:11:33.48,0:11:36.11,Default,,0000,0000,0000,,I haven't touched many cats...
+Dialogue: 0,0:11:38.40,0:11:40.95,Default,,0000,0000,0000,,Then I'm gonna go catch that one!
+Dialogue: 0,0:11:40.95,0:11:42.11,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:11:42.11,0:11:46.62,Default,,0000,0000,0000,,It can't have gone far--and it's so\Ntame around humans, this might just work!
+Dialogue: 0,0:11:46.62,0:11:48.41,Default,,0000,0000,0000,,You don't have to do that! Hey!
+Dialogue: 0,0:11:48.41,0:11:51.37,Default,,0000,0000,0000,,If I strike out, we'll visit\Na cat café one of these days!
+Dialogue: 0,0:11:51.37,0:11:52.96,Default,,0000,0000,0000,,Seriously?!
+Dialogue: 0,0:11:56.21,0:11:57.84,Default,,0000,0000,0000,,{\i1}There {\i0}you are!
+Dialogue: 0,0:11:58.84,0:12:00.17,Default,,0000,0000,0000,,Hi-{\i1}yah{\i0}!
+Dialogue: 0,0:12:00.17,0:12:03.89,Default,,0000,0000,0000,,Wait up, kitty cat!
+Dialogue: 0,0:12:08.14,0:12:09.14,Default,,0000,0000,0000,,What happened?!
+Dialogue: 0,0:12:09.14,0:12:12.23,Default,,0000,0000,0000,,Senpai! Bad news! Help!
+Dialogue: 0,0:12:12.23,0:12:13.77,Default,,0000,0000,0000,,What the hell?
+Dialogue: 0,0:12:17.69,0:12:19.44,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:12:19.44,0:12:21.03,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:12:21.03,0:12:23.36,Default,,0000,0000,0000,,I'm stuck...
+Dialogue: 0,0:12:23.36,0:12:25.16,Default,,0000,0000,0000,,Put that ass {\i1}away{\i0}!
+Dialogue: 0,0:12:25.16,0:12:27.08,Default,,0000,0000,0000,,Yee {\i1}owch{\i0}!
+Dialogue: 0,0:12:27.08,0:12:28.74,Default,,0000,0000,0000,,What's the big idea?!
+Dialogue: 0,0:12:28.74,0:12:31.41,Default,,0000,0000,0000,,S-Sorry! I-It just... slipped out...
+Dialogue: 0,0:12:31.41,0:12:33.46,Default,,0000,0000,0000,,So you {\i1}hit {\i0}me?
+Dialogue: 0,0:12:33.46,0:12:37.25,Default,,0000,0000,0000,,I saw your pa... pan... your underwear.\NI was trying to fix your skirt.
+Dialogue: 0,0:12:37.25,0:12:38.00,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:12:38.00,0:12:40.92,Default,,0000,0000,0000,,W-Well... okay.
+Dialogue: 0,0:12:40.92,0:12:44.59,Default,,0000,0000,0000,,He saw my undies? Wait: he touched my {\i1}butt{\i0}!
+Dialogue: 0,0:12:44.59,0:12:47.97,Default,,0000,0000,0000,,Whatever. I'll interrogate him later.
+Dialogue: 0,0:12:47.97,0:12:53.02,Default,,0000,0000,0000,,Look, could you pull me\Nfrom behind? Grab my hips.
+Dialogue: 0,0:12:53.02,0:12:54.73,Default,,0000,0000,0000,,Got it.
+Dialogue: 0,0:12:57.27,0:13:00.28,Default,,0000,0000,0000,,Wow, her hips are so slim...
+Dialogue: 0,0:13:02.74,0:13:04.45,Default,,0000,0000,0000,,Whoa! Stop! Stop!
+Dialogue: 0,0:13:04.45,0:13:05.53,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:13:05.53,0:13:07.70,Default,,0000,0000,0000,,Uh-oh. My clothes are caught!
+Dialogue: 0,0:13:07.70,0:13:10.91,Default,,0000,0000,0000,,At this rate, there's a pretty\Nhigh chance my boobs'll pop out!
+Dialogue: 0,0:13:10.91,0:13:13.58,Default,,0000,0000,0000,,D-Don't say "boobs"!
+Dialogue: 0,0:13:13.58,0:13:15.75,Default,,0000,0000,0000,,First get me away from what I'm caught on,
+Dialogue: 0,0:13:15.75,0:13:18.21,Default,,0000,0000,0000,,then pull a little at a time so nothing tears!
+Dialogue: 0,0:13:18.21,0:13:20.67,Default,,0000,0000,0000,,I'm counting on you! I just bought this outfit!
+Dialogue: 0,0:13:20.67,0:13:22.92,Default,,0000,0000,0000,,Jeez, you're so demanding!
+Dialogue: 0,0:13:22.92,0:13:26.05,Default,,0000,0000,0000,,Are you pulling out, Senpai? Hurry!
+Dialogue: 0,0:13:26.05,0:13:29.39,Default,,0000,0000,0000,,Almost... there... just behave, will you?
+Dialogue: 0,0:13:33.98,0:13:35.73,Default,,0000,0000,0000,,Eh? Huh? Whoa!
+Dialogue: 0,0:13:35.73,0:13:37.35,Default,,0000,0000,0000,,You've got the wrong idea!
+Dialogue: 0,0:13:37.35,0:13:39.90,Default,,0000,0000,0000,,Aren't you done yet?
+Dialogue: 0,0:13:43.69,0:13:46.86,Default,,0000,0000,0000,,For a second there,\NI didn't know {\i1}what {\i0}would happen!
+Dialogue: 0,0:13:46.86,0:13:48.74,Default,,0000,0000,0000,,Thanks, Senpai!
+Dialogue: 0,0:13:48.74,0:13:51.45,Default,,0000,0000,0000,,We can forget about that whole butt thing.
+Dialogue: 0,0:13:51.45,0:13:54.50,Default,,0000,0000,0000,,C'mon, let's get to class!
+Dialogue: 0,0:13:54.50,0:13:56.33,Default,,0000,0000,0000,,I just want to go home.
+Dialogue: 0,0:13:56.33,0:13:58.67,Default,,0000,0000,0000,,Then how about a cat café?
+Dialogue: 0,0:14:01.71,0:14:03.55,Default,,0000,0000,0000,,Maybe next time.
+Dialogue: 0,0:14:10.51,0:14:13.47,Default,,0000,0000,0000,,Eating in the dining hall today, Senpai?
+Dialogue: 0,0:14:13.47,0:14:15.14,Default,,0000,0000,0000,,Uzaki...
+Dialogue: 0,0:14:15.14,0:14:17.35,Default,,0000,0000,0000,,Hmm? What's up?
+Dialogue: 0,0:14:17.35,0:14:21.56,Default,,0000,0000,0000,,It's hard to look her in the eye\Nafter what happened earlier.
+Dialogue: 0,0:14:21.56,0:14:22.61,Default,,0000,0000,0000,,Aha!
+Dialogue: 0,0:14:22.61,0:14:25.36,Default,,0000,0000,0000,,Are you embarrassed to be eating alone?
+Dialogue: 0,0:14:25.36,0:14:26.40,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:14:26.40,0:14:31.74,Default,,0000,0000,0000,,Too bad. I'm eating with my friend today,\Nso I can't keep you company.
+Dialogue: 0,0:14:31.74,0:14:34.20,Default,,0000,0000,0000,,I know you're lonely, but please don't cry.
+Dialogue: 0,0:14:34.20,0:14:38.00,Default,,0000,0000,0000,,Oh, shut up! I'm eating with a friend!
+Dialogue: 0,0:14:39.12,0:14:41.17,Default,,0000,0000,0000,,Eh? {\i1}Huh{\i0}?!
+Dialogue: 0,0:14:41.17,0:14:44.21,Default,,0000,0000,0000,,What? Look, you're spilling that like crazy.
+Dialogue: 0,0:14:44.21,0:14:46.63,Default,,0000,0000,0000,,You mean you have a {\i1}friend{\i0}?!
+Dialogue: 0,0:14:46.63,0:14:48.68,Default,,0000,0000,0000,,That is {\i1}outstandingly {\i0}rude!
+Dialogue: 0,0:14:48.68,0:14:53.89,Default,,0000,0000,0000,,Oh, man--what now?\NI'd better say hi to your friend, huh?
+Dialogue: 0,0:14:53.89,0:14:55.85,Default,,0000,0000,0000,,Who are you, my mother?
+Dialogue: 0,0:14:55.85,0:14:57.31,Default,,0000,0000,0000,,Get lost!
+Dialogue: 0,0:14:57.31,0:14:58.73,Default,,0000,0000,0000,,Idiot.
+Dialogue: 0,0:15:05.82,0:15:07.07,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:15:12.20,0:15:14.78,Default,,0000,0000,0000,,What {\i1}is {\i0}that dummy doing?
+Dialogue: 0,0:15:18.29,0:15:20.17,Default,,0000,0000,0000,,What are {\i1}you {\i0}lookin' at?
+Dialogue: 0,0:15:20.17,0:15:21.50,On Top,,0000,0000,0000,,"Are"
+Dialogue: 0,0:15:23.25,0:15:24.88,On Top,,0000,0000,0000,,"You"
+Dialogue: 0,0:15:26.84,0:15:27.67,On Top,,0000,0000,0000,,"Okay"
+Dialogue: 0,0:15:29.47,0:15:30.97,On Top,,0000,0000,0000,,"Over There?"
+Dialogue: 0,0:15:34.85,0:15:37.06,Default,,0000,0000,0000,,Seriously, what the hell is that idiot doing?
+Dialogue: 0,0:15:37.06,0:15:38.77,Default,,0000,0000,0000,,I just don't get it.
+Dialogue: 0,0:15:42.85,0:15:47.53,On Top,,0000,0000,0000,,"Ozaki (Idiot)" "Just now"\N"You okay? Not being left out?"
+Dialogue: 0,0:15:45.02,0:15:47.90,Default,,0000,0000,0000,,What is {\i1}she {\i0}worried about?
+Dialogue: 0,0:15:49.65,0:15:54.66,On Top,,0000,0000,0000,,"You worry too much.\NPut your phone away at meals. It's bad manners."
+Dialogue: 0,0:15:54.91,0:16:01.58,On Top,,0000,0000,0000,,"Fussing about table manners--you\Nare {\i1}such {\i0}an old man, lolololol"
+Dialogue: 0,0:16:01.58,0:16:06.29,On Top,,0000,0000,0000,,"So, hey, I'm not the only person\Nyou talk to at college, huh?"
+Dialogue: 0,0:16:06.54,0:16:10.17,On Top,,0000,0000,0000,,"Just who do you think I am?"
+Dialogue: 0,0:16:10.42,0:16:13.55,On Top,,0000,0000,0000,,"A gloomy villain-faced loner"
+Dialogue: 0,0:16:13.55,0:16:13.93,On Top,,0000,0000,0000,,"Just who do you think I am?"\N"A gloomy villain-faced loner"
+Dialogue: 0,0:16:13.93,0:16:15.35,On Top,,0000,0000,0000,,"I'm gonna smack you"
+Dialogue: 0,0:16:15.35,0:16:17.60,On Top,,0000,0000,0000,,"Quit staring at me and {\i1}eat{\i0}!"
+Dialogue: 0,0:16:17.60,0:16:19.81,On Top,,0000,0000,0000,,"But I'm worried about you"
+Dialogue: 0,0:16:19.81,0:16:21.31,On Top,,0000,0000,0000,,"{\i1}Don't be{\i0}!!"
+Dialogue: 0,0:16:22.77,0:16:25.56,On Top,,0000,0000,0000,,"And no weird stickers!!"
+Dialogue: 0,0:16:25.56,0:16:28.65,On Top,,0000,0000,0000,,"Now my food's cold,\Nand it's all your fault, idiot!!"
+Dialogue: 0,0:16:29.15,0:16:31.95,Default,,0000,0000,0000,,Your noodles are getting soggy, Hana.
+Dialogue: 0,0:16:35.28,0:16:38.58,Default,,0000,0000,0000,,You shouldn't use your phone at mealtimes.
+Dialogue: 0,0:16:38.58,0:16:39.87,Default,,0000,0000,0000,,Uh-huh.
+Dialogue: 0,0:16:41.29,0:16:44.83,Default,,0000,0000,0000,,Thank you very much. Come again.
+Dialogue: 0,0:16:46.29,0:16:50.09,Default,,0000,0000,0000,,How about a drink after you tidy up, Sakurai?
+Dialogue: 0,0:16:50.09,0:16:53.34,Default,,0000,0000,0000,,Oh, thank you! I'd like that.
+Dialogue: 0,0:16:54.05,0:16:57.64,Default,,0000,0000,0000,,You're about halfway through college life, eh?
+Dialogue: 0,0:16:57.64,0:16:59.01,Default,,0000,0000,0000,,How are you doing on credits?
+Dialogue: 0,0:16:59.01,0:17:00.89,Default,,0000,0000,0000,,They're... They're coming along.
+Dialogue: 0,0:17:00.89,0:17:06.27,Default,,0000,0000,0000,,My daughter took all kinds of credits.\NNow she just dawdles around every day.
+Dialogue: 0,0:17:06.27,0:17:10.07,Default,,0000,0000,0000,,It's better that way. I'm jealous!
+Dialogue: 0,0:17:10.07,0:17:15.45,Default,,0000,0000,0000,,Well, it's much better\Nthan regretting it down the road.
+Dialogue: 0,0:17:17.91,0:17:20.37,Default,,0000,0000,0000,,This place is great, all right.
+Dialogue: 0,0:17:20.37,0:17:23.29,Default,,0000,0000,0000,,Slow jazz at a moderate volume.
+Dialogue: 0,0:17:23.29,0:17:27.08,Default,,0000,0000,0000,,The calming aroma of coffee.
+Dialogue: 0,0:17:27.08,0:17:30.30,Default,,0000,0000,0000,,It's almost like time flows more slowly here,
+Dialogue: 0,0:17:30.30,0:17:33.47,Default,,0000,0000,0000,,in this place where you can feel at ease.
+Dialogue: 0,0:17:33.47,0:17:34.80,Default,,0000,0000,0000,,Senpai!
+Dialogue: 0,0:17:36.01,0:17:37.64,Default,,0000,0000,0000,,Hi!
+Dialogue: 0,0:17:37.64,0:17:40.85,Default,,0000,0000,0000,,Not {\i1}you {\i0}again!\NI told you not to come when I'm here!
+Dialogue: 0,0:17:40.85,0:17:43.85,Default,,0000,0000,0000,,Aw, don't be so cold!
+Dialogue: 0,0:17:43.85,0:17:46.52,Default,,0000,0000,0000,,Besides, what's the point if you're not here?
+Dialogue: 0,0:17:46.52,0:17:50.07,Default,,0000,0000,0000,,I couldn't wait a minute more to see you!
+Dialogue: 0,0:17:50.07,0:17:54.11,Default,,0000,0000,0000,,Uh--I--{\i1}what{\i0}? What are you talking about?!
+Dialogue: 0,0:17:54.11,0:17:56.20,Default,,0000,0000,0000,,I have to resubmit my report--
+Dialogue: 0,0:17:56.20,0:17:58.57,Default,,0000,0000,0000,,please help me!
+Dialogue: 0,0:17:58.57,0:18:00.58,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:00.58,0:18:03.29,Default,,0000,0000,0000,,Oh... a report, huh?
+Dialogue: 0,0:18:03.29,0:18:06.83,Default,,0000,0000,0000,,You always were good at writing...
+Dialogue: 0,0:18:08.08,0:18:09.00,Default,,0000,0000,0000,,No can do.
+Dialogue: 0,0:18:09.00,0:18:10.84,Default,,0000,0000,0000,,What? Why?!
+Dialogue: 0,0:18:10.84,0:18:13.13,Default,,0000,0000,0000,,Can't you tell? I'm working.
+Dialogue: 0,0:18:13.13,0:18:14.59,Default,,0000,0000,0000,,I'll wait!
+Dialogue: 0,0:18:14.59,0:18:16.76,Default,,0000,0000,0000,,Use that time to do it yourself!
+Dialogue: 0,0:18:16.76,0:18:19.55,Default,,0000,0000,0000,,I don't think I can do it on my own!
+Dialogue: 0,0:18:19.55,0:18:21.43,Default,,0000,0000,0000,,And you got into college, huh?
+Dialogue: 0,0:18:21.43,0:18:23.81,Default,,0000,0000,0000,,C'mon, please help me!
+Dialogue: 0,0:18:23.81,0:18:24.97,Default,,0000,0000,0000,,Look here, you...
+Dialogue: 0,0:18:24.97,0:18:28.06,Default,,0000,0000,0000,,Now, now, Sakurai--
+Dialogue: 0,0:18:28.06,0:18:31.65,Default,,0000,0000,0000,,Your junior is counting on you.\NWhy, that's adorable!
+Dialogue: 0,0:18:31.65,0:18:35.19,Default,,0000,0000,0000,,We're done here--feel free to\Nstick around and work on that report.
+Dialogue: 0,0:18:35.19,0:18:35.82,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:35.82,0:18:37.82,Default,,0000,0000,0000,,Really?!
+Dialogue: 0,0:18:37.82,0:18:41.24,Default,,0000,0000,0000,,We don't have any customers right now.
+Dialogue: 0,0:18:41.24,0:18:45.41,Default,,0000,0000,0000,,It's fun watching the back-and-forth\Nbetween these two.
+Dialogue: 0,0:18:53.67,0:18:59.05,Default,,0000,0000,0000,,A little something for my\Nbest employee's junior. On the house.
+Dialogue: 0,0:18:59.05,0:19:02.39,Default,,0000,0000,0000,,You really don't have to do that.
+Dialogue: 0,0:19:02.39,0:19:05.97,Default,,0000,0000,0000,,Hooray! You're so generous, sir!
+Dialogue: 0,0:19:05.97,0:19:08.31,Default,,0000,0000,0000,,First the report, then eat.
+Dialogue: 0,0:19:08.31,0:19:10.77,Default,,0000,0000,0000,,Wow. Strict.
+Dialogue: 0,0:19:10.77,0:19:12.48,Default,,0000,0000,0000,,You're almost done!
+Dialogue: 0,0:19:12.48,0:19:14.92,Default,,0000,0000,0000,,See, this is weird, too.
+Dialogue: 0,0:19:13.98,0:19:21.49,On Top,,0000,0000,0000,,"I think"
+Dialogue: 0,0:19:14.92,0:19:18.05,Default,,0000,0000,0000,,"I think" is something\Nyou'd say in grade school.
+Dialogue: 0,0:19:18.05,0:19:21.84,Default,,0000,0000,0000,,Change it to "It's thought"\Nor "It's considered."
+Dialogue: 0,0:19:24.12,0:19:27.66,Default,,0000,0000,0000,,You're in college.\NQuit writing childish sentences.
+Dialogue: 0,0:19:27.66,0:19:33.38,Default,,0000,0000,0000,,Now me, I'd boost the word count with\N"Personally speaking, it feels as though XYZ."
+Dialogue: 0,0:19:33.38,0:19:35.75,Default,,0000,0000,0000,,I see...
+Dialogue: 0,0:19:35.75,0:19:39.55,Default,,0000,0000,0000,,Once that's fixed,\Nall that's left is your closing sentence.
+Dialogue: 0,0:19:39.55,0:19:41.30,Default,,0000,0000,0000,,Write that and be done with it.
+Dialogue: 0,0:19:41.30,0:19:44.14,Default,,0000,0000,0000,,Oh, right! I've been meaning\Nto ask you something.
+Dialogue: 0,0:19:44.14,0:19:47.64,Default,,0000,0000,0000,,You can't concentrate\Nto save your soul, can you?
+Dialogue: 0,0:19:47.64,0:19:50.14,Default,,0000,0000,0000,,Can I go to your place?
+Dialogue: 0,0:19:50.14,0:19:52.10,Default,,0000,0000,0000,,Absolutely not.
+Dialogue: 0,0:19:52.10,0:19:54.31,Default,,0000,0000,0000,,That was quick.
+Dialogue: 0,0:19:54.31,0:19:56.36,Default,,0000,0000,0000,,Where'd {\i1}that {\i0}come from, anyway?
+Dialogue: 0,0:19:56.36,0:19:58.82,Default,,0000,0000,0000,,I just wanna see it!
+Dialogue: 0,0:19:58.82,0:20:00.65,Default,,0000,0000,0000,,"Just" nothing!
+Dialogue: 0,0:20:00.65,0:20:03.53,Default,,0000,0000,0000,,No way will I let my lifestyle be\Nupended just for your entertainment!
+Dialogue: 0,0:20:03.53,0:20:06.79,Default,,0000,0000,0000,,I won't upend anything! So why can't I?
+Dialogue: 0,0:20:06.79,0:20:10.12,Default,,0000,0000,0000,,Why?! I mean...
+Dialogue: 0,0:20:10.12,0:20:13.46,Default,,0000,0000,0000,,Is she for real?
+Dialogue: 0,0:20:13.46,0:20:16.25,Default,,0000,0000,0000,,I have no reason to let you into my place.
+Dialogue: 0,0:20:16.25,0:20:20.34,Default,,0000,0000,0000,,Sure you do. You said you live alone, right?
+Dialogue: 0,0:20:20.34,0:20:26.22,Default,,0000,0000,0000,,You can save money if I cook,\Nand you're closer to campus.
+Dialogue: 0,0:20:26.22,0:20:29.06,Default,,0000,0000,0000,,See? There are way more pros than cons!
+Dialogue: 0,0:20:29.06,0:20:33.65,Default,,0000,0000,0000,,Are you serious? Is your cooking even edible?
+Dialogue: 0,0:20:33.65,0:20:37.40,Default,,0000,0000,0000,,What kind of an excuse is that? And yes, it {\i1}is{\i0}!
+Dialogue: 0,0:20:37.40,0:20:43.24,Default,,0000,0000,0000,,All right, get back to that report.
+Dialogue: 0,0:20:43.24,0:20:46.70,Default,,0000,0000,0000,,Wait, what was that last thing you said?
+Dialogue: 0,0:20:46.70,0:20:47.70,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:20:47.70,0:20:51.58,Default,,0000,0000,0000,,My place is close to campus--and?
+Dialogue: 0,0:20:51.58,0:20:55.04,Default,,0000,0000,0000,,Well, since it's so close, I figure I can sleep in--
+Dialogue: 0,0:20:55.04,0:20:57.04,Default,,0000,0000,0000,,You're not spending the night!
+Dialogue: 0,0:20:57.04,0:21:01.05,Default,,0000,0000,0000,,Th-That's... unbelievable!
+Dialogue: 0,0:21:01.05,0:21:03.34,Default,,0000,0000,0000,,What are you angry about?
+Dialogue: 0,0:21:05.51,0:21:08.68,Default,,0000,0000,0000,,Look, I'm... I'm not angry.
+Dialogue: 0,0:21:08.68,0:21:11.64,Default,,0000,0000,0000,,It's just that... you...
+Dialogue: 0,0:21:11.64,0:21:13.06,Default,,0000,0000,0000,,What is it?
+Dialogue: 0,0:21:14.31,0:21:17.94,Default,,0000,0000,0000,,Letting you in my apartment is one thing...
+Dialogue: 0,0:21:17.94,0:21:23.90,Default,,0000,0000,0000,,It's... not so simple... for a girl...\Nto be in a guy's room...
+Dialogue: 0,0:21:23.90,0:21:25.91,Default,,0000,0000,0000,,You don't want to?
+Dialogue: 0,0:21:25.91,0:21:28.41,Default,,0000,0000,0000,,Wh... {\i1}What{\i0}?!
+Dialogue: 0,0:21:28.41,0:21:32.70,Default,,0000,0000,0000,,We can play versus and co-op all night long!
+Dialogue: 0,0:21:32.70,0:21:33.54,Default,,0000,0000,0000,,Eh?
+Dialogue: 0,0:21:33.54,0:21:37.83,Default,,0000,0000,0000,,I know you bought that new game, Senpai!
+Dialogue: 0,0:21:37.83,0:21:39.59,Default,,0000,0000,0000,,You're on my friend list!
+Dialogue: 0,0:21:39.59,0:21:43.55,Default,,0000,0000,0000,,If we stop by after class,\Nwe can play any old day of the week!
+Dialogue: 0,0:21:45.38,0:21:49.76,Default,,0000,0000,0000,,You idiot! Moron! Imbecile!
+Dialogue: 0,0:21:49.76,0:21:51.85,Default,,0000,0000,0000,,What's {\i1}that {\i0}for?!
+Dialogue: 0,0:21:51.85,0:21:52.97,Default,,0000,0000,0000,,You dummy!
+Dialogue: 0,0:21:52.97,0:21:55.10,On Top,,0000,0000,0000,,I can't {\i1}believe {\i0}you!
+Dialogue: 0,0:21:52.97,0:21:58.96,Default,,0000,0000,0000,,I opened this café for the thrill of\Ngetting a glimpse into all sorts of lives.
+Dialogue: 0,0:21:55.08,0:21:57.79,On Top,,0000,0000,0000,,Why exactly am I an idiot?
+Dialogue: 0,0:21:57.79,0:21:59.67,On Top,,0000,0000,0000,,Because you {\i1}are{\i0}!
+Dialogue: 0,0:21:58.96,0:22:02.96,Default,,0000,0000,0000,,But these two are the best--I\Ncould watch them forever.
+Dialogue: 0,0:22:02.98,0:22:06.11,Default,,0000,0000,0000,,If Sakurai quits, the show would be over.
+Dialogue: 0,0:22:06.11,0:22:08.49,Default,,0000,0000,0000,,Maybe I'll give him a raise.
+Dialogue: 0,0:23:39.31,0:23:43.98,On Top,,0000,0000,0000,,"Episode 3:\NThe Asai Family Wants to Look Out for Us!"
+Dialogue: 0,0:23:39.77,0:23:42.43,Default,,0000,0000,0000,,
