@@ -1,0 +1,326 @@
+﻿[Script Info]
+Title: [Erai-raws] Português (Brasil)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0015,0
+Style: Signs,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0020,0020,0015,0
+Style: Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0015,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.46,0:00:07.75,Top,,0000,0000,0000,,Animal, pegue-os! Animal, esmague-os!
+Dialogue: 0,0:00:07.75,0:00:10.88,Top,,0000,0000,0000,,Animal, dilacere-os! Animal, vá!
+Dialogue: 0,0:00:11.42,0:00:14.68,Default,,0000,0000,0000,,Vindo do outro lado\Ndo mundo até você
+Dialogue: 0,0:00:15.22,0:00:18.64,Default,,0000,0000,0000,,Queimando com uma paixão\NQue ninguém nunca sentiu
+Dialogue: 0,0:00:18.89,0:00:22.14,Default,,0000,0000,0000,,É o mensageiro do\Namor e dos animais!
+Dialogue: 0,0:00:22.52,0:00:24.48,Default,,0000,0000,0000,,Máscara de Animal
+Dialogue: 0,0:00:24.48,0:00:25.81,Default,,0000,0000,0000,,Entrou no ringue!
+Dialogue: 0,0:00:25.81,0:00:28.48,Top,,0000,0000,0000,,Alguns o chamam de herói
+Dialogue: 0,0:00:28.94,0:00:31.15,Top,,0000,0000,0000,,Ele segue seu próprio caminho
+Dialogue: 0,0:00:32.24,0:00:34.65,Default,,0000,0000,0000,,Em busca de feras desconhecidas
+Dialogue: 0,0:00:34.65,0:00:37.62,Top,,0000,0000,0000,,Ele avança sem hesitar
+Dialogue: 0,0:00:38.49,0:00:44.71,Top,,0000,0000,0000,,Não há nada a temer!\NSe você ama algo, diga!
+Dialogue: 0,0:00:44.71,0:00:48.25,Top,,0000,0000,0000,,E quando tiver dito tudo\NÉ hora de soar o gongo!
+Dialogue: 0,0:00:48.25,0:00:51.76,Top,,0000,0000,0000,,Três, dois, um! Lute!
+Dialogue: 0,0:00:51.76,0:00:54.09,Top,,0000,0000,0000,,Deixe seu martelo brutal rugir
+Dialogue: 0,0:00:54.09,0:00:55.18,Top,,0000,0000,0000,,Lá vou eu!
+Dialogue: 0,0:00:55.18,0:00:57.97,Top,,0000,0000,0000,,Cotovelo de animal!
+Dialogue: 0,0:00:58.22,0:01:00.60,Top,,0000,0000,0000,,Em quem entrar no caminho
+Dialogue: 0,0:01:00.60,0:01:03.93,Top,,0000,0000,0000,,Aplique um German Suplex Animal!
+Dialogue: 0,0:01:04.64,0:01:09.61,Top,,0000,0000,0000,,Mesmo que o mundo todo se volte contra mim
+Dialogue: 0,0:01:09.61,0:01:10.73,Top,,0000,0000,0000,,Venha me pegar!
+Dialogue: 0,0:01:10.73,0:01:13.53,Top,,0000,0000,0000,,Nunca desistirei do meu sonho
+Dialogue: 0,0:01:13.53,0:01:15.95,Top,,0000,0000,0000,,Um harém de animais
+Dialogue: 0,0:01:15.95,0:01:17.70,Top,,0000,0000,0000,,Não é uma delícia?
+Dialogue: 0,0:01:17.70,0:01:20.12,Top,,0000,0000,0000,,Uma estrada animal está diante de mim
+Dialogue: 0,0:01:20.95,0:01:24.16,Top,,0000,0000,0000,,E estou pronto para uma luta no ringue
+Dialogue: 0,0:01:24.16,0:01:27.37,Top,,0000,0000,0000,,Para proteger esses sentimentos
+Dialogue: 0,0:01:27.37,0:01:31.00,Top,,0000,0000,0000,,Siga sua estrada animal
+Dialogue: 0,0:01:34.96,0:01:39.05,Signs,,0000,0000,0000,,MÁSCARA DE ANIMAL X OMA
+Dialogue: 0,0:01:39.05,0:01:41.39,Default,,0000,0000,0000,,É hora do evento principal!
+Dialogue: 0,0:01:41.68,0:01:44.56,Default,,0000,0000,0000,,Isso acabará com a longa rivalidade?
+Dialogue: 0,0:01:44.56,0:01:47.85,Default,,0000,0000,0000,,Que luta eles nos\Nreservam esta noite?
+Dialogue: 0,0:01:47.85,0:01:49.65,Signs,,0000,0000,0000,,LUTA PELO TÍTULO MUNDIAL
+Dialogue: 0,0:01:50.15,0:01:51.86,Signs,,0000,0000,0000,,MÁSCARA DE ANIMAL CONTRA OMA
+Dialogue: 0,0:01:56.70,0:01:58.70,Default,,0000,0000,0000,,Finalmente chegou a hora.
+Dialogue: 0,0:02:22.43,0:02:23.85,Default,,0000,0000,0000,,Já chega!
+Dialogue: 0,0:02:24.43,0:02:30.15,Default,,0000,0000,0000,,Se eu conseguir jogar na lona o Máscara\Nde Animal, meu odiado inimigo...
+Dialogue: 0,0:02:33.40,0:02:35.19,Default,,0000,0000,0000,,OMA, está na hora.
+Dialogue: 0,0:02:36.74,0:02:37.86,Default,,0000,0000,0000,,Certo!
+Dialogue: 0,0:02:42.24,0:02:43.78,Default,,0000,0000,0000,,Então chegou a hora.
+Dialogue: 0,0:02:44.41,0:02:46.62,Default,,0000,0000,0000,,Entrando no ringue,
+Dialogue: 0,0:02:46.62,0:02:48.66,Default,,0000,0000,0000,,o lutador que nunca desiste,
+Dialogue: 0,0:02:48.66,0:02:53.34,Default,,0000,0000,0000,,pesando 80kg, o Ogro Macadâmia!
+Dialogue: 0,0:02:53.34,0:02:56.46,Default,,0000,0000,0000,,Também conhecido como OMA!
+Dialogue: 0,0:02:56.46,0:02:58.76,Default,,0000,0000,0000,,É isso mesmo!
+Dialogue: 0,0:02:58.76,0:03:00.68,Default,,0000,0000,0000,,O amante exagerado dos animais,
+Dialogue: 0,0:03:00.68,0:03:05.81,Default,,0000,0000,0000,,pesando 90kg, o Máscara de Animal!
+Dialogue: 0,0:03:06.43,0:03:08.27,Default,,0000,0000,0000,,Enfim chegou a hora.
+Dialogue: 0,0:03:08.27,0:03:10.14,Default,,0000,0000,0000,,O OMA terá sua vingança?
+Dialogue: 0,0:03:11.31,0:03:17.48,Default,,0000,0000,0000,,Máscara de Animal,\Nhoje mandarei você para o túmulo!
+Dialogue: 0,0:03:25.53,0:03:28.75,Default,,0000,0000,0000,,Hoje é o dia! Hoje é o dia!
+Dialogue: 0,0:03:29.20,0:03:33.83,Default,,0000,0000,0000,,Hoje é o dia que vou derrotá-lo!
+Dialogue: 0,0:03:34.29,0:03:36.80,Default,,0000,0000,0000,,E agora ele saltou!
+Dialogue: 0,0:03:40.97,0:03:42.38,Default,,0000,0000,0000,,Eles começaram a brilhar!
+Dialogue: 0,0:03:42.72,0:03:44.39,Default,,0000,0000,0000,,O que é isso?
+Dialogue: 0,0:03:46.26,0:03:48.10,Default,,0000,0000,0000,,Eles desapareceram!
+Dialogue: 0,0:03:48.10,0:03:50.27,Default,,0000,0000,0000,,O que foi isso?
+Dialogue: 0,0:03:50.27,0:03:52.98,Default,,0000,0000,0000,,O Máscara de Animal desapareceu!
+Dialogue: 0,0:03:56.15,0:03:57.32,Default,,0000,0000,0000,,O que houve?
+Dialogue: 0,0:04:06.70,0:04:09.20,Default,,0000,0000,0000,,Máscara de Animal!
+Dialogue: 0,0:04:09.45,0:04:10.70,Default,,0000,0000,0000,,Para onde você foi?
+Dialogue: 0,0:04:11.25,0:04:13.75,Signs,,0000,0000,0000,,MÁSCARA DE ANIMAL DESAPARECE DURANTE LUTA
+Dialogue: 0,0:04:13.75,0:04:15.17,Default,,0000,0000,0000,,Ele fugiu da luta!
+Dialogue: 0,0:04:16.42,0:04:18.75,Default,,0000,0000,0000,,E quem foge da luta pelo título
+Dialogue: 0,0:04:19.42,0:04:22.72,Default,,0000,0000,0000,,só pode ser um covarde infeliz!
+Dialogue: 0,0:04:22.72,0:04:25.39,Default,,0000,0000,0000,,Covarde está bom.\NNão precisa do "infeliz".
+Dialogue: 0,0:04:25.39,0:04:27.64,Default,,0000,0000,0000,,Isso não importa!
+Dialogue: 0,0:04:27.97,0:04:29.76,Default,,0000,0000,0000,,Ouça, Máscara de Animal!
+Dialogue: 0,0:04:29.76,0:04:34.06,Default,,0000,0000,0000,,Que tipo de lutador foge\Ncom medo de perder a luta?
+Dialogue: 0,0:04:34.52,0:04:37.65,Default,,0000,0000,0000,,Volte aqui e terminaremos isso!
+Dialogue: 0,0:05:01.42,0:05:04.47,Default,,0000,0000,0000,,Para onde será que ele foi, afinal?
+Dialogue: 0,0:05:04.92,0:05:06.55,Default,,0000,0000,0000,,Máscara de Animal?
+Dialogue: 0,0:05:07.93,0:05:09.05,Default,,0000,0000,0000,,Genzo?
+Dialogue: 0,0:05:11.14,0:05:13.27,Default,,0000,0000,0000,,Quem se importa?
+Dialogue: 0,0:05:13.85,0:05:16.73,Default,,0000,0000,0000,,Agora trabalharei com\Nluta livre feminina!
+Dialogue: 0,0:05:19.56,0:05:23.32,Signs,,0000,0000,0000,,OMA ENFURECIDO:\N"PARA ONDE VOCÊ FOI, MÁSCARA DE ANIMAL?"
+Dialogue: 0,0:05:25.45,0:05:26.53,Default,,0000,0000,0000,,Genzo?
+Dialogue: 0,0:05:26.82,0:05:31.53,Default,,0000,0000,0000,,- Coma e fique bem grande e forte!\N- Genzo?
+Dialogue: 0,0:05:39.46,0:05:41.63,Default,,0000,0000,0000,,Ele nem atende o telefone.
+Dialogue: 0,0:05:41.63,0:05:43.13,Default,,0000,0000,0000,,Isso não está certo!
+Dialogue: 0,0:05:43.13,0:05:46.30,Default,,0000,0000,0000,,Encontre um novo oponente para ele!
+Dialogue: 0,0:05:46.30,0:05:49.47,Default,,0000,0000,0000,,Ele só aceita lutar contra\No Máscara de Animal.
+Dialogue: 0,0:05:49.80,0:05:56.02,Default,,0000,0000,0000,,Pois é. O Máscara de Animal é\No único que ele nunca derrotou.
+Dialogue: 0,0:05:56.77,0:05:58.48,Default,,0000,0000,0000,,O que faremos?
+Dialogue: 0,0:05:58.48,0:06:00.15,Signs,,0000,0000,0000,,MÚSICA DE ENTRADA\NMÁSCARA DE ANIMAL
+Dialogue: 0,0:06:00.15,0:06:03.82,Signs,,0000,0000,0000,,RESTAURANTE
+Dialogue: 0,0:06:37.18,0:06:41.27,Signs,,0000,0000,0000,,GRANDE INAUGURAÇÃO
+Dialogue: 0,0:06:41.27,0:06:42.90,Default,,0000,0000,0000,,Fizemos uma reforma.
+Dialogue: 0,0:06:45.40,0:06:46.74,Default,,0000,0000,0000,,Máscara de Animal!
+Dialogue: 0,0:06:48.45,0:06:51.95,Default,,0000,0000,0000,,Para onde você foi?
+Dialogue: 0,0:06:58.41,0:06:59.58,Default,,0000,0000,0000,,Genzo?
+Dialogue: 0,0:06:59.58,0:07:02.13,Default,,0000,0000,0000,,Você está aí. Estava procurando-o.
+Dialogue: 0,0:07:02.63,0:07:06.09,Default,,0000,0000,0000,,Pode ir sem mim hoje?
+Dialogue: 0,0:07:07.09,0:07:08.38,Default,,0000,0000,0000,,De novo?
+Dialogue: 0,0:07:08.38,0:07:09.72,Default,,0000,0000,0000,,Como assim?
+Dialogue: 0,0:07:09.72,0:07:12.34,Default,,0000,0000,0000,,Quero ficar aqui.\NO Masao precisa de mim!
+Dialogue: 0,0:07:14.80,0:07:17.10,Default,,0000,0000,0000,,Ele está dormindo.
+Dialogue: 0,0:07:17.47,0:07:18.73,Default,,0000,0000,0000,,Por enquanto, sim.
+Dialogue: 0,0:07:19.93,0:07:21.52,Default,,0000,0000,0000,,Mas pense comigo.
+Dialogue: 0,0:07:21.52,0:07:23.40,Default,,0000,0000,0000,,Ele chegou há pouco tempo.
+Dialogue: 0,0:07:23.40,0:07:26.02,Default,,0000,0000,0000,,Se eu não estiver aqui\Nquando ele acordar...
+Dialogue: 0,0:07:37.99,0:07:40.62,Default,,0000,0000,0000,,E se isso acontecer, Shigure?
+Dialogue: 0,0:07:42.92,0:07:45.29,Default,,0000,0000,0000,,Não sei o que você\Nquer que eu responda.
+Dialogue: 0,0:07:45.29,0:07:50.01,Default,,0000,0000,0000,,Quero estar ao lado dele todo o tempo,\Npelo menos até se acostumar com a casa.
+Dialogue: 0,0:07:50.38,0:07:54.26,Default,,0000,0000,0000,,Mas dizem que os cu sith não\Nse dão bem com os humanos.
+Dialogue: 0,0:07:54.26,0:07:56.64,Default,,0000,0000,0000,,Não daria um bom\Nanimal de estimação.
+Dialogue: 0,0:07:59.81,0:08:02.14,Default,,0000,0000,0000,,Então será um projeto\Nde longo prazo.
+Dialogue: 0,0:08:02.48,0:08:05.27,Default,,0000,0000,0000,,Ei, você ouviu o que eu disse?
+Dialogue: 0,0:08:05.27,0:08:07.27,Default,,0000,0000,0000,,Já chega de desculpas.
+Dialogue: 0,0:08:07.27,0:08:08.69,Default,,0000,0000,0000,,Não é desculpa!
+Dialogue: 0,0:08:08.69,0:08:10.40,Default,,0000,0000,0000,,Certo, certo. Vamos logo!
+Dialogue: 0,0:08:10.40,0:08:13.11,Default,,0000,0000,0000,,Espere, espere, Shigure!
+Dialogue: 0,0:08:13.11,0:08:15.70,Default,,0000,0000,0000,,Pare! Espere, Shigure!
+Dialogue: 0,0:08:16.07,0:08:18.70,Default,,0000,0000,0000,,Sua malvada! Seu monstro! Pare!
+Dialogue: 0,0:08:18.70,0:08:21.91,Default,,0000,0000,0000,,Hiroyuki, cuide de tudo!
+Dialogue: 0,0:08:21.91,0:08:23.08,Default,,0000,0000,0000,,Estamos indo!
+Dialogue: 0,0:08:24.54,0:08:26.42,Default,,0000,0000,0000,,Masao!
+Dialogue: 0,0:08:27.25,0:08:29.71,Default,,0000,0000,0000,,Estão todos esperando por nós.
+Dialogue: 0,0:08:29.71,0:08:32.67,Default,,0000,0000,0000,,Me largue, Shigure!
+Dialogue: 0,0:08:33.97,0:08:35.55,Default,,0000,0000,0000,,Finalmente eles saíram!
+Dialogue: 0,0:08:35.55,0:08:37.60,Default,,0000,0000,0000,,Achei que não teríamos chance.
+Dialogue: 0,0:08:37.97,0:08:40.14,Default,,0000,0000,0000,,Faremos isso mesmo?
+Dialogue: 0,0:08:40.89,0:08:43.27,Default,,0000,0000,0000,,Eu nunca vi essa besta antes.
+Dialogue: 0,0:08:43.52,0:08:48.31,Default,,0000,0000,0000,,Nem consigo imaginar o quanto um\Nricaço esquisitão pagaria por ela!
+Dialogue: 0,0:08:48.31,0:08:49.94,Default,,0000,0000,0000,,Temos que capturá-la!
+Dialogue: 0,0:08:50.57,0:08:53.53,Default,,0000,0000,0000,,Mas e se ele voltar?
+Dialogue: 0,0:08:53.99,0:08:57.95,Default,,0000,0000,0000,,Acho que é melhor ficarmos\Nlonge daquele pervertido.
+Dialogue: 0,0:08:57.95,0:09:01.70,Default,,0000,0000,0000,,Sua tola! Eu preciso me vingar!
+Dialogue: 0,0:09:02.62,0:09:05.75,Default,,0000,0000,0000,,O que ele fez comigo...
+Dialogue: 0,0:09:05.75,0:09:07.50,Default,,0000,0000,0000,,O que ele fez com você?
+Dialogue: 0,0:09:12.42,0:09:14.67,Default,,0000,0000,0000,,Misha, acabou de lembrar, não é?
+Dialogue: 0,0:09:16.89,0:09:19.47,Default,,0000,0000,0000,,Pare! É melhor não lembrar!
+Dialogue: 0,0:09:19.47,0:09:21.56,Default,,0000,0000,0000,,Não ria de mim!
+Dialogue: 0,0:09:21.56,0:09:23.18,Default,,0000,0000,0000,,Desculpe!
+Dialogue: 0,0:09:23.18,0:09:24.52,Default,,0000,0000,0000,,Vamos logo!
+Dialogue: 0,0:09:24.52,0:09:25.64,Default,,0000,0000,0000,,Certo!
+Dialogue: 0,0:09:27.06,0:09:28.98,Default,,0000,0000,0000,,Será que vai mesmo funcionar?
+Dialogue: 0,0:09:28.98,0:09:32.94,Default,,0000,0000,0000,,Não se preocupe se vai funcionar.\NFaça funcionar!
+Dialogue: 0,0:09:33.19,0:09:34.57,Default,,0000,0000,0000,,Certo.
+Dialogue: 0,0:09:34.57,0:09:36.40,Default,,0000,0000,0000,,Então, qual é o plano?
+Dialogue: 0,0:09:36.78,0:09:40.08,Default,,0000,0000,0000,,Ouça, tenho o plano perfeito.
+Dialogue: 0,0:09:41.95,0:09:46.12,Default,,0000,0000,0000,,Primeiro usamos este\Npresunto caro para atraí-lo.
+Dialogue: 0,0:09:46.12,0:09:50.13,Default,,0000,0000,0000,,- Acha que vai funcionar?\N- E então o trazemos para fora
+Dialogue: 0,0:09:51.00,0:09:54.55,Default,,0000,0000,0000,,e quando ele estiver perto,\Nvocê o captura com o saco
+Dialogue: 0,0:09:55.63,0:09:57.13,Default,,0000,0000,0000,,e nos separamos!
+Dialogue: 0,0:09:57.13,0:09:58.39,Default,,0000,0000,0000,,Perfeito, não é?
+Dialogue: 0,0:09:58.39,0:09:59.89,Default,,0000,0000,0000,,Eu não sei...
+Dialogue: 0,0:09:59.89,0:10:01.60,Default,,0000,0000,0000,,- Vamos logo!\N- Certo!
+Dialogue: 0,0:10:02.06,0:10:04.35,Default,,0000,0000,0000,,Só espero que funcione.
+Dialogue: 0,0:10:09.98,0:10:14.98,Signs,,0000,0000,0000,,KEMONO MICHI: RISE UP!
+Dialogue: 0,0:10:24.37,0:10:27.33,Default,,0000,0000,0000,,Não vejo a dradradogola\Nem lugar nenhum.
+Dialogue: 0,0:10:27.33,0:10:30.17,Default,,0000,0000,0000,,- Pois é.\N- Será que ela está aqui?
+Dialogue: 0,0:10:30.79,0:10:34.34,Default,,0000,0000,0000,,Segundo o funcionário\Nda guilda, sim.
+Dialogue: 0,0:10:34.34,0:10:35.84,Default,,0000,0000,0000,,Ele não mentiu?
+Dialogue: 0,0:10:35.84,0:10:38.38,Default,,0000,0000,0000,,Também não há comida aqui.\NO que faremos?
+Dialogue: 0,0:10:40.09,0:10:43.22,Default,,0000,0000,0000,,Deixe comigo, senhorita!
+Dialogue: 0,0:10:44.01,0:10:45.14,Default,,0000,0000,0000,,Esperem.
+Dialogue: 0,0:10:45.68,0:10:47.48,Default,,0000,0000,0000,,Tenho um mau pressentimento.
+Dialogue: 0,0:10:47.81,0:10:48.94,Default,,0000,0000,0000,,Vamos voltar.
+Dialogue: 0,0:10:49.73,0:10:52.11,Default,,0000,0000,0000,,Lá vem você de novo...
+Dialogue: 0,0:10:52.11,0:10:53.94,Default,,0000,0000,0000,,Não, é sério.
+Dialogue: 0,0:10:55.57,0:10:58.15,Default,,0000,0000,0000,,É alguma mensagem\Ndo mundo espiritual
+Dialogue: 0,0:10:58.15,0:11:02.03,Default,,0000,0000,0000,,dizendo que algo horrível pode\Nter acontecido às minhas feras!
+Dialogue: 0,0:11:04.33,0:11:07.16,Default,,0000,0000,0000,,Consigo farejar suas mentiras.
+Dialogue: 0,0:11:07.75,0:11:09.83,Default,,0000,0000,0000,,Disse que é um mau pressentimento,
+Dialogue: 0,0:11:09.83,0:11:14.29,Default,,0000,0000,0000,,mas, na verdade, não está interessado\Nna dradradogola porque é uma planta.
+Dialogue: 0,0:11:14.29,0:11:15.42,Default,,0000,0000,0000,,Nada disso!
+Dialogue: 0,0:11:16.30,0:11:18.84,Default,,0000,0000,0000,,Foi assim com a Keiko, lembra?
+Dialogue: 0,0:11:18.84,0:11:21.01,Default,,0000,0000,0000,,Mas você mentiu sobre o Toshihiko.
+Dialogue: 0,0:11:25.22,0:11:26.68,Default,,0000,0000,0000,,Já voltei.
+Dialogue: 0,0:11:31.48,0:11:32.90,Default,,0000,0000,0000,,Gang? Misha?
+Dialogue: 0,0:11:38.36,0:11:40.07,Default,,0000,0000,0000,,O que aconteceu com vocês?
+Dialogue: 0,0:11:41.36,0:11:43.57,Default,,0000,0000,0000,,Edgar, na verdade...
+Dialogue: 0,0:11:44.45,0:11:48.16,Default,,0000,0000,0000,,meu irmão teve a ideia de roubar\Naquela besta do pervertido
+Dialogue: 0,0:11:48.16,0:11:52.04,Default,,0000,0000,0000,,para lhe dar uma lição.
+Dialogue: 0,0:11:53.88,0:11:56.29,Default,,0000,0000,0000,,E fizeram essa idiotice\Nsem me avisar?
+Dialogue: 0,0:11:56.63,0:11:59.59,Default,,0000,0000,0000,,Eu disse que você não\Niria gostar, mas ele...
+Dialogue: 0,0:12:06.60,0:12:09.22,Default,,0000,0000,0000,,Enfim terei a chance\Nde vê-lo aos prantos.
+Dialogue: 0,0:12:09.81,0:12:11.56,Default,,0000,0000,0000,,Tomara que sim.
+Dialogue: 0,0:12:12.27,0:12:13.60,Default,,0000,0000,0000,,Certo, vamos lá.
+Dialogue: 0,0:12:13.60,0:12:14.73,Default,,0000,0000,0000,,Está bem.
+Dialogue: 0,0:12:22.36,0:12:24.41,Default,,0000,0000,0000,,Certo, é agora. Misha?
+Dialogue: 0,0:12:24.82,0:12:26.20,Default,,0000,0000,0000,,Estou sempre pronta!
+Dialogue: 0,0:12:39.34,0:12:42.17,Default,,0000,0000,0000,,Até que ele é fofinho, não?
+Dialogue: 0,0:12:45.80,0:12:47.68,Default,,0000,0000,0000,,O que está fazendo, Gang?
+Dialogue: 0,0:12:47.68,0:12:49.26,Default,,0000,0000,0000,,Vamos colocá-lo no saco!
+Dialogue: 0,0:12:50.14,0:12:51.31,Default,,0000,0000,0000,,É gostoso, não?
+Dialogue: 0,0:12:51.77,0:12:54.98,Default,,0000,0000,0000,,Gang, acorde! Não ceda à tentação!
+Dialogue: 0,0:12:54.98,0:12:56.27,Default,,0000,0000,0000,,Gang?
+Dialogue: 0,0:12:56.77,0:12:59.19,Default,,0000,0000,0000,,Gang, precisamos nos apressar!
+Dialogue: 0,0:12:59.19,0:13:02.49,Default,,0000,0000,0000,,Ele é tão fofinho!
+Dialogue: 0,0:13:03.03,0:13:05.16,Default,,0000,0000,0000,,O meu irmão...
+Dialogue: 0,0:13:26.30,0:13:30.93,Default,,0000,0000,0000,,Eu sobrevivi porque corro rápido,\Nmas meu irmão...
+Dialogue: 0,0:13:32.27,0:13:37.94,Default,,0000,0000,0000,,Uma formiga... uma formiga\Nenorme... me ajude!
+Dialogue: 0,0:13:37.94,0:13:42.03,Default,,0000,0000,0000,,Parece que agora ele tem outro\Num trauma com o qual lidar.
+Dialogue: 0,0:13:48.24,0:13:50.33,Default,,0000,0000,0000,,Esse grito foi uma dradradogola!
+Dialogue: 0,0:13:50.33,0:13:52.45,Default,,0000,0000,0000,,O quê? Essa voz? De onde veio?
+Dialogue: 0,0:13:54.91,0:13:56.08,Default,,0000,0000,0000,,De lá.
+Dialogue: 0,0:13:57.75,0:13:59.75,Default,,0000,0000,0000,,Então há bestas demoníacas aqui!
+Dialogue: 0,0:13:59.75,0:14:02.67,Default,,0000,0000,0000,,Quem foi o idiota\Ndisse que não havia?
+Dialogue: 0,0:14:15.27,0:14:17.39,Default,,0000,0000,0000,,Genzo, o que aconteceu?
+Dialogue: 0,0:14:17.39,0:14:19.40,Default,,0000,0000,0000,,A dradradogola o pegou?
+Dialogue: 0,0:14:19.73,0:14:21.48,Default,,0000,0000,0000,,Finalmente você morreu, Genzo?
+Dialogue: 0,0:14:22.02,0:14:23.94,Default,,0000,0000,0000,,Estou tão triste!
+Dialogue: 0,0:14:23.94,0:14:27.65,Default,,0000,0000,0000,,O quê? Ninguém avisou que\Naquela coisa é carnívora!
+Dialogue: 0,0:14:28.49,0:14:30.03,Default,,0000,0000,0000,,Genzo!
+Dialogue: 0,0:14:30.03,0:14:31.99,Default,,0000,0000,0000,,Genzo?
+Dialogue: 0,0:14:32.24,0:14:35.95,Default,,0000,0000,0000,,Não se preocupe. Farei o cadáver\Ndele me servir para sempre!
+Dialogue: 0,0:14:39.12,0:14:40.25,Default,,0000,0000,0000,,Genzo?
+Dialogue: 0,0:14:40.92,0:14:42.00,Default,,0000,0000,0000,,Ele está vivo.
+Dialogue: 0,0:14:43.17,0:14:46.46,Default,,0000,0000,0000,,Então estas são as tais plantas?
+Dialogue: 0,0:14:49.13,0:14:52.64,Default,,0000,0000,0000,,Não fique tão desapontado.\NÉ nosso trabalho.
+Dialogue: 0,0:14:53.35,0:14:58.06,Default,,0000,0000,0000,,Aposto que os gritos terríveis delas\Nfizeram você fazer xixi nas calças.
+Dialogue: 0,0:14:58.06,0:14:59.06,Default,,0000,0000,0000,,É nosso trabalho.
+Dialogue: 0,0:14:59.94,0:15:02.27,Default,,0000,0000,0000,,Vocês assumem agora. Vou para casa.
+Dialogue: 0,0:15:03.19,0:15:06.15,Default,,0000,0000,0000,,Sei que não são animais,\Nmas pode ao menos tentar?
+Dialogue: 0,0:15:09.28,0:15:11.20,Default,,0000,0000,0000,,Humano covarde!
+Dialogue: 0,0:15:11.20,0:15:12.95,Default,,0000,0000,0000,,Cale a boca, vampira.
+Dialogue: 0,0:15:12.95,0:15:16.04,Default,,0000,0000,0000,,Não sou a nobre criatura\Nque chamam de vampiro!
+Dialogue: 0,0:15:19.58,0:15:23.34,Default,,0000,0000,0000,,Olhe só esta aqui! Não é linda?
+Dialogue: 0,0:15:23.59,0:15:27.71,Default,,0000,0000,0000,,Linda? Acho que você\Nprecisa de óculos.
+Dialogue: 0,0:15:27.71,0:15:31.09,Default,,0000,0000,0000,,- Você está bem?\N- Agora não é hora de falar disso!
+Dialogue: 0,0:15:31.59,0:15:34.05,Default,,0000,0000,0000,,Viu, Genzo?
+Dialogue: 0,0:15:34.05,0:15:36.39,Default,,0000,0000,0000,,Não vejo beleza nenhuma.
+Dialogue: 0,0:15:37.35,0:15:39.48,Default,,0000,0000,0000,,É linda, sim!
+Dialogue: 0,0:15:39.48,0:15:41.23,Default,,0000,0000,0000,,Já disse que não é bonita.
+Dialogue: 0,0:15:41.48,0:15:43.02,Default,,0000,0000,0000,,É assustador, isso sim.
+Dialogue: 0,0:15:43.02,0:15:44.19,Default,,0000,0000,0000,,Estou indo.
+Dialogue: 0,0:15:44.90,0:15:47.98,Default,,0000,0000,0000,,Espere! Ainda não terminamos aqui.
+Dialogue: 0,0:15:49.61,0:15:53.78,Default,,0000,0000,0000,,Shigure, achei que tinha entendido.
+Dialogue: 0,0:15:54.37,0:15:55.70,Default,,0000,0000,0000,,Entendido o quê?
+Dialogue: 0,0:15:56.66,0:15:58.29,Default,,0000,0000,0000,,O dinheiro não me move.
+Dialogue: 0,0:15:58.62,0:16:02.75,Default,,0000,0000,0000,,Eu ajo só por uma coisa:\Nmeu amor incondicional pelos animais!
+Dialogue: 0,0:16:02.75,0:16:08.05,Default,,0000,0000,0000,,Não minta, Genzo. Aposto que gosta\Ntanto de dinheiro quanto de animais.
+Dialogue: 0,0:16:08.34,0:16:11.05,Default,,0000,0000,0000,,Não, isso não é verdade!
+Dialogue: 0,0:16:11.88,0:16:14.68,Default,,0000,0000,0000,,Já chega de conversa!
+Dialogue: 0,0:16:14.68,0:16:17.31,Default,,0000,0000,0000,,Vamos apenas fazer o nosso trabalho!
+Dialogue: 0,0:16:19.72,0:16:21.73,Default,,0000,0000,0000,,As vozes da dradradogola...
+Dialogue: 0,0:16:22.60,0:16:23.73,Default,,0000,0000,0000,,Elas...
+Dialogue: 0,0:16:23.94,0:16:25.06,Default,,0000,0000,0000,,Pararam.
+Dialogue: 0,0:16:30.40,0:16:33.11,Default,,0000,0000,0000,,Hanako, você...
+Dialogue: 0,0:16:39.79,0:16:41.71,Default,,0000,0000,0000,,Já voltamos.
+Dialogue: 0,0:16:41.71,0:16:46.13,Default,,0000,0000,0000,,O quê? O Hiroyuki quase foi raptado,\Nmas você lutou contra os raptores?
+Dialogue: 0,0:16:48.00,0:16:50.96,Default,,0000,0000,0000,,Diga, como eles eram?
+Dialogue: 0,0:16:58.85,0:17:04.02,Default,,0000,0000,0000,,Vou demorar um pouco para achar um\Njeito de me vingar daquele pervertido.
+Dialogue: 0,0:17:04.02,0:17:06.90,Default,,0000,0000,0000,,- Fique aí até termos uma ideia.\N- Está bem.
+Dialogue: 0,0:17:07.15,0:17:10.03,Default,,0000,0000,0000,,Nunca irei atrás dele novamente.
+Dialogue: 0,0:17:10.53,0:17:11.82,Default,,0000,0000,0000,,Ei!
+Dialogue: 0,0:17:18.24,0:17:20.16,Default,,0000,0000,0000,,Foi vocês?
+Dialogue: 0,0:17:22.91,0:17:26.67,Default,,0000,0000,0000,,Você assustou meu parceiro!
+Dialogue: 0,0:17:27.83,0:17:30.59,Default,,0000,0000,0000,,Ia deixá-lo em paz\Nporque é fofo, mas...
+Dialogue: 0,0:17:32.13,0:17:34.67,Default,,0000,0000,0000,,Parece que precisa\Naprender uma lição!
+Dialogue: 0,0:17:36.89,0:17:39.64,Default,,0000,0000,0000,,Uma lição da qual nunca esquecerá!
+Dialogue: 0,0:17:52.32,0:17:53.74,Default,,0000,0000,0000,,Escute aqui!
+Dialogue: 0,0:17:54.03,0:17:58.41,Default,,0000,0000,0000,,Nunca mais toque no Hiroyuki!
+Dialogue: 0,0:18:30.40,0:18:31.52,Default,,0000,0000,0000,,Isso!
+Dialogue: 0,0:18:44.20,0:18:47.96,Default,,0000,0000,0000,,Faz tempo que não\Npratico luta livre.
+Dialogue: 0,0:18:49.37,0:18:51.63,Default,,0000,0000,0000,,Desde aquela última luta.
+Dialogue: 0,0:18:56.17,0:18:57.42,Default,,0000,0000,0000,,Cale-se!
+Dialogue: 0,0:19:00.26,0:19:02.26,Default,,0000,0000,0000,,Me deixem em paz, que droga!
+Dialogue: 0,0:19:03.47,0:19:04.60,Default,,0000,0000,0000,,Mas OMA...
+Dialogue: 0,0:19:15.03,0:19:17.53,Default,,0000,0000,0000,,Você fez o Máscara de Animal fugir.
+Dialogue: 0,0:19:19.24,0:19:20.11,Default,,0000,0000,0000,,Fugir?
+Dialogue: 0,0:19:20.74,0:19:24.45,Default,,0000,0000,0000,,Você é obcecado demais\Npelo Máscara de Animal.
+Dialogue: 0,0:19:24.87,0:19:26.20,Default,,0000,0000,0000,,Não é verdade.
+Dialogue: 0,0:19:26.20,0:19:29.25,Default,,0000,0000,0000,,Ele fugiu de mim porque\Ntinha medo de perder!
+Dialogue: 0,0:19:29.25,0:19:31.71,Default,,0000,0000,0000,,Isso se chama obsessão.
+Dialogue: 0,0:19:33.50,0:19:36.46,Default,,0000,0000,0000,,Você precisa desenvolver\Num novo hobby.
+Dialogue: 0,0:19:36.46,0:19:39.13,Default,,0000,0000,0000,,Algo que desvie sua mente dele.
+Dialogue: 0,0:19:55.32,0:19:56.57,Default,,0000,0000,0000,,Maldito seja!
+Dialogue: 0,0:20:02.91,0:20:07.70,Default,,0000,0000,0000,,Acredita-se que a princesa Altena\Nde Edgardo tenha invocado um herói.
+Dialogue: 0,0:20:08.20,0:20:10.12,Default,,0000,0000,0000,,Esta é uma ameaça séria.
+Dialogue: 0,0:20:10.71,0:20:17.71,Default,,0000,0000,0000,,Assim, eu, a próxima líder dos vampiros\Ne uma dos quatro Duques das Trevas,
+Dialogue: 0,0:20:17.71,0:20:21.34,Default,,0000,0000,0000,,pedi permissão ao Rei Demônio\Npara derrotar o herói.
+Dialogue: 0,0:20:21.93,0:20:26.47,Default,,0000,0000,0000,,O que estamos invocando aqui é\Num Rei Demônio do outro mundo.
+Dialogue: 0,0:20:27.39,0:20:31.89,Default,,0000,0000,0000,,E com a ajuda desse Rei Demônio,\Nvou derrotar o herói!
+Dialogue: 0,0:20:35.69,0:20:39.86,Default,,0000,0000,0000,,Escuridão das trevas, dê-nos poder!
+Dialogue: 0,0:20:58.92,0:21:02.13,Default,,0000,0000,0000,,Máscara de Animal...
+Dialogue: 0,0:21:16.60,0:21:17.77,Default,,0000,0000,0000,,Aí está ele.
+Dialogue: 0,0:21:30.66,0:21:35.08,Default,,0000,0000,0000,,Sou uma dos quatro Duques das Trevas,\Nservos do Rei Demônio,
+Dialogue: 0,0:21:35.37,0:21:38.84,Default,,0000,0000,0000,,filha de Wallen\NJoannascore Adorian Uljika,
+Dialogue: 0,0:21:39.25,0:21:42.38,Default,,0000,0000,0000,,Joanna Joannascore Adorian Uljika.
+Dialogue: 0,0:21:42.76,0:21:46.93,Default,,0000,0000,0000,,Rei Demônio do outro mundo,\Ntrazido pelos deuses das trevas,
+Dialogue: 0,0:21:47.18,0:21:50.26,Default,,0000,0000,0000,,ajude-nos a derrotar o herói.
+Dialogue: 0,0:21:53.60,0:21:55.27,Default,,0000,0000,0000,,Qual é o seu nome?
+Dialogue: 0,0:21:57.44,0:21:58.86,Default,,0000,0000,0000,,OMA.
+Dialogue: 0,0:22:01.78,0:22:04.78,Default,,0000,0000,0000,,Então você é o Rei\NDemônio do outro mundo, é?
+Dialogue: 0,0:22:15.50,0:22:18.54,Default,,0000,0000,0000,,Ouvi falar sobre sua aparência
+Dialogue: 0,0:22:18.54,0:22:21.59,Default,,0000,0000,0000,,O nome de uma cidade que não conheço
+Dialogue: 0,0:22:21.59,0:22:24.71,Default,,0000,0000,0000,,Perto do espinho Que está\Npreso no meu coração
+Dialogue: 0,0:22:24.71,0:22:27.76,Default,,0000,0000,0000,,Acendo uma lâmpada de animal
+Dialogue: 0,0:22:27.76,0:22:30.89,Default,,0000,0000,0000,,Faço você usar uma camisa\Ndiferente Do que a do ano passado
+Dialogue: 0,0:22:30.89,0:22:34.06,Default,,0000,0000,0000,,Um sentimento mais\Nimportante Que o meu coração
+Dialogue: 0,0:22:34.06,0:22:37.14,Default,,0000,0000,0000,,O último segredo que deixo
+Dialogue: 0,0:22:37.14,0:22:40.44,Default,,0000,0000,0000,,Um gato persa com cabelo bagunçado
+Dialogue: 0,0:22:40.44,0:22:45.19,Default,,0000,0000,0000,,Às vezes, de repente sinto saudade
+Dialogue: 0,0:22:45.19,0:22:51.24,Default,,0000,0000,0000,,O cabelo um pouco mais\Ncomprido Ficava bem em você
+Dialogue: 0,0:22:53.99,0:22:55.08,Default,,0000,0000,0000,,Anedota
+Dialogue: 0,0:22:55.08,0:23:00.17,Default,,0000,0000,0000,,Os sonhos que você tem quando\Ncochila São sempre os melhores
+Dialogue: 0,0:23:00.17,0:23:01.25,Default,,0000,0000,0000,,Anedota
+Dialogue: 0,0:23:01.25,0:23:06.21,Default,,0000,0000,0000,,Não apague minha saudade\NCom o som do vento
+Dialogue: 0,0:23:06.21,0:23:11.64,Top,,0000,0000,0000,,Eu procurei
+Dialogue: 0,0:23:12.43,0:23:18.52,Top,,0000,0000,0000,,E você é uma joia que sempre fica na foto
+Dialogue: 0,0:23:18.81,0:23:19.85,Top,,0000,0000,0000,,Anedota
+Dialogue: 0,0:23:19.85,0:23:24.86,Top,,0000,0000,0000,,Quero correr com você
+Dialogue: 0,0:23:24.86,0:23:29.65,Top,,0000,0000,0000,,Para um sol distante e ardente
+Dialogue: 0,0:23:40.04,0:23:42.92,Default,,0000,0000,0000,,Próximo episódio:\N"Fracassada x Mestra".

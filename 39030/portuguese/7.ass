@@ -1,0 +1,387 @@
+﻿[Script Info]
+Title: [Erai-raws] Português (Brasil)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0015,0
+Style: Signs,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0020,0020,0015,0
+Style: Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0015,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:06.84,0:00:07.92,Default,,0000,0000,0000,,Olá!
+Dialogue: 0,0:00:12.22,0:00:14.09,Default,,0000,0000,0000,,Sou Celes, a caçadora!
+Dialogue: 0,0:00:14.09,0:00:17.22,Default,,0000,0000,0000,,Estou aqui em busca de\Num homem chamado Genzo!
+Dialogue: 0,0:00:18.93,0:00:20.43,Default,,0000,0000,0000,,Você é Genzo,
+Dialogue: 0,0:00:21.02,0:00:22.27,Default,,0000,0000,0000,,o caçador de feras!
+Dialogue: 0,0:00:22.68,0:00:25.10,Default,,0000,0000,0000,,Pancada na cabeça!
+Dialogue: 0,0:00:27.98,0:00:30.15,Default,,0000,0000,0000,,Minha cabeça!
+Dialogue: 0,0:00:30.78,0:00:31.99,Default,,0000,0000,0000,,Ei!
+Dialogue: 0,0:00:33.36,0:00:37.12,Default,,0000,0000,0000,,Sinto muito! Pare!
+Dialogue: 0,0:00:42.50,0:00:45.79,Top,,0000,0000,0000,,Animal, pegue-os! Animal, esmague-os!
+Dialogue: 0,0:00:45.79,0:00:48.88,Top,,0000,0000,0000,,Animal, dilacere-os! Animal, vá!
+Dialogue: 0,0:00:49.46,0:00:52.80,Default,,0000,0000,0000,,Vindo do outro lado\Ndo mundo até você
+Dialogue: 0,0:00:53.17,0:00:56.63,Default,,0000,0000,0000,,Queimando com uma paixão\NQue ninguém nunca sentiu
+Dialogue: 0,0:00:57.05,0:01:00.31,Default,,0000,0000,0000,,É o mensageiro do\Namor e dos animais!
+Dialogue: 0,0:01:00.64,0:01:02.22,Default,,0000,0000,0000,,Máscara de Animal
+Dialogue: 0,0:01:02.64,0:01:03.85,Default,,0000,0000,0000,,Entrou no ringue!
+Dialogue: 0,0:01:03.85,0:01:06.48,Top,,0000,0000,0000,,Alguns o chamam de herói
+Dialogue: 0,0:01:07.10,0:01:09.27,Top,,0000,0000,0000,,Ele segue seu próprio caminho
+Dialogue: 0,0:01:10.27,0:01:12.78,Default,,0000,0000,0000,,Em busca de feras desconhecidas
+Dialogue: 0,0:01:12.78,0:01:15.65,Top,,0000,0000,0000,,Ele avança sem hesitar
+Dialogue: 0,0:01:16.53,0:01:22.74,Top,,0000,0000,0000,,Não há nada a temer!\NSe você ama algo, diga!
+Dialogue: 0,0:01:22.74,0:01:26.25,Top,,0000,0000,0000,,E quando tiver dito tudo\NÉ hora de soar o gongo!
+Dialogue: 0,0:01:26.25,0:01:29.79,Top,,0000,0000,0000,,Três, dois, um! Lute!
+Dialogue: 0,0:01:29.79,0:01:32.13,Top,,0000,0000,0000,,Deixe seu martelo brutal rugir
+Dialogue: 0,0:01:32.13,0:01:33.25,Top,,0000,0000,0000,,Lá vou eu!
+Dialogue: 0,0:01:33.25,0:01:36.01,Top,,0000,0000,0000,,Cotovelo de animal!
+Dialogue: 0,0:01:36.38,0:01:38.64,Top,,0000,0000,0000,,Em quem entrar no caminho
+Dialogue: 0,0:01:38.64,0:01:42.14,Top,,0000,0000,0000,,Aplique um German Suplex Animal!
+Dialogue: 0,0:01:42.68,0:01:47.64,Top,,0000,0000,0000,,Mesmo que o mundo todo se volte contra mim
+Dialogue: 0,0:01:47.64,0:01:48.90,Top,,0000,0000,0000,,Venha me pegar!
+Dialogue: 0,0:01:48.90,0:01:51.52,Top,,0000,0000,0000,,Nunca desistirei do meu sonho
+Dialogue: 0,0:01:51.52,0:01:54.03,Top,,0000,0000,0000,,Um harém de animais
+Dialogue: 0,0:01:54.03,0:01:55.74,Top,,0000,0000,0000,,Não é uma delícia?
+Dialogue: 0,0:01:55.74,0:01:58.11,Top,,0000,0000,0000,,Uma estrada animal está diante de mim
+Dialogue: 0,0:01:58.99,0:02:02.16,Top,,0000,0000,0000,,E estou pronto para uma luta no ringue
+Dialogue: 0,0:02:02.16,0:02:05.41,Top,,0000,0000,0000,,Para proteger esses sentimentos
+Dialogue: 0,0:02:05.41,0:02:09.04,Top,,0000,0000,0000,,Siga sua estrada animal
+Dialogue: 0,0:02:13.13,0:02:16.97,Signs,,0000,0000,0000,,PRIMEIRA ALUNA X VIOLÊNCIA
+Dialogue: 0,0:02:17.88,0:02:19.34,Default,,0000,0000,0000,,Cinco segundos de luta.
+Dialogue: 0,0:02:19.76,0:02:23.18,Default,,0000,0000,0000,,O movimento decisivo\Nfoi a chave de perna.
+Dialogue: 0,0:02:25.85,0:02:27.48,Default,,0000,0000,0000,,Você está bem?
+Dialogue: 0,0:02:27.73,0:02:31.06,Default,,0000,0000,0000,,Essas técnicas estranhas\Nque o Genzo usa machucam.
+Dialogue: 0,0:02:31.06,0:02:34.48,Default,,0000,0000,0000,,Quanto mais você luta, pior fica.
+Dialogue: 0,0:02:37.15,0:02:40.24,Default,,0000,0000,0000,,Obrigada.
+Dialogue: 0,0:02:43.37,0:02:45.12,Default,,0000,0000,0000,,Então, por que está aqui?
+Dialogue: 0,0:02:46.24,0:02:48.25,Default,,0000,0000,0000,,Entrevistas são com a empregada.
+Dialogue: 0,0:02:48.50,0:02:50.37,Default,,0000,0000,0000,,Quem é empregada?
+Dialogue: 0,0:02:50.37,0:02:53.92,Default,,0000,0000,0000,,Não sou sua serva,\Nseu humano pervertido.
+Dialogue: 0,0:02:54.67,0:02:56.00,Default,,0000,0000,0000,,Lutem! Vai! Vai!
+Dialogue: 0,0:02:56.00,0:02:58.55,Default,,0000,0000,0000,,Precisa de alguma coisa?
+Dialogue: 0,0:02:59.09,0:03:01.55,Default,,0000,0000,0000,,Começarei de novo. Meu nome é Celes.
+Dialogue: 0,0:03:01.89,0:03:04.72,Default,,0000,0000,0000,,Sou uma caçadora\Nrecém-chegada aqui em Cluster.
+Dialogue: 0,0:03:05.01,0:03:10.23,Default,,0000,0000,0000,,O mestre da guilda disse que o Genzo é um\Nlutador poderoso, um caçador de feras!
+Dialogue: 0,0:03:10.52,0:03:12.44,Default,,0000,0000,0000,,Então é hora do segundo round?
+Dialogue: 0,0:03:13.31,0:03:15.77,Default,,0000,0000,0000,,Desculpe! Não sei o que\Nlhe irritou, mas desculpe!
+Dialogue: 0,0:03:16.27,0:03:18.11,Default,,0000,0000,0000,,Aquele maldito velho barbudo.
+Dialogue: 0,0:03:18.44,0:03:21.70,Default,,0000,0000,0000,,Quando o encontrar de novo,\Naplicarei uma chave de barba!
+Dialogue: 0,0:03:22.03,0:03:26.87,Default,,0000,0000,0000,,Então você decidiu desafiar\No Genzo porque ele é famoso
+Dialogue: 0,0:03:26.87,0:03:29.45,Default,,0000,0000,0000,,a fim de aumentar seu prestígio?
+Dialogue: 0,0:03:29.95,0:03:31.04,Default,,0000,0000,0000,,Nada disso.
+Dialogue: 0,0:03:31.37,0:03:37.13,Default,,0000,0000,0000,,Genzo, por favor... por favor,\Ndeixe-me ser sua aluna.
+Dialogue: 0,0:03:38.09,0:03:39.21,Default,,0000,0000,0000,,Aluna?
+Dialogue: 0,0:03:39.67,0:03:43.13,Default,,0000,0000,0000,,Tenho uma razão para\Nme tornar forte.
+Dialogue: 0,0:03:43.68,0:03:45.60,Default,,0000,0000,0000,,Por favor, eu imploro!
+Dialogue: 0,0:03:46.10,0:03:47.10,Default,,0000,0000,0000,,Me recuso.
+Dialogue: 0,0:03:48.60,0:03:50.02,Default,,0000,0000,0000,,Estou ocupado!
+Dialogue: 0,0:03:50.64,0:03:56.31,Default,,0000,0000,0000,,Tenho que me deitar na frente dos\Ngatos para que eles me pisoteiem!
+Dialogue: 0,0:03:56.56,0:04:00.28,Default,,0000,0000,0000,,Genzo, os vizinhos\Njá estão reclamando.
+Dialogue: 0,0:04:00.28,0:04:02.86,Default,,0000,0000,0000,,Pediram para você não\Ndeitar na estrada.
+Dialogue: 0,0:04:03.15,0:04:05.12,Default,,0000,0000,0000,,Por favor!
+Dialogue: 0,0:04:05.12,0:04:08.12,Default,,0000,0000,0000,,Não posso fazer muito,\Nmas vou retribuir!
+Dialogue: 0,0:04:08.87,0:04:14.87,Default,,0000,0000,0000,,Se quiser, posso até\Npagar com o meu corpo.
+Dialogue: 0,0:04:17.38,0:04:18.59,Default,,0000,0000,0000,,Não quero.
+Dialogue: 0,0:04:18.59,0:04:23.47,Default,,0000,0000,0000,,Volte aqui quando estiver tão\Natraente quanto uma kobold.
+Dialogue: 0,0:04:23.88,0:04:26.55,Default,,0000,0000,0000,,Sou menos atraente que uma kobold?
+Dialogue: 0,0:04:26.55,0:04:29.31,Default,,0000,0000,0000,,Por favor! Eu imploro!
+Dialogue: 0,0:04:29.31,0:04:30.77,Default,,0000,0000,0000,,Saia do caminho!
+Dialogue: 0,0:04:30.77,0:04:33.94,Default,,0000,0000,0000,,Se não me deixar em paz,\Naplicarei um Cobra Twist...
+Dialogue: 0,0:04:35.27,0:04:36.44,Default,,0000,0000,0000,,Você é...
+Dialogue: 0,0:04:36.69,0:04:38.57,Default,,0000,0000,0000,,Sinto muito.
+Dialogue: 0,0:04:38.57,0:04:41.53,Default,,0000,0000,0000,,Esqueça sobre eu ser sua aluna.
+Dialogue: 0,0:04:41.86,0:04:44.40,Default,,0000,0000,0000,,- Espere.\N- O que está fazendo?
+Dialogue: 0,0:04:51.37,0:04:54.91,Default,,0000,0000,0000,,Então você é uma garota-lagarto, é?
+Dialogue: 0,0:04:57.79,0:04:59.13,Default,,0000,0000,0000,,Muito bem.
+Dialogue: 0,0:04:59.59,0:05:02.76,Default,,0000,0000,0000,,Meus ancestrais eram homens-lagarto.
+Dialogue: 0,0:05:03.34,0:05:08.72,Default,,0000,0000,0000,,Parecemos bestas demoníacas,\Nentão as pessoas têm medo de nós.
+Dialogue: 0,0:05:09.80,0:05:15.06,Default,,0000,0000,0000,,No meu caso, os genes manifestaram-se aqui\Ne tenho a barriga e as costas escamosas.
+Dialogue: 0,0:05:16.31,0:05:19.90,Default,,0000,0000,0000,,Celes, uma dama não deve\Nmostrar tanto a barriga!
+Dialogue: 0,0:05:19.90,0:05:21.94,Default,,0000,0000,0000,,Há um homem aqui! Comporte-se!
+Dialogue: 0,0:05:22.40,0:05:26.20,Default,,0000,0000,0000,,O Genzo não se controla e os\Nolhos dele já estão ameaçadores.
+Dialogue: 0,0:05:26.74,0:05:28.20,Default,,0000,0000,0000,,Esperem, pessoal.
+Dialogue: 0,0:05:28.53,0:05:30.16,Default,,0000,0000,0000,,Eu não sou assim.
+Dialogue: 0,0:05:30.62,0:05:33.54,Default,,0000,0000,0000,,Certo, Genzo.\NVocê a aceitará como aluna?
+Dialogue: 0,0:05:33.54,0:05:35.33,Default,,0000,0000,0000,,É claro que sim.
+Dialogue: 0,0:05:35.33,0:05:36.79,Default,,0000,0000,0000,,Você é ruim da cabeça?
+Dialogue: 0,0:05:37.83,0:05:39.13,Default,,0000,0000,0000,,Sério?
+Dialogue: 0,0:05:40.17,0:05:43.09,Default,,0000,0000,0000,,Você deveria repensar isso, Celes.
+Dialogue: 0,0:05:43.09,0:05:47.38,Default,,0000,0000,0000,,Se quiser posso lhe ensinar meu\Ngolpe especial, o rolo mortal...
+Dialogue: 0,0:05:47.38,0:05:51.85,Default,,0000,0000,0000,,Não, ele me aceitou,\Nmesmo eu sendo uma garota-lagarto.
+Dialogue: 0,0:05:52.18,0:05:54.43,Default,,0000,0000,0000,,Quero que o Genzo me ensine!
+Dialogue: 0,0:05:54.85,0:05:56.73,Default,,0000,0000,0000,,Alguém me ajude aqui.
+Dialogue: 0,0:05:56.73,0:06:00.31,Default,,0000,0000,0000,,Muito bem! Então vamos\Ntreinar nas montanhas!
+Dialogue: 0,0:06:00.69,0:06:02.36,Default,,0000,0000,0000,,Ótimo.
+Dialogue: 0,0:06:02.65,0:06:04.65,Default,,0000,0000,0000,,Nós ajudaremos.
+Dialogue: 0,0:06:04.65,0:06:06.03,Default,,0000,0000,0000,,Faremos nosso melhor.
+Dialogue: 0,0:06:08.32,0:06:10.12,Default,,0000,0000,0000,,A força começa por cima!
+Dialogue: 0,0:06:10.70,0:06:13.24,Default,,0000,0000,0000,,Mãos acima da cabeça e agache-se!
+Dialogue: 0,0:06:13.58,0:06:15.25,Default,,0000,0000,0000,,Sim, senhor!
+Dialogue: 0,0:06:15.54,0:06:16.54,Default,,0000,0000,0000,,Um.
+Dialogue: 0,0:06:18.54,0:06:19.62,Default,,0000,0000,0000,,Dois.
+Dialogue: 0,0:06:20.75,0:06:21.75,Default,,0000,0000,0000,,Três.
+Dialogue: 0,0:06:25.34,0:06:26.42,Default,,0000,0000,0000,,Quatro.
+Dialogue: 0,0:06:26.42,0:06:31.22,Default,,0000,0000,0000,,Escute, seus genes de lagarto\Nmanifestaram-se na barriga e nas costas?
+Dialogue: 0,0:06:31.59,0:06:34.47,Default,,0000,0000,0000,,As coxas e os bíceps\Nnão têm escamas?
+Dialogue: 0,0:06:35.39,0:06:38.64,Default,,0000,0000,0000,,Isso. Só as minhas\Ncostas e a barriga.
+Dialogue: 0,0:06:39.14,0:06:40.27,Default,,0000,0000,0000,,Entendi.
+Dialogue: 0,0:06:40.27,0:06:42.27,Default,,0000,0000,0000,,Então esqueça os agachamentos.
+Dialogue: 0,0:06:44.36,0:06:47.19,Default,,0000,0000,0000,,Vamos treinar o abdômen!
+Dialogue: 0,0:06:47.19,0:06:48.32,Default,,0000,0000,0000,,Ao trabalho!
+Dialogue: 0,0:06:48.61,0:06:51.87,Default,,0000,0000,0000,,Mas eu só fiz quatro agachamentos.
+Dialogue: 0,0:06:52.32,0:06:56.62,Default,,0000,0000,0000,,Genzo, está óbvio o\Nque você está querendo.
+Dialogue: 0,0:06:59.79,0:07:04.21,Default,,0000,0000,0000,,Se quiser treinar as pernas e o abdômen,\Nposso ensinar melhor do que ele.
+Dialogue: 0,0:07:05.05,0:07:06.96,Default,,0000,0000,0000,,Siga-me!
+Dialogue: 0,0:07:07.55,0:07:09.17,Default,,0000,0000,0000,,Sim, Shigure!
+Dialogue: 0,0:07:09.17,0:07:10.26,Default,,0000,0000,0000,,Obrigada por...
+Dialogue: 0,0:07:15.06,0:07:16.18,Default,,0000,0000,0000,,Ela é rápida.
+Dialogue: 0,0:07:17.31,0:07:19.73,Default,,0000,0000,0000,,Para crescer, é preciso comer muito!
+Dialogue: 0,0:07:20.14,0:07:22.02,Default,,0000,0000,0000,,E não seja muito fresca!
+Dialogue: 0,0:07:22.35,0:07:26.90,Default,,0000,0000,0000,,Hanako, homens-lagarto\Nnão são como os lagartos!
+Dialogue: 0,0:07:26.90,0:07:28.53,Default,,0000,0000,0000,,Não comemos insetos!
+Dialogue: 0,0:07:29.07,0:07:32.70,Default,,0000,0000,0000,,Mas eu tive um trabalhão para pegá-lo.\NEntão eu comerei.
+Dialogue: 0,0:07:38.08,0:07:40.12,Default,,0000,0000,0000,,Você não precisa fazer isso.
+Dialogue: 0,0:07:40.54,0:07:45.96,Default,,0000,0000,0000,,Uma mulher forte é uma mulher linda!\NAprenda minha pose sensual!
+Dialogue: 0,0:07:47.05,0:07:50.13,Default,,0000,0000,0000,,Pose sensual?
+Dialogue: 0,0:07:51.09,0:07:52.13,Default,,0000,0000,0000,,Cadê a posa sensual?
+Dialogue: 0,0:08:26.17,0:08:28.21,Default,,0000,0000,0000,,Não tenho mais nada a ensinar.
+Dialogue: 0,0:08:28.71,0:08:30.21,Default,,0000,0000,0000,,Você foi muito bem.
+Dialogue: 0,0:08:33.13,0:08:36.64,Default,,0000,0000,0000,,Obrigada por tudo, senhor!
+Dialogue: 0,0:08:37.22,0:08:40.18,Default,,0000,0000,0000,,Nenhuma lutadora é\Npáreo para você agora!
+Dialogue: 0,0:08:40.64,0:08:42.56,Default,,0000,0000,0000,,Use este nome com orgulho!
+Dialogue: 0,0:08:42.81,0:08:45.52,Default,,0000,0000,0000,,Seu nome no ringue é Celes GG!
+Dialogue: 0,0:08:45.94,0:08:49.40,Default,,0000,0000,0000,,Sim! Meu nome é Celes GG!
+Dialogue: 0,0:08:49.40,0:08:51.57,Default,,0000,0000,0000,,Sua primeira aluna!
+Dialogue: 0,0:08:52.53,0:08:54.32,Default,,0000,0000,0000,,Não!
+Dialogue: 0,0:08:54.70,0:08:55.91,Default,,0000,0000,0000,,O quê?
+Dialogue: 0,0:08:55.91,0:08:57.78,Default,,0000,0000,0000,,Não gostou do nome "Celes GG"?
+Dialogue: 0,0:08:58.03,0:08:59.91,Default,,0000,0000,0000,,Ei, Carmilla, o que acha?
+Dialogue: 0,0:09:00.20,0:09:03.08,Default,,0000,0000,0000,,Descreve com precisão\Nseus atributos físicos.
+Dialogue: 0,0:09:03.33,0:09:05.96,Default,,0000,0000,0000,,Mas será que GG não é muito pequeno?
+Dialogue: 0,0:09:06.46,0:09:08.79,Default,,0000,0000,0000,,Não tem relação com o nome!
+Dialogue: 0,0:09:09.21,0:09:15.34,Default,,0000,0000,0000,,- Não é isso que eu quero ser!\N- Quer dizer que prefere lutar sem máscara?
+Dialogue: 0,0:09:16.63,0:09:17.64,Default,,0000,0000,0000,,Nada disso!
+Dialogue: 0,0:09:17.93,0:09:21.51,Default,,0000,0000,0000,,Não quero me tornar uma\Ndaquelas lutadoras estranhas!
+Dialogue: 0,0:09:21.77,0:09:25.89,Default,,0000,0000,0000,,Sei que deveria ter\Nperguntado isso antes,
+Dialogue: 0,0:09:26.19,0:09:29.27,Default,,0000,0000,0000,,mas por que queria tanto\Naprender com o Genzo?
+Dialogue: 0,0:09:31.15,0:09:32.86,Default,,0000,0000,0000,,É tarde para perguntar isso.
+Dialogue: 0,0:09:33.40,0:09:36.86,Default,,0000,0000,0000,,É uma história muito chata.
+Dialogue: 0,0:09:37.28,0:09:40.20,Default,,0000,0000,0000,,É mais legal do que ouvir\Na Carmilla se gabar.
+Dialogue: 0,0:09:40.20,0:09:42.41,Default,,0000,0000,0000,,Genzo, depois acertamos as contas.
+Dialogue: 0,0:09:43.54,0:09:44.95,Default,,0000,0000,0000,,Na verdade...
+Dialogue: 0,0:09:47.04,0:09:50.96,Default,,0000,0000,0000,,O quê?
+Dialogue: 0,0:09:55.05,0:09:58.05,Default,,0000,0000,0000,,Me banharei em seu sangue!
+Dialogue: 0,0:09:58.05,0:10:02.97,Signs,,0000,0000,0000,,KEMONO MICHI: RISE UP!
+Dialogue: 0,0:10:15.03,0:10:16.61,Default,,0000,0000,0000,,Velhote?
+Dialogue: 0,0:10:16.61,0:10:18.49,Default,,0000,0000,0000,,Ei, mestre da guilda?
+Dialogue: 0,0:10:18.49,0:10:20.57,Default,,0000,0000,0000,,Mostre-se de uma vez!
+Dialogue: 0,0:10:20.57,0:10:25.33,Default,,0000,0000,0000,,Ou executarei todos os\Ncaçadores, um por um!
+Dialogue: 0,0:10:26.75,0:10:27.96,Default,,0000,0000,0000,,Qual é o problema?
+Dialogue: 0,0:10:28.37,0:10:30.13,Default,,0000,0000,0000,,Execução!
+Dialogue: 0,0:10:34.34,0:10:36.21,Default,,0000,0000,0000,,Senhor, espere!
+Dialogue: 0,0:10:36.21,0:10:37.63,Default,,0000,0000,0000,,Acalme-se!
+Dialogue: 0,0:10:38.47,0:10:39.55,Default,,0000,0000,0000,,Me largue!
+Dialogue: 0,0:10:39.55,0:10:42.14,Default,,0000,0000,0000,,Ei, não é a mestiça?
+Dialogue: 0,0:10:42.51,0:10:47.14,Default,,0000,0000,0000,,É mesmo! Esse animal mestiço\Nainda está por aqui, não?
+Dialogue: 0,0:10:47.73,0:10:49.81,Default,,0000,0000,0000,,Quer que eu a cace?
+Dialogue: 0,0:10:51.48,0:10:52.52,Default,,0000,0000,0000,,Execução!
+Dialogue: 0,0:10:55.44,0:10:57.15,Default,,0000,0000,0000,,Ei, peguem o Genzo!
+Dialogue: 0,0:10:57.15,0:10:58.57,Default,,0000,0000,0000,,Ele destruirá a guilda!
+Dialogue: 0,0:11:01.74,0:11:03.20,Default,,0000,0000,0000,,Senhor?
+Dialogue: 0,0:11:05.08,0:11:07.33,Default,,0000,0000,0000,,Execução!
+Dialogue: 0,0:11:07.66,0:11:09.50,Default,,0000,0000,0000,,Pare!
+Dialogue: 0,0:11:09.87,0:11:11.71,Default,,0000,0000,0000,,Execução!
+Dialogue: 0,0:11:12.04,0:11:15.17,Default,,0000,0000,0000,,Pegue-os, Genzo!
+Dialogue: 0,0:11:16.46,0:11:17.84,Default,,0000,0000,0000,,Que barulho é esse?
+Dialogue: 0,0:11:17.84,0:11:19.17,Default,,0000,0000,0000,,O que está havendo?
+Dialogue: 0,0:11:20.18,0:11:21.38,Default,,0000,0000,0000,,Oi.
+Dialogue: 0,0:11:26.77,0:11:29.98,Default,,0000,0000,0000,,Minha nossa, o que aconteceu aqui?
+Dialogue: 0,0:11:31.44,0:11:35.36,Default,,0000,0000,0000,,Vamos ouvir sua explicação,\Ncaçador de feras!
+Dialogue: 0,0:11:36.15,0:11:41.70,Default,,0000,0000,0000,,Me chame assim mais uma vez\Ne eu arranco essa sua barba.
+Dialogue: 0,0:11:45.12,0:11:48.87,Default,,0000,0000,0000,,Espere, Genzo. Acalme-se.
+Dialogue: 0,0:11:49.83,0:11:52.83,Default,,0000,0000,0000,,Diga-me, o que há\Nde errado com você?
+Dialogue: 0,0:11:53.96,0:11:55.38,Default,,0000,0000,0000,,O que há de errado comigo?
+Dialogue: 0,0:11:57.80,0:11:59.26,Default,,0000,0000,0000,,Ouça, velhote!
+Dialogue: 0,0:11:59.26,0:12:04.64,Default,,0000,0000,0000,,Você sabe que sou um homem gentil cheio\Nde amor por todas as criaturas, não?
+Dialogue: 0,0:12:05.35,0:12:07.39,Default,,0000,0000,0000,,Sim, eu sei.
+Dialogue: 0,0:12:07.39,0:12:12.02,Default,,0000,0000,0000,,Não entendi uma palavra do que disse,\Nmas logo percebi que você é estranho...
+Dialogue: 0,0:12:12.35,0:12:15.11,Default,,0000,0000,0000,,Seus caçadores intimidaram\Na garota-lagarto
+Dialogue: 0,0:12:15.11,0:12:19.65,Default,,0000,0000,0000,,e fizeram um monte de\Ncoisas impróprias com ela!
+Dialogue: 0,0:12:19.65,0:12:21.53,Default,,0000,0000,0000,,Senhor, acalme-se!
+Dialogue: 0,0:12:22.36,0:12:24.61,Default,,0000,0000,0000,,Não fizeram nada impróprio comigo.
+Dialogue: 0,0:12:24.61,0:12:27.99,Default,,0000,0000,0000,,Só me provocaram e me\Nassediaram um pouco.
+Dialogue: 0,0:12:28.66,0:12:35.42,Default,,0000,0000,0000,,Assediaram-na?
+Dialogue: 0,0:12:35.42,0:12:39.88,Default,,0000,0000,0000,,A sua barriga! Eles estragaram\Nsua esplêndida barriga?
+Dialogue: 0,0:12:40.42,0:12:43.13,Default,,0000,0000,0000,,Não, quer dizer...
+Dialogue: 0,0:12:43.13,0:12:44.18,Default,,0000,0000,0000,,Não estragaram?
+Dialogue: 0,0:12:45.51,0:12:48.97,Default,,0000,0000,0000,,Então você está dizendo que\Nos caçadores da minha guilda
+Dialogue: 0,0:12:48.97,0:12:54.39,Default,,0000,0000,0000,,têm assediado e perturbado Celes,\Na garota-lagarto?
+Dialogue: 0,0:12:54.94,0:12:58.31,Default,,0000,0000,0000,,E então ela veio até\Nvocê para treinar e...
+Dialogue: 0,0:12:58.73,0:13:02.11,Default,,0000,0000,0000,,Eu queria ensinar uma\Nlição aos caçadores.
+Dialogue: 0,0:13:02.90,0:13:08.70,Default,,0000,0000,0000,,Mas percebi que estava chateada por\Nalgo que não tinha tanta importância.
+Dialogue: 0,0:13:09.45,0:13:14.29,Default,,0000,0000,0000,,Graças ao que meus professores me ensinaram,\Nfiquei forte de verdade
+Dialogue: 0,0:13:14.91,0:13:16.58,Default,,0000,0000,0000,,e isso não importa mais.
+Dialogue: 0,0:13:18.21,0:13:20.30,Default,,0000,0000,0000,,Então está tudo bem.
+Dialogue: 0,0:13:20.75,0:13:25.30,Default,,0000,0000,0000,,Agora quero me concentrar em ser uma\Npessoa incrível como meu professor!
+Dialogue: 0,0:13:25.97,0:13:27.09,Default,,0000,0000,0000,,Celes!
+Dialogue: 0,0:13:29.14,0:13:30.47,Default,,0000,0000,0000,,Nos desculpe!
+Dialogue: 0,0:13:31.81,0:13:35.23,Default,,0000,0000,0000,,Sinto muito por lhe\Nchamar de mestiça.
+Dialogue: 0,0:13:35.73,0:13:40.69,Default,,0000,0000,0000,,Nossas caçadas não estão indo\Nbem e estamos chateados.
+Dialogue: 0,0:13:41.15,0:13:44.74,Default,,0000,0000,0000,,E como você é uma semi-humana novata,\Ndescontamos em você.
+Dialogue: 0,0:13:45.15,0:13:46.28,Default,,0000,0000,0000,,Desculpe.
+Dialogue: 0,0:13:50.78,0:13:51.99,Default,,0000,0000,0000,,Nada disso.
+Dialogue: 0,0:14:02.88,0:14:04.09,Default,,0000,0000,0000,,Ouça, Celes.
+Dialogue: 0,0:14:04.55,0:14:07.68,Default,,0000,0000,0000,,A vida é uma batalha.\NSó o mais forte sobrevive.
+Dialogue: 0,0:14:07.68,0:14:10.01,Default,,0000,0000,0000,,Humanos não podem ser subestimados.
+Dialogue: 0,0:14:10.01,0:14:12.01,Default,,0000,0000,0000,,Senhor, sou uma garota-lagarto.
+Dialogue: 0,0:14:15.52,0:14:17.60,Default,,0000,0000,0000,,Você é minha aluna, uma lutadora.
+Dialogue: 0,0:14:17.89,0:14:21.06,Default,,0000,0000,0000,,E um lutador topa qualquer desafio!
+Dialogue: 0,0:14:21.06,0:14:23.23,Default,,0000,0000,0000,,Senhor, sou uma caçadora.
+Dialogue: 0,0:14:26.57,0:14:28.11,Default,,0000,0000,0000,,Ouça, Celes!
+Dialogue: 0,0:14:28.36,0:14:32.08,Default,,0000,0000,0000,,Não os acostume mal só\Nporque estão se desculpando.
+Dialogue: 0,0:14:32.08,0:14:34.70,Default,,0000,0000,0000,,Uma garota-lagarto\Nestava sendo abusada!
+Dialogue: 0,0:14:34.70,0:14:38.92,Default,,0000,0000,0000,,Não vou deixar por isso mesmo!
+Dialogue: 0,0:14:38.92,0:14:41.63,Default,,0000,0000,0000,,Como seu professor,\Nordeno que os enfrente!
+Dialogue: 0,0:14:41.63,0:14:44.25,Default,,0000,0000,0000,,Bata neles até que entendam\Ncomo você é forte!
+Dialogue: 0,0:14:45.05,0:14:47.55,Default,,0000,0000,0000,,Que homem mais chato...
+Dialogue: 0,0:14:48.59,0:14:52.43,Default,,0000,0000,0000,,Senhor, agradeço muito,
+Dialogue: 0,0:14:52.43,0:14:54.10,Default,,0000,0000,0000,,mas está tudo bem.
+Dialogue: 0,0:14:54.10,0:14:58.18,Default,,0000,0000,0000,,Se não fizer isso,\Nexecutarei todos eles.
+Dialogue: 0,0:14:59.23,0:15:03.57,Default,,0000,0000,0000,,O Genzo se preocupa\Ntanto assim comigo?
+Dialogue: 0,0:15:03.90,0:15:05.90,Default,,0000,0000,0000,,Isso não vai terminar bem.
+Dialogue: 0,0:15:06.23,0:15:08.28,Default,,0000,0000,0000,,Você deveria se desculpar!
+Dialogue: 0,0:15:08.28,0:15:10.36,Default,,0000,0000,0000,,O Genzo não costuma brincar.
+Dialogue: 0,0:15:10.36,0:15:11.70,Default,,0000,0000,0000,,Desculpe-se.
+Dialogue: 0,0:15:11.70,0:15:15.91,Default,,0000,0000,0000,,Faça uma reverência para os dois\Ne diga de novo que sente muito.
+Dialogue: 0,0:15:16.75,0:15:18.25,Default,,0000,0000,0000,,Tudo bem, senhor.
+Dialogue: 0,0:15:19.29,0:15:23.38,Default,,0000,0000,0000,,Será uma batalha até um lado\Ndesistir e não um duelo até a morte.
+Dialogue: 0,0:15:23.75,0:15:30.55,Default,,0000,0000,0000,,E também estou curiosa para ver quão\Nforte fiquei após seu treinamento.
+Dialogue: 0,0:15:31.05,0:15:32.30,Default,,0000,0000,0000,,Parece divertido.
+Dialogue: 0,0:15:32.59,0:15:34.97,Default,,0000,0000,0000,,Já que insiste, lutarei com você.
+Dialogue: 0,0:15:35.31,0:15:38.18,Default,,0000,0000,0000,,Mas não pegarei leve só\Nporque você é novata!
+Dialogue: 0,0:15:49.03,0:15:50.95,Default,,0000,0000,0000,,Celes, as pernas!
+Dialogue: 0,0:15:50.95,0:15:52.32,Default,,0000,0000,0000,,Use mais as pernas!
+Dialogue: 0,0:15:54.78,0:15:55.62,Default,,0000,0000,0000,,O quê?
+Dialogue: 0,0:16:00.33,0:16:01.33,Default,,0000,0000,0000,,Droga!
+Dialogue: 0,0:16:03.21,0:16:05.54,Default,,0000,0000,0000,,Celes, morda-o!
+Dialogue: 0,0:16:05.92,0:16:11.30,Default,,0000,0000,0000,,Morda sua carne macia e saborosa\Ne coma seus intestinos!
+Dialogue: 0,0:16:13.72,0:16:15.22,Default,,0000,0000,0000,,Não permitirei!
+Dialogue: 0,0:16:19.18,0:16:22.02,Default,,0000,0000,0000,,Já que se ofereceu\Npara lutar, não perca!
+Dialogue: 0,0:16:22.02,0:16:24.19,Default,,0000,0000,0000,,Mostre a ela quem manda!
+Dialogue: 0,0:16:24.19,0:16:28.11,Default,,0000,0000,0000,,Não baixe a guarda! Ela é boa!
+Dialogue: 0,0:16:28.11,0:16:29.82,Default,,0000,0000,0000,,Recomponha-se! Pegue a mestiça!
+Dialogue: 0,0:16:33.70,0:16:36.57,Default,,0000,0000,0000,,Celes, você consegue!
+Dialogue: 0,0:16:36.57,0:16:40.45,Default,,0000,0000,0000,,A coxa! Ataque primeiro\Naquela coxa deliciosa!
+Dialogue: 0,0:16:40.83,0:16:43.12,Default,,0000,0000,0000,,Se perder, não vai\Njantar esta noite!
+Dialogue: 0,0:16:50.46,0:16:53.01,Default,,0000,0000,0000,,A guilda está bastante animada hoje.
+Dialogue: 0,0:16:53.47,0:16:55.76,Default,,0000,0000,0000,,É você, Clause!
+Dialogue: 0,0:16:56.26,0:16:58.05,Default,,0000,0000,0000,,O que é isso?
+Dialogue: 0,0:16:58.35,0:17:00.10,Default,,0000,0000,0000,,É uma batalha simulada.
+Dialogue: 0,0:17:00.10,0:17:02.02,Default,,0000,0000,0000,,A história é longa.
+Dialogue: 0,0:17:12.11,0:17:14.03,Default,,0000,0000,0000,,Certo, agora acabe com ele!
+Dialogue: 0,0:17:15.11,0:17:17.87,Default,,0000,0000,0000,,Pose sensual!
+Dialogue: 0,0:17:26.08,0:17:30.00,Default,,0000,0000,0000,,- O que você estava pensando?\N- Genzo, mais forte! Mais forte!
+Dialogue: 0,0:17:30.30,0:17:33.55,Default,,0000,0000,0000,,Esqueçam a Carmilla e\Nconcentrem-se na luta!
+Dialogue: 0,0:17:34.97,0:17:36.84,Default,,0000,0000,0000,,A Celes está com problemas!
+Dialogue: 0,0:17:38.18,0:17:40.64,Default,,0000,0000,0000,,O que foi aquilo?
+Dialogue: 0,0:17:40.64,0:17:44.06,Default,,0000,0000,0000,,Você treinou tanto para\Naprender algo tão estúpido?
+Dialogue: 0,0:17:44.06,0:17:47.65,Default,,0000,0000,0000,,Tinha me arrependido,\Nmas agora me sinto um idiota!
+Dialogue: 0,0:17:47.65,0:17:48.56,Default,,0000,0000,0000,,Não.
+Dialogue: 0,0:17:51.57,0:17:53.28,Default,,0000,0000,0000,,É o seu fim.
+Dialogue: 0,0:17:53.74,0:17:55.78,Default,,0000,0000,0000,,Celes! Os braços dele se ergueram!
+Dialogue: 0,0:18:03.33,0:18:04.58,Default,,0000,0000,0000,,O que é isso?
+Dialogue: 0,0:18:05.54,0:18:08.88,Default,,0000,0000,0000,,Um, dois, três!
+Dialogue: 0,0:18:10.88,0:18:13.88,Default,,0000,0000,0000,,- Viva!\N- Você conseguiu!
+Dialogue: 0,0:18:13.88,0:18:15.80,Default,,0000,0000,0000,,Eu fico com a espada!
+Dialogue: 0,0:18:16.17,0:18:17.84,Default,,0000,0000,0000,,Isso foi incrível!
+Dialogue: 0,0:18:17.84,0:18:19.09,Default,,0000,0000,0000,,O que ela fez?
+Dialogue: 0,0:18:21.89,0:18:23.52,Default,,0000,0000,0000,,Eu admito a derrota.
+Dialogue: 0,0:18:24.27,0:18:28.02,Default,,0000,0000,0000,,Você é mesmo incrível.\NEu subestimei os homens-lagarto.
+Dialogue: 0,0:18:28.02,0:18:31.52,Default,,0000,0000,0000,,Não, foi uma luta incrível.
+Dialogue: 0,0:18:31.98,0:18:34.86,Default,,0000,0000,0000,,E não foi uma vitória perfeita.
+Dialogue: 0,0:18:35.11,0:18:38.32,Default,,0000,0000,0000,,Perdi minhas duas armas.
+Dialogue: 0,0:18:38.91,0:18:41.53,Default,,0000,0000,0000,,Então foi um empate?
+Dialogue: 0,0:18:42.16,0:18:44.62,Default,,0000,0000,0000,,Sim. Vamos lutar de novo algum dia.
+Dialogue: 0,0:18:45.00,0:18:47.00,Default,,0000,0000,0000,,Da próxima vez não as perderei.
+Dialogue: 0,0:18:50.75,0:18:52.00,Default,,0000,0000,0000,,Nada disso!
+Dialogue: 0,0:18:54.00,0:18:57.72,Default,,0000,0000,0000,,Genzo, o que deu em você hoje?
+Dialogue: 0,0:18:57.72,0:19:00.30,Default,,0000,0000,0000,,Por que está sendo tão violento?
+Dialogue: 0,0:19:00.30,0:19:03.51,Default,,0000,0000,0000,,Tudo terminou bem,\Nentão podemos ir para casa.
+Dialogue: 0,0:19:03.97,0:19:06.98,Default,,0000,0000,0000,,Não admito que abusem\Nde um semi-humano
+Dialogue: 0,0:19:06.98,0:19:10.23,Default,,0000,0000,0000,,e depois tudo acabe com um\Nsimples pedido de desculpas!
+Dialogue: 0,0:19:10.52,0:19:13.69,Default,,0000,0000,0000,,Genzo, como você está chato hoje!
+Dialogue: 0,0:19:13.69,0:19:14.98,Default,,0000,0000,0000,,Deixe-me, Shigure!
+Dialogue: 0,0:19:15.23,0:19:19.82,Default,,0000,0000,0000,,Eu preciso dar uma lição neles para\Nevitar que haja uma próxima vítima!
+Dialogue: 0,0:19:20.20,0:19:24.83,Default,,0000,0000,0000,,Quando voltarmos,\Ndeixo você acariciar minhas orelhas.
+Dialogue: 0,0:19:25.83,0:19:27.20,Default,,0000,0000,0000,,Com licença, Genzo.
+Dialogue: 0,0:19:28.25,0:19:29.91,Default,,0000,0000,0000,,Acalme-se.
+Dialogue: 0,0:19:29.91,0:19:34.17,Default,,0000,0000,0000,,Eles têm tido problemas\Ncom as caças ultimamente.
+Dialogue: 0,0:19:34.17,0:19:37.59,Default,,0000,0000,0000,,- Não me importo com...\N- Eles disseram isso antes.
+Dialogue: 0,0:19:38.09,0:19:43.35,Default,,0000,0000,0000,,Um homem-fera de peito nu,\Nparecido com um bárbaro, tem aparecido.
+Dialogue: 0,0:19:43.72,0:19:44.93,Default,,0000,0000,0000,,O quê? Um homem-fera?
+Dialogue: 0,0:19:45.26,0:19:48.35,Default,,0000,0000,0000,,Sim, acho que é um\Nhomem-tigre ou algo assim.
+Dialogue: 0,0:19:48.35,0:19:53.02,Default,,0000,0000,0000,,Sempre que pegamos uma besta demoníaca,\Nela aparece do nada e rouba nossa presa.
+Dialogue: 0,0:19:53.52,0:19:56.52,Default,,0000,0000,0000,,Usa uma espécie de capa estranha.
+Dialogue: 0,0:19:56.94,0:20:00.82,Default,,0000,0000,0000,,Ele aparece do nada e nos\Nataca com técnicas estranhas.
+Dialogue: 0,0:20:01.20,0:20:03.82,Default,,0000,0000,0000,,Sempre que capturamos\Numa fera, ele...
+Dialogue: 0,0:20:06.53,0:20:09.08,Default,,0000,0000,0000,,Sei que não é sua culpa.\NNos desculpe.
+Dialogue: 0,0:20:09.70,0:20:11.33,Default,,0000,0000,0000,,Acho que é um bom motivo.
+Dialogue: 0,0:20:11.71,0:20:13.71,Default,,0000,0000,0000,,Celes, perdoe-os.
+Dialogue: 0,0:20:13.96,0:20:16.42,Default,,0000,0000,0000,,Sim, por mim tudo bem.
+Dialogue: 0,0:20:17.17,0:20:20.34,Default,,0000,0000,0000,,Realmente sentimos muito!
+Dialogue: 0,0:20:24.72,0:20:27.22,Default,,0000,0000,0000,,Genzo, posso falar uma coisa?
+Dialogue: 0,0:20:27.76,0:20:28.85,Default,,0000,0000,0000,,Não.
+Dialogue: 0,0:20:28.85,0:20:31.43,Default,,0000,0000,0000,,A pessoa de quem\Nestavam falando era...
+Dialogue: 0,0:20:31.77,0:20:34.35,Default,,0000,0000,0000,,Shigure, é perda de tempo perguntar.
+Dialogue: 0,0:20:35.02,0:20:36.02,Default,,0000,0000,0000,,Não sei.
+Dialogue: 0,0:20:36.69,0:20:41.11,Default,,0000,0000,0000,,Sempre me perguntei de onde todas\Naquelas feras estavam vindo!
+Dialogue: 0,0:20:45.66,0:20:47.33,Default,,0000,0000,0000,,Podemos conversar?
+Dialogue: 0,0:20:49.41,0:20:51.04,Default,,0000,0000,0000,,Um torneio público?
+Dialogue: 0,0:20:51.79,0:20:55.42,Default,,0000,0000,0000,,Sim. Fiquei bem impressionado\Ncom aquela batalha simulada.
+Dialogue: 0,0:20:55.71,0:21:00.46,Default,,0000,0000,0000,,Acho que as pessoas ficariam contentes\Nem ter combates para se entreterem.
+Dialogue: 0,0:21:00.84,0:21:05.64,Default,,0000,0000,0000,,Além de vender os ingressos em si,\Npodemos vender itens e alimentos também.
+Dialogue: 0,0:21:05.64,0:21:08.18,Default,,0000,0000,0000,,Deve render um lucro considerável.
+Dialogue: 0,0:21:08.68,0:21:10.27,Default,,0000,0000,0000,,Que ótima ideia!
+Dialogue: 0,0:21:10.27,0:21:12.81,Default,,0000,0000,0000,,Farei de tudo para\Nganharmos dinheiro!
+Dialogue: 0,0:21:12.81,0:21:16.94,Default,,0000,0000,0000,,Se vão vender itens,\Ndeveriam vender artigos da senhorita.
+Dialogue: 0,0:21:16.94,0:21:18.44,Default,,0000,0000,0000,,Logo se esgotariam.
+Dialogue: 0,0:21:18.69,0:21:21.23,Default,,0000,0000,0000,,Haverá comida, certo?
+Dialogue: 0,0:21:21.23,0:21:23.19,Default,,0000,0000,0000,,Eu amei essa ideia!
+Dialogue: 0,0:21:23.19,0:21:25.24,Default,,0000,0000,0000,,Mas quero abrir um pet shop...
+Dialogue: 0,0:21:25.24,0:21:30.70,Default,,0000,0000,0000,,Se você participar das lutas,\Nnós lhe pagaremos.
+Dialogue: 0,0:21:31.29,0:21:33.79,Default,,0000,0000,0000,,Poderá obter o dinheiro\Nde que precisa.
+Dialogue: 0,0:21:34.16,0:21:36.88,Default,,0000,0000,0000,,Vou receber para lutar, é isso?
+Dialogue: 0,0:21:38.13,0:21:40.71,Default,,0000,0000,0000,,Que agitação é essa?
+Dialogue: 0,0:21:41.96,0:21:44.63,Default,,0000,0000,0000,,Meus músculos estão\Npedindo para eu lutar!
+Dialogue: 0,0:21:46.63,0:21:50.64,Default,,0000,0000,0000,,Se o treino que meu corpo suportou\Nagora pode ajudar os animais...
+Dialogue: 0,0:21:52.56,0:21:53.52,Default,,0000,0000,0000,,Muito bem!
+Dialogue: 0,0:21:54.60,0:21:56.98,Default,,0000,0000,0000,,Um lutador aceita qualquer desafio!
+Dialogue: 0,0:22:04.32,0:22:07.11,Default,,0000,0000,0000,,Neste mundo também serei um lutador?
+Dialogue: 0,0:22:15.58,0:22:18.67,Default,,0000,0000,0000,,Ouvi falar sobre sua aparência
+Dialogue: 0,0:22:18.67,0:22:21.71,Default,,0000,0000,0000,,O nome de uma cidade que não conheço
+Dialogue: 0,0:22:21.71,0:22:24.84,Default,,0000,0000,0000,,Perto do espinho Que está\Npreso no meu coração
+Dialogue: 0,0:22:24.84,0:22:27.88,Default,,0000,0000,0000,,Acendo uma lâmpada de animal
+Dialogue: 0,0:22:27.88,0:22:31.01,Default,,0000,0000,0000,,Faço você usar uma camisa\Ndiferente Do que a do ano passado
+Dialogue: 0,0:22:31.01,0:22:34.18,Default,,0000,0000,0000,,Um sentimento mais\Nimportante Que o meu coração
+Dialogue: 0,0:22:34.18,0:22:37.27,Default,,0000,0000,0000,,O último segredo que deixo
+Dialogue: 0,0:22:37.27,0:22:40.56,Default,,0000,0000,0000,,Um gato persa com cabelo bagunçado
+Dialogue: 0,0:22:40.56,0:22:45.32,Default,,0000,0000,0000,,Às vezes, de repente sinto saudade
+Dialogue: 0,0:22:45.32,0:22:51.32,Default,,0000,0000,0000,,O cabelo um pouco mais\Ncomprido Ficava bem em você
+Dialogue: 0,0:22:54.12,0:22:55.20,Default,,0000,0000,0000,,Anedota
+Dialogue: 0,0:22:55.20,0:23:00.29,Default,,0000,0000,0000,,Os sonhos que você tem quando\Ncochila São sempre os melhores
+Dialogue: 0,0:23:00.29,0:23:01.38,Default,,0000,0000,0000,,Anedota
+Dialogue: 0,0:23:01.38,0:23:06.34,Default,,0000,0000,0000,,Não apague minha saudade\NCom o som do vento
+Dialogue: 0,0:23:06.34,0:23:11.76,Top,,0000,0000,0000,,Eu procurei
+Dialogue: 0,0:23:12.55,0:23:18.60,Top,,0000,0000,0000,,E você é uma joia que sempre fica na foto
+Dialogue: 0,0:23:18.89,0:23:19.98,Top,,0000,0000,0000,,Anedota
+Dialogue: 0,0:23:19.98,0:23:24.77,Top,,0000,0000,0000,,Quero correr com você
+Dialogue: 0,0:23:25.07,0:23:29.82,Top,,0000,0000,0000,,Para um sol distante e ardente
+Dialogue: 0,0:23:40.37,0:23:43.42,Default,,0000,0000,0000,,Próximo episódio:\N"Animais x Evento".
