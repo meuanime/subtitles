@@ -1,0 +1,320 @@
+﻿[Script Info]
+Title: [Erai-raws] Português (Brasil)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H78171718,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,0
+Style: Italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H78171718,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,0
+Style: Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H78171718,-1,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0015,0
+Style: Top Italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H78171718,-1,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0015,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:13.13,0:00:18.28,Top Italics,Commentator,0000,0000,0000,,O 16, 18 e 86 sobem para\Na praça de pedágios!
+Dialogue: 0,0:00:18.65,0:00:22.00,Top Italics,Kogashiwa,0000,0000,0000,,Dá para ver uma grande\Ncompetitividade entre os três.
+Dialogue: 0,0:00:22.57,0:00:24.96,Top Italics,Commentator,0000,0000,0000,,E agora a corrida\Nentra na segunda volta!
+Dialogue: 0,0:00:25.20,0:00:29.05,Top Italics,Commentator,0000,0000,0000,,Nós vamos ver novos\Navanços de Kanata Katagiri?
+Dialogue: 0,0:00:40.56,0:00:42.35,Italics,Seven,0000,0000,0000,,Boa sorte, Kanata.
+Dialogue: 0,0:00:42.43,0:00:42.56,Default,Sign,0000,0000,0000,,{\bord0\shad0\fnArial Black\fscx85\fax-0.36\fs55\fay0.215\an1\blur0.3\c&H3F3A34&\pos(87.666,385.998)}Katagiri Kanata
+Dialogue: 0,0:00:42.56,0:00:42.68,Default,Sign,0000,0000,0000,,{\bord0\shad0\fnArial Black\fscx85\fax-0.36\fs55\fay0.215\an1\blur0.3\c&H3F3A34&\pos(97.666,349.331)}Katagiri Kanata
+Dialogue: 0,0:00:42.68,0:00:42.81,Default,Sign,0000,0000,0000,,{\bord0\shad0\fnArial Black\fscx85\fax-0.36\fs55\fay0.215\an1\blur0.3\c&H3F3A34&\pos(102.333,309.998)}Katagiri Kanata
+Dialogue: 0,0:00:42.81,0:00:42.93,Default,Sign,0000,0000,0000,,{\bord0\shad0\fnArial Black\fscx85\fax-0.36\fs55\fay0.215\an1\blur0.3\c&H3F3A34&\pos(109,272.665)}Katagiri Kanata
+Dialogue: 0,0:00:42.93,0:00:43.06,Default,Sign,0000,0000,0000,,{\bord0\shad0\fnArial Black\fscx85\fax-0.32\fs55\fay0.215\an1\blur0.3\c&H3F3A34&\pos(115,264.665)}Katagiri Kanata
+Dialogue: 0,0:00:43.06,0:00:43.18,Default,Sign,0000,0000,0000,,{\bord0\shad0\fnArial Black\fscx85\fax-0.22\fs55\fay0.215\an1\blur0.3\c&H3F3A34&\pos(123.666,261.332)}Katagiri Kanata
+Dialogue: 0,0:00:43.18,0:00:43.31,Default,Sign,0000,0000,0000,,{\bord0\shad0\fnArial Black\fscx85\fax-0.16\fs55\fay0.215\an1\blur0.3\c&H3F3A34&\pos(128.333,255.999)}Katagiri Kanata
+Dialogue: 0,0:00:43.31,0:00:43.64,Default,Sign,0000,0000,0000,,{\bord0\shad0\fnArial Black\fscx85\fax-0.12\fs55\fay0.215\an1\blur0.3\c&H3F3A34&\pos(135,252)}Katagiri Kanata
+Dialogue: 0,0:00:43.64,0:00:43.85,Default,Sign,0000,0000,0000,,{\bord0\shad0\fnArial Black\fscx85\fax-0.12\t(\fax0)\fs55\fay0.215\an1\blur0.3\c&H3F3A34&\move(135,252,149,252)}Katagiri Kanata
+Dialogue: 0,0:00:43.85,0:00:44.06,Default,Sign,0000,0000,0000,,{\bord0\shad0\fnArial Black\fscx85\fs55\fay0.215\an1\blur0.3\c&H3F3A34&\pos(149,252)}Katagiri Kanata
+Dialogue: 0,0:00:44.06,0:00:44.81,Default,Sign,0000,0000,0000,,{\bord0\shad0\fnArial Black\fscx85\fs55\fay0.215\an1\blur0.3\c&H3F3A34&\pos(151,252)}Katagiri Kanata
+Dialogue: 0,0:00:45.53,0:00:48.77,Italics,Seven,0000,0000,0000,,Eu não quero que você\Nse torne famoso, mas...
+Dialogue: 0,0:00:49.44,0:00:52.68,Italics,Seven,0000,0000,0000,,Quero que seu sonho se realize.
+Dialogue: 0,0:00:59.84,0:01:01.16,Default,Male Customer A,0000,0000,0000,,Maravilhoso!
+Dialogue: 0,0:01:01.16,0:01:03.38,Default,Female Customer B,0000,0000,0000,,Que quadril mais fofo!
+Dialogue: 0,0:01:03.38,0:01:03.87,Default,Female Customer C,0000,0000,0000,,Sim!
+Dialogue: 0,0:01:05.80,0:01:07.25,Italics,Seven,0000,0000,0000,,Ah, droga!
+Dialogue: 0,0:01:07.57,0:01:09.21,Italics,Seven,0000,0000,0000,,Baixei a guarda!
+Dialogue: 0,0:01:09.57,0:01:12.92,Default,Uehara,0000,0000,0000,,Agora que terminou o trabalho,\Numa pergunta para você.
+Dialogue: 0,0:01:13.31,0:01:15.88,Default,Uehara,0000,0000,0000,,Quem é o seu piloto favorito?
+Dialogue: 0,0:01:17.06,0:01:23.85,Default,Seven,0000,0000,0000,,Bem... Acabei de entrar nas Angels.\NEu não conheço os pilotos ainda.
+Dialogue: 0,0:01:24.07,0:01:25.27,Default,Ren Dad,0000,0000,0000,,Mentirosa.
+Dialogue: 0,0:01:25.66,0:01:29.99,Default,Ren Dad,0000,0000,0000,,Você conhece um deles {\i1}muito{\i0} bem.\NChega a ser engraçado, não é, querida?
+Dialogue: 0,0:01:29.99,0:01:32.91,Default,Mayuko,0000,0000,0000,,Para de zombar de sua filha.
+Dialogue: 0,0:01:34.59,0:01:37.03,Top Italics,Seven,0000,0000,0000,,Não posso dizer que uma pessoa que\Neu não conheço é a minha favorita...
+Dialogue: 0,0:01:37.46,0:01:41.52,Default,Seven,0000,0000,0000,,Por isso, quero passar meu primeiro\Nano trabalhando duro como Angel
+Dialogue: 0,0:01:41.52,0:01:44.06,Default,Seven,0000,0000,0000,,e aprender mais sobre a MFG.
+Dialogue: 0,0:01:44.06,0:01:47.12,Default,Seven,0000,0000,0000,,Me desculpe, é tudo que\Neu posso dizer agora!
+Dialogue: 0,0:01:48.06,0:01:49.17,Default,Seven,0000,0000,0000,,Fim.
+Dialogue: 0,0:01:49.81,0:01:51.74,Top Italics,Uehara,0000,0000,0000,,Essa se faz de difícil.
+Dialogue: 0,0:01:51.74,0:01:55.32,Top Italics,Uehara,0000,0000,0000,,Essa foi uma visão nova da\Nnova recruta, a número sete!
+Dialogue: 0,0:02:01.43,0:02:05.92,Top Italics,Commentator,0000,0000,0000,,E então, todos os 14 carros que ainda estão\Ncorrendo começaram a segunda volta.
+Dialogue: 0,0:02:06.27,0:02:08.48,Top Italics,Commentator,0000,0000,0000,,É aqui que vai começar\Na esquentar, Kogashiwa!
+Dialogue: 0,0:02:08.48,0:02:13.57,Top Italics,Kogashiwa,0000,0000,0000,,Eu diria que sim. A maioria dos pilotos\Ntenta conservar os pneus na primeira volta.
+Dialogue: 0,0:02:13.57,0:02:19.20,Top Italics,Kogashiwa,0000,0000,0000,,Todo ano, a segunda volta do Odawara Pikes\NPeak é quando a corrida começa a mudar.
+Dialogue: 0,0:02:19.20,0:02:23.73,Top Italics,Commentator,0000,0000,0000,,Vamos ver esses monstros\Nmotorizados liberarem todo o poder
+Dialogue: 0,0:02:23.73,0:02:27.26,Top Italics,Commentator,0000,0000,0000,,enquanto tentam batalhar\Naté o grupo da frente.
+Dialogue: 0,0:02:51.94,0:02:53.73,Default,Sign,0000,0000,0000,,{\fad(200,0)\blur5\t(0,310,\blur0.3)\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&HFFFFFF&\t(560,561,\c&H6000E6&)\t(580,1000,\c&H0100D1&)\pos(320,345)}MF Ghost
+Dialogue: 0,0:03:59.59,0:04:00.19,Default,Sign,0000,0000,0000,,{\fad(200,300)\bord0\alpha&H20&\fax-0.02\fscy48\fscx150\shad0\b1\fnArial\blur6\p1\c&H001FFF&\pos(480.1,300.1)}m 0 0 l 100 0 100 100 0 100{\p0}
+Dialogue: 1,0:03:59.59,0:04:03.97,Default,Sign,0000,0000,0000,,{\fad(330,300)\bord0.5\shad1.5\b1\fnArial\blur0.3\fax-0.15\3c&H5B5B5B&\t(4050,4620,\blur5)\pos(480.43,300.38)}Curva 07: O Homem no Carro 4
+Dialogue: 0,0:04:05.52,0:04:09.20,Top Italics,Commentator,0000,0000,0000,,Em oitavo, Akaba no carro\N2 continua a avançar!
+Dialogue: 0,0:04:09.20,0:04:13.35,Top Italics,Commentator,0000,0000,0000,,A seguir, na vista dele, tem o Taylor no 8!
+Dialogue: 0,0:04:13.35,0:04:16.49,Top Italics,Kogashiwa,0000,0000,0000,,Parece apenas questão de\Ntempo até que ele ultrapasse.
+Dialogue: 0,0:04:16.49,0:04:22.74,Top Italics,Kogashiwa,0000,0000,0000,,Não acho que um Carrera GTS de 450 cv pode manter\Numa Ferrari de 650 cv para trás por muito tempo...
+Dialogue: 0,0:04:24.36,0:04:26.95,Italics,Akaba,0000,0000,0000,,Eu descobri uma pista essencial!
+Dialogue: 0,0:04:27.50,0:04:31.95,Italics,Akaba,0000,0000,0000,,Graças a um problema de sensor, eu não\Nconsegui a potência comum na qualificatória.
+Dialogue: 0,0:04:32.30,0:04:37.00,Italics,Akaba,0000,0000,0000,,Mas eu consegui bater meu melhor\Ntempo no Setor 3 apesar disso.
+Dialogue: 0,0:04:37.46,0:04:40.70,Italics,Akaba,0000,0000,0000,,Deve ser uma pista para descobrir\No grande mistério da MFG.
+Dialogue: 0,0:04:41.21,0:04:44.05,Italics,Akaba,0000,0000,0000,,Não é mesmo, Ryo Takahashi?
+Dialogue: 0,0:04:46.76,0:04:49.22,Top Italics,Commentator,0000,0000,0000,,E lá vem ele!
+Dialogue: 0,0:04:53.89,0:04:58.32,Top Italics,Commentator,0000,0000,0000,,O carro 3 ultrapassa Jackson Taylor no 8!
+Dialogue: 0,0:04:58.78,0:05:01.78,Italics,Taylor,0000,0000,0000,,Ele é bom, eu não pude\Nfazer nada para impedir ele.
+Dialogue: 0,0:05:02.40,0:05:06.41,Italics,Taylor,0000,0000,0000,,Tem três pilotos na MFG que\Neu considero excepcionais.
+Dialogue: 0,0:05:06.68,0:05:10.20,Italics,Taylor,0000,0000,0000,,Um é o Beckenbauer, ele é um\Nanimal completamente diferente.
+Dialogue: 0,0:05:10.58,0:05:13.36,Italics,Taylor,0000,0000,0000,,Então, o segundo é você, Akaba.
+Dialogue: 0,0:05:13.36,0:05:15.00,Italics,Taylor,0000,0000,0000,,E o terceiro...
+Dialogue: 0,0:05:15.56,0:05:20.20,Italics,Taylor,0000,0000,0000,,Seria o quarto colocado do ano passado,\Nque nem veio para essa corrida.
+Dialogue: 0,0:05:25.38,0:05:27.51,Default,Sana,0000,0000,0000,,Hã? Ei, Ko.
+Dialogue: 0,0:05:28.11,0:05:31.14,Default,Sana,0000,0000,0000,,Aquela não é uma corrida da MFG?
+Dialogue: 0,0:05:31.14,0:05:33.69,Default,Sana,0000,0000,0000,,Deve ser uma reprise\Nde uma antiga, não é?
+Dialogue: 0,0:05:33.69,0:05:35.47,Default,Sawatari,0000,0000,0000,,Não, é ao vivo.
+Dialogue: 0,0:05:35.47,0:05:38.23,Default,Sana,0000,0000,0000,,Hã? Por quê?\NVocê não deveria participar?
+Dialogue: 0,0:05:38.85,0:05:41.72,Default,Sana,0000,0000,0000,,Não tem problema você estar aqui?
+Dialogue: 0,0:05:41.72,0:05:46.20,Default,Sawatari,0000,0000,0000,,Claro que não tem.\NAfinal, é seu aniversário, Sana.
+Dialogue: 0,0:05:46.54,0:05:50.53,Default,Sana,0000,0000,0000,,Hã? Mas se não correr, você não\Nvai ganhar nenhum dinheiro...
+Dialogue: 0,0:05:50.86,0:05:53.96,Default,Sawatari,0000,0000,0000,,Não precisa se preocupar com isso, Sana.
+Dialogue: 0,0:05:53.96,0:05:58.50,Default,Sawatari,0000,0000,0000,,Eu cheguei em quarto ano passado.\NSabe quanto dinheiro eu ganhei?
+Dialogue: 0,0:05:58.79,0:06:02.12,Default,Sana,0000,0000,0000,,Mesmo assim, eu sempre fico insegura...
+Dialogue: 0,0:06:02.47,0:06:07.22,Default,Sana,0000,0000,0000,,Quer dizer, você é mais velho,\Nbonito e uma celebridade...
+Dialogue: 0,0:06:07.88,0:06:11.30,Default,Sana,0000,0000,0000,,Eu fico insegura porque mesmo que não vá\Natrás de outras garotas, elas {\i1}vêm{\i0} até você.
+Dialogue: 0,0:06:11.30,0:06:20.10,Default,Sign,0000,0000,0000,,{\an8\bord0.8\fs14\shad0\fax-0.56\fay0.02\blur0.4\c&HBA7C55&\3c&HFAF6E2&\frz29.8\move(226,162,378,92)\frx2\fry342}Não tenha medo de curvas cegas
+Dialogue: 0,0:06:11.30,0:06:20.10,Default,Sign,0000,0000,0000,,{\an8\bord1.1\fs10\shad0\fax-0.56\fay0.04\blur0.3\c&H8B6CD1&\3c&HEBE8F6&\frz29.8\frx2\fry342\move(354.667,101.333,506.667,31.333)}Música-tema da MFG
+Dialogue: 0,0:06:11.69,0:06:15.01,Default,Sana,0000,0000,0000,,Além disso, são todas bonitas e estilosas.
+Dialogue: 0,0:06:15.01,0:06:18.73,Default,Sawatari,0000,0000,0000,,As Angels são todas vovós\Ncomparadas a você, Sana.
+Dialogue: 0,0:06:19.13,0:06:20.10,Default,Sana,0000,0000,0000,,Ah, pare com isso!
+Dialogue: 0,0:06:20.86,0:06:24.45,Default,Sana,0000,0000,0000,,Eu sou só uma colegial comum.
+Dialogue: 0,0:06:24.45,0:06:25.62,Default,Sawatari,0000,0000,0000,,Não é verdade.
+Dialogue: 0,0:06:26.85,0:06:28.46,Default,Sawatari,0000,0000,0000,,Você é mais que normal.
+Dialogue: 0,0:06:29.28,0:06:30.91,Default,Sawatari,0000,0000,0000,,Você é especial, Sana.
+Dialogue: 0,0:06:32.32,0:06:35.25,Italics,Sawatari,0000,0000,0000,,Quer dizer, você tem 17, não?
+Dialogue: 0,0:06:36.91,0:06:38.30,Italics,Sawatari,0000,0000,0000,,Ah, 17...
+Dialogue: 0,0:06:39.37,0:06:41.71,Italics,Sawatari,0000,0000,0000,,Como isso ecoa bonito.
+Dialogue: 0,0:06:42.10,0:06:45.26,Italics,Sawatari,0000,0000,0000,,Esse número que mexe com\Nminha alma até o âmago...
+Dialogue: 0,0:06:46.24,0:06:49.84,Italics,Sawatari,0000,0000,0000,,Tem só duas coisas que eu\Namo do fundo do meu coração.
+Dialogue: 0,0:06:50.51,0:06:55.44,Italics,Sawatari,0000,0000,0000,,A primeira é como eu me\Napaixono por garotas de 17 anos.
+Dialogue: 0,0:06:55.97,0:07:01.60,Italics,Sawatari,0000,0000,0000,,A outra é como eu me sinto quando\Nestou atrás do volante indo até o limite.
+Dialogue: 0,0:07:01.60,0:07:03.39,Italics,Sawatari,0000,0000,0000,,É legal demais.
+Dialogue: 0,0:07:04.23,0:07:06.73,Italics,Sawatari,0000,0000,0000,,Em comparação, o dinheiro não importa.
+Dialogue: 0,0:07:06.73,0:07:12.25,Italics,Sawatari,0000,0000,0000,,Vou gastar tudo numa garota, e quando acabar,\Narrisco minha vida para ganhar mais.
+Dialogue: 0,0:07:13.30,0:07:16.03,Default,Sawatari,0000,0000,0000,,Vamos comprar um\Npresente de aniversário, Sana.
+Dialogue: 0,0:07:16.97,0:07:20.21,Default,Sawatari,0000,0000,0000,,Vamos comprar tudo o que der.\NOrçamento ilimitado!
+Dialogue: 0,0:07:20.21,0:07:23.21,Default,Sana,0000,0000,0000,,Que felicidade, Ko!
+Dialogue: 0,0:07:34.00,0:07:35.60,Italics,Ishigami's Second,0000,0000,0000,,Você precisa atacar, Ishigami!
+Dialogue: 0,0:07:36.05,0:07:39.10,Default,Ishigami's Second,0000,0000,0000,,Se não sair na frente no Setor 1,\Nsuas chances de vencer—
+Dialogue: 0,0:07:39.10,0:07:41.19,Default,Ishigami,0000,0000,0000,,Não precisa me dizer isso.
+Dialogue: 0,0:07:41.19,0:07:43.35,Default,Ishigami,0000,0000,0000,,Cale a boca. Está me distraindo.
+Dialogue: 0,0:07:45.15,0:07:49.65,Italics,Ishigami,0000,0000,0000,,Eu estava tão convencido que esse\Nmotor deixava o carro invencível...
+Dialogue: 0,0:07:50.30,0:07:52.49,Italics,Ishigami,0000,0000,0000,,De todos os carros competindo na MFG,
+Dialogue: 0,0:07:52.49,0:07:57.17,Italics,Ishigami,0000,0000,0000,,este é o único que pode chegar a 9 mil rpm com\Num motor boxer de seis cilindros de 500 cv.
+Dialogue: 0,0:07:57.76,0:08:00.93,Italics,Ishigami,0000,0000,0000,,E mesmo assim, parece faltar potência...
+Dialogue: 0,0:08:01.63,0:08:02.58,Italics,Ishigami,0000,0000,0000,,Não é o bastante.
+Dialogue: 0,0:08:02.83,0:08:06.17,Italics,Ishigami,0000,0000,0000,,Não é o bastante para competir com ele.
+Dialogue: 0,0:08:06.68,0:08:11.13,Italics,Ishigami,0000,0000,0000,,Ele não dá nenhuma brecha. Não\Ntem nenhum ângulo para eu atacar.
+Dialogue: 0,0:08:15.20,0:08:21.66,Top Italics,Commentator,0000,0000,0000,,Tem diversos pontos no Setor 1 onde um carro\Na toda potência pode ir a mais de 200 km/h.
+Dialogue: 0,0:08:22.41,0:08:24.78,Top Italics,Commentator,0000,0000,0000,,Aposto que alguns espectadores\Nestão perguntando
+Dialogue: 0,0:08:24.78,0:08:28.91,Top Italics,Commentator,0000,0000,0000,,como nossos drones com velocidade máxima\Nde 180 km/h conseguem acompanhar.
+Dialogue: 0,0:08:29.86,0:08:33.38,Top Italics,Commentator,0000,0000,0000,,Bem, esses drones voadores podem\Ndobrar mais rápido que carros.
+Dialogue: 0,0:08:33.38,0:08:37.90,Top Italics,Commentator,0000,0000,0000,,Qualquer perda nas retas\Né recuperada nas curvas.
+Dialogue: 0,0:08:42.55,0:08:46.09,Italics,Aiba,0000,0000,0000,,Essa não.\NA situação complicou para mim.
+Dialogue: 0,0:08:47.10,0:08:51.51,Italics,Aiba,0000,0000,0000,,Deusa da Sorte, eu vou\Nprecisar da sua ajuda!
+Dialogue: 0,0:08:52.17,0:08:54.18,Italics,Aiba,0000,0000,0000,,Para minha amada número sete!
+Dialogue: 0,0:08:54.97,0:08:57.97,Default,Sign,0000,0000,0000,,{\bord1.5\shad0\fnArial\fs14\fsp2\fax-0.04\fscx90\fay0.13\c&H655171&\pos(250,76)\3c&HBFC1B3&\frx358\fry10}Rampa de
+Dialogue: 0,0:08:54.97,0:08:57.97,Default,Sign,0000,0000,0000,,{\bord1.5\shad0\fnArial\fs13.5\fsp2.5\fax-0.04\fscx90\fay0.13\c&H655171&\3c&HBAB4AB&\frx358\fry10\pos(368,96)} escape de
+Dialogue: 0,0:08:54.97,0:08:57.97,Default,Sign,0000,0000,0000,,{\bord1.5\shad0\fnArial\fs13.5\fsp3\fax-0.04\fscx90\fay0.1\c&H655171&\3c&HBAB4AB&\frx358\fry10\pos(473.333,112.667)} emergência
+Dialogue: 0,0:09:04.20,0:09:06.66,Italics,Ogata,0000,0000,0000,,Aqui é o Ogata.\NConsegue me ouvir, Kanata?
+Dialogue: 0,0:09:06.66,0:09:08.23,Default,Kanata,0000,0000,0000,,Alto e claro. Câmbio.
+Dialogue: 0,0:09:08.23,0:09:11.74,Default,Ogata,0000,0000,0000,,Tem certeza que não está indo rápido demais?\NEstou preocupado com seus pneus.
+Dialogue: 0,0:09:12.24,0:09:16.20,Default,Ogata,0000,0000,0000,,Na qualificatória, eles estavam\N80% gastos depois de uma volta.
+Dialogue: 0,0:09:16.78,0:09:22.29,Default,Ogata,0000,0000,0000,,Se você for para uma segunda volta com a mesma\Nabordagem, vai faltar aderência na metade.
+Dialogue: 0,0:09:22.56,0:09:24.54,Default,Kanata,0000,0000,0000,,{\i1}No problem{\i0}, Sr. Ogata.
+Dialogue: 0,0:09:24.85,0:09:28.75,Default,Kanata,0000,0000,0000,,Eles nos ensinaram gestão\Nde pneus na academia...
+Dialogue: 0,0:09:29.36,0:09:34.63,Default,Kanata,0000,0000,0000,,Sei quando eu consigo ir {\i1}in one stint{\i0},\Na distância que eu consigo percorrer
+Dialogue: 0,0:09:35.07,0:09:38.72,Default,Kanata,0000,0000,0000,,antes que toda a\Naderência dos pneus suma.
+Dialogue: 0,0:09:39.33,0:09:43.36,Italics,Kanata,0000,0000,0000,,Usar tudo muito depressa é no game, mas ter\Npneu sobrando no fim é mais no game ainda.
+Dialogue: 0,0:09:43.77,0:09:48.19,Italics,Kanata,0000,0000,0000,,Eu não vou ir com tudo\Naté a descida final.
+Dialogue: 0,0:09:49.05,0:09:54.00,Default,Kanata,0000,0000,0000,,Estou confiante que posso cumprir essa\Nmissão melhor do que qualquer outro.
+Dialogue: 0,0:09:55.63,0:09:59.82,Default,Kanata,0000,0000,0000,,Sr. Ogata, acredito que posso lhe\Npresentear com uma posição final
+Dialogue: 0,0:09:59.82,0:10:01.79,Default,Kanata,0000,0000,0000,,muito melhor do que a que estou agora.
+Dialogue: 0,0:10:01.79,0:10:02.83,Default,Kanata,0000,0000,0000,,Câmbio!
+Dialogue: 0,0:10:04.48,0:10:07.29,Italics,Ogata,0000,0000,0000,,Droga! Estou ficando com calafrios.
+Dialogue: 0,0:10:07.93,0:10:11.30,Italics,Ogata,0000,0000,0000,,Meus olhos não conseguem deixar de\Nlacrimejar depois de uma fala dessas.
+Dialogue: 0,0:10:12.31,0:10:17.67,Top Italics,Commentator,0000,0000,0000,,Beckenbauer no 12 não vai deixar Ishigami\Nno 1 ganhar qualquer vantagem contra ele.
+Dialogue: 0,0:10:17.93,0:10:22.89,Top Italics,Commentator,0000,0000,0000,,Seu Porsche Cayman branquinho passou\Nna dianteira pela casa de repouso.
+Dialogue: 0,0:10:22.89,0:10:28.23,Top Italics,Commentator,0000,0000,0000,,É realmente hora de mudança! É difícil\Nimaginar alguém ultrapassando ele agora!
+Dialogue: 0,0:10:28.52,0:10:31.18,Top Italics,Commentator,0000,0000,0000,,O jovem conhecido como\No Assassino de Stuttgart
+Dialogue: 0,0:10:31.18,0:10:34.58,Top Italics,Commentator,0000,0000,0000,,quer esmagar a dignidade do\Ncampeão por dois anos seguidos!
+Dialogue: 0,0:10:36.12,0:10:39.11,Top Italics,Commentator,0000,0000,0000,,O carro 9 está em terceiro\Ne o 5 está quarto!
+Dialogue: 0,0:10:39.11,0:10:41.62,Top Italics,Commentator,0000,0000,0000,,Otani no 7 está sozinho\Nna quinta posição!
+Dialogue: 0,0:10:41.62,0:10:44.37,Top Italics,Commentator,0000,0000,0000,,E isso traz a batalha pelo sexto lugar!
+Dialogue: 0,0:10:44.37,0:10:47.58,Top Italics,Commentator,0000,0000,0000,,O carro 2 está grudando atrás do 6!
+Dialogue: 0,0:10:47.93,0:10:50.75,Top Italics,Commentator,0000,0000,0000,,Então, você vai atacar, Kaito Akaba?
+Dialogue: 0,0:10:50.75,0:10:52.68,Top Italics,Commentator,0000,0000,0000,,É agora?
+Dialogue: 0,0:11:04.10,0:11:09.14,Top Italics,Commentator,0000,0000,0000,,E o carro 2 completa uma ultrapassagem\Nde sucesso no 6! Agora ele está em sexto!
+Dialogue: 0,0:11:09.49,0:11:14.06,Italics,Yanagida,0000,0000,0000,,Droga! Vindo para cima de mim nesse\Ntrecho apertado com um carro largo desses.
+Dialogue: 0,0:11:14.37,0:11:17.90,Italics,Yanagida,0000,0000,0000,,Não acha que está sendo\Nagressivo demais, Kaito Akaba?
+Dialogue: 0,0:11:17.90,0:11:22.86,Top Italics,Commentator,0000,0000,0000,,Lá vem mais um grupo!\NTaylor no 9! Oishi no 3!
+Dialogue: 0,0:11:22.86,0:11:25.83,Default,Oishi,0000,0000,0000,,Onde está o Akaba? Onde o\NKaito Akaba foi se meter?
+Dialogue: 0,0:11:25.83,0:11:29.29,Italics,Oishi Second,0000,0000,0000,,Ele está 9 segundos na frente.\NTem dois carros entre vocês.
+Dialogue: 0,0:11:29.63,0:11:33.75,Italics,Oishi Second,0000,0000,0000,,Calma, Daigo. Se concentre em\Npassar o 8 que está bem na sua frente.
+Dialogue: 0,0:11:34.00,0:11:35.11,Default,Oishi,0000,0000,0000,,Droga.
+Dialogue: 0,0:11:35.11,0:11:37.56,Italics,Oishi,0000,0000,0000,,Como eu posso ficar calmo?
+Dialogue: 0,0:11:37.56,0:11:41.72,Italics,Oishi,0000,0000,0000,,Nossos carros deveriam ser quase iguais.\NComo ele ganhou tanta vantagem no Setor 1?
+Dialogue: 0,0:11:42.20,0:11:45.96,Top Italics,Commentator,0000,0000,0000,,Os Irmãos Yashi-Kita continuam passando\Ncom uma combinação perfeita.
+Dialogue: 0,0:11:46.30,0:11:49.57,Top Italics,Commentator,0000,0000,0000,,E cerca de seis segundos atrás,\Num carro vermelho acelera.
+Dialogue: 0,0:11:49.57,0:11:54.59,Top Italics,Commentator,0000,0000,0000,,Dos 15 carros nesta corrida, o Toyota\N86 GT é o com menos potência.
+Dialogue: 0,0:11:55.23,0:11:59.37,Top Italics,Commentator,0000,0000,0000,,E como essa é uma seção de potência,\Nos carros estão se distanciando.
+Dialogue: 0,0:11:59.70,0:12:03.32,Top Italics,Kogashiwa,0000,0000,0000,,Vai ser uma corrida\Ndifícil para o Katagiri.
+Dialogue: 0,0:12:03.65,0:12:10.50,Top Italics,Kogashiwa,0000,0000,0000,,Mas a fraqueza do carro faz a performance\Ndo piloto chamar ainda mais atenção.
+Dialogue: 0,0:12:10.94,0:12:16.97,Top Italics,Kogashiwa,0000,0000,0000,,Deixando-o perto do Beckenbauer na liderança\Ne de Kaito Akaba que está ganhando posições,
+Dialogue: 0,0:12:16.97,0:12:20.76,Top Italics,Kogashiwa,0000,0000,0000,,ele mostra uma direção que não\Né nem um pouco inferior a deles.
+Dialogue: 0,0:12:27.32,0:12:31.39,Top Italics,Commentator,0000,0000,0000,,E de volta no último lugar,\No 13 entra no Setor 2.
+Dialogue: 0,0:12:37.12,0:12:42.49,Italics,Kakeru,0000,0000,0000,,A segunda metade da pista do Monte\NTaikan até o lago é bem complicada.
+Dialogue: 0,0:12:43.44,0:12:47.24,Italics,Kakeru,0000,0000,0000,,É irregular para causar vibrações.\NA poeira não é brincadeira.
+Dialogue: 0,0:12:47.57,0:12:51.08,Italics,Kakeru,0000,0000,0000,,Força demais pode acabar\Nfazendo perder o controle.
+Dialogue: 0,0:12:51.39,0:12:54.41,Italics,Kakeru,0000,0000,0000,,Isso tudo deve fazer qualquer\Npiloto hesitar um pouco...
+Dialogue: 0,0:12:54.97,0:12:57.71,Italics,Kakeru,0000,0000,0000,,Mesmo assim, como?
+Dialogue: 0,0:12:57.71,0:13:00.96,Italics,Kakeru,0000,0000,0000,,Como ele é o único que\Nestá ganhando velocidade?
+Dialogue: 0,0:13:15.69,0:13:17.14,Top,Kanata,0000,0000,0000,,MF Ghost.
+Dialogue: 0,0:13:15.98,0:13:16.31,Default,Sign,0000,0000,0000,,{\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&HFCFFFC&\move(-140,218,200,218)}MF Ghost
+Dialogue: 0,0:13:16.31,0:13:16.52,Default,Sign,0000,0000,0000,,{\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&HFCFFFC&\move(200,218,340,218)}MF Ghost
+Dialogue: 0,0:13:16.52,0:13:16.73,Default,Sign,0000,0000,0000,,{\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&HFCFFFC&\move(340,218,420,218)}MF Ghost
+Dialogue: 0,0:13:16.73,0:13:17.73,Default,Sign,0000,0000,0000,,{\fad(0,300)\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&HFCFFFC&\move(420,218,440,218,0,200)}MF Ghost
+Dialogue: 1,0:13:17.52,0:13:20.03,Default,Sign,0000,0000,0000,,{\fad(530,0)\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&H0100D1&\pos(440,218)}MF Ghost
+Dialogue: 0,0:13:21.07,0:13:21.40,Default,Sign,0000,0000,0000,,{\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&HFCFFFC&\move(-140,218,200,218)}MF Ghost
+Dialogue: 0,0:13:21.40,0:13:21.61,Default,Sign,0000,0000,0000,,{\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&HFCFFFC&\move(200,218,340,218)}MF Ghost
+Dialogue: 0,0:13:21.61,0:13:21.82,Default,Sign,0000,0000,0000,,{\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&HFCFFFC&\move(340,218,420,218)}MF Ghost
+Dialogue: 0,0:13:21.82,0:13:25.03,Default,Sign,0000,0000,0000,,{\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&HFCFFFC&\move(420,218,440,218,0,200)}MF Ghost
+Dialogue: 0,0:13:22.53,0:13:23.85,Top,Ogata,0000,0000,0000,,MF Ghost.
+Dialogue: 0,0:13:30.03,0:13:34.87,Top Italics,Commentator,0000,0000,0000,,Beckenbauer está em primeiro lugar,\Ndeixando todos os outros bem para trás.
+Dialogue: 0,0:13:34.87,0:13:38.58,Top Italics,Commentator,0000,0000,0000,,O carro 1 não consegue acompanhar.\NEstá sendo deixado para trás.
+Dialogue: 0,0:13:43.91,0:13:46.76,Top Italics,Commentator,0000,0000,0000,,Mas estamos vendo alguma\Natividade no grupo atrás.
+Dialogue: 0,0:13:47.59,0:13:51.08,Top Italics,Commentator,0000,0000,0000,,Apesar de dirigir com ótimo\Ndesempenho, o ritmo do 9 está caindo.
+Dialogue: 0,0:13:51.08,0:13:55.68,Top Italics,Commentator,0000,0000,0000,,A diferença que ele conseguiu\Ndo carro 5 quase sumiu.
+Dialogue: 0,0:13:55.93,0:13:59.33,Top Italics,Kogashiwa,0000,0000,0000,,Nós estamos vendo o carro\N9 não virar o suficiente.
+Dialogue: 0,0:13:59.33,0:14:01.61,Top Italics,Kogashiwa,0000,0000,0000,,Acho que os pneus estão gastos.
+Dialogue: 0,0:14:03.94,0:14:07.57,Italics,Aiba,0000,0000,0000,,Droga, meus pneus dianteiros foram\Ngastos mais rápido do que eu pensava.
+Dialogue: 0,0:14:08.16,0:14:11.66,Italics,Aiba,0000,0000,0000,,Estou lutando para controlar\Nesse chassi pesado ao frear.
+Dialogue: 0,0:14:12.20,0:14:15.16,Italics,Aiba,0000,0000,0000,,Mas minha tração traseira\Nestá sem problemas.
+Dialogue: 0,0:14:15.37,0:14:18.33,Italics,Aiba,0000,0000,0000,,Essas pistas são apertadas.\NNão vou deixar ele passar.
+Dialogue: 0,0:14:18.33,0:14:23.75,Italics,Aiba,0000,0000,0000,,Não vou lhe entregar o beijo da\Nnúmero sete de mão beijada, otário!
+Dialogue: 0,0:14:38.62,0:14:40.81,Italics,Kaito Second,0000,0000,0000,,Cabine para Kaito, está me ouvindo?
+Dialogue: 0,0:14:41.15,0:14:45.44,Italics,Kaito Second,0000,0000,0000,,O 9 reduziu um pouco o ritmo e está\Ntentando segurar o terceiro lugar.
+Dialogue: 0,0:14:45.44,0:14:48.67,Italics,Kaito Second,0000,0000,0000,,Mantenha esse ritmo e\Nvai grudar nele no final.
+Dialogue: 0,0:14:48.67,0:14:52.53,Default,Akaba,0000,0000,0000,,Entendido. Mas primeiro, eu preciso\Nalcançar o AMG na minha frente.
+Dialogue: 0,0:14:53.35,0:14:57.22,Default,Akaba,0000,0000,0000,,Eu posso ver sua traseira\Nficando cada vez maior...
+Dialogue: 0,0:14:59.59,0:15:01.15,Top Italics,Commentator,0000,0000,0000,,E agora, vamos trocar de câmera.
+Dialogue: 0,0:15:01.15,0:15:05.09,Top Italics,Commentator,0000,0000,0000,,Lá vem o 16, o 18 e o 86.
+Dialogue: 0,0:15:05.35,0:15:08.56,Top Italics,Kogashiwa,0000,0000,0000,,Esses três estiveram juntos\Ndurante toda a corrida.
+Dialogue: 0,0:15:08.56,0:15:12.18,Top Italics,Kogashiwa,0000,0000,0000,,Dá para dizer que é "Irmãos\NYashi-Kita vs. Kanata Katagiri".
+Dialogue: 0,0:15:12.41,0:15:16.16,Top Italics,Kogashiwa,0000,0000,0000,,Isso não quer dizer que os carros\Nestão em condições iguais...
+Dialogue: 0,0:15:16.16,0:15:21.44,Top Italics,Kogashiwa,0000,0000,0000,,Parece que o 86 está fazendo de tudo\Npara grudar nos carros da frente.
+Dialogue: 0,0:15:21.69,0:15:26.44,Top Italics,Kogashiwa,0000,0000,0000,,Imagina que frustrante para o Yashio\Ne a Kitahara serem seguidos assim.
+Dialogue: 0,0:15:26.80,0:15:30.40,Top Italics,Kogashiwa,0000,0000,0000,,Eles fogem e fogem, mas ele está\Ngrudado como se fosse uma sombra.
+Dialogue: 0,0:15:30.88,0:15:32.70,Top Italics,Commentator,0000,0000,0000,,Kakeru Yashio, 22 anos.
+Dialogue: 0,0:15:33.03,0:15:34.91,Top Italics,Commentator,0000,0000,0000,,Nozomi Kitahara, 20 anos.
+Dialogue: 0,0:15:34.91,0:15:37.37,Top Italics,Commentator,0000,0000,0000,,Kanata Katagiri, 19 anos.
+Dialogue: 0,0:15:37.74,0:15:41.21,Top Italics,Commentator,0000,0000,0000,,É um embate entre pilotos\Njovens talentosos e orgulhosos!
+Dialogue: 0,0:15:41.76,0:15:44.39,Top Italics,Commentator,0000,0000,0000,,Mas quem vai rir por último?
+Dialogue: 0,0:15:46.77,0:15:48.84,Default,Kakeru,0000,0000,0000,,Se concentre, Nozomi!
+Dialogue: 0,0:15:48.84,0:15:51.68,Default,Kakeru,0000,0000,0000,,Nós temos que ter cuidado\Nem todas as curvas!
+Dialogue: 0,0:15:51.68,0:15:55.07,Default,Kakeru,0000,0000,0000,,Mesmo pequenos erros se acumulam\Npara desgastar os pneus com o tempo.
+Dialogue: 0,0:15:55.07,0:15:58.68,Default,Nozomi,0000,0000,0000,,Eu sei, mas tem certeza que não está preocupado\Ndemais com quem está atrás de nós, mano?
+Dialogue: 0,0:15:59.12,0:16:02.28,Default,Nozomi,0000,0000,0000,,Eu não sou tão fracote quanto você pensa...
+Dialogue: 0,0:16:03.10,0:16:06.24,Italics,Nozomi,0000,0000,0000,,Se resistir, resistir, guardar\Nnem que seja um segundo,
+Dialogue: 0,0:16:06.24,0:16:09.30,Italics,Nozomi,0000,0000,0000,,dá para transformar em uma grande\Nvantagem quando menos esperar.
+Dialogue: 0,0:16:09.99,0:16:11.86,Italics,Nozomi,0000,0000,0000,,É assim que a corrida funciona.
+Dialogue: 0,0:16:14.45,0:16:19.91,Default,Sign,0000,0000,0000,,{\fnArial\bord0\shad0\an8\fscx90\fay0.27\fs24\blur0.3\c&HB3975E&\fry20\move(280,-123,280,88)}Ápice da Rota Nacional 1
+Dialogue: 0,0:16:14.45,0:16:19.91,Default,Sign,0000,0000,0000,,{\fnArial\bord0\shad0\fscx90\fay0.15\fs10\blur0.3\move(455,73,455,284)\c&HF8FFEC&\fry20}Província de Kanagawa
+Dialogue: 1,0:16:15.06,0:16:19.91,Top Italics,Commentator,0000,0000,0000,,Os pilotos se aproximam do ponto mais alto da Rota\N1 quando entram na segunda metade da volta final.
+Dialogue: 0,0:16:20.23,0:16:23.87,Top Italics,Commentator,0000,0000,0000,,Em todos os carros, o desgaste\Ndos pneus só aumenta.
+Dialogue: 0,0:16:27.77,0:16:29.93,Default,Seven,0000,0000,0000,,Hã? O que foi, Kyoko?
+Dialogue: 0,0:16:29.93,0:16:33.13,Default,Kyoko,0000,0000,0000,,Não, sabe... Olha como você é magrinha.
+Dialogue: 0,0:16:33.70,0:16:37.39,Default,Kyoko,0000,0000,0000,,Mesmo eu sendo mulher, me dá uma\Nvontade de tocar na sua cinturinha.
+Dialogue: 0,0:16:37.39,0:16:42.35,Default,Seven,0000,0000,0000,,Eu não diria isso. Você tem uma cintura\Nmuito mais fina do que a minha.
+Dialogue: 0,0:16:44.66,0:16:48.73,Default,Kyoko,0000,0000,0000,,Só porque eu me seguro\Ndurante o trabalho.
+Dialogue: 0,0:16:48.73,0:16:50.03,Default,Kyoko,0000,0000,0000,,Eu estou trapaceando.
+Dialogue: 0,0:16:50.74,0:16:53.99,Default,Kyoko,0000,0000,0000,,Você estava em um tipo de\Nclube esportivo, não, Ren?
+Dialogue: 0,0:16:54.46,0:16:57.76,Default,Seven,0000,0000,0000,,Eu estive no clube de atletismo durante\No fundamental e o primeiro ano do médio.
+Dialogue: 0,0:16:57.76,0:17:02.45,Default,Kyoko,0000,0000,0000,,Exatamente. Eu achei que tinha a\Nquantidade certa de músculo nas pernas.
+Dialogue: 0,0:17:02.85,0:17:05.21,Default,Kyoko,0000,0000,0000,,Se você está no segundo ano,\Nquer dizer que tem 17 anos?
+Dialogue: 0,0:17:05.21,0:17:06.04,Default,Seven,0000,0000,0000,,Isso mesmo.
+Dialogue: 0,0:17:06.35,0:17:08.43,Default,Kyoko,0000,0000,0000,,Uau, 17 anos...
+Dialogue: 0,0:17:08.43,0:17:12.26,Default,Kyoko,0000,0000,0000,,Que legal. Faz de você a\NAngel mais jovem da história.
+Dialogue: 0,0:17:13.45,0:17:16.07,Default,Kyoko,0000,0000,0000,,Então, Ren... Você tem namorado?
+Dialogue: 0,0:17:16.07,0:17:17.89,Default,Seven,0000,0000,0000,,Não, não tenho.
+Dialogue: 0,0:17:18.26,0:17:20.81,Default,Seven,0000,0000,0000,,Eu nunca namorei ninguém.
+Dialogue: 0,0:17:22.73,0:17:26.14,Default,Seven,0000,0000,0000,,Você tem namorado, Kyoko? Tem, né?
+Dialogue: 0,0:17:27.60,0:17:29.11,Default,Kyoko,0000,0000,0000,,Agora não.
+Dialogue: 0,0:17:29.73,0:17:32.05,Default,Kyoko,0000,0000,0000,,Tem um homem que gosto.
+Dialogue: 0,0:17:32.44,0:17:35.21,Default,Kyoko,0000,0000,0000,,Mas há dois anos tem sido bem unilateral...
+Dialogue: 0,0:17:35.21,0:17:36.63,Default,Seven,0000,0000,0000,,Não imaginava.
+Dialogue: 0,0:17:36.63,0:17:37.66,Default,Kyoko,0000,0000,0000,,É mesmo.
+Dialogue: 0,0:17:38.22,0:17:42.70,Default,Kyoko,0000,0000,0000,,Apesar de não parecer, eu sou bem\Nreservada quando o assunto é homens.
+Dialogue: 0,0:17:46.96,0:17:51.25,Top Italics,Commentator,0000,0000,0000,,Aqui está o Taylor no carro 9 e o\NOishi no 3 brigando pelo oitavo lugar.
+Dialogue: 0,0:17:51.62,0:17:57.18,Italics,Oishi,0000,0000,0000,,Saia da minha frente! Não tem como uma Lambo\Nficar atrás de um Porsche por tanto tempo!
+Dialogue: 0,0:18:02.86,0:18:07.06,Italics,Oishi,0000,0000,0000,,A reta curta depois do ponto mais\Nalto da Rota 1 é onde eu vou atacar.
+Dialogue: 0,0:18:07.33,0:18:11.98,Italics,Oishi,0000,0000,0000,,Vou mostrar o que esse\NV10 de 5,2 litros pode fazer!
+Dialogue: 0,0:18:21.17,0:18:24.99,Italics,Ogata,0000,0000,0000,,Os dois que ele alcançou na primeira\Nmetade estão se afastando de novo.
+Dialogue: 0,0:18:25.38,0:18:29.10,Italics,Ogata,0000,0000,0000,,Essa subida na segunda metade\Ndo Setor 2 é bem íngreme...
+Dialogue: 0,0:18:29.53,0:18:33.29,Italics,Ogata,0000,0000,0000,,Realmente mostra o quanto um carro\Nde corrida precisa de potência...
+Dialogue: 0,0:18:33.84,0:18:39.51,Italics,Ogata,0000,0000,0000,,Pode falar o quanto quiser de equilíbrio,\Nmas potência também é importante.
+Dialogue: 0,0:18:40.02,0:18:45.47,Italics,Ogata,0000,0000,0000,,O Kanata deve estar ainda mais frustrado\Ndirigindo do que eu estou aqui assistindo...
+Dialogue: 0,0:18:46.31,0:18:51.28,Italics,Ogata,0000,0000,0000,,Eu gostaria que ele tivesse mais potência.\NEle precisa de mais potência.
+Dialogue: 0,0:18:52.02,0:18:56.05,Top Italics,Commentator,0000,0000,0000,,E o carro na liderança passa\No ponto mais alto da Rota 1!
+Dialogue: 0,0:18:56.05,0:19:00.51,Top Italics,Commentator,0000,0000,0000,,O Porsche de motor central continua a deixar\No grupo de monstros motorizados para trás.
+Dialogue: 0,0:19:00.51,0:19:02.87,Top Italics,Commentator,0000,0000,0000,,E isso apesar do motor\Nboxer de quatro cilindros,
+Dialogue: 0,0:19:02.90,0:19:06.24,Top Italics,Commentator,0000,0000,0000,,com um motor de cilindradas\Nde apenas 2,5 litros!
+Dialogue: 0,0:19:06.24,0:19:11.96,Top Italics,Commentator,0000,0000,0000,,Mas atrás do volante está um\Npiloto genial, Michael Beckenbauer!
+Dialogue: 0,0:19:12.50,0:19:14.54,Top Italics,Commentator,0000,0000,0000,,Em segundo está Ishigami no carro 1.
+Dialogue: 0,0:19:14.84,0:19:18.50,Top Italics,Commentator,0000,0000,0000,,Parece que ele está pilotando sozinho\Nenquanto mede a distância dos carros atrás.
+Dialogue: 0,0:19:19.13,0:19:21.05,Top Italics,Commentator,0000,0000,0000,,Lá vem o grupo brigando\Npelo terceiro lugar.
+Dialogue: 0,0:19:21.90,0:19:25.05,Top Italics,Commentator,0000,0000,0000,,Com Aiba no 9 e Sakamoto no 5.
+Dialogue: 0,0:19:25.39,0:19:30.48,Top Italics,Commentator,0000,0000,0000,,Os dois são carros com tração nas 4 rodas, mas o 5\Nestá com a desvantagem de ter um motor central.
+Dialogue: 0,0:19:30.48,0:19:32.46,Top Italics,Commentator,0000,0000,0000,,Ele está quase alcançando,\Nmas ainda falta...
+Dialogue: 0,0:19:33.69,0:19:38.28,Top Italics,Commentator,0000,0000,0000,,Os Nissan GT do Aiba continua ganhando\Nvelocidade nas saídas das curvas.
+Dialogue: 0,0:19:38.52,0:19:42.74,Top Italics,Commentator,0000,0000,0000,,Como ele pode defender sua posição?\NNão dá para tirar o olho!
+Dialogue: 0,0:19:43.65,0:19:46.08,Top Italics,Commentator,0000,0000,0000,,Atrás deles, está a\Nbatalha pelo quinto lugar.
+Dialogue: 0,0:19:52.41,0:19:54.33,Top Italics,Commentator,0000,0000,0000,,Opa! A Ferrari acelera!
+Dialogue: 0,0:19:55.75,0:19:58.17,Top Italics,Commentator,0000,0000,0000,,O Kaito Akaba parece assustador!
+Dialogue: 0,0:19:58.17,0:20:00.88,Top Italics,Commentator,0000,0000,0000,,Ele está acostumado a correr e\Nmostra sua verdadeira força!
+Dialogue: 0,0:20:00.88,0:20:03.19,Top Italics,Commentator,0000,0000,0000,,Ele pula para quinto!
+Dialogue: 0,0:20:03.19,0:20:06.72,Top Italics,Commentator,0000,0000,0000,,Um grande exemplo de que a posição\Nna qualificatória não interessa!
+Dialogue: 0,0:20:06.96,0:20:09.43,Default,Kogashiwa,0000,0000,0000,,O Akaba está avançando mesmo.
+Dialogue: 0,0:20:09.43,0:20:11.73,Default,Kogashiwa,0000,0000,0000,,Vai ser difícil controlar ele agora.
+Dialogue: 0,0:20:11.96,0:20:15.53,Top Italics,Kogashiwa,0000,0000,0000,,É só questão de tempo até ele\Nalcançar o grupo do terceiro lugar.
+Dialogue: 0,0:20:16.13,0:20:18.70,Top Italics,Commentator,0000,0000,0000,,E lá vem Yanagida no carro 6, em sétimo!
+Dialogue: 0,0:20:18.70,0:20:24.32,Top Italics,Commentator,0000,0000,0000,,Atrás dele, o grupo brigando pelo\Noitavo lugar. Taylor no 8 e Oishi no 3.
+Dialogue: 0,0:20:28.29,0:20:31.37,Top Italics,Commentator,0000,0000,0000,,E parece que o carro 3 vai tentar atacar!
+Dialogue: 0,0:20:31.37,0:20:35.71,Top Italics,Commentator,0000,0000,0000,,É uma troca arriscada e eles estão quase\Nencostando um no outro! Ele vai conseguir?
+Dialogue: 0,0:20:35.98,0:20:39.11,Top Italics,Commentator,0000,0000,0000,,Parece que o carro 3 deixou o 8 para trás!
+Dialogue: 0,0:20:40.26,0:20:45.12,Top Italics,Commentator,0000,0000,0000,,Será que ele vai conseguir se aproximar das\Ntraseiras dos carros com o brasão do cavalinho?
+Dialogue: 0,0:20:45.61,0:20:50.14,Top Italics,Commentator,0000,0000,0000,,O touro furioso coloca suas patas no solo\Ndinamicamente em busca do seu rival!
+Dialogue: 0,0:20:50.83,0:20:53.98,Top Italics,Commentator,0000,0000,0000,,Esses dois modelos italianos ficaram\Nquietos na primeira metade,
+Dialogue: 0,0:20:53.98,0:20:57.81,Top Italics,Commentator,0000,0000,0000,,mas agora estão partindo para acabar\Ncom o bloco dos potentes alemães!
+Dialogue: 0,0:20:58.05,0:21:00.92,Top Italics,Commentator,0000,0000,0000,,E vamos nos aproximando\Nda última seção da corrida.
+Dialogue: 0,0:21:01.15,0:21:05.95,Top Italics,Commentator,0000,0000,0000,,Com o avanço dos danos nos\Npneus, a batalha só vai piorar.
+Dialogue: 0,0:21:05.95,0:21:10.62,Top Italics,Commentator,0000,0000,0000,,Uma descida nas montanhas de Hakone que\Nvai exigir atenção completa dos pilotos!
+Dialogue: 0,0:21:10.62,0:21:14.21,Top Italics,Commentator,0000,0000,0000,,Uma descida de 874 metros\Nque é um pesadelo!
+Dialogue: 0,0:21:14.78,0:21:21.86,Top Italics,Commentator,0000,0000,0000,,E chegou! O homem que fez seu nome no\NSetor 3, dirigindo o Toyota 86 GT vermelho!
+Dialogue: 0,0:21:23.67,0:21:26.63,Top Italics,Commentator,0000,0000,0000,,Enquanto esse jovem desce\Nas montanhas de Hakone,
+Dialogue: 0,0:21:26.63,0:21:29.84,Top Italics,Commentator,0000,0000,0000,,vai realizar um milagre\Ncom ajuda da gravidade!
+Dialogue: 0,0:21:30.35,0:21:32.97,Top Italics,Commentator,0000,0000,0000,,Um novo tipo de piloto,\Ncriado na Inglaterra...
+Dialogue: 0,0:21:32.97,0:21:34.68,Top Italics,Commentator,0000,0000,0000,,Kanata Katagiri vai em frente!
+Dialogue: 0,0:21:38.59,0:21:39.27,Italics,Kanata,0000,0000,0000,,Let's go.
+Dialogue: 0,0:23:31.52,0:23:35.39,Italics,Narration,0000,0000,0000,,No próximo episódio:\N"Curva 08: Falando em Voz Alta".

@@ -1,0 +1,355 @@
+﻿[Script Info]
+Title: [Erai-raws] Português (Brasil)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H78171718,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,0
+Style: Italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H78171718,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,0
+Style: Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H78171718,-1,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0015,0
+Style: Top Italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H78171718,-1,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0015,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:09.66,0:00:12.81,Default,Aiba,0000,0000,0000,,Não brinca!\NOlha o seu celular, Ogata!
+Dialogue: 0,0:00:12.81,0:00:15.24,Default,Aiba,0000,0000,0000,,Vocês vão participar\Nda corrida de amanhã!
+Dialogue: 0,0:00:15.24,0:00:15.99,Default,Ogata/Kanata,0000,0000,0000,,Hã?
+Dialogue: 0,0:00:15.99,0:00:18.12,Default,Aiba,0000,0000,0000,,Agora você pode ganhar\Numa grana também!
+Dialogue: 0,0:00:18.68,0:00:21.11,Default,Ogata/Kanata,0000,0000,0000,,Hã?
+Dialogue: 0,0:00:21.58,0:00:25.54,Default,Sign,0000,0000,0000,,{\an8\fnArial\fscx60\fax-0.7\fs20\bord0.2\shad1.5\pos(148.667,120.667)\c&H7E7776&\3c&H7F736E&\4c&H6E6E70&\frz21.18\frx346\fry346}Automóveis Ogata
+Dialogue: 0,0:00:22.92,0:00:29.80,Default,Ogata,0000,0000,0000,,Fiquei empolgado demais ontem de noite e\Nnão consegui dormir. Agora eu quero dormir.
+Dialogue: 0,0:00:30.08,0:00:34.01,Default,Kanata,0000,0000,0000,,Me desculpe. Eu dormi oito horas.
+Dialogue: 0,0:00:34.01,0:00:37.43,Default,Ogata,0000,0000,0000,,Não, não.\NNão precisa pedir desculpas.
+Dialogue: 0,0:00:38.26,0:00:41.68,Default,Ogata,0000,0000,0000,,E você não estava brincando, não tem\Ncomo continuar com esses pneus...
+Dialogue: 0,0:00:41.89,0:00:46.47,Default,Ogata,0000,0000,0000,,Vamos precisar trocá-los antes de levar o carro\Npara a linha de partida amanhã. Vai ser de graça.
+Dialogue: 0,0:00:46.47,0:00:49.32,Default,Kanata,0000,0000,0000,,Que bom.\NNão vai trazer custo para você.
+Dialogue: 0,0:00:49.67,0:00:51.26,Default,Ogata,0000,0000,0000,,Não são só os pneus.
+Dialogue: 0,0:00:51.26,0:00:53.58,Default,Ogata,0000,0000,0000,,Depois do que o 86 mostrou ontem,
+Dialogue: 0,0:00:53.58,0:00:57.41,Default,Ogata,0000,0000,0000,,recebemos muitas ofertas de\Nmelhoramento sem custos.
+Dialogue: 0,0:00:58.02,0:01:03.17,Default,Ogata,0000,0000,0000,,A melhor coisa deste carro é a\Nvariedade de peças no pós-venda.
+Dialogue: 0,0:01:03.62,0:01:07.36,Default,Ogata,0000,0000,0000,,Não vai dar tempo para esta corrida,\Nmas na segunda corrida, no Lago Ashinoko,
+Dialogue: 0,0:01:07.36,0:01:10.63,Default,Ogata,0000,0000,0000,,pode esperar que o 86\Nvai estar bem melhorado!
+Dialogue: 0,0:01:11.00,0:01:12.23,Default,Ogata,0000,0000,0000,,Mal posso esperar!
+Dialogue: 0,0:01:17.33,0:01:21.81,Default,Ogata,0000,0000,0000,,Vamos tentar fazer tudo que\Npudermos hoje. Quer alguma coisa?
+Dialogue: 0,0:01:21.81,0:01:23.31,Default,Kanata,0000,0000,0000,,Sim, tem só uma coisa.
+Dialogue: 0,0:01:23.81,0:01:26.10,Default,Kanata,0000,0000,0000,,Poderia desligar o controle de tração?
+Dialogue: 0,0:01:26.50,0:01:28.73,Default,Ogata,0000,0000,0000,,O controle de tração não está bom?
+Dialogue: 0,0:01:28.73,0:01:32.69,Default,Ogata,0000,0000,0000,,Eu melhorei a versão,\No controle deveria estar atualizado...
+Dialogue: 0,0:01:32.69,0:01:34.07,Default,Kanata,0000,0000,0000,,Não é que esteja ruim.
+Dialogue: 0,0:01:34.79,0:01:37.60,Default,Kanata,0000,0000,0000,,Fica mais fácil de controlar sem ele.
+Dialogue: 0,0:01:37.60,0:01:40.21,Default,Ogata,0000,0000,0000,,Entendido.\NEu termino até o fim do dia.
+Dialogue: 0,0:01:42.09,0:01:46.62,Default,Kanata,0000,0000,0000,,Desculpe por isso, mas posso deixar\No resto com você e sair, Sr. Ogata?
+Dialogue: 0,0:01:46.62,0:01:48.96,Default,Kanata,0000,0000,0000,,Eu prometi que ia encontrar a Ren.
+Dialogue: 0,0:01:48.96,0:01:50.96,Default,Ogata,0000,0000,0000,,Ren, a filha do Sr. Saionji?
+Dialogue: 0,0:01:50.96,0:01:51.71,Default,Kanata,0000,0000,0000,,Sim.
+Dialogue: 0,0:01:51.71,0:01:54.92,Default,Ogata,0000,0000,0000,,Olha aí... Esse nome me\Ntraz boas lembranças.
+Dialogue: 0,0:01:54.92,0:02:00.79,Default,Ogata,0000,0000,0000,,Me lembro do pai dela a trazendo\Naqui quando ela era desse tamanho.
+Dialogue: 0,0:02:01.16,0:02:05.35,Default,Ogata,0000,0000,0000,,Ela tinha um rosto redondo e fofo,\Nmas era travessa e teimosa!
+Dialogue: 0,0:02:05.35,0:02:07.10,Default,Ogata,0000,0000,0000,,Eu fico feliz só de lembrar.
+Dialogue: 0,0:02:07.37,0:02:12.40,Default,Ogata,0000,0000,0000,,{\t(4520,5000,\3c&HFFFFFF&\4c&HFFFFFF&)}Todo mundo dizia que ela\Ndeveria ter nascido menino.
+Dialogue: 0,0:02:12.74,0:02:15.80,Default,Ogata,0000,0000,0000,,Será que ela ficou mais feminina agora?
+Dialogue: 0,0:02:15.80,0:02:18.20,Default,Ogata,0000,0000,0000,,Tenho um pouco de medo dela,\Nmas queria encontrá-la de novo.
+Dialogue: 0,0:02:18.20,0:02:19.66,Default,Ogata,0000,0000,0000,,Na próxima, traga ela aqui!
+Dialogue: 0,0:02:20.39,0:02:21.70,Default,Kanata,0000,0000,0000,,Vou falar com ela.
+Dialogue: 0,0:02:45.93,0:02:47.72,Default,Sign,0000,0000,0000,,{\fad(200,)\blur5\t(0,310,\blur0.3)\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&HFFFFFF&\t(560,561,\c&H6000E6&)\t(580,1000,\c&H0100D1&)\pos(320,345)}MF Ghost
+Dialogue: 0,0:03:53.71,0:03:54.31,Default,Sign,0000,0000,0000,,{\fad(200,300)\bord0\alpha&H20&\fscy28\fscx200\shad0\b1\fnArial\blur6\p1\c&H001FFF&\pos(506.667,304.667)}m 0 0 l 100 0 100 100 0 100{\p0}
+Dialogue: 1,0:03:53.71,0:03:58.09,Default,Sign,0000,0000,0000,,{\fad(330,300)\bord0.5\shad1.5\b1\fnArial\blur0.3\fax-0.15\3c&H5B5B5B&\t(4050,4620,\blur5)\pos(508.667,302.667)}Volta 04: Gestão de Pneus
+Dialogue: 0,0:03:58.59,0:04:01.01,Default,Kanata,0000,0000,0000,,Enoden é divertido!
+Dialogue: 0,0:04:01.01,0:04:03.85,Default,Kanata,0000,0000,0000,,Parece como um brinquedo\Nde parque de diversões,
+Dialogue: 0,0:04:03.85,0:04:08.76,Default,Kanata,0000,0000,0000,,mas é só um meio de transporte\Nparte da rotina de todo mundo.
+Dialogue: 0,0:04:09.08,0:04:11.41,Default,Kanata,0000,0000,0000,,Realmente combina com Kamakura!
+Dialogue: 0,0:04:12.06,0:04:14.14,Italics,Ren,0000,0000,0000,,{\t(1770,2070,\3c&HFFFFFF&\4c&HFFFFFF&)}Ele não percebeu...
+Dialogue: 0,0:04:14.61,0:04:18.69,Italics,Ren,0000,0000,0000,,{\t(3690,4060,\3c&HFFFFFF&\4c&HFFFFFF&)}Ele não percebeu que eu\Nera aquela MFG Angel!
+Dialogue: 0,0:04:19.02,0:04:23.51,Italics,Ren,0000,0000,0000,,{\3c&HFFFFFF&\4c&HFFFFFF&)\t(50,280,\3c&H000000&\4c&H171718&)}Não acredito!\NTodo garoto é tapado assim?
+Dialogue: 0,0:04:23.51,0:04:27.80,Italics,Ren,0000,0000,0000,,Sei que a aparência fica diferente, mas ele\Nnão reconheceria minha voz ou coisa assim?
+Dialogue: 0,0:04:29.33,0:04:33.33,Italics,Ren,0000,0000,0000,,Mas talvez seja melhor assim...
+Dialogue: 0,0:04:34.33,0:04:37.33,Default,Sign,0000,0000,0000,,{\fnCourier New\an8\fscx80\blur0.3\shad2\bord0\b1\fs14\4a&60&\frz18.72\fay0.01\fax-0.36\c&HBBBEB2&\pos(260.001,196.666)\4c&H080808&\frx4\fry354}Trens Elétricos\N{\fay0.025}de Enoshima\h
+Dialogue: 1,0:04:34.33,0:04:37.33,Default,Sign,0000,0000,0000,,{\fnCourier New\an8\fscx80\blur0.3\shad0\bord0\b1\fs14\frz18.72\fay0.01\fax-0.36\c&H9BD23B&\pos(259.333,196)\frx4\fry354}Trens Elétricos\N{\fay0.025}de Enoshima\h
+Dialogue: 0,0:04:34.75,0:04:37.33,Default,Kanata,0000,0000,0000,,Você parece sem energia hoje, Ren.
+Dialogue: 0,0:04:37.33,0:04:39.20,Default,Kanata,0000,0000,0000,,Está se sentindo mal ou algo do tipo?
+Dialogue: 0,0:04:37.33,0:04:40.71,Default,Sign,0000,0000,0000,,{\fnCourier New\an8\fscx80\blur0.3\shad0\fay-0.05\bord0\b1\fs9\c&HD0D8B9&\pos(191.833,21)}Trens Elétricos\Nde Enoshima
+Dialogue: 1,0:04:37.33,0:04:40.71,Default,Sign,0000,0000,0000,,{\fnCourier New\an8\fscx80\blur0.3\shad0\fay-0.05\bord0\b1\fs9\c&H9BD23B&\pos(190.467,20)}Trens Elétricos\Nde Enoshima
+Dialogue: 0,0:04:39.20,0:04:42.16,Default,Ren,0000,0000,0000,,Não é nada disso! Estou ótima!
+Dialogue: 0,0:04:42.16,0:04:44.62,Default,Ren,0000,0000,0000,,Só estava pensando numas coisas.
+Dialogue: 0,0:04:44.62,0:04:46.09,Default,Kanata,0000,0000,0000,,Que bom, então!
+Dialogue: 0,0:04:47.14,0:04:49.43,Default,Kanata,0000,0000,0000,,Eu vou mandar a foto\Npara o seu celular, Ren.
+Dialogue: 0,0:04:50.16,0:04:54.17,Default,Kanata,0000,0000,0000,,Afinal, duas pessoas olhando o mesmo\Ncelular pode ser um pouco inconveniente.
+Dialogue: 0,0:04:54.17,0:04:58.56,Default,Ren,0000,0000,0000,,Obrigada. Mas tem certeza?\NEssa foto não é especial para você?
+Dialogue: 0,0:04:58.56,0:05:03.57,Default,Kanata,0000,0000,0000,,Quem deveria agradecer sou eu. Se não\Nfosse por você, eu não poderia fazer nada.
+Dialogue: 0,0:05:03.86,0:05:05.99,Default,Kanata,0000,0000,0000,,Você é tão gentil.
+Dialogue: 0,0:05:05.99,0:05:07.83,Default,Kanata,0000,0000,0000,,Parece um {\i1}angel{\i0}.
+Dialogue: 0,0:05:10.65,0:05:15.65,Default,Ren,0000,0000,0000,,Ei, Kanata, eu acho que a dica mais importante\Npara encontrar este local que estamos procurando
+Dialogue: 0,0:05:15.65,0:05:19.29,Default,Ren,0000,0000,0000,,pode ser procurar esse prédio\Nmoderno no canto direito.
+Dialogue: 0,0:05:19.29,0:05:21.67,Default,Kanata,0000,0000,0000,,Sim, eu também acho.
+Dialogue: 0,0:05:21.67,0:05:24.62,Default,Kanata,0000,0000,0000,,Eu espero que ele ainda exista.
+Dialogue: 0,0:05:24.62,0:05:28.52,Default,Ren,0000,0000,0000,,Com certeza.\NKamakura não muda muito.
+Dialogue: 0,0:05:29.52,0:05:33.49,Italics,Ren,0000,0000,0000,,Mas eu não acho que não tem\Nesse prédio aqui por perto...
+Dialogue: 0,0:05:33.49,0:05:35.55,Default,Kanata,0000,0000,0000,,Pelo que eu posso ver,\Nnão tem sinal disso.
+Dialogue: 0,0:05:36.88,0:05:39.40,Italics,Ren,0000,0000,0000,,O Kanata nem olha para a foto...
+Dialogue: 0,0:05:40.15,0:05:43.91,Italics,Ren,0000,0000,0000,,Entendi... Ele já deve ter decorado\Ndepois de ver por tanto tempo.
+Dialogue: 0,0:05:48.11,0:05:49.82,Default,Ren,0000,0000,0000,,Que enorme!
+Dialogue: 0,0:05:49.82,0:05:52.16,Default,Ren,0000,0000,0000,,Ei, Kanata! Tira uma foto?
+Dialogue: 0,0:05:52.97,0:05:55.47,Default,Ren,0000,0000,0000,,Tudo bem... Se fizermos assim...
+Dialogue: 0,0:05:55.47,0:05:57.42,Default,Ren,0000,0000,0000,,E mudar aquilo {\i1}assim{\i0}...
+Dialogue: 0,0:05:57.42,0:05:59.17,Default,Kanata,0000,0000,0000,,Que complicado.
+Dialogue: 0,0:06:03.14,0:06:07.52,Default,Ren,0000,0000,0000,,Ficou ótimo! Você é bom nisso\Nmesmo, Kanata! Ficou fofo.
+Dialogue: 0,0:06:07.52,0:06:11.55,Default,Ren,0000,0000,0000,,Sabe, nossas mães foram para a escola de arte.\NTalvez você tenha talento artístico.
+Dialogue: 0,0:06:11.87,0:06:13.47,Default,Ren,0000,0000,0000,,Vou tirar uma pra você!
+Dialogue: 0,0:06:13.47,0:06:17.65,Default,Kanata,0000,0000,0000,,Não precisa. Não gosto muito\Nde fotos, então é melhor não.
+Dialogue: 0,0:06:17.65,0:06:19.27,Default,Ren,0000,0000,0000,,{\i1}Shut up{\i0}, Kanata.
+Dialogue: 0,0:06:20.26,0:06:22.15,Default,Ren,0000,0000,0000,,Nós {\alpha&HFF&\t(700,701,\alpha&H00&\4a&HCE&)}vamos{\alpha&HFF&\t(1300,1301,\alpha&H00&\4a&HCE&)} tirar!
+Dialogue: 0,0:06:22.38,0:06:25.15,Default,Ren,0000,0000,0000,,Senão, eu vou roubar seu\Nacompanhamento no jantar.
+Dialogue: 0,0:06:25.15,0:06:27.45,Default,Ren,0000,0000,0000,,É divertido! Vamos tirar!
+Dialogue: 0,0:06:27.45,0:06:29.57,Default,Kanata,0000,0000,0000,,Que grande abuso de poder.
+Dialogue: 0,0:06:29.57,0:06:34.20,Default,Ren,0000,0000,0000,,Certo, então faz assim agora.\NAgora desse jeito. Agora faz uma cara {\i1}assim{\i0}...
+Dialogue: 0,0:06:34.20,0:06:35.91,Default,Kanata,0000,0000,0000,,Que complicado.
+Dialogue: 0,0:06:38.86,0:06:41.67,Default,Kanata,0000,0000,0000,,Ué... Foi mais divertido\Ndo que eu pensava.
+Dialogue: 0,0:06:41.67,0:06:45.86,Default,Ren,0000,0000,0000,,E não vai apagar a foto.\NÉ melhor guardá-la.
+Dialogue: 0,0:06:45.86,0:06:47.26,Default,Ren,0000,0000,0000,,Certo, vamos!
+Dialogue: 0,0:06:49.26,0:06:54.93,Default,Kanata,0000,0000,0000,,Isso pode parecer tão infantil\Nque você vai rir de mim, Ren...
+Dialogue: 0,0:06:54.93,0:06:58.39,Default,Kanata,0000,0000,0000,,Mas Kamakura faz parecer\Nque eu saí de uma {\i1}time machine{\i0}.
+Dialogue: 0,0:06:58.77,0:07:01.68,Default,Kanata,0000,0000,0000,,Estar num lugar onde o moderno\Ne o antigo ficam tão próximos,
+Dialogue: 0,0:07:02.01,0:07:05.19,Default,Kanata,0000,0000,0000,,enquanto eu traço os passos\Nque meus pais seguiram...
+Dialogue: 0,0:07:05.19,0:07:07.35,Default,Kanata,0000,0000,0000,,Parece que, em algum momento,
+Dialogue: 0,0:07:07.35,0:07:11.58,Default,Kanata,0000,0000,0000,,vamos voltar no passado e olhar um lugar\Nem que eles foram próximos demais.
+Dialogue: 0,0:07:12.03,0:07:17.04,Default,Kanata,0000,0000,0000,,E é uma sensação tão agradável.\NParece {\i1}sweet{\i0} e reconfortante.
+Dialogue: 0,0:07:17.54,0:07:19.92,Default,Kanata,0000,0000,0000,,Kamakura inteira parece assim.
+Dialogue: 0,0:07:20.37,0:07:24.63,Default,Kanata,0000,0000,0000,,Tem alguma coisa neste lugar\Nque simplesmente me atrai.
+Dialogue: 0,0:07:27.64,0:07:30.76,Default,Ren,0000,0000,0000,,Sim, eu também gosto de Kamakura.
+Dialogue: 0,0:07:31.48,0:07:38.30,Default,Ren,0000,0000,0000,,Aposto que seus pais ficaram aqui\Ne olharam para a mesma paisagem.
+Dialogue: 0,0:07:40.33,0:07:42.27,Default,Ren,0000,0000,0000,,Vamos descansar um pouco.
+Dialogue: 0,0:07:43.04,0:07:45.25,Default,Ren,0000,0000,0000,,Toda aquela caminhada\Nme deixou com sede.
+Dialogue: 0,0:07:45.25,0:07:46.15,Default,Kanata,0000,0000,0000,,{\i1}Yes{\i0}.
+Dialogue: 0,0:07:47.23,0:07:53.24,Default,Sign,0000,0000,0000,,{\shad0\fs12\bord1.2\blur0.3\3c&H76DCD0&\c&H477A72&\frz22.42\pos(234.666,59.334)}Trabalhadores
+Dialogue: 0,0:07:47.23,0:07:53.24,Default,Sign,0000,0000,0000,,{\fnArial\bord0\shad0\blur0.3\fscx90\fs14\fax0.02\fay-0.14\c&H4C6380&\pos(280.667,88.667)\frx0\fry358}Procura-se
+Dialogue: 0,0:07:47.63,0:07:50.93,Default,Kanata,0000,0000,0000,,Ren, o que está escrito nesse papel?
+Dialogue: 0,0:07:50.93,0:07:53.24,Default,Ren,0000,0000,0000,,Diz que "procura-se trabalhadores".
+Dialogue: 0,0:07:58.16,0:08:02.49,Default,Kanata,0000,0000,0000,,Eu acho que em breve eu vou precisar\Nde um trabalho, como você, Ren.
+Dialogue: 0,0:08:03.29,0:08:08.09,Default,Kanata,0000,0000,0000,,Eu preciso de dinheiro, e gostaria de\Nalugar um apartamento, mesmo pequeno.
+Dialogue: 0,0:08:08.09,0:08:10.43,Default,Ren,0000,0000,0000,,Hã? Mas por quê?
+Dialogue: 0,0:08:10.43,0:08:12.55,Default,Ren,0000,0000,0000,,Pode ficar na nossa casa o quanto quiser!
+Dialogue: 0,0:08:12.55,0:08:15.03,Default,Ren,0000,0000,0000,,Meus pais também acham isso.
+Dialogue: 0,0:08:15.03,0:08:17.17,Default,Kanata,0000,0000,0000,,Fico feliz pelo sentimento,
+Dialogue: 0,0:08:17.17,0:08:21.43,Default,Kanata,0000,0000,0000,,mas não posso me aproveitar da boa\Nvontade da família Saionji para sempre.
+Dialogue: 0,0:08:21.43,0:08:24.53,Default,Ren,0000,0000,0000,,Você pensa tão sério nas coisas, Kanata...
+Dialogue: 0,0:08:24.53,0:08:27.35,Default,Ren,0000,0000,0000,,Eu acho que a minha mãe ficaria\Ndesapontada de ouvir você dizer isso.
+Dialogue: 0,0:08:30.18,0:08:34.40,Default,Ren,0000,0000,0000,,Parece que, na verdade,\Nela sempre quis ter um filho.
+Dialogue: 0,0:08:34.68,0:08:39.39,Default,Ren,0000,0000,0000,,Eu sinto como se ela achasse que\Nvocê é o filho que ela nunca teve.
+Dialogue: 0,0:08:39.79,0:08:41.69,Default,Ren,0000,0000,0000,,Você é bonito, educado.
+Dialogue: 0,0:08:41.69,0:08:44.97,Default,Ren,0000,0000,0000,,Um pouco tímido e alguma coisa\Nfaz as pessoas gostarem de você...
+Dialogue: 0,0:08:45.75,0:08:47.79,Default,Kanata,0000,0000,0000,,Não, eu...
+Dialogue: 0,0:08:47.79,0:08:50.30,Default,Kanata,0000,0000,0000,,Eu nunca fui um filho tão bom assim...
+Dialogue: 0,0:08:50.96,0:08:51.81,Default,Kanata,0000,0000,0000,,{\i1}Never{\i0}.
+Dialogue: 0,0:08:59.00,0:09:01.03,Default,Housewife,0000,0000,0000,,Ei, casal de jovenzinhos!
+Dialogue: 0,0:09:01.60,0:09:04.10,Default,Housewife,0000,0000,0000,,Querem que eu tire uma foto de vocês?
+Dialogue: 0,0:09:04.10,0:09:06.52,Default,Kanata,0000,0000,0000,,Não, é que—
+Dialogue: 0,0:09:08.11,0:09:09.48,Default,Ren,0000,0000,0000,,Por favor!
+Dialogue: 0,0:09:13.65,0:09:15.11,Default,Ren,0000,0000,0000,,Obrigada.
+Dialogue: 0,0:09:15.11,0:09:18.88,Default,Housewife,0000,0000,0000,,Vocês dois combinam tanto.\NOs dois são lindos.
+Dialogue: 0,0:09:20.20,0:09:22.78,Italics,Ren,0000,0000,0000,,Somos lindos? Ah, não...
+Dialogue: 0,0:09:22.78,0:09:25.11,Italics,Ren,0000,0000,0000,,Quer dizer, o Kanata é bonito...
+Dialogue: 0,0:09:25.11,0:09:28.82,Italics,Ren,0000,0000,0000,,O que eu faço? Eu estou tão feliz\Nque estou ficando toda empolgada!
+Dialogue: 0,0:09:28.82,0:09:31.89,Default,Kanata,0000,0000,0000,,Acho que ela entendeu\Nalguma coisa errado...
+Dialogue: 0,0:09:32.41,0:09:35.17,Default,Ren,0000,0000,0000,,Não se preocupe com coisas pequenas.
+Dialogue: 0,0:09:38.77,0:09:41.60,Default,Kanata,0000,0000,0000,,Ei, pare, Ren! Não me jogue areia!
+Dialogue: 0,0:09:44.88,0:09:46.31,Default,Kanata,0000,0000,0000,,Toma o troco!
+Dialogue: 0,0:09:46.97,0:09:48.94,Default,Ren,0000,0000,0000,,Pare com isso!
+Dialogue: 0,0:09:48.94,0:09:51.77,Default,Ren,0000,0000,0000,,Você vai encher meu uniforme de areia!
+Dialogue: 0,0:09:51.77,0:09:54.36,Default,Kanata,0000,0000,0000,,Pare você primeiro!
+Dialogue: 0,0:09:56.93,0:09:58.32,Italics,Ren,0000,0000,0000,,Ei, Kanata.
+Dialogue: 0,0:09:58.97,0:10:02.39,Italics,Ren,0000,0000,0000,,O que eu posso fazer por você?
+Dialogue: 0,0:10:03.84,0:10:08.21,Italics,Ren,0000,0000,0000,,Posso continuar com você para sempre?
+Dialogue: 0,0:10:11.32,0:10:14.37,Italics,Ren,0000,0000,0000,,Eu não posso negar meus sentimentos.
+Dialogue: 0,0:10:16.23,0:10:17.38,Italics,Ren,0000,0000,0000,,Kanata...
+Dialogue: 0,0:10:17.87,0:10:19.20,Italics,Ren,0000,0000,0000,,Amo você.
+Dialogue: 0,0:10:21.01,0:10:21.34,Default,Sign,0000,0000,0000,,{\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&HFCFFFC&\move(-140,218,200,218)}MF Ghost
+Dialogue: 0,0:10:21.34,0:10:21.55,Default,Sign,0000,0000,0000,,{\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&HFCFFFC&\move(200,218,340,218)}MF Ghost
+Dialogue: 0,0:10:21.55,0:10:21.76,Default,Sign,0000,0000,0000,,{\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&HFCFFFC&\move(340,218,420,218)}MF Ghost
+Dialogue: 0,0:10:21.76,0:10:22.76,Default,Sign,0000,0000,0000,,{\fad(0,300)\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&HFCFFFC&\move(420,218,440,218,0,200)}MF Ghost
+Dialogue: 1,0:10:22.55,0:10:25.06,Default,Sign,0000,0000,0000,,{\fad(530,0)\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&H0100D1&\pos(440,218)}MF Ghost
+Dialogue: 0,0:10:26.10,0:10:26.43,Default,Sign,0000,0000,0000,,{\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&HFCFFFC&\move(-140,218,200,218)}MF Ghost
+Dialogue: 0,0:10:26.43,0:10:26.64,Default,Sign,0000,0000,0000,,{\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&HFCFFFC&\move(200,218,340,218)}MF Ghost
+Dialogue: 0,0:10:26.64,0:10:26.85,Default,Sign,0000,0000,0000,,{\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&HFCFFFC&\move(340,218,420,218)}MF Ghost
+Dialogue: 0,0:10:26.85,0:10:30.06,Default,Sign,0000,0000,0000,,{\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&HFCFFFC&\move(420,218,440,218,0,200)}MF Ghost
+Dialogue: 0,0:10:27.56,0:10:28.93,Top,Ren,0000,0000,0000,,MF Ghost.
+Dialogue: 0,0:10:33.43,0:10:38.35,Default,Ogata,0000,0000,0000,,Por favor, Kanata. Pra início de conversa,\Neu não estava esperando ganhar nada.
+Dialogue: 0,0:10:38.35,0:10:40.99,Default,Ogata,0000,0000,0000,,Não posso aceitar metade.
+Dialogue: 0,0:10:41.37,0:10:44.85,Default,Ogata,0000,0000,0000,,Você concorda em reescrever o contrato?
+Dialogue: 0,0:10:44.85,0:10:47.63,Default,Ogata,0000,0000,0000,,Ao menos, faça uma divisão de 80/20.
+Dialogue: 0,0:10:47.94,0:10:52.74,Default,Kanata,0000,0000,0000,,{\i1}No{\i0}. Eu acho que você tem direito\Na receber metade, Sr. Ogata.
+Dialogue: 0,0:10:53.06,0:11:00.82,Default,Kanata,0000,0000,0000,,Você é o dono do carro, e se eu batesse ele,\Nvocê ficaria com todo o prejuízo.
+Dialogue: 0,0:11:00.82,0:11:04.50,Default,Ogata,0000,0000,0000,,É um carro velho e não vale tanto assim...
+Dialogue: 0,0:11:04.50,0:11:07.77,Default,Ogata,0000,0000,0000,,Considerando o risco que está\Nassumindo, me parece injusto.
+Dialogue: 0,0:11:07.77,0:11:09.95,Default,Kanat,0000,0000,0000,,Eu não vou concordar\Nque ele seja reescrito.
+Dialogue: 0,0:11:09.95,0:11:13.81,Default,Kanat,0000,0000,0000,,Meu objetivo é o desafio, não o dinheiro.
+Dialogue: 0,0:11:14.73,0:11:18.80,Default,Ogata,0000,0000,0000,,Não fale essas coisas, só vai\Ndeixar tudo ainda pior para mim.
+Dialogue: 0,0:11:18.80,0:11:19.86,Default,Lady Server,0000,0000,0000,,Desculpe a demora.
+Dialogue: 0,0:11:20.27,0:11:22.81,Default,Lady Server,0000,0000,0000,,Um bife ao molho inglês\Ncom um curry fitness.
+Dialogue: 0,0:11:22.81,0:11:24.56,Default,Kakeru,0000,0000,0000,,Ah, o bife é meu.
+Dialogue: 0,0:11:31.15,0:11:33.50,Default,Kakeru,0000,0000,0000,,Pensando bem, eu também\Ndeveria ter pedido isso...
+Dialogue: 0,0:11:33.80,0:11:35.25,Default,Kakeru,0000,0000,0000,,Eu vou pegar um pouco.
+Dialogue: 0,0:11:35.25,0:11:39.21,Default,Nozomi,0000,0000,0000,,Ah, sacanagem! Eu não\Ntinha nem tocado ainda.
+Dialogue: 0,0:11:39.45,0:11:43.20,Default,Nozomi,0000,0000,0000,,"Eu deveria ter pedido isso" nada.\NPara de zoar comigo, palerma!
+Dialogue: 0,0:11:44.10,0:11:45.91,Italics,Kanata,0000,0000,0000,,Esse casal parece se dar bem...
+Dialogue: 0,0:11:45.91,0:11:49.12,Default,Ogata,0000,0000,0000,,Eu vou pedir algo doce.\NE você, Kanata?
+Dialogue: 0,0:11:49.82,0:11:51.34,Default,Ogata,0000,0000,0000,,Quer sobremesa?
+Dialogue: 0,0:11:51.34,0:11:54.86,Default,Kanata,0000,0000,0000,,Eu não preciso de sobremesa.\NEu vou pegar um café.
+Dialogue: 0,0:11:58.71,0:12:00.69,Default,Kanata,0000,0000,0000,,Pode ir primeiro. {\i1}Please{\i0}.
+Dialogue: 0,0:12:00.96,0:12:02.25,Default,Nozomi,0000,0000,0000,,Obrigada.
+Dialogue: 0,0:12:02.57,0:12:05.63,Italics,Nozomi,0000,0000,0000,,Ah... Que gato!
+Dialogue: 0,0:12:08.95,0:12:12.40,Italics,Nozomi,0000,0000,0000,,Foi mesmo um deleite\Npara os olhos! Gatíssimo!
+Dialogue: 0,0:12:13.37,0:12:14.67,Default,Nozomi,0000,0000,0000,,Ei, olha lá!
+Dialogue: 0,0:12:14.67,0:12:17.79,Default,Nozomi,0000,0000,0000,,É o carro 86! De verdade!
+Dialogue: 0,0:12:18.38,0:12:21.41,Default,Nozomi,0000,0000,0000,,Lembra que nós vimos\Nanteontem na qualificatória?
+Dialogue: 0,0:12:21.41,0:12:24.29,Default,Kakeru,0000,0000,0000,,Sério? E nós estávamos comendo\Nno mesmo restaurante?
+Dialogue: 0,0:12:24.29,0:12:26.51,Default,Kakeru,0000,0000,0000,,Viu alguém que parecesse o motorista?
+Dialogue: 0,0:12:30.79,0:12:32.24,Default,Nozomi,0000,0000,0000,,Não pode ser... É você?
+Dialogue: 0,0:12:32.77,0:12:34.69,Default,Nozomi,0000,0000,0000,,Kanata Katagiri?
+Dialogue: 0,0:12:34.69,0:12:36.28,Default,Kanata,0000,0000,0000,,Sim, isso mesmo...
+Dialogue: 0,0:12:36.28,0:12:41.09,Default,Nozomi,0000,0000,0000,,Que sorte! Encontrar o\Nsupernovato num lugar desses!
+Dialogue: 0,0:12:41.09,0:12:45.53,Default,Nozomi,0000,0000,0000,,Meu nome é Nozomi Kitahara.\NNos encontramos depois.
+Dialogue: 0,0:12:46.08,0:12:47.12,Default,Ogata,0000,0000,0000,,Depois?
+Dialogue: 0,0:12:47.67,0:12:48.83,Default,Kakeru,0000,0000,0000,,Vamos, Nozomi.
+Dialogue: 0,0:12:48.83,0:12:50.38,Default,Nozomi,0000,0000,0000,,Ah, cale a boca.
+Dialogue: 0,0:12:50.38,0:12:51.52,Default,Nozomi,0000,0000,0000,,Até mais.
+Dialogue: 0,0:12:53.86,0:12:57.27,Default,Kakeru,0000,0000,0000,,Ele é só um pouco bonitinho e\Nvocê já está se jogando pra ele.
+Dialogue: 0,0:12:57.27,0:12:59.34,Default,Nozomi,0000,0000,0000,,E daí? Me deixe em paz.
+Dialogue: 0,0:13:12.11,0:13:13.93,Default,Ogata,0000,0000,0000,,Realmente...
+Dialogue: 0,0:13:13.93,0:13:18.90,Default,Ogata,0000,0000,0000,,Kakeru Yashio no Lotus branco e\NNozomi Kitahara no Alfa Romeo vermelho.
+Dialogue: 0,0:13:18.90,0:13:20.86,Default,Ogata,0000,0000,0000,,Chamam eles de "Irmãos Yashi-Kita".
+Dialogue: 0,0:13:20.86,0:13:24.86,Default,Ogata,0000,0000,0000,,Os sobrenomes são diferentes,\Nmas eles são irmãos de sangue.
+Dialogue: 0,0:13:25.17,0:13:28.01,Default,Ogata,0000,0000,0000,,A MFG é fundamentalmente\Numa competição individual,
+Dialogue: 0,0:13:28.01,0:13:31.38,Default,Ogata,0000,0000,0000,,mas os dois são extremamente\Ncoordenados quando correm.
+Dialogue: 0,0:13:31.38,0:13:33.83,Default,Ogata,0000,0000,0000,,Especialmente quando\Nse aproveitam do vácuo.
+Dialogue: 0,0:13:34.80,0:13:36.49,Default,Kanata,0000,0000,0000,,Vácuo...
+Dialogue: 0,0:13:48.80,0:13:54.01,Top Italics,Commentator,0000,0000,0000,,Esse foi a música-tema da temporada,\Ntrazida pela quarta geração de Angels.
+Dialogue: 0,0:13:54.01,0:13:57.10,Top Italics,Commentator,0000,0000,0000,,Essa foi a mais nova\N"Sem Medo das Curvas Cegas".
+Dialogue: 0,0:13:57.56,0:14:01.23,Top Italics,Commentator,0000,0000,0000,,Foi direto para a terceira\Nposição nas paradas, é ótimo!
+Dialogue: 0,0:14:01.23,0:14:02.64,Default,Man Audience A,0000,0000,0000,,Ei, olhe ela...
+Dialogue: 0,0:14:02.64,0:14:04.82,Default,Woman Audience A,0000,0000,0000,,Ela mudou o cabelo.
+Dialogue: 0,0:14:06.62,0:14:10.53,Top Italics,Commentator,0000,0000,0000,,E uma boa tarde para todos os 30\Nmilhões de fãs da MFG no mundo.
+Dialogue: 0,0:14:10.53,0:14:12.24,Top Italics,Commentator,0000,0000,0000,,Sou Yoji Tanaka, comentarista.
+Dialogue: 0,0:14:12.64,0:14:17.41,Top Italics,Commentator,0000,0000,0000,,Meu convidado na cabine hoje é alguém que\Nchamou atenção com sua carreira na corrida...
+Dialogue: 0,0:14:17.41,0:14:20.88,Default,Commentator,0000,0000,0000,,Atualmente, ele trabalha\Ncomo técnico de corrida.
+Dialogue: 0,0:14:20.88,0:14:23.45,Default,Commentator,0000,0000,0000,,Kai Kogashima está aqui comigo.
+Dialogue: 0,0:14:23.81,0:14:26.34,Default,Kogashiwa,0000,0000,0000,,Boa tarde. É um prazer estar aqui.
+Dialogue: 0,0:14:26.73,0:14:28.99,Default,Commentator,0000,0000,0000,,Agora, um rumor que eu ouvi,
+Dialogue: 0,0:14:28.99,0:14:33.91,Default,Commentator,0000,0000,0000,,é verdade que você tem boas\Nconexões com os figurões da MFG?
+Dialogue: 0,0:14:33.91,0:14:37.35,Default,Kogashiwa,0000,0000,0000,,Diria que sim,\Neles são antigos amigos.
+Dialogue: 0,0:14:37.57,0:14:39.25,Top Italics,Commentator,0000,0000,0000,,Então, se não se importar,
+Dialogue: 0,0:14:39.25,0:14:44.57,Top Italics,Commentator,0000,0000,0000,,você tem alguma informação sobre a\Nidentidade do misterioso Takahashi Ryo?
+Dialogue: 0,0:14:44.57,0:14:46.70,Top Italics,Kogashiwa,0000,0000,0000,,Bem, acho que sim...
+Dialogue: 0,0:14:46.70,0:14:50.22,Top Italics,Kogashiwa,0000,0000,0000,,Mas ele me avisou para não falar,\Nentão não posso dizer nada.
+Dialogue: 0,0:14:50.22,0:14:53.30,Top Italics,Commentator,0000,0000,0000,,Entendi. Então é isso?
+Dialogue: 0,0:14:54.07,0:14:55.68,Default,Commentator,0000,0000,0000,,Falando de homens misteriosos,
+Dialogue: 0,0:14:55.68,0:15:00.08,Default,Commentator,0000,0000,0000,,vamos falar sobre Kanata Katagiri, o novato\Nque se qualificou para a primeira corrida!
+Dialogue: 0,0:15:00.08,0:15:03.50,Top Italics,Commentator,0000,0000,0000,,Considerando que eu sou uma\N"enciclopédia ambulante da MFG",
+Dialogue: 0,0:15:03.50,0:15:07.76,Top Italics,Commentator,0000,0000,0000,,senti que era meu dever fazer umas\Nligações internacionais para a Inglaterra,
+Dialogue: 0,0:15:07.76,0:15:10.31,Top Italics,Commentator,0000,0000,0000,,e depois de algumas perguntas\Ncom meu inglês meia-boca,
+Dialogue: 0,0:15:10.31,0:15:13.55,Top Italics,Commentator,0000,0000,0000,,consegui descobrir umas\Ninformações impactantes sobre ele.
+Dialogue: 0,0:15:13.77,0:15:17.27,Top Italics,Commentator,0000,0000,0000,,Quando chegar a hora, eu vou\Ncompartilhar essa informação com vocês.
+Dialogue: 0,0:15:17.84,0:15:21.83,Top Italics,Commentator,0000,0000,0000,,Mas agora, falta só 10 minutos\Nantes do começo da corrida.
+Dialogue: 0,0:15:21.83,0:15:28.11,Top Italics,Commentator,0000,0000,0000,,Meu nervosismo não acaba nunca.\NNos aproximamos do tão esperado começo da corrida.
+Dialogue: 0,0:15:28.82,0:15:33.56,Top Italics,Commentator,0000,0000,0000,,Com o fim da reunião dos 15 pilotos,\Neles descem do ônibus.
+Dialogue: 0,0:15:34.31,0:15:36.94,Top Italics,Commentator,0000,0000,0000,,O pole position, Ishigami!
+Dialogue: 0,0:15:36.94,0:15:41.61,Top Italics,Commentator,0000,0000,0000,,E em segundo lugar, Yudai Sakamoto,\Ncom seu capuz e rosto escondido, como sempre.
+Dialogue: 0,0:15:41.61,0:15:45.17,Top Italics,Commentator,0000,0000,0000,,A seguir, parecendo um\Nnobre, vemos Beckenbauer!
+Dialogue: 0,0:15:45.59,0:15:47.63,Top Italics,Commentator,0000,0000,0000,,Em quarto, Otani no AMG.
+Dialogue: 0,0:15:47.63,0:15:50.13,Top Italics,Commentator,0000,0000,0000,,O sexto lugar é Yanagida na BMW.
+Dialogue: 0,0:15:50.13,0:15:55.14,Top Italics,Commentator,0000,0000,0000,,Em sétimo, Jackson Taylor no Porsche.\NOs pilotos europeus com uma postura firme.
+Dialogue: 0,0:15:55.36,0:15:57.95,Top Italics,Commentator,0000,0000,0000,,A aura dos Divinos Fifteen\Nestá brilhando neles!
+Dialogue: 0,0:15:57.95,0:16:00.48,Top Italics,Commentator,0000,0000,0000,,Já é suficiente para acelerar o coração.
+Dialogue: 0,0:16:01.09,0:16:03.33,Top Italics,Commentator,0000,0000,0000,,O Kamikaze fora da lei, Shun Aiba.
+Dialogue: 0,0:16:03.33,0:16:06.44,Top Italics,Commentator,0000,0000,0000,,E atrás dele,\No novato Kanata Katagiri.
+Dialogue: 0,0:16:06.82,0:16:11.90,Top Italics,Commentator,0000,0000,0000,,Ele é um híbrido, de pai japonês e\Nmãe inglesa. Realmente bonitão.
+Dialogue: 0,0:16:12.32,0:16:14.69,Top Italics,Commentator,0000,0000,0000,,Eu só consigo imaginar as\Nfãs que ele vai arranjar...
+Dialogue: 0,0:16:14.69,0:16:18.59,Italics,Seven,0000,0000,0000,,Você não precisa dizer isso!\NSr. Tanaka, seu idiota!
+Dialogue: 0,0:16:18.59,0:16:24.04,Top Italics,Commentator,0000,0000,0000,,Os Divinos Fifteen estão atravessando\No padoque construído no Seisho Bypass.
+Dialogue: 0,0:16:24.04,0:16:29.67,Top Italics,Commentator,0000,0000,0000,,Com os motores ligados, os 15 carros não\Naguentam mais esperar os pilotos chegarem.
+Dialogue: 0,0:16:30.53,0:16:33.79,Default,Kanata,0000,0000,0000,,Aiba-senpai, obrigado pelo\Nchurrasco anteontem.
+Dialogue: 0,0:16:33.79,0:16:37.60,Default,Aiba,0000,0000,0000,,Que nada. Aquele restaurante é meu\Nfavorito, outro dia eu o levo de novo.
+Dialogue: 0,0:16:37.60,0:16:38.67,Default,Kanata,0000,0000,0000,,Uau!
+Dialogue: 0,0:16:38.67,0:16:41.92,Default,Oishi,0000,0000,0000,,Um Aventador? Isso não vai dar.
+Dialogue: 0,0:16:41.92,0:16:44.64,Default,Oishi,0000,0000,0000,,É para provas de arrancada.\NNão vai servir de nada na MFG.
+Dialogue: 0,0:16:45.11,0:16:48.13,Default,Oishi,0000,0000,0000,,O que eu quero é um\NHuracán Performante.
+Dialogue: 0,0:16:48.13,0:16:51.86,Default,Oishi,0000,0000,0000,,Não me interessa quanto custa. Só quero\Nele pronto para a próxima corrida.
+Dialogue: 0,0:16:51.86,0:16:55.37,Italics,Aiba,0000,0000,0000,,Você continua um garoto\Nmimado como sempre, Oishi...
+Dialogue: 0,0:16:55.37,0:16:59.69,Italics,Aiba,0000,0000,0000,,O problema é sua falta de habilidade,\Nnão a falta de potência do carro.
+Dialogue: 0,0:16:59.69,0:17:01.58,Italics,Aiba,0000,0000,0000,,Deveria perceber isso logo.
+Dialogue: 0,0:17:02.09,0:17:04.28,Default,Aiba,0000,0000,0000,,Tô indo. Não vá se descuidar, Kanata.
+Dialogue: 0,0:17:04.28,0:17:06.32,Default,Kanata,0000,0000,0000,,Aiba-senpai, {\i1}good luck{\i0} pra você também.
+Dialogue: 0,0:17:07.77,0:17:11.81,Italics,Aiba,0000,0000,0000,,A corrida já vai começar e ele\Nnão mostra nenhum nervosismo.
+Dialogue: 0,0:17:12.51,0:17:14.96,Italics,Aiba,0000,0000,0000,,Esse Kanata é mesmo um cara estranho.
+Dialogue: 0,0:17:14.96,0:17:18.89,Italics,Aiba,0000,0000,0000,,Ele tem a ousadia de um piloto que\Nparticipou de centenas de corridas...
+Dialogue: 0,0:17:18.89,0:17:20.69,Italics,Aiba,0000,0000,0000,,Apesar disso, ele ainda é agradável.
+Dialogue: 0,0:17:21.60,0:17:24.81,Default,Commentator,0000,0000,0000,,Menos de um minuto para\No começo da corrida.
+Dialogue: 0,0:17:24.81,0:17:29.37,Top Italics,Commentator,0000,0000,0000,,E mesmo na cabine, dá para sentir\Nmeu coração pulando da boca!
+Dialogue: 0,0:17:34.28,0:17:39.82,Top Italics,Commentator,0000,0000,0000,,As oito Angels estão em fila, na frente\Ndo portão, para ver os pilotos na saída.
+Dialogue: 0,0:17:42.29,0:17:46.21,Italics,Aiba,0000,0000,0000,,Meu único objetivo é pisar\Nno pódio no fim da corrida.
+Dialogue: 0,0:17:46.52,0:17:50.71,Italics,Aiba,0000,0000,0000,,Deve ser fácil. Eu começo em quinto\Ne só preciso passar dois carros.
+Dialogue: 0,0:17:50.71,0:17:54.84,Italics,Aiba,0000,0000,0000,,Em quatro anos, eu nunca\Nestive tão animado assim...
+Dialogue: 0,0:17:55.17,0:17:58.30,Italics,Aiba,0000,0000,0000,,Eu não vou deixar mais ninguém\Nreceber um beijo da número sete!
+Dialogue: 0,0:17:58.30,0:18:02.42,Top Italics,Commentator,0000,0000,0000,,Aqueles que chegarem ao pódio\Nreceberão um beijo de uma das Angels.
+Dialogue: 0,0:18:02.42,0:18:04.41,Top Italics,Commentator,0000,0000,0000,,E o vencedor escolhe.
+Dialogue: 0,0:18:06.13,0:18:10.90,Top Italics,Commentator,0000,0000,0000,,Então, o Porsche com o número um se\Naproxima vagarosamente do portão.
+Dialogue: 0,0:18:11.41,0:18:16.92,Top Italics,Commentator,0000,0000,0000,,Todos os carros são limitados a 40 km/h\Naté o último passar pelo portão.
+Dialogue: 0,0:18:16.92,0:18:21.91,Top Italics,Commentator,0000,0000,0000,,Os drones de cada motorista voam\Nna frente deles nessa velocidade.
+Dialogue: 0,0:18:22.30,0:18:26.04,Top Italics,Commentator,0000,0000,0000,,Se eles passarem o drone\Nantes do sinal azul,
+Dialogue: 0,0:18:26.04,0:18:28.87,Top Italics,Commentator,0000,0000,0000,,recebem uma penalidade\Npor queimar a largada.
+Dialogue: 0,0:18:28.87,0:18:32.13,Top Italics,Commentator,0000,0000,0000,,São só 15 segundos adicionados\Nao seu tempo total...
+Dialogue: 0,0:18:32.13,0:18:35.63,Default,Commentator,0000,0000,0000,,Mas isso é suficiente para\Ngarantir um último lugar.
+Dialogue: 0,0:18:36.80,0:18:39.36,Top Italics,Commentator,0000,0000,0000,,Os carros saem do\Nportão, um de cada vez...
+Dialogue: 0,0:18:41.34,0:18:42.64,Top Italics,Commentator,0000,0000,0000,,E agora...
+Dialogue: 0,0:18:43.95,0:18:48.78,Top Italics,Commentator,0000,0000,0000,,O carro 86, o último lugar,\Npassa pelo portão.
+Dialogue: 0,0:18:53.10,0:18:56.33,Top Italics,Commentator,0000,0000,0000,,Os 15 monstros estão rugindo!
+Dialogue: 0,0:18:56.33,0:19:02.04,Top Italics,Commentator,0000,0000,0000,,Ouçam esse ronco!\NEstão conseguindo me ouvir?
+Dialogue: 0,0:19:02.04,0:19:05.62,Default,Man AA,0000,0000,0000,,Que incrível! É assim que\Numa corrida tem que ser!
+Dialogue: 0,0:19:05.91,0:19:08.80,Default,Man BB,0000,0000,0000,,Corridas com carros elétricos me dão sono!
+Dialogue: 0,0:19:09.17,0:19:13.57,Top Italics,Commentator,0000,0000,0000,,E evitando uma queimada na largada\Npor um triz, chega o carro 9, o GTR!
+Dialogue: 0,0:19:13.57,0:19:17.01,Top Italics,Commentator,0000,0000,0000,,Ele já está atacando o AMG do Otani!
+Dialogue: 0,0:19:17.01,0:19:18.89,Default,Man AA,0000,0000,0000,,Isso aí! Vai nessa, Aiba!
+Dialogue: 0,0:19:18.89,0:19:21.47,Default,Man BB,0000,0000,0000,,Nos mostre o que um GTR consegue fazer!
+Dialogue: 0,0:19:21.47,0:19:24.64,Top Italics,Commentator,0000,0000,0000,,E ele conseguiu ultrapassar\No AMG com sucesso!
+Dialogue: 0,0:19:24.64,0:19:30.52,Top Italics,Commentator,0000,0000,0000,,Ele já ganhou uma posição! Parece que Shun\NAiba não sabe o significado da palavra "defesa"!
+Dialogue: 0,0:19:30.52,0:19:34.48,Top Italics,Commentator,0000,0000,0000,,Ele é o motorista que empolga\Nmais o público na MFG!
+Dialogue: 0,0:19:34.76,0:19:38.99,Top Italics,Commentator,0000,0000,0000,,Apesar da popularidade e da simpatia,\Nele não tem sorte com as mulheres!
+Dialogue: 0,0:19:38.99,0:19:42.26,Default,Kogashiwa,0000,0000,0000,,Era isso que o Aiba queria.
+Dialogue: 0,0:19:42.26,0:19:48.20,Default,Kogashiwa,0000,0000,0000,,O AMG GT S é o carro com tração traseira,\Nentão precisa aquecer as rodas.
+Dialogue: 0,0:19:48.65,0:19:49.79,Default,Commentator,0000,0000,0000,,Entendi.
+Dialogue: 0,0:19:50.38,0:19:53.80,Top Italics,Commentator,0000,0000,0000,,O Ishigami continua\Nmantendo a dianteira.
+Dialogue: 0,0:19:53.80,0:19:56.42,Top Italics,Commentator,0000,0000,0000,,Um pouco atrás, estão todos colados.
+Dialogue: 0,0:19:56.42,0:20:00.76,Top Italics,Commentator,0000,0000,0000,,O 12, 5, 9 e 7 estão todos\Nbrigando pela segunda colocação!
+Dialogue: 0,0:20:05.13,0:20:10.02,Top Italics,Commentator,0000,0000,0000,,O Beckenbauer em 12º continua a se distanciar\Ndo grupo que briga pela terceira colocação.
+Dialogue: 0,0:20:10.02,0:20:16.99,Top Italics,Commentator,0000,0000,0000,,Considerando quantos monstros de 600 cv\Nestão contra ele, chega a ser inesperado!
+Dialogue: 0,0:20:16.99,0:20:19.69,Top Italics,Commentator,0000,0000,0000,,O que você acha, Sr. Kogashiwa?
+Dialogue: 0,0:20:19.69,0:20:22.21,Top Italics,Kogashiwa,0000,0000,0000,,Eu diria que é bom\Ngerenciamento de pneus...
+Dialogue: 0,0:20:22.21,0:20:25.66,Top Italics,Kogashiwa,0000,0000,0000,,Ele é bom em aquecer pneus frios.
+Dialogue: 0,0:20:26.00,0:20:30.16,Top Italics,Kogashiwa,0000,0000,0000,,Quando um piloto chega a esse nível,\Nele consegue sentir com precisão
+Dialogue: 0,0:20:30.16,0:20:32.41,Top Italics,Kogashiwa,0000,0000,0000,,a temperatura superficial\Nem todos os quatro pneus.
+Dialogue: 0,0:20:32.41,0:20:39.38,Top Italics,Kogashiwa,0000,0000,0000,,Não só isso, mas eles podem aquecer ou\Nresfriar um pneu individual quando necessário.
+Dialogue: 0,0:20:39.38,0:20:41.53,Top Italics,Commentator,0000,0000,0000,,Isso é realmente possível?
+Dialogue: 0,0:20:41.53,0:20:42.81,Top Italics,Kogashiwa,0000,0000,0000,,Com certeza.
+Dialogue: 0,0:20:44.26,0:20:47.72,Top Italics,Kogashiwa,0000,0000,0000,,Mas o Beckenbauer está no\Nnível dos melhores do mundo.
+Dialogue: 0,0:20:47.93,0:20:53.53,Top Italics,Kogashiwa,0000,0000,0000,,Eu diria que só ele dentre os 15\Nnessa corrida é capaz de fazer isto.
+Dialogue: 0,0:20:57.56,0:20:59.52,Italics,Kanata,0000,0000,0000,,Meu pneu traseiro\Nesquerdo ainda está frio.
+Dialogue: 0,0:21:10.41,0:21:14.12,Italics,Ogata,0000,0000,0000,,Ogata falando! Que derrapada foi essa?\NAlgum problema, Kanata?!
+Dialogue: 0,0:21:14.12,0:21:17.46,Default,Ogata,0000,0000,0000,,Está tendo problemas\Ncom o equilíbrio do carro?
+Dialogue: 0,0:21:17.46,0:21:20.32,Italics,Kanata,0000,0000,0000,,Sem problemas. Só um ajuste fino.
+Dialogue: 0,0:21:20.63,0:21:22.30,Default,Kanata,0000,0000,0000,,Está melhor agora.
+Dialogue: 0,0:21:22.30,0:21:24.30,Italics,Ogata,0000,0000,0000,,Não me assuste assim!
+Dialogue: 0,0:21:24.30,0:21:26.50,Default,Ogata,0000,0000,0000,,Você está correndo em um ritmo bom.
+Dialogue: 0,0:21:26.50,0:21:29.51,Default,Ogata,0000,0000,0000,,Fiquei surpreso que os carros da\Nfrente não estão se afastando!
+Dialogue: 0,0:21:29.51,0:21:32.47,Default,Ogata,0000,0000,0000,,Uma qualificatória e uma corrida\Nsão diferentes, Sr. Ogata.
+Dialogue: 0,0:21:32.88,0:21:36.44,Default,Ogata,0000,0000,0000,,O Honda e o Alfa na minha frente\Nestão numa batalha violenta.
+Dialogue: 0,0:21:36.44,0:21:40.06,Default,Ogata,0000,0000,0000,,Mas sem ninguém atrás de mim,\Neu posso seguir minhas linhas ideais.
+Dialogue: 0,0:21:40.29,0:21:42.78,Default,Ogata,0000,0000,0000,,Entendi. Então é isso...
+Dialogue: 0,0:21:42.78,0:21:45.65,Default,Kanata,0000,0000,0000,,E o momento para eu entrar na batalha...
+Dialogue: 0,0:21:45.98,0:21:47.70,Default,Kanata,0000,0000,0000,,Pode chegar mais rápido que o esperado.
+Dialogue: 0,0:23:31.55,0:23:35.05,Italics,Narration,0000,0000,0000,,No próximo episódio:\N"Volta 05: Trabalho em Equipe".
