@@ -1,0 +1,393 @@
+﻿[Script Info]
+Title: [Erai-raws] Português (Brasil)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Dandadan-Main,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: Dandadan-Main-Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,0
+Style: Dandadan-Italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: Dandadan-Italics-Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,0
+Style: Dandadan-Flashback,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: Dandadan-Flashback-Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,0,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,1
+Style: Dandadan-Flashback-Italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,-1,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: Dandadan-Flashback-Italics-Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,-1,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,1
+Style: Dandadan-Flashback-Inside,Trebuchet MS,22,&H00CCCCCC,&H000000FF,&H00400000,&H00400000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: Dandadan-Flashback-Inside-Italics,Trebuchet MS,22,&H00CCCCCC,&H000000FF,&H00400000,&H00400000,-1,-1,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: Dandadan-Narration,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000050,&H00000050,-1,-1,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: Default,ArialMT,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,0020,0020,0020,1
+Style: Main,Trebuchet MS,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: BD Top DX,Verdana Bold,54,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,8,0100,0100,0110,1
+Style: BD Center,Verdana Bold,54,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,5,0100,0100,0110,1
+Style: BD Center Left,Verdana Bold,54,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,4,0190,0100,0110,1
+Style: BD Center Right,Verdana Bold,20,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,6,0100,0190,0110,1
+Style: BD Bottom Left,Verdana Bold,54,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,1,0190,0100,0110,1
+Style: BD Bottom Right,Verdana Bold,54,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,3,0100,0190,0110,1
+Style: BD Top Left,Verdana Bold,54,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,7,0190,0100,0110,1
+Style: BD Top Right,Verdana Bold,54,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,9,0100,0190,0110,1
+Style: Sign,Tahoma,22,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0005,0005,0015,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:30.36,0:01:31.19,Dandadan-Main,Momo,0000,0000,0000,,Oi?!
+Dialogue: 0,0:01:31.44,0:01:36.70,Dandadan-Main,Momo's Ex-Boyfriend,0000,0000,0000,,Falei que se você não me emprestar\Na grana, não vai ter rolê hoje...
+Dialogue: 0,0:01:37.32,0:01:40.62,Dandadan-Main,Momo's Ex-Boyfriend,0000,0000,0000,,Ah, mas se você deixar\Neu dar uma, beleza.
+Dialogue: 0,0:01:41.12,0:01:44.08,Dandadan-Main,Momo's Ex-Boyfriend,0000,0000,0000,,Mas você paga pelo motel, viu?
+Dialogue: 0,0:01:50.08,0:01:51.46,Dandadan-Main,Momo,0000,0000,0000,,Eu vou é dar um soco nessa sua fuça!
+Dialogue: 0,0:01:51.46,0:01:52.67,Dandadan-Main,Momo's Ex-Boyfriend,0000,0000,0000,,Sua...
+Dialogue: 0,0:01:56.38,0:01:58.93,Dandadan-Main,Momo's Ex-Boyfriend,0000,0000,0000,,Pode ir baixando essa bolinha aí!
+Dialogue: 0,0:01:58.93,0:02:01.39,Dandadan-Main,Momo's Ex-Boyfriend,0000,0000,0000,,Chega! Tô de saco cheio de você!
+Dialogue: 0,0:02:01.39,0:02:04.81,Dandadan-Main,Momo's Ex-Boyfriend,0000,0000,0000,,Tu é uma quebrada e\Nnão dá pra mim! Vaza!
+Dialogue: 0,0:02:04.81,0:02:06.98,Dandadan-Main,Momo,0000,0000,0000,,Cala essa boca, ô animal!
+Dialogue: 0,0:02:06.98,0:02:09.65,Dandadan-Main,Momo,0000,0000,0000,,Polvo! Lula! Atum!
+Dialogue: 0,0:02:10.60,0:02:11.98,Dandadan-Main,Kei?,0000,0000,0000,,Que comédia.
+Dialogue: 0,0:02:11.98,0:02:16.55,Sign,On-screen Text,0000,0000,0000,,{\an9\blur1.5\3c&H5E4651&\fnVerdana\fs17\pos(611.97,254.29)\c&HF5F8F8&}Episódio 1\NÉ assim que o {\c&HAF2BD8&}amor {\c&HF5F8F8&}começa, tá ligado?
+Dialogue: 0,0:02:12.31,0:02:14.48,Dandadan-Main-Top,Kei?,0000,0000,0000,,Fruto do mar não é insulto...
+Dialogue: 0,0:02:14.48,0:02:19.11,Dandadan-Main-Top,Momo,0000,0000,0000,,Me consola, vai!\NEle foi meu primeiro namorado.
+Dialogue: 0,0:02:19.11,0:02:21.53,Dandadan-Main,Kei?,0000,0000,0000,,Por isso eu falei pra largar mão dele.
+Dialogue: 0,0:02:21.53,0:02:22.95,Dandadan-Main,Kei?,0000,0000,0000,,O que ele tinha de bom, hein?
+Dialogue: 0,0:02:23.95,0:02:25.91,Dandadan-Main,Momo,0000,0000,0000,,Ele parecia o Ken Takakura...
+Dialogue: 0,0:02:25.91,0:02:27.96,Dandadan-Main,Kei?/Miko,0000,0000,0000,,— Ah, pronto.\N— Que saco, hein?
+Dialogue: 0,0:02:28.21,0:02:32.79,Dandadan-Main,Momo,0000,0000,0000,,Não tem nada de errado gostar de\Ncaras másculos tipo o Ken Takakura!
+Dialogue: 0,0:02:32.79,0:02:34.38,Dandadan-Main,Miko,0000,0000,0000,,"É que eu sou um cara sem jeito."
+Dialogue: 0,0:02:34.63,0:02:37.26,Dandadan-Main,Kei?/Miko,0000,0000,0000,,Caras assim estão extintos...
+Dialogue: 0,0:02:40.80,0:02:42.22,Dandadan-Italics,Momo,0000,0000,0000,,Ai, que saco.
+Dialogue: 0,0:02:42.72,0:02:46.47,Dandadan-Italics,Momo,0000,0000,0000,,Nunca mais vou conseguir\Nencontrar um Sr. Ken na vida?
+Dialogue: 0,0:02:46.81,0:02:50.10,Dandadan-Main,Momo,0000,0000,0000,,Pô, alguém me consola, por favor!
+Dialogue: 0,0:02:50.27,0:02:52.65,Dandadan-Main,Momo,0000,0000,0000,,Que mundo mais cruel.
+Dialogue: 0,0:02:55.19,0:02:56.78,Dandadan-Main-Top,Students,0000,0000,0000,,— Droga!\N— Errou?
+Dialogue: 0,0:02:56.78,0:02:59.53,Dandadan-Main-Top,Students,0000,0000,0000,,— Errei.\N— Não olhe pra cá. Que nojo.
+Dialogue: 0,0:03:00.15,0:03:01.95,Dandadan-Main-Top,Students,0000,0000,0000,,— Também tem isto.\N— Maneiro.
+Dialogue: 0,0:03:03.20,0:03:04.95,Dandadan-Main,Student 1,0000,0000,0000,,Coloca um ímã dentro.
+Dialogue: 0,0:03:05.83,0:03:07.62,Dandadan-Main,Student 1,0000,0000,0000,,Essa vai doer, né?
+Dialogue: 0,0:03:12.83,0:03:15.00,Dandadan-Main,Momo,0000,0000,0000,,O que você tá lendo aí?
+Dialogue: 0,0:03:15.79,0:03:18.67,Dandadan-Main,Ken,0000,0000,0000,,Hã? Ah, hum...
+Dialogue: 0,0:03:17.00,0:03:19.80,Sign,On-screen Text,0000,0000,0000,,{\fnArial\fs19\b1\pos(317.91,5.55)\c&H000000&\3c&HE5ECE4&}Nasce a força de autodefesa aeroespacial\Ndefendendo o espaço sideral!!
+Dialogue: 0,0:03:20.93,0:03:22.64,Dandadan-Main,Momo,0000,0000,0000,,Que tosco.
+Dialogue: 0,0:03:26.31,0:03:29.02,Dandadan-Main,Momo,0000,0000,0000,,Só tem lixo no mundo?
+Dialogue: 0,0:03:32.85,0:03:35.06,Dandadan-Main,Momo,0000,0000,0000,,Aí, que cansaço do cacete.
+Dialogue: 0,0:03:35.15,0:03:38.90,Dandadan-Main,Momo,0000,0000,0000,,Onde eu vou descontar esse estresse todo?
+Dialogue: 0,0:03:38.90,0:03:40.40,Dandadan-Main,Ken,0000,0000,0000,,Srta. Momo Ayase!
+Dialogue: 0,0:03:40.95,0:03:42.74,Dandadan-Main,Ken,0000,0000,0000,,Eu sei que você está apaixonada!
+Dialogue: 0,0:03:42.74,0:03:43.36,Dandadan-Main,Momo,0000,0000,0000,,Oi?
+Dialogue: 0,0:03:43.36,0:03:45.41,Dandadan-Main,Ken,0000,0000,0000,,Sei que você está apaixonada!
+Dialogue: 0,0:03:45.74,0:03:47.24,Dandadan-Main,Momo,0000,0000,0000,,Quantas vezes você vai falar isso?
+Dialogue: 0,0:03:47.33,0:03:52.00,Dandadan-Main,Ken,0000,0000,0000,,Para alguém como a senhorita estar\Nfalando comigo, só pode ser isso!
+Dialogue: 0,0:03:52.00,0:03:54.04,Dandadan-Main,Momo,0000,0000,0000,,Acho que você tá doidão, viu.
+Dialogue: 0,0:03:54.29,0:03:57.55,Dandadan-Main,Momo,0000,0000,0000,,Não quero ficar amiguinha sua, não.
+Dialogue: 0,0:03:57.55,0:03:58.59,Dandadan-Main,Momo,0000,0000,0000,,Deixa isso pra lá.
+Dialogue: 0,0:03:58.59,0:04:00.55,Dandadan-Main,Ken,0000,0000,0000,,Eu estou falando disto aqui!
+Dialogue: 0,0:04:00.71,0:04:04.93,Dandadan-Main,Ken,0000,0000,0000,,O presidente já foi a Marte!\NO que representa o Projeto Pégaso?!
+Dialogue: 0,0:04:04.93,0:04:05.89,Dandadan-Main,Momo,0000,0000,0000,,Hã? Que caralhas é essa?
+Dialogue: 0,0:04:05.89,0:04:07.93,Dandadan-Main,Ken,0000,0000,0000,,Você gosta de ocultismo!
+Dialogue: 0,0:04:07.93,0:04:11.14,Dandadan-Main,Momo,0000,0000,0000,,Ah, eu não acredito em OVNIs,\Nnem aliens, nem nada assim...
+Dialogue: 0,0:04:11.14,0:04:13.60,Dandadan-Main,Ken,0000,0000,0000,,OVNIs, não! FANIs!
+Dialogue: 0,0:04:13.73,0:04:16.15,Dandadan-Main,Ken,0000,0000,0000,,Fenômenos Anômalos Não Identificados!
+Dialogue: 0,0:04:16.15,0:04:17.65,Dandadan-Main,Momo,0000,0000,0000,,{\i1}Cê{\i0} é chatão, hein?
+Dialogue: 0,0:04:18.61,0:04:23.03,Dandadan-Main,Ken,0000,0000,0000,,O exército dos EUA reconheceu oficialmente a\Nexistência de FANIs e reformaram a Força Espacial!
+Dialogue: 0,0:04:23.28,0:04:25.57,Dandadan-Main,Ken,0000,0000,0000,,O Japão também criou recentemente\Numa Força de Defesa Aeroespacial!
+Dialogue: 0,0:04:25.57,0:04:28.49,Dandadan-Main,Ken,0000,0000,0000,,Só não vê quem não quer, estão se\Npreparando para uma guerra espacial!
+Dialogue: 0,0:04:28.58,0:04:29.83,Dandadan-Main,Momo,0000,0000,0000,,Posso ir embora?
+Dialogue: 0,0:04:29.83,0:04:30.66,Dandadan-Main,Ken,0000,0000,0000,,Hã?
+Dialogue: 0,0:04:30.66,0:04:34.58,Dandadan-Main,Ken,0000,0000,0000,,Não, espere! Também tem a\Nfoto mais nova do Nessie! Aqui!
+Dialogue: 0,0:04:34.92,0:04:38.59,Dandadan-Main,Ken,0000,0000,0000,,Ela também fala do Tenente-Coronel\NJim Channon e do Rancho Skinwalker!
+Dialogue: 0,0:04:39.50,0:04:41.46,Dandadan-Main,Momo,0000,0000,0000,,Que saco!
+Dialogue: 0,0:04:41.55,0:04:45.09,Dandadan-Main,Momo,0000,0000,0000,,Eu levei um pé na bunda\Ne não tô no clima disso!
+Dialogue: 0,0:04:45.09,0:04:48.47,Dandadan-Main,Momo,0000,0000,0000,,Esse seu jeito de falar é tão coisa\Nde otaku que tá me irritando!
+Dialogue: 0,0:04:48.72,0:04:51.52,Dandadan-Main,Momo,0000,0000,0000,,É por isso que você não tem amigos!
+Dialogue: 0,0:04:53.10,0:04:55.14,Dandadan-Main,Momo,0000,0000,0000,,Se toca, que eu não sou sua amiga.
+Dialogue: 0,0:05:05.53,0:05:07.66,Dandadan-Main,Momo,0000,0000,0000,,Foi mal. Exagerei.
+Dialogue: 0,0:05:17.75,0:05:19.92,Sign,On-screen Text,0000,0000,0000,,{\fnArial\b1\fs16\bord1.3\pos(322.78,18.09)\c&H1B5102&\3c&HF5FEF8&}Seu poder e potencial verdadeiros\Nainda vão despertar...
+Dialogue: 0,0:05:26.93,0:05:27.84,Dandadan-Main,Momo,0000,0000,0000,,Aqui.
+Dialogue: 0,0:05:30.30,0:05:32.68,Dandadan-Main,Momo,0000,0000,0000,,Eu não acredito em aliens.
+Dialogue: 0,0:05:32.68,0:05:34.52,Dandadan-Main,Momo,0000,0000,0000,,Mas acredito em fantasmas.
+Dialogue: 0,0:05:34.52,0:05:36.52,Dandadan-Main,Ken,0000,0000,0000,,Ah, fantasmas existirem já é sacanagem!
+Dialogue: 0,0:05:37.85,0:05:41.77,Dandadan-Main,Momo,0000,0000,0000,,Quis igualar a conversa e\Nvocê já sai negando na cara?
+Dialogue: 0,0:05:41.77,0:05:43.61,Dandadan-Main,Ken,0000,0000,0000,,Não faça pouco do ocultismo!
+Dialogue: 0,0:05:47.36,0:05:50.53,Dandadan-Main,Miko,0000,0000,0000,,Só para você saber, a minha avó é médium.
+Dialogue: 0,0:05:50.53,0:05:51.24,Dandadan-Main,Ken,0000,0000,0000,,Quê?
+Dialogue: 0,0:05:51.24,0:05:55.00,Dandadan-Main,Momo,0000,0000,0000,,Você já viu um exorcismo?\NÉ coisa de louco!
+Dialogue: 0,0:05:55.00,0:05:58.17,Dandadan-Main,Momo,0000,0000,0000,,A pessoa possuída fica tendo convulsões!
+Dialogue: 0,0:05:58.17,0:06:00.29,Dandadan-Main,Ken,0000,0000,0000,,Doenças também causam convulsões.
+Dialogue: 0,0:06:00.29,0:06:03.09,Dandadan-Main,Ken,0000,0000,0000,,Não é prova de que fantasmas existam.
+Dialogue: 0,0:06:03.38,0:06:06.51,Dandadan-Main,Momo,0000,0000,0000,,Então por acaso algum alienígena\Njá te deu carona num OVNI?
+Dialogue: 0,0:06:06.51,0:06:09.22,Dandadan-Main,Ken,0000,0000,0000,,Sua lógica foi longe demais!\NVocê é burra?
+Dialogue: 0,0:06:12.85,0:06:13.68,Dandadan-Main,Miko,0000,0000,0000,,Hã?
+Dialogue: 0,0:06:14.01,0:06:17.23,Dandadan-Main,Kei?,0000,0000,0000,,Ela desistiu do Ken Takakura\Ne foi atrás de um otaku?
+Dialogue: 0,0:06:17.23,0:06:17.92,Dandadan-Main,Miko,0000,0000,0000,,Olhe.
+Dialogue: 0,0:06:17.94,0:06:20.40,Dandadan-Main,Kei?,0000,0000,0000,,Acho que ela não liga pro\Nque pensam a respeito...
+Dialogue: 0,0:06:20.40,0:06:22.02,Dandadan-Main,Miko,0000,0000,0000,,Até que eu gosto.
+Dialogue: 0,0:06:22.94,0:06:25.03,Dandadan-Main,Momo,0000,0000,0000,,Então vamos competir, cacete!
+Dialogue: 0,0:06:25.03,0:06:28.49,Dandadan-Main,Momo,0000,0000,0000,,Se fantasmas existirem,\Nvocê vai virar meu serviçal!
+Dialogue: 0,0:06:28.49,0:06:31.82,Dandadan-Main,Ken,0000,0000,0000,,Eu vou te mostrar OVNIs!\NNão, FANIs!
+Dialogue: 0,0:06:31.82,0:06:36.00,Dandadan-Main,Ken,0000,0000,0000,,Você é que vai ser minha serviçal,\Nse vermos algum!
+Dialogue: 0,0:06:37.08,0:06:38.83,Sign,On-screen Text,0000,0000,0000,,{\fad(599,0)}{\an8\fs24\c&H681B81&\fnTimes New Roman\3c&HD98E06&\blur2}Hospital Geral Nagi
+Dialogue: 0,0:06:41.17,0:06:42.38,Sign,On-screen Text,0000,0000,0000,,{\an8\fs24\c&HFCFCF8&\fnArial\3c&H765B38&\blur2\pos(318.61,93.98)\frz1.168\b0}Dr. Ocultismo
+Dialogue: 0,0:06:42.54,0:06:45.71,Dandadan-Main,Momo,0000,0000,0000,,Que lugar é esse?\NÉ assustador até demais!
+Dialogue: 0,0:06:45.71,0:06:48.22,Dandadan-Main,Momo,0000,0000,0000,,Onde que isso é um ponto de OVNIs?
+Dialogue: 0,0:06:48.47,0:06:52.34,Dandadan-Italics,Ken,0000,0000,0000,,O Hospital Nagi é chamado\Nde santuário de OVNIs.
+Dialogue: 0,0:06:52.34,0:06:55.64,Dandadan-Italics,Ken,0000,0000,0000,,Se você chamar um OVNI no telhado,\Nterá a experiência de ser abduzida.
+Dialogue: 0,0:06:55.64,0:06:57.73,Dandadan-Main,Momo,0000,0000,0000,,O que é "abduzida"?
+Dialogue: 0,0:06:59.98,0:07:03.56,Dandadan-Italics,Ken,0000,0000,0000,,É quando um alien te sequestra e\Nfaz experimentos no seu corpo.
+Dialogue: 0,0:07:03.98,0:07:06.78,Dandadan-Main,Momo,0000,0000,0000,,Espere aí! Já fizeram\Nexperiências em você?
+Dialogue: 0,0:07:06.78,0:07:08.65,Dandadan-Italics,Ken,0000,0000,0000,,Há uma chance que sim!
+Dialogue: 0,0:07:08.65,0:07:09.32,Dandadan-Main,Momo,0000,0000,0000,,Hã?
+Dialogue: 0,0:07:09.32,0:07:12.99,Dandadan-Italics,Ken,0000,0000,0000,,Muitas pessoas que passam por\Nabduções têm suas memórias apagadas.
+Dialogue: 0,0:07:12.99,0:07:15.62,Dandadan-Main,Momo,0000,0000,0000,,Tu nunca viu um OVNI na vida, né, rapá?
+Dialogue: 0,0:07:15.95,0:07:17.37,Dandadan-Italics,Ken,0000,0000,0000,,Já ouviu falar de hipnose regressiva?
+Dialogue: 0,0:07:17.37,0:07:19.08,Dandadan-Main,Momo,0000,0000,0000,,Não mude de assunto.
+Dialogue: 0,0:07:19.08,0:07:21.21,Dandadan-Italics,Ken,0000,0000,0000,,A questão não é ter visto ou não!
+Dialogue: 0,0:07:21.21,0:07:24.08,Dandadan-Italics,Ken,0000,0000,0000,,É se há ou não provas\Nde que eles existem.
+Dialogue: 0,0:07:24.17,0:07:25.34,Dandadan-Main,Momo,0000,0000,0000,,Quieto!
+Dialogue: 0,0:07:25.34,0:07:27.71,Dandadan-Main,Momo,0000,0000,0000,,Enfim, como estão as coisas aí?
+Dialogue: 0,0:07:32.05,0:07:33.18,Dandadan-Main,Ken,0000,0000,0000,,Cheguei.
+Dialogue: 0,0:07:35.51,0:07:38.80,Sign,On-screen Text,0000,0000,0000,,{\fad(1,949)\an8\fs30\c&H000000&\fnTimes New Roman\3c&H8CAD72&\blur1}Entrada proibida
+Dialogue: 0,0:07:39.52,0:07:41.23,Dandadan-Main,Ken,0000,0000,0000,,No ponto espiritual...
+Dialogue: 0,0:07:44.65,0:07:47.15,Dandadan-Main,Ken,0000,0000,0000,,Agora eu vou provar para você...
+Dialogue: 0,0:07:47.36,0:07:49.78,Dandadan-Main,Ken,0000,0000,0000,,...que não existe isso de fantasma!
+Dialogue: 0,0:07:49.78,0:07:52.49,Dandadan-Italics,NTP,0000,0000,0000,,Vai me dizer que tá com medinho?
+Dialogue: 0,0:07:52.49,0:07:55.83,Dandadan-Italics,Momo,0000,0000,0000,,Inclusive, o pessoal na internet\Nsempre fala que aí aparece.
+Dialogue: 0,0:08:10.51,0:08:14.59,Dandadan-Main,Ken,0000,0000,0000,,{\i1}Too shy, shy boy{\i0}, neste momento!
+Dialogue: 0,0:08:14.59,0:08:17.85,Dandadan-Italics,Momo,0000,0000,0000,,Dizem que falar alto é a coisa\Nmais perigosa que se pode fazer.
+Dialogue: 0,0:08:17.85,0:08:19.72,Dandadan-Main,Ken,0000,0000,0000,,{\i1}Too shy, shy boy{\i0}...
+Dialogue: 0,0:08:19.72,0:08:20.68,Dandadan-Italics,Momo,0000,0000,0000,,Na internet.
+Dialogue: 0,0:08:20.68,0:08:22.43,Dandadan-Main,Ken,0000,0000,0000,,Você não para de falar da internet.
+Dialogue: 0,0:08:22.43,0:08:25.40,Dandadan-Main,Ken,0000,0000,0000,,Você já viu algum fantasma, Srta. Ayase?
+Dialogue: 0,0:08:25.40,0:08:26.11,Dandadan-Italics,Momo,0000,0000,0000,,Não.
+Dialogue: 0,0:08:26.11,0:08:27.98,Dandadan-Main,Ken,0000,0000,0000,,Quê?
+Dialogue: 0,0:08:28.23,0:08:30.69,Dandadan-Main,Ken,0000,0000,0000,,E você falando com tanta\Npropriedade a respeito!
+Dialogue: 0,0:08:30.78,0:08:31.90,Dandadan-Main,Momo,0000,0000,0000,,Foi mal!
+Dialogue: 0,0:08:32.03,0:08:33.78,Dandadan-Italics,Ken,0000,0000,0000,,Retire o comportamento\Nque tem tido comigo!
+Dialogue: 0,0:08:33.78,0:08:37.20,Dandadan-Italics,Ken,0000,0000,0000,,É absurdo você acreditar em fantasmas\Nsem nunca ter visto nenhum!
+Dialogue: 0,0:08:37.20,0:08:39.29,Dandadan-Main,Momo,0000,0000,0000,,Não é absurdo.
+Dialogue: 0,0:08:39.29,0:08:42.66,Dandadan-Main,Momo,0000,0000,0000,,Eu falei que a minha avó é médium.
+Dialogue: 0,0:08:43.25,0:08:46.13,Dandadan-Main,Momo,0000,0000,0000,,Eu amo muito a minha vó,\Ncomo não tenho pais...
+Dialogue: 0,0:08:46.75,0:08:49.38,Dandadan-Main,Ken,0000,0000,0000,,Sei... Entendi.
+Dialogue: 0,0:08:50.38,0:08:53.42,Dandadan-Main,Momo,0000,0000,0000,,Por que você ficou todo mole?
+Dialogue: 0,0:08:53.76,0:08:57.64,Dandadan-Main,Momo,0000,0000,0000,,O bagulho é complicado.\NA minha família é muito esquisita.
+Dialogue: 0,0:08:58.10,0:09:02.06,Dandadan-Main,Momo,0000,0000,0000,,Sempre tive que fazer um ritual\Nde boa sorte antes de sair de casa.
+Dialogue: 0,0:09:02.47,0:09:05.64,Dandadan-Main,Momo,0000,0000,0000,,Me faziam ficar com ele\Naté chegar na escola.
+Dialogue: 0,0:09:06.73,0:09:09.44,Dandadan-Main,Momo,0000,0000,0000,,Daí claro que os meninos iriam tirar sarro.
+Dialogue: 0,0:09:09.86,0:09:13.86,Dandadan-Main,Momo,0000,0000,0000,,Se eu não fizesse isso, minha avó\Nficava brava. Era um horror.
+Dialogue: 0,0:09:14.28,0:09:16.32,Dandadan-Main,Momo,0000,0000,0000,,Mas a pior parte de todas...
+Dialogue: 0,0:09:17.49,0:09:20.45,Dandadan-Main,Momo,0000,0000,0000,,Foi quando o menino que\Neu gostava tirou sarro.
+Dialogue: 0,0:09:21.16,0:09:23.79,Dandadan-Main,Momo,0000,0000,0000,,Fiquei com ódio da minha vó.
+Dialogue: 0,0:09:23.95,0:09:27.67,Dandadan-Main,Momo,0000,0000,0000,,"O menino que eu gosto me odeia,\Npor causa desse ritual esquisito."
+Dialogue: 0,0:09:28.17,0:09:31.00,Dandadan-Main,Momo,0000,0000,0000,,Acho que disse um negócio\Nfeio desses para a minha avó.
+Dialogue: 0,0:09:32.71,0:09:37.55,Dandadan-Main,Momo,0000,0000,0000,,Fiquei sem falar com ela até\Nrecentemente e parei de fazer o ritual.
+Dialogue: 0,0:09:38.84,0:09:43.27,Dandadan-Main,Momo,0000,0000,0000,,Mas eu fico irritada quando\Ntiram sarro da minha família.
+Dialogue: 0,0:09:45.31,0:09:46.85,Dandadan-Main,Momo,0000,0000,0000,,Foi aí que eu percebi...
+Dialogue: 0,0:09:47.69,0:09:51.11,Dandadan-Main,Momo,0000,0000,0000,,Eu não odeio o fato de que o\Nmenino não gostava de mim.
+Dialogue: 0,0:09:51.36,0:09:56.03,Dandadan-Main,Momo,0000,0000,0000,,Odiei ele ter tirado sarro da minha vó.
+Dialogue: 0,0:09:57.32,0:10:02.99,Dandadan-Main,Momo,0000,0000,0000,,Na verdade, eu adorava minha avó e o trabalho\Nde médium dela. Porque parecia especial.
+Dialogue: 0,0:10:03.41,0:10:08.67,Dandadan-Main,Momo,0000,0000,0000,,Tipo, ela me acolheu e me criou com\Ntodo o carinho, mesmo sendo sozinha...
+Dialogue: 0,0:10:08.67,0:10:11.13,Dandadan-Main,Momo,0000,0000,0000,,Eu acredito na minha avó.
+Dialogue: 0,0:10:11.34,0:10:14.59,Dandadan-Main,Momo,0000,0000,0000,,Por isso, eu acredito em fantasmas.
+Dialogue: 0,0:10:15.17,0:10:18.43,Dandadan-Main,Momo,0000,0000,0000,,E você, por que acredita em alienígenas?
+Dialogue: 0,0:10:20.09,0:10:22.97,Dandadan-Main,Ken,0000,0000,0000,,Não importa muito, né?
+Dialogue: 0,0:10:23.31,0:10:25.81,Dandadan-Main,Momo,0000,0000,0000,,Como assim?\NNão tem motivo nenhum?
+Dialogue: 0,0:10:25.98,0:10:28.39,Dandadan-Main,Ken,0000,0000,0000,,Precisa de motivo para\Ngostar de alguma coisa?
+Dialogue: 0,0:10:28.77,0:10:30.19,Dandadan-Main,Momo,0000,0000,0000,,Bom, faz sentido.
+Dialogue: 0,0:10:30.52,0:10:34.40,Dandadan-Main,Momo,0000,0000,0000,,Aliás, Dr. Ocultismo, você fala\Nmais direto pelo telefone, né?
+Dialogue: 0,0:10:37.07,0:10:38.57,Dandadan-Main,Ken,0000,0000,0000,,É?
+Dialogue: 0,0:10:40.16,0:10:43.87,Dandadan-Main,Ken,0000,0000,0000,,É que é fácil de falar com você...
+Dialogue: 0,0:10:52.92,0:10:56.26,Dandadan-Main,Turbo Granny,0000,0000,0000,,Eu deixo você chupar minhas tetas...
+Dialogue: 0,0:10:56.92,0:10:59.59,Dandadan-Main,Turbo Granny,0000,0000,0000,,Então deixa eu lamber esse bilau aí.
+Dialogue: 0,0:11:00.59,0:11:01.55,Dandadan-Main,Ken,0000,0000,0000,,Fantasma!
+Dialogue: 0,0:11:01.55,0:11:03.51,Dandadan-Italics,Momo,0000,0000,0000,,Espere! Não é pra correr aí!
+Dialogue: 0,0:11:04.14,0:11:05.47,Dandadan-Italics,Momo,0000,0000,0000,,Ei, Dr. Ocultismo!
+Dialogue: 0,0:11:05.47,0:11:08.98,Dandadan-Main,Ken,0000,0000,0000,,Não dá! Impossível!\NEra só uma velhinha normal!
+Dialogue: 0,0:11:06.93,0:11:10.14,Dandadan-Italics-Top,Momo,0000,0000,0000,,Dr. Ocultismo... Pare agora!
+Dialogue: 0,0:11:08.98,0:11:11.69,Dandadan-Main,Ken,0000,0000,0000,,Deve ser isso! Era só uma velha normal!
+Dialogue: 0,0:11:10.14,0:11:12.19,Dandadan-Italics-Top,Momo,0000,0000,0000,,Dizem na internet que ela é perigosa!
+Dialogue: 0,0:11:15.94,0:11:17.74,Dandadan-Main,Ken,0000,0000,0000,,Eu é que devo ter visto errado!
+Dialogue: 0,0:11:17.74,0:11:21.20,Dandadan-Main,Ken,0000,0000,0000,,Só trombei com uma velha tarada!
+Dialogue: 0,0:11:21.78,0:11:24.91,Dandadan-Italics,Momo,0000,0000,0000,,Dizem que você não pode deixar\Nela te ultrapassar nem ferrando!
+Dialogue: 0,0:11:25.28,0:11:29.00,Dandadan-Italics,Momo,0000,0000,0000,,Se você perder uma corrida contra\Na Vovó Turbo, ela te amaldiçoa!
+Dialogue: 0,0:11:33.88,0:11:34.25,Sign,On-screen Text,0000,0000,0000,,{\an8\fs24\c&HFCFCF8&\fnArial\3c&H765B38&\blur2\pos(318.61,93.98)\frz1.088\b0}Dr. Ocultismo
+Dialogue: 0,0:11:34.67,0:11:35.59,Sign,On-screen Text,0000,0000,0000,,{\an8\fs24\c&HF7FFFE&\fnArial\3c&H250CEA&\blur2\pos(318.61,93.98)\frz1.088\b0}Dr. Ocultismo
+Dialogue: 0,0:11:35.21,0:11:37.34,Dandadan-Main,Momo,0000,0000,0000,,Ei, Dr. Ocultismo!\NVocê tá me ouvindo?
+Dialogue: 0,0:11:37.51,0:11:39.59,Dandadan-Main,Momo,0000,0000,0000,,Alô? Responde!
+Dialogue: 0,0:11:39.80,0:11:41.30,Dandadan-Main,Momo,0000,0000,0000,,Tá de sacanagem...
+Dialogue: 0,0:11:41.30,0:11:43.59,Dandadan-Main,Momo,0000,0000,0000,,Tô indo aí! Espere um pouco!
+Dialogue: 0,0:11:54.23,0:11:57.32,Dandadan-Main,Momo,0000,0000,0000,,Que negócio é esse? Aí não, pô...
+Dialogue: 0,0:12:05.32,0:12:08.04,Dandadan-Main,Serpo 1,0000,0000,0000,,Olá, humana mulher.
+Dialogue: 0,0:12:08.95,0:12:13.79,Dandadan-Main,Serpo 1,0000,0000,0000,,Nós somos Serpoianos. Nos chamamos\Nassim porque viemos do planeta Serpo.
+Dialogue: 0,0:12:13.79,0:12:15.00,Dandadan-Main,Momo,0000,0000,0000,,Aliens?
+Dialogue: 0,0:12:15.08,0:12:18.80,Dandadan-Main,Serpo 2,0000,0000,0000,,Não tenha medo.\NNós somos um povo amistoso.
+Dialogue: 0,0:12:18.80,0:12:22.17,Dandadan-Main,Momo,0000,0000,0000,,Gente amistosa não deixa\Nmeninas peladas, viu?!
+Dialogue: 0,0:12:22.17,0:12:23.26,Dandadan-Main,Momo,0000,0000,0000,,Cadê minha roupa?
+Dialogue: 0,0:12:23.26,0:12:26.22,Dandadan-Main,Serpo 2,0000,0000,0000,,Nós cuidamos adequadamente\Ndos seus pertences.
+Dialogue: 0,0:12:26.22,0:12:28.18,Dandadan-Main,Momo,0000,0000,0000,,Tá tudo rasgado!\NEu quero compensação!
+Dialogue: 0,0:12:28.35,0:12:31.48,Dandadan-Main,Momo,0000,0000,0000,,E quero ir pra casa!\NDá para me tirarem daqui?
+Dialogue: 0,0:12:31.89,0:12:34.23,Dandadan-Main,Serpo 2,0000,0000,0000,,Nossa espécie tem apenas machos.
+Dialogue: 0,0:12:34.23,0:12:37.65,Dandadan-Main,Serpo 2,0000,0000,0000,,Portanto, nos reproduzimos\Natravés de clonagem...
+Dialogue: 0,0:12:37.65,0:12:39.57,Dandadan-Main,Momo,0000,0000,0000,,Vocês estão me ouvindo?
+Dialogue: 0,0:12:39.73,0:12:43.15,Dandadan-Main,Serpo 3,0000,0000,0000,,Porém, unidades idênticas não\Nprovocam evolução biológica.
+Dialogue: 0,0:12:43.15,0:12:46.99,Dandadan-Main,Serpo 3,0000,0000,0000,,O conflito, assim como as\Nemoções básicas, foi eliminado.
+Dialogue: 0,0:12:47.07,0:12:50.70,Dandadan-Main,Serpo 1,0000,0000,0000,,Portanto, para recuperarmos as funções\Nreprodutivas similares às humanas,
+Dialogue: 0,0:12:50.70,0:12:53.41,Dandadan-Main,Serpo 1,0000,0000,0000,,nós queremos as suas "bananas".
+Dialogue: 0,0:12:54.21,0:12:55.79,Dandadan-Main,Serpo 1,0000,0000,0000,,Está na hora do sexo.
+Dialogue: 0,0:12:56.17,0:13:00.55,Dandadan-Main,Serpo 1,0000,0000,0000,,Depois de fazer o sexo com você,\Nextrairemos seu útero e sua banana para estudar.
+Dialogue: 0,0:13:00.55,0:13:01.84,Dandadan-Main,Momo,0000,0000,0000,,Nem que a vaca tussa!
+Dialogue: 0,0:13:01.84,0:13:06.18,Dandadan-Main,Momo,0000,0000,0000,,Eu namorei um babaca, mas não\Ndeixei ele tirar minha virgindade!
+Dialogue: 0,0:13:06.18,0:13:09.47,Dandadan-Main,Momo,0000,0000,0000,,Minha castidade está guardada para um\NKen Takakura que ainda não conheci!
+Dialogue: 0,0:13:09.47,0:13:12.27,Dandadan-Main,Momo,0000,0000,0000,,Não é um alienígena esquisito\Nque vai tirá-la de mim!
+Dialogue: 0,0:13:19.32,0:13:24.15,Dandadan-Main,Serpo 3,0000,0000,0000,,Para atiçar seu desejo, usaremos telecinesia\Npara controlar suas ondas cerebrais.
+Dialogue: 0,0:13:26.03,0:13:30.70,Dandadan-Main,Serpo 3,0000,0000,0000,,E então? Seu corpo está\Nficando mais quente, não está?
+Dialogue: 0,0:13:35.92,0:13:38.42,Dandadan-Main,Serpo 2,0000,0000,0000,,O quê? Ela está resistindo à telecinesia...
+Dialogue: 0,0:13:38.42,0:13:40.63,Dandadan-Main,Serpo 1,0000,0000,0000,,Que poder espiritual incrível.
+Dialogue: 0,0:13:40.88,0:13:41.63,Dandadan-Main,Serpo 1,0000,0000,0000,,Porém...
+Dialogue: 0,0:13:42.00,0:13:43.51,Dandadan-Main,Serpo 1,0000,0000,0000,,Vamos começar.
+Dialogue: 0,0:13:43.84,0:13:45.17,Dandadan-Main,Momo,0000,0000,0000,,Não...
+Dialogue: 0,0:13:45.34,0:13:46.51,Dandadan-Main,Momo,0000,0000,0000,,Não!
+Dialogue: 0,0:13:52.72,0:13:53.77,Dandadan-Main,Serpo 2,0000,0000,0000,,O telefone?
+Dialogue: 0,0:13:53.77,0:13:56.73,Dandadan-Main,Serpo 2,0000,0000,0000,,Parece uma pessoa com timing péssimo.
+Dialogue: 0,0:14:23.17,0:14:25.42,Dandadan-Main,Ken (cursed),0000,0000,0000,,Srta. Ayase! Me desculpe!
+Dialogue: 0,0:14:25.71,0:14:27.22,Dandadan-Main,Ken (cursed),0000,0000,0000,,Tinha um fantasma!
+Dialogue: 0,0:14:27.22,0:14:30.22,Dandadan-Main,Ken (cursed),0000,0000,0000,,A Vovó Turbo me amaldiçoou!
+Dialogue: 0,0:14:30.39,0:14:33.10,Dandadan-Main,Momo,0000,0000,0000,,Dr. Ocultismo! Que alívio!\NMe dá uma mãozinha aqui!
+Dialogue: 0,0:14:33.10,0:14:34.22,Dandadan-Main,Serpo 1,0000,0000,0000,,Quem é você?
+Dialogue: 0,0:14:34.22,0:14:38.64,Dandadan-Main,Serpo 1,0000,0000,0000,,Você se infiltrou com um celular.\NNem nós temos essa tecnologia.
+Dialogue: 0,0:14:38.81,0:14:43.61,Dandadan-Main,Ken (cursed),0000,0000,0000,,Me ajuda, por favor!\NNão consigo me controlar!
+Dialogue: 0,0:14:45.11,0:14:47.49,Dandadan-Main,Turbo Granny,0000,0000,0000,,Deixa eu lamber esse bilau!
+Dialogue: 0,0:14:47.61,0:14:49.03,Dandadan-Main,Momo,0000,0000,0000,,Coé, deixa disso, cara!
+Dialogue: 0,0:14:49.03,0:14:50.78,Dandadan-Main,Serpo 1,0000,0000,0000,,Você, humano homem.
+Dialogue: 0,0:14:50.78,0:14:53.20,Dandadan-Main,Serpo 1,0000,0000,0000,,Não autorizamos a sua invasão.
+Dialogue: 0,0:14:53.20,0:14:56.58,Dandadan-Main,Serpo 1,0000,0000,0000,,Saia imediatamente, senão...
+Dialogue: 0,0:15:00.04,0:15:02.04,Dandadan-Main,Serpo 1,0000,0000,0000,,Pegaremos sua banana.
+Dialogue: 0,0:15:02.13,0:15:02.75,Dandadan-Main,Momo,0000,0000,0000,,Que nojo!
+Dialogue: 0,0:15:02.75,0:15:03.92,Dandadan-Main,Serpo 1,0000,0000,0000,,Órgãos de Sexto Sentido!
+Dialogue: 0,0:15:06.09,0:15:08.72,Dandadan-Main,Serpo 1,0000,0000,0000,,Que rápido! Não consigo\Ntravar minha telecinesia.
+Dialogue: 0,0:15:11.97,0:15:13.97,Dandadan-Main,Serpo 3,0000,0000,0000,,Nossas queridas bananas!
+Dialogue: 0,0:15:14.22,0:15:15.60,Dandadan-Main,Serpo 3,0000,0000,0000,,Sua ladra de banana!
+Dialogue: 0,0:15:15.60,0:15:17.35,Dandadan-Main,Serpo 3,0000,0000,0000,,Fotogrametria Serpoiana!
+Dialogue: 0,0:15:19.31,0:15:20.10,Dandadan-Main,Momo,0000,0000,0000,,Dr. Ocultismo!
+Dialogue: 0,0:15:20.31,0:15:23.02,Dandadan-Main,Serpo 3,0000,0000,0000,,Nunca tínhamos visto\Nalguém tão agressivo.
+Dialogue: 0,0:15:23.02,0:15:28.03,Dandadan-Main,Serpo 3,0000,0000,0000,,Temos uma relação amistosa com\Nos humanos. Nos dê sua banana.
+Dialogue: 0,0:15:28.03,0:15:30.86,Dandadan-Main,Ken,0000,0000,0000,,Eu dou! Se for meu,\Neu dou qualquer coisa!
+Dialogue: 0,0:15:30.86,0:15:33.41,Dandadan-Main,Ken,0000,0000,0000,,Eu queria ver aliens há tanto tempo!
+Dialogue: 0,0:15:33.41,0:15:38.00,Dandadan-Main,Ken,0000,0000,0000,,Não tenho nenhum amigo, então talvez\Neles quisessem ser meus amigos!
+Dialogue: 0,0:15:38.00,0:15:42.79,Dandadan-Main,Ken,0000,0000,0000,,Desde o fundamental,\Neu chamo OVNIs olhando pro céu!
+Dialogue: 0,0:15:44.84,0:15:46.71,Dandadan-Main,Ken,0000,0000,0000,,Mas vocês nunca vieram!
+Dialogue: 0,0:15:46.71,0:15:50.59,Dandadan-Main,Ken,0000,0000,0000,,Eu podia chamar o quanto quisesse,\Nmas vocês nunca apareciam!
+Dialogue: 0,0:15:50.67,0:15:53.09,Dandadan-Main,Ken,0000,0000,0000,,Os outros ficavam zombando de mim...
+Dialogue: 0,0:15:52.01,0:15:55.55,Sign,On-screen Text,0000,0000,0000,,{\fs26\c&H475556&\3c&HE2ECE9&\fnTimes New Roman\pos(276.22,26.85)}Coragem
+Dialogue: 0,0:15:53.09,0:15:55.55,Dandadan-Main,Ken,0000,0000,0000,,Alienígenas não dão a mínima pra mim!
+Dialogue: 0,0:15:55.80,0:15:59.14,Dandadan-Main,Ken,0000,0000,0000,,Ninguém nunca reconheceu\Na minha existência.
+Dialogue: 0,0:15:59.52,0:16:01.06,Dandadan-Main,Ken,0000,0000,0000,,Mas a Srta. Ayase...
+Dialogue: 0,0:16:01.27,0:16:04.19,Dandadan-Main,Ken,0000,0000,0000,,Apesar de tudo, ela me protegeu!
+Dialogue: 0,0:16:04.19,0:16:07.44,Dandadan-Main,Ken,0000,0000,0000,,Então não ousem encostar nela!
+Dialogue: 0,0:16:08.07,0:16:11.40,Dandadan-Main,Ken,0000,0000,0000,,Quem machucá-la vai se ver comigo!
+Dialogue: 0,0:16:12.20,0:16:17.45,Dandadan-Main,Ken (cursed),0000,0000,0000,,Se for pelo bem dela,\Neu me transformo num monstro!
+Dialogue: 0,0:16:17.58,0:16:19.33,Dandadan-Main,Momo,0000,0000,0000,,Continua assim, Dr. Ocultismo!
+Dialogue: 0,0:16:19.33,0:16:21.58,Dandadan-Main,Momo,0000,0000,0000,,Mostra que tu é homem!
+Dialogue: 0,0:16:21.58,0:16:22.46,Dandadan-Main,Serpo 1,0000,0000,0000,,Fie!
+Dialogue: 0,0:16:24.67,0:16:25.71,Dandadan-Main,Ken,0000,0000,0000,,Srta. Ayase...
+Dialogue: 0,0:16:25.71,0:16:26.96,Dandadan-Main,Ken,0000,0000,0000,,Acho que é impossível mesmo.
+Dialogue: 0,0:16:27.21,0:16:28.92,Dandadan-Main,Momo,0000,0000,0000,,Você não desistiu rápido demais?
+Dialogue: 0,0:16:30.97,0:16:34.89,Dandadan-Main,Serpo 1,0000,0000,0000,,Não podemos ser amigos de\Nalguém violento como você.
+Dialogue: 0,0:16:34.97,0:16:39.68,Dandadan-Main,Serpo 1,0000,0000,0000,,Além disso, precisamos mais de\Nhumanos mulheres do que homens.
+Dialogue: 0,0:16:39.85,0:16:42.89,Dandadan-Main,Serpo 1,0000,0000,0000,,Agora, vamos deixá-la\Ncom tesão novamente.
+Dialogue: 0,0:16:47.02,0:16:48.27,Dandadan-Italics,Seiko,0000,0000,0000,,Expanda o seu ki.
+Dialogue: 0,0:16:48.27,0:16:49.69,Dandadan-Italics,Momo (child),0000,0000,0000,,Não quero.
+Dialogue: 0,0:16:49.78,0:16:54.15,Dandadan-Flashback,Momo (child),0000,0000,0000,,Meus amigos tiram sarro de\Nmim todo dia por causa disso.
+Dialogue: 0,0:16:54.15,0:16:55.82,Dandadan-Flashback,Seiko,0000,0000,0000,,Do que você está falando?
+Dialogue: 0,0:16:55.82,0:16:58.99,Dandadan-Flashback,Seiko,0000,0000,0000,,Quando você expande seu ki,\Nvocê não se machuca, nem fica doente!
+Dialogue: 0,0:16:58.99,0:17:01.08,Dandadan-Flashback,Seiko,0000,0000,0000,,Coisas ruins não conseguem se aproximar.
+Dialogue: 0,0:17:01.75,0:17:04.75,Dandadan-Flashback,Seiko,0000,0000,0000,,Primeiro, coloque força\Nembaixo da barriga.
+Dialogue: 0,0:17:06.25,0:17:09.96,Dandadan-Flashback,Seiko,0000,0000,0000,,Imagine o seu ki disparando\Npra cima, do topo da cabeça.
+Dialogue: 0,0:17:11.05,0:17:12.26,Dandadan-Flashback-Italics,Child 1,0000,0000,0000,,Que esquisita!
+Dialogue: 0,0:17:12.26,0:17:14.01,Dandadan-Flashback-Italics,Child 2,0000,0000,0000,,Ela está falando com aliens ou algo assim?
+Dialogue: 0,0:17:16.47,0:17:18.68,Dandadan-Flashback,Momo (child),0000,0000,0000,,Não! Eu não vou fazer mais!
+Dialogue: 0,0:17:18.76,0:17:20.14,Dandadan-Flashback,Seiko,0000,0000,0000,,Momo! Espere!
+Dialogue: 0,0:17:20.39,0:17:23.31,Dandadan-Flashback,Momo (child),0000,0000,0000,,Eu odeio você, vovó!\NSua médium falsa!
+Dialogue: 0,0:17:26.98,0:17:30.11,Dandadan-Italics,Momo,0000,0000,0000,,Por que eu tô pensando no passado agora?
+Dialogue: 0,0:17:30.32,0:17:35.07,Dandadan-Italics,Momo,0000,0000,0000,,Foi mal, vovó.\NEu só estava sentindo vergonha.
+Dialogue: 0,0:17:36.78,0:17:39.45,Dandadan-Flashback-Italics,Seiko,0000,0000,0000,,Ponha força embaixo da barriga...
+Dialogue: 0,0:17:41.20,0:17:43.58,Dandadan-Flashback-Italics,Seiko,0000,0000,0000,,Imagine o ki disparando da sua cabeça.
+Dialogue: 0,0:17:48.54,0:17:49.21,Dandadan-Main,Momo,0000,0000,0000,,Não pode ser!
+Dialogue: 0,0:17:49.67,0:17:50.50,Dandadan-Main,Ken,0000,0000,0000,,Quê?
+Dialogue: 0,0:17:50.50,0:17:53.01,Dandadan-Main,Ken,0000,0000,0000,,Srta. Ayase, você tinha poderes psíquicos?
+Dialogue: 0,0:17:53.01,0:17:55.22,Dandadan-Main,Momo,0000,0000,0000,,Eu também tô surpresa!
+Dialogue: 0,0:17:55.63,0:17:59.05,Dandadan-Main,Serpo 3,0000,0000,0000,,Ah, não! Minha telecinesia\Nestá sendo revertida!
+Dialogue: 0,0:17:59.22,0:18:00.51,Dandadan-Main,Serpo 3,0000,0000,0000,,Como?
+Dialogue: 0,0:18:00.51,0:18:06.02,Dandadan-Main,Serpo 3,0000,0000,0000,,Eu estimulei demais as ondas cerebrais da\Nhumana mulher e fiz seus chakras abrirem?
+Dialogue: 0,0:18:06.02,0:18:07.48,Dandadan-Main,Momo,0000,0000,0000,,Ela era de verdade!
+Dialogue: 0,0:18:07.69,0:18:10.23,Dandadan-Main,Momo,0000,0000,0000,,Minha avó era uma médium de verdade!
+Dialogue: 0,0:18:10.44,0:18:12.07,Dandadan-Main,Momo,0000,0000,0000,,Obrigada, vovó!
+Dialogue: 0,0:18:12.19,0:18:15.03,Dandadan-Main,Momo,0000,0000,0000,,Agora posso pegar esses boys lixo...
+Dialogue: 0,0:18:16.24,0:18:17.49,Dandadan-Main,Momo,0000,0000,0000,,...e mandá-los pro espaço!
+Dialogue: 0,0:18:33.55,0:18:35.59,Dandadan-Main,Momo,0000,0000,0000,,O que é isso?! Era um OVNI?
+Dialogue: 0,0:18:36.09,0:18:37.42,Dandadan-Main,Momo,0000,0000,0000,,Dr. Ocultismo, você tá bem?
+Dialogue: 0,0:18:37.84,0:18:39.22,Dandadan-Main,Momo,0000,0000,0000,,Vamos fugir logo daqui!
+Dialogue: 0,0:18:43.76,0:18:48.31,Dandadan-Main,Momo,0000,0000,0000,,Ai! O que você tá fazendo, seu tonto?\NVolte logo ao normal!
+Dialogue: 0,0:18:48.31,0:18:50.52,Dandadan-Main,Momo,0000,0000,0000,,Desgraça!
+Dialogue: 0,0:18:56.15,0:18:57.61,Dandadan-Main,Momo,0000,0000,0000,,Vovó Turbo?
+Dialogue: 0,0:18:57.70,0:19:00.24,Dandadan-Main,Turbo Granny,0000,0000,0000,,Quem é você?
+Dialogue: 0,0:19:03.62,0:19:05.04,Dandadan-Main,Momo,0000,0000,0000,,A maldição não saiu!
+Dialogue: 0,0:19:05.04,0:19:07.12,Dandadan-Main,Momo,0000,0000,0000,,Mas a Vovó Turbo tá fora do corpo dele!
+Dialogue: 0,0:19:07.12,0:19:10.83,Dandadan-Main,Turbo Granny,0000,0000,0000,,Eu possuí o bilau desse menino.
+Dialogue: 0,0:19:10.83,0:19:15.25,Dandadan-Main,Turbo Granny,0000,0000,0000,,Enquanto eu tiver o bilau dele,\Na maldição permanecerá.
+Dialogue: 0,0:19:15.42,0:19:18.05,Dandadan-Main,Turbo Granny,0000,0000,0000,,Se quiser o bilau de volta,\Nvá até o túnel.
+Dialogue: 0,0:19:18.05,0:19:20.30,Dandadan-Main,Turbo Granny,0000,0000,0000,,Aqui é muito longe para mim...
+Dialogue: 0,0:19:20.30,0:19:25.31,Dandadan-Main,Turbo Granny,0000,0000,0000,,No túnel, eu a enfrento o\Nquanto quiser, perua velha.
+Dialogue: 0,0:19:25.39,0:19:27.98,Dandadan-Main,Momo,0000,0000,0000,,Quem você chamou de "perua velha",\Nseu saco de pelanca?!
+Dialogue: 0,0:19:27.98,0:19:29.35,Dandadan-Main,Momo,0000,0000,0000,,Devolve a piroca dele!
+Dialogue: 0,0:19:32.31,0:19:35.19,Dandadan-Main,Momo,0000,0000,0000,,Droga! Vamos morrer se não dermos o fora...
+Dialogue: 0,0:19:35.48,0:19:38.24,Dandadan-Main,Momo,0000,0000,0000,,Acorda, seu idiota! A gente vai fugir!
+Dialogue: 0,0:19:58.88,0:20:00.59,Dandadan-Main,Momo,0000,0000,0000,,Que saco.
+Dialogue: 0,0:20:01.43,0:20:05.05,Dandadan-Main,Momo,0000,0000,0000,,Eu vou acreditar em aliens.\NMe sequestraram, né?
+Dialogue: 0,0:20:05.39,0:20:08.77,Dandadan-Main,Ken,0000,0000,0000,,Também vou acreditar em fantasmas.\NMe amaldiçoaram, né?
+Dialogue: 0,0:20:08.97,0:20:11.31,Dandadan-Main,Momo,0000,0000,0000,,E agora, o que a gente faz?
+Dialogue: 0,0:20:11.31,0:20:12.73,Dandadan-Main,Ken,0000,0000,0000,,O que faremos?
+Dialogue: 0,0:20:13.06,0:20:17.02,Dandadan-Main,Momo,0000,0000,0000,,Você perde o controle se eu não segurar\Nsua maldição com os meus poderes...
+Dialogue: 0,0:20:17.02,0:20:17.90,Dandadan-Main,Ken,0000,0000,0000,,Foi mal.
+Dialogue: 0,0:20:17.90,0:20:21.70,Dandadan-Main,Momo,0000,0000,0000,,Perdi meu uniforme,\Nminha carteira, meu celular. Tudo.
+Dialogue: 0,0:20:22.11,0:20:25.16,Dandadan-Main,Ken,0000,0000,0000,,Como eu me livro dessa maldição?
+Dialogue: 0,0:20:25.16,0:20:29.62,Dandadan-Main,Momo,0000,0000,0000,,Tem que dar uma surra na Vovó Turbo.\NEla é a causa, não é?
+Dialogue: 0,0:20:29.62,0:20:33.46,Dandadan-Main,Ken,0000,0000,0000,,Entendi. Então eu vou até lá.
+Dialogue: 0,0:20:33.83,0:20:35.29,Dandadan-Main,Momo,0000,0000,0000,,Hã? Agora?
+Dialogue: 0,0:20:36.34,0:20:39.00,Dandadan-Main-Top,Ken,0000,0000,0000,,Srta. Ayase, use minha\Nroupa quando for voltar.
+Dialogue: 0,0:20:39.00,0:20:41.88,Dandadan-Main,Momo,0000,0000,0000,,Ei! Você vai perder o controle sem mim!
+Dialogue: 0,0:20:45.76,0:20:50.47,Dandadan-Main,Ken,0000,0000,0000,,Tudo isso aconteceu por culpa minha.
+Dialogue: 0,0:20:50.72,0:20:52.98,Dandadan-Main,Ken,0000,0000,0000,,Não posso envolver você\Nainda mais, Srta. Ayase.
+Dialogue: 0,0:20:53.10,0:20:57.65,Dandadan-Main,Ken,0000,0000,0000,,Vou até o túnel com minha força de\Nvontade e depois eu dou um jeito.
+Dialogue: 0,0:20:58.73,0:21:01.11,Dandadan-Main,Momo,0000,0000,0000,,Por que você não pede para eu ir junto?
+Dialogue: 0,0:21:01.11,0:21:03.90,Dandadan-Main,Momo,0000,0000,0000,,Depois dessa experiência,\Nnão posso deixar você sozinho!
+Dialogue: 0,0:21:03.90,0:21:06.91,Dandadan-Main,Momo,0000,0000,0000,,Você teria morrido se não fosse por mim!
+Dialogue: 0,0:21:08.41,0:21:12.04,Dandadan-Main,Ken,0000,0000,0000,,Você não liga de ajudar alguém como eu?
+Dialogue: 0,0:21:12.29,0:21:14.37,Dandadan-Main,Momo,0000,0000,0000,,Isso aí é um saco.
+Dialogue: 0,0:21:22.63,0:21:24.43,Dandadan-Main,Momo,0000,0000,0000,,Aqui, coloca uma roupa.
+Dialogue: 0,0:21:26.59,0:21:27.55,Dandadan-Main,Momo,0000,0000,0000,,Vamos lá.
+Dialogue: 0,0:21:28.01,0:21:29.35,Dandadan-Main,Ken,0000,0000,0000,,Foi mal.
+Dialogue: 0,0:21:29.64,0:21:31.81,Dandadan-Main,Ken,0000,0000,0000,,É que eu sou desajeitado.
+Dialogue: 0,0:21:33.10,0:21:35.48,Dandadan-Main,Ken,0000,0000,0000,,Srta. Ayase, vista-se por favor.
+Dialogue: 0,0:21:35.73,0:21:37.94,Dandadan-Main,Ken,0000,0000,0000,,Senão, não vou conseguir falar direito.
+Dialogue: 0,0:21:39.19,0:21:42.07,Dandadan-Italics,Momo,0000,0000,0000,,Ah, não... Por que meu\Ncoração está acelerado?
+Dialogue: 0,0:21:42.82,0:21:44.15,Dandadan-Italics,Momo,0000,0000,0000,,Não pode ser.
+Dialogue: 0,0:21:44.24,0:21:48.16,Dandadan-Italics,Momo,0000,0000,0000,,Só me surpreendi de ele ter dito\Numa das falas do Ken Takakura.
+Dialogue: 0,0:21:48.62,0:21:50.91,Dandadan-Italics,Momo,0000,0000,0000,,Agora, eu preciso me acalmar.
+Dialogue: 0,0:21:53.04,0:21:55.66,Dandadan-Main,Momo,0000,0000,0000,,Aliás, qual o seu nome?
+Dialogue: 0,0:21:55.66,0:21:58.00,Dandadan-Main,Momo,0000,0000,0000,,Minha memória é ruim pra isso, sabe?
+Dialogue: 0,0:21:58.08,0:21:59.96,Dandadan-Main,Ken,0000,0000,0000,,Hã? Ah...
+Dialogue: 0,0:22:00.04,0:22:01.42,Dandadan-Main,Ken,0000,0000,0000,,Ken Takakura.
+Dialogue: 0,0:22:09.55,0:22:10.05,BD Top DX,On-screen Text,0000,0000,0000,,{\c&H0100ec&}DAN
+Dialogue: 0,0:22:10.05,0:22:10.30,BD Top DX,On-screen Text,0000,0000,0000,,{\c&H0100ec&}DAN DA
+Dialogue: 0,0:22:10.30,0:22:11.97,BD Top DX,On-screen Text,0000,0000,0000,,{\c&H0100ec&}DAN DA DAN
+Dialogue: 0,0:23:42.44,0:23:44.19,Dandadan-Main,Ken,0000,0000,0000,,Alienígenas existiam mesmo!
+Dialogue: 0,0:23:44.19,0:23:45.73,Dandadan-Main,Momo,0000,0000,0000,,Fantasmas também existiam!
+Dialogue: 0,0:23:45.73,0:23:48.19,Dandadan-Main,Ken,0000,0000,0000,,A prova da existência de\Naliens e fantasmas significa
+Dialogue: 0,0:23:48.19,0:23:49.65,Dandadan-Main,Ken,0000,0000,0000,,que há uma chance de que\Nfenômenos sobrenaturais, UMAs,
+Dialogue: 0,0:23:49.65,0:23:52.62,Dandadan-Main,Ken,0000,0000,0000,,e outras coisas ditas absurdas\Ntambém podem ser provadas.
+Dialogue: 0,0:23:50.49,0:23:52.62,Dandadan-Main-Top,Momo,0000,0000,0000,,Tá, já entendi! Um, dois, e...
+Dialogue: 0,0:23:52.62,0:23:54.62,BD Center Right,On-screen Text,0000,0000,0000,,{\fs25\pos(559.91,27.5)\c&H828480&}Episódio 2\N{\c&HFFFFFF&}Isso aí é um {\c&HF45957&}alienígena{\c&HFFFFFF&}, não é?
+Dialogue: 0,0:23:53.12,0:23:55.20,Dandadan-Main,Ken/Momo,0000,0000,0000,,Próximo episódio:\N"Isso aí é um alienígena, não é?"
+Dialogue: 0,0:23:55.20,0:23:56.91,Dandadan-Main,Momo,0000,0000,0000,,Ei, era pra falar junto!
