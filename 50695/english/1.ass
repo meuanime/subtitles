@@ -1,0 +1,406 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H78171718,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H78171718,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H78171718,-1,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: Top Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H78171718,-1,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: Flashback,Trebuchet MS,24,&H00D9D9DB,&H000000FF,&H002E2E2F,&H78171718,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: Flashback Italics,Trebuchet MS,24,&H00D9D9DB,&H000000FF,&H002E2E2F,&H78171718,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: Flashback Top,Trebuchet MS,24,&H00D9D9DB,&H000000FF,&H002E2E2F,&H78171718,-1,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:39.77,0:00:43.35,Italics,Narration,0000,0000,0000,,Environmental concerns and the \Nincreasing scarcity of fossil fuels
+Dialogue: 0,0:00:43.70,0:00:47.45,Italics,Narration,0000,0000,0000,,have led to the cessation in the manufacture \Nof cars with internal combustion engines.
+Dialogue: 0,0:00:47.76,0:00:51.77,Italics,Narration,0000,0000,0000,,As a result, high-powered sports cars \Nhave become an endangered species.
+Dialogue: 0,0:00:52.60,0:00:57.52,Italics,Narration,0000,0000,0000,,Almost as a requiem to mourn their \Nimminent passing, a new motorsport series
+Dialogue: 0,0:00:57.83,0:00:59.66,Italics,Narration,0000,0000,0000,,has arisen here in Japan.
+Dialogue: 0,0:01:00.15,0:01:04.66,Italics,Narration,0000,0000,0000,,With a global audience \Nof 30 million subscribers,
+Dialogue: 0,0:01:05.23,0:01:07.81,Italics,Narration,0000,0000,0000,,it has achieved explosive popularity.
+Dialogue: 0,0:01:09.90,0:01:14.64,Italics,Narration,0000,0000,0000,,The only regulation is \Nuniform grip-to-weight ratio,
+Dialogue: 0,0:01:15.36,0:01:18.76,Italics,Narration,0000,0000,0000,,resulting in some no-holds-barred,\Nwhite-knuckle racing.
+Dialogue: 0,0:01:19.90,0:01:22.97,Italics,Narration,0000,0000,0000,,Its name: MFG.
+Dialogue: 0,0:01:22.97,0:01:27.98,Default,Sign,0000,0000,0000,,{\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&H0100D1&\pos(330,110)}MF Ghost
+Dialogue: 0,0:01:28.46,0:01:29.06,Default,Sign,0000,0000,0000,,{\fad(200,300)\bord0\alpha&H20&\fscy48\fscx200\shad0\b1\fnArial\blur6\pos(502,300)\p1\c&H001FFF&}m 0 0 l 100 0 100 100 0 100{\p0}
+Dialogue: 1,0:01:28.46,0:01:33.09,Default,Sign,0000,0000,0000,,{\fad(330,580)\bord0.5\shad1.5\b1\fnArial\blur0.3\fax-0.15\pos(504,298)\3c&H5B5B5B&\t(4050,4620,\blur5)}The Challenger \Nfrom England
+Dialogue: 0,0:01:30.68,0:01:33.82,Top Italics,Commentator,0000,0000,0000,,It's the MFG season opener, \Nand we're here at Odawara Pikes Peak
+Dialogue: 0,0:01:33.82,0:01:36.82,Top Italics,Commentator,0000,0000,0000,,for the start of the \Nsecond day of qualifying.
+Dialogue: 0,0:01:39.09,0:01:40.29,Top Italics,Commentator,0000,0000,0000,,Ten seconds to go.
+Dialogue: 0,0:01:40.29,0:01:42.74,Top Italics,Commentator,0000,0000,0000,,Nine. Eight. Seven.
+Dialogue: 0,0:01:43.21,0:01:46.16,Top Italics,Commentator,0000,0000,0000,,Six. Five. Four.
+Dialogue: 0,0:01:46.16,0:01:48.92,Top Italics,Commentator,0000,0000,0000,,Three. Two. One.
+Dialogue: 0,0:01:59.09,0:02:01.46,Default,Passenger A,0000,0000,0000,,Come on, Aiba. You've got this!
+Dialogue: 0,0:02:01.77,0:02:03.33,Default,Passenger B,0000,0000,0000,,He's really going for it!
+Dialogue: 0,0:02:04.28,0:02:06.06,Default,Kanata,0000,0000,0000,,MFG, huh?
+Dialogue: 0,0:02:06.32,0:02:10.17,Default,Passenger C,0000,0000,0000,,Just once, I wish I could go\N see them race in person.
+Dialogue: 0,0:02:10.17,0:02:13.77,Default,Passenger D,0000,0000,0000,,Not happening. They don't let\Nspectators line the route,
+Dialogue: 0,0:02:13.77,0:02:18.65,Default,Passenger D,0000,0000,0000,,and there's still volcanic gas \Nin the air from that eruption.
+Dialogue: 0,0:02:18.94,0:02:21.91,Italics,Kanata,0000,0000,0000,,My friends in England \Nwere all obsessed with it, too.
+Dialogue: 0,0:02:21.91,0:02:24.44,Italics,Kanata,0000,0000,0000,,Makes sense it's popular here,\N as it started in Japan.
+Dialogue: 0,0:02:25.61,0:02:30.40,Italics,Kanata,0000,0000,0000,,I honestly can't make head or tail of \Nthese addresses. Talk about a bad start.
+Dialogue: 0,0:02:32.24,0:02:33.92,Default,Ren,0000,0000,0000,,Hey, Wakana.
+Dialogue: 0,0:02:33.92,0:02:36.71,Italics,Wakana,0000,0000,0000,,The English guy is showing up today, right?
+Dialogue: 0,0:02:36.71,0:02:40.42,Default,Ren,0000,0000,0000,,Technically, he's half-English, half-Japanese.
+Dialogue: 0,0:02:40.42,0:02:42.18,Default,Ren,0000,0000,0000,,You shouldn't get your hopes up, anyway.
+Dialogue: 0,0:02:42.64,0:02:45.29,Default,Ren,0000,0000,0000,,I don't really get cool vibes from England.
+Dialogue: 0,0:02:45.61,0:02:48.33,Italics,Wakana,0000,0000,0000,,Aw, you're no fun at all.
+Dialogue: 0,0:02:48.33,0:02:50.57,Italics,Wakana,0000,0000,0000,,You'd better introduce me if he's hot!
+Dialogue: 0,0:02:51.13,0:02:52.98,Default,Ren,0000,0000,0000,,Get real, Wakana.
+Dialogue: 0,0:02:52.98,0:02:57.19,Default,Ren,0000,0000,0000,,It's because you go after anyone hot \Nthat you always end up with lame guys.
+Dialogue: 0,0:02:58.33,0:03:00.67,Italics,Ren,0000,0000,0000,,I can't even imagine love at first sight.
+Dialogue: 0,0:03:02.17,0:03:04.66,Flashback,Shun,0000,0000,0000,,Excuse me. I'm Aiba Shun.
+Dialogue: 0,0:03:04.91,0:03:10.29,Flashback,Shun,0000,0000,0000,,I came in ninth last year, and, um,\N from the moment I first saw you...
+Dialogue: 0,0:03:11.21,0:03:13.50,Flashback,Shun,0000,0000,0000,,A-Anyway, I'm serious!
+Dialogue: 0,0:03:13.72,0:03:14.69,Flashback,Seven,0000,0000,0000,,Sorry.
+Dialogue: 0,0:03:14.69,0:03:15.38,Flashback,Shun,0000,0000,0000,,That was fast!
+Dialogue: 0,0:03:15.85,0:03:20.22,Flashback,Seven,0000,0000,0000,,I don't know how you expect me to react \Nwhen you don't know anything about me.
+Dialogue: 0,0:03:20.42,0:03:22.33,Flashback,Aiba,0000,0000,0000,,W-Wait, just one thing!
+Dialogue: 0,0:03:22.64,0:03:25.30,Flashback,Aiba,0000,0000,0000,,On the MFG Angels' profile page,
+Dialogue: 0,0:03:25.30,0:03:28.02,Flashback,Aiba,0000,0000,0000,,you're the only one listed \Nwithout any info, right?
+Dialogue: 0,0:03:28.02,0:03:31.35,Flashback,Aiba,0000,0000,0000,,Could you at least tell me your name?
+Dialogue: 0,0:03:34.37,0:03:36.55,Flashback,Seven,0000,0000,0000,,MFGA Seven.
+Dialogue: 0,0:03:36.55,0:03:40.11,Flashback,Seven,0000,0000,0000,,{\t(2050,3550,\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&)}You can call me Number Seven, if you wish.
+Dialogue: 0,0:03:40.49,0:03:45.70,Italics,Ren,0000,0000,0000,,Looks are basically the same as clothes. \NThey don't reflect who you {\i0}really{\i1} are.
+Dialogue: 0,0:03:46.32,0:03:50.54,Italics,Ren,0000,0000,0000,,I wanna fall in love with \Na guy who {\i0}I{\i1} think is super hot,
+Dialogue: 0,0:03:50.54,0:03:55.27,Italics,Ren,0000,0000,0000,,even if 99% of girls don't \Nagree with me that he is.
+Dialogue: 0,0:03:57.49,0:03:58.92,Default,Ren,0000,0000,0000,,I'm home.
+Dialogue: 0,0:03:59.16,0:04:01.05,Default,Ren Dad,0000,0000,0000,,You're late, Ren.
+Dialogue: 0,0:04:01.36,0:04:03.17,Default,Ren Dad,0000,0000,0000,,Come in here and let me introduce you.
+Dialogue: 0,0:04:03.69,0:04:08.09,Default,Ren,0000,0000,0000,,Pretty sure I said I was gonna be late today \Nbecause of work. I told Mom, at least.
+Dialogue: 0,0:04:14.81,0:04:17.75,Default,Ren Dad,0000,0000,0000,,{\alpha&H60&}This is Kanata-kun. Mr. Kanata Rivington.
+Dialogue: 0,0:04:17.75,0:04:20.01,Default,Ren Dad,0000,0000,0000,,{\alpha&H60&}He just got in this afternoon.
+Dialogue: 0,0:04:20.01,0:04:24.04,Default,Ren Dad,0000,0000,0000,,{\alpha&H60&}This will be his first time living overseas,\N so I'm sure he'll have questions,
+Dialogue: 0,0:04:24.04,0:04:26.62,Default,Ren Dad,0000,0000,0000,,{\alpha&H60&}and I'd appreciate you helping \Nhim as much as you can, Ren.
+Dialogue: 0,0:04:28.29,0:04:31.52,Default,Kanata,0000,0000,0000,,{\alpha&H60&}It's a pleasure to meet you, Ren-san.
+Dialogue: 0,0:04:31.52,0:04:33.06,Default,Kanata,0000,0000,0000,,{\alpha&H60&\t(700,900,\alpha&H00&)}You can call me Kanata.
+Dialogue: 0,0:04:36.79,0:04:38.53,Default,Ren,0000,0000,0000,,I-I...
+Dialogue: 0,0:04:38.53,0:04:41.52,Default,Ren,0000,0000,0000,,Uh, I have math homework, so...
+Dialogue: 0,0:04:44.97,0:04:47.80,Default,Ren Dad,0000,0000,0000,,Well, she's at an awkward age.
+Dialogue: 0,0:04:48.28,0:04:52.43,Default,Ren Dad,0000,0000,0000,,I have to say, I'm impressed by\Nhow fluent your Japanese is.
+Dialogue: 0,0:04:52.43,0:04:55.23,Default,Kanata,0000,0000,0000,,My mum taught me when I was still young.
+Dialogue: 0,0:04:56.14,0:04:57.21,Default,Ren Dad,0000,0000,0000,,I see.
+Dialogue: 0,0:04:57.72,0:05:00.69,Default,Ren Dad,0000,0000,0000,,It's a real shame what \Nhappened to Katherine.
+Dialogue: 0,0:05:01.37,0:05:05.49,Default,Ren Dad,0000,0000,0000,,You remind me a lot of her\N when she was younger.
+Dialogue: 0,0:05:09.93,0:05:10.99,Italics,Ren,0000,0000,0000,,Crap.
+Dialogue: 0,0:05:11.61,0:05:14.25,Italics,Ren,0000,0000,0000,,I feel like I just got shocked \Nwith a million volts.
+Dialogue: 0,0:05:15.28,0:05:17.04,Italics,Ren,0000,0000,0000,,Why's my heart still pounding?
+Dialogue: 0,0:05:17.42,0:05:20.71,Italics,Ren,0000,0000,0000,,I'm not supposed to judge \Npeople by appearances.
+Dialogue: 0,0:05:21.48,0:05:24.82,Italics,Ren,0000,0000,0000,,So... what is this feeling?
+Dialogue: 1,0:05:26.13,0:05:29.09,Default,Sign,0000,0000,0000,,{\fnTimes New Roman\blur0.3\fs10\fax-0.11\fay0.01\fscx90\bord1\shad0\c&H9DB2AF&\3c&H252B26&\pos(326.666,218.666)\frz12.98\frx4\fry346}Odakyu Katase-Enoshima Station
+Dialogue: 0,0:05:26.13,0:05:29.09,Default,Sign,0000,0000,0000,,{\p1\bord0.5\yshad0\xshad1.5\fscy18\fscx139\fax-0.01\4c&H525254&\frx356\fry350\3c&H695B4E&\c&H7A9C92&\frz12.28\pos(328,222.667)}m 0.5 8 l 100 0 100 100 0 100{\p0}
+Dialogue: 0,0:05:26.13,0:05:29.09,Default,Sign,0000,0000,0000,,{\p1\bord0.5\shad0\fscy12\fscx132\fax-0.01\4c&H525254&\frx356\fry350\3c&H272410&\c&H433427&\frz12.28\pos(328,219.5)}m 0 8 l 100 0 100 100 0 100{\p0}
+Dialogue: 0,0:05:29.58,0:05:31.23,Default,Wakana,0000,0000,0000,,Morning, Ren!
+Dialogue: 0,0:05:31.82,0:05:32.93,Default,Ren,0000,0000,0000,,Wakana.
+Dialogue: 0,0:05:32.93,0:05:34.99,Default,Wakana,0000,0000,0000,,So how'd it go?
+Dialogue: 0,0:05:34.99,0:05:35.87,Default,Ren,0000,0000,0000,,How'd what go?
+Dialogue: 0,0:05:35.87,0:05:39.55,Default,Wakana,0000,0000,0000,,Isn't it obvious? \NYour houseguest from England.
+Dialogue: 0,0:05:40.32,0:05:42.40,Default,Ren,0000,0000,0000,,I... don't really know.
+Dialogue: 0,0:05:42.40,0:05:46.30,Default,Wakana,0000,0000,0000,,What the heck? You could \Nat least show me a picture.
+Dialogue: 0,0:05:46.30,0:05:48.34,Default,Ren,0000,0000,0000,,I didn't take one.
+Dialogue: 0,0:05:48.34,0:05:51.66,Default,Ren,0000,0000,0000,,He's sticking around for a while,\N so just come by and see him.
+Dialogue: 0,0:05:51.91,0:05:56.33,Default,Wakana,0000,0000,0000,,That's so hot! Shacking up \Nwith some half-English guy...
+Dialogue: 0,0:05:56.33,0:05:59.88,Default,Wakana,0000,0000,0000,,What's he in Japan for, anyway?\N Just vacation stuff?
+Dialogue: 0,0:05:59.88,0:06:04.45,Default,Ren,0000,0000,0000,,I dunno. Come to think of it, \NI didn't really ask about anything.
+Dialogue: 0,0:06:04.84,0:06:06.80,Default,Sign,0000,0000,0000,,{\bord0\shad0\blur0.3\fsp5\fnVerdana\fs22\c&H4A443A&\pos(324.667,208)\frz1.471}Ogata Automotive Lt{\fsp1}d.
+Dialogue: 0,0:06:10.51,0:06:12.01,Default,Kanata,0000,0000,0000,,Is this it?
+Dialogue: 0,0:06:12.47,0:06:14.93,Default,Sign,0000,0000,0000,,{\an7\fs10\bord1.5\shad0\blur0.3\fay0.012\3c&H5A807F&\c&H56DDDA&\pos(494.667,73.333)}Qualifying Run
+Dialogue: 0,0:06:14.93,0:06:16.11,Default,Kanata,0000,0000,0000,,Excuse me.
+Dialogue: 0,0:06:16.11,0:06:18.42,Default,Ogata,0000,0000,0000,,Right on time!
+Dialogue: 0,0:06:18.42,0:06:21.65,Default,Ogata,0000,0000,0000,,Uh... {\fnTimes New Roman}Are you Kanata Rivington?
+Dialogue: 0,0:06:21.65,0:06:23.97,Default,Kanata,0000,0000,0000,,And you're Ogata-san, yes?
+Dialogue: 0,0:06:24.31,0:06:26.36,Default,Kanata,0000,0000,0000,,It's a pleasure. I'm Kanata.
+Dialogue: 0,0:06:26.83,0:06:29.82,Default,Ogata,0000,0000,0000,,Oh, you actually speak \NJapanese? That's a relief.
+Dialogue: 0,0:06:29.82,0:06:38.66,Default,Sign,0000,0000,0000,,{\an8\fnArial\fs26\fsp2\bord0.2\shad1.5\c&H5B452F&\3c&H7F736E&\4c&H6E6E70&\move(-42,62,40,62)}Ogata Automotive
+Dialogue: 0,0:06:30.24,0:06:34.00,Default,Ogata,0000,0000,0000,,I hear you went to a \Nfamous English racing school?
+Dialogue: 0,0:06:34.00,0:06:38.23,Default,Ogata,0000,0000,0000,,I thought Saionji-san was joking\N when he brought it up.
+Dialogue: 0,0:06:39.23,0:06:40.76,Default,Ogata,0000,0000,0000,,So I'm sure you're aware,
+Dialogue: 0,0:06:40.76,0:06:45.88,Default,Ogata,0000,0000,0000,,but MFG has a bit of a weird rule \Nabout standardized grip-to-weight ratio.
+Dialogue: 0,0:06:46.77,0:06:50.00,Default,Ogata,0000,0000,0000,,The strongest cars tend to be \NEuropean models with lots of horsepower
+Dialogue: 0,0:06:50.00,0:06:52.05,Default,Ogata,0000,0000,0000,,and good balance, without a lot of modding.
+Dialogue: 0,0:06:52.82,0:06:56.77,Default,Ogata,0000,0000,0000,,As a result, people complain about the rule, \Ncalling it the "rich man's regulation."
+Dialogue: 0,0:06:57.33,0:07:01.97,Default,Ogata,0000,0000,0000,,Which is why I'm not able to \Nprovide you with a competitive vehicle,
+Dialogue: 0,0:07:01.97,0:07:04.25,Default,Ogata,0000,0000,0000,,looking at the big picture \Nof MFG performance.
+Dialogue: 0,0:07:04.25,0:07:05.73,Default,Kanata,0000,0000,0000,,I've heard.
+Dialogue: 0,0:07:06.03,0:07:10.20,Default,Kanata,0000,0000,0000,,But I'll be happy just \Ngetting to experience MFG.
+Dialogue: 0,0:07:10.60,0:07:14.66,Default,Ogata,0000,0000,0000,,Okay! In that case, \NI'll support you in any way I can.
+Dialogue: 0,0:07:16.65,0:07:18.25,Default,Ogata,0000,0000,0000,,Care to take a look at the car?
+Dialogue: 0,0:07:24.00,0:07:25.42,Default,Kanata,0000,0000,0000,,Wow.
+Dialogue: 0,0:07:27.38,0:07:28.92,Default,Kanata,0000,0000,0000,,Good.
+Dialogue: 0,0:07:29.23,0:07:30.48,Default,Kanata,0000,0000,0000,,It's so cool.
+Dialogue: 0,0:07:30.48,0:07:34.48,Default,Ogata,0000,0000,0000,,You don't have to flatter me. \NIt's just an old-fashioned three-pedaler.
+Dialogue: 0,0:07:34.48,0:07:35.60,Default,Ogata,0000,0000,0000,,Can you work with it?
+Dialogue: 0,0:07:35.89,0:07:37.14,Default,Kanata,0000,0000,0000,,No problem.
+Dialogue: 0,0:07:37.60,0:07:41.48,Default,Kanata,0000,0000,0000,,Back at the academy, H-pattern shifters \Nwith three pedals was the standard.
+Dialogue: 0,0:07:41.70,0:07:43.92,Default,Ogata,0000,0000,0000,,I've already taken care of your entry.
+Dialogue: 0,0:07:43.92,0:07:46.67,Default,Ogata,0000,0000,0000,,You're running on the seventh \Nand final day of qualifying.
+Dialogue: 0,0:07:47.94,0:07:49.90,Default,Sign,0000,0000,0000,,{\bord0\fscx90\an1\shad0\c&H8F9291&\fs16\pos(142,283)\frz346}1st Odahara Pikes Peak Official Qualifying Run
+Dialogue: 0,0:07:47.94,0:07:49.90,Default,Sign,0000,0000,0000,,{\an7\fs10\bord1.5\shad0\blur0.3\fay0.012\3c&H2F504D&\c&H56DDDA&\frz345.1\pos(469.333,143.999)}Qualifying Run
+Dialogue: 0,0:07:53.55,0:07:54.43,Default,Ren,0000,0000,0000,,Huh?
+Dialogue: 0,0:07:55.50,0:07:56.85,Default,Ren,0000,0000,0000,,What a coincidence.
+Dialogue: 0,0:07:56.85,0:07:58.19,Default,Kanata,0000,0000,0000,,Sure seems like it.
+Dialogue: 0,0:07:58.66,0:08:00.95,Default,Kanata,0000,0000,0000,,Are you on your way home \Nfrom school, Ren-san?
+Dialogue: 0,0:08:00.95,0:08:02.16,Default,Ren,0000,0000,0000,,You can drop the "san."
+Dialogue: 0,0:08:02.39,0:08:06.13,Default,Ren,0000,0000,0000,,For one thing, I'm younger\N than you. Just "Ren" is fine.
+Dialogue: 0,0:08:07.14,0:08:09.58,Default,Ren,0000,0000,0000,,Where are you coming back from, Kanata?
+Dialogue: 0,0:08:09.58,0:08:13.82,Default,Kanata,0000,0000,0000,,I went over to Tokyo to visit\Nthe British embassy in Yotsuya.
+Dialogue: 0,0:08:14.25,0:08:16.85,Default,Kanata,0000,0000,0000,,I also bought a new cell phone.
+Dialogue: 0,0:08:16.85,0:08:20.81,Default,Ren,0000,0000,0000,,Really? In that case, let's swap contact info.
+Dialogue: 0,0:08:21.03,0:08:22.54,Default,Ren,0000,0000,0000,,Not, like, in {\i1}that{\i0} way...
+Dialogue: 0,0:08:22.54,0:08:26.77,Default,Ren,0000,0000,0000,,But it means, if you need help at all, \Nyou can get in touch with me right away.
+Dialogue: 0,0:08:26.77,0:08:29.81,Default,Kanata,0000,0000,0000,,Good idea. Hang on a minute.
+Dialogue: 0,0:08:37.50,0:08:41.75,Default,Kanata,0000,0000,0000,,You had work yesterday, \Nright, Ren? What about today?
+Dialogue: 0,0:08:41.75,0:08:45.74,Default,Ren,0000,0000,0000,,My job's a little, uh, irregular.
+Dialogue: 0,0:08:45.74,0:08:49.87,Default,Ren,0000,0000,0000,,It's maybe two or three days a week, \Nthen there's a big gap until the next time.
+Dialogue: 0,0:08:49.87,0:08:50.96,Default,Kanata,0000,0000,0000,,I see.
+Dialogue: 0,0:08:50.96,0:08:54.70,Default,Ren,0000,0000,0000,,I actually wanted to ask \Nyou something, Kanata.
+Dialogue: 0,0:08:54.70,0:08:56.68,Default,Ren,0000,0000,0000,,Could we take a picture together?
+Dialogue: 0,0:08:56.68,0:08:58.14,Default,Kanata,0000,0000,0000,,A picture?
+Dialogue: 0,0:08:58.14,0:09:01.68,Default,Ren,0000,0000,0000,,When I told my friend about you, \Nshe wanted to see what you look like.
+Dialogue: 0,0:09:01.99,0:09:02.96,Default,Ren,0000,0000,0000,,Is it okay?
+Dialogue: 0,0:09:02.96,0:09:04.64,Default,Ren,0000,0000,0000,,Here I go. Smile!
+Dialogue: 0,0:09:06.77,0:09:09.23,Default,Ren,0000,0000,0000,,That turned out great! Wanna see?
+Dialogue: 0,0:09:10.30,0:09:12.48,Default,Kanata,0000,0000,0000,,Photos aren't my thing.
+Dialogue: 0,0:09:13.52,0:09:18.47,Default,Ren,0000,0000,0000,,What made you want to leave home\N and come to Japan, Kanata?
+Dialogue: 0,0:09:21.11,0:09:24.66,Default,Kanata,0000,0000,0000,,I don't mind making an \Nexception and telling you, Ren.
+Dialogue: 0,0:09:25.05,0:09:27.85,Default,Kanata,0000,0000,0000,,I came to Japan for two reasons.
+Dialogue: 0,0:09:27.85,0:09:30.73,Default,Kanata,0000,0000,0000,,Well, really, it's only one.
+Dialogue: 0,0:09:30.73,0:09:31.92,Default,Ren,0000,0000,0000,,What's that?
+Dialogue: 0,0:09:34.35,0:09:37.19,Default,Kanata,0000,0000,0000,,To find my missing father.
+Dialogue: 0,0:09:37.98,0:09:39.45,Default,Ren,0000,0000,0000,,Your dad?
+Dialogue: 0,0:09:41.93,0:09:42.26,Default,Sign,0000,0000,0000,,{\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&HFCFFFC&\move(-140,218,200,218)}MF Ghost
+Dialogue: 0,0:09:42.26,0:09:42.47,Default,Sign,0000,0000,0000,,{\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&HFCFFFC&\move(200,218,340,218)}MF Ghost
+Dialogue: 0,0:09:42.47,0:09:42.68,Default,Sign,0000,0000,0000,,{\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&HFCFFFC&\move(340,218,420,218)}MF Ghost
+Dialogue: 0,0:09:42.68,0:09:43.68,Default,Sign,0000,0000,0000,,{\fad(0,300)\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&HFCFFFC&\move(420,218,440,218,0,200)}MF Ghost
+Dialogue: 0,0:09:43.47,0:09:44.76,Top,Ren,0000,0000,0000,,MF Ghost.
+Dialogue: 1,0:09:43.47,0:09:45.98,Default,Sign,0000,0000,0000,,{\fad(530,0)\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&H0100D1&\pos(440,218)}MF Ghost
+Dialogue: 0,0:09:47.02,0:09:47.35,Default,Sign,0000,0000,0000,,{\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&HFCFFFC&\move(-140,218,200,218)}MF Ghost
+Dialogue: 0,0:09:47.35,0:09:47.56,Default,Sign,0000,0000,0000,,{\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&HFCFFFC&\move(200,218,340,218)}MF Ghost
+Dialogue: 0,0:09:47.56,0:09:47.77,Default,Sign,0000,0000,0000,,{\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&HFCFFFC&\move(340,218,420,218)}MF Ghost
+Dialogue: 0,0:09:47.77,0:09:50.98,Default,Sign,0000,0000,0000,,{\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&HFCFFFC&\move(420,218,440,218,0,200)}MF Ghost
+Dialogue: 0,0:09:48.48,0:09:49.73,Top,Kanata,0000,0000,0000,,MF Ghost.
+Dialogue: 0,0:09:53.44,0:09:55.57,Default,Wakana,0000,0000,0000,,Morning, Ren!
+Dialogue: 0,0:09:55.98,0:09:57.29,Default,Ren,0000,0000,0000,,Good morning, Wakana.
+Dialogue: 0,0:09:57.29,0:09:58.98,Default,Wakana,0000,0000,0000,,Show me the thing! C'mon, c'mon!
+Dialogue: 0,0:09:58.98,0:10:00.98,Default,Ren,0000,0000,0000,,I saw that coming.
+Dialogue: 0,0:10:03.22,0:10:03.88,Default,Ren,0000,0000,0000,,Here.
+Dialogue: 0,0:10:07.46,0:10:09.80,Default,Wakana,0000,0000,0000,,Oh my god! Can you believe it?!
+Dialogue: 0,0:10:10.71,0:10:14.13,Italics,Ren,0000,0000,0000,,I guess Kanata really is hot?
+Dialogue: 0,0:10:15.21,0:10:16.38,Flashback,Ren,0000,0000,0000,,What's this?
+Dialogue: 0,0:10:16.59,0:10:19.38,Flashback,Kanata,0000,0000,0000,,A picture from 20 years ago.
+Dialogue: 0,0:10:19.38,0:10:22.35,Flashback,Kanata,0000,0000,0000,,And the only one I have of my father.
+Dialogue: 0,0:10:22.74,0:10:27.99,Flashback,Kanata,0000,0000,0000,,I love that photo because of how \Nhappy my mother looks in it.
+Dialogue: 0,0:10:27.99,0:10:30.56,Flashback,Kanata,0000,0000,0000,,It was taken in a town called Kamakura.
+Dialogue: 0,0:10:30.98,0:10:37.00,Flashback,Kanata,0000,0000,0000,,I decided that, if I ever made it to Japan, \NI'd find the location in that photo.
+Dialogue: 0,0:10:37.00,0:10:40.86,Flashback,Ren,0000,0000,0000,,Kamakura's pretty close by. I know it.
+Dialogue: 0,0:10:41.50,0:10:44.62,Flashback,Ren,0000,0000,0000,,Do you mind if I help you find it, Kanata?
+Dialogue: 0,0:10:45.70,0:10:48.31,Flashback,Ren,0000,0000,0000,,It's just a really romantic idea, that's all.
+Dialogue: 0,0:10:48.31,0:10:51.10,Flashback,Ren,0000,0000,0000,,I want to help you find this place.
+Dialogue: 0,0:10:52.73,0:10:54.59,Flashback,Ren,0000,0000,0000,,What's wrong, Kanata?
+Dialogue: 0,0:10:55.56,0:10:59.05,Flashback,Kanata,0000,0000,0000,,Why are you so kind to me, Ren?
+Dialogue: 0,0:10:59.77,0:11:04.01,Flashback,Kanata,0000,0000,0000,,I don't really know how \Nto express my gratitude.
+Dialogue: 0,0:11:04.84,0:11:08.39,Flashback,Kanata,0000,0000,0000,,You and your father have \Njust been so wonderful.
+Dialogue: 0,0:11:08.65,0:11:10.81,Flashback,Kanata,0000,0000,0000,,I can't thank you enough.
+Dialogue: 0,0:11:11.28,0:11:13.55,Flashback,Kanata,0000,0000,0000,,Japanese people are amazing.
+Dialogue: 0,0:11:19.70,0:11:21.99,Default,Yamashita,0000,0000,0000,,It's not happening, Aiba-san.
+Dialogue: 0,0:11:22.28,0:11:24.37,Default,Aiba,0000,0000,0000,,Aw, come on. Don't be such a stickler.
+Dialogue: 0,0:11:24.37,0:11:27.85,Default,Aiba,0000,0000,0000,,All I'm asking for is\NNumber Seven's name and age.
+Dialogue: 0,0:11:27.33,0:11:31.00,Default,Sign,0000,0000,0000,,{\an8\c&HAF6CBA&\bord0\shad0\fs12\blur0.3\frz3.071\pos(202.667,258)}Profile\N{\fs9}Name: ? Birthday: ? Birthplace: ?
+Dialogue: 0,0:11:27.85,0:11:31.00,Default,Aiba,0000,0000,0000,,You've posted all kinds of stuff \Nabout the other Angels.
+Dialogue: 0,0:11:31.00,0:11:34.89,Default,Yamashita,0000,0000,0000,,That kind of personal information \Nis confidential. No exceptions.
+Dialogue: 0,0:11:34.89,0:11:38.39,Default,Aiba,0000,0000,0000,,Then, could you at least tell me \Nwhich race she's working next?
+Dialogue: 0,0:11:38.39,0:11:39.97,Default,Yamashita,0000,0000,0000,,Hm, let's see...
+Dialogue: 0,0:11:40.30,0:11:44.11,Default,Lady Clerk,0000,0000,0000,,Katagiri Kanata-san.\N If you'll just sign here.
+Dialogue: 0,0:11:44.11,0:11:44.89,Default,Kanata,0000,0000,0000,,Right.
+Dialogue: 0,0:11:46.39,0:11:49.85,Italics,Aiba,0000,0000,0000,,Never seen him before. Is he a rookie?
+Dialogue: 0,0:11:52.04,0:11:53.18,Default,Aiba,0000,0000,0000,,Hey, man.
+Dialogue: 0,0:11:54.33,0:11:56.15,Default,Aiba,0000,0000,0000,,You entering MFG?
+Dialogue: 0,0:11:56.15,0:11:57.94,Default,Kanata,0000,0000,0000,,That's right. Who are you?
+Dialogue: 0,0:11:58.17,0:12:01.90,Default,Aiba,0000,0000,0000,,I'm Aiba Shun. I'm ranked\N a dizzyingly high ninth.
+Dialogue: 0,0:12:02.13,0:12:05.62,Default,Kanata,0000,0000,0000,,Oh, I know you! Aiba in the Nissan GT-R!
+Dialogue: 0,0:12:05.87,0:12:08.47,Default,Kanata,0000,0000,0000,,This is great! It's truly an honor!
+Dialogue: 0,0:12:08.47,0:12:11.63,Default,Kanata,0000,0000,0000,,People love your GT-R back in England.
+Dialogue: 0,0:12:11.63,0:12:12.50,Default,Aiba,0000,0000,0000,,England?
+Dialogue: 0,0:12:12.50,0:12:15.35,Default,Kanata,0000,0000,0000,,Yes! I arrived from there two days ago.
+Dialogue: 0,0:12:15.35,0:12:17.64,Default,Kanata,0000,0000,0000,,I'm Kanata Rivi—Wait, no.
+Dialogue: 0,0:12:17.64,0:12:21.59,Default,Kanata,0000,0000,0000,,My name is Katagiri Kanata. \NI'm running on the last day of qualifying.
+Dialogue: 0,0:12:21.95,0:12:25.30,Default,Aiba,0000,0000,0000,,You sure you're gonna be okay?\N This is MFG we're talking about.
+Dialogue: 0,0:12:25.84,0:12:29.18,Default,Aiba,0000,0000,0000,,Well, I guess it's fine. \NI bet we met for a reason.
+Dialogue: 0,0:12:29.18,0:12:31.64,Default,Aiba,0000,0000,0000,,I don't mind taking you \Nunder my wing for a bit.
+Dialogue: 0,0:12:31.95,0:12:35.73,Default,Aiba,0000,0000,0000,,Listen up, Kanata.\NFrom now on, you call me "Senpai."
+Dialogue: 0,0:12:35.73,0:12:39.86,Default,Aiba,0000,0000,0000,,We're big sticklers for the beauty of\N tradition around here. You follow?
+Dialogue: 0,0:12:39.86,0:12:41.57,Default,Kanata,0000,0000,0000,,Yes, sir, Aiba-senpai!
+Dialogue: 0,0:12:41.90,0:12:45.16,Italics,Aiba,0000,0000,0000,,Aw, man. I love how earnest this dude is.
+Dialogue: 0,0:12:45.16,0:12:50.87,Default,Sign,0000,0000,0000,,{\an8\fnArial\fs18\fax0.13\fscx72\fay0.21\bord0\shad0\c&HAAAE88&\pos(459.334,115.334)\frx0\fry10}Odawara\N\h{\fay0.19}Office
+Dialogue: 0,0:12:45.57,0:12:49.59,Default,Aiba,0000,0000,0000,,Did you eat yet? I'll treat you to a \Ngreat Japanese lunch. Follow me.
+Dialogue: 0,0:12:49.59,0:12:50.49,Default,Kanata,0000,0000,0000,,Sir!
+Dialogue: 0,0:12:51.14,0:12:54.41,Top Italics,Commentator,0000,0000,0000,,He's steadily moving up the times\Nthrough Sector 3 of the course!
+Dialogue: 0,0:12:54.41,0:12:56.54,Top Italics,Commentator,0000,0000,0000,,There's only one car \Nbetween him and top spot!
+Dialogue: 0,0:12:56.54,0:12:59.78,Top Italics,Commentator,0000,0000,0000,,Michael Beckenbauer's \Nshowing no sign of weakness!
+Dialogue: 0,0:13:00.46,0:13:04.09,Default,Kanata,0000,0000,0000,,Am I imagining it or is that \NPorsche smaller than a regular one?
+Dialogue: 0,0:13:01.38,0:13:04.09,Default,Sign,0000,0000,0000,,{\bord1\shad0\blur0.3\fs10\pos(96,201.334)\frz358.6\3c&H535CAF&\c&H65E4E9&}Curry
+Dialogue: 0,0:13:01.38,0:13:04.09,Default,Sign,0000,0000,0000,,{\bord1\shad0\blur0.3\fs8\3c&H535CAF&\c&H65E4E9&\pos(413.333,202)\frz356.7}Beef\h\hBowl
+Dialogue: 0,0:13:01.38,0:13:04.09,Default,Sign,0000,0000,0000,,{\bord1\shad0\blur0.3\fs7\3c&H7D84CC&\c&H65E4E9&\pos(472,102.667)\frz355.3}Beef Bowl + Curry
+Dialogue: 0,0:13:01.38,0:13:04.09,Default,Sign,0000,0000,0000,,{\bord1\shad0\blur0.3\fs7\3c&H9294AD&\c&HE9E3F6&\frz355.3\pos(448.667,128.667)}Open
+Dialogue: 0,0:13:04.57,0:13:09.26,Default,Aiba,0000,0000,0000,,It's a Cayman. They're about \Na size smaller than the 911.
+Dialogue: 0,0:13:09.26,0:13:11.11,Default,Aiba,0000,0000,0000,,You seriously didn't know that?
+Dialogue: 0,0:13:12.36,0:13:15.37,Default,Aiba,0000,0000,0000,,Beckenbauer's straight out of \NPorsche's motorsports program.
+Dialogue: 0,0:13:15.37,0:13:17.48,Default,Aiba,0000,0000,0000,,He's some kinda super-elite racer.
+Dialogue: 0,0:13:17.85,0:13:21.69,Default,Aiba,0000,0000,0000,,He would probably have been a \NLe Mans driver in the good old days.
+Dialogue: 0,0:13:21.19,0:13:25.45,Default,Sign,0000,0000,0000,,{\an7\fs14\bord1.5\shad0\blur0.3\fax-0.1\3c&H154B41&\c&H27E8D7&\frz340\pos(339.333,24.001)}Qualifying Run {\alpha&HFF&\t(980,981,\alpha&H00&)}/ 1st Position
+Dialogue: 0,0:13:22.53,0:13:25.45,Default,Aiba,0000,0000,0000,,Oh, great. He's made it to \Nthe top of the leaderboard.
+Dialogue: 0,0:13:25.85,0:13:30.91,Default,Aiba,0000,0000,0000,,How the hell is he managing these times \Nwith the kind of power a Cayman has?
+Dialogue: 0,0:13:31.22,0:13:32.91,Default,Server,0000,0000,0000,,Here you are.
+Dialogue: 0,0:13:33.89,0:13:35.29,Default,Aiba,0000,0000,0000,,Go ahead and eat up.
+Dialogue: 0,0:13:35.29,0:13:36.73,Default,Aiba,0000,0000,0000,,Beef bowls are a delicacy.
+Dialogue: 0,0:13:37.08,0:13:38.29,Default,Kanata,0000,0000,0000,,Thank you for the food.
+Dialogue: 0,0:13:40.32,0:13:42.88,Default,Aiba,0000,0000,0000,,How old are you anyway, Kanata?
+Dialogue: 0,0:13:42.88,0:13:44.13,Default,Kanata,0000,0000,0000,,I'm 19.
+Dialogue: 0,0:13:44.13,0:13:45.94,Default,Aiba,0000,0000,0000,,Damn, that's young.
+Dialogue: 0,0:13:45.94,0:13:48.22,Default,Aiba,0000,0000,0000,,Five years younger than me.
+Dialogue: 0,0:13:49.65,0:13:52.18,Default,Aiba,0000,0000,0000,,Wait, you don't know how to use chopsticks?
+Dialogue: 0,0:13:52.45,0:13:55.44,Default,Aiba,0000,0000,0000,,Hey, miss. Could you bring this guy a spoon?
+Dialogue: 0,0:13:58.69,0:14:00.48,Default,Sign,0000,0000,0000,,{\bord0\shad0\blur0.3\fsp5\fnVerdana\fs22\c&H4A443A&\pos(324.667,208)\frz1.471}Ogata Automotive Lt{\fsp1}d.
+Dialogue: 0,0:14:00.97,0:14:02.85,Default,Kanata,0000,0000,0000,,Are you around, Ogata-san?
+Dialogue: 0,0:14:03.27,0:14:04.80,Default,Ogata,0000,0000,0000,,Oh, hey, Kanata.
+Dialogue: 0,0:14:05.27,0:14:06.07,Default,Ogata,0000,0000,0000,,What's up?
+Dialogue: 0,0:14:06.07,0:14:09.46,Default,Kanata,0000,0000,0000,,I wanted to see if there was \Nanything I could help you with.
+Dialogue: 0,0:14:11.40,0:14:15.25,Default,Ogata,0000,0000,0000,,Yeah, sure. I was looking \Nto take a break, anyway.
+Dialogue: 0,0:14:15.25,0:14:16.71,Default,Sign,0000,0000,0000,,{\shad0\fnComic Sans MS\fs19\frz358\c&H12FAF7&\3c&H042C2B&\pos(439,210)}Koala's
+Dialogue: 0,0:14:15.25,0:14:16.71,Default,Sign,0000,0000,0000,,{\shad0\fnComic Sans MS\fs14\fax-0.7\c&H12FAF7&\3c&H042C2B&\frz48.21\frx346\fry34\pos(487.333,188.666)}March
+Dialogue: 0,0:14:19.12,0:14:20.08,Default,Kanata,0000,0000,0000,,It's good.
+Dialogue: 0,0:14:20.63,0:14:24.16,Default,Kanata,0000,0000,0000,,They don't have snacks anywhere \Nnear as good as this in England.
+Dialogue: 0,0:14:24.16,0:14:26.25,Default,Kanata,0000,0000,0000,,Japan is unbelievable.
+Dialogue: 0,0:14:26.25,0:14:29.72,Default,Kanata,0000,0000,0000,,Between this and beef bowls, \Nit's like everything you guys eat is amazing.
+Dialogue: 0,0:14:31.44,0:14:33.54,Default,Ogata,0000,0000,0000,,You're exaggerating.
+Dialogue: 0,0:14:33.54,0:14:35.56,Default,Ogata,0000,0000,0000,,I'll admit the snacks here are good, though.
+Dialogue: 0,0:14:36.05,0:14:41.90,Default,Ogata,0000,0000,0000,,To tell you the truth, Kanata, \None of my cars has raced in MFG before.
+Dialogue: 0,0:14:42.29,0:14:46.76,Default,Ogata,0000,0000,0000,,It hasn't been refitted since, \Nso it should easily pass the inspection,
+Dialogue: 0,0:14:46.76,0:14:48.70,Default,Ogata,0000,0000,0000,,and there's no real need\N to make big changes.
+Dialogue: 0,0:14:48.70,0:14:50.61,Default,Kanata,0000,0000,0000,,Who was the driver?
+Dialogue: 0,0:14:52.03,0:14:54.24,Default,Kanata,0000,0000,0000,,You, Ogata-san? Wow!
+Dialogue: 0,0:14:54.24,0:14:57.24,Default,Ogata,0000,0000,0000,,I guess. Call it a youthful misadventure.
+Dialogue: 0,0:14:57.24,0:15:00.72,Default,Ogata,0000,0000,0000,,I used to race back then, and was \Npretty confident about my skills...
+Dialogue: 0,0:15:01.89,0:15:03.68,Default,Ogata,0000,0000,0000,,But I didn't amount to much.
+Dialogue: 0,0:15:05.03,0:15:07.87,Default,Ogata,0000,0000,0000,,The downhill stretch in \NSector 3 scared me so bad,
+Dialogue: 0,0:15:07.87,0:15:11.30,Default,Ogata,0000,0000,0000,,by the time I crossed the finish line, \NI was heartbroken and exhausted.
+Dialogue: 0,0:15:12.21,0:15:17.27,Default,Ogata,0000,0000,0000,,What it boils down to is I'm better suited \Nto tinkering with cars than driving them.
+Dialogue: 0,0:15:17.27,0:15:22.23,Default,Sign,0000,0000,0000,,{\an8\fnArial\fscx60\fax-0.7\fs20\bord0.2\shad1.5\pos(148.667,120.667)\c&H7E7776&\3c&H7F736E&\4c&H6E6E70&\frz21.18\frx346\fry346}Ogata Automotive
+Dialogue: 0,0:15:17.80,0:15:21.79,Default,Ogata,0000,0000,0000,,Can't deny how much I love these \Nold gasoline models, though.
+Dialogue: 0,0:15:25.68,0:15:27.65,Default,Ren,0000,0000,0000,,I don't think this is it.
+Dialogue: 0,0:15:28.32,0:15:30.83,Default,Ren,0000,0000,0000,,The buildings in the background \Nseem totally different.
+Dialogue: 0,0:15:31.32,0:15:36.00,Default,Ren,0000,0000,0000,,I'm pretty sure it was taken on the \Ngrounds of a shrine or a temple...
+Dialogue: 0,0:15:36.00,0:15:41.14,Default,Ren,0000,0000,0000,,And wouldn't you know it? Kamakura's \Nabsolutely crawling with spots like that.
+Dialogue: 0,0:15:41.92,0:15:45.27,Default,Ren,0000,0000,0000,,We'll have to use process of \Nelimination to work through them.
+Dialogue: 0,0:15:45.82,0:15:46.77,Default,Ren,0000,0000,0000,,Let's stay strong!
+Dialogue: 0,0:15:48.78,0:15:52.81,Default,Kanata,0000,0000,0000,,It really does feel strange, being here.
+Dialogue: 0,0:15:53.32,0:15:57.18,Default,Kanata,0000,0000,0000,,So much so, it's hard for me\N to put it into Japanese.
+Dialogue: 0,0:15:57.18,0:15:58.94,Default,Ren,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:15:58.94,0:16:03.85,Default,Kanata,0000,0000,0000,,My mother met my father here \Nwhen she was still just a teenager.
+Dialogue: 0,0:16:04.25,0:16:09.16,Default,Kanata,0000,0000,0000,,They fell in love, \Nlived together, then I was born.
+Dialogue: 0,0:16:09.89,0:16:15.24,Default,Kanata,0000,0000,0000,,Being here in Kamakura is unbelievable. \NLike something out of a dream.
+Dialogue: 0,0:16:15.60,0:16:19.33,Default,Kanata,0000,0000,0000,,It feels like I've come to \Nthe hometown of my heart.
+Dialogue: 0,0:16:20.14,0:16:22.83,Default,Kanata,0000,0000,0000,,I've wanted to visit\N ever since I was small.
+Dialogue: 0,0:16:23.40,0:16:24.86,Default,Ren,0000,0000,0000,,Kanata...
+Dialogue: 0,0:16:26.20,0:16:29.13,Default,Ren,0000,0000,0000,,Hey, Kanata, let's make an offering.
+Dialogue: 0,0:16:38.18,0:16:39.84,Italics,Ren,0000,0000,0000,,He's so earnest.
+Dialogue: 0,0:16:40.51,0:16:41.48,Italics,Ren,0000,0000,0000,,It's adorable.
+Dialogue: 0,0:16:41.93,0:16:44.39,Default,Sign,0000,0000,0000,,{\fnTimes New Roman\fscx80\bord0.1\blur0.3\xshad-3\fay0.16\fs36\pos(271.333,143.333)\3c&HC6C6C6&\c&HF7F7F7&}Asakura Komachi Road
+Dialogue: 0,0:16:43.53,0:16:46.65,Default,Kanata,0000,0000,0000,,What did you wish for, Ren?
+Dialogue: 0,0:16:46.89,0:16:48.53,Default,Ren,0000,0000,0000,,I'm not saying.
+Dialogue: 0,0:16:48.53,0:16:53.72,Default,Ren,0000,0000,0000,,If you tell someone else,\Nthe gods might not hear you.
+Dialogue: 0,0:16:58.79,0:17:01.40,Default,Ren,0000,0000,0000,,Crap, it's already late!
+Dialogue: 0,0:17:01.40,0:17:03.79,Default,Ren,0000,0000,0000,,Remember, Mom, I've got work today!
+Dialogue: 0,0:17:04.11,0:17:05.49,Default,Mayuko,0000,0000,0000,,I know.
+Dialogue: 0,0:17:05.49,0:17:07.44,Default,Mayuko,0000,0000,0000,,Don't trip in your rush.
+Dialogue: 0,0:17:07.44,0:17:08.70,Default,Mayuko,0000,0000,0000,,Be careful.
+Dialogue: 0,0:17:08.70,0:17:09.88,Default,Ren,0000,0000,0000,,I'm off!
+Dialogue: 0,0:17:11.21,0:17:13.24,Italics,Kanata,0000,0000,0000,,Ren's got work today?
+Dialogue: 0,0:17:14.46,0:17:16.85,Italics,Kanata,0000,0000,0000,,And I have an event of my own.
+Dialogue: 0,0:17:18.69,0:17:21.85,Default,Joyu,0000,0000,0000,,Hello. This is Joyu \Nwith the Tokyo Main Office.
+Dialogue: 0,0:17:22.26,0:17:25.25,Default,Joyu,0000,0000,0000,,The Executive Organizer \Nmade a direct request.
+Dialogue: 0,0:17:25.57,0:17:28.44,Default,Joyu,0000,0000,0000,,There's a name on the entry list\N he was hoping to meet.
+Dialogue: 0,0:17:29.00,0:17:31.40,Default,Joyu,0000,0000,0000,,Kanata Rivington, 19 years old.
+Dialogue: 0,0:17:32.43,0:17:33.85,Default,Joyu,0000,0000,0000,,He's a British citizen.
+Dialogue: 0,0:17:36.24,0:17:38.44,Default,Joyu,0000,0000,0000,,Not there? That's odd.
+Dialogue: 0,0:17:38.90,0:17:42.41,Default,Joyu,0000,0000,0000,,Did the kid Ryosuke mentioned not show up?
+Dialogue: 0,0:17:43.13,0:17:47.29,Top Italics,Commentator,0000,0000,0000,,Hello there to the 30 million \NMFG fans across the globe!
+Dialogue: 0,0:17:47.29,0:17:52.55,Default,Commentator,0000,0000,0000,,I'm MFG's walking encyclopedia, Tanaka Yoji, \Nand I'll be providing live commentary today.
+Dialogue: 0,0:17:52.93,0:17:55.76,Default,Commentator,0000,0000,0000,,It's finally the seventh \Nand last day of qualifying,
+Dialogue: 0,0:17:55.76,0:18:00.04,Default,Commentator,0000,0000,0000,,and this round has been typified by a lot \Nof shakeups at the top of the timesheets.
+Dialogue: 0,0:18:00.62,0:18:03.08,Top Italics,Commentator,0000,0000,0000,,Thanks to aggressive moves \Nby the Porsche camp,
+Dialogue: 0,0:18:03.08,0:18:07.26,Top Italics,Commentator,0000,0000,0000,,the Italian big hitters, Ferrari \Nand Lamborghini, have struggled.
+Dialogue: 0,0:18:08.05,0:18:13.07,Top Italics,Commentator,0000,0000,0000,,The hope of home nation manufacturers, \NAiba Shun and his GT-R, is currently in fifth.
+Dialogue: 0,0:18:13.61,0:18:17.43,Top Italics,Commentator,0000,0000,0000,,Odawara's own "Kamikaze \NOutlaw" is making waves.
+Dialogue: 0,0:18:18.50,0:18:23.42,Top Italics,Commentator,0000,0000,0000,,Only 15 of the 302 entrants \Nwill make it into the race proper,
+Dialogue: 0,0:18:23.42,0:18:25.75,Top Italics,Commentator,0000,0000,0000,,earning them the title\N of the "Godly Fifteen."
+Dialogue: 0,0:18:25.99,0:18:27.71,Default,Kanata,0000,0000,0000,,The "Godly Fifteen"?
+Dialogue: 0,0:18:27.97,0:18:31.04,Default,Ogata,0000,0000,0000,,Well, we gotta worry about \Nqualifying before anything else.
+Dialogue: 0,0:18:31.25,0:18:35.38,Default,Ogata,0000,0000,0000,,The new set of tires I put on\N should last for three races.
+Dialogue: 0,0:18:35.60,0:18:40.32,Default,Kanata,0000,0000,0000,,Ogata-san, I apologize if the tires\N are worn out after this race.
+Dialogue: 0,0:18:40.32,0:18:42.35,Default,Kanata,0000,0000,0000,,It's better if I warn you in advance.
+Dialogue: 0,0:18:43.89,0:18:48.27,Top Italics,Commentator,0000,0000,0000,,And there's the board. We have 10 seconds \Nleft before the first racer takes off.
+Dialogue: 0,0:18:48.27,0:18:51.96,Top Italics,Commentator,0000,0000,0000,,It's being held up by Number Seven, \Na new addition to the Angels this year.
+Dialogue: 0,0:18:51.96,0:18:54.86,Top Italics,Commentator,0000,0000,0000,,I'm personally a big fan.
+Dialogue: 0,0:18:55.96,0:18:59.61,Top Italics,Commentator,0000,0000,0000,,Look at those curves! \NIt's enough to take your breath away!
+Dialogue: 0,0:18:59.88,0:19:01.55,Default,Aiba,0000,0000,0000,,Shut the hell up, Tanaka.
+Dialogue: 0,0:19:01.55,0:19:03.95,Default,Aiba,0000,0000,0000,,Where do you get off, \Ncreeping on my Number Seven?
+Dialogue: 0,0:19:04.58,0:19:05.99,Top Italics,Commentator,0000,0000,0000,,And there's the start!
+Dialogue: 0,0:19:07.14,0:19:11.33,Default,Aiba,0000,0000,0000,,Just the sight of her makes my heart hurt.\N Number Seven, my darling...
+Dialogue: 0,0:19:11.61,0:19:12.88,Default,Kanata,0000,0000,0000,,Oh, Aiba-senpai!
+Dialogue: 0,0:19:13.77,0:19:17.11,Default,Ogata,0000,0000,0000,,Oh, hey, if it isn't Shun! It's been a while.
+Dialogue: 0,0:19:17.11,0:19:18.85,Default,Aiba,0000,0000,0000,,Is that you, Ogata?
+Dialogue: 0,0:19:18.85,0:19:22.83,Default,Ogata,0000,0000,0000,,What're you doing here? \NDidn't you already set a time?
+Dialogue: 0,0:19:22.83,0:19:24.43,Default,Aiba,0000,0000,0000,,Well, I, uh...
+Dialogue: 0,0:19:25.05,0:19:28.89,Default,Aiba,0000,0000,0000,,I'm here to root for Kanata, \Nof course. I'm kinda worried.
+Dialogue: 0,0:19:28.89,0:19:31.89,Default,Ogata,0000,0000,0000,,How do you even know Kanata?
+Dialogue: 0,0:19:31.89,0:19:34.86,Default,Kanata,0000,0000,0000,,Aiba-senpai bought me a beef bowl.
+Dialogue: 0,0:19:35.14,0:19:37.37,Default,Aiba,0000,0000,0000,,I ran into him at the office.
+Dialogue: 0,0:19:37.37,0:19:39.67,Default,Ogata,0000,0000,0000,,Wow, that's a hell of a coincidence.
+Dialogue: 0,0:19:39.67,0:19:41.37,Default,Ogata,0000,0000,0000,,Talk about a small world.
+Dialogue: 0,0:19:41.37,0:19:45.58,Default,Ogata,0000,0000,0000,,Anyway, the chitchat will have to wait. \NWe've only got 10 minutes until the off.
+Dialogue: 0,0:19:45.58,0:19:46.99,Default,Ogata,0000,0000,0000,,Let's hurry, Kanata.
+Dialogue: 0,0:19:46.99,0:19:49.33,Default,Aiba,0000,0000,0000,,You need any help? Which car is it?
+Dialogue: 0,0:19:49.56,0:19:51.77,Default,Ogata,0000,0000,0000,,The one I used to race in.
+Dialogue: 0,0:19:51.77,0:19:52.81,Default,Ogata,0000,0000,0000,,There it is.
+Dialogue: 0,0:20:01.05,0:20:02.41,Default,Aiba,0000,0000,0000,,Number 86.
+Dialogue: 0,0:20:07.24,0:20:08.21,Default,Kanata,0000,0000,0000,,Good.
+Dialogue: 0,0:20:09.17,0:20:13.53,Default,Aiba,0000,0000,0000,,Got a few crucial pieces of info \Nfor you to remember, Kanata.
+Dialogue: 0,0:20:13.85,0:20:18.16,Default,Aiba,0000,0000,0000,,The most important thing about\N qualifying is to finish the lap.
+Dialogue: 0,0:20:18.16,0:20:19.98,Default,Aiba,0000,0000,0000,,Don't go damaging the car.
+Dialogue: 0,0:20:20.65,0:20:23.53,Default,Aiba,0000,0000,0000,,A lap around Odawara Pikes Peak is 40 km.
+Dialogue: 0,0:20:23.53,0:20:26.00,Top,Aiba,0000,0000,0000,,That makes it the longest MFG course.
+Dialogue: 0,0:20:26.40,0:20:30.38,Top,Aiba,0000,0000,0000,,I've been doing this for a while, and even \NI don't have the whole thing memorized.
+Dialogue: 0,0:20:31.16,0:20:33.41,Default,Aiba,0000,0000,0000,,You scope it out at all \Non the official website?
+Dialogue: 0,0:20:33.41,0:20:36.30,Default,Kanata,0000,0000,0000,,I've got the course \Nlayout memorized, Senpai.
+Dialogue: 0,0:20:36.30,0:20:38.65,Default,Aiba,0000,0000,0000,,No way. How many hundreds\N of times did that take?
+Dialogue: 0,0:20:38.65,0:20:41.92,Default,Kanata,0000,0000,0000,,I think... only three?
+Dialogue: 0,0:20:41.92,0:20:44.80,Default,Aiba,0000,0000,0000,,This is no time for jokes, Kanata.
+Dialogue: 0,0:20:45.63,0:20:48.42,Default,Aiba,0000,0000,0000,,Listen up. This thing \Ndoesn't have a ton of power,
+Dialogue: 0,0:20:48.42,0:20:51.18,Default,Aiba,0000,0000,0000,,so you'll wanna go uphill at around 70%.
+Dialogue: 0,0:20:51.18,0:20:53.02,Top,Aiba,0000,0000,0000,,It's hell going downhill.
+Dialogue: 0,0:20:53.02,0:20:57.98,Top,Aiba,0000,0000,0000,,For Sector 3 in particular, you'll wanna \Npull back to around 50-60% there.
+Dialogue: 0,0:20:58.24,0:21:01.96,Default,Aiba,0000,0000,0000,,I think you'll understand what \NI'm saying once you've finished.
+Dialogue: 0,0:21:03.18,0:21:04.26,Default,Aiba,0000,0000,0000,,Okay, get to it.
+Dialogue: 0,0:21:04.98,0:21:08.37,Default,Staff,0000,0000,0000,,Car 86, please proceed \Nto the inspection table.
+Dialogue: 0,0:21:09.45,0:21:12.33,Top Italics,Commentator,0000,0000,0000,,Next up is a rookie \Nmaking his first appearance.
+Dialogue: 0,0:21:12.68,0:21:15.42,Top Italics,Commentator,0000,0000,0000,,Car 86, driven by a \Nchallenger from England.
+Dialogue: 0,0:21:15.42,0:21:17.96,Top Italics,Commentator,0000,0000,0000,,Katagiri Kanata, 19 years old.
+Dialogue: 0,0:21:18.68,0:21:19.96,Italics,Seven,0000,0000,0000,,Kanata?
+Dialogue: 0,0:21:24.80,0:21:26.97,Italics,Seven,0000,0000,0000,,Are you kidding me? Is that really him?
+Dialogue: 0,0:21:30.89,0:21:33.98,Italics,Seven,0000,0000,0000,,What are you doing here, Kanata?
+Dialogue: 0,0:21:35.84,0:21:39.05,Top Italics,Commentator,0000,0000,0000,,Six. Five. Four.
+Dialogue: 0,0:21:35.84,0:21:39.31,Italics,Aiba,0000,0000,0000,,Is it me or did she just look\Nreally surprised for a second?
+Dialogue: 0,0:21:39.05,0:21:41.74,Top Italics,Commentator,0000,0000,0000,,Three. Two. One.
+Dialogue: 0,0:21:46.42,0:21:47.54,Italics,Seven,0000,0000,0000,,Kanata...
+Dialogue: 0,0:23:31.55,0:23:36.16,Italics,Narration,0000,0000,0000,,Next time, Turn 02: \NThe Shocking New MFG Generation.
