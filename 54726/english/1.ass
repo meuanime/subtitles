@@ -1,0 +1,365 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: DefaultItalics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: DefaultTop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: DefaultItalicsTop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: FlashbackItalics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: FlashbackTop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0018,0
+Style: FlashbackItalicsTop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: Narration,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000050,&H00000050,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Signs,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0030,0030,0010,0
+Style: Signs_Boxed,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,3,0,0,8,0030,0030,0010,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.47,0:00:04.35,Signs,text,0000,0000,0000,,{\fad(1031,1)\an7\c&H6B6E6B&\fs10\frz343.8\fax-0.15\pos(274.5,112)}Sales Department
+Dialogue: 0,0:00:00.47,0:00:04.35,Signs,text,0000,0000,0000,,{\fad(1031,1)\an9\c&H6B6E6B&\fs16\frz343.8\fax-0.15\pos(374,201.5)}Niijima Keisuke
+Dialogue: 0,0:00:01.43,0:00:08.03,Flashback,Keisuke,0000,0000,0000,,As you can see, using our service gives you \Naccess to multiple payment options
+Dialogue: 0,0:00:04.35,0:00:09.86,Signs,text,0000,0000,0000,,{\fs11\c&HD2D3D1&\frz0.5044\move(453,40,261.5,40,29,5493)}The Convenience of Payment Services
+Dialogue: 0,0:00:08.03,0:00:09.86,Flashback,Keisuke,0000,0000,0000,,that you will find very convenient.
+Dialogue: 0,0:00:10.87,0:00:12.02,Flashback,Keisuke,0000,0000,0000,,Thank you.
+Dialogue: 0,0:00:12.02,0:00:12.86,Flashback,Takae's Boss,0000,0000,0000,,Hmm.
+Dialogue: 0,0:00:13.32,0:00:15.95,Flashback,Takae's Boss,0000,0000,0000,,You make some very compelling points,
+Dialogue: 0,0:00:15.95,0:00:19.83,Flashback,Takae's Boss,0000,0000,0000,,but is it really that important for us \Nto hurry and adopt this system now?
+Dialogue: 0,0:00:19.83,0:00:23.09,Flashback,Keisuke,0000,0000,0000,,Uh, well, you have a point.
+Dialogue: 0,0:00:23.09,0:00:24.72,Flashback,Okue,0000,0000,0000,,Hey, Niijima!
+Dialogue: 0,0:00:25.53,0:00:28.49,Flashback,Keisuke,0000,0000,0000,,But the future of our product \Nis looking very bright!
+Dialogue: 0,0:00:28.49,0:00:30.25,Flashback,Takae's Boss,0000,0000,0000,,Sure, but still...
+Dialogue: 0,0:00:30.95,0:00:31.88,Flashback,Takae,0000,0000,0000,,Excuse me.
+Dialogue: 0,0:00:32.45,0:00:34.70,Flashback,Takae,0000,0000,0000,,May I say something, Chief?
+Dialogue: 0,0:00:34.70,0:00:36.10,Flashback,Takae's Boss,0000,0000,0000,,S-Sure.
+Dialogue: 0,0:00:37.49,0:00:39.89,Flashback,Takae,0000,0000,0000,,I definitely sense potential from this.
+Dialogue: 0,0:00:40.31,0:00:43.39,Flashback,Takae,0000,0000,0000,,Transactions overseas are \Nincreasingly turning cashless,
+Dialogue: 0,0:00:43.77,0:00:46.36,Flashback,Takae,0000,0000,0000,,so I do believe we should \Nstart looking into this now.
+Dialogue: 0,0:00:46.85,0:00:50.17,Flashback,Takae,0000,0000,0000,,What would you say to us \Nusing it for a trial period?
+Dialogue: 0,0:00:46.85,0:00:50.86,Signs,text,0000,0000,0000,,{\fad(1,769)\an7\b0\fs14\fnTimes New Roman\c&H525D52&\frz5.74\fax0.55\pos(87.5,124.5)}HINA Group Holdings Ltd.
+Dialogue: 0,0:00:46.85,0:00:50.86,Signs,text,0000,0000,0000,,{\fad(1,769)\an7\b0\fs13\fnTimes New Roman\c&H525D52&\fax0.55\pos(190.5,136)\frz6.606}Store Management Division
+Dialogue: 0,0:00:46.85,0:00:50.86,Signs,text,0000,0000,0000,,{\fad(1,769)\an9\b1\fs24\fnTimes New Roman\c&H525D52&\fax0.6\frz6.906\pos(444,163)}Koga Takae
+Dialogue: 0,0:00:53.66,0:00:56.51,Flashback,Keisuke,0000,0000,0000,,It may feel somewhat unfamiliar at first,
+Dialogue: 0,0:00:56.51,0:00:58.74,Flashback,Keisuke,0000,0000,0000,,but I am certain you will adjust to it quickly.
+Dialogue: 0,0:00:59.21,0:01:02.58,Flashback,Keisuke,0000,0000,0000,,If you ever encounter any problems, \Nwe will happily come to your assistance.
+Dialogue: 0,0:01:02.58,0:01:04.08,Flashback,Keisuke,0000,0000,0000,,Thank you very much.
+Dialogue: 0,0:01:05.89,0:01:10.17,Flashback,Takae,0000,0000,0000,,Good work today. \NI'm glad there was so much interest.
+Dialogue: 0,0:01:10.17,0:01:15.14,Flashback,Keisuke,0000,0000,0000,,Yes. And I appreciate you taking time \Nout of your busy schedule, Koga-san.
+Dialogue: 0,0:01:15.14,0:01:16.66,Flashback,Keisuke,0000,0000,0000,,Thank you very much.
+Dialogue: 0,0:01:19.89,0:01:21.89,Flashback,Takae,0000,0000,0000,,Now that sounds like a hungry tummy!
+Dialogue: 0,0:01:21.89,0:01:27.27,Flashback,Keisuke,0000,0000,0000,,E-Excuse me. I was so nervous this morning, \NI didn't eat anything before work.
+Dialogue: 0,0:01:27.27,0:01:29.52,Flashback,Takae,0000,0000,0000,,Do you want to get some food \Nbefore our next stop?
+Dialogue: 0,0:01:30.92,0:01:33.20,Flashback,Keisuke,0000,0000,0000,,No, I'm sure I'll be fine.
+Dialogue: 0,0:01:35.39,0:01:37.53,Flashback,Takae,0000,0000,0000,,Or, if you don't mind...
+Dialogue: 0,0:01:38.49,0:01:39.50,Flashback,Takae,0000,0000,0000,,Follow me.
+Dialogue: 0,0:01:41.90,0:01:44.20,Flashback,Keisuke,0000,0000,0000,,Wow!
+Dialogue: 0,0:01:44.66,0:01:46.11,Flashback,Keisuke,0000,0000,0000,,Is this really okay?
+Dialogue: 0,0:01:46.11,0:01:48.71,Flashback,Takae,0000,0000,0000,,If you don't mind my home cooking, sure.
+Dialogue: 0,0:01:49.16,0:01:53.25,Flashback,Takae,0000,0000,0000,,I have a company dinner afterward, \Nso I won't get a chance to eat it anyway.
+Dialogue: 0,0:01:53.25,0:01:55.86,Flashback,Keisuke,0000,0000,0000,,Then thank you very much. I will.
+Dialogue: 0,0:01:57.81,0:02:01.58,Flashback,Keisuke,0000,0000,0000,,This is great! It's totally delicious!
+Dialogue: 0,0:02:03.97,0:02:05.81,Flashback,Keisuke,0000,0000,0000,,It's so good!
+Dialogue: 0,0:02:06.19,0:02:10.71,Flashback,Keisuke,0000,0000,0000,,I'm so happy! I'm in paradise!
+Dialogue: 0,0:02:13.11,0:02:14.02,Flashback,Keisuke,0000,0000,0000,,H-Huh?
+Dialogue: 0,0:02:14.83,0:02:20.35,Flashback,Takae,0000,0000,0000,,It's nothing. It's just that I've never seen \Nanyone eat a bento with such gusto.
+Dialogue: 0,0:02:20.41,0:02:24.12,Signs,text,0000,0000,0000,,{\fad(772,894)\an7\bord0\c&HF2F4EF&\blur0.4\alpha&H22&\p1\pos(426,56.5)\fscx184\fscy215}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:02:20.41,0:02:24.12,Signs,text,0000,0000,0000,,{\fad(772,894)\fs15\an7\c&H52564F&\3c&HF2F4EF&\pos(436.5,69)}To: Koga Takae\NSub: I hope you are well\N\NHello. This is Niijima from\NHoubun Payment Service.\NI wanted to thank you for\Naccompanying me to the\Nstores and even sharing\Nyour lunch with me.\NIf you don't mind, I\Nwould love to return\Nthe favor over a meal\Nsometime. Would you...
+Dialogue: 0,0:02:21.07,0:02:24.07,Flashback,Keisuke,0000,0000,0000,,"...over a meal sometime..."
+Dialogue: 0,0:02:24.91,0:02:29.37,Flashback,Keisuke,0000,0000,0000,,No, no, no, no, no! \NI should just say thank you.
+Dialogue: 0,0:02:31.38,0:02:34.30,Signs,text,0000,0000,0000,,{\an7\bord0\c&HF2F4EF&\blur0.4\alpha&H22&\p1\pos(426,56.5)\fscx184\fscy145}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:02:31.38,0:02:34.30,Signs,text,0000,0000,0000,,{\fs17\an7\c&H52564F&\3c&HF2F4EF&\pos(436.5,69)}If you don't mind, I\Nwould love to return\Nthe favor over a meal\Nsometime. Would you\Nbe interested in joining\Nme? I look forward to\Nyour response.
+Dialogue: 0,0:02:36.46,0:02:37.94,Flashback,Keisuke,0000,0000,0000,,I sent it.
+Dialogue: 0,0:02:38.49,0:02:40.15,Flashback,Keisuke,0000,0000,0000,,Whoa!
+Dialogue: 0,0:02:40.15,0:02:41.96,Flashback,Keisuke,0000,0000,0000,,A response already?
+Dialogue: 0,0:02:49.31,0:02:50.73,Flashback,Keisuke,0000,0000,0000,,It's a miracle!
+Dialogue: 0,0:02:49.31,0:02:51.31,Signs,text,0000,0000,0000,,{\fad(1,765)\an7\bord0\c&HF2F4EF&\blur0.4\alpha&H22&\p1\pos(435,16.5)\fscx184\fscy225}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:02:49.31,0:02:51.31,Signs_Boxed,text,0000,0000,0000,,{\fad(1,765)\fs13\an7\3c&H4B4B49&\c&HF2F4EF&\pos(445.5,26)\bord1}\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hInbox\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\N\N{\bord0\c&H52564F&\3c&HF2F4EF&}From: Koga Takae\NSub: Re: I hope you are well\N\NDear Niijima-sama,\NThank you for the message,\Nand thank you very much for\Nyour assistance the other\Nday. I was relieved that you\Nenjoyed my bento so much\Nand kept it from going to\Nwaste, so I really don't expect\Nanything in return, but I was\Nnonetheless delighted to\Nreceive your invitation. I would\Nlove to join you for a meal.
+Dialogue: 0,0:02:55.73,0:02:59.29,Flashback,Keisuke,0000,0000,0000,,Look who's walking, look who's walking!
+Dialogue: 0,0:03:02.95,0:03:05.95,Flashback,Takae,0000,0000,0000,,I think you're supposed to say that \Nonce she's up on two feet.
+Dialogue: 0,0:03:06.32,0:03:07.95,Flashback,Keisuke,0000,0000,0000,,Is that right?
+Dialogue: 0,0:03:08.51,0:03:11.33,Flashback,Keisuke,0000,0000,0000,,But Mai is so good at crawling already,
+Dialogue: 0,0:03:12.06,0:03:12.96,Flashback,Keisuke,0000,0000,0000,,I just can't help it.
+Dialogue: 0,0:03:12.96,0:03:16.49,Flashback,Takae,0000,0000,0000,,You hear that? Good for you, Mai.
+Dialogue: 0,0:03:18.02,0:03:19.34,Flashback,Keisuke,0000,0000,0000,,Good morning.
+Dialogue: 0,0:03:19.84,0:03:21.74,Flashback,Mai,0000,0000,0000,,Good morning, Dad.
+Dialogue: 0,0:03:21.74,0:03:23.43,Flashback,Takae,0000,0000,0000,,You sure are up early.
+Dialogue: 0,0:03:23.43,0:03:26.81,Flashback,Keisuke,0000,0000,0000,,A delicious smell woke me up.
+Dialogue: 0,0:03:26.81,0:03:28.43,Flashback,Mai,0000,0000,0000,,Same for me!
+Dialogue: 0,0:03:30.47,0:03:32.60,Flashback,Takae,0000,0000,0000,,Well, that's what I was going for.
+Dialogue: 0,0:03:37.65,0:03:39.30,Flashback,Mai,0000,0000,0000,,I overslept!
+Dialogue: 0,0:03:39.30,0:03:40.78,Flashback,Takae,0000,0000,0000,,Don't forget your lunch!
+Dialogue: 0,0:03:41.34,0:03:43.86,Flashback,Mai,0000,0000,0000,,Thanks. See you later!
+Dialogue: 0,0:03:43.86,0:03:45.10,Flashback,Keisuke,0000,0000,0000,,Be careful, okay?
+Dialogue: 0,0:03:45.10,0:03:46.25,Flashback,Mai,0000,0000,0000,,I know already!
+Dialogue: 0,0:03:46.25,0:03:46.98,Flashback,Takae,0000,0000,0000,,Oh, dear.
+Dialogue: 0,0:03:46.98,0:03:49.32,Flashback,Keisuke,0000,0000,0000,,Oh. I've got to go, too.
+Dialogue: 0,0:03:50.93,0:03:52.75,Flashback,Takae,0000,0000,0000,,All right. Here's your bento.
+Dialogue: 0,0:03:52.75,0:03:54.21,Flashback,Keisuke,0000,0000,0000,,Thanks as always.
+Dialogue: 0,0:03:54.98,0:03:56.21,Flashback,Takae,0000,0000,0000,,No problem.
+Dialogue: 0,0:03:57.77,0:04:00.46,Flashback,Keisuke,0000,0000,0000,,You don't need to do the cooking \Nevery morning, you know.
+Dialogue: 0,0:04:00.94,0:04:02.88,Flashback,Keisuke,0000,0000,0000,,I know you're busy at work.
+Dialogue: 0,0:04:02.88,0:04:04.27,Flashback,Takae,0000,0000,0000,,It's fine.
+Dialogue: 0,0:04:04.27,0:04:08.01,Flashback,Takae,0000,0000,0000,,You act responsible, but you tend to \Nspace out sometimes, and that worries me.
+Dialogue: 0,0:04:08.70,0:04:14.04,Flashback,Takae,0000,0000,0000,,Being able to hand you a bento made with love \Ngives me one less thing to worry about.
+Dialogue: 0,0:04:14.04,0:04:17.02,Flashback,Keisuke,0000,0000,0000,,Does it? Then I guess \NI can keep counting on you.
+Dialogue: 0,0:04:19.41,0:04:20.54,Flashback,Takae,0000,0000,0000,,Of course you can.
+Dialogue: 0,0:04:21.32,0:04:23.99,FlashbackItalics,Takae,0000,0000,0000,,And I'll keep on making your lunches for you.
+Dialogue: 0,0:04:30.73,0:04:32.97,Default,Keisuke,0000,0000,0000,,Hello. This is Niijima.
+Dialogue: 0,0:04:32.97,0:04:35.54,DefaultItalics,Keisuke,0000,0000,0000,,It's been ten years now.
+Dialogue: 0,0:04:38.93,0:04:39.96,Default,Okue,0000,0000,0000,,Hey.
+Dialogue: 0,0:04:40.37,0:04:41.58,Default,Keisuke,0000,0000,0000,,Okue-san.
+Dialogue: 0,0:04:41.58,0:04:45.42,Default,Okue,0000,0000,0000,,A little something from my trip. \NShare them with your daughter.
+Dialogue: 0,0:04:45.42,0:04:46.97,Default,Keisuke,0000,0000,0000,,Thank you very much.
+Dialogue: 0,0:04:47.33,0:04:50.13,Default,Okue,0000,0000,0000,,You free after work? It's been a while.
+Dialogue: 0,0:04:50.13,0:04:51.77,Default,Keisuke,0000,0000,0000,,Ah, no.
+Dialogue: 0,0:04:52.22,0:04:53.63,Default,Keisuke,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:04:53.63,0:04:55.39,Default,Okue,0000,0000,0000,,There's no reason to apologize.
+Dialogue: 0,0:04:56.12,0:04:58.61,Default,Hoya,0000,0000,0000,,Why is the sales division \Nchief inviting him out?
+Dialogue: 0,0:04:58.61,0:05:01.71,Default,Uda,0000,0000,0000,,Niijima-san used to be in sales, too.
+Dialogue: 0,0:05:01.71,0:05:02.90,Default,Hoya,0000,0000,0000,,He was?
+Dialogue: 0,0:05:03.80,0:05:05.45,Default,Okue,0000,0000,0000,,I'll catch you next time, then.
+Dialogue: 0,0:05:09.61,0:05:14.23,DefaultItalics,Keisuke,0000,0000,0000,,Ever since that day ten years ago, \Nit's like time has stopped for me.
+Dialogue: 0,0:05:31.06,0:05:32.39,Default,Keisuke,0000,0000,0000,,I'm home.
+Dialogue: 0,0:05:33.39,0:05:34.64,Default,Mai,0000,0000,0000,,Welcome back.
+Dialogue: 0,0:05:35.63,0:05:37.70,Default,Keisuke,0000,0000,0000,,Ready for dinner?
+Dialogue: 0,0:05:37.70,0:05:38.48,Default,Mai,0000,0000,0000,,Mm-hmm.
+Dialogue: 0,0:05:52.53,0:05:54.75,Flashback,Mai,0000,0000,0000,,Mom!
+Dialogue: 0,0:05:55.20,0:05:57.75,Flashback,Keisuke,0000,0000,0000,,Takae, hey...
+Dialogue: 0,0:05:57.75,0:05:59.92,Flashback,Keisuke,0000,0000,0000,,Why?!
+Dialogue: 0,0:06:06.26,0:06:07.51,Default,Keisuke,0000,0000,0000,,Yes?
+Dialogue: 0,0:06:11.88,0:06:13.26,Default,Takae,0000,0000,0000,,I'm home.
+Dialogue: 0,0:06:13.66,0:06:14.56,Default,Keisuke,0000,0000,0000,,Huh?
+Dialogue: 0,0:06:14.99,0:06:19.09,Default,Keisuke,0000,0000,0000,,Um... Young lady, I think you \Nmight be at the wrong house—
+Dialogue: 0,0:06:19.09,0:06:22.06,Default,Takae,0000,0000,0000,,I'm not wrong! This is my house!
+Dialogue: 0,0:06:22.37,0:06:25.32,Default,Takae,0000,0000,0000,,I'm Niijima Takae! I'm your wife!
+Dialogue: 0,0:06:25.86,0:06:27.52,Default,Takae,0000,0000,0000,,I'm Mai's mother!
+Dialogue: 0,0:06:36.33,0:06:38.46,Signs,text,0000,0000,0000,,{\fad(566,1)\fnGeorgia\c&H0B0F0A&\pos(498,124)}TsumaSho
+Dialogue: 0,0:08:01.75,0:08:06.75,Signs,text,0000,0000,0000,,{\fad(398,431)\fnGeorgia\c&H0B0F0A&\fs12\fsp1.2\pos(510,38)}Episode One\N\N{\fs24}A Family Again
+Dialogue: 0,0:08:01.96,0:08:03.21,Default,Keisuke,0000,0000,0000,,Um...
+Dialogue: 0,0:08:03.21,0:08:07.50,Default,Takae,0000,0000,0000,,The platform at Kita-Asaka Station. \NThat's where you proposed to me.
+Dialogue: 0,0:08:07.93,0:08:10.34,Default,Takae,0000,0000,0000,,Our wedding anniversary is December 10th.
+Dialogue: 0,0:08:10.94,0:08:13.77,Default,Takae,0000,0000,0000,,Mai's first boyfriend was her \Nclassmate Yoshida-kun.
+Dialogue: 0,0:08:14.49,0:08:17.38,Default,Takae,0000,0000,0000,,The last family vacation we took \Nwas to the Noto Peninsula.
+Dialogue: 0,0:08:17.38,0:08:21.02,Default,Takae,0000,0000,0000,,You lost your phone and even \Nmanaged to get lost yourself,
+Dialogue: 0,0:08:21.02,0:08:23.85,Default,Takae,0000,0000,0000,,and then Mai and I really chewed you out.
+Dialogue: 0,0:08:24.35,0:08:26.02,Default,Takae,0000,0000,0000,,Do I need to keep going?
+Dialogue: 0,0:08:26.44,0:08:28.98,Default,Keisuke,0000,0000,0000,,Uh, no. But how...
+Dialogue: 0,0:08:29.33,0:08:32.20,Default,Takae,0000,0000,0000,,How am I supposed to know?
+Dialogue: 0,0:08:32.67,0:08:35.46,Default,Takae,0000,0000,0000,,I guess it's what people call "reincarnation."
+Dialogue: 0,0:08:36.41,0:08:40.29,Default,Takae,0000,0000,0000,,I died in the accident ten years ago, right?
+Dialogue: 0,0:08:40.29,0:08:44.09,Default,Takae,0000,0000,0000,,And the new me is ten \Nyears old, so it lines up.
+Dialogue: 0,0:08:44.09,0:08:47.21,Default,Takae,0000,0000,0000,,I only started to remember my \Nprevious life recently, though.
+Dialogue: 0,0:08:47.75,0:08:52.26,Default,Takae,0000,0000,0000,,I happened to be walking past here, \Nand all of a sudden, pow! It all came back.
+Dialogue: 0,0:08:52.26,0:08:54.22,Default,Keisuke,0000,0000,0000,,This is still unbelievable.
+Dialogue: 0,0:08:54.50,0:08:56.72,Default,Takae,0000,0000,0000,,Huh? What else can I say?
+Dialogue: 0,0:08:56.72,0:09:02.31,Default,Keisuke,0000,0000,0000,,No, it's unbelievable, but your \Ntone of voice, your personality...
+Dialogue: 0,0:09:03.05,0:09:04.98,Default,Keisuke,0000,0000,0000,,You are absolutely my Takae!
+Dialogue: 0,0:09:05.66,0:09:06.88,Default,Keisuke,0000,0000,0000,,Takae!
+Dialogue: 0,0:09:07.98,0:09:11.44,Default,Takae,0000,0000,0000,,Well, now that I got you to believe me...
+Dialogue: 0,0:09:11.82,0:09:14.19,Default,Takae,0000,0000,0000,,What's all this tasteless junk \Nyou got for dinner?!
+Dialogue: 0,0:09:14.19,0:09:18.66,Default,Takae,0000,0000,0000,,You'd better not tell me you've been eating \Nconvenience store food ever since I died!
+Dialogue: 0,0:09:18.66,0:09:23.24,Default,Takae,0000,0000,0000,,I thought we decided that no matter what \Nhappened, we'd eat balanced meals for dinner!
+Dialogue: 0,0:09:23.24,0:09:28.17,Default,Takae,0000,0000,0000,,Even if it's something simple! I told you \Nhow important that is for a family, didn't I?
+Dialogue: 0,0:09:28.66,0:09:29.63,Default,Takae,0000,0000,0000,,And you, Mai!
+Dialogue: 0,0:09:31.18,0:09:33.37,Default,Takae,0000,0000,0000,,Are you working now?
+Dialogue: 0,0:09:33.37,0:09:36.17,Default,Mai,0000,0000,0000,,Um, just some remote work from home...
+Dialogue: 0,0:09:36.17,0:09:41.15,Default,Takae,0000,0000,0000,,Huh?! You can't waste your twenties \Nshut in the house all the time!
+Dialogue: 0,0:09:41.15,0:09:43.22,Default,Takae,0000,0000,0000,,You gotta go out and hunt! Hunt!
+Dialogue: 0,0:09:43.22,0:09:44.22,Default,Mai,0000,0000,0000,,"Hunt"?
+Dialogue: 0,0:09:44.22,0:09:48.73,Default,Takae,0000,0000,0000,,When I was your age, I was dying to \Nfool around and hop from man to man
+Dialogue: 0,0:09:48.73,0:09:50.42,Default,Takae,0000,0000,0000,,like there was no tomorrow!
+Dialogue: 0,0:09:50.42,0:09:53.23,Default,Takae,0000,0000,0000,,Of course, I didn't because \NI met your father, but...
+Dialogue: 0,0:09:53.98,0:09:58.52,Default,Takae,0000,0000,0000,,Mai, you're lucky enough to be blessed \Nwith your mother's good looks,
+Dialogue: 0,0:09:58.52,0:10:00.62,Default,Takae,0000,0000,0000,,so please don't let your youth go to waste.
+Dialogue: 0,0:10:01.82,0:10:02.60,Default,Mai,0000,0000,0000,,Okay.
+Dialogue: 0,0:10:04.70,0:10:08.12,Default,Takae,0000,0000,0000,,All right, then. Back to \Nmy current home for now.
+Dialogue: 0,0:10:08.66,0:10:11.43,Default,Takae,0000,0000,0000,,But we're going to do something \Nabout that diet of yours.
+Dialogue: 0,0:10:11.82,0:10:14.59,Default,Takae,0000,0000,0000,,On Mondays, Wednesdays, \Nand Thursdays, I'll make bentos.
+Dialogue: 0,0:10:14.59,0:10:16.59,Default,Keisuke,0000,0000,0000,,Thanks. I'd appreciate that.
+Dialogue: 0,0:10:16.99,0:10:19.26,Default,Takae,0000,0000,0000,,And I know how this looks,
+Dialogue: 0,0:10:19.26,0:10:23.35,Default,Takae,0000,0000,0000,,but I'm honestly very happy that \NI get to see you two grow older.
+Dialogue: 0,0:10:26.03,0:10:27.31,Default,Takae,0000,0000,0000,,I'll come back soon.
+Dialogue: 0,0:10:30.84,0:10:33.69,Default,Mai,0000,0000,0000,,It really... is Mom.
+Dialogue: 0,0:10:37.33,0:10:38.57,Default,Keisuke,0000,0000,0000,,Takae!
+Dialogue: 0,0:10:44.64,0:10:47.89,Default,Takae,0000,0000,0000,,Now, stop that. \NYou could get reported for this.
+Dialogue: 0,0:10:47.89,0:10:51.04,Default,Keisuke,0000,0000,0000,,I missed you so much, Takae!
+Dialogue: 0,0:10:51.65,0:10:54.29,Default,Keisuke,0000,0000,0000,,You were everything to me!
+Dialogue: 0,0:10:54.29,0:10:58.26,Default,Keisuke,0000,0000,0000,,Being with you was my \Nentire reason for living!
+Dialogue: 0,0:10:58.62,0:11:02.89,Default,Takae,0000,0000,0000,,Well, that's not very encouraging. \NYou never know where life will take you.
+Dialogue: 0,0:11:02.89,0:11:07.43,Default,Takae,0000,0000,0000,,Even if you try to run a three-legged race, \Nsometimes the strap connecting you breaks.
+Dialogue: 0,0:11:08.21,0:11:09.94,Default,Takae,0000,0000,0000,,But that's marriage, isn't it?
+Dialogue: 0,0:11:10.29,0:11:14.09,Default,Takae,0000,0000,0000,,If you were to just hit rock bottom on your own, that'd be one thing,
+Dialogue: 0,0:11:14.09,0:11:15.90,Default,Takae,0000,0000,0000,,but what about Mai?
+Dialogue: 0,0:11:16.61,0:11:20.40,Default,Takae,0000,0000,0000,,Can you please not let your own \Nnegligence ruin Mai's life, too?
+Dialogue: 0,0:11:22.07,0:11:25.71,Default,Keisuke,0000,0000,0000,,You're absolutely right. I apologize.
+Dialogue: 0,0:11:25.71,0:11:29.18,Default,Keisuke,0000,0000,0000,,I'm just so truly grateful that you came back.
+Dialogue: 0,0:11:29.93,0:11:32.79,Default,Takae,0000,0000,0000,,Well, actions speak louder than words.
+Dialogue: 0,0:11:33.21,0:11:37.40,Default,Takae,0000,0000,0000,,I really had hoped you would \Nboth move past my death.
+Dialogue: 0,0:11:38.04,0:11:40.76,Default,Takae,0000,0000,0000,,So if you {\i1}are{\i0} truly grateful,
+Dialogue: 0,0:11:41.37,0:11:46.01,Default,Takae,0000,0000,0000,,change your attitude and show me that you \Nknow you have a future worth living for!
+Dialogue: 0,0:11:47.09,0:11:50.96,Default,Takae,0000,0000,0000,,After all, I didn't choose to come back. \NThis is just some random miracle.
+Dialogue: 0,0:11:51.88,0:11:55.65,Default,Takae,0000,0000,0000,,And I'm the daughter of \Na different family now.
+Dialogue: 0,0:11:56.68,0:12:00.35,Default,Takae,0000,0000,0000,,So try to do your best, Keisuke, Mai.
+Dialogue: 0,0:12:03.82,0:12:04.96,Default,Mai,0000,0000,0000,,Dad...
+Dialogue: 0,0:12:10.19,0:12:11.36,Default,Keisuke,0000,0000,0000,,Takae!
+Dialogue: 0,0:12:12.46,0:12:15.96,Default,Keisuke,0000,0000,0000,,You are absolutely right! \NI promise I'll show you!
+Dialogue: 0,0:12:15.96,0:12:18.58,Default,Mai,0000,0000,0000,,I'll do my best, too, Mom!
+Dialogue: 0,0:12:18.58,0:12:19.96,Default,Takae,0000,0000,0000,,Keep your voices down!
+Dialogue: 0,0:12:21.19,0:12:23.27,Default,Mai,0000,0000,0000,,See you later, Mom!
+Dialogue: 0,0:12:21.19,0:12:23.62,Default,Keisuke,0000,0000,0000,,Thank you, Takae!
+Dialogue: 0,0:12:23.62,0:12:26.31,Default,Takae,0000,0000,0000,,Enough already! Bye!
+Dialogue: 0,0:12:34.78,0:12:38.57,Default,Keisuke,0000,0000,0000,,Hoya-kun, have you finished \Ninspecting the new cards yet?
+Dialogue: 0,0:12:38.57,0:12:41.97,Default,Hoya,0000,0000,0000,,Ah, my apologies. I'm not done yet.
+Dialogue: 0,0:12:41.97,0:12:44.28,Default,Keisuke,0000,0000,0000,,Oh, I'm not trying to rush you.
+Dialogue: 0,0:12:44.65,0:12:48.28,Default,Keisuke,0000,0000,0000,,But my work is nearly done, \Nso I'll help you out.
+Dialogue: 0,0:12:48.82,0:12:50.49,Default,Hoya,0000,0000,0000,,Thank you very much!
+Dialogue: 0,0:12:50.49,0:12:53.77,Default,Keisuke,0000,0000,0000,,Oh, but first I'm off to eat lunch.
+Dialogue: 0,0:12:55.11,0:12:56.28,Default,Hoya,0000,0000,0000,,See you afterward.
+Dialogue: 0,0:12:58.85,0:13:02.30,Default,Hoya,0000,0000,0000,,I'm still not used to Niijima-san \Nchatting with me like this,
+Dialogue: 0,0:13:02.30,0:13:04.55,Default,Hoya,0000,0000,0000,,but he sure is a fast worker.
+Dialogue: 0,0:13:04.83,0:13:07.86,Default,Uda,0000,0000,0000,,It sounds like he used to be very productive.
+Dialogue: 0,0:13:13.14,0:13:17.06,Default,Keisuke,0000,0000,0000,,And here I thought I'd never get \Nto eat another one of her lunches.
+Dialogue: 0,0:13:17.99,0:13:19.44,Flashback,Takae,0000,0000,0000,,Here's your bento.
+Dialogue: 0,0:13:19.82,0:13:22.76,Flashback,Takae,0000,0000,0000,,It sure was hard to make in such a short body.
+Dialogue: 0,0:13:22.76,0:13:25.21,Flashback,Takae,0000,0000,0000,,Eat it and build up some energy.
+Dialogue: 0,0:13:31.14,0:13:33.46,DefaultItalics,Keisuke,0000,0000,0000,,It's good! It's too good!
+Dialogue: 0,0:13:35.05,0:13:36.92,Default,Moriya,0000,0000,0000,,What a lovely-looking bento.
+Dialogue: 0,0:13:37.25,0:13:38.88,Default,Keisuke,0000,0000,0000,,Moriya-kun...
+Dialogue: 0,0:13:39.54,0:13:41.25,Default,Moriya,0000,0000,0000,,May I sit with you?
+Dialogue: 0,0:13:41.67,0:13:43.26,Default,Keisuke,0000,0000,0000,,Be my guest.
+Dialogue: 0,0:13:46.41,0:13:50.27,Default,Moriya,0000,0000,0000,,Niijima-san, did something \Ngood happen to you recently?
+Dialogue: 0,0:13:51.72,0:13:54.94,Default,Moriya,0000,0000,0000,,Oh, I'm sorry! I didn't mean to surprise you!
+Dialogue: 0,0:13:54.94,0:13:56.27,Default,Keisuke,0000,0000,0000,,I'm all right.
+Dialogue: 0,0:13:57.30,0:14:00.73,Default,Moriya,0000,0000,0000,,You just seem to have changed.
+Dialogue: 0,0:14:00.73,0:14:04.73,Default,Keisuke,0000,0000,0000,,Maybe I have. How do I explain this...
+Dialogue: 0,0:14:05.07,0:14:09.16,Default,Keisuke,0000,0000,0000,,I had something precious \Nthat I thought I'd lost forever,
+Dialogue: 0,0:14:10.09,0:14:13.16,Default,Keisuke,0000,0000,0000,,but then something appeared \Nand filled that hole in my life.
+Dialogue: 0,0:14:13.46,0:14:17.54,Default,Keisuke,0000,0000,0000,,And all of a sudden, I started to look \Nforward to living each day again.
+Dialogue: 0,0:14:18.25,0:14:23.80,Default,Moriya,0000,0000,0000,,That sounds wonderful. \NWould you mind if I asked what happened?
+Dialogue: 0,0:14:25.10,0:14:26.92,Default,Keisuke,0000,0000,0000,,I can't talk about it now.
+Dialogue: 0,0:14:26.92,0:14:28.03,Default,Moriya,0000,0000,0000,,Huh?
+Dialogue: 0,0:14:28.03,0:14:33.93,Default,Keisuke,0000,0000,0000,,It's just such a fortuitous miracle that \NI feel like if I tell anyone about it,
+Dialogue: 0,0:14:33.93,0:14:38.12,Default,Keisuke,0000,0000,0000,,it'll go "poof" and disappear \Nas if it never happened.
+Dialogue: 0,0:14:39.86,0:14:42.89,Default,Moriya,0000,0000,0000,,All right, then. I won't ask.
+Dialogue: 0,0:14:42.89,0:14:45.16,Default,Keisuke,0000,0000,0000,,Sorry, Moriya-kun.
+Dialogue: 0,0:14:45.16,0:14:47.44,Default,Moriya,0000,0000,0000,,It's fine. But I'm still glad.
+Dialogue: 0,0:14:47.96,0:14:52.59,Default,Moriya,0000,0000,0000,,I don't think I've ever seen you smile \Nbefore now, so it's a real relief.
+Dialogue: 0,0:14:54.21,0:14:56.70,Default,Keisuke,0000,0000,0000,,That's very kind of you, Moriya-kun.
+Dialogue: 0,0:14:56.70,0:15:00.50,Default,Moriya,0000,0000,0000,,Oh, well, it's not as if I'm \Nwatching {\i1}everyone{\i0} like that.
+Dialogue: 0,0:15:00.50,0:15:01.48,Default,Keisuke,0000,0000,0000,,Huh?
+Dialogue: 0,0:15:01.48,0:15:04.71,Default,Moriya,0000,0000,0000,,Huh? Oh, listen to me, blabbing on.
+Dialogue: 0,0:15:05.06,0:15:09.08,Default,Moriya,0000,0000,0000,,I just never get the chance to eat with \Nanyone anymore, so I'm really enjoying this.
+Dialogue: 0,0:15:09.08,0:15:10.22,Default,Moriya,0000,0000,0000,,Let's eat.
+Dialogue: 0,0:15:10.22,0:15:11.06,Default,Keisuke,0000,0000,0000,,Yeah.
+Dialogue: 0,0:15:13.43,0:15:16.20,Default,Keisuke,0000,0000,0000,,Moriya-kun, do you make your own bentos?
+Dialogue: 0,0:15:16.20,0:15:20.23,Default,Moriya,0000,0000,0000,,Yes, but I don't know anyone else who does.
+Dialogue: 0,0:15:20.84,0:15:23.06,Default,Keisuke,0000,0000,0000,,I think it's great that you're so responsible.
+Dialogue: 0,0:15:23.46,0:15:26.36,Default,Moriya,0000,0000,0000,,Thank you for the compliment, \Nbut I really don't deserve it.
+Dialogue: 0,0:15:27.26,0:15:30.57,Default,Keisuke,0000,0000,0000,,No, I honestly do think it's impressive.
+Dialogue: 0,0:15:31.33,0:15:36.01,Default,Keisuke,0000,0000,0000,,Getting up early, even when tired, \Nand working with such small hands...
+Dialogue: 0,0:15:38.29,0:15:39.40,Default,Moriya,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:15:39.40,0:15:44.46,Default,Keisuke,0000,0000,0000,,Oh, nothing. I just have a lot of respect \Nfor people willing to do all that cooking.
+Dialogue: 0,0:15:44.46,0:15:49.46,Default,Moriya,0000,0000,0000,,That's about the nicest thing you could say \Nto someone who makes their own lunches.
+Dialogue: 0,0:15:49.81,0:15:51.30,Default,Keisuke,0000,0000,0000,,Oh, I don't know.
+Dialogue: 0,0:15:51.30,0:15:55.81,Default,Moriya,0000,0000,0000,,Niijima-san, would you mind \Nif we became bento buddies?
+Dialogue: 0,0:15:55.81,0:15:58.43,Default,Keisuke,0000,0000,0000,,Huh? Bento buddies?
+Dialogue: 0,0:15:58.83,0:16:03.65,Default,Moriya,0000,0000,0000,,Talking to you has gotten me all fired \Nup to make more bento lunches!
+Dialogue: 0,0:16:03.65,0:16:05.97,Default,Moriya,0000,0000,0000,,I would love to eat together again.
+Dialogue: 0,0:16:05.97,0:16:08.50,Default,Keisuke,0000,0000,0000,,If that's all right with you, I'd be happy to.
+Dialogue: 0,0:16:08.50,0:16:10.96,Default,Keisuke,0000,0000,0000,,I'll be eating here every Monday, \NWednesday, and Thursday.
+Dialogue: 0,0:16:10.96,0:16:12.61,Default,Moriya,0000,0000,0000,,Thank you very much!
+Dialogue: 0,0:16:15.96,0:16:20.00,Default,Takae,0000,0000,0000,,Hmm... I'm not used to not having \Nphysical buttons on these things.
+Dialogue: 0,0:16:20.40,0:16:23.36,Default,Keisuke,0000,0000,0000,,Are you sure you don't want \None with cell service?
+Dialogue: 0,0:16:23.87,0:16:28.16,Default,Takae,0000,0000,0000,,It would be a huge problem if I got caught \Nwith a phone registered in your name.
+Dialogue: 0,0:16:28.16,0:16:31.09,Default,Takae,0000,0000,0000,,As long as I have Wi-Fi, I should be fine.
+Dialogue: 0,0:16:31.39,0:16:34.48,Default,Keisuke,0000,0000,0000,,That's my Takae! You're so responsible!
+Dialogue: 0,0:16:34.48,0:16:37.34,Default,Takae,0000,0000,0000,,Only because you're so bad at risk management.
+Dialogue: 0,0:16:39.95,0:16:43.60,Default,Takae,0000,0000,0000,,Ugh. My hands are so small, \Nmy fingers don't even reach.
+Dialogue: 0,0:16:43.60,0:16:46.56,Default,Takae,0000,0000,0000,,Huh? What in the world did I just press?
+Dialogue: 0,0:16:49.82,0:16:53.05,Default,Takae,0000,0000,0000,,Hey! Who said you could take my picture?!
+Dialogue: 0,0:16:53.05,0:16:55.82,Default,Keisuke,0000,0000,0000,,Well, I thought I'd make it my new wallpaper.
+Dialogue: 0,0:16:55.82,0:16:57.54,Default,Takae,0000,0000,0000,,Do you hear yourself?
+Dialogue: 0,0:16:57.54,0:17:00.91,Default,Takae,0000,0000,0000,,What are you going to tell people \Nat the office if they see that?
+Dialogue: 0,0:17:00.91,0:17:03.14,Default,Keisuke,0000,0000,0000,,That it's a picture of my wife, of course!
+Dialogue: 0,0:17:03.14,0:17:03.87,Default,Takae,0000,0000,0000,,Are you stupid?
+Dialogue: 0,0:17:04.20,0:17:07.52,Default,Takae,0000,0000,0000,,You'll get reported to the police! \NDelete that, now!
+Dialogue: 0,0:17:08.22,0:17:10.03,Default,Keisuke,0000,0000,0000,,I'm not deleting anything!
+Dialogue: 0,0:17:10.03,0:17:12.34,Default,Takae,0000,0000,0000,,You need to think about the risks!
+Dialogue: 0,0:17:12.34,0:17:12.94,Default,Keisuke,0000,0000,0000,,It'll be fine!
+Dialogue: 0,0:17:12.94,0:17:14.80,Default,Mai,0000,0000,0000,,Oh, you're here, Mom?
+Dialogue: 0,0:17:15.18,0:17:16.90,Default,Takae,0000,0000,0000,,Welcome back, Mai!
+Dialogue: 0,0:17:16.90,0:17:20.80,Default,Takae,0000,0000,0000,,Keisuke told me the whole story. \NSo you're looking for a new job?
+Dialogue: 0,0:17:20.80,0:17:23.77,Default,Mai,0000,0000,0000,,Yeah. I just started, though.
+Dialogue: 0,0:17:24.74,0:17:27.86,Default,Takae,0000,0000,0000,,Hey, turn around and show \Nme what you've got there.
+Dialogue: 0,0:17:30.21,0:17:32.69,Default,Mai,0000,0000,0000,,What? It's just a plain old suit.
+Dialogue: 0,0:17:32.96,0:17:34.94,Default,Takae,0000,0000,0000,,Aww, you look lovely.
+Dialogue: 0,0:17:34.94,0:17:37.15,Default,Takae,0000,0000,0000,,Next, put your hand on your hip.
+Dialogue: 0,0:17:37.15,0:17:38.78,Default,Mai,0000,0000,0000,,This is embarrassing!
+Dialogue: 0,0:17:39.24,0:17:42.16,Default,Keisuke,0000,0000,0000,,Okay! Today, let's go all-out \Nand make katsudon!
+Dialogue: 0,0:17:42.66,0:17:45.16,Default,Keisuke,0000,0000,0000,,The pork cutlets will be \Nthe ready-made type, though.
+Dialogue: 0,0:17:47.61,0:17:49.58,Default,Mai,0000,0000,0000,,All right, I'll make a salad.
+Dialogue: 0,0:17:57.02,0:18:02.08,Default,Keisuke,0000,0000,0000,,Takae! I thought you weren't coming today.
+Dialogue: 0,0:18:02.08,0:18:03.77,Default,Takae,0000,0000,0000,,My schedule opened up.
+Dialogue: 0,0:18:04.18,0:18:07.85,Default,Takae,0000,0000,0000,,And I really wanted to use up \Nthe leftovers from last night.
+Dialogue: 0,0:18:08.14,0:18:12.78,Default,Keisuke,0000,0000,0000,,That's what you're saying, but I know \Nyou really just wanted to see me.
+Dialogue: 0,0:18:12.78,0:18:14.78,Default,Takae,0000,0000,0000,,What are you talking about? Don't be a creep!
+Dialogue: 0,0:18:15.50,0:18:18.50,Default,Takae,0000,0000,0000,,Great. You've got your lunch now, \Nso get a move on.
+Dialogue: 0,0:18:18.50,0:18:20.33,Default,Keisuke,0000,0000,0000,,All right. Thanks!
+Dialogue: 0,0:18:27.91,0:18:29.80,Default,Keisuke,0000,0000,0000,,I'm going to lunch.
+Dialogue: 0,0:18:37.14,0:18:38.14,Default,Moriya,0000,0000,0000,,Niijima-san?
+Dialogue: 0,0:18:39.33,0:18:40.85,Default,Keisuke,0000,0000,0000,,Moriya-kun?
+Dialogue: 0,0:18:40.85,0:18:45.98,Default,Moriya,0000,0000,0000,,Um, I actually made two bentos today.
+Dialogue: 0,0:18:45.98,0:18:49.48,Default,Moriya,0000,0000,0000,,If you don't mind, \Nwould you like to eat them together?
+Dialogue: 0,0:18:49.84,0:18:52.98,Default,Keisuke,0000,0000,0000,,Huh? You went to the trouble \Nof making me one, too?
+Dialogue: 0,0:18:52.98,0:18:56.28,Default,Moriya,0000,0000,0000,,I live alone, and I ended up with \Ntoo much for just one person.
+Dialogue: 0,0:18:56.93,0:18:59.24,Default,Moriya,0000,0000,0000,,This is one of the days \Nyou don't bring lunch, right?
+Dialogue: 0,0:19:01.69,0:19:05.24,Default,Moriya,0000,0000,0000,,Oh, I'm sorry. I don't mean to be pushy.
+Dialogue: 0,0:19:05.85,0:19:11.50,Default,Keisuke,0000,0000,0000,,No, actually, thank you. Since you did \Nall that work, I think I'd love one.
+Dialogue: 0,0:19:15.51,0:19:18.55,Default,Takae,0000,0000,0000,,He sure is late. Overtime, maybe?
+Dialogue: 0,0:19:18.91,0:19:22.05,DefaultItalics,Takae,0000,0000,0000,,If I'm not home soon, I'll get in trouble.
+Dialogue: 0,0:19:22.48,0:19:25.01,DefaultItalics,Takae,0000,0000,0000,,I should start heading toward the station.
+Dialogue: 0,0:19:42.36,0:19:44.72,Default,Takae,0000,0000,0000,,Why, you...
+Dialogue: 0,0:19:44.72,0:19:46.87,Default,Keisuke,0000,0000,0000,,I give! I give! I give!
+Dialogue: 0,0:19:48.26,0:19:49.82,Default,Keisuke,0000,0000,0000,,Huh? Oh, Takae?
+Dialogue: 0,0:19:49.82,0:19:54.69,Default,Takae,0000,0000,0000,,Why are you eating here of all places? \NWeren't you able to eat at lunch?
+Dialogue: 0,0:19:54.69,0:19:58.38,Default,Keisuke,0000,0000,0000,,Oh, well... I have a younger coworker \Nwho made an extra bento for me today.
+Dialogue: 0,0:19:58.78,0:20:02.59,Default,Keisuke,0000,0000,0000,,I thought it would be good chance \Nto socialize, so I ate that one instead.
+Dialogue: 0,0:20:03.66,0:20:06.26,Default,Takae,0000,0000,0000,,Is that coworker a woman, by any chance?
+Dialogue: 0,0:20:06.58,0:20:07.18,Default,Keisuke,0000,0000,0000,,Yeah.
+Dialogue: 0,0:20:07.69,0:20:08.39,Default,Takae,0000,0000,0000,,How old?
+Dialogue: 0,0:20:08.78,0:20:12.14,Default,Keisuke,0000,0000,0000,,Uh, late twenties, I'd guess.
+Dialogue: 0,0:20:12.14,0:20:13.14,Default,Takae,0000,0000,0000,,And single?
+Dialogue: 0,0:20:13.53,0:20:15.02,Default,Keisuke,0000,0000,0000,,I'm pretty sure she's unmarried.
+Dialogue: 0,0:20:15.02,0:20:17.71,Default,Takae,0000,0000,0000,,Are you telling me that you...
+Dialogue: 0,0:20:20.84,0:20:23.15,Default,Takae,0000,0000,0000,,Ugh. It doesn't matter.
+Dialogue: 0,0:20:23.15,0:20:27.25,Default,Takae,0000,0000,0000,,If that happens, you don't need \Nto force yourself to eat mine.
+Dialogue: 0,0:20:27.25,0:20:31.75,Default,Takae,0000,0000,0000,,What kind of adult eats bentos alone \Nin a park at this time of day, anyway?
+Dialogue: 0,0:20:32.09,0:20:34.30,Default,Takae,0000,0000,0000,,Don't you have any shame?
+Dialogue: 0,0:20:34.75,0:20:37.05,Default,Keisuke,0000,0000,0000,,Indeed, this is embarrassing.
+Dialogue: 0,0:20:37.05,0:20:42.71,Default,Keisuke,0000,0000,0000,,But I'd rather do this than waste the bento \Nyou put all that work into making for me.
+Dialogue: 0,0:20:44.29,0:20:49.58,Default,Keisuke,0000,0000,0000,,The only thing I really hate is not being able \Nto say my wife made it for me with love!
+Dialogue: 0,0:20:49.58,0:20:52.09,Default,Keisuke,0000,0000,0000,,My beloved wife made this! For me!
+Dialogue: 0,0:20:52.09,0:20:55.02,Default,Takae,0000,0000,0000,,Would you quit calling me your wife in public?
+Dialogue: 0,0:20:55.02,0:20:59.90,Default,Takae,0000,0000,0000,,People will think you're a pervert! \NWhy can't you figure that out?
+Dialogue: 0,0:21:01.47,0:21:05.91,Default,Keisuke,0000,0000,0000,,Because you already \Ndisappeared from my life once.
+Dialogue: 0,0:21:06.86,0:21:10.37,Default,Keisuke,0000,0000,0000,,Ten years ago, I learned a very painful lesson.
+Dialogue: 0,0:21:11.09,0:21:13.64,Default,Keisuke,0000,0000,0000,,That even when you think \Nyou'll be with someone forever,
+Dialogue: 0,0:21:14.12,0:21:18.46,Default,Keisuke,0000,0000,0000,,they can still disappear from \Nyour life at any moment.
+Dialogue: 0,0:21:19.64,0:21:22.01,Default,Keisuke,0000,0000,0000,,I don't want to have any more regrets.
+Dialogue: 0,0:21:22.93,0:21:29.14,Default,Keisuke,0000,0000,0000,,I want to treasure the time we have together \Nand not spoil it with lies and deception!
+Dialogue: 0,0:21:30.44,0:21:32.64,Default,Keisuke,0000,0000,0000,,Every minute. Each and every second!
+Dialogue: 0,0:21:34.93,0:21:37.52,Default,Takae,0000,0000,0000,,Fine. All right.
+Dialogue: 0,0:21:38.12,0:21:41.52,Default,Takae,0000,0000,0000,,That is just like you, I suppose.
+Dialogue: 0,0:21:46.74,0:21:49.53,Default,Takae,0000,0000,0000,,You sure do love me, don't you?
+Dialogue: 0,0:21:52.07,0:21:55.04,Default,Keisuke,0000,0000,0000,,What, you never even noticed?
+Dialogue: 0,0:21:56.41,0:21:58.64,Default,Takae,0000,0000,0000,,No, I knew.
+Dialogue: 0,0:21:59.47,0:22:02.16,Default,Takae,0000,0000,0000,,I've always known.
