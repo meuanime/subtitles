@@ -1,0 +1,312 @@
+﻿[Script Info]
+Title: [Erai-raws] Português (Brasil)
+ScaledBorderAndShadow: yes
+
+Original Translation: Gustavo Hoffmann
+Original Editing: José Sassi
+Original Timing: 
+Synch Point: 
+Script Updated By: Gustavo Iracema
+Update Details: Produção: Gustavo Hoffmann
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H78171718,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,0
+Style: Italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H78171718,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,0
+Style: Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H78171718,-1,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0015,0
+Style: Top Italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H78171718,-1,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0015,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.08,0:00:05.07,Italics,Aiba,0000,0000,0000,,Então ele está fazendo\Nesses drifts de propósito?
+Dialogue: 0,0:00:05.07,0:00:10.93,Italics,Aiba,0000,0000,0000,,É sério que ele está tentando\Npassar assim pela Zona da Morte?
+Dialogue: 0,0:00:11.42,0:00:12.99,Top Italics,Commentator,0000,0000,0000,,Opa! Olha só!
+Dialogue: 0,0:00:13.26,0:00:18.41,Top Italics,Commentator,0000,0000,0000,,A bandeira de atenção que o 86 tinha\Nperdido na entrada da Zona da Morte voltou!
+Dialogue: 0,0:00:18.77,0:00:23.75,Italics,Joyu,0000,0000,0000,,Isso é com certeza o zero-counter\Ndrift do Takumi Fujiwara...
+Dialogue: 0,0:00:24.17,0:00:29.33,Italics,Joyu,0000,0000,0000,,É como se o especialista na descida invencível\Ndo Projeto D tivesse aparecido em Ashinoko.
+Dialogue: 0,0:00:30.05,0:00:35.76,Italics,Beckenbauer,0000,0000,0000,,Eu soube que as pessoas ficaram empolgados com\No garoto doido que fazia drifts em toda curva.
+Dialogue: 0,0:00:36.33,0:00:40.00,Italics,Beckenbauer,0000,0000,0000,,Mas contra uma suspensão criada pelos\Ntalentosos pilotos de testes da Porsche,
+Dialogue: 0,0:00:40.00,0:00:42.00,Italics,Beckenbauer,0000,0000,0000,,os esforços dele não servirão de nada!
+Dialogue: 0,0:00:42.97,0:00:45.28,Top Italics,Commentator,0000,0000,0000,,E agora, a reta final!
+Dialogue: 0,0:00:45.28,0:00:47.65,Top Italics,Commentator,0000,0000,0000,,É só um motor de 2,5 litros,
+Dialogue: 0,0:00:47.65,0:00:49.90,Top Italics,Commentator,0000,0000,0000,,mas a transmissão PDK powertrain
+Dialogue: 0,0:00:49.90,0:00:53.27,Top Italics,Commentator,0000,0000,0000,,de 7 velocidades da Porsche\Ndá a ele uma velocidade incrível!
+Dialogue: 0,0:00:53.80,0:00:59.45,Top Italics,Commentator,0000,0000,0000,,Nunca tive dúvidas! Esse ciborgue\Nalemão mostrou sua velocidade!
+Dialogue: 0,0:01:00.00,0:01:03.01,Top Italics,Commentator,0000,0000,0000,,Michael Beckenbauer\Nassume a pole position!
+Dialogue: 0,0:01:03.01,0:01:08.46,Top Italics,Commentator,0000,0000,0000,,Mas Koki Sawatari em segundo marcou\Num fantástico recorde do percurso.
+Dialogue: 0,0:01:08.70,0:01:14.01,Top Italics,Commentator,0000,0000,0000,,Em meio a uma batalha de titãs, está Kanata\NKatagiri, que garantiu a décima posição!
+Dialogue: 0,0:01:14.01,0:01:16.84,Default,Sign,0000,0000,0000,,{\fnTimes New Roman\bord0\shad0\blur0.3\fsp4\fay-0.046\fs13\c&H878382&\pos(546.667,222.667)}Estação de Kamakura
+Dialogue: 0,0:01:14.52,0:01:20.16,Top Italics,Commentator,0000,0000,0000,,Essa nova classe da velocidade\Nvai abalar a hierarquia da MFG!
+Dialogue: 0,0:01:20.16,0:01:24.99,Top Italics,Commentator,0000,0000,0000,,As coisas estão começando bem na\Npreparação para o GT do Lago Ashinoko!
+Dialogue: 0,0:01:32.57,0:01:36.11,Default,Ren,0000,0000,0000,,Sabe, a Wakana estava\Nsendo {\i1}tão{\i0} do caramba!
+Dialogue: 0,0:01:36.11,0:01:40.95,Default,Kanata,0000,0000,0000,,{\fnTimes New Roman}Sorry. {\fnTrebuchet MS}Eu ainda não entendo que\Nhoras eu deveria usar "do caramba".
+Dialogue: 0,0:01:40.95,0:01:42.33,Default,Ren,0000,0000,0000,,Sério?
+Dialogue: 0,0:01:42.57,0:01:47.44,Default,Ren,0000,0000,0000,,Bem, vejamos... Usamos para descrever\Numa música muito boa, por exemplo.
+Dialogue: 0,0:01:47.44,0:01:52.34,Default,Ren,0000,0000,0000,,Ou quando você vai para um lugar que nunca foi\Nantes e é tão bom que você chega a ficar surpreso.
+Dialogue: 0,0:01:52.34,0:01:53.92,Default,Kanata,0000,0000,0000,,Ah, entendi.
+Dialogue: 0,0:01:53.92,0:01:56.15,Default,Ren,0000,0000,0000,,Fora isso, deixa eu pensar...
+Dialogue: 0,0:01:56.15,0:01:59.04,Default,Ren,0000,0000,0000,,Você pode usar quando alguém\Nnão tem muita noção de moda.
+Dialogue: 0,0:01:59.04,0:02:01.71,Default,Ren,0000,0000,0000,,Ou quando tira uma\Nnota ruim numa prova.
+Dialogue: 0,0:02:02.22,0:02:05.12,Italics,Kanata,0000,0000,0000,,Mas esses exemplos são exatamente\No contrário dos últimos dois...
+Dialogue: 0,0:02:05.12,0:02:09.32,Italics,Kanata,0000,0000,0000,,Acho que essa palavra é um pouco\Ncomplicada demais para eu dominar.
+Dialogue: 0,0:02:24.26,0:02:25.95,Default,Kanata,0000,0000,0000,,Eu queria perguntar uma coisa, Ren.
+Dialogue: 0,0:02:25.95,0:02:27.48,Default,Ren,0000,0000,0000,,O que foi?
+Dialogue: 0,0:02:27.48,0:02:30.47,Default,Kanata,0000,0000,0000,,Vou receber o pagamento\Ndo meu trabalho em breve.
+Dialogue: 0,0:02:30.47,0:02:32.42,Default,Ren,0000,0000,0000,,Ah, seu salário?
+Dialogue: 0,0:02:32.69,0:02:37.16,Default,Kanata,0000,0000,0000,,Eu gostaria de usar esse dinheiro para\Nrecompensar a família Saionji pela hospitalidade
+Dialogue: 0,0:02:37.16,0:02:39.68,Default,Kanata,0000,0000,0000,,convidando vocês para jantar.
+Dialogue: 0,0:02:40.94,0:02:42.79,Default,Ren,0000,0000,0000,,Você não pode fazer {\i1}isso{\i0}.
+Dialogue: 0,0:02:42.79,0:02:47.13,Default,Ren,0000,0000,0000,,Você trabalhou duro pelo dinheiro.\NDeveria gastar com você.
+Dialogue: 0,0:02:47.13,0:02:50.08,Default,Kanata,0000,0000,0000,,Não, eu decidi há muito tempo.
+Dialogue: 0,0:02:50.48,0:02:56.44,Default,Kanata,0000,0000,0000,,Queria pedir para me ajudar\Na escolher um restaurante...
+Dialogue: 0,0:02:56.83,0:03:01.12,Default,Kanata,0000,0000,0000,,Tem algum lugar que sua\Nfamília gosta e visita bastante?
+Dialogue: 0,0:03:01.47,0:03:04.91,Italics,Ren,0000,0000,0000,,Kanata, você é mesmo um bom garoto...
+Dialogue: 0,0:03:05.24,0:03:08.23,Default,Ren,0000,0000,0000,,Claro, é o mínimo que eu posso fazer!
+Dialogue: 0,0:03:08.23,0:03:10.54,Default,Ren,0000,0000,0000,,Aposto que o papai e a mamãe\Ntambém vão ficar emocionados!
+Dialogue: 0,0:03:10.97,0:03:13.25,Default,Kanata,0000,0000,0000,,Eu espero que fiquem.
+Dialogue: 0,0:03:14.58,0:03:18.59,Default,Kanata,0000,0000,0000,,É uma surpresa, então tente\Nguardar segredo até o dia.
+Dialogue: 0,0:03:24.55,0:03:27.51,Default,Sign,0000,0000,0000,,{\bord0\shad0\blur0.4\b1\fscx90\fnGeorgia\fs14\c&H90562E&\pos(300.667,89.333)\frz63.83\frx8\fry326}Peixe
+Dialogue: 0,0:03:26.33,0:03:27.51,Default,Server,0000,0000,0000,,Aqui está.
+Dialogue: 0,0:03:27.51,0:03:29.31,Default,Server,0000,0000,0000,,O seu shirasu-don simples.
+Dialogue: 0,0:03:31.93,0:03:33.54,Default,Kanata,0000,0000,0000,,É melhor do que eu imaginava!
+Dialogue: 0,0:03:34.22,0:03:36.18,Default,Kanata,0000,0000,0000,,Como é que se come?
+Dialogue: 0,0:03:36.18,0:03:38.95,Default,Ren,0000,0000,0000,,Eu recomendo colocar um\Npouco de molho de soja...
+Dialogue: 0,0:03:38.95,0:03:41.84,Default,Ren,0000,0000,0000,,Experimente com arroz. Fica gostoso.
+Dialogue: 0,0:03:43.60,0:03:45.74,Default,Ren/Kanata,0000,0000,0000,,Hora de comer.
+Dialogue: 0,0:03:45.74,0:03:48.60,Italics,Kanata,0000,0000,0000,,Feche os olhos e... {\fnTimes New Roman}go.
+Dialogue: 0,0:03:55.40,0:03:57.54,Default,Kanata,0000,0000,0000,,Que ótima surpresa!
+Dialogue: 0,0:03:57.54,0:04:00.57,Default,Kanata,0000,0000,0000,,Olhando para o prato, nunca\Nimaginei que fosse ser tão bem!
+Dialogue: 0,0:04:00.57,0:04:02.59,Default,Ren,0000,0000,0000,,É mesmo! "Do caramba", não achou?
+Dialogue: 0,0:04:02.92,0:04:04.44,Default,Kanata,0000,0000,0000,,Sim, "do caramba"!
+Dialogue: 0,0:04:04.44,0:04:07.20,Default,Kanata,0000,0000,0000,,Falando nisso, Ren. O que {\i1}é{\i0} "shirasu"?
+Dialogue: 0,0:04:07.20,0:04:10.52,Default,Ren,0000,0000,0000,,Bem, shirasu é shirasu.\NUm peixe pequeninho.
+Dialogue: 0,0:04:10.52,0:04:14.98,Default,Kanata,0000,0000,0000,,É um peixe bebê? Ou é um peixe adulto?
+Dialogue: 0,0:04:14.98,0:04:16.98,Default,Ren,0000,0000,0000,,Bem, eu não sei.
+Dialogue: 0,0:04:16.98,0:04:18.37,Default,Ren,0000,0000,0000,,Deixa eu pesquisar...
+Dialogue: 0,0:04:19.22,0:04:24.36,Default,Owner,0000,0000,0000,,"Shirasu" é um termo genérico para um peixe\Nbranco juvenil, sem pigmentos corporais.
+Dialogue: 0,0:04:24.36,0:04:29.01,Default,Owner,0000,0000,0000,,Na maioria dos casos, são sardinhas,\Nmas também inclui arenques e enguias.
+Dialogue: 0,0:04:29.01,0:04:30.60,Default,Kanata,0000,0000,0000,,Uau!
+Dialogue: 0,0:04:30.60,0:04:31.64,Default,Owner,0000,0000,0000,,Aproveitem.
+Dialogue: 0,0:04:31.64,0:04:33.30,Default,Kanata,0000,0000,0000,,Muito obrigado.
+Dialogue: 0,0:04:33.30,0:04:35.10,Default,Ren,0000,0000,0000,,Eu não sabia.
+Dialogue: 0,0:04:35.10,0:04:36.93,Default,Ren,0000,0000,0000,,Foi bem educativo.
+Dialogue: 0,0:04:38.82,0:04:43.51,Italics,Owner,0000,0000,0000,,Sem dúvidas! Aquele é o super-novato\Nda MFG, Kanata Katagiri!
+Dialogue: 0,0:04:43.51,0:04:47.51,Italics,Owner,0000,0000,0000,,E ele está comendo no meu restaurante!\NQue emoção!
+Dialogue: 0,0:04:51.22,0:04:53.07,Default,Ren,0000,0000,0000,,Obrigada pela comida!
+Dialogue: 0,0:04:53.07,0:04:54.69,Default,Owner,0000,0000,0000,,Obrigado por virem.
+Dialogue: 0,0:04:54.69,0:04:57.77,Default,Owner,0000,0000,0000,,Adoraríamos que voltassem aqui. E...
+Dialogue: 0,0:04:58.25,0:05:01.03,Default,Owner,0000,0000,0000,,Boa sorte no Ashinoko GT!
+Dialogue: 0,0:05:03.93,0:05:06.03,Default,Ren,0000,0000,0000,,Então ele sabia quem você era!
+Dialogue: 0,0:05:06.03,0:05:09.11,Default,Kanata,0000,0000,0000,,Isso nunca aconteceu antes.\NEstou um pouco abalado.
+Dialogue: 0,0:05:09.11,0:05:10.99,Default,Ren,0000,0000,0000,,Eu não disse?
+Dialogue: 0,0:05:10.99,0:05:14.96,Default,Ren,0000,0000,0000,,Tem 30 milhões de pessoas no\Nmundo que conhecem você agora.
+Dialogue: 0,0:05:14.96,0:05:19.32,Default,Ren,0000,0000,0000,,Você precisa usar óculos escuros para esconder\No rosto que nem celebridades do exterior.
+Dialogue: 0,0:05:19.89,0:05:21.91,Default,Kanata,0000,0000,0000,,Isso não seria legal.
+Dialogue: 0,0:05:45.07,0:05:46.86,Default,Sign,0000,0000,0000,,{\fad(200,0)\blur5\t(0,310,\blur0.3)\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&HFFFFFF&\t(560,561,\c&H6000E6&)\t(580,1000,\c&H0100D1&)\pos(320,86)}MF Ghost
+Dialogue: 0,0:06:56.81,0:06:57.41,Default,Sign,0000,0000,0000,,{\fad(200,300)\bord0\alpha&H20&\fax-0.02\fscy30\fscx175\shad0\b1\fnArial\blur6\p1\c&H0F06FF&\pos(496.82,300.21)}m 0 0 l 100 0 100 100 0 100{\p0}
+Dialogue: 1,0:06:56.81,0:07:01.50,Default,Sign,0000,0000,0000,,{\fad(330,560)\bord0.5\shad1.5\b1\fnArial\blur0.3\fax-0.15\3c&H5B5B5B&\t(4050,4620,\blur5)\pos(496.44,299.44)}Curva 14 - O ataque 4x4
+Dialogue: 0,0:06:59.44,0:07:02.97,Top,Joyu,0000,0000,0000,,O primeiro e o segundo\Nestabeleceram novos recordes?
+Dialogue: 0,0:07:02.97,0:07:08.16,Default,Yamashita,0000,0000,0000,,Incrível. E os dois superaram o antigo\Nrecorde por uma grande vantagem.
+Dialogue: 0,0:07:08.16,0:07:12.49,Default,Joyu,0000,0000,0000,,Falando nisso, e o registro\Ndo percurso fantasma?
+Dialogue: 0,0:07:12.49,0:07:17.54,Default,Yamashita,0000,0000,0000,,Comparando com o tempo de volta,\Neles ainda melhoraram um pouco.
+Dialogue: 0,0:07:17.96,0:07:18.96,Default,Joyu,0000,0000,0000,,Entendi.
+Dialogue: 0,0:07:20.33,0:07:26.40,Italics,Joyu,0000,0000,0000,,Então alguém conseguiu derrotar a super\Nvolta do Keisuke na nossa quarta temporada?
+Dialogue: 0,0:07:27.44,0:07:30.80,Default,Joyu,0000,0000,0000,,Falando nisso, qual é a previsão\Ndo tempo para a corrida?
+Dialogue: 0,0:07:30.80,0:07:34.76,Default,Yamashita,0000,0000,0000,,Parece que tem uma alta chance de chuva.
+Dialogue: 0,0:07:35.24,0:07:40.49,Default,Joyu,0000,0000,0000,,Ah, poxa vida... Correr na chuva é sempre\Numa confusão. Melhor se preparar.
+Dialogue: 0,0:07:40.49,0:07:41.35,Default,Yamashita,0000,0000,0000,,Sim.
+Dialogue: 0,0:07:42.47,0:07:43.99,Italics,Joyu,0000,0000,0000,,Falando em chuva...
+Dialogue: 0,0:07:44.75,0:07:50.44,Italics,Joyu,0000,0000,0000,,O melhor nas descidas do Projeto D era\Nprofissional em lidar com condições úmidas.
+Dialogue: 0,0:07:56.41,0:08:00.69,Italics,Joyu,0000,0000,0000,,Acho que veremos se o mesmo\Né verdade com o pupilo dele.
+Dialogue: 0,0:08:05.76,0:08:09.88,Italics,Ogata,0000,0000,0000,,Hã? Corrida na chuva?
+Dialogue: 0,0:08:09.88,0:08:13.00,Italics,Ogata,0000,0000,0000,,Carros com motor dianteiro e tração\Ntraseira não combinam com chuva.
+Dialogue: 0,0:08:13.00,0:08:18.03,Italics,Ogata,0000,0000,0000,,Nós vamos ter uma grande desvantagem\Ncontra os 4x4 e carros com o motor central.
+Dialogue: 0,0:08:18.49,0:08:22.01,Italics,Ogata,0000,0000,0000,,A nova suspensão pareceu\Nótima na qualificatória!
+Dialogue: 0,0:08:22.01,0:08:23.94,Italics,Ogata,0000,0000,0000,,Que injusto!
+Dialogue: 0,0:08:24.79,0:08:27.70,Italics,Ogata,0000,0000,0000,,Ah, isso me lembra.\NTenho que ligar pro Okuyama.
+Dialogue: 0,0:08:28.28,0:08:31.73,Italics,Ogata,0000,0000,0000,,Melhor pedir conselhos na melhor\Nconfiguração para condições de chuva.
+Dialogue: 0,0:08:38.62,0:08:41.77,Default,Ren,0000,0000,0000,,O que será que vai acontecer\Nse chover amanhã?
+Dialogue: 0,0:08:42.20,0:08:45.91,Italics,Ren,0000,0000,0000,,Será que eles vão ter um mini-show\Ne atualizações no placar com a gente ensopada?
+Dialogue: 0,0:08:46.90,0:08:48.70,Italics,Ren,0000,0000,0000,,Essa não...
+Dialogue: 0,0:08:51.96,0:08:56.57,Top Italics,Commentator,0000,0000,0000,,Boa tarde a todos os 30,12 milhões\Nde fãs de MFG por todo o mundo.
+Dialogue: 0,0:08:56.57,0:08:58.95,Top Italics,Commentator,0000,0000,0000,,Eu sou Yoji Tanaka, comentarista.
+Dialogue: 0,0:09:00.08,0:09:03.83,Top Italics,Commentator,0000,0000,0000,,As chuvas de junho estão criando pequenas\Nondas na superfície do Lago Ashinoko...
+Dialogue: 0,0:09:04.43,0:09:10.82,Top Italics,Commentator,0000,0000,0000,,Parece que a segunda rodada da MFG, o Ashinoko GT,\Nvai ser uma batalha cheia de chuva!
+Dialogue: 0,0:09:11.93,0:09:18.07,Default,Commentator,0000,0000,0000,,Como convidado para os comentários de hoje,\Ntemos Ryuji Ikeda, diretor da Zero Academy.
+Dialogue: 0,0:09:18.29,0:09:19.23,Default,Ikeda,0000,0000,0000,,Olá.
+Dialogue: 0,0:09:19.55,0:09:23.59,Default,Commentator,0000,0000,0000,,Além de ser vereador da cidade de Odawara,
+Dialogue: 0,0:09:23.59,0:09:28.31,Default,Commentator,0000,0000,0000,,ele ativamente trabalha com jovens\Npara melhorar sua saúde e bem-estar
+Dialogue: 0,0:09:28.31,0:09:30.70,Default,Commentator,0000,0000,0000,,através dos esportes automotivos.
+Dialogue: 0,0:09:31.13,0:09:33.57,Top Italics,Commentator,0000,0000,0000,,Você também pode encontrá-lo\Nem roupas de monge,
+Dialogue: 0,0:09:33.57,0:09:36.60,Top Italics,Commentator,0000,0000,0000,,servindo como sacerdote-chefe\Nno templo Budista de sua família!
+Dialogue: 0,0:09:36.60,0:09:40.02,Top Italics,Commentator,0000,0000,0000,,Ele é um super-homem\Nque segue uma jornada tripla.
+Dialogue: 0,0:09:40.72,0:09:43.30,Top Italics,Commentator,0000,0000,0000,,Ikeda, é um prazer ter você aqui conosco!
+Dialogue: 0,0:09:43.30,0:09:45.89,Top Italics,Ikeda,0000,0000,0000,,O prazer é meu.
+Dialogue: 0,0:09:47.13,0:09:49.87,Default,Ogata,0000,0000,0000,,Certo. Ajustei os amortecedores.
+Dialogue: 0,0:09:49.87,0:09:54.44,Default,Kanata,0000,0000,0000,,Não estava chovendo lá embaixo,\Nmas está chovendo aqui...
+Dialogue: 0,0:09:54.90,0:10:01.66,Default,Ogata,0000,0000,0000,,É assim que é Hakone. O clima sempre\Né diferente entre o pico e a base.
+Dialogue: 0,0:10:03.12,0:10:08.24,Default,Kanata,0000,0000,0000,,Você é estranho, Ogata.\NPor que parece tão preocupado?
+Dialogue: 0,0:10:08.58,0:10:10.28,Default,Ogata,0000,0000,0000,,Como assim?
+Dialogue: 0,0:10:10.82,0:10:15.09,Default,Ogata,0000,0000,0000,,Isso é uma coisa séria! O estresse\Nestá atacando minha gastrite!
+Dialogue: 0,0:10:15.43,0:10:19.51,Default,Ogata,0000,0000,0000,,Correr em estradas públicas\Ncom chuva é loucura...
+Dialogue: 0,0:10:19.96,0:10:22.80,Default,Ogata,0000,0000,0000,,Se eu pudesse, cancelaria tudo.
+Dialogue: 0,0:10:23.21,0:10:27.71,Default,Ogata,0000,0000,0000,,Eu sinto que quase todos os\Nenvolvidos sentem o mesmo.
+Dialogue: 0,0:10:28.06,0:10:31.74,Default,Ogata,0000,0000,0000,,E considerando que seu carro tem motor\Ndianteiro e tração nas rodas traseiras,
+Dialogue: 0,0:10:31.74,0:10:35.73,Default,Ogata,0000,0000,0000,,vai ser especialmente\Ndifícil com pistas molhadas.
+Dialogue: 0,0:10:35.99,0:10:38.66,Default,Kanata,0000,0000,0000,,Sr. Ogata, a chuva é justa.
+Dialogue: 0,0:10:39.57,0:10:44.12,Default,Kanata,0000,0000,0000,,Ela cai igualmente nos 15 carros.\NNão vejo isso como um problema.
+Dialogue: 0,0:10:44.91,0:10:48.66,Default,Kanata,0000,0000,0000,,Pelo contrário, a chuva é minha aliada.
+Dialogue: 0,0:10:55.58,0:10:59.42,Top Italics,Commentator,0000,0000,0000,,As Angels terminam sua apresentação\Nmolhada e correm para a tenda.
+Dialogue: 0,0:11:00.28,0:11:04.93,Top Italics,Commentator,0000,0000,0000,,Vê-las cantando ensopadas realmente\Ndeixou uma impressão diferente do normal.
+Dialogue: 0,0:11:05.67,0:11:11.17,Top Italics,Commentator,0000,0000,0000,,Sinto que os fãs das Angels vão\Nguardar esse vídeo por um longo tempo.
+Dialogue: 0,0:11:11.17,0:11:14.15,Default,Kyoko,0000,0000,0000,,Se eu ficar doente, conta como\Ndoença ocupacional, não é?
+Dialogue: 0,0:11:15.37,0:11:19.07,Top Italics,Commentator,0000,0000,0000,,Ah, e parece que a reunião\Ncom os pilotos terminou
+Dialogue: 0,0:11:19.07,0:11:22.53,Top Italics,Commentator,0000,0000,0000,,e eles estão indo cada\Num para o seu carro.
+Dialogue: 0,0:11:22.83,0:11:24.83,Default,Kanata,0000,0000,0000,,Aiba, {\i1}good luck{\i0}!
+Dialogue: 0,0:11:24.83,0:11:26.73,Default,Aiba,0000,0000,0000,,Sim, você também.
+Dialogue: 0,0:11:31.98,0:11:34.75,Italics,Ogata,0000,0000,0000,,Ogata falando. Consegue me ouvir?
+Dialogue: 0,0:11:34.75,0:11:35.84,Italics,Kanata,0000,0000,0000,,Alto e claro.
+Dialogue: 0,0:11:35.84,0:11:40.47,Italics,Ogata,0000,0000,0000,,Eu deixei uma toalha seca no banco do\Npassageiro. Seque as solas dos pés.
+Dialogue: 0,0:11:40.70,0:11:44.95,Default,Ogata,0000,0000,0000,,Se estiverem molhadas, vai mudar a\Nsensação dos pés nos pedais. Câmbio.
+Dialogue: 0,0:11:44.95,0:11:45.83,Italics,Kanata,0000,0000,0000,,{\fnTimes New Roman}Roger.
+Dialogue: 0,0:11:46.25,0:11:49.77,Top Italics,Commentator,0000,0000,0000,,Só cinco minutos até o horário\Nprogramado para a largada.
+Dialogue: 0,0:11:50.17,0:11:51.64,Top Italics,Commentator,0000,0000,0000,,Uma pergunta, Ikeda...
+Dialogue: 0,0:11:51.64,0:11:56.44,Top Italics,Commentator,0000,0000,0000,,O que um motorista precisa manter em\Nmente em uma corrida com a pista molhada?
+Dialogue: 0,0:11:56.44,0:11:59.65,Default,Ikeda,0000,0000,0000,,Se tivesse que dizer só uma\Npalavra, diria "paciência".
+Dialogue: 0,0:12:00.08,0:12:05.00,Top Italics,Ikeda,0000,0000,0000,,Na chuva, o jeito que os pneus reagem em\Nestradas públicas muda de momento a momento.
+Dialogue: 0,0:12:05.00,0:12:07.06,Top Italics,Ikeda,0000,0000,0000,,Você precisa constantemente
+Dialogue: 0,0:12:07.06,0:12:10.22,Top Italics,Ikeda,0000,0000,0000,,avaliar sua aderência enquanto tenta\Ntirar vantagem dos adversários.
+Dialogue: 0,0:12:10.63,0:12:15.05,Top Italics,Ikeda,0000,0000,0000,,Não só a visibilidade é limitada pela\Nágua jogada pelos carros da frente,
+Dialogue: 0,0:12:15.38,0:12:19.13,Top Italics,Ikeda,0000,0000,0000,,como você está em uma luta\Npersistente com seu próprio carro.
+Dialogue: 0,0:12:19.55,0:12:22.09,Top Italics,Ikeda,0000,0000,0000,,E enquanto aumenta os pontos negativos,
+Dialogue: 0,0:12:22.09,0:12:26.29,Top Italics,Ikeda,0000,0000,0000,,se torna uma questão de manter\Num estado mental calmo e racional.
+Dialogue: 0,0:12:26.29,0:12:31.02,Top Italics,Ikeda,0000,0000,0000,,Ficar agressivo demais numa corrida\Ndessas não vai dar resultado.
+Dialogue: 0,0:12:31.36,0:12:35.64,Top Italics,Commentator,0000,0000,0000,,Entendo. Parece que essa corrida vai\Nmesmo se tornar uma disputa mental.
+Dialogue: 0,0:12:35.64,0:12:37.31,Top Italics,Ikeda,0000,0000,0000,,Correto.
+Dialogue: 0,0:12:37.61,0:12:41.88,Top Italics,Ikeda,0000,0000,0000,,Esses 15 pilotos nos cockpits\Nesperando a largada
+Dialogue: 0,0:12:41.88,0:12:47.57,Top Italics,Ikeda,0000,0000,0000,,vão encarar um nível de pressão que\Nnão se compara a uma corrida normal.
+Dialogue: 0,0:12:48.74,0:12:50.97,Top Italics,Commentator,0000,0000,0000,,As Angels estão alinhadas.
+Dialogue: 0,0:12:53.83,0:12:55.71,Top Italics,Commentator,0000,0000,0000,,Falta um minuto para a largada.
+Dialogue: 0,0:12:58.34,0:13:03.54,Top Italics,Commentator,0000,0000,0000,,O carro 12 na pole position está sendo guiado\Nlentamente pelo drone depois do portão.
+Dialogue: 0,0:13:04.02,0:13:08.82,Top Italics,Commentator,0000,0000,0000,,Em seguido Sawatari no 4,\NIshigami no 1 e Akaba no 2.
+Dialogue: 0,0:13:08.82,0:13:13.89,Top Italics,Commentator,0000,0000,0000,,Maezono a seguir no 13, seguido\Npor Oishi no 3 e Taylor no 8.
+Dialogue: 0,0:13:13.89,0:13:19.65,Top Italics,Commentator,0000,0000,0000,,Depois temos Sakamoto no 5,\NOtani no 7 e Katagiri no 86.
+Dialogue: 0,0:13:24.41,0:13:26.55,Italics,Ren,0000,0000,0000,,Boa sorte, Kanata.
+Dialogue: 0,0:13:26.99,0:13:29.90,Italics,Ren,0000,0000,0000,,Eu só posso rezar por você.
+Dialogue: 0,0:13:32.01,0:13:33.83,Italics,Ren,0000,0000,0000,,Mesmo assim...
+Dialogue: 0,0:13:36.52,0:13:42.05,Italics,Ren,0000,0000,0000,,Quando o Kanata está sério... Ele é\Ntão legal que chega a parar o tempo.
+Dialogue: 0,0:13:42.75,0:13:44.96,Italics,Ren,0000,0000,0000,,Ele nunca é assim em casa.
+Dialogue: 0,0:13:45.82,0:13:50.51,Top Italics,Commentator,0000,0000,0000,,Na traseira, o número\N23 atravessa o portão.
+Dialogue: 0,0:13:50.80,0:13:53.47,Top Italics,Commentator,0000,0000,0000,,E os drones dão o sinal\Npara começar a corrida!
+Dialogue: 0,0:14:04.03,0:14:04.36,Default,Sign,0000,0000,0000,,{\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&HFCFFFC&\move(-150.4,208.8,189.6,208.8)}MF Ghost
+Dialogue: 0,0:14:04.36,0:14:04.57,Default,Sign,0000,0000,0000,,{\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&HFCFFFC&\move(189.6,208.8,329.6,208.8)}MF Ghost
+Dialogue: 0,0:14:04.57,0:14:04.78,Default,Sign,0000,0000,0000,,{\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&HFCFFFC&\move(329.6,208.8,409.6,208.8)}MF Ghost
+Dialogue: 0,0:14:04.76,0:14:06.10,Top,Ren,0000,0000,0000,,MF Ghost.
+Dialogue: 0,0:14:04.78,0:14:05.69,Default,Sign,0000,0000,0000,,{\fad(0,300)\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&HFCFFFC&\move(409.6,208.8,429.6,208.8,0,200)}MF Ghost
+Dialogue: 1,0:14:05.44,0:14:07.99,Default,Sign,0000,0000,0000,,{\fad(300,0)\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&H0279F4&\pos(429.6,208.8)}MF Ghost
+Dialogue: 0,0:14:09.03,0:14:09.36,Default,Sign,0000,0000,0000,,{\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&HFCFFFC&\move(-146.4,208.8,193.6,208.8)}MF Ghost
+Dialogue: 0,0:14:09.36,0:14:09.57,Default,Sign,0000,0000,0000,,{\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&HFCFFFC&\move(193.6,208.8,333.6,208.8)}MF Ghost
+Dialogue: 0,0:14:09.57,0:14:09.78,Default,Sign,0000,0000,0000,,{\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&HFCFFFC&\move(333.6,208.8,413.6,208.8)}MF Ghost
+Dialogue: 0,0:14:09.78,0:14:12.99,Default,Sign,0000,0000,0000,,{\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&HFCFFFC&\move(413.6,208.8,433.6,208.8,0,200)}MF Ghost
+Dialogue: 0,0:14:10.22,0:14:11.60,Top,Kanata,0000,0000,0000,,MF Ghost.
+Dialogue: 0,0:14:16.94,0:14:19.74,Top Italics,Commentator,0000,0000,0000,,E a ordem mudou subitamente!
+Dialogue: 0,0:14:19.74,0:14:23.63,Top Italics,Commentator,0000,0000,0000,,A névoa de água da chuva intensa está deixando\Ndifícil de entender o que está acontecendo!
+Dialogue: 0,0:14:24.79,0:14:29.05,Top Italics,Commentator,0000,0000,0000,,Com a tração superior, três carros\N4x4 parecem ter vencido a largada!
+Dialogue: 0,0:14:29.05,0:14:32.55,Top Italics,Commentator,0000,0000,0000,,Oishi no 3 toma Maezono no 13.
+Dialogue: 0,0:14:32.55,0:14:36.31,Top Italics,Commentator,0000,0000,0000,,E o Sakamoto no 5 passa pelo Taylor no 8!
+Dialogue: 0,0:14:36.31,0:14:40.98,Top Italics,Commentator,0000,0000,0000,,Atrás, Aiba no 10 passa na\Nfrente de Kitahara no 18!
+Dialogue: 0,0:14:42.57,0:14:46.03,Italics,Sakamoto,0000,0000,0000,,O sistema de equilíbrio\Nque Ryo Takahashi pensou
+Dialogue: 0,0:14:46.03,0:14:50.82,Italics,Sakamoto,0000,0000,0000,,geralmente é bem duro com\Ncarros 4x4 em pista seca...
+Dialogue: 0,0:14:50.82,0:14:54.55,Italics,Sakamoto,0000,0000,0000,,Mas em pista molhada, esse nível\Nde tração se torna avassalador!
+Dialogue: 0,0:14:54.55,0:14:56.91,Italics,Sakamoto,0000,0000,0000,,Eu vou conseguir uma\Ngrande vantagem dessa vez!
+Dialogue: 0,0:14:57.27,0:14:59.66,Italics,Sakamoto,0000,0000,0000,,Carros 4x4 são para horas como esta!
+Dialogue: 0,0:15:01.12,0:15:03.59,Default,Sign,0000,0000,0000,,{\fs28\bord0\fnImpact\shad0\fsp16\fax-0.37\c&HB68D7A&\frz17.24\frx358\fry354\pos(388,158)}Ashinoko Skyline
+Dialogue: 0,0:15:01.56,0:15:03.59,Default,Staff,0000,0000,0000,,Houve uma mudança de posição.
+Dialogue: 0,0:15:03.89,0:15:06.26,Default,Staff,0000,0000,0000,,Moe, Mami. Por favor.
+Dialogue: 0,0:15:06.26,0:15:10.93,Default,Moe,0000,0000,0000,,Hã? Já? Mas eles acabaram de começar!
+Dialogue: 0,0:15:11.19,0:15:13.83,Default,Staff,0000,0000,0000,,Eu seguro o guarda-chuva\Npara que não se molhe.
+Dialogue: 0,0:15:15.00,0:15:16.39,Default,Mami,0000,0000,0000,,Espere um pouco.
+Dialogue: 0,0:15:16.74,0:15:18.58,Top,Mami,0000,0000,0000,,Minha bunda ainda não está pronta...
+Dialogue: 0,0:15:24.55,0:15:26.56,Top Italics,Commentator,0000,0000,0000,,Beckenbauer na liderança!
+Dialogue: 0,0:15:26.56,0:15:30.40,Top Italics,Commentator,0000,0000,0000,,E Sawatari do 4 está grudado nele!
+Dialogue: 0,0:15:30.64,0:15:34.45,Top Italics,Commentator,0000,0000,0000,,A linha de chegada espera ao fim de\Ntrês voltas, totalizando 75,9 km.
+Dialogue: 0,0:15:34.45,0:15:38.58,Top Italics,Commentator,0000,0000,0000,,Com 15 pilotos encarando uma\Nnévoa de água logo no começo!
+Dialogue: 0,0:15:40.06,0:15:44.42,Italics,Sawatari,0000,0000,0000,,Eu adoro a chuva. Toda a potência\Ndo mundo não vai ajudar.
+Dialogue: 0,0:15:44.78,0:15:48.42,Italics,Sawatari,0000,0000,0000,,É como ser forçado a largar as\Narmas e lutar com os punhos.
+Dialogue: 0,0:15:48.84,0:15:51.42,Italics,Sawatari,0000,0000,0000,,Quem realmente é o mais rápido?
+Dialogue: 0,0:15:51.42,0:15:53.43,Italics,Sawatari,0000,0000,0000,,É hora de deixarmos isso claro!
+Dialogue: 0,0:15:56.47,0:15:58.56,Italics,Beckenbauer,0000,0000,0000,,Não me subestime, Sawatari.
+Dialogue: 0,0:15:58.96,0:16:02.02,Italics,Beckenbauer,0000,0000,0000,,Tenho uma confiança absoluta na minha\Nhabilidade de lidar com uma pista molhada.
+Dialogue: 0,0:16:07.19,0:16:10.90,Italics,Beckenbauer,0000,0000,0000,,Não tem um único fator que vai me\Nfazer perder para um piloto japonês.
+Dialogue: 0,0:16:18.48,0:16:22.12,Italics,Maezono,0000,0000,0000,,Eu posso ter perdido a\Nlargada para um Huracán 4x4,
+Dialogue: 0,0:16:22.12,0:16:25.33,Italics,Maezono,0000,0000,0000,,mas não vai interessar quando eu\Ntiver ganhado bastante velocidade.
+Dialogue: 0,0:16:25.33,0:16:28.84,Italics,Maezono,0000,0000,0000,,Tenho uma Lambo na minha frente\Ne uma Ferrari na frente dela.
+Dialogue: 0,0:16:28.84,0:16:32.72,Italics,Maezono,0000,0000,0000,,Estou em posição de encarar os carros\Nitalianos que dominam as listas.
+Dialogue: 0,0:16:32.95,0:16:36.55,Italics,Maezono,0000,0000,0000,,Eu vou mostrar para eles\Ndo que a Honda é capaz!
+Dialogue: 0,0:16:39.59,0:16:41.38,Top Italics,Commentator,0000,0000,0000,,Outra pergunta para você, Ikeda...
+Dialogue: 0,0:16:41.85,0:16:47.39,Top Italics,Commentator,0000,0000,0000,,Como acha que a chuva vai afetar as\Ncondições da pista na Zona da Morte?
+Dialogue: 0,0:16:47.81,0:16:50.50,Default,Ikeda,0000,0000,0000,,Eu imagino que seja a\Npior condição possível.
+Dialogue: 0,0:16:50.86,0:16:53.65,Default,Ikeda,0000,0000,0000,,A chuva vai evitar que\Nas cinzas se acumulem,
+Dialogue: 0,0:16:53.88,0:16:58.80,Top Italics,Ikeda,0000,0000,0000,,mas qualquer coisa que esteja na pista\Nvai se tornar uma lama escorregadia
+Dialogue: 0,0:16:58.80,0:17:01.38,Top Italics,Ikeda,0000,0000,0000,,e os pilotos vão acabar derrapando.
+Dialogue: 0,0:17:02.13,0:17:03.84,Italics,Ikeda,0000,0000,0000,,Eu diria que na Zona da Morte
+Dialogue: 0,0:17:03.84,0:17:08.08,Italics,Ikeda,0000,0000,0000,,será preciso ter a maior cautela possível,\Nespecialmente na primeira volta.
+Dialogue: 0,0:17:08.98,0:17:13.09,Top Italics,Commentator,0000,0000,0000,,Aquela fila de água jorrando\Navança por Ashinok Skyline!
+Dialogue: 0,0:17:18.12,0:17:21.89,Top Italics,Commentator,0000,0000,0000,,O grupo da liderança avança\Nna armadilha escorregadia!
+Dialogue: 0,0:17:40.78,0:17:44.49,Top Italics,Commentator,0000,0000,0000,,Batalhando para não derrapar,\No carro 3 fez uma curva aberta demais.
+Dialogue: 0,0:17:44.49,0:17:48.08,Top Italics,Commentator,0000,0000,0000,,O 13 vai na frente e passa direto por ele!
+Dialogue: 0,0:17:48.40,0:17:49.99,Italics,Oishi,0000,0000,0000,,Que perigo!
+Dialogue: 0,0:17:49.99,0:17:54.42,Italics,Oishi,0000,0000,0000,,Eu achei que estava sendo cauteloso,\Nmas eu acabei deslizando tanto assim?
+Dialogue: 0,0:17:54.71,0:17:57.30,Italics,Maezono,0000,0000,0000,,Isso foi uma derrapada\Nbem descuidada, Oishi!
+Dialogue: 0,0:17:57.30,0:18:01.93,Italics,Maezono,0000,0000,0000,,Só mostra como tração nas 4\Nnão ajuda em nada numa curva!
+Dialogue: 0,0:18:31.69,0:18:35.64,Italics,Yanagida,0000,0000,0000,,Ele não está fazendo drifts\Ncomo estava na qualificatória?
+Dialogue: 0,0:18:36.04,0:18:39.93,Italics,Yanagida,0000,0000,0000,,Parece que ele está bem rápido,\Nmesmo sem isso.
+Dialogue: 0,0:18:40.74,0:18:43.47,Italics,Yanagida,0000,0000,0000,,Ele tem um monte de truques\Npara alguém tão jovem...
+Dialogue: 0,0:18:44.14,0:18:48.24,Italics,Yanagida,0000,0000,0000,,Mas meu carro e eu\Nnão temos medo curvas.
+Dialogue: 0,0:18:50.90,0:18:56.54,Italics,Yanagida,0000,0000,0000,,Por que não mostra como\Num "super-novato" corre?
+Dialogue: 0,0:19:03.78,0:19:05.62,Italics,Nozomi,0000,0000,0000,,Eu estou deslizando sem parar!
+Dialogue: 0,0:19:06.00,0:19:07.81,Italics,Nozomi,0000,0000,0000,,Está derrapando demais!
+Dialogue: 0,0:19:08.56,0:19:11.42,Italics,Nozomi,0000,0000,0000,,Do caramba! Vai ser divertido!
+Dialogue: 0,0:19:11.42,0:19:14.29,Italics,Nozomi,0000,0000,0000,,Adoro esse tipo de coisa!
+Dialogue: 0,0:19:15.11,0:19:18.46,Top Italics,Commentator,0000,0000,0000,,Enquanto os pneus lutam para garantir\Naderência na pista da Zona da Morte,
+Dialogue: 0,0:19:18.46,0:19:24.17,Top Italics,Commentator,0000,0000,0000,,os 15 escolhidos pisam no\Nacelerador sem hesitar!
+Dialogue: 0,0:19:28.46,0:19:31.64,Top Italics,Commentator,0000,0000,0000,,O 12 e o 4 estão aumentando a liderança!
+Dialogue: 0,0:19:31.64,0:19:33.92,Top Italics,Commentator,0000,0000,0000,,O 1 não consegue acompanhar!
+Dialogue: 0,0:19:34.26,0:19:41.02,Top Italics,Commentator,0000,0000,0000,,Os Divinos Fifteen estão se distanciando\Ne se separando em grupos menores.
+Dialogue: 0,0:19:42.18,0:19:46.99,Top Italics,Commentator,0000,0000,0000,,Ikeda, tem alguma coisa que chamou\Nsua atenção na pista até agora?
+Dialogue: 0,0:19:46.99,0:19:48.82,Top Italics,Ikeda,0000,0000,0000,,Acho que sim.
+Dialogue: 0,0:19:49.22,0:19:55.17,Top Italics,Ikeda,0000,0000,0000,,Pessoalmente, eu estou prestando atenção\Nno desempenho do 86 bem no meio.
+Dialogue: 0,0:19:55.17,0:20:00.76,Top Italics,Ikeda,0000,0000,0000,,É um carro que não mudou seu estilo de\Ndireção ao entrar na Zona da Morte.
+Dialogue: 0,0:20:01.34,0:20:05.10,Top Italics,Ikeda,0000,0000,0000,,O jeito que ele mantém a constância\Nnessa parte chega a ser assustador.
+Dialogue: 0,0:20:05.96,0:20:10.73,Top Italics,Commentator,0000,0000,0000,,Kanata Katagiri realmente correu assim\Npela Zona da Morte durante a qualificatória,
+Dialogue: 0,0:20:10.73,0:20:14.35,Top Italics,Commentator,0000,0000,0000,,estabelecendo um novo\Nrecorde para a Zona da Morte.
+Dialogue: 0,0:20:14.35,0:20:19.51,Top Italics,Commentator,0000,0000,0000,,Comparado a isso, ele está mostrando\Num controle constante bem diferente.
+Dialogue: 0,0:20:19.51,0:20:21.18,Top Italics,Ikeda,0000,0000,0000,,É isso mesmo.
+Dialogue: 0,0:20:21.18,0:20:25.32,Top Italics,Ikeda,0000,0000,0000,,O jeito que ele pilota grita que\N"a corrida recém começou".
+Dialogue: 0,0:20:25.32,0:20:27.99,Top Italics,Ikeda,0000,0000,0000,,E eu acho que isso é mais do\Nque um pouco assustador.
+Dialogue: 0,0:20:32.76,0:20:35.61,Top Italics,Ikeda,0000,0000,0000,,O grupo da dianteira passa pela\Njunção da passagem de Kojiri
+Dialogue: 0,0:20:35.61,0:20:38.99,Top Italics,Ikeda,0000,0000,0000,,e o percurso vai se tornar uma\Ndescida daqui para a frente!
+Dialogue: 0,0:20:38.99,0:20:42.01,Top Italics,Ikeda,0000,0000,0000,,Eles não podem se descuidar um\Nmomento sequer daqui para a frente.
+Dialogue: 0,0:20:42.34,0:20:46.47,Top Italics,Ikeda,0000,0000,0000,,Um único erro pode custar sua vida\Nquando está descendo na chuva.
+Dialogue: 0,0:20:49.93,0:20:52.68,Italics,Otani,0000,0000,0000,,Nós investimos bastante nesse GTR...
+Dialogue: 0,0:20:52.68,0:20:55.94,Italics,Otani,0000,0000,0000,,Mas a chuva está nos\Ndeixando em desvantagem.
+Dialogue: 0,0:20:57.69,0:21:02.67,Italics,Otani,0000,0000,0000,,O controle de tração e o controle de\Nestabilidade continuam me atrapalhando.
+Dialogue: 0,0:21:03.40,0:21:07.21,Italics,Otani,0000,0000,0000,,Eu não acredito que o motor de ar\Naspirado de 2 litros está me pressionando.
+Dialogue: 0,0:21:07.97,0:21:12.37,Italics,Otani,0000,0000,0000,,Mas nessas condições,\Nmesmo para quem é bom numa descida,
+Dialogue: 0,0:21:12.89,0:21:16.50,Italics,Otani,0000,0000,0000,,não é fisicamente possível\Naumentar a velocidade nas curvas!
+Dialogue: 0,0:21:16.75,0:21:19.62,Italics,Otani,0000,0000,0000,,Se eu mantiver minha linha\Nfechada em cada uma das curvas,
+Dialogue: 0,0:21:19.96,0:21:23.27,Italics,Otani,0000,0000,0000,,ele vai ser obrigado a ficar\Natrás de mim, olhando!
+Dialogue: 0,0:21:27.18,0:21:29.64,Italics,Yanagida,0000,0000,0000,,Ei, o que ele pretende fazer?
+Dialogue: 0,0:21:31.89,0:21:33.56,Italics,Otani,0000,0000,0000,,Pelo lado de fora?
+Dialogue: 0,0:21:33.88,0:21:35.52,Italics,Otani,0000,0000,0000,,Não me subestime!
+Dialogue: 0,0:21:37.30,0:21:38.56,Italics,Otani,0000,0000,0000,,Eu não tenho aderência!
+Dialogue: 0,0:21:46.08,0:21:48.07,Italics,Otani,0000,0000,0000,,A pista está molhada demais...
+Dialogue: 0,0:21:48.07,0:21:51.49,Italics,Yanagida,0000,0000,0000,,Como ele está indo tão rápido?
+Dialogue: 0,0:21:51.98,0:21:53.69,Italics,Yanagida/Otani,0000,0000,0000,,Não pode ser!
+Dialogue: 0,0:23:31.43,0:23:36.47,Italics,Narrator,0000,0000,0000,,Próximo episódio!\N"Curva 15: O Yin-Yang da Curva Final".
