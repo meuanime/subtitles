@@ -1,0 +1,241 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H78171718,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H78171718,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H78171718,-1,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: Top Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H78171718,-1,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: Flashback,Trebuchet MS,24,&H00D9D9DB,&H000000FF,&H002E2E2F,&H78171718,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: Flashback Italics,Trebuchet MS,24,&H00D9D9DB,&H000000FF,&H002E2E2F,&H78171718,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: Flashback Top,Trebuchet MS,24,&H00D9D9DB,&H000000FF,&H002E2E2F,&H78171718,-1,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: Top Italics Lowered,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H78171718,-1,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0035,0
+Style: Italics Raised,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H78171718,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0038,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.58,0:00:04.44,Italics,Aiba,0000,0000,0000,,Next up is Taylor. \NAnd beyond him is Kanata.
+Dialogue: 0,0:00:04.44,0:00:06.62,Italics,Aiba,0000,0000,0000,,I wanna duke it out with him.
+Dialogue: 0,0:00:06.62,0:00:10.94,Italics,Aiba,0000,0000,0000,,I wanna take on that driving genius who's \Nnothing like anyone I've ever seen before.
+Dialogue: 0,0:00:11.29,0:00:13.95,Top Italics,Commentator,0000,0000,0000,,The lead group has left Route 1,
+Dialogue: 0,0:00:13.95,0:00:18.17,Top Italics,Commentator,0000,0000,0000,,and are turning right \Nonto the Ashinoko Skyline.
+Dialogue: 0,0:00:18.86,0:00:23.11,Top Italics,Commentator,0000,0000,0000,,There's a large gap, \Nthen here comes the third-place group.
+Dialogue: 0,0:00:23.73,0:00:24.96,Top Italics,Commentator,0000,0000,0000,,Wait, that's...
+Dialogue: 0,0:00:24.96,0:00:27.24,Top Italics,Commentator,0000,0000,0000,,I can't deny I'm surprised.
+Dialogue: 0,0:00:27.72,0:00:29.98,Top Italics,Commentator,0000,0000,0000,,The 86 is right there.
+Dialogue: 0,0:00:30.31,0:00:33.00,Top Italics,Commentator,0000,0000,0000,,He hasn't fallen back as much as I thought.
+Dialogue: 0,0:00:33.64,0:00:35.68,Top Italics,Ikeda,0000,0000,0000,,It's a quirk of the wet conditions.
+Dialogue: 0,0:00:36.19,0:00:38.52,Top Italics,Ikeda,0000,0000,0000,,You can have a 600hp-plus monster,
+Dialogue: 0,0:00:38.52,0:00:43.43,Top Italics,Ikeda,0000,0000,0000,,but without the traction to translate that \Npower onto the road, it's essentially wasted.
+Dialogue: 0,0:00:43.93,0:00:48.16,Top Italics,Ikeda,0000,0000,0000,,In large groups like this one, \Ndrivers jockey for position
+Dialogue: 0,0:00:48.16,0:00:52.00,Top Italics,Ikeda,0000,0000,0000,,in a way that also hampers\N their own overall race pace.
+Dialogue: 0,0:00:52.94,0:00:57.17,Default,Ikeda,0000,0000,0000,,This might turn into a lengthy \Nexplanation. Should I continue?
+Dialogue: 0,0:00:57.17,0:00:58.74,Default,Commentator,0000,0000,0000,,Please go ahead, Ikeda-san.
+Dialogue: 0,0:00:59.21,0:01:04.21,Default,Ikeda,0000,0000,0000,,This is the conclusion I have drawn\N after a long career in racing.
+Dialogue: 0,0:01:04.21,0:01:07.69,Top Italics,Ikeda,0000,0000,0000,,When you drive on a circuit \Nwith an off-the-shelf model,
+Dialogue: 0,0:01:07.69,0:01:13.09,Top Italics,Ikeda,0000,0000,0000,,I'd say 400hp is about the max your \Naverage person can adequately control.
+Dialogue: 0,0:01:13.43,0:01:18.90,Top Italics,Ikeda,0000,0000,0000,,But on public roads, \Nthat figure is quite a bit lower.
+Dialogue: 0,0:01:18.90,0:01:21.06,Top Italics,Ikeda,0000,0000,0000,,Drive systems make a difference...
+Dialogue: 0,0:01:21.06,0:01:24.85,Default,Ikeda,0000,0000,0000,,...but I'd estimate it to be\N between 300 and 350hp.
+Dialogue: 0,0:01:24.85,0:01:27.21,Default,Commentator,0000,0000,0000,,It's really that much lower?
+Dialogue: 0,0:01:27.53,0:01:32.77,Default,Commentator,0000,0000,0000,,But the cars near the top of MFG\N tend to exceed 600hp.
+Dialogue: 0,0:01:32.77,0:01:34.03,Default,Ikeda,0000,0000,0000,,That's true.
+Dialogue: 0,0:01:34.03,0:01:37.49,Default,Ikeda,0000,0000,0000,,But I think when it comes to MFG...
+Dialogue: 0,0:01:37.49,0:01:41.19,Default,Ikeda,0000,0000,0000,,that much power isn't actually necessary.
+Dialogue: 0,0:02:25.08,0:02:26.87,Default,Sign,0000,0000,0000,,{\fad(200,0)\blur5\t(0,310,\blur0.3)\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&HFFFFFF&\t(560,561,\c&H6000E6&)\t(580,1000,\c&H0100D1&)\pos(320,86)}MF Ghost
+Dialogue: 0,0:03:40.95,0:03:41.55,Default,Sign,0000,0000,0000,,{\fad(200,300)\bord0\alpha&H20&\fax-0.02\fscy52\fscx190\shad0\b1\fnArial\blur6\p1\c&H0F06FF&\pos(516,303.333)}m 0 0 l 100 0 100 100 0 100{\p0}
+Dialogue: 1,0:03:40.95,0:03:45.37,Default,Sign,0000,0000,0000,,{\fad(350,350)\bord0.5\shad1.5\b1\fnArial\blur0.3\fax-0.15\3c&H5B5B5B&\t(4050,4620,\blur5)\pos(516,301.333)}Sawatari Koki, \Nthe Demon God
+Dialogue: 0,0:03:46.65,0:03:50.87,Default,Ikeda,0000,0000,0000,,I feel like people may have the wrong idea\N about that one regulation.
+Dialogue: 0,0:03:50.87,0:03:55.35,Default,Ikeda,0000,0000,0000,,There are a few misleading traps\Nin the grip-to-weight regulation
+Dialogue: 0,0:03:55.35,0:03:58.05,Default,Ikeda,0000,0000,0000,,that have made major \Ndifferences in performance.
+Dialogue: 0,0:03:58.52,0:04:05.01,Top Italics,Ikeda,0000,0000,0000,,I get the feeling going into detail\Nwould upset Ryo Takahashi, so I won't,
+Dialogue: 0,0:04:05.01,0:04:09.52,Top Italics,Ikeda,0000,0000,0000,,but a lot of premium-brand imports have \Nmore power than can actually be tapped into,
+Dialogue: 0,0:04:09.52,0:04:12.52,Top Italics,Ikeda,0000,0000,0000,,bottled up by beefy tires\N and electronic systems,
+Dialogue: 0,0:04:12.52,0:04:16.15,Top Italics,Ikeda,0000,0000,0000,,and get sold to the more affluent\N as status symbols.
+Dialogue: 0,0:04:16.61,0:04:19.54,Default,Ikeda,0000,0000,0000,,It seems absolutely ridiculous to me.
+Dialogue: 0,0:04:20.29,0:04:21.75,Default,Ikeda,0000,0000,0000,,But getting back on-topic...
+Dialogue: 0,0:04:22.28,0:04:24.81,Top Italics,Ikeda,0000,0000,0000,,In wet conditions like what we have today,
+Dialogue: 0,0:04:24.81,0:04:29.41,Top Italics,Ikeda,0000,0000,0000,,the amount of horsepower available to the \Ndriver on public roads lowers even further.
+Dialogue: 0,0:04:29.64,0:04:32.54,Top Italics,Ikeda,0000,0000,0000,,Down to between 200 and 250hp max.
+Dialogue: 0,0:04:32.54,0:04:36.37,Top Italics,Ikeda,0000,0000,0000,,At the risk of being misunderstood, \Nthat's around where I'd put it.
+Dialogue: 0,0:04:36.37,0:04:38.50,Top Italics,Commentator,0000,0000,0000,,That's a huge decrease.
+Dialogue: 0,0:04:38.50,0:04:42.09,Default,Commentator,0000,0000,0000,,But that number comes as quite a shock.
+Dialogue: 0,0:04:42.34,0:04:49.72,Top Italics,Commentator,0000,0000,0000,,The max output of a 2-liter NA \Nlike the Toyota 86 GT is exactly 200hp.
+Dialogue: 0,0:04:49.97,0:04:51.27,Top Italics,Ikeda,0000,0000,0000,,Precisely.
+Dialogue: 0,0:04:51.51,0:04:57.73,Top Italics,Ikeda,0000,0000,0000,,This rain has all but erased the handicap \Nin power the 86 has to the rest of the field.
+Dialogue: 0,0:04:58.33,0:05:06.28,Default,Ikeda,0000,0000,0000,,I think the fans should keep that in mind \Nas they watch the race unfold from here.
+Dialogue: 0,0:05:06.65,0:05:11.46,Top Italics,Commentator,0000,0000,0000,,A heaven-sent wind in the form of this rain\Nappears to be lifting Katagiri Kanata.
+Dialogue: 0,0:05:12.24,0:05:13.20,Default,Commentator,0000,0000,0000,,And now...
+Dialogue: 0,0:05:13.55,0:05:16.66,Top Italics,Commentator,0000,0000,0000,,Here's the third-place group\Ncrossing the start-finish line.
+Dialogue: 0,0:05:17.12,0:05:22.80,Top Italics,Commentator,0000,0000,0000,,Huh? There seems to be two distinct lines \Nthrough the left and right gates.
+Dialogue: 0,0:05:22.80,0:05:25.01,Top Italics,Commentator,0000,0000,0000,,That's not something you see too often.
+Dialogue: 0,0:05:25.01,0:05:29.01,Top Italics,Ikeda,0000,0000,0000,,I'd say that due to \Nhow narrow the gates are,
+Dialogue: 0,0:05:29.01,0:05:32.56,Top Italics,Ikeda,0000,0000,0000,,the drivers were a bit anxious \Nabout going through at top speed.
+Dialogue: 0,0:05:32.81,0:05:35.52,Top Italics,Ikeda,0000,0000,0000,,The spray was obscuring \Ntheir vision badly enough
+Dialogue: 0,0:05:35.77,0:05:39.73,Top Italics,Ikeda,0000,0000,0000,,for them to want to leave as much of \Na gap as possible to the cars in front.
+Dialogue: 0,0:05:40.58,0:05:43.39,Top Italics,Commentator,0000,0000,0000,,I see. That makes sense.
+Dialogue: 0,0:05:43.76,0:05:48.51,Top Italics,Commentator,0000,0000,0000,,We might be looking at another \Nrare instance of rain-induced behavior.
+Dialogue: 0,0:05:49.74,0:05:52.40,Top Italics,Commentator,0000,0000,0000,,More cars fly through the gate.
+Dialogue: 0,0:05:52.40,0:05:55.86,Top Italics,Commentator,0000,0000,0000,,The race is one-third done\Nas we enter the second lap!
+Dialogue: 0,0:06:21.21,0:06:25.11,Top Italics,Commentator,0000,0000,0000,,The Godly Fifteen's monster machines\N are battling the rain itself!
+Dialogue: 0,0:06:25.11,0:06:27.93,Top Italics,Commentator,0000,0000,0000,,Will only the most \Ntechnically-gifted drivers
+Dialogue: 0,0:06:27.93,0:06:30.45,Top Italics,Commentator,0000,0000,0000,,be able to assert themselves\N from here on out?
+Dialogue: 0,0:06:31.15,0:06:36.51,Italics,Commentator,0000,0000,0000,,Up ahead, Lake Ashinoko's death zone \Nbares its fangs, waiting for fresh prey.
+Dialogue: 0,0:06:57.96,0:06:59.73,Italics,Koki,0000,0000,0000,,I'm ready to do this.
+Dialogue: 0,0:07:00.12,0:07:04.57,Italics,Koki,0000,0000,0000,,The riskiest stretch of the race\N that all the drivers hate...
+Dialogue: 0,0:07:05.05,0:07:06.07,Italics,Koki,0000,0000,0000,,the death zone.
+Dialogue: 0,0:07:07.04,0:07:08.50,Italics,Koki,0000,0000,0000,,I'll make my move there.
+Dialogue: 0,0:07:25.84,0:07:30.26,Top Italics,Commentator,0000,0000,0000,,The leading cars are entering \Nthe death zone for the second time!
+Dialogue: 0,0:07:53.58,0:07:58.16,Top Italics,Commentator,0000,0000,0000,,Sawatari in the 4 is breathing down \Nthe 12's neck like he's chasing it!
+Dialogue: 0,0:07:58.77,0:08:03.75,Top Italics,Commentator,0000,0000,0000,,This is touch and go! You can practically \Nfeel the tension with these risky maneuvers!
+Dialogue: 0,0:08:03.75,0:08:05.71,Top Italics,Commentator,0000,0000,0000,,I daren't look away!
+Dialogue: 0,0:09:46.18,0:09:49.45,Top Italics,Commentator,0000,0000,0000,,And the 4 takes the lead!
+Dialogue: 0,0:09:49.45,0:09:53.27,Top Italics,Commentator,0000,0000,0000,,Beckenbauer has been toppled!
+Dialogue: 0,0:09:57.03,0:09:57.36,Default,Sign,0000,0000,0000,,{\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&HFCFFFC&\move(-146.4,208.8,193.6,208.8)}MF Ghost
+Dialogue: 0,0:09:57.36,0:09:57.57,Default,Sign,0000,0000,0000,,{\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&HFCFFFC&\move(193.6,208.8,333.6,208.8)}MF Ghost
+Dialogue: 0,0:09:57.57,0:09:57.78,Default,Sign,0000,0000,0000,,{\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&HFCFFFC&\move(333.6,208.8,413.6,208.8)}MF Ghost
+Dialogue: 0,0:09:57.78,0:10:00.99,Default,Sign,0000,0000,0000,,{\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&HFCFFFC&\move(413.6,208.8,433.6,208.8,0,200)}MF Ghost
+Dialogue: 0,0:10:02.03,0:10:02.36,Default,Sign,0000,0000,0000,,{\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&HFCFFFC&\move(-150.4,208.8,189.6,208.8)}MF Ghost
+Dialogue: 0,0:10:02.36,0:10:02.57,Default,Sign,0000,0000,0000,,{\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&HFCFFFC&\move(189.6,208.8,329.6,208.8)}MF Ghost
+Dialogue: 0,0:10:02.57,0:10:02.78,Default,Sign,0000,0000,0000,,{\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&HFCFFFC&\move(329.6,208.8,409.6,208.8)}MF Ghost
+Dialogue: 0,0:10:02.78,0:10:03.69,Default,Sign,0000,0000,0000,,{\fad(0,300)\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&HFCFFFC&\move(409.6,208.8,429.6,208.8,0,200)}MF Ghost
+Dialogue: 1,0:10:03.44,0:10:05.99,Default,Sign,0000,0000,0000,,{\fad(300,0)\fax-0.2\bord0\fnImpact\shad0\fs90\b1\c&H017AF5&\pos(429.6,208.8)}MF Ghost
+Dialogue: 0,0:10:03.49,0:10:04.88,Top,Kanata,0000,0000,0000,,MF Ghost.
+Dialogue: 0,0:10:08.07,0:10:11.92,Top Italics,Commentator,0000,0000,0000,,At long last, Beckenbauer has been toppled!
+Dialogue: 0,0:10:11.92,0:10:15.59,Top Italics,Commentator,0000,0000,0000,,We've just seen a remarkable\N change for the lead!
+Dialogue: 0,0:10:15.59,0:10:18.55,Default,Office Worker A,0000,0000,0000,,I'm amazed they didn't crash\N in all that rain.
+Dialogue: 0,0:10:18.55,0:10:23.25,Default,Audience C,0000,0000,0000,,You see luxury cars worth tens of \Nmillions of yen get scrapped all the time
+Dialogue: 0,0:10:23.25,0:10:25.52,Default,Audience C,0000,0000,0000,,after a single slip-up in MFG.
+Dialogue: 0,0:10:25.76,0:10:27.98,Default,Office Worker B,0000,0000,0000,,That's the Godly Fifteen for you.
+Dialogue: 0,0:10:27.98,0:10:30.17,Top Italics,Commentator,0000,0000,0000,,They made contact three times.
+Dialogue: 0,0:10:30.17,0:10:32.65,Top Italics,Commentator,0000,0000,0000,,Ikeda-san, can you \Nbreak down that overtake?
+Dialogue: 0,0:10:33.01,0:10:36.11,Default,Ikeda,0000,0000,0000,,I'm shocked he even tried \Nthat move in the death zone.
+Dialogue: 0,0:10:36.42,0:10:39.39,Default,Ikeda,0000,0000,0000,,It's not as if Beckenbauer made a mistake.
+Dialogue: 0,0:10:39.39,0:10:43.08,Default,Ikeda,0000,0000,0000,,Sawatari-kun just fired it into the turn\N way beyond the limit.
+Dialogue: 0,0:10:43.30,0:10:45.72,Top Italics,Ikeda,0000,0000,0000,,The contact itself was accidental.
+Dialogue: 0,0:10:45.72,0:10:50.50,Top Italics,Ikeda,0000,0000,0000,,The 12 was aiming for the apex \Nof the corner like every driver does,
+Dialogue: 0,0:10:50.50,0:10:54.34,Top Italics,Ikeda,0000,0000,0000,,and didn't anticipate that \Nthe 4 would stick his nose in.
+Dialogue: 0,0:10:54.74,0:10:59.97,Top Italics,Ikeda,0000,0000,0000,,The nudge to the unloaded rear corner\N unbalanced the 12 and sent it wide.
+Dialogue: 0,0:11:00.41,0:11:03.68,Top Italics,Ikeda,0000,0000,0000,,And the time it took to correct\N the slide made all the difference.
+Dialogue: 0,0:11:04.48,0:11:07.22,Top Italics,Ikeda,0000,0000,0000,,The two other times they made contact...
+Dialogue: 0,0:11:07.22,0:11:11.52,Top Italics,Ikeda,0000,0000,0000,,Well, how else can I put it? \NIt was like a clash of emotions.
+Dialogue: 0,0:11:11.94,0:11:16.40,Default,Ikeda,0000,0000,0000,,After clashing over their lines, \Nthe 4 emerged with the advantage...
+Dialogue: 0,0:11:16.40,0:11:21.50,Top Italics,Ikeda,0000,0000,0000,,...letting him floor it \Neven as he brushed the guard rail.
+Dialogue: 0,0:11:22.05,0:11:25.32,Top Italics,Ikeda,0000,0000,0000,,It was an incredible display\N by both drivers.
+Dialogue: 0,0:11:25.64,0:11:31.66,Top Italics,Commentator,0000,0000,0000,,That might have been the most \Ndramatic overtake in MFG history!
+Dialogue: 0,0:11:38.35,0:11:41.85,Italics,Beckenbauer,0000,0000,0000,,I give you credit for forcing me \Nto get serious, even if just for a moment.
+Dialogue: 0,0:11:42.38,0:11:45.26,Italics,Beckenbauer,0000,0000,0000,,But I'll pay you back double\N for that humiliation.
+Dialogue: 0,0:11:45.26,0:11:49.23,Italics,Beckenbauer,0000,0000,0000,,First place is a bad fit \Nfor that cheap French vehicle.
+Dialogue: 0,0:11:49.23,0:11:53.93,Italics,Beckenbauer,0000,0000,0000,,It belongs exclusively to me \Nand my mighty Porsche!
+Dialogue: 0,0:12:01.65,0:12:02.86,Italics,Agnes,0000,0000,0000,,Oh, wow.
+Dialogue: 0,0:12:03.40,0:12:05.82,Italics,Agnes,0000,0000,0000,,Michael actually got overtaken.
+Dialogue: 0,0:12:06.45,0:12:09.61,Italics,Agnes,0000,0000,0000,,I believe that's a first \Nsince he started in MFG.
+Dialogue: 0,0:12:10.12,0:12:13.31,Italics,Agnes,0000,0000,0000,,If he finishes second, \Nit'll be a real shock to the system.
+Dialogue: 0,0:12:15.52,0:12:20.94,Italics,Agnes,0000,0000,0000,,He'll probably hole up in his bedroom for \Ntwo or three days without eating anything.
+Dialogue: 0,0:12:22.31,0:12:26.70,Italics,Agnes,0000,0000,0000,,That boy's absolutely helpless without me.
+Dialogue: 0,0:12:27.59,0:12:32.34,Italics,Agnes,0000,0000,0000,,He's arrogant, self-centered, moody, \Nand he can't express himself very well.
+Dialogue: 0,0:12:33.02,0:12:35.76,Italics,Agnes,0000,0000,0000,,I doubt he'll ever get married.
+Dialogue: 0,0:12:36.63,0:12:40.47,Italics,Agnes,0000,0000,0000,,But when it comes to racing, he never loses.
+Dialogue: 0,0:12:40.47,0:12:43.11,Italics,Agnes,0000,0000,0000,,Because it's the only thing he's good at.
+Dialogue: 0,0:12:44.29,0:12:49.45,Italics,Agnes,0000,0000,0000,,Michael losing in a contest \Nlike that is inconceivable.
+Dialogue: 0,0:13:13.79,0:13:18.77,Italics,Commentator,0000,0000,0000,,{\pos(466,342)}The group vying for third \Napproaches the Mikuni Pass.
+Dialogue: 0,0:13:20.09,0:13:23.74,Top Italics,Commentator,0000,0000,0000,,The six-strong group threads its way\N through the death zone!
+Dialogue: 0,0:14:31.44,0:14:32.30,Italics,Sakamoto,0000,0000,0000,,What the hell?
+Dialogue: 0,0:14:36.74,0:14:40.19,Italics,Sakamoto,0000,0000,0000,,I can't accelerate if you're there, damn it.
+Dialogue: 0,0:14:42.15,0:14:44.61,Italics,Sakamoto,0000,0000,0000,,I know it's a race, \Nbut that's too aggressive, dumbass.
+Dialogue: 0,0:14:44.84,0:14:47.07,Italics,Sakamoto,0000,0000,0000,,You won't make the turn like that.
+Dialogue: 0,0:14:50.91,0:14:51.57,Italics,Sakamoto,0000,0000,0000,,Wha—
+Dialogue: 0,0:14:51.94,0:14:53.04,Italics,Sakamoto,0000,0000,0000,,Drifting?
+Dialogue: 0,0:15:02.82,0:15:08.18,Top Italics,Commentator,0000,0000,0000,,Whoa! It's the Mikuni Pass, \Nand the 86 has the 5 in its sights!
+Dialogue: 0,0:15:08.18,0:15:11.59,Top Italics,Commentator,0000,0000,0000,,There's just no keeping\N Katagiri Kanata quiet.
+Dialogue: 0,0:15:11.59,0:15:16.39,Top Italics,Commentator,0000,0000,0000,,He's making his move \Nfrom the back of the group!
+Dialogue: 0,0:15:16.69,0:15:21.31,Default,Commentator,0000,0000,0000,,Ikeda-san, what's your take on \Nthe overtake the 86 just made?
+Dialogue: 0,0:15:22.27,0:15:28.32,Default,Ikeda,0000,0000,0000,,I can't accurately break down \Nthe maneuver Katagiri-kun just pulled.
+Dialogue: 0,0:15:28.98,0:15:35.28,Default,Ikeda,0000,0000,0000,,For someone like Car 5's Sakamoto Yudai \Nto get swept aside as easily as that...
+Dialogue: 0,0:15:35.72,0:15:38.12,Italics,Ikeda,0000,0000,0000,,One thing I can tell you\Nis the Mikuni Pass
+Dialogue: 0,0:15:38.12,0:15:44.69,Italics,Ikeda,0000,0000,0000,,is a long stretch that climbs uphill \Nbefore a sudden switch to going downhill.
+Dialogue: 0,0:15:44.69,0:15:47.63,Italics,Ikeda,0000,0000,0000,,While racing drivers \Nare good with lateral Gs,
+Dialogue: 0,0:15:47.63,0:15:50.26,Italics,Ikeda,0000,0000,0000,,they don't often have \Nto deal with vertical ones.
+Dialogue: 0,0:15:50.92,0:15:57.47,Top Italics,Ikeda,0000,0000,0000,,In situations like that, no matter how brief,\N people tend to lose their sense of balance.
+Dialogue: 0,0:15:57.87,0:16:03.82,Top Italics,Ikeda,0000,0000,0000,,I think that created the slight opening \Nin Sakamoto-kun's approach to the corner.
+Dialogue: 0,0:16:04.19,0:16:07.88,Top Italics,Ikeda,0000,0000,0000,,And Katagiri-kun didn't let \Nthe opportunity go begging.
+Dialogue: 0,0:16:07.88,0:16:11.98,Top Italics,Ikeda,0000,0000,0000,,I'd almost say he was expecting it,\N and aimed to get it done there.
+Dialogue: 0,0:16:17.30,0:16:23.12,Italics,Keisuke,0000,0000,0000,,My brother drilled that kind of trick \Ninto me back during our Project D days.
+Dialogue: 0,0:16:23.59,0:16:26.50,Italics,Keisuke,0000,0000,0000,,For street racers, it's Overtaking 101.
+Dialogue: 0,0:16:26.98,0:16:32.47,Italics,Keisuke,0000,0000,0000,,This just shows it's been passed down \Nfrom Fujiwara Takumi to Katagiri Kanata.
+Dialogue: 0,0:16:33.27,0:16:34.93,Italics,Keisuke,0000,0000,0000,,But I've got a trick of my own.
+Dialogue: 0,0:16:36.60,0:16:38.60,Italics,Keisuke,0000,0000,0000,,One I'm waiting to unleash.
+Dialogue: 0,0:16:44.99,0:16:49.03,Italics,Seven,0000,0000,0000,,That thing Kanata just did\Nis called drifting, right?
+Dialogue: 0,0:16:50.03,0:16:53.46,Italics,Seven,0000,0000,0000,,I've seen him do it before, but it always\N looks like he's starting to slide.
+Dialogue: 0,0:16:55.04,0:16:58.41,Italics,Moe,0000,0000,0000,,I hope I don't have to move \Nthe lower places around.
+Dialogue: 0,0:16:58.85,0:17:01.62,Italics,Moe,0000,0000,0000,,The Angel Cam always \Nzooms in right on my butt.
+Dialogue: 0,0:17:01.62,0:17:02.56,Default,Uehara,0000,0000,0000,,Something wrong?
+Dialogue: 0,0:17:02.56,0:17:03.71,Default,Moe,0000,0000,0000,,Oh, not at all.
+Dialogue: 0,0:17:03.71,0:17:06.37,Top Italics,Uehara,0000,0000,0000,,And now, a question for Moe-chan.
+Dialogue: 0,0:17:06.66,0:17:09.14,Default,Uehara,0000,0000,0000,,If you could go anywhere, \Nwhere would you go?
+Dialogue: 0,0:17:09.14,0:17:13.09,Default,Moe,0000,0000,0000,,Hm... I wonder...
+Dialogue: 0,0:17:13.96,0:17:18.80,Default,Moe,0000,0000,0000,,Oh, I know! In Asagaya in Tokyo, \Nthere's this famous BBQ place
+Dialogue: 0,0:17:18.80,0:17:22.28,Default,Moe,0000,0000,0000,,that's supposed to be {\i1}impossible{\i0} \Nto get reservations for.
+Dialogue: 0,0:17:22.28,0:17:26.23,Default,Moe,0000,0000,0000,,I'd love to go there, \Neven it's just the one time.
+Dialogue: 0,0:17:26.48,0:17:34.03,Default,Uehara,0000,0000,0000,,BBQ? I was expecting you to give the fans\N a more romantic answer, Moe-chan.
+Dialogue: 0,0:17:34.03,0:17:40.98,Default,Moe,0000,0000,0000,,Aw, my fans all know I love a bit of meat, \Nso I doubt they'll be disappointed.
+Dialogue: 0,0:17:40.98,0:17:45.19,Default,Uehara,0000,0000,0000,,I think General Manager Joyu's \Na regular at that restaurant.
+Dialogue: 0,0:17:45.19,0:17:46.71,Default,Moe,0000,0000,0000,,Really?
+Dialogue: 0,0:17:46.71,0:17:49.07,Top Italics,Uehara,0000,0000,0000,,Maybe you should ask him to take you.
+Dialogue: 0,0:17:49.07,0:17:52.25,Top Italics,Moe,0000,0000,0000,,Please, General Manager?
+Dialogue: 0,0:17:52.25,0:17:56.38,Top Italics,Moe,0000,0000,0000,,Take me to the BBQ place!
+Dialogue: 0,0:17:56.79,0:17:58.79,Default,Staff A,0000,0000,0000,,That's obviously not happening.
+Dialogue: 0,0:17:58.79,0:18:03.35,Default,Staff B,0000,0000,0000,,The general manager's a busy man. \NHe doesn't have the spare time for that.
+Dialogue: 0,0:18:05.86,0:18:09.05,Top Italics,Moe,0000,0000,0000,,Can we, General Manager?
+Dialogue: 0,0:18:09.47,0:18:13.13,Italics,Joyu,0000,0000,0000,,Okay. After they've nailed the \Nchoreography for their new song,
+Dialogue: 0,0:18:13.13,0:18:16.24,Italics,Joyu,0000,0000,0000,,I'll take them all out as a reward.
+Dialogue: 0,0:18:17.65,0:18:20.16,Top Italics,Commentator,0000,0000,0000,,The battle in the death zone continues!
+Dialogue: 0,0:18:21.62,0:18:23.08,Top Italics,Commentator,0000,0000,0000,,Sawatari Koki!
+Dialogue: 0,0:18:23.08,0:18:24.49,Top Italics,Commentator,0000,0000,0000,,Beckenbauer!
+Dialogue: 0,0:18:24.49,0:18:27.26,Top Italics,Commentator,0000,0000,0000,,And Katagiri Kanata!
+Dialogue: 0,0:18:27.71,0:18:30.67,Top Italics,Commentator,0000,0000,0000,,The trio of young lions that \Nhave caught Ikeda-san's eye
+Dialogue: 0,0:18:30.67,0:18:34.05,Top Italics,Commentator,0000,0000,0000,,surge through the rain \Nin Ashinoko's death zone!
+Dialogue: 0,0:18:44.03,0:18:45.10,Italics,Oishi,0000,0000,0000,,What the hell?
+Dialogue: 0,0:18:45.39,0:18:48.56,Italics,Oishi,0000,0000,0000,,Sakamoto's Audi was behind me before.
+Dialogue: 0,0:18:49.12,0:18:51.44,Italics,Oishi,0000,0000,0000,,Where'd this red car come from?
+Dialogue: 0,0:18:52.23,0:18:54.27,Default,Osihi SC,0000,0000,0000,,Booth to Daigo! Do you read me?
+Dialogue: 0,0:18:54.66,0:18:56.90,Italics,Osihi SC,0000,0000,0000,,Keep your wits about you \Naround the 86 behind.
+Dialogue: 0,0:18:57.12,0:18:59.65,Italics,Osihi SC,0000,0000,0000,,It's fast going into the corners.
+Dialogue: 0,0:18:59.65,0:19:03.62,Italics,Osihi SC,0000,0000,0000,,That's how he slipped past the 5. \NIf you're not careful, you'll be next!
+Dialogue: 0,0:19:03.62,0:19:05.23,Italics,Osihi SC,0000,0000,0000,,So be careful! Over!
+Dialogue: 0,0:19:06.29,0:19:10.75,Italics,Oishi,0000,0000,0000,,"Be careful" my ass.\NDon't you have any {\i0}useful{\i1} advice?
+Dialogue: 0,0:19:10.75,0:19:13.50,Italics,Oishi,0000,0000,0000,,This death zone is so slippery.
+Dialogue: 0,0:19:13.50,0:19:18.92,Italics,Oishi,0000,0000,0000,,I'm already pushing as hard as I can.
+Dialogue: 0,0:19:30.81,0:19:33.65,Italics,Oishi,0000,0000,0000,,The stability control just won't let up.
+Dialogue: 0,0:19:33.65,0:19:36.13,Italics,Oishi,0000,0000,0000,,My fronts and rears\Nare slipping and sliding.
+Dialogue: 0,0:19:50.08,0:19:52.04,Italics,Oishi,0000,0000,0000,,Oh, hell. My front's getting away from me.
+Dialogue: 0,0:19:56.96,0:20:01.34,Italics,Oishi,0000,0000,0000,,The downhill slope is too sleep.\NGotta stop it from going into a half-spin!
+Dialogue: 0,0:20:05.76,0:20:07.99,Top Italics,Commentator,0000,0000,0000,,And the 3 spins out!
+Dialogue: 0,0:20:10.89,0:20:14.31,Top Italics,Commentator,0000,0000,0000,,It's now facing the wrong way\N as it slides off the road!
+Dialogue: 0,0:20:16.19,0:20:18.36,Italics,Oishi,0000,0000,0000,,I'm screwed. Game over.
+Dialogue: 0,0:20:26.17,0:20:31.47,Top Italics,Commentator,0000,0000,0000,,Oh, it doesn't look good. \NI don't think he'll be rejoining the race.
+Dialogue: 0,0:20:31.47,0:20:34.28,Top Italics,Commentator,0000,0000,0000,,Oishi Daigo is out!
+Dialogue: 0,0:20:34.69,0:20:37.09,Top Italics,Commentator,0000,0000,0000,,I just hope he's not hurt.
+Dialogue: 0,0:20:37.63,0:20:40.59,Top Italics,Central Audio,0000,0000,0000,,Control Center to the driver\N of Car 3. Do you read?
+Dialogue: 0,0:20:41.47,0:20:45.05,Top Italics,Central Audio,0000,0000,0000,,Please respond! \NIf you're hurt, please let us know.
+Dialogue: 0,0:20:47.51,0:20:51.08,Top Italics,Central Audio,0000,0000,0000,,Driver of Car 3, do you hear me?\N Driver of Car 3!
+Dialogue: 0,0:20:51.45,0:20:54.65,Default,Oishi,0000,0000,0000,,Oishi here. I'm fine.
+Dialogue: 0,0:20:55.47,0:20:57.48,Default,Oishi,0000,0000,0000,,I didn't really hit anything.
+Dialogue: 0,0:20:57.85,0:21:00.32,Default,Oishi,0000,0000,0000,,Hurry up and get me out of here.
+Dialogue: 0,0:21:00.73,0:21:03.03,Top Italics,Commentator,0000,0000,0000,,It looks like Oishi's unharmed.
+Dialogue: 0,0:21:03.03,0:21:04.79,Top Italics,Ikeda,0000,0000,0000,,That's a relief.
+Dialogue: 0,0:21:04.79,0:21:06.49,Default,Crowd,0000,0000,0000,,Thank goodness.
+Dialogue: 0,0:21:06.83,0:21:10.93,Top Italics,Crowd,0000,0000,0000,,Center to Rescue 3, \Nplease retrieve the driver for now.
+Dialogue: 0,0:21:10.93,0:21:15.08,Top Italics,Crowd,0000,0000,0000,,We'll send out a tow truck for\Nthe car once the race is done. Over.
+Dialogue: 0,0:21:19.48,0:21:24.59,Italics,Aiba,0000,0000,0000,,Guess Oishi blew it in his Lambo. \NI'm just glad he's not hurt.
+Dialogue: 0,0:21:25.38,0:21:28.55,Italics,Aiba,0000,0000,0000,,Looks like I've gained\N a position by default.
+Dialogue: 0,0:23:32.59,0:23:37.43,Italics,Narrator,0000,0000,0000,,Next time, Turn 17: A Cruel Reality.
